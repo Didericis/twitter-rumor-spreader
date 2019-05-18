@@ -18,5 +18,3 @@ ARG REACT_APP_API_PORT
 
 RUN yarn build
 RUN yarn global add serve
-
-CMD serve -s build -l tcp://0.0.0.0:80

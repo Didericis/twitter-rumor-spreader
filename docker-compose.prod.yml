@@ -18,3 +18,4 @@ services:
       - api
     environment:
       - REACT_APP_API_PORT=3000
+    command: serve -s build -l tcp://0.0.0.0:80
