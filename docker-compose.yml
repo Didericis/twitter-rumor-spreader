@@ -7,7 +7,7 @@ services:
     ports:
       - 4001:5000
     volumes:
-      - './api/backend:/code/backend'
+      - './api/server:/code/server'
     environment:
       - FLASK_ENV=development
     command: python /code/server/manager.py runserver -h 0.0.0.0 -d

@@ -2,7 +2,7 @@
 
 from flask_script import Manager
 
-from server import application
+from application import application
 
 manager = Manager(application)
 
