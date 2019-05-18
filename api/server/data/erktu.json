@@ -1,0 +1,3856 @@
+{
+    "is_complete": true,
+    "username": "erktu",
+    "retweeted": {
+        "1120013478931177472": {
+            "id": "1120013478931177472",
+            "text": "Really stoked about #Devcon #Islamabad",
+            "username": "josephdelong",
+            "num_likes": 28,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1119366286318948353": {
+            "id": "1119366286318948353",
+            "text": "Apparently we just managed to speed up Geth fast sync by 57%, reduce disk reads by 44% and writes by 26%. Today was a good day for science. \n\nGeth 1.9.0 will kick ass! #golang #Ethereum",
+            "username": "peter_szilagyi",
+            "num_likes": 1042,
+            "num_retweets": 208,
+            "num_replies": 35
+        },
+        "1118161101563334656": {
+            "id": "1118161101563334656",
+            "text": "Deleting Scientific Data:\n\nWatching all of my research data from the past 9 years being deleted\n\nThis includes ALL protocols and procedures for data acquisition and analysis for both of these publications and my next paper\n\nhttps://www.cell.com/iscience/fulltext/S2589-0042(19)30103-8?rss=yes\u00a0\u2026\nhttps://academic.oup.com/endo/article/158/10/3212/3979718\u00a0\u2026pic.twitter.com/sm23akIwMm",
+            "username": "LaurelCoons",
+            "num_likes": 412,
+            "num_retweets": 374,
+            "num_replies": 121
+        },
+        "1117824795729645568": {
+            "id": "1117824795729645568",
+            "text": "I did not attempt to sue @hodlnaut. My nephew was using the computer, please add $BSV back to @binance",
+            "username": "ProfFaustust",
+            "num_likes": 2604,
+            "num_retweets": 343,
+            "num_replies": 408
+        },
+        "1116252991722385408": {
+            "id": "1116252991722385408",
+            "text": "Tired of wading through incessant arguments about governance? Check out GSpot, a simple Chrome extension that replaces the word \"governance\" with the word \"assplay.\" I recommend checking out @VladZamfir's Twitter profile with this extension enabled.\n\nhttps://chrome.google.com/webstore/detail/gspot/aeppjknpegdjfcpamooeeganpjjlkfjj\u00a0\u2026pic.twitter.com/UCxFFuJR6Y",
+            "username": "0xzak",
+            "num_likes": 63,
+            "num_retweets": 12,
+            "num_replies": 4
+        },
+        "1113121897796038656": {
+            "id": "1113121897796038656",
+            "text": "To prove that crypto code can be understandable, I gave my best shot at writing a readable Poly1305 implementation. It tries to explain both what it\u2019s doing and how. (It\u2019s also 75% faster than the current one.)https://blog.filippo.io/a-literate-go-implementation-of-poly1305/\u00a0\u2026",
+            "username": "FiloSottile",
+            "num_likes": 570,
+            "num_retweets": 219,
+            "num_replies": 11
+        },
+        "1113005576571707392": {
+            "id": "1113005576571707392",
+            "text": ".@wuehler, cofounder of @infura_io, chats with the #tachyon19 cohort about infrastructure as a service and additional decentralized storage products in the works.  #Ethereumpic.twitter.com/m3bRzagkAF",
+            "username": "ConsenSysVC",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1113167502333313029": {
+            "id": "1113167502333313029",
+            "text": "I just published @GridPlus Explores International Expansionhttps://medium.com/p/gridplus-explores-international-expansion-8f97ec84b014\u00a0\u2026",
+            "username": "mark_dago",
+            "num_likes": 73,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "1112763425321422848": {
+            "id": "1112763425321422848",
+            "text": "This week we will implement gossip in eth 2.0 with the plumtree (push-lazy-push multicast tree) algorithm after this paper http://asc.di.fct.unl.pt/~jleitao/pdf/srds07-leitao.pdf\u00a0\u2026 with Artemis and Apache Tuweni (Cava)",
+            "username": "_tmio",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1112532414738386944": {
+            "id": "1112532414738386944",
+            "text": "It would be unfortunate if @coinbase becomes the largest staker in #Ethereum 2.0. It is far less concerning than centralization in a PoW chain, but still not ideal. The naive ETH 2.0 validator will gravitate to staking as a service with a large, \u201ctrusted\u201d institution unless\u20261/n",
+            "username": "mark_dago",
+            "num_likes": 43,
+            "num_retweets": 10,
+            "num_replies": 6
+        },
+        "1112774289994993666": {
+            "id": "1112774289994993666",
+            "text": "It's official, @ETHNewYork is taking place at @NewLab in Brooklyn on May 17th-19th. Hacker apps, speaker submissions, and sponsor packs now open! See you there --> http://ethnewyork.com/\u00a0pic.twitter.com/OgLep8EbDz",
+            "username": "infura_io",
+            "num_likes": 36,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1110238695070797824": {
+            "id": "1110238695070797824",
+            "text": "Ethereum Websocket API Upgrade Now Live, improvements to data quality and response consistency, read more..https://blog.infura.io/websocket-api-upgrade-now-live-e3406cc70d14\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 33,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1108583889692487681": {
+            "id": "1108583889692487681",
+            "text": "Should I buy the new AirPods or just leave $199 in the next Uber I take?",
+            "username": "RebeccaSlatkin",
+            "num_likes": 6534,
+            "num_retweets": 669,
+            "num_replies": 143
+        },
+        "1108588284870053888": {
+            "id": "1108588284870053888",
+            "text": "Short reminder that INFURA is deprecating their old URLs and now have a new v3 scheme. Please make sure you have updated to ethers v4.0.22 or later by Wednesday, March 27, 2019 if you use \"InfuraProvider\" or \"getDefaultProvider\". The latest version is v4.0.27.",
+            "username": "ethersproject",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1108545110046846976": {
+            "id": "1108545110046846976",
+            "text": "Our newest experiment, a pure swift implementation of keccak256.https://github.com/yeeth/keccak256.swift\u00a0\u2026",
+            "username": "yeethaf",
+            "num_likes": 25,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1106267212392878080": {
+            "id": "1106267212392878080",
+            "text": "I just published yeeth updates #2https://medium.com/yeeth/yeeth-updates-2-52f564b53d00\u00a0\u2026",
+            "username": "yeethaf",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1106212249134419968": {
+            "id": "1106212249134419968",
+            "text": "Coming soon...pic.twitter.com/PiNaSiz69V",
+            "username": "gridplus",
+            "num_likes": 60,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1105969904770076672": {
+            "id": "1105969904770076672",
+            "text": "JUST IN: Three years in the making, @cosmos, a protocol designed to connect all blockchains, has launched its first network. http://ow.ly/rIas30o2hXQ\u00a0 @christine_dkim reports",
+            "username": "coindesk",
+            "num_likes": 800,
+            "num_retweets": 369,
+            "num_replies": 45
+        },
+        "1105512907788427264": {
+            "id": "1105512907788427264",
+            "text": "Blockcypher is not the only one running Ethereum archive nodes. Besides @infura_io, @etherscan, @MyCrypto, @AlethioEthstats they could have worked with us or @QuikNode to get a database snapshot to get them back up and running. In the future, we're happy to help.",
+            "username": "egalano",
+            "num_likes": 75,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1105259302065856512": {
+            "id": "1105259302065856512",
+            "text": "Pretty stoked to announce that we'll be open sourcing the @Whiteblock platform and hope to continue contributing to the growth of the community. Check out our @GetGitcoin grant page for more info and feel free to contribute if you share our vision!https://gitcoin.co/grants/15/whiteblock-testing-2\u00a0\u2026",
+            "username": "0xzak",
+            "num_likes": 53,
+            "num_retweets": 19,
+            "num_replies": 4
+        },
+        "1105013540874846211": {
+            "id": "1105013540874846211",
+            "text": "How do you incentivize client maintainers? That's by far the most complex piece of the #Ethereum ecosystem, yet everyone seems to take it for granted.",
+            "username": "peter_szilagyi",
+            "num_likes": 29,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1104429112721096706": {
+            "id": "1104429112721096706",
+            "text": "Almost ready to turn in my #ETHParis project!pic.twitter.com/Z34MgxfrtQ",
+            "username": "0xzak",
+            "num_likes": 108,
+            "num_retweets": 16,
+            "num_replies": 14
+        },
+        "1104037240181788674": {
+            "id": "1104037240181788674",
+            "text": "I was using SSH on my smart phone once and I looked up for a moment and thought.. TRUCK!!!!!!!",
+            "username": "climagic",
+            "num_likes": 120,
+            "num_retweets": 21,
+            "num_replies": 7
+        },
+        "1103402429507231744": {
+            "id": "1103402429507231744",
+            "text": "Glass and oatmilk: a perfect match\n\nWe choose to bottle Om\u2076\u2074 using glass to preserve taste and put every beautiful element of our oatmilk on display.\n\n Glass > Paper > Plasticpic.twitter.com/ypQafQaYly",
+            "username": "nomilknomasters",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "1103417769381507074": {
+            "id": "1103417769381507074",
+            "text": "Announcing G\u00f6rli Testnet Support!https://medium.com/p/announcing-g%C3%B6rli-testnet-support-ee887d75437a\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 69,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1103424016184954881": {
+            "id": "1103424016184954881",
+            "text": "And so it begins, libp2p in Swift. https://github.com/yeeth/libp2p.swift\u00a0\u2026pic.twitter.com/ooVGVhnyWt",
+            "username": "DeanEigenmann",
+            "num_likes": 44,
+            "num_retweets": 6,
+            "num_replies": 5
+        },
+        "1102994684987744257": {
+            "id": "1102994684987744257",
+            "text": "We have integrated GRID redemptions into our http://gridplusenergy.com\u00a0 crypto pay widget. All energy customers may now redeem GRID with a more seamless experience.pic.twitter.com/SHc06FkjC0",
+            "username": "gridplus",
+            "num_likes": 31,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1102864070753939456": {
+            "id": "1102864070753939456",
+            "text": "Just waiting for Justin Sun to change his name to Justin Buterin",
+            "username": "sassal0x",
+            "num_likes": 39,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1101528686312996864": {
+            "id": "1101528686312996864",
+            "text": "Are you a student and hesitating on going to EthCC? Infura is proud to be one of the sponsors supporting the student tickets giveaway for the Ethereum Community Conference in Paris. Apply here for a free ticket:https://docs.google.com/forms/d/1wLgRhW9rTH2f0-kCkbeTbiZfpByaydOEESZQ-pVHUlI/\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1101262745092218882": {
+            "id": "1101262745092218882",
+            "text": "Eh, have another semi-periodic reminder that ()() is not a palindrome but ())( is",
+            "username": "_julesh_",
+            "num_likes": 6497,
+            "num_retweets": 1827,
+            "num_replies": 101
+        },
+        "1101710739839111169": {
+            "id": "1101710739839111169",
+            "text": "Welcome to the Homomorphic Encryption Standardization Community! Please follow us @HomomorphicEnc to learn more and retweet to spread the word. We are an open international community of industry, government, and academic professionals working to standardize HomomorphicEncryption!",
+            "username": "HomomorphicEnc",
+            "num_likes": 18,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1101309452160921600": {
+            "id": "1101309452160921600",
+            "text": "Toxic math feeling No.15357: the assumption that the thing you don't understand is actually easy.",
+            "username": "pwr2dppl",
+            "num_likes": 270,
+            "num_retweets": 64,
+            "num_replies": 10
+        },
+        "1100083664023515137": {
+            "id": "1100083664023515137",
+            "text": "We are interested in how Infura fits into people\u2019s work. We'd love to hear from you before we close our survey out on Friday! Take it today at http://sgiz.mobi/s3/Infura-DevExp-Use\u00a0\u2026pic.twitter.com/n9yzmBxLn4",
+            "username": "infura_io",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1099547368909881344": {
+            "id": "1099547368909881344",
+            "text": "Mathematical translation of popular refrains:pic.twitter.com/boJvoji0AM",
+            "username": "manisha72617183",
+            "num_likes": 58,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1098863035639361536": {
+            "id": "1098863035639361536",
+            "text": "Oh yeah, Geth 1.9.0 fresh (fast) sync size just went down from 161GB to 145GB! (Annoying that we were sitting on this change for 6 months, but we need a major version bump for it). #golang #Ethereum\n\nProps to @Gary_Rong, @realLedgerwatch (and me ;P) for finding the redundancies.",
+            "username": "peter_szilagyi",
+            "num_likes": 88,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1099102414664331266": {
+            "id": "1099102414664331266",
+            "text": "Mine is\n10% --- luck\n20% --- skill\n15% --- concentrated power of will\n5% --- pleasure\n50% --- pain\n100% --- to remember the name",
+            "username": "sniko_",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1098535502846648320": {
+            "id": "1098535502846648320",
+            "text": "Whoever owns the early BTC deserves a Nobel prize in delayed gratification",
+            "username": "elonmusk",
+            "num_likes": 6842,
+            "num_retweets": 1152,
+            "num_replies": 206
+        },
+        "1098624740246208512": {
+            "id": "1098624740246208512",
+            "text": "Check out an update on our EthQL progress and our ETHDenver Workshophttps://medium.com/p/ethql-update-and-ethdenver-recap-b99cf9625b2\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 33,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1097293488004182020": {
+            "id": "1097293488004182020",
+            "text": "At the airport. Here\u2019s my private key. Anyone at #ETHDenver can cash in $40. First asshole to scan it can have a few drinks on me at the @MakerDAO party tonight. Compliments of your homies at @Whiteblock.pic.twitter.com/0FqNp7CHPq",
+            "username": "0xzak",
+            "num_likes": 43,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1096534908934078464": {
+            "id": "1096534908934078464",
+            "text": "Just finished up a workshop by @infura_io on EthQL. @egalano and @raggamuffin_rox gave a great summary of the GraphQL API for #Ethereum. They're giving away $3k in in prizes to @EthereumDenver hackers that build on EthQL! Check out the docs:\nhttps://ethql-denver.infura.io/docs/\u00a0pic.twitter.com/abEK7nPnrb",
+            "username": "ethereumJoseph",
+            "num_likes": 45,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1094957188890664960": {
+            "id": "1094957188890664960",
+            "text": "block explorers are like web server logs. If your application points me to one, you\u2019ve made a shitty application.",
+            "username": "DeanEigenmann",
+            "num_likes": 54,
+            "num_retweets": 9,
+            "num_replies": 10
+        },
+        "1094306131067969537": {
+            "id": "1094306131067969537",
+            "text": "broke: pay for software licenses\nwoke: pirate the software \nbespoke: date someone enrolled in university so you get education licenses",
+            "username": "DeanEigenmann",
+            "num_likes": 67,
+            "num_retweets": 5,
+            "num_replies": 4
+        },
+        "1091428614107774976": {
+            "id": "1091428614107774976",
+            "text": "Tweet, tweet - it's your latest What's New in Eth2 \n\nThis week marks the first release of the #Ethereum 2.0 beacon chain specification. It's happening!!!https://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190201.html\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 61,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1091354549758103552": {
+            "id": "1091354549758103552",
+            "text": "In case you missed it yesterday at #GoerliCon here is the link to the public repo for our new devp2p tool! https://github.com/infura/devp2p-network\u00a0\u2026 #opensource #ethereumhttps://twitter.com/thegrifft/status/1090987011878633474\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1086322479339954176": {
+            "id": "1086322479339954176",
+            "text": "There's an insane amount of work happening on Eth 2.0 clients. \n\nFrom 7 teams (@prylabs, @ChainSafeth, @PegaSysEng, @sigp_io, @ParityTech, @ethstatus, Trinity) there have been 55 contributors and 893 commits in just the past 30 days.",
+            "username": "econoar",
+            "num_likes": 113,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "1085769958003490820": {
+            "id": "1085769958003490820",
+            "text": "Want to be an #ethereum core dev?  Don't make me beg.  We want you.  Check out our help wanted issues on GitHub:  \nhttps://github.com/PegaSysEng/artemis/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted+%F0%9F%86%98%22\u00a0\u2026\n\nCome chat with us on Gitter: \nhttps://gitter.im/PegaSysEng/artemis\u00a0\u2026pic.twitter.com/Hf2gYwdBgc",
+            "username": "JonnyRhea",
+            "num_likes": 31,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1085922471960866816": {
+            "id": "1085922471960866816",
+            "text": "A guide to Ethereum nodes:\n\nFull nodes\n\"This is what happened in the past\"\n\nArchival nodes\n\"This is what it looked like in the past\"\n\nLight clients\n\"Is the past legit? Okay, cool\"",
+            "username": "fubuloubu",
+            "num_likes": 83,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1085306407698739200": {
+            "id": "1085306407698739200",
+            "text": "Infura will support the Constantinople Postponement and is actively working on updating its infrastructure to adjust to this new release. Read more about it here: https://blog.infura.io/security-alert-ethereum-constantinople-postponement-d4549b1a7409\u00a0\u2026 #Ethereum #Constantinople",
+            "username": "infura_io",
+            "num_likes": 57,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1084906216189349888": {
+            "id": "1084906216189349888",
+            "text": "separately from the @infura_io nodes, i\u2019ve spun up Geth 1.8.20 and Parity 2.2.6 to support the Constantinople network upgrade. looking forward to block 7,080,000",
+            "username": "maurycy",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1084917820398301184": {
+            "id": "1084917820398301184",
+            "text": "Lots of people spread FUD about the state growth of the Ethereum network. Few care to dig deeper and see that the community is actively working on solutions. This is how the innovative spirit of the Ethereum community pushes the tech forward.https://twitter.com/ajsutton/status/1084608162106359810\u00a0\u2026",
+            "username": "egalano",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1083784547567718401": {
+            "id": "1083784547567718401",
+            "text": "Last day at #CES19! Come by #SmartCities in the Westgate and get a demo of how the #Lattice1 is a gateway to securely using cryptocurrency.pic.twitter.com/w8KB31j7AE",
+            "username": "gridplus",
+            "num_likes": 37,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1083370846914269185": {
+            "id": "1083370846914269185",
+            "text": "Today is my 3rd anniversary of joining @ConsenSys and starting to build this thing that we now call @uport_me. I'm extraordinarily happy with all the wonderful meshies I've worked here and my own uporteros. Next year will be exciting. uPort is no longer an experiment.",
+            "username": "PelleB",
+            "num_likes": 81,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1083362382603321345": {
+            "id": "1083362382603321345",
+            "text": "FYI, Whisper v5's scheduled end of life on March 1st, 2019. Please upgrade to v6.",
+            "username": "gballet",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1082986561304702976": {
+            "id": "1082986561304702976",
+            "text": "Rinkeby #Ethereum testnet successfully forked over to Constantinople! All signers, bootnodes, faucet online and working well. Clean split between new and non-upgraded nodes (please update!). pic.twitter.com/o4hlHHEjss",
+            "username": "peter_szilagyi",
+            "num_likes": 711,
+            "num_retweets": 236,
+            "num_replies": 17
+        },
+        "1082336004369985538": {
+            "id": "1082336004369985538",
+            "text": "I am writing the second version of the \"State rent\" proposal. Based on the experience with the first one, I changed the style, trying to introduce things more logically (WIP):https://github.com/ledgerwatch/eth_state/blob/master/State_size_growth_management.pdf\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 56,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1081714425894031361": {
+            "id": "1081714425894031361",
+            "text": "Understanding the difference between a full node and an archive node doesn't have to be difficult. By comparison with your bank account, a full node has a record of every transaction in or out of your account. An archive node also stores the balance after each transaction.",
+            "username": "nicksdjohnson",
+            "num_likes": 95,
+            "num_retweets": 21,
+            "num_replies": 4
+        },
+        "1081983586528579584": {
+            "id": "1081983586528579584",
+            "text": "Super proud of all the @ConsenSys-driven enterprise #Ethereum development that happened in 2018. Pantheon by @PegaSysEng, the @Kaleido_io Blockchain Marketplace, commodities financing with @IoKomgo, @Ondiflo_DApp automating oil & gas ticketing, more here:https://media.consensys.net/a-look-back-at-2018-the-year-of-enterprise-ethereum-536552573c60\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 166,
+            "num_retweets": 51,
+            "num_replies": 4
+        },
+        "1081398670405251072": {
+            "id": "1081398670405251072",
+            "text": "Omg is it common knowledge that new Canadian currency can play records? Because I just found this out. (Unclear if it only works on Guess Who albums. More testing required.)pic.twitter.com/r5DBfnr1zg",
+            "username": "CBCFletch",
+            "num_likes": 1397,
+            "num_retweets": 583,
+            "num_replies": 74
+        },
+        "1081202432300982278": {
+            "id": "1081202432300982278",
+            "text": "Today, @ConsenSys and @AMD have announced collaboration on developing high-performance hardware technologies capable of better scaling and proliferating decentralized networks, especially for large corporations and governments. #W3BCLOUD https://content.consensys.net/wp-content/uploads/W3BCLOUD-.pdf\u00a0\u2026pic.twitter.com/Vq7XMFo9uH",
+            "username": "ethereumJoseph",
+            "num_likes": 573,
+            "num_retweets": 180,
+            "num_replies": 15
+        },
+        "1078389807472996353": {
+            "id": "1078389807472996353",
+            "text": "Do you want to brush up on your #ethereum knowledge? @lucascrsaldanha has you covered. Check out his Ethereum Explained blogpost dissecting the Ethereum Yellow Paper!https://pegasys.tech/ethereum-explained-merkle-trees-world-state-transactions-and-more/\u00a0\u2026",
+            "username": "PegaSysEng",
+            "num_likes": 169,
+            "num_retweets": 62,
+            "num_replies": 6
+        },
+        "1075418042467635200": {
+            "id": "1075418042467635200",
+            "text": "Time to get up , show up , drink water , make your bed and love life",
+            "username": "hondadeal4vets",
+            "num_likes": 1673,
+            "num_retweets": 501,
+            "num_replies": 2
+        },
+        "1075181710730506240": {
+            "id": "1075181710730506240",
+            "text": "Just sent 1000 eth. Yolo.\n\nhttps://etherscan.io/tx/0x5c46e971d712752de929123a54e282ea3e5c5ec2a2c6aa709efec5cd9d8a2544\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 1572,
+            "num_retweets": 270,
+            "num_replies": 211
+        },
+        "1073289323611590656": {
+            "id": "1073289323611590656",
+            "text": "It's a Web3 world out there! @Opera for Android becomes a native Ethereum Browser with a built-in crypto wallet. Check out their \"Why Web3\" video with @ethereumJoseph @airswap and @infura_io https://youtu.be/YszeFIyJIcI\u00a0 #operacrypto",
+            "username": "infura_io",
+            "num_likes": 49,
+            "num_retweets": 14,
+            "num_replies": 5
+        },
+        "1073206969568251904": {
+            "id": "1073206969568251904",
+            "text": "We think it\u2019s time for you to know what #Web3 is. Check out our video with the founder of @ConsenSys and co-founder of @ethereum @ethereumJoseph and learn why we\u2019ve developed Opera browser for Android with a built-in crypto wallet: https://opr.as/thefu02a3f\u00a0\n#Operacrypto",
+            "username": "opera",
+            "num_likes": 97,
+            "num_retweets": 32,
+            "num_replies": 8
+        },
+        "1070937147895619584": {
+            "id": "1070937147895619584",
+            "text": "Companies that are hiring:\n- @ZeppelinOrg \n- @golemproject \n- @AragonProject \n- @neufundorg \n- @gnosisPM \n- @Chainzillaio \n- @web3foundation \n- @ParityTech \n- @BeaxyExchange \nWe\u2019re putting up a list for the people downsized. Are you hiring? A lot of talent is on the loose! DM me!",
+            "username": "MPtherealMVP",
+            "num_likes": 532,
+            "num_retweets": 153,
+            "num_replies": 48
+        },
+        "1071102351522566144": {
+            "id": "1071102351522566144",
+            "text": "The first Cellarius story anthology is almost here and we are proud to announce the cover! The great Dan Dos Santos created the design and we hope you love it as much as we do. Look for more news about the launch of WHOSE FUTURE IS IT and ways to get the book on Dec. 11thpic.twitter.com/V0XAQuiu4u",
+            "username": "Cellarius2084",
+            "num_likes": 57,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "1070368794273607682": {
+            "id": "1070368794273607682",
+            "text": "\"Run your own node!\" was never a good motto to me, because they are resource intensive pieces of software that I simply do not need to think about to develop smart contracts with, because they exist at a different layer of the web3 stack than I care about\n\nInfura let's me do that",
+            "username": "fubuloubu",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1070872021255503872": {
+            "id": "1070872021255503872",
+            "text": "I'm still reeling from the death of Prof. Shoucheng Zhang, discoverer of the quantum spin hall effect, founder of DHVC, physics professor at Stanford. Condolences to all who knew him and the extended crypto family.",
+            "username": "el33th4xor",
+            "num_likes": 132,
+            "num_retweets": 17,
+            "num_replies": 5
+        },
+        "1070375183297372160": {
+            "id": "1070375183297372160",
+            "text": "since the Ontario sex-ed curriculum has gone back in time, you can \"learn\" about sex the way teens in the '90s did: all the American Pie movies are now on Netflix",
+            "username": "Netflix_CA",
+            "num_likes": 32421,
+            "num_retweets": 9161,
+            "num_replies": 739
+        },
+        "1069675893776359424": {
+            "id": "1069675893776359424",
+            "text": "EXCLUSIVE: In a letter last Fri., @ethereumJoseph told employees that ConsenSys was reorganizing. \"In ConsenSys 1.0, we built a laboratory instrumented to prove the moon existed,\" he wrote. \"Now we need a streamlined rocketship to get us there.\"https://buff.ly/2re6JKS\u00a0 @brianeha",
+            "username": "BreakerMag",
+            "num_likes": 67,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1068933986821595137": {
+            "id": "1068933986821595137",
+            "text": "#Blockchain is more than a market. It\u2019s a movement.",
+            "username": "ethereumJoseph",
+            "num_likes": 2462,
+            "num_retweets": 883,
+            "num_replies": 117
+        },
+        "1068820883605733377": {
+            "id": "1068820883605733377",
+            "text": "nope, not kidding https://twitter.com/BenLLS/status/1068647098533392385\u00a0\u2026",
+            "username": "JohnLilic",
+            "num_likes": 24,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "1068544010354999296": {
+            "id": "1068544010354999296",
+            "text": "6. A hentai waifu pillow drop shipping company",
+            "username": "0xzak",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1067860588045484033": {
+            "id": "1067860588045484033",
+            "text": "It is done: @gnosisSafe is on mainnet! The most easy to use multisig & first smart contract based wallet for end-users. It took us over one year of hard work. Very happy for our team and excited for the future. This building block will enable many new possibilities. #BUIDLhttps://twitter.com/gnosisPM/status/1067795270933590016\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 195,
+            "num_retweets": 47,
+            "num_replies": 6
+        },
+        "1068062864622186498": {
+            "id": "1068062864622186498",
+            "text": "Wow! OMGhttps://twitter.com/feross/status/1068038193868460032\u00a0\u2026",
+            "username": "feindura",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1067700719711604736": {
+            "id": "1067700719711604736",
+            "text": "If you ever wondered where we're getting the fancy performance charts and numbers, here's a screenshot of what we're looking at daily when implementing ideas :) #golang #Ethereum\nhttps://user-images.githubusercontent.com/142290/49137029-983a6400-f2eb-11e8-8338-445c05f59cc9.png\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 53,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1067179135833845760": {
+            "id": "1067179135833845760",
+            "text": "I can't wait for this weekend! This is a stepping to a much larger effort to incentivize grass-roots environmental impact, where money flows DIRECTLY to stakeholders on the ground impacting change. What would YOU bounty?https://twitter.com/ethereumJoseph/status/1067176872000278528\u00a0\u2026",
+            "username": "MarkBeylin",
+            "num_likes": 29,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1066151076695396353": {
+            "id": "1066151076695396353",
+            "text": "My long-form take on Ethereum 1.x:https://ethereum-magicians.org/t/ethereum-1-dot-x-a-half-baked-roadmap-for-mainnet-improvements/1995\u00a0\u2026",
+            "username": "cdetrio",
+            "num_likes": 137,
+            "num_retweets": 49,
+            "num_replies": 3
+        },
+        "1064034649679118336": {
+            "id": "1064034649679118336",
+            "text": "More than being just another testnet, Goerli is proving to be a great environment for collaborative development and cross-team communication and coordination. I've transitioned from optimistic to bullish. The term collabnet actually feels more appropriate. http://stats.goerli.net\u00a0",
+            "username": "egalano",
+            "num_likes": 37,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1063497892592267264": {
+            "id": "1063497892592267264",
+            "text": "I am the real #Satoshi but I put my private keys in Evernote and now they are suspiciously missing.",
+            "username": "ProfFathead",
+            "num_likes": 71,
+            "num_retweets": 7,
+            "num_replies": 7
+        },
+        "1063601906185109504": {
+            "id": "1063601906185109504",
+            "text": "Now @wuehler presenting the @infura_io story. #Tachyon18pic.twitter.com/IWIQEbuq37",
+            "username": "FISSIONcodes",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1063572376988934149": {
+            "id": "1063572376988934149",
+            "text": "It's in our best interest to lower the costs and requirements of running a node. It's a problem that is being addressed slowly but surely. We're working with @realLedgerwatch on things like TurboGeth to test state db optimizations. @quickblocks is also interested in this problem",
+            "username": "egalano",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1062776544282607616": {
+            "id": "1062776544282607616",
+            "text": "The Infura Dashboard is now live! Login to setup your application and see usage stats. Head here for more info: https://blog.infura.io/infura-dashboard-update-9f02d0643eb3\u00a0\u2026pic.twitter.com/LSVFiYrdUx",
+            "username": "infura_io",
+            "num_likes": 30,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1062265105444941824": {
+            "id": "1062265105444941824",
+            "text": "#golang #Ethereum optimization waiting for merge (blue = master, purple = proposal, mainnet head) pic.twitter.com/3KK812C7ki",
+            "username": "peter_szilagyi",
+            "num_likes": 235,
+            "num_retweets": 38,
+            "num_replies": 11
+        },
+        "1060631829479350274": {
+            "id": "1060631829479350274",
+            "text": "We've prepared the DAppNodePackages so anyone can run their favorite client on @DAppNode to connect to the #goerli testnet with two clicks. Now you can have a G\u00f6rli node with Geth or Phanthon (@PegaSysEng), and I hope soon the @ParityTech version pic.twitter.com/bmcUxXEoLE",
+            "username": "eduadiez",
+            "num_likes": 24,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1059826211709509632": {
+            "id": "1059826211709509632",
+            "text": "#Ethereum was created by rockstar developers. If we want to expand its reach, we need to switch layer 0 over to engineering. To start, I'd like to propose the Ethereum Engineering Effort https://github.com/karalabe/eee\u00a0 (I'll move the repo if there's traction). Curious what you all think!",
+            "username": "peter_szilagyi",
+            "num_likes": 172,
+            "num_retweets": 47,
+            "num_replies": 5
+        },
+        "1058400386682368000": {
+            "id": "1058400386682368000",
+            "text": "Presentation of Turbo-Geth at devcon4:https://github.com/AlexeyAkhunov/papers/blob/master/TurboGeth-Devcon4.pdf\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 83,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "1058373047097417728": {
+            "id": "1058373047097417728",
+            "text": "Infura team on the last day of Devcon4. Congrats to @EFDevcon on a great experience. Not pictured @wuehler @WaverlyMavenpic.twitter.com/vmDq9BGto7",
+            "username": "infura_io",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1057892554753089536": {
+            "id": "1057892554753089536",
+            "text": "Formal verification of @gnosisSafe contracts conducted by @rv_inc and funded by @ethereumecf and @gnosisPM is almost completed. @gnosisSafe will be the first formally verified multisig.https://twitter.com/PichlerD/status/1057648543018741761\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 84,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1056850863786999810": {
+            "id": "1056850863786999810",
+            "text": "Infura team in Prague this week for Devcon4: @erktu @egalano @wuehler @WaverlyMaven @godofthesey @maurycy . Looking forward to all the meetings and events\u2014make sure to say hello!",
+            "username": "infura_io",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1056583186082189314": {
+            "id": "1056583186082189314",
+            "text": "Good core devs hover hands only #noflirtingathackathons @hrdwrknvrstpspic.twitter.com/sxEt1vxUMb",
+            "username": "renelubov",
+            "num_likes": 32,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "1056324257645580288": {
+            "id": "1056324257645580288",
+            "text": "Come join us at the [devcon iv] Open Hearts & Open Minds Party on Oct 30th! We're co-hosting with @SpankChain @ethstatus @wearekickback @cellarius2084 #devcon4\u00a0https://www.eventbrite.com/e/devcon-iv-open-hearts-open-minds-panel-party-tickets-51596637933\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 24,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1055398447921225728": {
+            "id": "1055398447921225728",
+            "text": "We are happy to announce Joanna Rutkowska is joining Golem as Chief Strategy/ Security Officer. Read more about it on our blog. https://blog.golemproject.net/joanna-rutkowska-joins-golem-as-chief-strategy-security-officer-13f12f0c11c0\u00a0\u2026",
+            "username": "golemproject",
+            "num_likes": 265,
+            "num_retweets": 55,
+            "num_replies": 12
+        },
+        "1051894715761725445": {
+            "id": "1051894715761725445",
+            "text": "Finally, @ricmoo gets a grant from the Ethereum foundation for his work on EtherJS! Congrats and well deserved, such an important tool.https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/\u00a0\u2026",
+            "username": "PhABCD",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1049691290470948864": {
+            "id": "1049691290470948864",
+            "text": "Announcing Keynote Joseph Lubin (@ethereumJoseph) & Featured Speakers @Wyclef Jean, @MariaShriver, @ZoeSaldana, @HowardSchultz and more for #SXSW 2019!http://ow.ly/skwY30ma4Kl\u00a0",
+            "username": "sxsw",
+            "num_likes": 568,
+            "num_retweets": 115,
+            "num_replies": 16
+        },
+        "1049375267838255106": {
+            "id": "1049375267838255106",
+            "text": "I was the one smoking weed, flirting with girls and talking prizes at ETHSanFrancisco.",
+            "username": "ShasperS",
+            "num_likes": 81,
+            "num_retweets": 6,
+            "num_replies": 6
+        },
+        "1048017154766000129": {
+            "id": "1048017154766000129",
+            "text": "So, Nobel Prize winner Dr. Donna Strickland is amazing. \n\nhttps://www.therecord.com/news-story/8943888-scientist-caught-in-a-nobel-whirlwind/\u00a0\u2026pic.twitter.com/URj735v80X",
+            "username": "MileahKromer",
+            "num_likes": 3490,
+            "num_retweets": 1259,
+            "num_replies": 37
+        },
+        "1047873843023548417": {
+            "id": "1047873843023548417",
+            "text": "Via community decision, we've delayed the #Ethereum Ropsten testnet Constantinople hard fork by 1 epoch to block #4230000 (+5 days) to allow clients to implement, test and release an update to CREATE2, countering a recently found EVM DoS attack vector.https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1014.md#gas-cost\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 235,
+            "num_retweets": 107,
+            "num_replies": 41
+        },
+        "1048329299177037824": {
+            "id": "1048329299177037824",
+            "text": "I just cancelled my reservation at @Marriott in SF and booked a new hotel through @HotelTonight . Not willing to cross that picket line. If you're here for #EthSF Please consider doing the same! @UniteHereLocal2",
+            "username": "egalano",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1044702173525770245": {
+            "id": "1044702173525770245",
+            "text": "Been a long time coming, but MetaMask now supports Ledger Hardware Wallets, thanks to @brunobar79https://medium.com/metamask/metamask-now-supports-ledger-hardware-wallets-847f4d51546\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 574,
+            "num_retweets": 196,
+            "num_replies": 25
+        },
+        "1044244423213805568": {
+            "id": "1044244423213805568",
+            "text": "Come hack with us! Infura co-founder @egalano will be a judge at the @ethsanfrancisco hackathon (Oct 5th-7th). Signup as a hacker:https://ethsanfrancisco.com\u00a0",
+            "username": "infura_io",
+            "num_likes": 24,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1043670604665184256": {
+            "id": "1043670604665184256",
+            "text": "#StateofScale was a success! Post event photo.pic.twitter.com/Rz602XOXTW",
+            "username": "williamb3ntley",
+            "num_likes": 34,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1043178472733065216": {
+            "id": "1043178472733065216",
+            "text": "BOOM. Groundbreaking milestone. The tireless @gridplus_energy team has begun supplying power to their first four customers! Head to http://gridplus.io/\u00a0 to read more on the Lattice1 hardware agent, scalability efforts, and the conquest to give consumers power over their power.https://twitter.com/gridplus/status/1043145190322696192\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 262,
+            "num_retweets": 77,
+            "num_replies": 6
+        },
+        "1043169449673547777": {
+            "id": "1043169449673547777",
+            "text": "Steve Ballmer (drenched in sweat): DEVELOPERS! DEVELOPERS! DEVELOPERS! DEVELOPERS! DEVELOPERS! DEVELOPERS! DEVELOPERS! DEVELOPERS!\n\nMe (bleeding profusely): AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS! AUDITORS!",
+            "username": "maurelian_",
+            "num_likes": 45,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1040623569254801409": {
+            "id": "1040623569254801409",
+            "text": "Devcon IV is going to be big. Sign up for our hackathon to help build the future of Enterprise Ethereum. Prague, Nov 3-4th.\n\nhttps://pegasys.tech/hackathon\u00a0pic.twitter.com/D4Ah59KpOZ",
+            "username": "PegaSysEng",
+            "num_likes": 27,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1042181245243801601": {
+            "id": "1042181245243801601",
+            "text": "We didn't announce it in the blog post, but the @Cloudflare Distributed Web Gateway also has support for IPNS, a way to dynamically address names in IPFS. For example: https://cloudflare-ipfs.com/ipns/olus.io/index.html\u00a0\u2026\n#CryptoWeek",
+            "username": "grittygrease",
+            "num_likes": 66,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "1042149060470173697": {
+            "id": "1042149060470173697",
+            "text": "cccccchtnrvlnivdecdtnldvktbcchnhgligltuelidbhttps://twitter.com/ladygaga/status/266036172122365952\u00a0\u2026",
+            "username": "Yubico",
+            "num_likes": 1499,
+            "num_retweets": 372,
+            "num_replies": 36
+        },
+        "1042269548433465344": {
+            "id": "1042269548433465344",
+            "text": "Damn I thought this @infura_io shirt was cool in person but it\u2019s nuts on a camerapic.twitter.com/0GNyKaGIcd",
+            "username": "spencecoin",
+            "num_likes": 51,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1038919152826757122": {
+            "id": "1038919152826757122",
+            "text": "Quick phishing demo. Would you fall for something like this?pic.twitter.com/phONMKHBle",
+            "username": "musalbas",
+            "num_likes": 7987,
+            "num_retweets": 4863,
+            "num_replies": 386
+        },
+        "1038784505140731907": {
+            "id": "1038784505140731907",
+            "text": "No.\n\nEthereum from the very beginning was meant to switch to POS.\nETH will be required for staking. Stakers can sell the right to include transactions in a block. Thus ETH is valuable if you think there is future demand for transactions on Ethereum.https://twitter.com/real_vijay/status/1038646631774576640\u00a0\u2026",
+            "username": "koeppelmann",
+            "num_likes": 209,
+            "num_retweets": 47,
+            "num_replies": 7
+        },
+        "1037743234506731520": {
+            "id": "1037743234506731520",
+            "text": "Super proud to see @ConsenSys recognized by @LinkedIn as one of the Top 50 Startups in the US. I'm honored to be a part of such a collaborative, open-minded, and ambitious group of builders!https://www.linkedin.com/pulse/linkedin-top-startups-2018-50-most-sought-after-us-26-50-daniel-roth/\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 473,
+            "num_retweets": 117,
+            "num_replies": 16
+        },
+        "1037792042364153858": {
+            "id": "1037792042364153858",
+            "text": "Rinkeby consensus post-mortemhttps://blog.infura.io/rinkeby-consensus-post-mortem-4abbcace0539\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 21,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1037451233643122688": {
+            "id": "1037451233643122688",
+            "text": "\"Blockchain: Foundations and Use Cases\" is live today on @coursera! \n\nFeaturing our own blockchain experts like @melove_07, @jpackel, @ConsenSysAndrew and also some of our best projects like @uport_me, @viant_io, @MeridioRE, & @UjoMusic. Enroll today!https://goo.gl/Lj35SA\u00a0",
+            "username": "aditi_sriram",
+            "num_likes": 17,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1037443137457848321": {
+            "id": "1037443137457848321",
+            "text": "We've detected that the Rinkeby network is currently stalled due to an apparent consensus issue. We are working with the other signer nodes on a resolution. We will post an update when we have more details.",
+            "username": "infura_io",
+            "num_likes": 36,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "1035476805417922563": {
+            "id": "1035476805417922563",
+            "text": "A theoretical foundation for something we developed out of intuition: \"Channel Auctions\" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3241744\u00a0\u2026\nCombining falling (dutch) and rising (english) price auctions. In the #DutchX we do 2 parallel dutch auctions (A->B & B->A) - effectively a channel auction. @glenweyl",
+            "username": "koeppelmann",
+            "num_likes": 31,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1035194284004257792": {
+            "id": "1035194284004257792",
+            "text": "Eating sugar always reminds me of Zcash because @zooko can't see my digestive circuit or inputs, but my waistline serves as a very nice proof #zkKeto",
+            "username": "IAmNickDodson",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1035213498031198208": {
+            "id": "1035213498031198208",
+            "text": "Really excited to start rolling out the @Cellarius2084 alpha! Stay tuned in the coming weeks :) #whosefutureisit @ConsenSyspic.twitter.com/NbLBAAxR5g",
+            "username": "ililic",
+            "num_likes": 144,
+            "num_retweets": 21,
+            "num_replies": 6
+        },
+        "1035243505763868672": {
+            "id": "1035243505763868672",
+            "text": "Planning to be at Devcon IV in Prague? \n\nWe're excited to announce our EntEth hackathon celebrating the launch of Pantheon, co-sponsored by the EEA! More info on our website:\n\nhttps://pegasys.tech/hackathon\u00a0",
+            "username": "PegaSysEng",
+            "num_likes": 28,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1034819816736153605": {
+            "id": "1034819816736153605",
+            "text": "Drink more water",
+            "username": "hondadeal4vets",
+            "num_likes": 1740,
+            "num_retweets": 732,
+            "num_replies": 20
+        },
+        "1030747364775092224": {
+            "id": "1030747364775092224",
+            "text": "Wireshark dissectors for #ethereum devp2p protos: https://media.consensys.net/releasing-wireshark-dissectors-for-ethereum-%C3%B0%CE%BEvp2p-protocols-215c9656dd9c\u00a0\u2026. Finally! Much kudos to @raulvk!",
+            "username": "mhswende",
+            "num_likes": 37,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1029129816845570049": {
+            "id": "1029129816845570049",
+            "text": "New #Infura documentation now live go check them out! Thanks to @rahulrumalla for the great work via @GetGitcoin #Ethereum #RPC #API #WebSockets #IPFShttps://blog.infura.io/new-and-improved-infura-documentation-d50368e92da0\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 47,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1029046736650567680": {
+            "id": "1029046736650567680",
+            "text": "Things are changing. @ConsenSys showing supporting tweeting love for @parity & vice versa. The price of $eth might be crashing but the effort, cohesion, collaboration, community & focus on #BUIDL grows stronger every day. Mark my words; #Ethereum work ethic will not falter.pic.twitter.com/KUhZxIHqYu",
+            "username": "JohnLilic",
+            "num_likes": 318,
+            "num_retweets": 74,
+            "num_replies": 16
+        },
+        "1028666121107460096": {
+            "id": "1028666121107460096",
+            "text": "Team @infura_io @erktu bring us an ens social network with PinaColadaEth at the #enshack #ENSCocktailpic.twitter.com/2Pcaw6i6TU",
+            "username": "zinc_work",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1028059730315341824": {
+            "id": "1028059730315341824",
+            "text": "This is extremely pleasing.https://twitter.com/jezzamonn/status/1025849287580610560\u00a0\u2026",
+            "username": "3blue1brown",
+            "num_likes": 766,
+            "num_retweets": 185,
+            "num_replies": 4
+        },
+        "1027924517308391425": {
+            "id": "1027924517308391425",
+            "text": "Woot... 3 concurrent streams on @LivepeerTV from @ethereum #community!\n\nEnd of day 1 @ETHIndiaco hackathon, Bangalore http://www.livepeer.tv\u00a0\n\nBreaktime @ensdomains workshop, London http://ens.livepeer.tv\u00a0\n\nTech chat @ethereum Core Devs call, Global http://crypto.livepeer.tv\u00a0pic.twitter.com/HkW7cJVhuG",
+            "username": "LivepeerTV",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1027898918380625920": {
+            "id": "1027898918380625920",
+            "text": "For anyone in the Greater Toronto Area, the next Meetup block has been mined and it's called \"Block 4 : Scalable Web3 Development\". It's happening on August 14th at @rangleio. Check the link below for details. It's going to be great!https://block4.splashthat.com/\u00a0",
+            "username": "zigguratt",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1027616909842239488": {
+            "id": "1027616909842239488",
+            "text": "https://blog.gridplus.io/introducing-the-grid-lattice1-bc4ff6df5321\u00a0\u2026",
+            "username": "gridplus",
+            "num_likes": 129,
+            "num_retweets": 52,
+            "num_replies": 9
+        },
+        "1026979337613058053": {
+            "id": "1026979337613058053",
+            "text": "Finally published the libsnark zk-SNARK tutorial I wrote in collaboration with Sam Mayo! Take a look! https://github.com/christianlundkvist/libsnark-tutorial\u00a0\u2026",
+            "username": "ChrisLundkvist",
+            "num_likes": 74,
+            "num_retweets": 24,
+            "num_replies": 5
+        },
+        "1026497580845301761": {
+            "id": "1026497580845301761",
+            "text": "In the news! #developers don't be left behind, someone will get the big prizes! >$50K at stake.https://twitter.com/blockchainbeach/status/1026495405641486337\u00a0\u2026",
+            "username": "wyohackathon",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1021725839958790144": {
+            "id": "1021725839958790144",
+            "text": "just spent like probably only 20m installing the #ethql alpha and getting learned on how to spin up some queries. and I'm extremely happy to report that queries that would have taken me days or like.. forever to do take like 30s, thank you based @PegasysEng @infura_io @ConsenSys",
+            "username": "ne_wnormal",
+            "num_likes": 29,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1021413042884505600": {
+            "id": "1021413042884505600",
+            "text": "We reject: kings, presidents and voting.\n    We believe in: rough consensus and running code.\n    -- David Clark\n\n    Our leaders are but trusted servants, they do not govern.\n    -- Alcoholics Anonymous\n\n    Anarchy is law and freedom without force.\n    -- Immanuel Kant",
+            "username": "greg_colvin",
+            "num_likes": 65,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1020254892815011840": {
+            "id": "1020254892815011840",
+            "text": "Now available: the EthQL Alpha from @PegaSysEng and @Infura_io. Check it out here: https://ethql-alpha.infura.io/graphql\u00a0pic.twitter.com/mh0nXJpkiS",
+            "username": "PegaSysEng",
+            "num_likes": 89,
+            "num_retweets": 40,
+            "num_replies": 5
+        },
+        "1020355346496307200": {
+            "id": "1020355346496307200",
+            "text": "EthQL and Infura. Beyond the JSON-RPC API. More details in the coming weeks.https://twitter.com/raulvk/status/1020277985780346880\u00a0\u2026",
+            "username": "egalano",
+            "num_likes": 16,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1020336322119176193": {
+            "id": "1020336322119176193",
+            "text": "Check out Co-Founder @wuehler discussing #Infura with Sandra from #FOMOMedia in Kuala Lumpur, Malaysia after the inaugural #ethkl @ETHKL1http://fomomedia.io/whos-behind-metamask-infura/\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1019988527092764672": {
+            "id": "1019988527092764672",
+            "text": "Excited to talk about scalable #web3 infrastructure and the future roadmap for @infura_io at #BlockTO in Toronto on August 14 #Ethereumhttps://block4.splashthat.com\u00a0",
+            "username": "wuehler",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1019869462504370177": {
+            "id": "1019869462504370177",
+            "text": "#Ethereum will be 3 years old in ~10 days. During that time we had 5 consensus updates, 136 #golang Geth updates and 199 #rustlang Parity updates. DoS attacks included, the uptime of Ethereum is 100%! Not 9-nines... a big frigging 100! Not an 8 month trial (AXD301), 3 years live!",
+            "username": "peter_szilagyi",
+            "num_likes": 628,
+            "num_retweets": 212,
+            "num_replies": 18
+        },
+        "1019572495861583872": {
+            "id": "1019572495861583872",
+            "text": "Quick intro on #ewasm from @lrettig - covers the \"better faster sexier execution engine\" and backwards compatibility, sharding, and more:https://www.youtube.com/watch?v=oWvzHRcw2_s&feature=youtu.be\u00a0\u2026",
+            "username": "PegaSysEng",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1019548188662001664": {
+            "id": "1019548188662001664",
+            "text": "Dear fans of Toronto,\n It\u2019s time you guys build a statue of @DeMar_DeRozan   Regardless of what happens. He deserves it. ",
+            "username": "TFlight31",
+            "num_likes": 38676,
+            "num_retweets": 9278,
+            "num_replies": 608
+        },
+        "1019575267365355523": {
+            "id": "1019575267365355523",
+            "text": "We're going to miss you @DeMar_DeRozan. Thank you for your loyalty, your commitment to our city and always keeping it classy. You might've been born in Compton, but you'll always be a Torontonian in my eyes. #WeTheNorthpic.twitter.com/mUakQ2lIer",
+            "username": "norm",
+            "num_likes": 6777,
+            "num_retweets": 1904,
+            "num_replies": 37
+        },
+        "1019276473549688832": {
+            "id": "1019276473549688832",
+            "text": "Current $ staked on @AugurProject is $663k. Last night it was at $412k.\n\nThat kind of growth is incredible and a strong signal for future potential of not only Augur but also of dapps and the decentralized web.\n\nThis is the era of #buidl, creativity, and experimentation.https://twitter.com/dan_pantera/status/1019202198952030208\u00a0\u2026",
+            "username": "panekkkk",
+            "num_likes": 156,
+            "num_retweets": 31,
+            "num_replies": 7
+        },
+        "1016772758590640129": {
+            "id": "1016772758590640129",
+            "text": "If you are:\n\n* part of an underrepresented race, gender, or sexuality\n* from a developing country\n* from an academic or research institute\n\nApply now for scholarships to Devcon4! https://devcon4.ethereum.org/apply/scholarship\u00a0\u2026pic.twitter.com/AdvFeJCMFz",
+            "username": "hudsonjameson",
+            "num_likes": 92,
+            "num_retweets": 49,
+            "num_replies": 14
+        },
+        "1017021981995290624": {
+            "id": "1017021981995290624",
+            "text": "Comparing ERC-725 vs ERC-280 #ethereum identity proposals by @PelleBhttps://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87\u00a0\u2026",
+            "username": "digitaldonkey09",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1016812084841943041": {
+            "id": "1016812084841943041",
+            "text": "We\u2019re looking for a Chief Security Engineer to join our team! Know someone who\u2019d like to help secure the decentralized web? Tell them to apply!\n\nhttps://new.consensys.net/careers/?gh_jid=1231507\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 54,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1016689781982429186": {
+            "id": "1016689781982429186",
+            "text": "We're happy to announce that POA Network has partnered up with @infura_io for enhanced infrastructure support! Check out the post for more details and what this means for POA Network users!https://medium.com/poa-network/blockchain-infrastructure-poa-network-partners-with-infura-605f795e557e\u00a0\u2026",
+            "username": "poanetwork",
+            "num_likes": 119,
+            "num_retweets": 54,
+            "num_replies": 4
+        },
+        "1014281456452096001": {
+            "id": "1014281456452096001",
+            "text": "A fully verifying #golang #Ethereum (Geth 1.8.12, AWS i3 x2 large, --cache=2GB) in full sync mode requires\n\n- 1M blocks: 32 mins\n- 2M blocks: 1h 48 mins\n- 3M blocks: 6h 54 mins\n- 4M blocks: 11h 23 mins\n- 5M blocks: 1 day 20 hours\n- 5887204: 3 days 22 hours\n\nDatabase size: 213GB https://twitter.com/5chdn/status/1014139778965692416\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 157,
+            "num_retweets": 43,
+            "num_replies": 7
+        },
+        "1014577080363872257": {
+            "id": "1014577080363872257",
+            "text": "Happy 4th! Today we're reading @jdetychey's guide on 51% attacks:https://media.consensys.net/the-current-cost-of-51-attack-on-proof-of-work-blockchains-91f87dbc1073\u00a0\u2026",
+            "username": "PegaSysEng",
+            "num_likes": 28,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1014230326615334912": {
+            "id": "1014230326615334912",
+            "text": "More important than having a final deadline: having clearly defined stages of development and milestones, a process for deciding what requirements are prioritized, communicating what risks exist in the planning and development.",
+            "username": "jemenger",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1014167885395185664": {
+            "id": "1014167885395185664",
+            "text": "Very pleased to announce the British Blockchain Association @Brit_blockchain has published our paper, \"A Future History of International Blockchain Standards.\"\n\nGreat work by @prototypo \n and @shahankhatch!https://jbba.scholasticahq.com/article/3724-a-future-history-of-international-blockchain-standards\u00a0\u2026",
+            "username": "PegaSysEng",
+            "num_likes": 28,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1011970665308618753": {
+            "id": "1011970665308618753",
+            "text": ". @7saether of #ChronoLogic talks to @Wuehler of @Infura_io about #Blockchain Infrastructure: https://buff.ly/2KmJdGy\u00a0pic.twitter.com/PLHIdBPdEd",
+            "username": "ChronoLogicETH",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1011693111108624384": {
+            "id": "1011693111108624384",
+            "text": "We're thrilled to share that prof Robin Cohen is the first female recipient of the Canadian Artificial Intelligence Association's highest honour - the Lifetime Achievement Award! http://ow.ly/jqB730kG3Ir\u00a0 #WomeninSTEM #AI #uwaterloopic.twitter.com/rbx1ogfVuV",
+            "username": "WaterlooMath",
+            "num_likes": 32,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "1012029885769043969": {
+            "id": "1012029885769043969",
+            "text": "Infrastructure projects like https://ens.domains\u00a0 are what we love. We're very happy to be sponsoring the ENS workshop & hackathon Aug 10-12. Come join us!https://twitter.com/nicksdjohnson/status/1011937875926142977\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1010614427715080192": {
+            "id": "1010614427715080192",
+            "text": "I dunno man, I'm just busy chillin with my friends in New York City, New York eating avocado toast.pic.twitter.com/q5pFnu4oBo",
+            "username": "VitalikButerin",
+            "num_likes": 1832,
+            "num_retweets": 115,
+            "num_replies": 94
+        },
+        "1009982855697649664": {
+            "id": "1009982855697649664",
+            "text": "[Blog] Announcing Swarm Proof-of-Concept Release 3 #swarm https://goo.gl/6V9ohL\u00a0pic.twitter.com/OcMPSbHiCG",
+            "username": "ethereum",
+            "num_likes": 329,
+            "num_retweets": 132,
+            "num_replies": 52
+        },
+        "1005686451051245568": {
+            "id": "1005686451051245568",
+            "text": "pic.twitter.com/i8zcGRmDIR",
+            "username": "AppletonDave",
+            "num_likes": 41,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "1007715679045373952": {
+            "id": "1007715679045373952",
+            "text": "This change in Ethereum roadmap does not mean the Casper is delayed, it may actually come sooner as a result, because it does not need to be implemented as a smart contract:https://medium.com/@djrtwo/casper-%EF%B8%8F-sharding-28a90077f121\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 50,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1007370463054462976": {
+            "id": "1007370463054462976",
+            "text": "APPLIED!\n\nThe domain http://reuters.com\u00a0 has been applied to the @ad_chain Registry! Be sure to Vote or Challenge this domain at http://publisher.adchain.com/reuters.com\u00a0. #adChain #blockchain #TCR",
+            "username": "adChainRegistry",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1006879535114145792": {
+            "id": "1006879535114145792",
+            "text": "This article makes the typical strawman arguments of taking 'smart contracts' to literally mean real-life 'legal contracts', then attacking this. In reality Smart Contracts have as much to do with legal contracts like browser cookies have to do with Oreos.https://twitter.com/jimmysong/status/1006189643845586946\u00a0\u2026",
+            "username": "iurimatias",
+            "num_likes": 78,
+            "num_retweets": 12,
+            "num_replies": 4
+        },
+        "1007036926770208768": {
+            "id": "1007036926770208768",
+            "text": "Latest on Turbo-Geth:https://medium.com/@akhounov/turbo-geth-where-we-are-at-94598690bb02\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 50,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1006555767443546114": {
+            "id": "1006555767443546114",
+            "text": "Geth v1.8.11 (Streamline) just released! 28% slower disk growth, 23% faster block processing, a lot stabler memory patterns! Take it for a spin :) https://github.com/ethereum/go-ethereum/releases/tag/v1.8.11\u00a0\u2026 #golang #Ethereum",
+            "username": "peter_szilagyi",
+            "num_likes": 95,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "1006152317018755072": {
+            "id": "1006152317018755072",
+            "text": "Results by @rootkovska and her team are very promising. We @golemproject are excited to work with them on bringing Intel SGX to Golem and decentralised space.https://twitter.com/golemproject/status/1006146597082812416\u00a0\u2026",
+            "username": "julianzawist",
+            "num_likes": 66,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1005548578729877504": {
+            "id": "1005548578729877504",
+            "text": " All! We just launched our first plastic cleanup project on the #blockchain, #BountiesForTheOceans and would love to see how we can support eachother - Let\u2019s make lasting change happen!https://medium.com/bounties-network/bounties-for-the-oceans-sustained-verifiable-plastic-cleanups-4494d0284581\u00a0\u2026",
+            "username": "ethBounties",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1004111149166522368": {
+            "id": "1004111149166522368",
+            "text": "Here\u2019s how first past the post works.\nAbout 35 percent of voters want to eat broken glass. The other 65 percent want to eat fruit. But the fruit eaters are split between preferring apples and oranges\u2026",
+            "username": "DWHauthor",
+            "num_likes": 550,
+            "num_retweets": 275,
+            "num_replies": 10
+        },
+        "1004045294261108737": {
+            "id": "1004045294261108737",
+            "text": "Please don't be IHOP Blockchain. Please don't be IHOP Blockchain Please don't be IHOP Blockchain. Please don't be IHOP Blockchain. Please don't be IHOP Blockchain.https://twitter.com/IHOP/status/1003682801042915328\u00a0\u2026",
+            "username": "danprimack",
+            "num_likes": 2495,
+            "num_retweets": 516,
+            "num_replies": 105
+        },
+        "1004151402216787969": {
+            "id": "1004151402216787969",
+            "text": "If you are running Parity clients, please update your infrastructure ASAPhttps://twitter.com/ParityTech/status/1004151159291031552\u00a0\u2026",
+            "username": "egalano",
+            "num_likes": 20,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1003988827747307525": {
+            "id": "1003988827747307525",
+            "text": "@WaterlooENG @UWaterloo great news; though you're missing the ball a bit. Your students on the ground are already building on public and open blockchains. The Ethereum Developer Meetup in Waterloo has 500 members and meets regularly. \n\nDon't let the $ amount dictate the research.",
+            "username": "ililic",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "999299070874267653": {
+            "id": "999299070874267653",
+            "text": "I am super excited to announce that I've accepted a position at ConsenSys as 'Open Source Chef'. To take back the web, we need to allow true decentralization, and Open Source is a perfect path to continue to drive this, leveraging blockchain and Ethereum.",
+            "username": "jimjag",
+            "num_likes": 186,
+            "num_retweets": 25,
+            "num_replies": 23
+        },
+        "998673693676134401": {
+            "id": "998673693676134401",
+            "text": "We'll briefly take down our IPFS endpoint at https://ipfs.infura.io\u00a0 on Wednesday, 5/23, at 11 AM PDT for a quick backend upgrade. The maintenance is expected to take approximately one hour.",
+            "username": "infura_io",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 6
+        },
+        "995443688795983872": {
+            "id": "995443688795983872",
+            "text": "I couldn\u2019t be more proud of all 800-something cells in the @ConsenSys organism. Forever growing, evolving, celebrating successes, learning from mistakes, and sharing experiences.pic.twitter.com/m6ucFSycPq \u2013 at Knockdown Center",
+            "username": "ethereumJoseph",
+            "num_likes": 382,
+            "num_retweets": 78,
+            "num_replies": 8
+        },
+        "994913212469477376": {
+            "id": "994913212469477376",
+            "text": "Today is a big milestone for @UjoMusic. For the first time anyone can register their own music directly to the ethereum mainnet and sell it for real ether while fans can stream and purchase it, aquiring cryptocollectible representations of the release on the blockchain as they do",
+            "username": "4tt4r",
+            "num_likes": 33,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "994960835767291904": {
+            "id": "994960835767291904",
+            "text": "220lb of sushi grade yellowfin + albacore tuna were imported from SeaQuest in Fiji and arrived at our offices at 8AM. The sushi will be served today at #EtherealSummit . Tracked all the way bait to plate using @ConsenSys @viant_io by the great @MulvihillTyler @AtreyaKishorepic.twitter.com/Sp9VhrKDYs",
+            "username": "MattCorva",
+            "num_likes": 79,
+            "num_retweets": 21,
+            "num_replies": 4
+        },
+        "648971736243810304": {
+            "id": "648971736243810304",
+            "text": "Economic models didn't predict Wikipedia editors or suicide bombers. There is far more to human motivations than economic incentives.",
+            "username": "NickSzabo4",
+            "num_likes": 454,
+            "num_retweets": 184,
+            "num_replies": 28
+        },
+        "993570883838074880": {
+            "id": "993570883838074880",
+            "text": "\u201cMesh Spotlight: Gon\u00e7alo S\u00e1 \u2014 ConsenSys Diligence\u201d by @ConsenSyshttps://media.consensys.net/mesh-spotlight-gon%C3%A7alo-sa-consensys-diligence-c2b7921d88a7?source=twitterShare-3e5dfef854b6-1525720727\u00a0\u2026",
+            "username": "GNSPS",
+            "num_likes": 37,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "991737904635498498": {
+            "id": "991737904635498498",
+            "text": "Why do I love @ConsenSys? Because @jessicica14 is 1 of many examples of incredibly intelligent, passionate, hardworking ppl that I learn from. Read about her work w/ mesh networks. \"You can build your own internet [connection] and have control over it.\"http://www.cbc.ca/news/technology/wifi-nyc-mesh-new-york-city-1.4617106\u00a0\u2026",
+            "username": "melove_07",
+            "num_likes": 38,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "991365201357295617": {
+            "id": "991365201357295617",
+            "text": "If you're running the go-ethereum client in archive mode you need to track bug: https://github.com/ethereum/go-ethereum/issues/16607\u00a0\u2026 and this patch from @tstranex: https://github.com/syndtr/goleveldb/pull/214\u00a0\u2026 . Over the weekend some of our canary @infura_io nodes began crashing as the DB crossed the 1TB threshold.",
+            "username": "egalano",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "988739408240226305": {
+            "id": "988739408240226305",
+            "text": "After years of hard work AdChain is launched on #mainnet #ethereum today! The first token curated registry is now taking applications. Extremely proud of the teams at @ConsenSys and @metaxchain. Special thanks to @yorkerhodes and @Windozer for making the intro over two years ago!https://twitter.com/ad_chain/status/988724758337413120\u00a0\u2026",
+            "username": "ililic",
+            "num_likes": 117,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "988453671397679104": {
+            "id": "988453671397679104",
+            "text": "Infura is hiring! We're looking for ninja developers for the following roles: DevOps Engineer, Sr. Backend Engineer (Python/Golang), & Technical Support Engineer. You can be based anywhere in the world. More info & apply here: https://new.consensys.net/careers/\u00a0 #blockchain #decentralization",
+            "username": "infura_io",
+            "num_likes": 66,
+            "num_retweets": 30,
+            "num_replies": 2
+        },
+        "987021337355943936": {
+            "id": "987021337355943936",
+            "text": "Quiet, humble, unassuming, extremely hard working and staying heads down to securely audit some of the most valuable piece of code floating around the #Ethereum ecosystem. Much love and respect to @C_Diligence @GNSPS @maurelian_ #ConsenSysDiligence",
+            "username": "JohnLilic",
+            "num_likes": 56,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "985380083144671232": {
+            "id": "985380083144671232",
+            "text": "For every minute you are angry, you lose 60 seconds of happiness.",
+            "username": "norm",
+            "num_likes": 7020,
+            "num_retweets": 1911,
+            "num_replies": 55
+        },
+        "985268645067501568": {
+            "id": "985268645067501568",
+            "text": "@infura_io will be at the Swarm Summit again this year! Looking forward to awesome content and discussions. https://twitter.com/mathsguy/status/985097429530959872\u00a0\u2026",
+            "username": "egalano",
+            "num_likes": 22,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "984790541832458240": {
+            "id": "984790541832458240",
+            "text": "pic.twitter.com/8pEju5sSB3",
+            "username": "jdetychey",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "981557368805785600": {
+            "id": "981557368805785600",
+            "text": "Are you a Texan who lives in an Oncor or CenterPoint region? We're looking for summer and fall beta testers. Reach out at beta@gridplus.iopic.twitter.com/Hp3orTGoR9",
+            "username": "gridplus",
+            "num_likes": 58,
+            "num_retweets": 23,
+            "num_replies": 9
+        },
+        "981688982177132544": {
+            "id": "981688982177132544",
+            "text": "THIS IS A PHISHING SCAM. DO NOT PARTICIPATE",
+            "username": "dominic_w",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "981185316248801281": {
+            "id": "981185316248801281",
+            "text": "Vitalik calling Wright a fraud was nice and all, but Joseph Poon (@jcp) saying \"I wrote the lightning network whitepaper and still didn't understand your talk\" was the real cherry on top.https://www.youtube.com/watch?v=TglmWKJBTec\u00a0\u2026",
+            "username": "avsa",
+            "num_likes": 421,
+            "num_retweets": 121,
+            "num_replies": 16
+        },
+        "973318883758280705": {
+            "id": "973318883758280705",
+            "text": "Fun watching the doctor @mechanikalk tear apart hardwear devices in search of vulnerabilities. Quite excited for the @gridplus_energy agent design.  Security first. #ethereumpic.twitter.com/NJkkgH5Zhp",
+            "username": "mark_dago",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "971879995005169664": {
+            "id": "971879995005169664",
+            "text": "What would a LOL opcode do?",
+            "username": "maurelian_",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "971085983998496768": {
+            "id": "971085983998496768",
+            "text": "#Ethereum has become a household name, but what's actually happening on the blockchain is still a mystery for many. @AlethioEthstats is out to change all that.https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db\u00a0\u2026",
+            "username": "ConsenSys",
+            "num_likes": 172,
+            "num_retweets": 83,
+            "num_replies": 3
+        },
+        "970733636973662210": {
+            "id": "970733636973662210",
+            "text": "Gitcoin will be at #SXSW this year! Will we see you?\n\n- Hang with us at the @ConsenSys Ethereal Lounge (https://tinyurl.com/consensys\u00a0)\n- Join us at the @sxsw Hackathon (March 13-14)\n- See other great projects like @Cons_Academy, @UjoMusic, and @infura_io https://www.sxsw.com/conference/sxsw-hackathon/\u00a0\u2026",
+            "username": "gitcoin",
+            "num_likes": 31,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "967532452913778689": {
+            "id": "967532452913778689",
+            "text": "We're tokenizing good fortune on Ethereum ",
+            "username": "ftncookies",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "967052431258472448": {
+            "id": "967052431258472448",
+            "text": "Build powerful apps on the Ethereum blockchain. \n\nHere's an Ethereum node, but as an API https://www.producthunt.com/posts/infura\u00a0",
+            "username": "ProductHunt",
+            "num_likes": 79,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "967534547972734977": {
+            "id": "967534547972734977",
+            "text": "Not sure I've ever seen a design for a UTXO token on Ethereum, so I made a doodle. Their proof compactness makes me think we may be seeing more of them via plasma... https://gist.github.com/alex-miller-0/a5f4de3f811872b7272e66a3697f88de\u00a0\u2026",
+            "username": "crypto_dev_alex",
+            "num_likes": 82,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "967057003922296832": {
+            "id": "967057003922296832",
+            "text": "#1 on product hunt is @Infura_io today! #Infura: #Ethereum node as an APIhttps://www.producthunt.com/posts/infura\u00a0",
+            "username": "CReckhow",
+            "num_likes": 60,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "966702420930777091": {
+            "id": "966702420930777091",
+            "text": "Excited to be a sponsor of EthCC in Paris March 8-10, we love the #Ethereum community!https://ethcc.io\u00a0",
+            "username": "infura_io",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "964171386762776576": {
+            "id": "964171386762776576",
+            "text": "Boomer playbook: smoke some pot, get inexpensive college educations, buy inexpensive homes, repeatedly blow up economy with stupidity, force govt bailouts, inflate assets so future generations can\u2019t afford them, retire, suck up all the Soc Sec and Medicare. Complain.",
+            "username": "morningmoneyben",
+            "num_likes": 2895,
+            "num_retweets": 896,
+            "num_replies": 114
+        },
+        "963807240229703680": {
+            "id": "963807240229703680",
+            "text": "Check out our new status page to monitor the health of our infrastructure including the ability to monitor pending txn relayed via our nodes https://infura.io/status\u00a0",
+            "username": "infura_io",
+            "num_likes": 48,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "963434447562592257": {
+            "id": "963434447562592257",
+            "text": "We're hiring. #ConsenSysEngineeringhttps://twitter.com/ethereumJoseph/status/963054611237167106\u00a0\u2026",
+            "username": "ililic",
+            "num_likes": 28,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "963126472440459264": {
+            "id": "963126472440459264",
+            "text": "Not sure who here is on Facebook, but @Cellarius2084 is, so why not give us a like? https://www.facebook.com/Cellarius2084/\u00a0 for early hints, launch, community, swag, discussions, predictions, etc.; Community is  & we want you to engage and collaborate with us wherever you social media",
+            "username": "melove_07",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "961628855328018434": {
+            "id": "961628855328018434",
+            "text": "Thanks to all our amazing first ONE MILLION installs!!!\n\nGet ready for a great year!pic.twitter.com/CWCaN8SiSO",
+            "username": "metamask_io",
+            "num_likes": 812,
+            "num_retweets": 176,
+            "num_replies": 37
+        },
+        "954865994291470336": {
+            "id": "954865994291470336",
+            "text": "With the Ethereum chain approaching 650 GB in size, we're really looking forward to client features that improve disk usage, such as Geth's upcoming database compaction.",
+            "username": "infura_io",
+            "num_likes": 48,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "954412089203986432": {
+            "id": "954412089203986432",
+            "text": "We're giving away $50k in artist grants for the exploration of Ethereum + Art. Up to 10 projects will be selected. Learn more and apply at:https://etherealsummit.com/arts-grant/\u00a0",
+            "username": "JackSpallone",
+            "num_likes": 24,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "950822960448851973": {
+            "id": "950822960448851973",
+            "text": "Slack servers down? There's a far better way. Consider switching to Status to help build a decentralized future where communication doesn't rely on servers at all.",
+            "username": "ethstatus",
+            "num_likes": 288,
+            "num_retweets": 83,
+            "num_replies": 14
+        },
+        "950827279600443392": {
+            "id": "950827279600443392",
+            "text": "Woo finalized our token distribution model, you can read about it here https://fathom.network/blog//2018-01-05-distributing-tokens.html\u00a0\u2026\n\nLemme know if it makes sense/makes no sense/is neat. \n\nI think it's going to be a great way to support http://fathom.network\u00a0.",
+            "username": "jrdprr",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "950726011645300738": {
+            "id": "950726011645300738",
+            "text": "Trust is the most important thing in this community. Any team who spreads fear, creates chaos, and lies to people for their own selfish benefit can kiss my ass.",
+            "username": "myetherwallet",
+            "num_likes": 1455,
+            "num_retweets": 464,
+            "num_replies": 79
+        },
+        "950501445241131008": {
+            "id": "950501445241131008",
+            "text": "Happy Belated Near Year from Infura! Thanks to all our friends, partners, and customers for a great 2017, and here's to an even better 2018.\n\nAlso, we recently passed 5000 followers, and we have a new look (that's not orange, it's *salmon*  )",
+            "username": "infura_io",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "950397035714371584": {
+            "id": "950397035714371584",
+            "text": "We\u2019re contemplating adding \u201cBlockchain\u201d to our name so we\u2019ll increase our followers by 70,000 percent.",
+            "username": "FortWorth_SEC",
+            "num_likes": 8259,
+            "num_retweets": 2721,
+            "num_replies": 384
+        },
+        "948708074893795332": {
+            "id": "948708074893795332",
+            "text": "black hats boarding your smart contracts and wallets to pillage your booty",
+            "username": "VladZamfir",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "946464020365680640": {
+            "id": "946464020365680640",
+            "text": "Lolol. When my mom can muster up a text message, they\u2019re usually pretty good.pic.twitter.com/QMccbHjH7O",
+            "username": "Steven_McKie",
+            "num_likes": 100,
+            "num_retweets": 16,
+            "num_replies": 11
+        },
+        "943475546473631746": {
+            "id": "943475546473631746",
+            "text": "What if the cryptocurrency bubble is actually a coordinated attack on cryptocurrency? \n#trollolol",
+            "username": "VladZamfir",
+            "num_likes": 236,
+            "num_retweets": 18,
+            "num_replies": 33
+        },
+        "942816957920829440": {
+            "id": "942816957920829440",
+            "text": "We just passed 500k active installations!\n\nThanks to our half million users for their patience as we grow, and willingness to ride the cutting edge with us!pic.twitter.com/v4x0dwCotf",
+            "username": "metamask_io",
+            "num_likes": 413,
+            "num_retweets": 114,
+            "num_replies": 25
+        },
+        "942082935783657472": {
+            "id": "942082935783657472",
+            "text": "#Bitcoin = A single app. #Ethereum = An entire app store. Thanks for having me on @BloombergTV, always a pleasure.https://www.bloomberg.com/news/videos/2017-12-15/ethereum-co-founder-on-bitcoin-and-blockchain-tech-video\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 876,
+            "num_retweets": 375,
+            "num_replies": 42
+        },
+        "940690809049010176": {
+            "id": "940690809049010176",
+            "text": "If you are new to #blockchain (s) and you wonder wich of the top 100 from coinmarketcap will win - you should realize that 43 of those \u201ecoins\u201c are ON the #ethereum blockchain.",
+            "username": "koeppelmann",
+            "num_likes": 1278,
+            "num_retweets": 584,
+            "num_replies": 39
+        },
+        "940590580387729408": {
+            "id": "940590580387729408",
+            "text": "Q: What does a smart contract do when it needs advice?\nA: It DelegateCalls a friend to ask \"What would you do in my situation?\"",
+            "username": "maurelian_",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "939155156645699584": {
+            "id": "939155156645699584",
+            "text": "Two scientists walk into a bar. \n\"I'll have H2O,\" says the 1st.\n\"I'll have H2O, too,\" says the 2nd.\nBartender gives them water because he is able to distinguish the boundary tones that dictate the grammatical function of homonyms in coda position, as well as pragmatic context.",
+            "username": "DianeTurnshek",
+            "num_likes": 349099,
+            "num_retweets": 93221,
+            "num_replies": 1733
+        },
+        "938868155564294146": {
+            "id": "938868155564294146",
+            "text": "Game on!",
+            "username": "Boeing",
+            "num_likes": 2003,
+            "num_retweets": 432,
+            "num_replies": 96
+        },
+        "939619070177095683": {
+            "id": "939619070177095683",
+            "text": "Check out that spike! Just like the Ethereum network, the @infura_io team has been tackling our own scaling challenges this week. We appreciate your patience and want to give a shoutout to the @metamask_io and @CryptoKitties teams for bringing all the new users into the ecosystempic.twitter.com/b4XW5nuDss",
+            "username": "infura_io",
+            "num_likes": 116,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "936309329795280896": {
+            "id": "936309329795280896",
+            "text": "Here's the live Hangout link:\nhttps://hangouts.google.com/hangouts/_/x5wwhjwmhrby3bdnojz2jmsovme\u00a0\u2026",
+            "username": "zigguratt",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "935960975999565824": {
+            "id": "935960975999565824",
+            "text": "The next in the series of @ConsenSys live video AMA sessions with #Ethereum movers and shakers will be taking place tomorrow, 2017-11-30 at 14:00 EST/19:00 GMT. @phonikg and @hudsonjameson of @ProjectOaken have graciously agreed to participate. Please join us!\n\n#HangoutsOnAirpic.twitter.com/sCChRMJodx",
+            "username": "zigguratt",
+            "num_likes": 36,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "933758970988130304": {
+            "id": "933758970988130304",
+            "text": "I always knew being a stoner would pay off one day. Happy $420, people. #Ethereumpic.twitter.com/l0cK4goY7j",
+            "username": "JohnLilic",
+            "num_likes": 247,
+            "num_retweets": 52,
+            "num_replies": 15
+        },
+        "929429895289196544": {
+            "id": "929429895289196544",
+            "text": "The GRID Token Sale has ended! Thanks to everyone who participated. We're excited for our next steps, creating the world's first blockchain energy company. See you all soon, in Texas! #blockchain #energy",
+            "username": "gridplus",
+            "num_likes": 59,
+            "num_retweets": 19,
+            "num_replies": 6
+        },
+        "927667104311951360": {
+            "id": "927667104311951360",
+            "text": "Great opportunity for undergrad women to get some incredible experience & mentors via @owensfellowship (apply now!): http://www.brookeowensfellowship.org/\u00a0pic.twitter.com/6v9wIhDWkz",
+            "username": "tweetsoutloud",
+            "num_likes": 130,
+            "num_retweets": 93,
+            "num_replies": 5
+        },
+        "918279820290560000": {
+            "id": "918279820290560000",
+            "text": "Wrapping up day 2 @GoBlockCon at the Museum of Flying @maurycy @ncocchiaro @egalano #goblockconpic.twitter.com/ARX3h5CNWr",
+            "username": "infura_io",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "915913922279903232": {
+            "id": "915913922279903232",
+            "text": "Heads up: the Byzantium hard fork hits Rinkeby at block 1,035,301 (October 9-ish)https://github.com/ethereum/go-ethereum/releases/tag/v1.7.1\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "914272859479928833": {
+            "id": "914272859479928833",
+            "text": "Casper FFG: now down to one message type and one slashing condition http://ethereumresearch.trydiscourse.com/t/casper-ffg-with-one-message-type-and-simpler-fork-choice-rule/103\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 498,
+            "num_retweets": 199,
+            "num_replies": 24
+        },
+        "911217245094686720": {
+            "id": "911217245094686720",
+            "text": "I'm announcing that 100% of my @omise_go + @kybernetwork *advisor shares* will be either (i) donated to charity (AMF, GiveD, SENS etc) or...",
+            "username": "VitalikButerin",
+            "num_likes": 3078,
+            "num_retweets": 789,
+            "num_replies": 245
+        },
+        "909924831021453312": {
+            "id": "909924831021453312",
+            "text": "This week, NYC Ethereum goes polkadot with Peter Czaban from @ParityTechhttp://meetu.ps/e/D6shb/mSQhv/a\u00a0",
+            "username": "wuehler",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "909188899406270465": {
+            "id": "909188899406270465",
+            "text": "Infura's Ropsten setup is fully transitioned to Geth 1.7.0, and we're ready for the Byzantium fork on Monday.pic.twitter.com/5JmUAbBvMI",
+            "username": "infura_io",
+            "num_likes": 43,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "907985463255977984": {
+            "id": "907985463255977984",
+            "text": "Blog post: Infura\u2019s signer and bootnode on Rinkebyhttps://blog.infura.io/infuras-signer-and-bootnode-on-rinkeby-440de6f70961\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 21,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "902269562317488128": {
+            "id": "902269562317488128",
+            "text": "We're all business this week, as you see in this highly staged photo. Launching our auction contract in the next few days... #StayTunedpic.twitter.com/05d6JxAX54",
+            "username": "SpankChain",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "902521447922499585": {
+            "id": "902521447922499585",
+            "text": "Smart contracts should all be publicly bug-bountied with at least as much ETH staked as the contract will ever hold",
+            "username": "ethBounties",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "900816301333127168": {
+            "id": "900816301333127168",
+            "text": "Pitching @infura_io at Fintech Week in Times Sq. \"I'm not here to announce ICO but to share our project, live in production for over a yr!\"pic.twitter.com/Ame3TyVecE \u2013 at Thomson Reuters",
+            "username": "wuehler",
+            "num_likes": 50,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "900726513737363457": {
+            "id": "900726513737363457",
+            "text": "Check out our awesome / fast Ethereum APIs, including ticker pricing for 55 pairs (fiat, crypto, and tokens) http://docs.infura.apiary.io/\u00a0",
+            "username": "infura_io",
+            "num_likes": 24,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "897851598457765892": {
+            "id": "897851598457765892",
+            "text": "INFURA requests over the past 36 hours. Peak of 1.59 million req/min!pic.twitter.com/fIr0fh4ZFJ",
+            "username": "infura_io",
+            "num_likes": 35,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "897596964937895936": {
+            "id": "897596964937895936",
+            "text": "FYI to new smart contract devs, @consensysllc maintains a thorough best practices doc:https://github.com/ConsenSys/smart-contract-best-practices\u00a0\u2026",
+            "username": "maurelian_",
+            "num_likes": 58,
+            "num_retweets": 41,
+            "num_replies": 0
+        },
+        "897487257443209217": {
+            "id": "897487257443209217",
+            "text": "We are deploying additional capacity directly targeted at @0xProject traffic hitting our endpoints.",
+            "username": "infura_io",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "897484231475163140": {
+            "id": "897484231475163140",
+            "text": "We are experiencing huge traffic volumes due to the @0xProject sale. Please be patient as we work to maintain our expected service levels.",
+            "username": "infura_io",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "896024837185036289": {
+            "id": "896024837185036289",
+            "text": "https://blog.infura.io/not-all-api-calls-are-equal-3659c119bb6c\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "890755390496940032": {
+            "id": "890755390496940032",
+            "text": "My parity node's data directory is still only ten gigabytes...",
+            "username": "VitalikButerin",
+            "num_likes": 289,
+            "num_retweets": 55,
+            "num_replies": 27
+        },
+        "890733156504145920": {
+            "id": "890733156504145920",
+            "text": "Canadian hypebeast. Available at http://www.6dad.ca\u00a0pic.twitter.com/d7gKo5HdNC",
+            "username": "norm",
+            "num_likes": 1571,
+            "num_retweets": 298,
+            "num_replies": 32
+        },
+        "889280698967891968": {
+            "id": "889280698967891968",
+            "text": "Team GasHole.  a #Ethereum on-chain gas price oracle.\nJess, Eric, and Nate.\n#internshack2017\n@ConsenSysLLCpic.twitter.com/JwKHcbR7QQ",
+            "username": "ConsenSysKirk",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "888876634614493185": {
+            "id": "888876634614493185",
+            "text": "The hackathon marches on, with a visit from CNBC. #internshack2017 #Ethereum @ConsenSysLLCpic.twitter.com/3vAWON18ta \u2013 at Consensys",
+            "username": "wuehler",
+            "num_likes": 31,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "888846584355713024": {
+            "id": "888846584355713024",
+            "text": "Airplanes: demonstrating that human flight is a bad idea, one plane crash at a time.",
+            "username": "classygustav",
+            "num_likes": 32,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "888807663055908864": {
+            "id": "888807663055908864",
+            "text": "#internshack2017 two hours in and #TeamGasHole  is neck deep in Solidity #Ethereum @erktutotootwo @ConsenSysLLCpic.twitter.com/AadTSO20HA \u2013 at Consensys",
+            "username": "wuehler",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "888068705636106240": {
+            "id": "888068705636106240",
+            "text": "Announcing Ethereum Pet Shop: Our first new tutorial for beginners. Get started with #Ethereum and #Truffle! http://truffleframework.com/tutorials/pet-shop\u00a0\u2026",
+            "username": "trufflesuite",
+            "num_likes": 69,
+            "num_retweets": 32,
+            "num_replies": 4
+        },
+        "882321502334529540": {
+            "id": "882321502334529540",
+            "text": "I know, it's a real stretch. #Happy4thpic.twitter.com/fCjJ57ihGv",
+            "username": "infura_io",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "880837387571478528": {
+            "id": "880837387571478528",
+            "text": "Time to buy crypto before everyone gets drunk at American BBQs this weekend and tells theirs friends & families to buy. ",
+            "username": "Steven_McKie",
+            "num_likes": 51,
+            "num_retweets": 8,
+            "num_replies": 6
+        },
+        "877652726360002561": {
+            "id": "877652726360002561",
+            "text": "Blog post: \"When there are too many pending transactions\"https://blog.infura.io/when-there-are-too-many-pending-transactions-8ec1a88bc87e\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 44,
+            "num_retweets": 34,
+            "num_replies": 2
+        },
+        "877446367756640256": {
+            "id": "877446367756640256",
+            "text": " @ConsenSysLLC. An upcoming meeting: \"Disassembler squaretable: Assembly Book Club of Dedicated EVM Fans (ABCDEF)\". (Reading bytecode)",
+            "username": "simondlr",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "876842378073714693": {
+            "id": "876842378073714693",
+            "text": ". @metamask_io instructions for the Status.im token launch tomorrow: video https://youtu.be/sJuBl2rFO7Q\u00a0 , pdf https://contribute.status.im/tutorials/metamask.pdf\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "873723147349934080": {
+            "id": "873723147349934080",
+            "text": "Honestly, the price of $ETH is nice but I am still 100% committed to building on the platform. I would be doing the same if ETH=10.",
+            "username": "wuehler",
+            "num_likes": 184,
+            "num_retweets": 38,
+            "num_replies": 8
+        },
+        "872596555500584961": {
+            "id": "872596555500584961",
+            "text": "Braid the Movie Campaign is live: https://campaign.braidthemovie.com/\u00a0",
+            "username": "IAmNickDodson",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "872997890318364672": {
+            "id": "872997890318364672",
+            "text": "There\u2019s a fine line between people who are very successfully crazy and just legitimately batshit.",
+            "username": "simondlr",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "871862665307607040": {
+            "id": "871862665307607040",
+            "text": "We just upgraded @infura_io Mainnet to Geth 1.6.5 . Send your JSON-RPC to https://mainnet.infura.io\u00a0 (HTTPS).",
+            "username": "maurycy",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "871803329076232193": {
+            "id": "871803329076232193",
+            "text": "Can't wait to make history on Wednesday and invest in my first feature film. Full disclosure, we @WeiFund are building their sale ;-)https://twitter.com/ConsenSysLLC/status/871081829163556864\u00a0\u2026",
+            "username": "IAmNickDodson",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "870375126096850944": {
+            "id": "870375126096850944",
+            "text": "Finally we have a clear roadmap and plan for #Mist!pic.twitter.com/LSvCp4sCgU",
+            "username": "feindura",
+            "num_likes": 44,
+            "num_retweets": 12,
+            "num_replies": 4
+        },
+        "870353860883345408": {
+            "id": "870353860883345408",
+            "text": "Three's the charm! Geth v1.6.5 released to counter the current #Ethereum mainnet attacks: https://github.com/ethereum/go-ethereum/releases/tag/v1.6.5\u00a0\u2026 Binaries ready asap!",
+            "username": "peter_szilagyi",
+            "num_likes": 97,
+            "num_retweets": 55,
+            "num_replies": 10
+        },
+        "869915628324376576": {
+            "id": "869915628324376576",
+            "text": "The MetaX team and @ConsenSysLLC are pleased to announce adToken sale on June 26 for @ad_chain #blockchain #ethereumhttp://www.prweb.com/releases/prweb14381480.htm\u00a0\u2026",
+            "username": "metaxchain",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "868158766323204097": {
+            "id": "868158766323204097",
+            "text": "Also checkout http://ares.sh\u00a0 -- our DAO will launch a baby DAO soon for Ethereum research/testing/data collectionhttps://twitter.com/rabbyte/status/868115021687123968\u00a0\u2026",
+            "username": "IAmNickDodson",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "867489437822984192": {
+            "id": "867489437822984192",
+            "text": "How does one build a private #Ethereum #blockchain? @wuehler walks you through a node installation #GoEthereumhttp://buff.ly/2rUDwmn\u00a0",
+            "username": "ConsenSys",
+            "num_likes": 30,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "865226013592109060": {
+            "id": "865226013592109060",
+            "text": "Hello world. Here is our introduction:https://medium.com/gridx/gridx-the-future-of-energy-markets-da104c285363\u00a0\u2026",
+            "username": "gridplus",
+            "num_likes": 37,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "864539844919390208": {
+            "id": "864539844919390208",
+            "text": "I don't know.https://twitter.com/Kris10sibori/status/864285771162951681\u00a0\u2026",
+            "username": "norm",
+            "num_likes": 4305,
+            "num_retweets": 1030,
+            "num_replies": 30
+        },
+        "864615918479040518": {
+            "id": "864615918479040518",
+            "text": "Watch me talk on @CNBCArabia about #apple, #snapchat & how @ConsenSysLLC is helping @smartdubai make citizens happy! https://vimeo.com/217695287\u00a0",
+            "username": "ililic",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "864699061185560576": {
+            "id": "864699061185560576",
+            "text": "\u201cBuilding and installing Ethereum compilers\u201d by Daniel Ellisonhttps://media.consensys.net/installing-ethereum-compilers-61d701e78f6\u00a0\u2026",
+            "username": "ConsenSysKirk",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "862376032535445505": {
+            "id": "862376032535445505",
+            "text": "Token trading on #Ethereum will get easier thanks to the Swap protocol #tradewithswap #whitepaper @m_oved @dmosites http://buff.ly/2pA5Rxr\u00a0pic.twitter.com/HeKmHEsZnx",
+            "username": "ConsenSys",
+            "num_likes": 44,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "858053780843180033": {
+            "id": "858053780843180033",
+            "text": "A big thank you to our community - here is what's next:https://blog.gnosis.pm/thanks-thoughts-and-the-road-ahead-6f7e3bd2fbc4\u00a0\u2026",
+            "username": "gnosisPM",
+            "num_likes": 28,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "856570173112942593": {
+            "id": "856570173112942593",
+            "text": "Gnosis $GNO tokens will be available for trading on Poloniex one week after the close of the auction.https://gnosis.pm\u00a0",
+            "username": "Poloniex",
+            "num_likes": 294,
+            "num_retweets": 170,
+            "num_replies": 125
+        },
+        "855525481088786433": {
+            "id": "855525481088786433",
+            "text": "Dear @LILBTHEBASEDGOD, \n\nPlease bless all Toronto sports teams. Let us only see wins from now on.\n\nYour friend, \n\nNorm",
+            "username": "norm",
+            "num_likes": 7452,
+            "num_retweets": 2496,
+            "num_replies": 36
+        },
+        "855092518429634560": {
+            "id": "855092518429634560",
+            "text": "Congrats to Prof. Forrest from @WaterlooMath for winning the 2017 #MargaretSinclair award for #mathed excellence http://www.fields.utoronto.ca/news/Brian-Forrest-Wins-2017-Margaret-Sinclair-Memorial-Award\u00a0\u2026pic.twitter.com/Of4GstteHY",
+            "username": "FieldsInstitute",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "852541905590259712": {
+            "id": "852541905590259712",
+            "text": "We have opened a second bug bounty program with a $50k bounty for severe bugs!https://blog.gnosis.pm/gnosis-bug-bounty-round-ii-50k-bounty-for-severe-bugs-fcc855b55cc\u00a0\u2026",
+            "username": "gnosisPM",
+            "num_likes": 25,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "849643242941558785": {
+            "id": "849643242941558785",
+            "text": "Very exciting news from Ethereum prediction market @gnosisPM: http://buff.ly/2o3jCGM\u00a0pic.twitter.com/X6vhFi54tX",
+            "username": "ConsenSys",
+            "num_likes": 31,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "846441791385677824": {
+            "id": "846441791385677824",
+            "text": "I'm looking for an intern, someone with experience in putting together decks and writing proposals",
+            "username": "chancetherapper",
+            "num_likes": 31940,
+            "num_retweets": 5286,
+            "num_replies": 2579
+        },
+        "843092303946244096": {
+            "id": "843092303946244096",
+            "text": "choose your fighterpic.twitter.com/mQSvJGc0Es",
+            "username": "skinnysymmetra",
+            "num_likes": 2791,
+            "num_retweets": 3236,
+            "num_replies": 23
+        },
+        "841930304449314818": {
+            "id": "841930304449314818",
+            "text": "Some Professor Quirrell shit.pic.twitter.com/4SeBliPDyd",
+            "username": "simondlr",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "840879312991531008": {
+            "id": "840879312991531008",
+            "text": "W/ all the $eth price hype, let's keep it real & remember what really counts. 100% up time #Ethereum tech @infura_io @ConsenSysLLCpic.twitter.com/2B3fm3wS0S",
+            "username": "JohnLilic",
+            "num_likes": 30,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "837249269086236672": {
+            "id": "837249269086236672",
+            "text": "This may or may not be #golang #Ethereum running on #OpenWRT #MIPS #router ;)pic.twitter.com/ge7XPIh06x",
+            "username": "peter_szilagyi",
+            "num_likes": 75,
+            "num_retweets": 42,
+            "num_replies": 5
+        },
+        "836701530958987264": {
+            "id": "836701530958987264",
+            "text": "Sure, [hard forks] can be ... chaotic if they\u2019re controversial, but that\u2019s the price of freedom -@VitalikButerin http://buff.ly/2mgysqF\u00a0pic.twitter.com/ZGsYEVTyXz",
+            "username": "ConsenSys",
+            "num_likes": 46,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "836645989972918272": {
+            "id": "836645989972918272",
+            "text": "The moment the presenter realizes S3 is down. #AWS #S3 #Amazonpic.twitter.com/S8gY1J9lrH",
+            "username": "ian_surewould",
+            "num_likes": 2432,
+            "num_retweets": 2013,
+            "num_replies": 44
+        },
+        "836663826028212224": {
+            "id": "836663826028212224",
+            "text": "key word being \"eventually\". Buy $eth $btc and hodl for 20 years and everything should work out ",
+            "username": "JohnLilic",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "835681529468702720": {
+            "id": "835681529468702720",
+            "text": "Check out the new, student-run non-profit http://www.feedthebees.ca\u00a0 to get FREE seeds for bee-friendly flowers. Help us save the bees!",
+            "username": "IronWhisk",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "834428698963107840": {
+            "id": "834428698963107840",
+            "text": "Big Announce for StabL: We demo VariabL, the First Exchange for Onchain Derivatives & open Registr. for the Alpha!!https://medium.com/stabl-blog/announcing-alpha-release-of-variabl-the-first-exchange-for-on-chain-derivative-products-93176ad39f3e#.vu9n78iss\u00a0\u2026",
+            "username": "HCharlanes",
+            "num_likes": 40,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "832983210137104385": {
+            "id": "832983210137104385",
+            "text": "@ConsenSysLLC  @GoBoardRoom @IAmNickDodson presenting new governance protocol at #EDCONpic.twitter.com/FFrhqHom4X",
+            "username": "ajunge_m",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "831626820365742080": {
+            "id": "831626820365742080",
+            "text": "Yes, it's called THE BLOCKCHAIN and it can help to stop deforestation in the Amazonpic.twitter.com/QfcVmOrog5",
+            "username": "dgwbirch",
+            "num_likes": 184,
+            "num_retweets": 65,
+            "num_replies": 15
+        },
+        "830588560256462848": {
+            "id": "830588560256462848",
+            "text": "Proud to announce I'll be speaking at #EdCon 2017. Presenting Boardroom's latest governance protocols and design.",
+            "username": "IAmNickDodson",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "829446647147012096": {
+            "id": "829446647147012096",
+            "text": "We are so grateful and honored to win @Sustainia community award! Thanks @JohnLilic for presenting our work. #AfghanGirlsCode pic.twitter.com/I4THVhJMnu",
+            "username": "CodeToInspire",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "829063513804926977": {
+            "id": "829063513804926977",
+            "text": "Every few weeks @infura_io handles a billion requests #nottooshabby",
+            "username": "maurycy",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "829159881898762240": {
+            "id": "829159881898762240",
+            "text": "I marvel at the efficiency of the @infura_io team. Innovating and building core infrastructure all while @hermanjunge slings slack emoji.https://twitter.com/maurycy/status/829063513804926977\u00a0\u2026",
+            "username": "MattCorva",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "829175928462917633": {
+            "id": "829175928462917633",
+            "text": "Great video on how modern almost-fully homomorphic encryption works https://www.youtube.com/shared?ci=potHv8LfL5k\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 123,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "816781329693978624": {
+            "id": "816781329693978624",
+            "text": "Glad to see that the we editor wars are finally overpic.twitter.com/vKKTP9qlh8",
+            "username": "nikitab",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "826086864121655300": {
+            "id": "826086864121655300",
+            "text": "Chile is currently experiencing the worst #wildfires they've ever had. Help with your cryptohttps://twitter.com/ajunge_m/status/825351634620407808\u00a0\u2026",
+            "username": "ConsenSys",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "824701344036651008": {
+            "id": "824701344036651008",
+            "text": "WeiFund Alpha is live on mainnet http://goo.gl/pGOkQa\u00a0, with our bug bounty program http://goo.gl/MS1jqI\u00a0! Come check us out!",
+            "username": "WeiFund",
+            "num_likes": 12,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "820789444584374272": {
+            "id": "820789444584374272",
+            "text": "I just published \u201cExploring Elliptic Curve Pairings\u201dhttps://medium.com/p/exploring-elliptic-curve-pairings-c73c1864e627\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 249,
+            "num_retweets": 134,
+            "num_replies": 5
+        },
+        "819247415408656386": {
+            "id": "819247415408656386",
+            "text": "To all Ethereum dApp developers, @WeiFund's bug bounty is launching soon! Sign up here: http://weifund.io/#bugBounty\u00a0",
+            "username": "ConsenSys",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "817414552451252226": {
+            "id": "817414552451252226",
+            "text": "Hey @ElonMusk & @TeslaMotors - We put a Tesla on the #blockchain!! https://youtu.be/6NBbZxddXEk\u00a0 #Ethereum #IoT #smartcities @GOVtechioneers",
+            "username": "EthEmbedded",
+            "num_likes": 114,
+            "num_retweets": 110,
+            "num_replies": 2
+        },
+        "816271757850083329": {
+            "id": "816271757850083329",
+            "text": "Winter classes start today! Good luck, glad to have you back Warriors. #UWaterloopic.twitter.com/zCgAmxaYP3",
+            "username": "UWaterlooPres",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "816043750204051457": {
+            "id": "816043750204051457",
+            "text": "Doodling in between calls. Happy 2017 all. \n@ConsenSysLLC #ethereum #blockchainpic.twitter.com/oOzadrlV68",
+            "username": "ililic",
+            "num_likes": 118,
+            "num_retweets": 44,
+            "num_replies": 2
+        },
+        "815282896084828160": {
+            "id": "815282896084828160",
+            "text": "Introducing `ethjs`, a new set of tiny utility libraries for building dApps and apps on Ethereum: https://github.com/ethjs\u00a0 -- Happy New Year!",
+            "username": "IAmNickDodson",
+            "num_likes": 70,
+            "num_retweets": 41,
+            "num_replies": 2
+        },
+        "812317835984781312": {
+            "id": "812317835984781312",
+            "text": "#ConsenSysWeekly: How to buy & gift #ether for the Holidays, #Weifund #BigBountyProgram & more #vacationpolicy #\nhttp://eepurl.com/cu0Y-T\u00a0pic.twitter.com/kCwKulYldK",
+            "username": "ConsenSys",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "812116417843707904": {
+            "id": "812116417843707904",
+            "text": "The Bug Bounty Project from @Weifund will be live in the New Year, developers sign up! #crowdfund #ethereumhttps://media.consensys.net/weifund-announces-its-bug-bounty-developers-sign-up-85b8f5311ea#.gtyxl1isg\u00a0\u2026",
+            "username": "ConsenSys",
+            "num_likes": 12,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "806631869156564992": {
+            "id": "806631869156564992",
+            "text": "Should have been Harambe.https://twitter.com/time/status/806476696257957888\u00a0\u2026",
+            "username": "norm",
+            "num_likes": 24727,
+            "num_retweets": 12854,
+            "num_replies": 162
+        },
+        "805965483803574272": {
+            "id": "805965483803574272",
+            "text": "Nous sommes bien d'accord @JustinTrudeauhttps://twitter.com/JustinTrudeau/status/805893754246889472\u00a0\u2026",
+            "username": "ConsenSys",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "749947856384061440": {
+            "id": "749947856384061440",
+            "text": "Leslie Knope's fall (Parks and Recreation)pic.twitter.com/NlubnanBYQ",
+            "username": "FibonacciSpiral",
+            "num_likes": 9237,
+            "num_retweets": 7583,
+            "num_replies": 31
+        },
+        "803858020254027776": {
+            "id": "803858020254027776",
+            "text": "State clearing 100% complete.",
+            "username": "VitalikButerin",
+            "num_likes": 227,
+            "num_retweets": 84,
+            "num_replies": 18
+        },
+        "803426942913511424": {
+            "id": "803426942913511424",
+            "text": "CPU schedulingpic.twitter.com/csHHpbGq02",
+            "username": "b0rk",
+            "num_likes": 526,
+            "num_retweets": 187,
+            "num_replies": 10
+        },
+        "799733729803534336": {
+            "id": "799733729803534336",
+            "text": "Technically correct is the best kind of correct.pic.twitter.com/5ZN3rhAMor",
+            "username": "henrikeneroth",
+            "num_likes": 2723,
+            "num_retweets": 2369,
+            "num_replies": 48
+        },
+        "803473551697186817": {
+            "id": "803473551697186817",
+            "text": "Sharding FAQ:https://github.com/ethereum/wiki/wiki/Sharding-FAQ\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 58,
+            "num_retweets": 43,
+            "num_replies": 3
+        },
+        "803397090575458305": {
+            "id": "803397090575458305",
+            "text": "Note for the unenlightened: this is meant to be sarcastic.pic.twitter.com/XnQstkGEnu",
+            "username": "VitalikButerin",
+            "num_likes": 160,
+            "num_retweets": 39,
+            "num_replies": 18
+        },
+        "704382042327420930": {
+            "id": "704382042327420930",
+            "text": "I will build a great std::barrier to keep JavaScript programmers out, and I will make @BrendanEich pay for that std::barrier.",
+            "username": "isotrumpp",
+            "num_likes": 1301,
+            "num_retweets": 1108,
+            "num_replies": 14
+        },
+        "795716180992462848": {
+            "id": "795716180992462848",
+            "text": "The point where a programming language makes as much sense as a religion...pic.twitter.com/yZc3hqWFkj",
+            "username": "microluciano",
+            "num_likes": 301,
+            "num_retweets": 235,
+            "num_replies": 6
+        },
+        "802152792651493376": {
+            "id": "802152792651493376",
+            "text": ".@eth_classic I'm a hard fork maximalist",
+            "username": "VladZamfir",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "801891199384780800": {
+            "id": "801891199384780800",
+            "text": "Because I'm tired of **every** **single** parity announcement ever always shitting on our team",
+            "username": "peter_szilagyi",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "801557379112456199": {
+            "id": "801557379112456199",
+            "text": "The city is currently looking into how we can extract the salt from my haters & apply it to roads this winter. Will keep you guys posted.",
+            "username": "norm",
+            "num_likes": 64870,
+            "num_retweets": 33528,
+            "num_replies": 238
+        },
+        "801513187594141700": {
+            "id": "801513187594141700",
+            "text": "Watch live as Obama pardons a semi-sentient bird instead of Edward Snowdenhttps://twitter.com/politico/status/801512018142445568\u00a0\u2026",
+            "username": "a_greenberg",
+            "num_likes": 981,
+            "num_retweets": 754,
+            "num_replies": 45
+        },
+        "801177504434286592": {
+            "id": "801177504434286592",
+            "text": "I'm presenting this Fri night in Toronto at #RegHackTO Bootstrap your Ethereum development using INFURA @infura_iohttp://www.osc.gov.on.ca/en/reghackto.htm\u00a0\u2026",
+            "username": "wuehler",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "801136309003685888": {
+            "id": "801136309003685888",
+            "text": "Another successful hard fork (\"Spurious Dragon\") for the Ethereum network. Original announcement: https://blog.ethereum.org/2016/11/18/hard-fork-no-4-spurious-dragon/\u00a0\u2026",
+            "username": "infura_io",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "799670303148412928": {
+            "id": "799670303148412928",
+            "text": "I just published \u201cDeveloping Ethereum Dapps with Truffle and MetaMask\u201dhttps://medium.com/p/developing-ethereum-dapps-with-truffle-and-metamask-aa8ad7e363ba\u00a0\u2026",
+            "username": "danfinlay",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "791263939015376902": {
+            "id": "791263939015376902",
+            "text": "Happy birthday to this future president.pic.twitter.com/JT3HiBjYdj",
+            "username": "HillaryClinton",
+            "num_likes": 119004,
+            "num_retweets": 60572,
+            "num_replies": 20525
+        },
+        "797151210532900868": {
+            "id": "797151210532900868",
+            "text": "Want to help stop money laundering? Ontario Securities Commission is hosting a  #hackathon Nov 25-27 https://goo.gl/uZWUNX\u00a0 #RegHackTO ^smpic.twitter.com/dQfIwC5vyA",
+            "username": "TorontoPolice",
+            "num_likes": 7,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "797217011440959488": {
+            "id": "797217011440959488",
+            "text": "I just published \u201cINFURA \u2018Boomerang\u2019 Architecture\u201d https://medium.com/p/infura-boomerang-architecture-6dc27ef56646\u00a0\u2026",
+            "username": "wuehler",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "795911352753668096": {
+            "id": "795911352753668096",
+            "text": "So I was wrong about not being able to circumvent the 140 char limit with polls yesterday. Turns out you can - it's just that the poll",
+            "username": "VitalikButerin",
+            "num_likes": 85,
+            "num_retweets": 31,
+            "num_replies": 4
+        },
+        "795065771223183360": {
+            "id": "795065771223183360",
+            "text": "What's the best way to circumvent the 140 char limit?",
+            "username": "VitalikButerin",
+            "num_likes": 32,
+            "num_retweets": 19,
+            "num_replies": 21
+        },
+        "794721814815461376": {
+            "id": "794721814815461376",
+            "text": "Two eyes for an eye will make the whole world blind in O(log(n)) time.",
+            "username": "VitalikButerin",
+            "num_likes": 755,
+            "num_retweets": 598,
+            "num_replies": 13
+        },
+        "793183685180854272": {
+            "id": "793183685180854272",
+            "text": "Building out our new \"Boomerang\" architecture v.0.1.0 release, @egalano showing off his #asciiartpic.twitter.com/8l7feMJQP0",
+            "username": "infura_io",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "792128723642355712": {
+            "id": "792128723642355712",
+            "text": "Everyone is kookoo for Zooko puffs?!?! #Zcash",
+            "username": "IAmNickDodson",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "791266921014517760": {
+            "id": "791266921014517760",
+            "text": "David R. Cheriton School of Computer Science ranked 1 in Canada, 18 globally by @USNewsEducation! http://ow.ly/aDZF305yafM\u00a0 #uwaterloo #STEMedpic.twitter.com/t6hK9h4Ovb",
+            "username": "WaterlooMath",
+            "num_likes": 13,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "789836388963323906": {
+            "id": "789836388963323906",
+            "text": "#UWaterloo design team launches Kickstarter for Waterloop to enter the @SpaceX Hyperloop competition:http://ow.ly/bvM4305po0B\u00a0",
+            "username": "UWaterloo",
+            "num_likes": 10,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "789901642074238976": {
+            "id": "789901642074238976",
+            "text": "Hearing the #ipfs story for almost the 100. time. But it is still a story that excites me every time.pic.twitter.com/LI73MB4gqg",
+            "username": "koeppelmann",
+            "num_likes": 58,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "789602632277061632": {
+            "id": "789602632277061632",
+            "text": "DNS on the blockchain would have prevented today's DDoS attacks\n#UN #WhiteHouse #ICANN #Google #Facebook #twitterhttp://goo.gl/K4PCZE\u00a0",
+            "username": "ConsenSys",
+            "num_likes": 59,
+            "num_retweets": 50,
+            "num_replies": 5
+        },
+        "789293073557839873": {
+            "id": "789293073557839873",
+            "text": "When a aeronautics engineer is bored https://twitter.com/FascinatingVids/status/692177745477013505/photo/1pic.twitter.com/GhOKkXwTPi\u00a0",
+            "username": "ValaAfshar",
+            "num_likes": 292,
+            "num_retweets": 197,
+            "num_replies": 4
+        },
+        "789234931599835136": {
+            "id": "789234931599835136",
+            "text": "How long it takes the complete a taskpic.twitter.com/80YE9Ijzx3",
+            "username": "iamdevloper",
+            "num_likes": 9474,
+            "num_retweets": 7460,
+            "num_replies": 89
+        },
+        "691382196515397632": {
+            "id": "691382196515397632",
+            "text": "It can happen. Our blockchain has tremendous potential. We have tremendous people. #MakeTheBlockchainGreatAgain",
+            "username": "trumpchain",
+            "num_likes": 196,
+            "num_retweets": 160,
+            "num_replies": 13
+        }
+    },
+    "tweeted": {
+        "1117878704846168066": {
+            "id": "1117878704846168066",
+            "text": "R.I.P. Ric Holt... His Turing programming language was the first introduction to computer science for most of us kids who went to high school in Ontario. Absolute legend!https://twitter.com/migod/status/1117836474576060421\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116705603022409729": {
+            "id": "1116705603022409729",
+            "text": "Twitter version of nice guys finish lasthttps://twitter.com/AsherT/status/1116240640516354048\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115652681429921794": {
+            "id": "1115652681429921794",
+            "text": "I think this is why i never get the second datehttps://twitter.com/gakonst/status/1115465450215956481\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108401742281142274": {
+            "id": "1108401742281142274",
+            "text": "Or juul pods",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108401604611530758": {
+            "id": "1108401604611530758",
+            "text": "And a pack of smokes",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1108400986727596032": {
+            "id": "1108400986727596032",
+            "text": "I wish for Core Devs to be called Corn Devshttps://twitter.com/0xzak/status/1108391431956107265\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1105932228402438144": {
+            "id": "1105932228402438144",
+            "text": "I will pay 1 DAI for someone to make a ETH2.0 sharded version of thishttps://twitter.com/0xzak/status/1105848885015007233\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1103895187904851969": {
+            "id": "1103895187904851969",
+            "text": "I'm living the #EthCC lyfe through twitter lol",
+            "username": "erktu",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103424172875833344": {
+            "id": "1103424172875833344",
+            "text": "Wow I've never related to something this muchhttps://twitter.com/sarah_edo/status/1103085086356856832\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101144936022532097": {
+            "id": "1101144936022532097",
+            "text": "Fry's bank account went untouched for 1000 years and nothing happened...https://twitter.com/BenWolf369/status/1100889256757616640\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1099098282599563264": {
+            "id": "1099098282599563264",
+            "text": "My COI disclosure:\n0% --- fiat\n0% --- crypto\n99% -- debt\n1% ---- humour\n\nI wanna #DAI",
+            "username": "erktu",
+            "num_likes": 36,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1097516237213569029": {
+            "id": "1097516237213569029",
+            "text": "Congrats everyone. We've attained full cult status. https://twitter.com/5chdn/status/1097228987871436800\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097230938411540481": {
+            "id": "1097230938411540481",
+            "text": "The @EthereumDenver fomo is real :(",
+            "username": "erktu",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095732047052705793": {
+            "id": "1095732047052705793",
+            "text": "When your mentor @wuehler tries to explain something important to you, but looking good is paramounthttps://twitter.com/ililic/status/1095602034949148672\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094975837303201792": {
+            "id": "1094975837303201792",
+            "text": "pic.twitter.com/16jnELakk6",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094975697653850113": {
+            "id": "1094975697653850113",
+            "text": "Me when I finally finish a taskpic.twitter.com/eJehWu6XX9",
+            "username": "erktu",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093559581123493888": {
+            "id": "1093559581123493888",
+            "text": "To our Gitcoin contributors: We are not putting you 68 DAI to waste (spent on McDonald's iced coffees). Bless your good hearts  @owocki @josephdelong @MarkBeylin and other (don't know your twitter handles)https://twitter.com/yeethaf/status/1093482827981750272\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1092450136511389696": {
+            "id": "1092450136511389696",
+            "text": "My code's so bad that no amount of comments will save it... So leave me alone... Also I'm actually 12.https://twitter.com/marcelv3612/status/1092390424927449089\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1091753811293552640": {
+            "id": "1091753811293552640",
+            "text": "Support our bake sale pleasehttps://twitter.com/yeethaf/status/1091743330294288384\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1091178009703387137": {
+            "id": "1091178009703387137",
+            "text": "Thanks for validating my life choices uncle iggyhttps://twitter.com/ililic/status/1091161151927250944\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082654797755490304": {
+            "id": "1082654797755490304",
+            "text": "Thanks @renelubov for the masterful design of that burger.",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1078718946914627584": {
+            "id": "1078718946914627584",
+            "text": "BTW, I'm a GoLang God, Distributed Systems Demon, and a Blockchain Brainiac",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1078718235309092864": {
+            "id": "1078718235309092864",
+            "text": "Crypto is great. Anyone can just suddenly become a \"professional journalist\", \"genius investor\", \"expert economist\", influencer, etc...https://twitter.com/BrendanEich/status/1077947887974109185\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1075389386512990209": {
+            "id": "1075389386512990209",
+            "text": "Dropping out is so mainstream lol #stayinschoolkidshttps://twitter.com/badcryptobitch/status/1075198518065676289\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1073748082527879169": {
+            "id": "1073748082527879169",
+            "text": "Am I the only one annoyed that @coindesk doesn't capitalize the 'E' in \"Ethereum?\"",
+            "username": "erktu",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1073623322045239297": {
+            "id": "1073623322045239297",
+            "text": "Gooo Chrrrawnaahhh!!!https://twitter.com/marclijour/status/1073596154724663296\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1065658933249945600": {
+            "id": "1065658933249945600",
+            "text": "Yall need some Hank Williams  https://twitter.com/CJlovescrypto/status/1064957988685979651\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060954033744007168": {
+            "id": "1060954033744007168",
+            "text": "stay hydrated, friendshttps://twitter.com/hondadeal4vets/status/1060624043685097472\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060211016468901889": {
+            "id": "1060211016468901889",
+            "text": "Almost every \"Slim Wallet\" out there just has less space to put all your trash in",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060192292982517761": {
+            "id": "1060192292982517761",
+            "text": "Best thing about being home is freedom from travel adaptors ",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057615926676414464": {
+            "id": "1057615926676414464",
+            "text": "Pantheon, the new Java impl of @ethereum fucking works!!! Congrats to the @PegaSysEng team!!! \n\n#DevConpic.twitter.com/7PGIXnDabV",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056460316350038016": {
+            "id": "1056460316350038016",
+            "text": "Does anyone at @ethereum know what time @EFDevcon registration opens???????pic.twitter.com/hwEqTlJYMv",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1053076675456421888": {
+            "id": "1053076675456421888",
+            "text": "I was just at a convenience store in Seattle and the owner nearly died when he saw me TAP my credit card to pay",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1052953600614232064": {
+            "id": "1052953600614232064",
+            "text": "Right on!!! Congratz to the geth team https://twitter.com/peter_szilagyi/status/1052885457069998081\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1049855533912453120": {
+            "id": "1049855533912453120",
+            "text": "TIL one of my CS profs from @UWaterloo is into blockchains! Goooo @sergey_nog \nLove how you integrated blockchain into the Computer Networks course.https://twitter.com/sergey_nog/status/1049788518229299200\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1049034276036009985": {
+            "id": "1049034276036009985",
+            "text": "CBC based Casper+Sharding spitting out some trippy visualizations by @VladZamfir at #ethSF pic.twitter.com/pVFAdn1GCE",
+            "username": "erktu",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047151036337549313": {
+            "id": "1047151036337549313",
+            "text": "Very proud to be a Waterloo boy right now https://twitter.com/UWaterloo/status/1047104139883237376\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044488756831481856": {
+            "id": "1044488756831481856",
+            "text": "Me me me me I want spank swag!https://twitter.com/SpankChain/status/1044321315417739264\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042629143743979520": {
+            "id": "1042629143743979520",
+            "text": "One of the biggest barriers we need to overcome to have mainstream adoption is poor UX. This is a prime example.https://twitter.com/PeterMcCormack/status/1042049821740335105\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1041118571030446080": {
+            "id": "1041118571030446080",
+            "text": "This is why I love working at @ConsenSys @infura_io !!!https://twitter.com/rdutel/status/1040918188886827009\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1028210584226070528": {
+            "id": "1028210584226070528",
+            "text": "Excuse my jetlagged face thx",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1028210535416905729": {
+            "id": "1028210535416905729",
+            "text": "Very excited to see some cool shit get built at #enshack Thanks to @ensdomains for hosting!!!pic.twitter.com/bxRbU3uKYf",
+            "username": "erktu",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1024285808562323458": {
+            "id": "1024285808562323458",
+            "text": "I've got good people in my lifehttps://twitter.com/burkhart2032/status/1024283441758658561\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1019067860721782784": {
+            "id": "1019067860721782784",
+            "text": "Does someone have a child under 6 years old for me to borrow so I can board this plane first? Thx",
+            "username": "erktu",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1013252414839721984": {
+            "id": "1013252414839721984",
+            "text": "No wonder people still ask \"wen moon?\"\n2009 - $0\n2011 - $00\n2013 - $000\n2015 - $0000\n2017 - $00000\n2019 - $000000https://twitter.com/bitcoinlife2012/status/1013019893128560640\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1011975913435643904": {
+            "id": "1011975913435643904",
+            "text": "Can't wait to go!!!!!!https://twitter.com/nicksdjohnson/status/1011937875926142977\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1011652791406714880": {
+            "id": "1011652791406714880",
+            "text": "The other scalability no one talks about!!!https://twitter.com/realledgerwatch/status/1011651642754813952\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006669775127248896": {
+            "id": "1006669775127248896",
+            "text": "lolpic.twitter.com/BDTnwcGlnQ",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006345658960236544": {
+            "id": "1006345658960236544",
+            "text": "The recent Ontario elections made me realize how bias I really am for thinking my bias news source was non-bias. On the other hand though, I get my news from /r/Toronto, so I'm an idiot................",
+            "username": "erktu",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006328025334665216": {
+            "id": "1006328025334665216",
+            "text": "I love that so many people (still not enough though) are working on this collaboratively in parallelhttps://twitter.com/pegasyseng/status/1006299735299420160\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1004852840236400640": {
+            "id": "1004852840236400640",
+            "text": "Ontarians, remember to vote!!!!",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1004193264788955136": {
+            "id": "1004193264788955136",
+            "text": "Please do this, folks! Also thanks for the patch @ParityTechhttps://twitter.com/infura_io/status/1004152511694102529\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1000899870675288065": {
+            "id": "1000899870675288065",
+            "text": "Neat ideas from @classygustav about the growing chain size!https://medium.com/@gustav.simonsson/keeping-up-with-the-etherians-a-response-to-blockchain-size-concerns-a4858c2701d9\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1000011554157314049": {
+            "id": "1000011554157314049",
+            "text": "This is the future of open source work everyonehttps://twitter.com/vsinghdothings/status/998976036460290048\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "993616307969916929": {
+            "id": "993616307969916929",
+            "text": "Verifying myself: I am erictu on http://Keybase.io\u00a0. yG_2GmD6lUHyPHcKfnwZcK-Q6vtWVK2x0eXe / https://keybase.io/erictu/sigs/yG_2GmD6lUHyPHcKfnwZcK-Q6vtWVK2x0eXe\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "983788789809102853": {
+            "id": "983788789809102853",
+            "text": "I WORK WITH THIS GUY!!!!!!!!!https://twitter.com/ConsenSys/status/983758596663070720\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "979835411970318336": {
+            "id": "979835411970318336",
+            "text": "Words to live by,https://twitter.com/VitalikButerin/status/946646221556293632\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "971132290150498304": {
+            "id": "971132290150498304",
+            "text": "Wanna know what are some of the things we do at @infura_io to squeeze out every last drop of performance and $$$? Read this dank ass blog post by our boi @TheJohanHermanhttps://blog.infura.io/optimizing-performance-and-cost-infura-benchmark-analysis-f083ccf8f6ac\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "958067465329627136": {
+            "id": "958067465329627136",
+            "text": "Meanwhile, I'm eating Costco eggs for 2 meals a day \nGo Infura! #Ethereum #infura #scalableblockchaininfrastructureistheshithttps://twitter.com/infura_io/status/958065625431130112\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "949034208160202752": {
+            "id": "949034208160202752",
+            "text": "brb, gunna live underground in a faraday cage with my tinfoil cap on until new CPUs come out. someone please find me when they release the new chips ",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "948432654872985600": {
+            "id": "948432654872985600",
+            "text": "Surprised nuclear warfare threats are not against Twitter's policieshttps://twitter.com/realdonaldtrump/status/948355557022420992\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "947530873359843328": {
+            "id": "947530873359843328",
+            "text": "Best present this holiday season. Guess i wasn't on Santa's naughty list after all https://twitter.com/karl_dot_tech/status/947498262780461056\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943869224019210240": {
+            "id": "943869224019210240",
+            "text": "Friends! Don't #HODL this holiday season. Donate some ETH to the Covenant House and show how generous and groovy the crypto community is :)\n#toronto #ethereum #merrymerkle #christmas\nhttps://merrymerkle.com/\u00a0",
+            "username": "erktu",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "942642950399393793": {
+            "id": "942642950399393793",
+            "text": "Microwave Oven: Food is still frozen after 1 minute of heating. Put it back in for 20 seconds and now it's hot enough to set my mixtape on fire...",
+            "username": "erktu",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "940436617340190721": {
+            "id": "940436617340190721",
+            "text": "Exam season is when I get the most sleep in the term... ",
+            "username": "erktu",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "921217917051551744": {
+            "id": "921217917051551744",
+            "text": "Not ready to collect my own garbage yet ",
+            "username": "erktu",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "921214521921880065": {
+            "id": "921214521921880065",
+            "text": "I think C++ gives me too many responsibilities and powers... I'm just a kid :(",
+            "username": "erktu",
+            "num_likes": 31,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "919813515678011392": {
+            "id": "919813515678011392",
+            "text": "Check out yer boi'z project :Dhttps://twitter.com/danfinlay/status/919618170784280577\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "918327906383880192": {
+            "id": "918327906383880192",
+            "text": "update: i was taking the log of 0...",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "918298791022915586": {
+            "id": "918298791022915586",
+            "text": "MFW getting a Divide By Zero error even though I didn't divide anything....................",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "909985632356794368": {
+            "id": "909985632356794368",
+            "text": "Wrote too much #golang and #javascript at work and now I keep forgetting semicolons in #cpp for school assignments...",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "904066473802510337": {
+            "id": "904066473802510337",
+            "text": "Back when I was anticipating $16pic.twitter.com/FMmtnkIbJ9",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "898525666076835840": {
+            "id": "898525666076835840",
+            "text": "Verifying myself: I am erictu on Keybase.io. WVAURmaolXdRQgRxavSYifoziFV56jAQ4yYu / https://keybase.io/erictu/sigs/WVAURmaolXdRQgRxavSYifoziFV56jAQ4yYu\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "889623940188037120": {
+            "id": "889623940188037120",
+            "text": "First time needing to bust out the sweater this summer... #winteriscoming",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "889245920977702912": {
+            "id": "889245920977702912",
+            "text": "Pitches about to start at #internshack2017 !!!! @ConsenSysLLCpic.twitter.com/b9vSBsbIx3",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "888920083673882625": {
+            "id": "888920083673882625",
+            "text": "In the 10th hour of #internshack2017 @ConsenSysLLC  ... So tired but can't leave. MUST GRIND HARDER ",
+            "username": "erktu",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "884988106331619328": {
+            "id": "884988106331619328",
+            "text": "Only good deal on Amazon Prime day is crypto...\n#AmazonPrimeDay #ethereum #bitcoin #HODL",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "883333309807439872": {
+            "id": "883333309807439872",
+            "text": "The most heartbreaking thing is when the dog is crying and scratching my door but I'm too busy to play with her  but I let her in anyways ",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "880641691396526081": {
+            "id": "880641691396526081",
+            "text": "However, there are MANY errors once your script starts to get evaluated  #FeelsBadMan",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "880640930008764417": {
+            "id": "880640930008764417",
+            "text": "TFW you write ~150 lines of code without running it once\u200b and there are no syntax errors #CantStopWontStop #NodeJS",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "878091347298836480": {
+            "id": "878091347298836480",
+            "text": "https://twitter.com/myetherwallet/status/878051789873885184\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "876154255622668290": {
+            "id": "876154255622668290",
+            "text": "One year ago today I was panicking about whether or not I'd need to start jobhunting again \n#ethereum #theDao #onelikeoneprayer",
+            "username": "erktu",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "874125495918624771": {
+            "id": "874125495918624771",
+            "text": "They say money doesn't grow on trees, but #Ethereum is one big ass Merkle Tree... \n#myWholeLifeHasBeenALie",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "866656541612662784": {
+            "id": "866656541612662784",
+            "text": "Whoops... Went to the wrong conference #consensus2017pic.twitter.com/RTT1P27LuQ",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "865219363347017728": {
+            "id": "865219363347017728",
+            "text": "#p\u00fbt\u012bt\u00f8\u00f1th\u00ebbl\u00f5\u00e7h\u00e1\u00ec\u00f1https://twitter.com/jessicica14/status/863576120905650176\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "864708194295312384": {
+            "id": "864708194295312384",
+            "text": "Bought a ton of eggs because I thought eggs were on sale, then I realized it was in USD and not CAD... #getrekt #thanksobama",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "860313680512155648": {
+            "id": "860313680512155648",
+            "text": "Learning from one of the greats: @wuehlerhttps://twitter.com/wuehler/status/860261919680286721\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "859142557946826752": {
+            "id": "859142557946826752",
+            "text": "The only place I've heard people groan louder than the TTC is Pearson Airport",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "859030175064969219": {
+            "id": "859030175064969219",
+            "text": "MFW people still refer to Ethereum as an 'alt-coin'",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "855531929319419904": {
+            "id": "855531929319419904",
+            "text": "Switched to @brave browser right after learning that I can use @metamask_io in it ",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "855301247703826433": {
+            "id": "855301247703826433",
+            "text": "TFW looking at my notes on Cyclotomic Fields and can't tell the difference between my zetas (\u03b6), 3's, and random scribbles...",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "848053139437744130": {
+            "id": "848053139437744130",
+            "text": "When you're writing C code and you try to console.log()...",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "842231493829177344": {
+            "id": "842231493829177344",
+            "text": "Due today, do today pic.twitter.com/hHbM9A9w8X",
+            "username": "erktu",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "841112246256336896": {
+            "id": "841112246256336896",
+            "text": "Easily one of the best products that connects people to the blockchainhttps://twitter.com/metamask_io/status/841111357000835072\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "838155645090205696": {
+            "id": "838155645090205696",
+            "text": "Let \u03b5 > 0. #triggered",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "837708678614691840": {
+            "id": "837708678614691840",
+            "text": "At the rate the ecosystem is growing, we're gunna have @maurycy tweeting \"record day\" like every day LOLhttps://twitter.com/maurycy/status/837575334350336000\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "836661597145817088": {
+            "id": "836661597145817088",
+            "text": "Hmm... What to listen to?... #EntEthAlliancepic.twitter.com/bwrvKBghod",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "832467602484060160": {
+            "id": "832467602484060160",
+            "text": "Studying Real Analysis right now and realizing what a crutch intuition is...",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "829845707792273416": {
+            "id": "829845707792273416",
+            "text": "MFW a screw falls off my chair and I cant seem to find where it's supposed to go in. Let it be known that if i dont reply, the chair got me",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "826275035262382080": {
+            "id": "826275035262382080",
+            "text": "Should be learning about the great works of Galois, but watching WWE instead...pic.twitter.com/CgCRBMk150",
+            "username": "erktu",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "825021790632157184": {
+            "id": "825021790632157184",
+            "text": "Time to skip class to try and make some $$$https://twitter.com/ConsenSysLLC/status/825020045474541568\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "812071795998261248": {
+            "id": "812071795998261248",
+            "text": "Tfw you thought @VitalikButerin started following you but it was @vitalikbutrein",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "809416265685155841": {
+            "id": "809416265685155841",
+            "text": "/gif its happening\nhttps://blog.ethereum.org/2016/12/15/swarm-alpha-public-pilot-basics-swarm/\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "806362934419091457": {
+            "id": "806362934419091457",
+            "text": "Only time I'm can be sure that the sequel won't be shit. Can't wait for Chapter 2!https://twitter.com/VladZamfir/status/806201961565581312\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "802573795856764928": {
+            "id": "802573795856764928",
+            "text": "i thought it was kim jong il...",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "801960899309346817": {
+            "id": "801960899309346817",
+            "text": "Everybody nowadays:\nLets make a token/coin for X, where X is an element of the set of EVERYTHING.",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "801805835307548673": {
+            "id": "801805835307548673",
+            "text": "Ayy one less thing I need to installhttps://twitter.com/peter_szilagyi/status/801784516549414913\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "801293745878691840": {
+            "id": "801293745878691840",
+            "text": "Just bought my first DSLR and I'm shooting closeups of the floor...",
+            "username": "erktu",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "796875189766254596": {
+            "id": "796875189766254596",
+            "text": "Damn, synced my Parity 1.4.2 node using Warp Sync is only 25 mins on crappy Canadian internet... #parity @ethcoreproject",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "796189729834287104": {
+            "id": "796189729834287104",
+            "text": "I feel like a bystander in a World Star fight video right now.",
+            "username": "erktu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "793492026956349441": {
+            "id": "793492026956349441",
+            "text": "w0w itz gunna be gr8 :~)https://twitter.com/IAmNickDodson/status/793491875877548034\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "791038897287524352": {
+            "id": "791038897287524352",
+            "text": "\"you gotta stop retweeting so much\"",
+            "username": "erktu",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "789323252606734336": {
+            "id": "789323252606734336",
+            "text": "data science, the sexy term for statistics.https://twitter.com/MarkBeylin/status/789112909691400192\u00a0\u2026",
+            "username": "erktu",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "josephdelong": 1,
+        "peter_szilagyi": 14,
+        "LaurelCoons": 1,
+        "ProfFaustust": 1,
+        "0xzak": 5,
+        "FiloSottile": 1,
+        "ConsenSysVC": 1,
+        "mark_dago": 3,
+        "_tmio": 1,
+        "infura_io": 40,
+        "RebeccaSlatkin": 1,
+        "ethersproject": 1,
+        "yeethaf": 2,
+        "gridplus": 7,
+        "coindesk": 1,
+        "egalano": 9,
+        "climagic": 1,
+        "nomilknomasters": 1,
+        "DeanEigenmann": 3,
+        "sassal0x": 1,
+        "_julesh_": 1,
+        "HomomorphicEnc": 1,
+        "pwr2dppl": 1,
+        "manisha72617183": 1,
+        "sniko_": 1,
+        "elonmusk": 1,
+        "ethereumJoseph": 8,
+        "benjaminion_xyz": 1,
+        "econoar": 1,
+        "JonnyRhea": 1,
+        "fubuloubu": 2,
+        "maurycy": 3,
+        "PelleB": 1,
+        "gballet": 1,
+        "realLedgerwatch": 4,
+        "nicksdjohnson": 1,
+        "CBCFletch": 1,
+        "PegaSysEng": 7,
+        "hondadeal4vets": 2,
+        "VitalikButerin": 13,
+        "opera": 1,
+        "MPtherealMVP": 1,
+        "Cellarius2084": 1,
+        "el33th4xor": 1,
+        "Netflix_CA": 1,
+        "BreakerMag": 1,
+        "JohnLilic": 6,
+        "StefanDGeorge": 2,
+        "feindura": 2,
+        "MarkBeylin": 1,
+        "cdetrio": 1,
+        "ProfFathead": 1,
+        "FISSIONcodes": 1,
+        "eduadiez": 1,
+        "renelubov": 1,
+        "golemproject": 1,
+        "PhABCD": 1,
+        "sxsw": 1,
+        "ShasperS": 1,
+        "MileahKromer": 1,
+        "metamask_io": 4,
+        "williamb3ntley": 1,
+        "maurelian_": 4,
+        "grittygrease": 1,
+        "Yubico": 1,
+        "spencecoin": 1,
+        "musalbas": 1,
+        "koeppelmann": 4,
+        "aditi_sriram": 1,
+        "IAmNickDodson": 7,
+        "ililic": 6,
+        "mhswende": 1,
+        "zinc_work": 1,
+        "3blue1brown": 1,
+        "LivepeerTV": 1,
+        "zigguratt": 3,
+        "ChrisLundkvist": 1,
+        "wyohackathon": 1,
+        "ne_wnormal": 1,
+        "greg_colvin": 1,
+        "wuehler": 8,
+        "TFlight31": 1,
+        "norm": 7,
+        "panekkkk": 1,
+        "hudsonjameson": 1,
+        "digitaldonkey09": 1,
+        "poanetwork": 1,
+        "jemenger": 1,
+        "ChronoLogicETH": 1,
+        "WaterlooMath": 2,
+        "ethereum": 1,
+        "AppletonDave": 1,
+        "adChainRegistry": 1,
+        "iurimatias": 1,
+        "julianzawist": 1,
+        "ethBounties": 2,
+        "DWHauthor": 1,
+        "danprimack": 1,
+        "jimjag": 1,
+        "4tt4r": 1,
+        "MattCorva": 2,
+        "NickSzabo4": 1,
+        "GNSPS": 1,
+        "melove_07": 2,
+        "jdetychey": 1,
+        "dominic_w": 1,
+        "avsa": 1,
+        "ConsenSys": 11,
+        "gitcoin": 1,
+        "ftncookies": 1,
+        "ProductHunt": 1,
+        "crypto_dev_alex": 1,
+        "CReckhow": 1,
+        "morningmoneyben": 1,
+        "JackSpallone": 1,
+        "ethstatus": 1,
+        "jrdprr": 1,
+        "myetherwallet": 1,
+        "FortWorth_SEC": 1,
+        "VladZamfir": 3,
+        "Steven_McKie": 2,
+        "DianeTurnshek": 1,
+        "Boeing": 1,
+        "tweetsoutloud": 1,
+        "SpankChain": 1,
+        "ConsenSysKirk": 2,
+        "classygustav": 1,
+        "trufflesuite": 1,
+        "simondlr": 3,
+        "metaxchain": 1,
+        "gnosisPM": 2,
+        "Poloniex": 1,
+        "FieldsInstitute": 1,
+        "chancetherapper": 1,
+        "skinnysymmetra": 1,
+        "ian_surewould": 1,
+        "IronWhisk": 1,
+        "HCharlanes": 1,
+        "ajunge_m": 1,
+        "dgwbirch": 1,
+        "CodeToInspire": 1,
+        "nikitab": 1,
+        "WeiFund": 1,
+        "EthEmbedded": 1,
+        "UWaterlooPres": 1,
+        "FibonacciSpiral": 1,
+        "b0rk": 1,
+        "henrikeneroth": 1,
+        "isotrumpp": 1,
+        "microluciano": 1,
+        "a_greenberg": 1,
+        "danfinlay": 1,
+        "HillaryClinton": 1,
+        "TorontoPolice": 1,
+        "UWaterloo": 1,
+        "ValaAfshar": 1,
+        "iamdevloper": 1,
+        "trumpchain": 1
+    },
+    "users_retweeted": [
+        "infura_io",
+        "peter_szilagyi",
+        "VitalikButerin",
+        "ConsenSys",
+        "egalano",
+        "ethereumJoseph",
+        "wuehler",
+        "gridplus",
+        "PegaSysEng",
+        "IAmNickDodson",
+        "norm",
+        "JohnLilic",
+        "ililic",
+        "0xzak",
+        "realLedgerwatch",
+        "metamask_io",
+        "maurelian_",
+        "koeppelmann",
+        "mark_dago",
+        "DeanEigenmann",
+        "maurycy",
+        "zigguratt",
+        "VladZamfir",
+        "simondlr",
+        "yeethaf",
+        "fubuloubu",
+        "hondadeal4vets",
+        "StefanDGeorge",
+        "feindura",
+        "WaterlooMath",
+        "ethBounties",
+        "MattCorva",
+        "melove_07",
+        "Steven_McKie",
+        "ConsenSysKirk",
+        "gnosisPM",
+        "josephdelong",
+        "LaurelCoons",
+        "ProfFaustust",
+        "FiloSottile",
+        "ConsenSysVC",
+        "_tmio",
+        "RebeccaSlatkin",
+        "ethersproject",
+        "coindesk",
+        "climagic",
+        "nomilknomasters",
+        "sassal0x",
+        "_julesh_",
+        "HomomorphicEnc",
+        "pwr2dppl",
+        "manisha72617183",
+        "sniko_",
+        "elonmusk",
+        "benjaminion_xyz",
+        "econoar",
+        "JonnyRhea",
+        "PelleB",
+        "gballet",
+        "nicksdjohnson",
+        "CBCFletch",
+        "opera",
+        "MPtherealMVP",
+        "Cellarius2084",
+        "el33th4xor",
+        "Netflix_CA",
+        "BreakerMag",
+        "MarkBeylin",
+        "cdetrio",
+        "ProfFathead",
+        "FISSIONcodes",
+        "eduadiez",
+        "renelubov",
+        "golemproject",
+        "PhABCD",
+        "sxsw",
+        "ShasperS",
+        "MileahKromer",
+        "williamb3ntley",
+        "grittygrease",
+        "Yubico",
+        "spencecoin",
+        "musalbas",
+        "aditi_sriram",
+        "mhswende",
+        "zinc_work",
+        "3blue1brown",
+        "LivepeerTV",
+        "ChrisLundkvist",
+        "wyohackathon",
+        "ne_wnormal",
+        "greg_colvin",
+        "TFlight31",
+        "panekkkk",
+        "hudsonjameson",
+        "digitaldonkey09",
+        "poanetwork",
+        "jemenger",
+        "ChronoLogicETH",
+        "ethereum",
+        "AppletonDave",
+        "adChainRegistry",
+        "iurimatias",
+        "julianzawist",
+        "DWHauthor",
+        "danprimack",
+        "jimjag",
+        "4tt4r",
+        "NickSzabo4",
+        "GNSPS",
+        "jdetychey",
+        "dominic_w",
+        "avsa",
+        "gitcoin",
+        "ftncookies",
+        "ProductHunt",
+        "crypto_dev_alex",
+        "CReckhow",
+        "morningmoneyben",
+        "JackSpallone",
+        "ethstatus",
+        "jrdprr",
+        "myetherwallet",
+        "FortWorth_SEC",
+        "DianeTurnshek",
+        "Boeing",
+        "tweetsoutloud",
+        "SpankChain",
+        "classygustav",
+        "trufflesuite",
+        "metaxchain",
+        "Poloniex",
+        "FieldsInstitute",
+        "chancetherapper",
+        "skinnysymmetra",
+        "ian_surewould",
+        "IronWhisk",
+        "HCharlanes",
+        "ajunge_m",
+        "dgwbirch",
+        "CodeToInspire",
+        "nikitab",
+        "WeiFund",
+        "EthEmbedded",
+        "UWaterlooPres",
+        "FibonacciSpiral",
+        "b0rk",
+        "henrikeneroth",
+        "isotrumpp",
+        "microluciano",
+        "a_greenberg",
+        "danfinlay",
+        "HillaryClinton",
+        "TorontoPolice",
+        "UWaterloo",
+        "ValaAfshar",
+        "iamdevloper",
+        "trumpchain"
+    ]
+}

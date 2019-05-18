@@ -1,0 +1,70 @@
+{
+    "is_complete": true,
+    "username": "happy_ens",
+    "retweeted": {
+        "1024380132121694208": {
+            "id": "1024380132121694208",
+            "text": "wathttps://twitter.com/Ripple/status/1024324583963250688\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 4450,
+            "num_retweets": 840,
+            "num_replies": 381
+        },
+        "957379056063873031": {
+            "id": "957379056063873031",
+            "text": "I just published \u201cGas price oracles and the future of ethgasstation\u201dhttps://medium.com/p/gas-price-oracles-and-the-future-of-ethgasstation-859a55c57ad5\u00a0\u2026",
+            "username": "ETHGasStation",
+            "num_likes": 56,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "957823937324441600": {
+            "id": "957823937324441600",
+            "text": "Are you holding the pixel, or is the pixel holding you? #pixelartpic.twitter.com/UDA3jVhpcy",
+            "username": "SpectreSkully",
+            "num_likes": 56,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "957720902312935424": {
+            "id": "957720902312935424",
+            "text": "To be clear, I still think ETH is far and away the best blockchain platform. Its core developers are making a good honest effort at solving the scalability trilemma without compromising on decentralization. But it\u2019s important to be realistic/honest about limits and timelines. 1/2",
+            "username": "gphummer",
+            "num_likes": 38,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "916691881303597056": {
+            "id": "916691881303597056",
+            "text": "If you are asking the government to regulate crypto currencies, you've missed the point of crypto currencies.",
+            "username": "rogerkver",
+            "num_likes": 2560,
+            "num_retweets": 940,
+            "num_replies": 148
+        }
+    },
+    "tweeted": {
+        "919988678465695744": {
+            "id": "919988678465695744",
+            "text": "Please note that our public release is an alpha and has no guarantees ",
+            "username": "happy_ens",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "VitalikButerin": 1,
+        "ETHGasStation": 1,
+        "SpectreSkully": 1,
+        "gphummer": 1,
+        "rogerkver": 1
+    },
+    "users_retweeted": [
+        "VitalikButerin",
+        "ETHGasStation",
+        "SpectreSkully",
+        "gphummer",
+        "rogerkver"
+    ]
+}

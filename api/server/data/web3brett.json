@@ -1,0 +1,508 @@
+{
+    "is_complete": true,
+    "username": "web3brett",
+    "retweeted": {
+        "1123033196642201600": {
+            "id": "1123033196642201600",
+            "text": "Ethereum",
+            "username": "elonmusk",
+            "num_likes": 111163,
+            "num_retweets": 9462,
+            "num_replies": 4883
+        },
+        "1120485337002905602": {
+            "id": "1120485337002905602",
+            "text": " Ground Control to Major Tom:\n\n Commencing countdown \nEngine's on...\nCheck ignition...\nAnd may transfers activate!\n\nCosmonauts, Phase II is in full swing.https://blog.cosmos.network/phase-ii-initiated-cosmos-atom-transfers-enabled-by-governance-831a7e555ab6\u00a0\u2026",
+            "username": "cosmos",
+            "num_likes": 160,
+            "num_retweets": 46,
+            "num_replies": 3
+        },
+        "1119940263533862912": {
+            "id": "1119940263533862912",
+            "text": "Dystopia is here already.https://twitter.com/TheStuffOfMemes/status/1119628749383901184\u00a0\u2026",
+            "username": "licuende",
+            "num_likes": 179,
+            "num_retweets": 61,
+            "num_replies": 12
+        },
+        "1114250454802817029": {
+            "id": "1114250454802817029",
+            "text": "Sure, buying things with crypto is hard. \n\nBut have you ever tried booking a plane ticket using your credit card loyalty points when they use a different rewards program than the airline?",
+            "username": "avsa",
+            "num_likes": 102,
+            "num_retweets": 11,
+            "num_replies": 8
+        },
+        "1113173498384441344": {
+            "id": "1113173498384441344",
+            "text": "Dogecoin rulzpic.twitter.com/flWWUgAgLU",
+            "username": "elonmusk",
+            "num_likes": 153864,
+            "num_retweets": 21161,
+            "num_replies": 1983
+        },
+        "1113098963735982080": {
+            "id": "1113098963735982080",
+            "text": "Wow. Andreessen Horowitz is registering their entire firm of 150 people as financial advisors in order to make bigger bets.\n\n\"If [a16z] wants to put $1 billion into crypto or shares from public companies ...they can\" \n\nvia @Forbes by @alexrkonrad\nhttps://www.forbes.com/sites/alexkonrad/2019/04/02/andreessen-horowitz-is-blowing-up-the-venture-capital-model-again/#7f0b43a67d9f\u00a0\u2026pic.twitter.com/2pdCQ8f5R4",
+            "username": "katherineykwu",
+            "num_likes": 578,
+            "num_retweets": 172,
+            "num_replies": 19
+        },
+        "1113055048269946880": {
+            "id": "1113055048269946880",
+            "text": "This is exemplary for the progress the #Ethereum #developer community has made over the last 2-3 years, just compare those 2 attempts of building a chess game. \n2016: https://medium.com/@graycoding/lessons-learned-from-making-a-chess-game-for-ethereum-6917c01178b6\u00a0\u2026\n2019: https://twitter.com/mikery/status/1112603032703913985?s=19\u00a0\u2026\n\nWe are getting there ...",
+            "username": "ChrJentzsch",
+            "num_likes": 43,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1106891680626675717": {
+            "id": "1106891680626675717",
+            "text": "Defi in a Box - a proof of concept Python/Docker stack for running #DeFi projects locally with Ganache. It deploys some test ERC20s and creates @UniswapExchange exchanges (with liquidity) for each token.https://github.com/mikery/defi-in-a-box\u00a0\u2026",
+            "username": "mikery",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1112603032703913985": {
+            "id": "1112603032703913985",
+            "text": "Weekend project: xDai Chess with state channels. Each move updates the game's state hash, which is signed by both players. Burner wallets are used to auto-sign state channel updates. Each player deposits xDai - the winner takes it all.pic.twitter.com/fU1b4XHEVg",
+            "username": "mikery",
+            "num_likes": 264,
+            "num_retweets": 58,
+            "num_replies": 19
+        },
+        "1112581840630484993": {
+            "id": "1112581840630484993",
+            "text": "Toward a brighter tomorrow.pic.twitter.com/7FAWC7TS8z",
+            "username": "VitalikButerin",
+            "num_likes": 7891,
+            "num_retweets": 1154,
+            "num_replies": 668
+        },
+        "1112285857497546752": {
+            "id": "1112285857497546752",
+            "text": "Running the @ethstatus Nimbus eth2 testnet:pic.twitter.com/jPpAIuhfY3",
+            "username": "VitalikButerin",
+            "num_likes": 919,
+            "num_retweets": 192,
+            "num_replies": 45
+        },
+        "1109370141060616192": {
+            "id": "1109370141060616192",
+            "text": "My \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb \ud835\uddd8\ud835\udde2\ud835\udde6 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddef\ud835\uddfc\ud835\uddfc\ud835\uddf8 is now available on https://learneos.dev\u00a0!  As the first of its kind, you'll learn how to build dapps on EOS from start to finish and become a full-stack EOS blockchain developer #eos #eosio Thread ",
+            "username": "cmichelio",
+            "num_likes": 145,
+            "num_retweets": 50,
+            "num_replies": 9
+        },
+        "1105599935989178368": {
+            "id": "1105599935989178368",
+            "text": "ZEIP-23 is live on mainnet  you can now trade arbitrary bundles of ERC20 and ERC721 tokens via 0x protocol v2.1!\n\nhttps://blog.0xproject.com/zeip-23-vote-post-mortem-311c9323e228\u00a0\u2026pic.twitter.com/NpVNvPrGwj",
+            "username": "0xProject",
+            "num_likes": 324,
+            "num_retweets": 93,
+            "num_replies": 8
+        },
+        "1108487911802966017": {
+            "id": "1108487911802966017",
+            "text": "#BitcoinTwitter and #CryptoTwitter! Square is hiring 3-4 crypto engineers and 1 designer to work full-time on open source contributions to the bitcoin/crypto ecosystem. Work from anywhere, report directly to me, and we can even pay you in bitcoin! Introducing @SqCrypto. Why?",
+            "username": "jack",
+            "num_likes": 12479,
+            "num_retweets": 4259,
+            "num_replies": 767
+        },
+        "1108072528403156994": {
+            "id": "1108072528403156994",
+            "text": "1. Today we're excited to release an alpha version of the Playground, a full end-to-end demo/sandbox for generalized state channels built with the Counterfactual framework. Go play! \u2192https://playground.counterfactual.com\u00a0",
+            "username": "statechannels",
+            "num_likes": 305,
+            "num_retweets": 117,
+            "num_replies": 10
+        },
+        "1104056292900069376": {
+            "id": "1104056292900069376",
+            "text": "Like version control for your smart contracts, add meta-transactions, new features, and fix bugs any time using the new EIP-1822 proxy contract. Comments and discussion welcome!https://medium.com/terminaldotco/escape-hatch-proxy-efb681de108d\u00a0\u2026",
+            "username": "terminaldotco",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1099389558427389955": {
+            "id": "1099389558427389955",
+            "text": " Maker CDP Stability Fee is now 1.5% https://etherscan.io/tx/0x9cfeb1dde25706f868c34c34ce6cc8c8c7686bed13e736f26b1169dc1723bcc9\u00a0\u2026 http://dai.makerdao.com\u00a0 #makerdao",
+            "username": "MakerDaiBot",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1098313039831535618": {
+            "id": "1098313039831535618",
+            "text": "EXCLUSIVE: One raised $150 million. The other got a $100K grant. Now, new data shows @Bancor & @UniswapExchange neck-in-neck in the race to facilitate decentralized ethereum trading. http://ow.ly/lXJR30nM2iD\u00a0 @BradyDale reports",
+            "username": "coindesk",
+            "num_likes": 185,
+            "num_retweets": 74,
+            "num_replies": 17
+        },
+        "1097564250900520960": {
+            "id": "1097564250900520960",
+            "text": "Every core developer is also a politician & most of them don't know it yet",
+            "username": "RyanSAdams",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1097237967540674560": {
+            "id": "1097237967540674560",
+            "text": "We created 'Eth This Then That' (IFTTT for Ethereum) so anyone can connect different dapps and DeFi components  without writing a single line of code!\n\nIt's a point & click interface for creating automated bots  on Ethereum! @Parker_Place @iamchrissmith @johnDanger_\n#ETHDenverpic.twitter.com/qt9NpNO8tT",
+            "username": "corbpage",
+            "num_likes": 984,
+            "num_retweets": 269,
+            "num_replies": 49
+        },
+        "1096028349376417792": {
+            "id": "1096028349376417792",
+            "text": "J.P. Morgan is launching a stablecoin. Soon every bank will issue one as well.\n\nClosed systems for the world\u2019s elite will always be beaten by open systems built for the common person.\n\nLong Bitcoin, Short the Bankers!",
+            "username": "APompliano",
+            "num_likes": 5168,
+            "num_retweets": 1377,
+            "num_replies": 289
+        },
+        "1094286658583830528": {
+            "id": "1094286658583830528",
+            "text": "peeking directly at a public blockchain is an economist's dream, they just don't know it yet. complete granular information on an economy, right there in front of your very eyes. it's awesome (in the original meaning of the word), almost sublime.",
+            "username": "nic__carter",
+            "num_likes": 536,
+            "num_retweets": 101,
+            "num_replies": 22
+        },
+        "1093547099235516416": {
+            "id": "1093547099235516416",
+            "text": "If you still want to use http://oasis.direct\u00a0 you can do it through @DAppNode!! We just deployed it to http://oasis.dappnode.eth (@ensdomains + @IPFSbot) and it's gonna be there forever! Welcome to a decentralized world in with nobody can shut down a great service anymore ",
+            "username": "eduadiez",
+            "num_likes": 114,
+            "num_retweets": 27,
+            "num_replies": 8
+        },
+        "1094269702740729856": {
+            "id": "1094269702740729856",
+            "text": "The first release candidate of the @cosmos hub mainnet is out.\nhttps://github.com/cosmos/cosmos-sdk/releases/tag/v0.31.0\u00a0\u2026\n\nOver the next weeks, it will be tested in the final round of Game of Stakes and the gaia-11k testnet.\n\nThenpic.twitter.com/IxMoKzKtfr",
+            "username": "zmanian",
+            "num_likes": 89,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1094309783086104576": {
+            "id": "1094309783086104576",
+            "text": "One could say open finance is getting rather popular... \n\nWETH (which is an indicator of open finance growth) is now the largest Ethereum account and shows no signs of stopping.\n\n(shoutout to @shawntabrizi for the really cool graphing site)pic.twitter.com/LenM2BQeJ4",
+            "username": "econoar",
+            "num_likes": 36,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1092863143854755841": {
+            "id": "1092863143854755841",
+            "text": "Two weeks ago I started working with @kyokan_io to prepare a report on the ETH 2.0 effort. We interviewed ETH 2.0 leads from @prylabs @PegaSysEng @ChainSafeth @ethstatus and @sigp_io, as well as @dannyryan. \n\nHere are our findings:https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit?usp=drivesdk\u00a0\u2026",
+            "username": "ameensol",
+            "num_likes": 319,
+            "num_retweets": 101,
+            "num_replies": 14
+        },
+        "1090833187918528517": {
+            "id": "1090833187918528517",
+            "text": "2,000,021.056 ETH locked in the Dai Credit System.\n\nThat's 92.79% of all Wrapped ETH.\n\nThat's 1.91% of the ENTIRE ETH SUPPLY in existence.\n\nThat's about $218,000,000 Dollars worth of ETH backing more than $75,440,000 worth of Dai.\n\nCongratulations @MakerDAO!",
+            "username": "nanexcool",
+            "num_likes": 515,
+            "num_retweets": 131,
+            "num_replies": 15
+        },
+        "1037319810261037056": {
+            "id": "1037319810261037056",
+            "text": "scaling ethereum with snarkshttps://github.com/barryWhiteHat/roll_up\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 60,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1050127434094432256": {
+            "id": "1050127434094432256",
+            "text": "Hello world",
+            "username": "terminaldotco",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1050611585033486336": {
+            "id": "1050611585033486336",
+            "text": "Every time an app forces me to only use metamask I die little inside. \nWhat if I'm on my phone? \nWhat if I I'm sitting here with my ledger nano already attached at my computer?\nWhat I just have a different in-browser wallet?\nLets scale UX and user acquistion, not just protocol.",
+            "username": "jeffscottward",
+            "num_likes": 107,
+            "num_retweets": 19,
+            "num_replies": 14
+        },
+        "1050765950692315137": {
+            "id": "1050765950692315137",
+            "text": "I've been in crypto for five years, and I still nearly give myself heart attacks sending from mainstream best-in-class HW wallet, to mainstream best-in-class hosted wallet.\n\nThe UX lag is too scary for most mainstream users.",
+            "username": "twobitidiot",
+            "num_likes": 1077,
+            "num_retweets": 114,
+            "num_replies": 82
+        },
+        "1044205584822804480": {
+            "id": "1044205584822804480",
+            "text": "Airbnb understands the long term competitive advantage of mutualization and takes a page from the crypto playbook. Sharing stock with key suppliers shouldn\u2019t be an issue (...but it is). If yes is the answer a huge and irreversible trend will emergehttps://www.axios.com/airbnb-asks-sec-to-let-it-give-hosts-equity-a7d99495-0782-4bce-92bb-4c692ef1b621.html\u00a0\u2026",
+            "username": "flexthought",
+            "num_likes": 66,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "996417684278411264": {
+            "id": "996417684278411264",
+            "text": "Introducing 0x v2.0: The protocol for trading everythinghttps://blog.0xproject.com/introducing-0x-protocol-v2-9f5bda04d38d\u00a0\u2026",
+            "username": "0xProject",
+            "num_likes": 2104,
+            "num_retweets": 743,
+            "num_replies": 46
+        }
+    },
+    "tweeted": {
+        "1113275296265003008": {
+            "id": "1113275296265003008",
+            "text": "Wonder what @elonmusk thinks of ETH hard fork to include ProgPoWpic.twitter.com/6UGo0LsHR7",
+            "username": "web3brett",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1112658669341163520": {
+            "id": "1112658669341163520",
+            "text": "lol, kinda seems like a breakthrough at first #AprilFoolshttps://medium.com/mycrypto/introducing-the-invisible-ink-paper-wallet-1cbef69599ad\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111754046929543168": {
+            "id": "1111754046929543168",
+            "text": "RIP it was a pleasure building @Balanc3Official  It was a great product with many exciting complexities. Amazing things to come with \u2066\u2066@terminaldotco\u2069https://www.theblockcrypto.com/tiny/consensys-accounting-software-spoke-balanc3-is-shutting-down/\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1109617678979907584": {
+            "id": "1109617678979907584",
+            "text": "This is a cool screenshot .. You should include NFT holdings toohttps://twitter.com/MyCrypto/status/1109192549611143168\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108963060381671426": {
+            "id": "1108963060381671426",
+            "text": "Not sure how you're pulling this data @nodesmith but Florida State definitely won #healthchecks #consensus https://ethmadness.com/bracket/223\u00a0pic.twitter.com/U9pzu2Fazr",
+            "username": "web3brett",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1108490069764202497": {
+            "id": "1108490069764202497",
+            "text": "A collector portal that aggregates all NFTs in your wallet, tracks activity, sets alerts on bids (and other activity) cross platforms, can create auctions from, and gives display options",
+            "username": "web3brett",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108106952058589184": {
+            "id": "1108106952058589184",
+            "text": "Check out my March Madness bracket - stored in a smart contract via http://ethmadness.com\u00a0 built by @nodesmith #ethmadness. https://ethmadness.com/bracket/223\u00a0",
+            "username": "web3brett",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107735121950621696": {
+            "id": "1107735121950621696",
+            "text": "Met a guy working on Ethereum UX. Asked to see the demo, he sent me this. #EIP #HexKeyboard #MetamaskKillerpic.twitter.com/aG84Pu2edq",
+            "username": "web3brett",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106196124145197058": {
+            "id": "1106196124145197058",
+            "text": ".@peter_szilagyi https://rinkeby.etherscan.io/address/0x31b98d14007bdee637298086988a0bbd31184523\u00a0\u2026 is this like a multisig that automatically sends through the faucet?",
+            "username": "web3brett",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102661744080629761": {
+            "id": "1102661744080629761",
+            "text": "Who are the biggest miners or holders of ropsten and rinkeby testnets?https://twitter.com/web3brett/status/1102637801294708738\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1102637801294708738": {
+            "id": "1102637801294708738",
+            "text": "How do I get testnet ETH in bulk? Need it for our developer platform so its for a good cause",
+            "username": "web3brett",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1102561501490098177": {
+            "id": "1102561501490098177",
+            "text": "I wouldn\u2019t say it\u2019s mainstream for developers yet. The on-ramp is still difficult for a web2 dev needing to learn a group of unfamiliar/fragmented tools (truffle, remix, infura, etherscan, indexing web3, listener services). Developers still need better toolinghttps://twitter.com/cburniske/status/1102271513556738048\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097844908315029504": {
+            "id": "1097844908315029504",
+            "text": "Great tutorial and gotta love an instagram like dapp! BUT, going to need to abstract wallet logins, gas fees, and native protocol tokens to get use in a dapp of these sorts. \"Okay, so I need to sign a tx and spend $0.20 to post this pic? Im good\"https://medium.com/openberry/https-medium-com-creating-an-instagram-like-dapp-with-ipfs-cc4fac85cbfe\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1097843633661902848": {
+            "id": "1097843633661902848",
+            "text": "So ready for smart contracts to power a digital world like @decentraland and have digital people with real digital consequences @maraoz. Also, AI is scary so maybe we only put AI in digital people first. https://maraoz.com/2019/02/11/digital-life/\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095761958106775552": {
+            "id": "1095761958106775552",
+            "text": "The same concept of web2 convenience being replicated for the web3 developers is most important right now. If we give devs the same convenience and reusable tools that this bridges to open finance end users, imagine how many incredible usable dapps will be builthttps://twitter.com/NadavAHollander/status/1095758791256068097\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095600022400483329": {
+            "id": "1095600022400483329",
+            "text": "IBM Avacado chain 2.0https://twitter.com/pi0neerpat/status/1095536049378467840\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095455567500509184": {
+            "id": "1095455567500509184",
+            "text": "Who's having trouble querying the state of the events on your smart contracts? Curious to hear your use case",
+            "username": "web3brett",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095368929717956608": {
+            "id": "1095368929717956608",
+            "text": "3/ We cannot expect developers to run a node across every single service",
+            "username": "web3brett",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095368929000808448": {
+            "id": "1095368929000808448",
+            "text": "2/ This logic just multiplies as more infra is required for dapps to have a more decentralized architecture behind the app. Imagine building/maintaining nodes for each protocol across compute, storage, networking, messaging, transcoding, payments, etc. to support your dapp",
+            "username": "web3brett",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1095368928308674560": {
+            "id": "1095368928308674560",
+            "text": "1/ If web3 devs want to build dapps without setting up intense node infra and event listeners, the infra gets pointed out centralized. It's called convenient. Every dapp shouldn't be running a node infra business, a storage rent business, or waiting for a light client",
+            "username": "web3brett",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1094645707724726274": {
+            "id": "1094645707724726274",
+            "text": "member when Ethereum had 25,000 nodes https://www.trustnodes.com/2017/05/31/ethereum-now-three-times-nodes-bitcoin\u00a0\u2026\n\nnow under 9k nodes and behind bitcoins 10k+\nhttps://www.ethernodes.org/network/1\u00a0\nhttps://bitnodes.earn.com/\u00a0 \n\nJust interesting why that is (other than lower eth prices)",
+            "username": "web3brett",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093515084318605312": {
+            "id": "1093515084318605312",
+            "text": "Great article @tayvano_ ! Yes, the paradigm is giving users control but it doesnt need to burden the UX. The right balance is have it decentralized without the non-web3 user needing to know it is. Then the user can take full control at any moment they wanthttps://medium.com/mycrypto/building-confidence-not-dapps-d8a3bc1f29d1\u00a0\u2026",
+            "username": "web3brett",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "elonmusk": 2,
+        "cosmos": 1,
+        "licuende": 1,
+        "avsa": 1,
+        "katherineykwu": 1,
+        "ChrJentzsch": 1,
+        "mikery": 2,
+        "VitalikButerin": 2,
+        "cmichelio": 1,
+        "0xProject": 2,
+        "jack": 1,
+        "statechannels": 1,
+        "terminaldotco": 2,
+        "MakerDaiBot": 1,
+        "coindesk": 1,
+        "RyanSAdams": 1,
+        "corbpage": 1,
+        "APompliano": 1,
+        "nic__carter": 1,
+        "eduadiez": 1,
+        "zmanian": 1,
+        "econoar": 1,
+        "ameensol": 1,
+        "nanexcool": 1,
+        "barrywhitehat": 1,
+        "jeffscottward": 1,
+        "twobitidiot": 1,
+        "flexthought": 1
+    },
+    "users_retweeted": [
+        "elonmusk",
+        "mikery",
+        "VitalikButerin",
+        "0xProject",
+        "terminaldotco",
+        "cosmos",
+        "licuende",
+        "avsa",
+        "katherineykwu",
+        "ChrJentzsch",
+        "cmichelio",
+        "jack",
+        "statechannels",
+        "MakerDaiBot",
+        "coindesk",
+        "RyanSAdams",
+        "corbpage",
+        "APompliano",
+        "nic__carter",
+        "eduadiez",
+        "zmanian",
+        "econoar",
+        "ameensol",
+        "nanexcool",
+        "barrywhitehat",
+        "jeffscottward",
+        "twobitidiot",
+        "flexthought"
+    ]
+}

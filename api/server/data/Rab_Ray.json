@@ -1,0 +1,3288 @@
+{
+    "is_complete": true,
+    "username": "Rab_Ray",
+    "retweeted": {
+        "1120607950563958784": {
+            "id": "1120607950563958784",
+            "text": "Rest in peace, Cesar. You\u2019ll Never Walk Alone.pic.twitter.com/FLCdURfuox",
+            "username": "CelticFC",
+            "num_likes": 28219,
+            "num_retweets": 8260,
+            "num_replies": 427
+        },
+        "1117518680647188480": {
+            "id": "1117518680647188480",
+            "text": "A bit more than 1 million results for a @censysio search for the word \"Kubernetes\" in TLS certs.  Seems like there's a lot of internet facing k8s clusters these days... https://censys.io/certificates?q=parsed.extensions.subject_alt_name.dns_names%3A+kubernetes&\u00a0\u2026",
+            "username": "raesene",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1114600754675888129": {
+            "id": "1114600754675888129",
+            "text": "History has been made.\n\nCongratulations to Jennifer Kupcho, the inaugural Augusta National Women\u2019s Amateur champion. #ANWAgolfpic.twitter.com/GUOamIWnKD",
+            "username": "TheMasters",
+            "num_likes": 6073,
+            "num_retweets": 902,
+            "num_replies": 98
+        },
+        "1111930712855322625": {
+            "id": "1111930712855322625",
+            "text": "We're on this  Tuesday  (2nd april) in the Griffin at 7.30pm, see you all there #DC44141 @defcon @defcongroups Defcon Glasgow",
+            "username": "DC44141",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1105116286923595778": {
+            "id": "1105116286923595778",
+            "text": "The end of another fantastic onboard vessel cyber assessment out at sea. The Med was kind to us and now it's time to head back to @NCCGroupInfosec for the reporting. #maritimecyber #cybersecurity #infosec #maritimepic.twitter.com/7dEvZQJpd5",
+            "username": "AngelByDay",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1100076761705078785": {
+            "id": "1100076761705078785",
+            "text": "We're Hiring!\n\nWould you like to join a global expert in Cyber Security and Risk Mitigation as a Pen Tester?\n\nWe have Security Consultant roles available in our teams through the UK, including Senior and Managing Consultant.\n\nApply now  http://ow.ly/ww2950m6KSF\u00a0\n#cybersecuritypic.twitter.com/XpKnqOIL3U",
+            "username": "NCCGroupCareers",
+            "num_likes": 15,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "1097826849403662336": {
+            "id": "1097826849403662336",
+            "text": "Excited to announce our Space Cyber Security Research partnership with the University of Surrey to help further the understanding of current and future security challenges facing the space industry.\nRead more: \nhttps://www.nccgroup.trust/uk/about-us/newsroom-and-events/press-releases/2019/february/ncc-group-launches-space-cyber-security-research-partnership-with-the-university-of-surrey/\u00a0\u2026\n#SpaceIndustry #university #Surrey #infosecpic.twitter.com/rBw41AQGZk",
+            "username": "NCCGroupplc",
+            "num_likes": 18,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1095658786352754688": {
+            "id": "1095658786352754688",
+            "text": "Check out my new t-shirt for all public meeting or speaking engagements. Using @Rab_Ray's throwaway comment from @DC44141 this month. \n\nImposter syndrome be dammed. We are just children playing with toys to see how they work.pic.twitter.com/i0A9AN19cy",
+            "username": "cornerpirate",
+            "num_likes": 28,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "949932629452906496": {
+            "id": "949932629452906496",
+            "text": "The story so far: In 1970, Intel invented the microprocessor. This has made a lot of people very angry and been widely regarded as a bad move.",
+            "username": "TimSweeneyEpic",
+            "num_likes": 6229,
+            "num_retweets": 1928,
+            "num_replies": 40
+        },
+        "1094674154731782144": {
+            "id": "1094674154731782144",
+            "text": "#CDXGlasgow what are we doing next year? When will the boxes be ready? What's the scenario? I've not slept in days but OK I'm up for it.pic.twitter.com/U3DFcuYbme",
+            "username": "PMason00",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093129248364249088": {
+            "id": "1093129248364249088",
+            "text": "Word to the wise, don't put your production k8s clusters on the Internet. 1) you expose info. about your internal IP setup, 2) there is *no* cert. revocation, so anyone who ever saw a client cert. can still get access 3) This setup has a FUT of one.pic.twitter.com/zCqe979xN2",
+            "username": "raesene",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1092884704511049729": {
+            "id": "1092884704511049729",
+            "text": "Tickets for our first event of 2019 are now available, get them while they hot! A special thanks to @FanDuel for hosting us (and @lsinfosec for organizing it).https://www.eventbrite.co.uk/e/owasp-scotland-chapter-meeting-february-tickets-55989107929?aff=eand\u00a0\u2026",
+            "username": "OWASPScotland",
+            "num_likes": 7,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1092504314051022848": {
+            "id": "1092504314051022848",
+            "text": "Magic Unicorn v3.6.7 released. Adds better handling and obfuscation on Win32Functions for evasion. \n\nhttp://github.com/trustedsec/unicorn\u00a0\u2026\n#TrustedSec",
+            "username": "TrustedSec",
+            "num_likes": 138,
+            "num_retweets": 63,
+            "num_replies": 1
+        },
+        "1090542534923825152": {
+            "id": "1090542534923825152",
+            "text": "If anyone would like to do a talk at a #security  meetup get in touch, always looking for speakers. @ZephrFish or @DC44141",
+            "username": "DC44141",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1090582652216901642": {
+            "id": "1090582652216901642",
+            "text": "Rory McCune will speak at @Google\u2019s Container Security Summit in Seattle on the 20th of February on the work he's been doing on the Kubernetes CIS Benchmark. Check out the agenda here: https://bit.ly/2HC3asZ\u00a0\n#ContainerSecuritySummit #Kubernetes #CIS",
+            "username": "NCCGroupplc",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1088499264442064897": {
+            "id": "1088499264442064897",
+            "text": "going to be in Vegas this year for @BlackHatEvents ? Want to learn more about Container security....? Have I got the course for you!  https://www.blackhat.com/us-19/training/schedule/index.html#mastering-container-security-140201547156094\u00a0\u2026",
+            "username": "raesene",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1088089018951180295": {
+            "id": "1088089018951180295",
+            "text": "Join @raesene for 2 days of Mastering Container Security training in London, March 11th-12th 2019http://bit.ly/2QKeBmv\u00a0",
+            "username": "44CON",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1085887247998689280": {
+            "id": "1085887247998689280",
+            "text": "Protip: As more and more firewalls dislike sqlmap, especially by its default User-Agent value, you can set environment variable SQLMAP_RANDOMAGENT to some dummy value (e.g. 1) to always have a freshly randomized User-Agent value",
+            "username": "sqlmap",
+            "num_likes": 89,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "1085300922874499072": {
+            "id": "1085300922874499072",
+            "text": "Have creds on a local network but no shell yet? Try this.\nSpoolSample -> Responder w/NetNTLM Downgrade -> NetNTLMv1 -> NTLM -> Kerberos Silver Ticket\nhttps://github.com/NotMedic/NetNTLMtoSilverTicket\u00a0\u2026\n\nThanks for the shoulders @tifkin_ @0x31337, @agsolino, @3xocyte, @Evil_Mog, @mysmartlogon\n#EternalSpool",
+            "username": "NotMedic",
+            "num_likes": 486,
+            "num_retweets": 273,
+            "num_replies": 5
+        },
+        "1083424012099817477": {
+            "id": "1083424012099817477",
+            "text": "Metasploit Framework 5.0 releasedhttps://r-7.co/msf5released\u00a0",
+            "username": "metasploit",
+            "num_likes": 2056,
+            "num_retweets": 1184,
+            "num_replies": 32
+        },
+        "1082970755007164416": {
+            "id": "1082970755007164416",
+            "text": "@44CON run training throughout the year on a quarterly schedule. @raesene will be running a 2 day course on mastering container security from March 11th. \nCheck out the full schedule here:  https://bit.ly/2shflkv\u00a0\n#CyberTraining #InfosecCourses #CyberSecurity #44CONpic.twitter.com/zunaVwwaCW",
+            "username": "NCCGroupInfosec",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1081644626681958402": {
+            "id": "1081644626681958402",
+            "text": "A Malicious JPEG? Second Example https://i5c.us/2RAYQ0A\u00a0",
+            "username": "sans_isc",
+            "num_likes": 51,
+            "num_retweets": 39,
+            "num_replies": 1
+        },
+        "1073243125404131328": {
+            "id": "1073243125404131328",
+            "text": "Who needs a crystal ball when you have NCC Group? Check out our cyber security predictions for 2019: https://bit.ly/2BeNnKe\u00a0\n#CyberSecurityPredictions #2019 #Infosecpic.twitter.com/8YjyBzZj3a",
+            "username": "NCCGroupplc",
+            "num_likes": 17,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "1072103675567464452": {
+            "id": "1072103675567464452",
+            "text": "Are you looking to break into the Cyber Security industry?\n\nOur Leeds based Security Operations Centre is looking for a Cyber Monitoring Analyst to join the team.\n\nCheck out the link below for more details \nhttp://ow.ly/r1mc30mVr8d\u00a0pic.twitter.com/S8DujJwN6g",
+            "username": "NCCGroupCareers",
+            "num_likes": 7,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1071518375917076480": {
+            "id": "1071518375917076480",
+            "text": "Found a stash of Zip cartridges I\u2019ve kept for years but realise I have no drive. If anyone\u2019s sitting on an old SCSI Iomega Zip drive drop me a line.",
+            "username": "podskin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1069946956485705728": {
+            "id": "1069946956485705728",
+            "text": "Really excited for #Blackhat Europe in London, over the next couple of days. \n\nlooking forward to meeting everyone there. \n\nIn between all of the talks, trainings and briefings, come on over to the @NCCGroupplc stand, to discuss career opportunities with us. \n\n#cybersecuritypic.twitter.com/miv1JqdH54",
+            "username": "NCCGroupCareers",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1068562223507886085": {
+            "id": "1068562223507886085",
+            "text": "Looking forward to running the @NCCGroupInfosec Mastering Container Security course next week at #BlackhatEU . Slide review done and I even remembered to up my AWS EC2 limits to handle the class size!",
+            "username": "raesene",
+            "num_likes": 35,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1068637291403509760": {
+            "id": "1068637291403509760",
+            "text": "Tool release! rtfraptor dumps OLEv1 objects from obfuscated RTF files by debugging Word. Catch Packager, Equation Editor and other nasties. See https://github.com/edeca/rtfraptor\u00a0, thanks to @decalage2 @Malwageddon @HaifeiLi @Mario_Vilas #Malware #Pythonpic.twitter.com/JkawTA8zTD",
+            "username": "edeca",
+            "num_likes": 117,
+            "num_retweets": 74,
+            "num_replies": 2
+        },
+        "1065530971586469888": {
+            "id": "1065530971586469888",
+            "text": "DMs are open. We are looking for people with skills to tear apart malware and hunt for badness @NCCGroupInfosec, seehttps://www.nccgroup.trust/uk/about-us/careers/current-vacancies/malware-reverse-engineer/\u00a0\u2026",
+            "username": "edeca",
+            "num_likes": 19,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1061988090124926977": {
+            "id": "1061988090124926977",
+            "text": "Blog post on XOML deserialization has been updated with a working SharePoint RCE  (using CVE-2018-8421): https://www.nccgroup.trust/uk/our-research/technical-advisory-bypassing-microsoft-xoml-workflows-protection-mechanisms-using-deserialisation-of-untrusted-data/\u00a0\u2026 @NCCGroupInfosec @pwntesterpic.twitter.com/eUPTiyl0Ul",
+            "username": "irsdl",
+            "num_likes": 271,
+            "num_retweets": 194,
+            "num_replies": 4
+        },
+        "1058318099487825920": {
+            "id": "1058318099487825920",
+            "text": "All clients of SecureShopCart have been hacked. That must have been tempting.pic.twitter.com/IfPS5u94z0",
+            "username": "gwillem",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1055799170668396546": {
+            "id": "1055799170668396546",
+            "text": "well looks like that's @NCCGroupInfosec 's Mastering Container Security training at @BlackHatEvents EU sold out :) Looking forward to doing 2-days of container security goodness in December!",
+            "username": "raesene",
+            "num_likes": 31,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1055206211098882048": {
+            "id": "1055206211098882048",
+            "text": "The Cryptography Services of NCC Group is looking for its 2019 summer internship. Please forward to relevant people.",
+            "username": "cryptodavidw",
+            "num_likes": 18,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1054839528488427520": {
+            "id": "1054839528488427520",
+            "text": "Great to see @EmilyShawgo talking about behavioural economics and ATT&CK at @MITREattack. If you liked that come see mine and @N1ckDunn lightening talk on game theory tomorrow morning. #ATTACKcon",
+            "username": "dive_monkey",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1053361868176285697": {
+            "id": "1053361868176285697",
+            "text": "We've (@NCCGroupInfosec) got a 2-day course running at @BlackHatEvents EU in London in December. The goal of it is to build up from container fundamentals to K8s security concepts. That's the only public version planned this year but hopefully it'll get repeated in 2019 :)",
+            "username": "raesene",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1047608104039473152": {
+            "id": "1047608104039473152",
+            "text": "You smashed it!https://youtu.be/pcnFbCCgTo4\u00a0",
+            "username": "PMason00",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1046677392947908608": {
+            "id": "1046677392947908608",
+            "text": "Don't miss out on tonight's meetup! \"Internet-wide Scanning\" by @TheHairyJ. Starts 6pm (talk from 7pm upstairs) at the Beehive Inn. Tell your friends.",
+            "username": "Edinburgh2600",
+            "num_likes": 10,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1046475502977003521": {
+            "id": "1046475502977003521",
+            "text": "\u201cGolf is Boring\u201d  (Pass it on )pic.twitter.com/3LDlNVKjlq",
+            "username": "ScottishGolf",
+            "num_likes": 601,
+            "num_retweets": 233,
+            "num_replies": 3
+        },
+        "1045317770454478848": {
+            "id": "1045317770454478848",
+            "text": "They know how to look after us in the @NCCGroupInfosec Edinburgh office \nAlready planning my next visitpic.twitter.com/11LFdv9T8o",
+            "username": "manc_marko",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 5
+        },
+        "1042339740589142016": {
+            "id": "1042339740589142016",
+            "text": "We are expanding our team with a vulnerability research and exploit development role. If you are interested, drop me a DM or email. Please RT.",
+            "username": "saidelike",
+            "num_likes": 46,
+            "num_retweets": 51,
+            "num_replies": 0
+        },
+        "1039183789107425281": {
+            "id": "1039183789107425281",
+            "text": "If you can't make BSides this year we can refund and return your ticket to the pot, we just need some details about your order so send us a DM. #BsidesBelfast2018",
+            "username": "bsidesbelfast",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1039204156073029632": {
+            "id": "1039204156073029632",
+            "text": "Random Kubernetes blogging - Authentication woes and a secret user database! https://raesene.github.io/blog/2018/09/10/Kubernetes-Secret-User-Database/\u00a0\u2026",
+            "username": "raesene",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1038586657103069185": {
+            "id": "1038586657103069185",
+            "text": "Absolutely gutted, I did a dinner last year about mental health, 1 guy stood up and spoke . I\u2019m absolutely gutted to say he has just taken his own life .\nIt really is ok to be not ok , please share this as it is happening too many times. ",
+            "username": "Robert__Douglas",
+            "num_likes": 9383,
+            "num_retweets": 4474,
+            "num_replies": 161
+        },
+        "1038783619064635392": {
+            "id": "1038783619064635392",
+            "text": "Psyched for @44CON this week! Going? Come and get stuck into exploiting deserialization at my workshop on Thursday evening: https://44con2018.sched.com/event/FsX9/evening-session-nicky-bloor-workshop-diving-deep-into-deserialization\u00a0\u2026 (nb: subject to change)",
+            "username": "nickstadb",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1037588711872049152": {
+            "id": "1037588711872049152",
+            "text": "Just 26% of vulnerabilities found over the last nine years have been \u201cresolved\u201d \n\nhttp://bit.ly/2LIDIiD\u00a0\n#cybereducation #xss #infosec #vulnerabilities #securitypic.twitter.com/xF1uYrQUF2",
+            "username": "NCCGroupplc",
+            "num_likes": 5,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1035273101498560513": {
+            "id": "1035273101498560513",
+            "text": "A great opportunity for any grads looking to get into security. An amazing team to work alongside and awesome parties!https://twitter.com/ryancookson22/status/1032583076461916160\u00a0\u2026",
+            "username": "CoreyD97",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1034128916628365312": {
+            "id": "1034128916628365312",
+            "text": "Earning and learning. Should be a no-brainer. Register your interest in our CyberFirst Degree Apprenticeships now https://www.ncsc.gov.uk/articles/cyber-first-bursary-scheme\u00a0\u2026pic.twitter.com/rM1YF9VwRy",
+            "username": "NCSC",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1034061889381253122": {
+            "id": "1034061889381253122",
+            "text": "4.2% of all Magento stores globally are currently leaking payment and customer datapic.twitter.com/Utw9W3t3Oa",
+            "username": "gwillem",
+            "num_likes": 22,
+            "num_retweets": 24,
+            "num_replies": 6
+        },
+        "1032357277976748032": {
+            "id": "1032357277976748032",
+            "text": "This month we have two speakers https://www.meetup.com/Glasgow-Defcon-DC44141/events/gchnnpyxmbgb/\u00a0\u2026 @a8n_pub & @cornerpirate #DC44141 Tuesday 4th Sept 7.30",
+            "username": "DC44141",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1022403342868402177": {
+            "id": "1022403342868402177",
+            "text": "A bit of shameless self-promotion:\nhttps://www.nccgroup.trust/sg/our-research/the-disadvantages-of-a-blacklist-based-approach-to-input-validation/\u00a0\u2026",
+            "username": "N1ckDunn",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1017819448433143809": {
+            "id": "1017819448433143809",
+            "text": "Nail your risk management basics with our guidance! https://www.ncsc.gov.uk/guidance/get-basics-right-risk-management-principles-cyber-security\u00a0\u2026pic.twitter.com/K5yXDt9BAZ",
+            "username": "NCSC",
+            "num_likes": 16,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1017412009774571520": {
+            "id": "1017412009774571520",
+            "text": "NCC Group introduces CTM, an advanced gateway MDR solution that brings together the three essential components for comprehensive cyber management - intelligence, technology and people.https://www.nccgroup.trust/uk/about-us/newsroom-and-events/news/2018/july/ncc-group-launches-new-gateway-mdr-solution-ctm/\u00a0\u2026",
+            "username": "foxit",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1017778549326000128": {
+            "id": "1017778549326000128",
+            "text": "Not sure who had this room. Sad it\u2019s over, but a great time with colleagues new and old. My highlight: seeing so many different approaches to CTF #NCCCON18pic.twitter.com/1j5YMj6GoH",
+            "username": "edeca",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1016586128634404865": {
+            "id": "1016586128634404865",
+            "text": "We\u2019re ready. #NCCCon18pic.twitter.com/AWh0BmwvPY",
+            "username": "NCCGroupplc",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1016435971489980418": {
+            "id": "1016435971489980418",
+            "text": "Packing for #NCCCON18 - unsure I have enough free tshirts. Process supervised by a ninja. Looking forward to seeing everybody from @NCCGroupInfosec in Madrid pic.twitter.com/fLHAhnTrUg",
+            "username": "edeca",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1016005205752762369": {
+            "id": "1016005205752762369",
+            "text": "Even ninjas occasionally leave things until the last minute! Doing things the old school way and falling back to pen and paper until inspiration strikes for talk 2/2 @NCCGroupplc #NCCCon18pic.twitter.com/Rnz3tvw3cx",
+            "username": "Katy_Winterborn",
+            "num_likes": 29,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1015261251377692673": {
+            "id": "1015261251377692673",
+            "text": "Here are my WAF bypass talk slides at @appseceu 2018: https://www.slideshare.net/SoroushDalili/waf-bypass-techniques-using-http-standard-and-web-servers-behaviour\u00a0\u2026 Next to the slides here is the Burp Suite HTTP Smuggler extension: https://github.com/nccgroup/BurpSuiteHTTPSmuggler/\u00a0\u2026 #appseceu @NCCGroupInfosecpic.twitter.com/EB1VcOhgoO",
+            "username": "irsdl",
+            "num_likes": 646,
+            "num_retweets": 392,
+            "num_replies": 14
+        },
+        "1014820451762212865": {
+            "id": "1014820451762212865",
+            "text": "Looking for some network gurus and quality devs to move to \u2018cyber\u2019.https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/july/is-now-the-time-to-consider-a-move-into-cyber/\u00a0\u2026",
+            "username": "PresumingOnion",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1013796020013228032": {
+            "id": "1013796020013228032",
+            "text": "I'm gutted that going to miss this amazing conference this year, may the sun,  fun, and knowledge be with you ninjas! #NCCCon18 do you want to attend? perhaps join the force :)https://twitter.com/m4tt_lewis/status/1013737806672392193\u00a0\u2026",
+            "username": "irsdl",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1011626549903323136": {
+            "id": "1011626549903323136",
+            "text": "Training page for this year's Blackhat EU is up, and you might want to check out https://www.blackhat.com/eu-18/training/mastering-container-security.html\u00a0\u2026 if you're interested in containers, Docker and/or Kubernetes security!",
+            "username": "raesene",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1004618234606379008": {
+            "id": "1004618234606379008",
+            "text": "First batch of tickets are being released at 5pm on Sat 9th June.\nFull details -https://www.bsidesmcr.org.uk/tickets\u00a0",
+            "username": "BSidesMCR",
+            "num_likes": 22,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "997908485605089282": {
+            "id": "997908485605089282",
+            "text": "#DoubleTreble CHAMPIONS! pic.twitter.com/i1H7NnVc2d",
+            "username": "CelticFC",
+            "num_likes": 5939,
+            "num_retweets": 1816,
+            "num_replies": 60
+        },
+        "998120141924823040": {
+            "id": "998120141924823040",
+            "text": "In this week's Threat Report: GDPR-inspired phishing scams https://www.ncsc.gov.uk/report/weekly-threat-report-18th-may-2018\u00a0\u2026",
+            "username": "NCSC",
+            "num_likes": 27,
+            "num_retweets": 39,
+            "num_replies": 1
+        },
+        "997018773357039616": {
+            "id": "997018773357039616",
+            "text": "Here\u2019s a @TSB phishing email using their lack of response to complaints as a lure.pic.twitter.com/xXTm7wpssu",
+            "username": "GossiTheDog",
+            "num_likes": 39,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "996833930371153925": {
+            "id": "996833930371153925",
+            "text": "How to combat the most common cyber attacks\u2026 https://www.ncsc.gov.uk/information/infographics-ncsc\u00a0\u2026pic.twitter.com/XL6RaChKy4",
+            "username": "NCSC",
+            "num_likes": 85,
+            "num_retweets": 94,
+            "num_replies": 0
+        },
+        "996410131289174017": {
+            "id": "996410131289174017",
+            "text": "Spray you, spray me: defending against password spraying attacks https://www.ncsc.gov.uk/blog-post/spray-you-spray-me-defending-against-password-spraying-attacks\u00a0\u2026",
+            "username": "NCSC",
+            "num_likes": 24,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "996003418526375936": {
+            "id": "996003418526375936",
+            "text": "A victim recently lost \u00a318,900 after fraudsters claiming to from the police tricked them into transferring their savings into a bank account controlled by criminals: https://www.titanrocu.org.uk/31/section.aspx/21/fraud_police_impersonation\u00a0\u2026\n#TakeFive: Police Officers would never ask you to move funds from one account to another!pic.twitter.com/ghFPNndElh",
+            "username": "actionfrauduk",
+            "num_likes": 63,
+            "num_retweets": 121,
+            "num_replies": 1
+        },
+        "994472139335045120": {
+            "id": "994472139335045120",
+            "text": "In this week's Threat Report: airline database hacked by disgruntled former employee https://www.ncsc.gov.uk/report/weekly-threat-report-20th-april-2018\u00a0\u2026",
+            "username": "NCSC",
+            "num_likes": 13,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "993782568679026688": {
+            "id": "993782568679026688",
+            "text": "Gain and maintain control of your supply chain! https://www.ncsc.gov.uk/guidance/supply-chain-security-12-principles-infographic\u00a0\u2026pic.twitter.com/CtpLlfiGxW",
+            "username": "NCSC",
+            "num_likes": 34,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "992301593616789504": {
+            "id": "992301593616789504",
+            "text": "It's important that your organisation\u2019s investment in both cyber security preventative controls and staff awareness training is effective. NCC Group's #RedTeam will assess your organisation's ability to prevent a sophisticated attack. #cyberattack http://ow.ly/L4Ab30jOGto\u00a0pic.twitter.com/y4sxUY2RHk",
+            "username": "NCCGroupplc",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "990559517778829313": {
+            "id": "990559517778829313",
+            "text": "Tremendous performance so far from the Bhoys! #CELRANpic.twitter.com/JCLNpLwMJj",
+            "username": "CelticFC",
+            "num_likes": 1510,
+            "num_retweets": 313,
+            "num_replies": 29
+        },
+        "989847643680595968": {
+            "id": "989847643680595968",
+            "text": "Our 10 simple steps to cyber security! https://www.ncsc.gov.uk/guidance/10-steps-executive-summary\u00a0\u2026pic.twitter.com/QkTCVPKgcN",
+            "username": "NCSC",
+            "num_likes": 121,
+            "num_retweets": 91,
+            "num_replies": 2
+        },
+        "989246344513519616": {
+            "id": "989246344513519616",
+            "text": "Client domains, sensitive employee information, and customer data \u2013 oh my! Learn how our #redteam compromised these entities in an international assessment: https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/april/phishing-stories-red-teaming-across-the-globe-from-the-safety-of-my-desk/?style=Cyber+Security\u00a0\u2026 #Phishingpic.twitter.com/LNFBRddOrS",
+            "username": "NCCsecurityUS",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "989787693604376576": {
+            "id": "989787693604376576",
+            "text": "I\u2019m standing for @CRESTadvocate Executive re-election. Any CREST member company points of contact out there don\u2019t for get to vote (proxy by Monday or at the AGM on Weds). Hopefully you\u2019ll vote for me. If you want to chat CREST then message me.",
+            "username": "manc_marko",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "989120864124850176": {
+            "id": "989120864124850176",
+            "text": "And if you have a ticket but now cannot come, please let us know today so we can let some of those on the wait list come along!https://twitter.com/BSidesScot/status/989093059341283328\u00a0\u2026",
+            "username": "roryalsop",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "988497790643920896": {
+            "id": "988497790643920896",
+            "text": "A Black Team assessment with NCC Group will consist of:\n\u2022Intelligence gathering\n\u2022Physical/digital/wireless reconnaissance \n\u2022Dumpster diving\n\u2022Media drops\n\u2022Physical breach\n\u2022Deploy bugging/network device\n\u2022Intrusive surveillance \n http://ow.ly/Yhvc30jD6o4\u00a0pic.twitter.com/TSuSOLQq2m",
+            "username": "NCCGroupplc",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "988405949999341569": {
+            "id": "988405949999341569",
+            "text": "You wouldn\u2019t believe some of the experiences our Black Team have had \u201cWe picked the locks on pedestals, found network passwords on post-it notes and lost count of the amount of staff RFID cards left in desks\u201d Read our Black Team War Stories here: #Physical http://ow.ly/Qv6D30jD2ZE\u00a0pic.twitter.com/pCVmSCLeo2",
+            "username": "NCCGroupplc",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "985538749038776320": {
+            "id": "985538749038776320",
+            "text": "Be careful what you wish for\u2026 \n\nBrendan Rodgers leads #CelticFC to ANOTHER cup final!pic.twitter.com/y3syLW0v5W",
+            "username": "CelticFC",
+            "num_likes": 10570,
+            "num_retweets": 4417,
+            "num_replies": 134
+        },
+        "974672928951414786": {
+            "id": "974672928951414786",
+            "text": "Cyber Security should not be a daunting challenge for small business owners - check out our guidance https://www.ncsc.gov.uk/smallbusiness\u00a0pic.twitter.com/FMlIWZjaMI",
+            "username": "NCSC",
+            "num_likes": 26,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "972833090631553026": {
+            "id": "972833090631553026",
+            "text": "GLASGOW IS GREEN. \n\nDerby win for 10-men Celtic! #RANCELpic.twitter.com/xzJ9d0IyZY",
+            "username": "CelticFC",
+            "num_likes": 11391,
+            "num_retweets": 4766,
+            "num_replies": 181
+        },
+        "971893609757855745": {
+            "id": "971893609757855745",
+            "text": "What is the gender pay gap? #bbcqt http://bbc.in/2G7AhAe\u00a0pic.twitter.com/aBMNJClxKH",
+            "username": "bbcquestiontime",
+            "num_likes": 8,
+            "num_retweets": 9,
+            "num_replies": 12
+        },
+        "966464487439159296": {
+            "id": "966464487439159296",
+            "text": "I have mixed feelings about this that I did for fun as a fan... I have just registered http://owasp.co.uk\u00a0 and redirected it to my blog! At least I am changing the URL so it is obvious that it is not OWASP  #OWASP",
+            "username": "irsdl",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "964687996997046273": {
+            "id": "964687996997046273",
+            "text": "So @NCCGroupInfosec are doing something incredibly valuable here: https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/february/eternalglue-part-two-a-rebuilt-notpetya-gets-its-first-execution-outside-of-the-lab/\u00a0\u2026 - they have rebuilt Petya from scratch without the destructive element at request of a customer, to let them see in the real world what an attack would look like on their infrastructure.pic.twitter.com/wmp4bmgvlB",
+            "username": "GossiTheDog",
+            "num_likes": 750,
+            "num_retweets": 485,
+            "num_replies": 15
+        },
+        "958045910625325056": {
+            "id": "958045910625325056",
+            "text": "Prior to @reconbrx this weekend CISCO has released #CVE-2018-0101 which patches a pre-auth RCE in ASA and specifically AnyConnect - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1\u00a0\u2026 - go to Brussels and hear from @saidelike - https://recon.cx/2018/brussels/talks/cisco.html\u00a0\u2026",
+            "username": "NCCGroupInfosec",
+            "num_likes": 78,
+            "num_retweets": 81,
+            "num_replies": 2
+        },
+        "958278728588636160": {
+            "id": "958278728588636160",
+            "text": "Scotland will be our first stop as our NCC Group\u2019s experts travel the UK to answer all your questions on #GDPR. Register for our Edinburgh and Glasgow breakfast briefings now to better understand #GDPR and #datamapping https://www.nccgroup.trust/uk/media/gdpr-roadshow/\u00a0\u2026pic.twitter.com/aSPdLdUXU9",
+            "username": "NCCGroupplc",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "954055199106183168": {
+            "id": "954055199106183168",
+            "text": "In addition to our call for papers, the BSides Glasgow Call for sponsors is now open, so if you'd like to be involved and get some great exposure to the Scottish market, please do drop us a line at info@bsidesscotland.org.uk  (RT's welcome :) )",
+            "username": "BSidesScot",
+            "num_likes": 15,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "934156104422100992": {
+            "id": "934156104422100992",
+            "text": "Blog: Kubernetes security: Consider your threat model -\n https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/november/kubernetes-security-consider-your-threat-model/\u00a0\u2026 by @raesene",
+            "username": "NCCGroupInfosec",
+            "num_likes": 10,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "930346664140967937": {
+            "id": "930346664140967937",
+            "text": "Mistakes are proof that you're trying.",
+            "username": "DavidRoads",
+            "num_likes": 412,
+            "num_retweets": 204,
+            "num_replies": 0
+        },
+        "927987090285088768": {
+            "id": "927987090285088768",
+            "text": "When @Rab_Ray drops a #RabbyBrews @DC44141. A bold openingpic.twitter.com/dcnh0xA59b",
+            "username": "cornerpirate",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "927470920381485057": {
+            "id": "927470920381485057",
+            "text": "Found 1870 Magento stores infected with cryptominers (and rising). Cyberthieves surely squeeze the last penny out of their \"assets\".",
+            "username": "gwillem",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "921386967262212096": {
+            "id": "921386967262212096",
+            "text": "I originally wrote Burp to make my day job easier. Glad to hear it\u2019s helping others.https://twitter.com/LaNMaSteR53/status/921125556825010177\u00a0\u2026",
+            "username": "PortSwigger",
+            "num_likes": 164,
+            "num_retweets": 21,
+            "num_replies": 5
+        },
+        "917514120852799488": {
+            "id": "917514120852799488",
+            "text": "When parameterized queries won't help!https://nickbloor.co.uk/2017/10/09/when-parameterized-queries-wont-help/\u00a0\u2026",
+            "username": "nickstadb",
+            "num_likes": 56,
+            "num_retweets": 30,
+            "num_replies": 6
+        },
+        "913533566696525825": {
+            "id": "913533566696525825",
+            "text": "Updated BaRMIe with a deserialization attack for the JMX RMI servicehttps://github.com/NickstaDB/BaRMIe/releases/tag/v1.01\u00a0\u2026",
+            "username": "nickstadb",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "910473122503172096": {
+            "id": "910473122503172096",
+            "text": "Great to see.. @saidelike & Aaron have started epic 8 part blog about researching Cisco ASA. Also conference talks at #44CON and #BsidesMCR.https://twitter.com/NCCGroupInfosec/status/910463444666785797\u00a0\u2026",
+            "username": "edeca",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "908818943644663808": {
+            "id": "908818943644663808",
+            "text": "Updated NCSC statement regarding the Equifax data breach and advice for those affected https://www.ncsc.gov.uk/news/statement-equifax-cyber-incident\u00a0\u2026",
+            "username": "NCSC",
+            "num_likes": 101,
+            "num_retweets": 190,
+            "num_replies": 6
+        },
+        "908352315555532800": {
+            "id": "908352315555532800",
+            "text": "I've published slides from my @44CON talk \"BaRMIe: Poking Java's Back Door\" https://www.slideshare.net/NickBloor3/nicky-bloor-barmie-poking-javas-back-door-44con-2017\u00a0\u2026 tools to follow soon!",
+            "username": "nickstadb",
+            "num_likes": 42,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "907673124686229505": {
+            "id": "907673124686229505",
+            "text": "Running ColdFusion? Update now. Critical unauthenticated RCE (as SYSTEM by default) https://helpx.adobe.com/security/products/coldfusion/apsb17-30.html\u00a0\u2026 CVE-2017-11283 & CVE-2017-11284",
+            "username": "nickstadb",
+            "num_likes": 86,
+            "num_retweets": 68,
+            "num_replies": 6
+        },
+        "907305228369846273": {
+            "id": "907305228369846273",
+            "text": "@nickstadb will be dropping the wisdom on Java deserialization and @saidelike on ASA exploitation @44CON this week -https://www.nccgroup.trust/uk/about-us/newsroom-and-events/events/2017/september/44con/\u00a0\u2026",
+            "username": "NCCGroupInfosec",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "905554380497268738": {
+            "id": "905554380497268738",
+            "text": "What should I blog about next?!",
+            "username": "nickstadb",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "905549791740006400": {
+            "id": "905549791740006400",
+            "text": "What next? PHP deserialisation? A funky SQLi technique? Patching root detection out of Android apps? Bypassing iOS jailbreak detection? 2/2",
+            "username": "nickstadb",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "905561935739015171": {
+            "id": "905561935739015171",
+            "text": "Alright, I did a Twitter poll. By the time it finishes I'll be done with my first year of con talks & ready to blog. RTs would be epic :)",
+            "username": "nickstadb",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "905371338948431872": {
+            "id": "905371338948431872",
+            "text": "For those who made #DC44141 last night. We were invited to the WITS meetup by .@The_Liddler. Here is the link:https://www.meetup.com/Women-in-Tech-Scotland-Meetup/events/242712199/\u00a0\u2026",
+            "username": "cornerpirate",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "905135642652409856": {
+            "id": "905135642652409856",
+            "text": ".@The_Liddler on #WomenInTech. Inviting everyone to the next meetup.pic.twitter.com/tlbuHX500l",
+            "username": "cornerpirate",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "903372186999816192": {
+            "id": "903372186999816192",
+            "text": "Hopefully your coming to @TheRavenGlasgow re: women in technology by @The_Liddler &  intro to ettercap and beef by @megatomche #DC4414",
+            "username": "DC44141",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "900154284561637376": {
+            "id": "900154284561637376",
+            "text": "Under 2 weeks to go #dc44141 learn more from @The_Liddler about women in technology",
+            "username": "DC44141",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "895949171756290048": {
+            "id": "895949171756290048",
+            "text": "Webcheck: our free-to-use website config + vulnerability scanning service, available to all UK public sector http://bit.ly/2tpuNOd\u00a0pic.twitter.com/zT9hUqI5nI",
+            "username": "NCSC",
+            "num_likes": 42,
+            "num_retweets": 33,
+            "num_replies": 0
+        },
+        "895589707320500224": {
+            "id": "895589707320500224",
+            "text": "Interested in finding out more about containers, clustering, kubernetes and security? come along to my #BSidesMCR2017 talk next week :)",
+            "username": "raesene",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "894485563549646848": {
+            "id": "894485563549646848",
+            "text": "Still looking for some more Lightning Talks for the Weds night.  Whose got something to say?https://www.bsidesmcr.org.uk/beersides-pre-party\u00a0\u2026",
+            "username": "BSidesMCR",
+            "num_likes": 4,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "893580394481819653": {
+            "id": "893580394481819653",
+            "text": "Thanks Robert. Swing left-ball straight.Simple",
+            "username": "IainKennedyGolf",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "883809528738979841": {
+            "id": "883809528738979841",
+            "text": "Your love is lifting me higher.",
+            "username": "cornerpirate",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "883443701154025473": {
+            "id": "883443701154025473",
+            "text": "See you at 16:30 tomorrow if you want to bypass most of the WAFs out there! yes I am burning the bypasses ;) #steelcon17 @Steel_Con",
+            "username": "irsdl",
+            "num_likes": 22,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "882752581545717760": {
+            "id": "882752581545717760",
+            "text": "Psyched for my first con talk this Saturday at @Steel_Con. Come learn how to pop boxes using Java (de)serialisation at 12:30 in track 2!",
+            "username": "nickstadb",
+            "num_likes": 28,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "882673352527273986": {
+            "id": "882673352527273986",
+            "text": "Remember! Meetings in #Edinburgh but also #Glasgow (@Glasgow2600) for 2600 #Scotland this Friday!https://twitter.com/2600Meetings/status/870425299506401281\u00a0\u2026",
+            "username": "Edinburgh2600",
+            "num_likes": 10,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "864491829902921728": {
+            "id": "864491829902921728",
+            "text": "First CIS Kubernetes Security Standard got released today. Some info and linkshttps://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/may/setting-a-new-standard-for-kubernetes-deployments/\u00a0\u2026",
+            "username": "raesene",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "863063673098698753": {
+            "id": "863063673098698753",
+            "text": "How to prevent a ransomware incident and what to do if your organisation is infected http://bit.ly/2ehp6rf\u00a0pic.twitter.com/cKsLwWQzJK",
+            "username": "NCSC",
+            "num_likes": 224,
+            "num_retweets": 445,
+            "num_replies": 86
+        },
+        "860231631428341760": {
+            "id": "860231631428341760",
+            "text": "Good distance control tonight Robert-Smashing that handicap this year",
+            "username": "IainKennedyGolf",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "849716016003371008": {
+            "id": "849716016003371008",
+            "text": "We want to hear about your hacking adventures, the successes, the failures, the blood sweat and tears & ofc any lessons learned! #dc44141",
+            "username": "DC44141",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "839866684135587840": {
+            "id": "839866684135587840",
+            "text": "Scottish citizenship testpic.twitter.com/bmY6VKjPiD",
+            "username": "LeglessDean",
+            "num_likes": 946,
+            "num_retweets": 660,
+            "num_replies": 18
+        },
+        "818121613984075779": {
+            "id": "818121613984075779",
+            "text": "We want to hear more interesting things this year from #hackers in our local area #dc44141 #hardware #software #people #processes contactus",
+            "username": "DC44141",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "801891385142112256": {
+            "id": "801891385142112256",
+            "text": "List of agencies with access to full records: Everyone who can now see your entire internet history http://grin.to/aBbPP\u00a0 #IPBill #GCHQ",
+            "username": "chaosupdates",
+            "num_likes": 38,
+            "num_retweets": 97,
+            "num_replies": 0
+        },
+        "683767158518755329": {
+            "id": "683767158518755329",
+            "text": "Attack Methods for Gaining Domain Admin Rights in Active Directory https://adsecurity.org/?p=2362\u00a0",
+            "username": "netbiosX",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "681516196110446592": {
+            "id": "681516196110446592",
+            "text": "#Password lists for use in penetration testing situations, broken up by TLDhttps://github.com/lavalamp-/password-lists\u00a0\u2026",
+            "username": "netbiosX",
+            "num_likes": 52,
+            "num_retweets": 35,
+            "num_replies": 0
+        },
+        "421431724149846016": {
+            "id": "421431724149846016",
+            "text": "NSA walks into a bar; via the backdoor.",
+            "username": "dlitchfield",
+            "num_likes": 12,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "331813122774036480": {
+            "id": "331813122774036480",
+            "text": "AV0id - Metasploit Anti-Virus Bypass payload generator script:http://www.commonexploits.com/?p=789\u00a0",
+            "username": "commonexploits",
+            "num_likes": 33,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "300194889851867136": {
+            "id": "300194889851867136",
+            "text": "\u201c@teamcymru: Web Application Security Testing Resources http://tinyurl.com/aduhqfs\u00a0\u201d good resource for those prepping for CREST ACE",
+            "username": "nmonkee",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "244351711471362049": {
+            "id": "244351711471362049",
+            "text": "RT @manicode: Chuck Norris can also exploit SQL Injection on static HTML pages.",
+            "username": "securityninja",
+            "num_likes": 1,
+            "num_retweets": 8,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "904279189133676544": {
+            "id": "904279189133676544",
+            "text": "Just landed my 2nd ever hole in 1  ",
+            "username": "Rab_Ray",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1124776752826527747": {
+            "id": "1124776752826527747",
+            "text": "Up and down from a bunker from a pretty awful lie today. That's what brings me back.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120400955076501508": {
+            "id": "1120400955076501508",
+            "text": "BBC News - Gorillas pose for selfie with DR Congo anti-poaching unithttps://www.bbc.co.uk/news/world-africa-48011113\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1119012140029968385": {
+            "id": "1119012140029968385",
+            "text": "Finished a 18 hole round of golf in 1 hour 52 mins. 3 clubs and my putter.   11 over c.s.s",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1117880771853864962": {
+            "id": "1117880771853864962",
+            "text": "Testing on range:\nAimed to feel like I'm reducing my ball speed down to 80% of my regular full shot swing using shot tracer technology. \n\nTesting on course: \nFeels like a significant difference in quality of strike with improved flight patterns. Windy conditions.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1117506690193162240": {
+            "id": "1117506690193162240",
+            "text": "Starting black summer",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1117495717478768641": {
+            "id": "1117495717478768641",
+            "text": "Absolutely awesome golf by @TigerWoods so great to see",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1117167653397913600": {
+            "id": "1117167653397913600",
+            "text": "Why the design of this web site dictates sequential usernames that are forced upon the user simply baffles me.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1117156327883669504": {
+            "id": "1117156327883669504",
+            "text": "7% reduction of missing left on tee shots from 22% to 15% so far this season.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1117122744372617217": {
+            "id": "1117122744372617217",
+            "text": "Seriously windy conditions today. A respectable 5th place in a field of 22. Out of bounds a couple of times otherwise a pretty solid round.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116777000012791808": {
+            "id": "1116777000012791808",
+            "text": "1 over handicap for 9 holes in some windy conditions.",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1114556728861954048": {
+            "id": "1114556728861954048",
+            "text": "2nd place with 39 points. Handicap cut to playing off 10.",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114253641035255808": {
+            "id": "1114253641035255808",
+            "text": "The mysteries of curl. \n\nWhat worked for me last week. Did not work this week. \n\nexport https_proxy=ipaddress:port \ncurl --insecure targeturl\n\nDid the trick to save me building a postman or making manual requests.",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1112839612668526592": {
+            "id": "1112839612668526592",
+            "text": "Really good few holes this evening in fairly tough conditions playing to 1 over handicap for the selected holes. Working on pre/post shot routine and developing my target perception.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1109592974697082880": {
+            "id": "1109592974697082880",
+            "text": "Golf season off to a great start. 1 shot reduction and first win under my belt.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1109266712120172544": {
+            "id": "1109266712120172544",
+            "text": "Generate payloads that exploit unsafe .NET object deserializationhttps://github.com/pwntester/ysoserial.net\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1109265584263442437": {
+            "id": "1109265584263442437",
+            "text": ".net deserialisation paperhttps://www.nccgroup.trust/uk/our-research/use-of-deserialisation-in-.net-framework-methods-and-classes/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107132387987722240": {
+            "id": "1107132387987722240",
+            "text": "Is it just me or is the bishop looking character giving you the middle finger?pic.twitter.com/lc7OsAVhJ1",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1106938534890557440": {
+            "id": "1106938534890557440",
+            "text": "Completed another excellent block of lessons with @IainKennedyGolf #golf #Scottishgolf Can see a significant transformation, lower scores this year would just be a bonus!!",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1104111356725342208": {
+            "id": "1104111356725342208",
+            "text": "Glad to be home again after a week away doing a spot of attacking a modern network with a couple of top technically talented individuals and helping close down some significant defects. Now time for more game of thrones catchup! #teamscotland #careers #infosec @NCCGroupCareers",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101921790329266176": {
+            "id": "1101921790329266176",
+            "text": "So as well as the fun of the bike tour. We met the @GoT_direwolves before speeding back to the airport. Now to get through security and hopefully catch the plane home to Glasgow",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101869579096281088": {
+            "id": "1101869579096281088",
+            "text": "Last day in northern Ireland spent on a game of thrones cycle tour in the rain. Awesome fun!",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100672587028410368": {
+            "id": "1100672587028410368",
+            "text": "Very poor stuff from @GLA_Airport fire alarm ringing constantly for approximately 10 minutes this morning in gate area. Staff no clue what's going on, no explanation given either.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100512897543925761": {
+            "id": "1100512897543925761",
+            "text": "Today I was humbled by the feedback and comments from the attendees of the hands on web app hacking course. I was also greatly inspired. #infosec #qatesters #developers #devops in the same room. #learning",
+            "username": "Rab_Ray",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1099099663725154306": {
+            "id": "1099099663725154306",
+            "text": "'MI6 conman' Mark Acklom extradited to UKhttps://www.bbc.com/news/uk-england-47339359\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1099083541193936898": {
+            "id": "1099083541193936898",
+            "text": "I was pretty excited when I spotted this sign, had to get a picture. Other tourists were probably wondering what I was all about.pic.twitter.com/xflDckxxwB",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1099079406432239618": {
+            "id": "1099079406432239618",
+            "text": "Something for some chat on mondayhttps://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/DotNet_Security_Cheat_Sheet.md\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1099070676886056960": {
+            "id": "1099070676886056960",
+            "text": "Also I got a nice new pen.pic.twitter.com/41PMlKcjXx",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1099068369100308482": {
+            "id": "1099068369100308482",
+            "text": "After a day of reporting, studying, travelling most of the country for my 3 yearly pilgrimage.  So great to end the weekend again out teaching about hands on web app testing techniques to developers and QA testers. Shame about my cold :-)pic.twitter.com/ABzLuxly8U",
+            "username": "Rab_Ray",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1098634712988438532": {
+            "id": "1098634712988438532",
+            "text": "The sun is setting on my train journey homepic.twitter.com/zNS8jaqqjw",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097768891114291202": {
+            "id": "1097768891114291202",
+            "text": "This is not a good week for a head cold",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095815278557097986": {
+            "id": "1095815278557097986",
+            "text": "Perhaps an easier question for Teresa Maypic.twitter.com/Q2ouBjewhu",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095424721749987328": {
+            "id": "1095424721749987328",
+            "text": "Watching the #golfmates Ryder Cup.  #upthemiddle",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093662369472045057": {
+            "id": "1093662369472045057",
+            "text": "So I dug around, I asked a few folks I thought might have the answer. I'm still convinced you can't filter on shodan between TCP and UDP with a free account.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093659748908584960": {
+            "id": "1093659748908584960",
+            "text": "Back home from another great  @NCCGroupInfosec #teamscotland meetup. I'm very lucky to work with so many talented individuals. Fantastic stuff, we are still looking to grow our local talent and experience which is also so very encouraging.",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1093070483162103808": {
+            "id": "1093070483162103808",
+            "text": "Something seems fundamentally wrong with toasting potato scones",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092941041647398914": {
+            "id": "1092941041647398914",
+            "text": "For those students interested in the challenges I mentioned at the presentation. Further details live here:https://www.nccgroup.trust/uk/about-us/careers/graduates/ninja-challenge/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1092933504453824513": {
+            "id": "1092933504453824513",
+            "text": "Hard to believe some people did not know about red dwarf ! #dc44141",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1091480980735574017": {
+            "id": "1091480980735574017",
+            "text": "Can't decide between team OMP and team Dick. Tbh I just hope all have a banging time in Spain. #golfmates",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1091459435497697280": {
+            "id": "1091459435497697280",
+            "text": "Smashed my way through 9 chapters of network security assessment 3rd edition today by @chrisforce1. Great book. Amazing how many of the techniques I still recall from a training course I attended years ago in Glasgow as a network admin",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1091360787489267712": {
+            "id": "1091360787489267712",
+            "text": "Poppets mint creams are quality sweets. I can see another trip to the shops in order",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1089156392362131456": {
+            "id": "1089156392362131456",
+            "text": "Played 9 holes in pretty wild conditions today and for the first time ever finished 3 under par scratch.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088199236175319041": {
+            "id": "1088199236175319041",
+            "text": "Red dwarf time",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1084195338121039872": {
+            "id": "1084195338121039872",
+            "text": "Very pleased with my 6 over par scratch today, with a triple bogey on a par 3 too.pic.twitter.com/GzzRcYO4sn",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082361062777860096": {
+            "id": "1082361062777860096",
+            "text": "First day back at work and I am already up to dastardly deeds. Roll on tomorrow!pic.twitter.com/JYuDAU9HKz",
+            "username": "Rab_Ray",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1080467620711841792": {
+            "id": "1080467620711841792",
+            "text": "Waiting on some big dominoes falling over. Yup science museums rockpic.twitter.com/GO1D2Zm0D2",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1080180822798417920": {
+            "id": "1080180822798417920",
+            "text": "Waiting to go into the cinemapic.twitter.com/4ldwtQE0ft",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1078755790729695233": {
+            "id": "1078755790729695233",
+            "text": "Yass! fixed the echo problem. Pilot error. Time to enjoy @kevinbridges86",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1078607480819773440": {
+            "id": "1078607480819773440",
+            "text": "If you've not been or just want to revisit. This weekend is possibly your last  chance for the winter gardens in Glasgowhttps://www.bbc.com/news/uk-scotland-glasgow-west-45932229\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1077304947623055360": {
+            "id": "1077304947623055360",
+            "text": "BBC News - The Spiderman of Paris: What happened next?https://www.bbc.co.uk/news/world-europe-46538253\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1076232585481728007": {
+            "id": "1076232585481728007",
+            "text": "Exciting times here. Practicing making my veggie Xmas main.pic.twitter.com/BcXZ7RYcnS",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075522643426709504": {
+            "id": "1075522643426709504",
+            "text": "BBC News - Storm Deirdre leaves golf course covered in sandhttps://www.bbc.co.uk/news/uk-scotland-tayside-central-46619146\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075145772038017025": {
+            "id": "1075145772038017025",
+            "text": "Some real world black team activityhttps://www.bbc.co.uk/news/uk-scotland-glasgow-west-46515250\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075144922209099776": {
+            "id": "1075144922209099776",
+            "text": "There's some real insider threathttps://www.bbc.co.uk/news/uk-england-essex-46609916\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075114237410852864": {
+            "id": "1075114237410852864",
+            "text": "Think I'll be keeping stuff of very little value in the gym locker with my new padlockpic.twitter.com/c5Wp4xPej6",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1073320011639476224": {
+            "id": "1073320011639476224",
+            "text": "Contact @NCCGroupCareers to join #team #scotlandpic.twitter.com/7HyELnxul8",
+            "username": "Rab_Ray",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1071519348823654400": {
+            "id": "1071519348823654400",
+            "text": "Sounds of  Mars wind captured by Nasa's InSight landerhttps://www.theguardian.com/science/2018/dec/07/sounds-of-mars-wind-captured-by-nasas-insight-lander?CMP=share_btn_tw\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1071327511987085312": {
+            "id": "1071327511987085312",
+            "text": "Great Christmas night out last night with my colleagues from @NCCGroupInfosec #Team #Scotland pretty sure there's always room for more talented people at next year's event. Get in touch. @NCCGroupCareers",
+            "username": "Rab_Ray",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1068972672053387265": {
+            "id": "1068972672053387265",
+            "text": "I was at the #ScottishGolf conference today. I also noticed this reported issue. My question, which may have had a technical hitch,  was related to what is being done to promote more participation from people from deprived areas of Scotland to get into the game?pic.twitter.com/AZONs5Ymei",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063599500646916096": {
+            "id": "1063599500646916096",
+            "text": "Well maybe also with a paragraph or two from:pic.twitter.com/9VpI1FzDxR",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1063594631621939201": {
+            "id": "1063594631621939201",
+            "text": "Little bit of weekend readingpic.twitter.com/hHbRvNRppt",
+            "username": "Rab_Ray",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1059200715460173825": {
+            "id": "1059200715460173825",
+            "text": "Having a fun evening scanning through various infosec books and watching step brothers.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057168395446173696": {
+            "id": "1057168395446173696",
+            "text": "Humanity has wiped out 60% of animals since 1970, major report findshttps://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds?CMP=share_btn_tw\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1055953948002189313": {
+            "id": "1055953948002189313",
+            "text": "At some point in my career I'd love to go back to lecturing. Some of my favourite experiences in life have been helping others to progress towards their goals. #thosethatcanteach",
+            "username": "Rab_Ray",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1055177867355668487": {
+            "id": "1055177867355668487",
+            "text": "runas.exe /netonly /user:domain\\user cmd",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1053353980493996032": {
+            "id": "1053353980493996032",
+            "text": "Test case that helped make an application be that bit more secure today: {{1+2}}",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052331578054008833": {
+            "id": "1052331578054008833",
+            "text": "Send it \"Hello pepper, I have a question for you .... AAAAAhttps://www.bbc.co.uk/news/av/uk-politics-45878164/pepper-the-robot-tells-mps-about-artificial-intelligence\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052276029287489536": {
+            "id": "1052276029287489536",
+            "text": "Missing left tonight but consistency in the distance is a good thingpic.twitter.com/bgYpllde5B",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1051378030059409410": {
+            "id": "1051378030059409410",
+            "text": "I did @raesene excellent course on container security last week, which he will be delivering at blackhat eu. Was jam packed with technical insight and his experience about the technologies with great practicals to get me started https://www.blackhat.com/eu-18/training/mastering-container-security.html\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1051375937378549760": {
+            "id": "1051375937378549760",
+            "text": "When will access to the digital system for management of handicaps be available? @ScottishGolfhttps://www.scottishgolf.org/affiliation-increase-approved-at-scottish-golf-general-meeting/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1047601981261529089": {
+            "id": "1047601981261529089",
+            "text": "Not all information disclosures are equal.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047597915571716096": {
+            "id": "1047597915571716096",
+            "text": "I did also like the resultspic.twitter.com/Bmo7VD5yXE",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047597539548155915": {
+            "id": "1047597539548155915",
+            "text": "I suppose it's the experimentation that intrigues me the mostpic.twitter.com/QyF05iEEeO",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1047596003984064514": {
+            "id": "1047596003984064514",
+            "text": "Or \"don't trust the data from the client side\"",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047594841574658053": {
+            "id": "1047594841574658053",
+            "text": "Hard to believe it's heading into the later stages of 2018 & I'm still saying things like \"Apply 2FA to your corporate VPN.\"",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1047586157113081865": {
+            "id": "1047586157113081865",
+            "text": "If nothing else, she at least makes me feel better about my pretty awful dance moveshttps://www.bbc.co.uk/news/uk-politics-45733370\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1046844340440588289": {
+            "id": "1046844340440588289",
+            "text": "Been working on my driver launch anglespic.twitter.com/r7mNIV3t4W",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1043983538452860928": {
+            "id": "1043983538452860928",
+            "text": "Superb to see @TigerWoods win again",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1043257574982868993": {
+            "id": "1043257574982868993",
+            "text": "My local restaurant offers to get me in veggie haggis. That is my idea of good service.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1043234685286080512": {
+            "id": "1043234685286080512",
+            "text": "Best thing about it. Good honest appraisal of my current game and and making improvement suggestions that I can work with.  #value",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1043232330293432320": {
+            "id": "1043232330293432320",
+            "text": "Had another top #golf lesson from @IainKennedyGolf sorting out my driver! Good news is I am hitting the ball pretty well.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1042887436454514691": {
+            "id": "1042887436454514691",
+            "text": "A chip in this evening for birdie on stroke index 2 and even a wee cheer from the passing 3 ball. Was pretty chuffed with it myself.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042872407411838978": {
+            "id": "1042872407411838978",
+            "text": "Getting some tools sorted for next week.pic.twitter.com/pS7yUhK8Gx",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042467159568523270": {
+            "id": "1042467159568523270",
+            "text": "Think I'll pickup a megadrive",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1041088671850655746": {
+            "id": "1041088671850655746",
+            "text": "An increase in handicap. Golf teaches the student patience.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1040668071919267843": {
+            "id": "1040668071919267843",
+            "text": "The quality of women's LPGA golf is simply superb.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039964328231952385": {
+            "id": "1039964328231952385",
+            "text": "https://www.owasp.org/index.php/SAML_Security_Cheat_Sheet\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039963680501374976": {
+            "id": "1039963680501374976",
+            "text": "https://blog.netspi.com/attacking-sso-common-saml-vulnerabilities-ways-find/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1039963527895810050": {
+            "id": "1039963527895810050",
+            "text": "Useful blog post to go along with ithttps://research.aurainfosec.io/bypassing-saml20-SSO/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1039864605957345281": {
+            "id": "1039864605957345281",
+            "text": "Useful SAML toolhttps://portswigger.net/bappstore/c61cfa893bb14db4b01775554f7b802e\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1039788828918247424": {
+            "id": "1039788828918247424",
+            "text": "Glad to be leaving the hotel this morning for the last time this week. Another one on my give it a miss list.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039212435847213058": {
+            "id": "1039212435847213058",
+            "text": "It took a few conference calls but eventually I convinced them through persistence of message and wireshark captures. My user doesn't have the required proxy access, day 2 of testing now expected to be more productive",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038737667272392704": {
+            "id": "1038737667272392704",
+            "text": "Wildlifehttps://www.bbc.co.uk/news/in-pictures-45425923\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038200085442637824": {
+            "id": "1038200085442637824",
+            "text": "Payloads used https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20injection\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037793546219212800": {
+            "id": "1037793546219212800",
+            "text": "Using intruder with 2 tabs. One for submitting test payloads, the other for reading the responses. Tweaking the timing of the requests and number of threads got me the results I was looking for.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1037791627396493312": {
+            "id": "1037791627396493312",
+            "text": "All of my chipping practice this week so far has involved a 7 iron. From all sorts of lies and from all sorts of distances.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033364353872023553": {
+            "id": "1033364353872023553",
+            "text": "I am very happy to win the club championship for the 2nd year in a row today, against one of the very best players on the course over the years. A very close and tough match 2 with 1  time for ",
+            "username": "Rab_Ray",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1032720411748909062": {
+            "id": "1032720411748909062",
+            "text": "When you remember a flavour of Linuxhttps://www.linux.org/threads/lindows.11236/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1026342563782053888": {
+            "id": "1026342563782053888",
+            "text": "Apparently trying to account for wind speed means taking the game \"too\" serious. Personally I call it getting better:pic.twitter.com/ccs1ji5Q1A",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1026005904888672256": {
+            "id": "1026005904888672256",
+            "text": "Hard to believe I finished 11 over par yesterday with an 8 on a par 3 after playing the wrong ball! Still it inspires me even further that I can push this handicap downwards",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1022994275682971649": {
+            "id": "1022994275682971649",
+            "text": "Potato scone. Simple & pretty awesome. Need to make some home made soon.",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1022705039704555520": {
+            "id": "1022705039704555520",
+            "text": "Here comes the sunpic.twitter.com/fl304Q6D6h",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1022701259600678913": {
+            "id": "1022701259600678913",
+            "text": "5.30 am during the Scottish summer. Time for some golf practice on the course before workpic.twitter.com/PRrhHpK9v3",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1022233394816712723": {
+            "id": "1022233394816712723",
+            "text": "Onsite for work and managed to squeeze in some golf in the evening. Can't beat light evenings and dry sunny summers in Scotland!",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1019830399923519488": {
+            "id": "1019830399923519488",
+            "text": "Found yet another ninja lurking in my cupboardpic.twitter.com/RuexSNX0hI",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1017897780600279042": {
+            "id": "1017897780600279042",
+            "text": "The white box hardware hacking workshop was really interesting & informative.Watching our global team members then pluck away at finding/discussing vulnerable C was frankly awesome.  #NCCCon18",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1017825464704958464": {
+            "id": "1017825464704958464",
+            "text": "#NCCCON18 is over, was great to see so many great people I've worked with over the years and to meet some new people as well. I'm now back in good old Scotland & already looking forward to #NCCCON19",
+            "username": "Rab_Ray",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1015342599677366272": {
+            "id": "1015342599677366272",
+            "text": "My ninjas are ready 4 #NCCCon18pic.twitter.com/0wPucfdq7f",
+            "username": "Rab_Ray",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1015330387650928641": {
+            "id": "1015330387650928641",
+            "text": "From reading books on physical security to firewall configuration & cis documentation to finishing of with IDA pro. Busy week!",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1014663804620328960": {
+            "id": "1014663804620328960",
+            "text": "Went to this vegan restaurant last night https://www.facebook.com/lotusveget/\u00a0 very impressed with the food selection and hospitality",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1013115054768697344": {
+            "id": "1013115054768697344",
+            "text": "Two days of thunderstorms great for catching up on some reading",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1013020454435655680": {
+            "id": "1013020454435655680",
+            "text": "I'm thinking cheesecake for breakfast",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1008028977833881601": {
+            "id": "1008028977833881601",
+            "text": "Unfortunately competition called off due unplayable greens in the rain. Was 3 over through 7 and going strong as I chase down 10.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1005568265291214848": {
+            "id": "1005568265291214848",
+            "text": "Delighted with 11 pars & 1 birdie today. ",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1005559409194557441": {
+            "id": "1005559409194557441",
+            "text": "I was recently told an image on your phone of your driving licence counts as valid ID in a particular goods store for picking up orders. Makes me wonder if someone would consider exploiting such a weakness.pic.twitter.com/BsVRuPqYLw",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1005498971920445442": {
+            "id": "1005498971920445442",
+            "text": "Another win today with 4 under c.s.s brings my handicap down to 11. Well on my way to my target for the season!",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1004052717738840065": {
+            "id": "1004052717738840065",
+            "text": "It's the great views that make me happy to travel up and down the country by trainpic.twitter.com/XFxgBmkfJR",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1003720306077429761": {
+            "id": "1003720306077429761",
+            "text": "Two hotels in a row where they have not presented me with an option to opt-out of marketing at the check in desk. GDPR adoption is going well I see.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002952466416177154": {
+            "id": "1002952466416177154",
+            "text": "I'm happy with my 4 under c.s.s score today, winning the monthly medal. New handicap 11.8 and won 4 closest to the holes!",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002561190449569794": {
+            "id": "1002561190449569794",
+            "text": "Lots of good stuff here for small businesses https://www.ncsc.gov.uk/smallbusiness\u00a0 #infosec #Cybersecurity",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002282214321721345": {
+            "id": "1002282214321721345",
+            "text": "A mixed up day of messing with call scammers, web app hacking & reporting, black team OSINT, lock picking practice, putting & bunker  practice and now Oasis tribute bands with a pint of blue moon. #allinadayswork",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1002147539565580290": {
+            "id": "1002147539565580290",
+            "text": "Had yet another scam call. Begins with Aimee from \"direct line\" about my \"accident\" wanting to give me my compensation from 3rd party, a few answers they want to hear and call switches to David, who when I asked \"so your from Admiral, yes?\" ... \"Yes sir, exactly!\"",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1001758912687804417": {
+            "id": "1001758912687804417",
+            "text": "Hmrc phone scams doing the rounds I see. \"call us back or face the consequences\"",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1001032942787944451": {
+            "id": "1001032942787944451",
+            "text": "Had a fantastic night in London at Game of Thrones live concert.  @Djawadi_Ramin was superb! Now on my way back to Glasgow.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "999896005544849411": {
+            "id": "999896005544849411",
+            "text": "On #GDPRday my only concern is what we all going to worry about on Monday?",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "997938461519773696": {
+            "id": "997938461519773696",
+            "text": "Make mine a double. A double treble!",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "996294567396892673": {
+            "id": "996294567396892673",
+            "text": "The hunt continues",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "996126543599603712": {
+            "id": "996126543599603712",
+            "text": "Little bit of putting practice tonightpic.twitter.com/R14gg38frm",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "995996995163705344": {
+            "id": "995996995163705344",
+            "text": "Treated myself to the audio version of @humanhacker latest book, read by the man himself.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "995994267297505280": {
+            "id": "995994267297505280",
+            "text": "I'm Seeking them here, I'm seeking them there. Hunting down wireless access points again.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "993519552242900992": {
+            "id": "993519552242900992",
+            "text": "Another great lesson with @IainKennedyGolf #commitment",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "992791372359970817": {
+            "id": "992791372359970817",
+            "text": "Pleased to finish 1 under C.S.S in tough course conditions today",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "992542211358298112": {
+            "id": "992542211358298112",
+            "text": "Maybe Steven Gerrard has a secret weaponpic.twitter.com/4ZiiMkTiZG",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "992170619700699138": {
+            "id": "992170619700699138",
+            "text": "Great evening practice on the range. Distance and target practice. Mixing it up with angles and club selection",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "992160770900230146": {
+            "id": "992160770900230146",
+            "text": "Well if my clear text password has been floating around the Twitter internal network for months. One more day won't hurt much more. Obviously if I start posting something sensible, my account has likely been hacked.",
+            "username": "Rab_Ray",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "991734800452149253": {
+            "id": "991734800452149253",
+            "text": "As another web app/api testing project comes to an end, I am leaving inspired to learn even more & thankful for the fantastic help & participation from the members of the dev-op team. That's what I call \"work\".",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991449342690185216": {
+            "id": "991449342690185216",
+            "text": "Great day working with the client today. Demonstrated how to setup a local browser proxy so they can repeat test cases more easily.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991073923591737344": {
+            "id": "991073923591737344",
+            "text": "It sure makes it much easier when you land the  ball close to the pin. Placed a 51 yard 54\u00b0 wedge shot to under 2 feet on the last hole at the weekend to sneak 3rd place.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991050326731034624": {
+            "id": "991050326731034624",
+            "text": "Great day constructing access control test scenarios and working through the test cases. 4 bugs found and on their way to being fixed.",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "990574075453083650": {
+            "id": "990574075453083650",
+            "text": "Champions #7InARow",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "990327758294220800": {
+            "id": "990327758294220800",
+            "text": "This is the place @HogansOrlando",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "990326499487158272": {
+            "id": "990326499487158272",
+            "text": "I should say. His store.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "987464790372159488": {
+            "id": "987464790372159488",
+            "text": "Looking forward to some Black Team activity next week:https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/march/we-see-the-world-in-black-blue-and-red-with-a-little-purple/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "985552311517892610": {
+            "id": "985552311517892610",
+            "text": "What's better than watching Celtic pumping Rangers out of the cup? ... Being on holiday and watching Celtic pumping Rangers out of the cup!!! #CelticFC",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "982394124593717253": {
+            "id": "982394124593717253",
+            "text": "Surely everyone drinks vodka out of a skullpic.twitter.com/y6NFVsIWE1",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "981986193943552000": {
+            "id": "981986193943552000",
+            "text": "Fantastic to see Sandy Lyle sink an eagle #Themasters",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "981068398263242755": {
+            "id": "981068398263242755",
+            "text": "Time to find some access pointspic.twitter.com/B0km5E6LRn",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "980158833594109952": {
+            "id": "980158833594109952",
+            "text": "Pleased to win today by 4 shots in pretty tough conditions",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "977629978958458880": {
+            "id": "977629978958458880",
+            "text": "And the golf season is once again underway",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "977323753758748672": {
+            "id": "977323753758748672",
+            "text": "Great to see @PaulLawriegolf today at the @ScotGolfShow great bunker shots and tips.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "975157104133763072": {
+            "id": "975157104133763072",
+            "text": "8 over par for 18 today. Very pleased considering the mini beast from the east was having a go at me as well as the course.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "974749193582628864": {
+            "id": "974749193582628864",
+            "text": "Got an exciting evening ahead watching a mix of golf and learning materials on SCCM",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "974379915540877312": {
+            "id": "974379915540877312",
+            "text": "Had a load of fun chipping with the 21\u00b0 hybrid from all sorts of lies.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971838360099737601": {
+            "id": "971838360099737601",
+            "text": "What I do like about onsite work is the increased opportunity to ask more questions about how an application/process is intended to work.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "970064499410653189": {
+            "id": "970064499410653189",
+            "text": "<-loopback> an IE exclusion when using burp and IE for capturing HTTP for localhost.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "968392788424437760": {
+            "id": "968392788424437760",
+            "text": "Session fixation, still a thing. Cookie: AAAAAAAAA https://www.owasp.org/index.php/Session_fixation\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "968247541971156993": {
+            "id": "968247541971156993",
+            "text": "Felt like I had better balance and timing tonight on the range. Resulted in much improved strike location.pic.twitter.com/oTASOs33am",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "967491203175473152": {
+            "id": "967491203175473152",
+            "text": "Go on Tiger ",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "966463526750556160": {
+            "id": "966463526750556160",
+            "text": "Got some numbers to work onpic.twitter.com/YPv98KmXXH",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "964993269850673153": {
+            "id": "964993269850673153",
+            "text": "Great when ideas suddenly flow in for a presentation idea. Better jot them down. I'm watching a film damn it!",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "964767534183575552": {
+            "id": "964767534183575552",
+            "text": "The weather is pretty poor at the moment but that won't stop me from getting out and hacking away on the golf course today #10orless",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "963488367093657606": {
+            "id": "963488367093657606",
+            "text": "Some tutorials for SQL  https://sqlzoo.net\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "963170109077557249": {
+            "id": "963170109077557249",
+            "text": "Useful reading for SQLi in ORDER BY clause: https://support.portswigger.net/customer/portal/articles/2590771-Methodology_SQLi-QueryStructure.html\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "962749897127710723": {
+            "id": "962749897127710723",
+            "text": "Pleased with a back 9 finish of 1 over par today. 9 over par in total for all 18 holes played. 8 G.I.R. Shame about the 7. I could have saved at least a couple of shots here.  (3 winter/fairway greens in play, conditions wet, sleet and windy)",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "962411993608130566": {
+            "id": "962411993608130566",
+            "text": "Only played 10 holes today due to weather/conditions. Was pleased with 5 over par and 5 G.I.R.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "962218124610342912": {
+            "id": "962218124610342912",
+            "text": "Edinburgh is definitely a place to explorepic.twitter.com/cmY8b6qAsK",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "962063060805476354": {
+            "id": "962063060805476354",
+            "text": "I've merged a tennis ball with a lanyard using a paper clip, string and some scotch tape, for an indoor golf swing training aid. That's my idea of hardware hacking.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "961730804165627906": {
+            "id": "961730804165627906",
+            "text": "Found what I'm looking for @nickstadb while on the train home http://www.iana.org/assignments/media-types/media-types.xhtml\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "961373274503598080": {
+            "id": "961373274503598080",
+            "text": "Starting to watch red dwarf again like it's 1999",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "959539047415861250": {
+            "id": "959539047415861250",
+            "text": "Enjoying 3% on Netflix",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "958107500213080066": {
+            "id": "958107500213080066",
+            "text": "On yerself daylightpic.twitter.com/Ui7mQ6Q1mv",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "957584308142788608": {
+            "id": "957584308142788608",
+            "text": "very wet and up to 40 mph winds today. A day for the range. Balance and upper body turn workpic.twitter.com/jU49twZ3zv",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "957302883929739264": {
+            "id": "957302883929739264",
+            "text": "Set myself the goal of 9 pars today. Bagged 7. I'll just forget the 11 strokes I ran up on the first  lol",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "956672049950461952": {
+            "id": "956672049950461952",
+            "text": "Bought a white rum this evening, just realized I should have asked for some tips on what to buy from @dive_monkey",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "956662408851984385": {
+            "id": "956662408851984385",
+            "text": "So close to a hole in 1 from Tiger. Almost lept out my seat",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "956440058281721856": {
+            "id": "956440058281721856",
+            "text": "Finding mind maps are a quick and easy way to refresh my ideas related to tasks I have to performpic.twitter.com/gcyYKCd1cP",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "956435892633292801": {
+            "id": "956435892633292801",
+            "text": "I'm on the slow train to Edinburgh. Stopping at all of the exotic locations I forgot existed.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "956430406714384385": {
+            "id": "956430406714384385",
+            "text": "Feeling like everyone is in so much more of a hurry this morning, have I missed something?",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "956064748923183104": {
+            "id": "956064748923183104",
+            "text": "Today is not the day that I've managed to shake off this cold. 4 weeks now and counting. On the upside I think it's a new personal record!",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "955921616164347904": {
+            "id": "955921616164347904",
+            "text": "Reducing my carb intake over last week hasn't been as bad as I first expected. The real challenge will be when I go on my work travels",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "955918588862443520": {
+            "id": "955918588862443520",
+            "text": "The snow has finally cleared up . So I went to the  range. Mainly focused on allowing my body to uncoil/turn towards the , rather than throwing my hands & club at the ball. Also observing strike location on the club face and playing with trying to control strike location",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "952596851957649413": {
+            "id": "952596851957649413",
+            "text": "Happy with 5 over in my practice 9 holes today. Working in my 3 wood as another tee shot option combined with recent #golf lesson info from @IainKennedyGolf This distance was dicing with a water hazard though  pic.twitter.com/NGH17HGUtN",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "952350529572786176": {
+            "id": "952350529572786176",
+            "text": "Time for Gotham",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "952234480542081024": {
+            "id": "952234480542081024",
+            "text": "Had another really interesting #golf lesson from @IainKennedyGolf today as we set aim towards lowering my handicap next season",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "947625432970616833": {
+            "id": "947625432970616833",
+            "text": "Bringing in the new year with a lovely horse https://youtu.be/jzYzVMcgWhg\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "947585708943921152": {
+            "id": "947585708943921152",
+            "text": "Mixed 3 flavours of crisps in a bowl. Hogmanay sorted ",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "945433077706313729": {
+            "id": "945433077706313729",
+            "text": "Christmas is that time of year when I get a toblerone always reminds me of https://youtu.be/GT65nIU6fhc\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "945401952371912704": {
+            "id": "945401952371912704",
+            "text": "Full blown head cold. Must be Christmas right enough, Hopefully the beer will sort me out . Happy holidays all !!!",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "944618970866487296": {
+            "id": "944618970866487296",
+            "text": "So more Gotham or more el-chapo? Tough choices to be made this evening",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "941063476553895936": {
+            "id": "941063476553895936",
+            "text": "I'm still impressed by the number of typos I achieve when typing in code from a book.",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "939595053063917569": {
+            "id": "939595053063917569",
+            "text": "Crazy iced fairway and downhill tee shot today. Funny old game golf.pic.twitter.com/SQIoN9ZMwK",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "938907116055728129": {
+            "id": "938907116055728129",
+            "text": "adding <-loopback> to exceptions list. Very handy for situations involving using IE with proxy to target localhost http traffic.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "936665608447496192": {
+            "id": "936665608447496192",
+            "text": "Go on Tiger ! ",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "935784326150664192": {
+            "id": "935784326150664192",
+            "text": "I better mention Apple and blank root password. Don't want to feel left out",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "934829855224582146": {
+            "id": "934829855224582146",
+            "text": "Walk on",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "934530176200953856": {
+            "id": "934530176200953856",
+            "text": "Chuffed with any pars I could pickup in the iced greens/mud ball conditionspic.twitter.com/t77erQO4l7",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "934492279561211904": {
+            "id": "934492279561211904",
+            "text": "Fixed my performance data in the online dashboard easy enough  @garrett_golf",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "934435490073399300": {
+            "id": "934435490073399300",
+            "text": "The golf course had frozen greens, made for an interesting round ",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "933808093959458816": {
+            "id": "933808093959458816",
+            "text": "sethc.exe the gift that just keeps on giving",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "933728810738114560": {
+            "id": "933728810738114560",
+            "text": "Training your IT staff to be proactive in identifying security vulnerabilities is fairly forward thinking if you ask me.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "933726481100034048": {
+            "id": "933726481100034048",
+            "text": "Delighted to be given the chance to educate a keen network support employee of a client an overview of what I'm doing and how I bypassed some of thier controls",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "932316477277065216": {
+            "id": "932316477277065216",
+            "text": "I always thought a seat in the \"quiet\" coach on the train indicates to all passengers STFU. From this experience. I am so very wrong.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "931187748647645184": {
+            "id": "931187748647645184",
+            "text": "I don't mind the rainpic.twitter.com/XfDwBKKr1x",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "930802376885391360": {
+            "id": "930802376885391360",
+            "text": "It's about that timepic.twitter.com/xp6OhqRiuV",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "930567708642566144": {
+            "id": "930567708642566144",
+            "text": "One of those momentspic.twitter.com/M3LCteESth",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "928050588272726016": {
+            "id": "928050588272726016",
+            "text": "https://youtu.be/ikGtCA3OJJc\u00a0 @DC44141",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "928047856082214912": {
+            "id": "928047856082214912",
+            "text": "I was asked about how I am progressing/enjoying curb your enthusiasm. Loving Larry David, is my answer.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "927230478419193861": {
+            "id": "927230478419193861",
+            "text": "Fireworks 2 nights in a row. Poor dogs",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "925264745451737088": {
+            "id": "925264745451737088",
+            "text": "Still working on bunching up my strike location. High ones due to a descending AOApic.twitter.com/J0L8Lq38Mm",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "918894765093081088": {
+            "id": "918894765093081088",
+            "text": "Making a start on curb your enthusiasm S1E1",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "918877582560514049": {
+            "id": "918877582560514049",
+            "text": "Enjoyed my day off work. The weather was shocking so no round unfortunately, range work on strike and indoor putting practice instead.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "917072530669821955": {
+            "id": "917072530669821955",
+            "text": "C'mon Scotland",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "916416152145846272": {
+            "id": "916416152145846272",
+            "text": "It's a privilege to travel to some very interesting places for work, but it's great to be hame",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "916045824114741249": {
+            "id": "916045824114741249",
+            "text": "Dusted down the old python skills today to create the client a quick poc. I really should write more code, tons of fun.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "914128613586456577": {
+            "id": "914128613586456577",
+            "text": "12 over par after 9 holes thinking I'm out of the running. Delighted to come back in 1 over on back 9 to finish level par. #golf #tryharder",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "913503141576036352": {
+            "id": "913503141576036352",
+            "text": "my driver impact location isn't just as erratic as 6 months ago. Still plenty of room for improvementpic.twitter.com/v2SUilu5RK",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "910617649889017856": {
+            "id": "910617649889017856",
+            "text": "67",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "910586752787771392": {
+            "id": "910586752787771392",
+            "text": "Was also great to find out I didn't have to download all of the android SDK, just to get adb.exehttps://developer.android.com/studio/releases/platform-tools.html\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "910582720690049025": {
+            "id": "910582720690049025",
+            "text": "Favourite tool this week: https://github.com/aircrack-ng/aircrack-ng/blob/master/patches/wpe/hostapd-wpe/README.md\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "909064002571051008": {
+            "id": "909064002571051008",
+            "text": "Pleased with 1 under, especially considering the conditions",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "908792064401428480": {
+            "id": "908792064401428480",
+            "text": "Well the pizza from Morrisons was frankly baws",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "908440055890538496": {
+            "id": "908440055890538496",
+            "text": "Indoor putting and target chipping practicepic.twitter.com/FdlJOoJUZX",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "908056462307594241": {
+            "id": "908056462307594241",
+            "text": "An evening of chipping to a target spot and downward 7 iron strikes (ball first contact). A cheap A4 binder makes a nice aid.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "906630230940508160": {
+            "id": "906630230940508160",
+            "text": "Only 1 over CSS. Adjusting nicely to new handicap",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "903376454074892289": {
+            "id": "903376454074892289",
+            "text": "Access control and logic issues are sometimes the most interesting defects to find.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "902642764093026305": {
+            "id": "902642764093026305",
+            "text": "Test HTTPS enabled on both FQDN and IP as URL for a target web application.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "901466451260911619": {
+            "id": "901466451260911619",
+            "text": "Club champion ",
+            "username": "Rab_Ray",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "900487204560154624": {
+            "id": "900487204560154624",
+            "text": "Worked out some putting success percentages over the distance of 1,2 & 3 putter lengths from the hole this evening.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "899029483000168448": {
+            "id": "899029483000168448",
+            "text": "I very much look forward to discussing more about securing the API. Just please join staff to conf calls that know said API. #prettyplease",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "898802187161059328": {
+            "id": "898802187161059328",
+            "text": "Heavy rain was not the forecast I was hoping for today",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "896112054108430336": {
+            "id": "896112054108430336",
+            "text": "Been studying BizTalk and firebase. Both very interesting.",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "893581470459101185": {
+            "id": "893581470459101185",
+            "text": "Confidence booster also. Pinged quite a few more balls than usual into the 90 or so yard trampoline target with the wedges, inbetween drills",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "893579061758480388": {
+            "id": "893579061758480388",
+            "text": "Another top lesson from @IainKennedyGolf hand path moved just a fraction and result felt great. #Golf #lesson #Glasgow",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "893180621819965440": {
+            "id": "893180621819965440",
+            "text": "The clouds are getting darker and the sky more grey, can't be far from Glasgow now",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "893165858322878464": {
+            "id": "893165858322878464",
+            "text": "Testing REST and SOAP. Be extra prepared",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "892852983909711872": {
+            "id": "892852983909711872",
+            "text": "Handy to deal with Windows authentication woes: https://techblog.mediaservice.net/2017/05/fiddler-ntlm-authentication-when-burp-suite-fails/\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "892852730909347840": {
+            "id": "892852730909347840",
+            "text": "Favourite tool this week. Fiddler: http://www.telerik.com/fiddler\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "891446272611241985": {
+            "id": "891446272611241985",
+            "text": "https://msdn.microsoft.com/library/aa560946.aspx\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "891436732809400320": {
+            "id": "891436732809400320",
+            "text": "Today I played to my handicap with a 9 on my card. I call that progress",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "891436384963186689": {
+            "id": "891436384963186689",
+            "text": "If you like drawing. I recommend Autodesk sketchbook. Inspired me to rekindle a childhood hobby",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "891434887366025218": {
+            "id": "891434887366025218",
+            "text": "This week my favourite tools have been reading material: Microsoft BizTalk Server 2010 Unleashed & MSDN",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "887780693383811073": {
+            "id": "887780693383811073",
+            "text": "Also required reading: https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887440384573485056": {
+            "id": "887440384573485056",
+            "text": "And also: http://bit.ly/2uG3JL7\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887438411396780032": {
+            "id": "887438411396780032",
+            "text": "Also useful reading: https://www.owasp.org/index.php/SAML_Security_Cheat_Sheet\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887437299025416194": {
+            "id": "887437299025416194",
+            "text": "Which is an extension to:https://portswigger.net/burp/\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887436974876971008": {
+            "id": "887436974876971008",
+            "text": "My favourite tool today: https://github.com/SAMLRaider/SAMLRaider\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "885945153848061952": {
+            "id": "885945153848061952",
+            "text": "First programming language I experienced:pic.twitter.com/5jPGGeqiJw",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "885935795164631042": {
+            "id": "885935795164631042",
+            "text": "My favourite tool this week: https://github.com/Cisco-Talos/smi_check\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "885846188167221248": {
+            "id": "885846188167221248",
+            "text": "I'm quite pleased with our team's 63 at  @johnhenry92 invitational. A great day out",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "884505860327833603": {
+            "id": "884505860327833603",
+            "text": "\"Disassembly and dissection at the binary level in the next chapter.\" Good stuff!",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "883786330077110272": {
+            "id": "883786330077110272",
+            "text": "A night in with my niece and nephew watching Ghost Busters. Awesome",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "883724512621146114": {
+            "id": "883724512621146114",
+            "text": "Golf is hard, not much practice over the last couple of weeks and it was a real struggle today. Still had fun and that's what matters",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "883354323203366912": {
+            "id": "883354323203366912",
+            "text": "My favourite tool this week: http://www.angusj.com/resourcehacker/\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "882673275612090369": {
+            "id": "882673275612090369",
+            "text": "On my way to the old HQ for some malware analysis training. Happy days",
+            "username": "Rab_Ray",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "878366841663623168": {
+            "id": "878366841663623168",
+            "text": "My favourite tool this week:https://portswigger.net/burp/\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "877631888583782401": {
+            "id": "877631888583782401",
+            "text": "Just finished some final prep work for delivering web app hacking training tomorrow",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "876131637205053440": {
+            "id": "876131637205053440",
+            "text": "I'm the golf outing club 1st prize, lowest scratch score, a closest to the hole and longest drive winner for the first outing of the year.",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "875467971128438784": {
+            "id": "875467971128438784",
+            "text": "My favourite tool of the week: https://github.com/nccgroup/redsnarf\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "873692810540658688": {
+            "id": "873692810540658688",
+            "text": "I wish I had another beer. #wishfulthinking",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "873617681022414849": {
+            "id": "873617681022414849",
+            "text": "https://youtu.be/v2AC41dglnM\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "873216020403675136": {
+            "id": "873216020403675136",
+            "text": "We now have more Tories than pandas in Scotland",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "872856950756782083": {
+            "id": "872856950756782083",
+            "text": "Had fun learning/demonstrating you don't need access to PowerShell.exe to execute PowerShell scripts in your locked down environment.",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "862071661209767940": {
+            "id": "862071661209767940",
+            "text": "Happy landing the 264 yard par 4 green tonight. Ecstatic sinking the eagle putt",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "849778813303181312": {
+            "id": "849778813303181312",
+            "text": "Love code",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "796469095319437312": {
+            "id": "796469095319437312",
+            "text": "https://github.com/lgandx/Responder-Windows/blob/master/README.md\u00a0\u2026",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "776180026941304833": {
+            "id": "776180026941304833",
+            "text": "SQLi bugs are a bit like buses. I don't see one for a while, suddenly 2 pop up at once.",
+            "username": "Rab_Ray",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "742616821212303360": {
+            "id": "742616821212303360",
+            "text": "Success requires persistence & to not give up in the face of failure",
+            "username": "Rab_Ray",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "290925629346553859": {
+            "id": "290925629346553859",
+            "text": "OSCP ... Achievement unlocked. :-)",
+            "username": "Rab_Ray",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 5
+        },
+        "249220264196464641": {
+            "id": "249220264196464641",
+            "text": "Free security training? Yes, please ... http://opensecuritytraining.info/\u00a0",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "88223398420946944": {
+            "id": "88223398420946944",
+            "text": "Vsftp backdoor http://bit.ly/jRVAqD activated with a :)",
+            "username": "Rab_Ray",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "CelticFC": 5,
+        "raesene": 10,
+        "TheMasters": 1,
+        "DC44141": 7,
+        "AngelByDay": 1,
+        "NCCGroupCareers": 3,
+        "NCCGroupplc": 9,
+        "cornerpirate": 5,
+        "TimSweeneyEpic": 1,
+        "PMason00": 2,
+        "OWASPScotland": 1,
+        "TrustedSec": 1,
+        "44CON": 1,
+        "sqlmap": 1,
+        "NotMedic": 1,
+        "metasploit": 1,
+        "NCCGroupInfosec": 4,
+        "sans_isc": 1,
+        "podskin": 1,
+        "edeca": 5,
+        "irsdl": 5,
+        "gwillem": 3,
+        "cryptodavidw": 1,
+        "dive_monkey": 1,
+        "Edinburgh2600": 2,
+        "ScottishGolf": 1,
+        "manc_marko": 2,
+        "saidelike": 1,
+        "bsidesbelfast": 1,
+        "Robert__Douglas": 1,
+        "nickstadb": 9,
+        "CoreyD97": 1,
+        "NCSC": 12,
+        "N1ckDunn": 1,
+        "foxit": 1,
+        "Katy_Winterborn": 1,
+        "PresumingOnion": 1,
+        "BSidesMCR": 2,
+        "GossiTheDog": 2,
+        "actionfrauduk": 1,
+        "NCCsecurityUS": 1,
+        "roryalsop": 1,
+        "bbcquestiontime": 1,
+        "BSidesScot": 1,
+        "DavidRoads": 1,
+        "PortSwigger": 1,
+        "IainKennedyGolf": 2,
+        "LeglessDean": 1,
+        "chaosupdates": 1,
+        "netbiosX": 2,
+        "dlitchfield": 1,
+        "commonexploits": 1,
+        "nmonkee": 1,
+        "securityninja": 1
+    },
+    "users_retweeted": [
+        "NCSC",
+        "raesene",
+        "NCCGroupplc",
+        "nickstadb",
+        "DC44141",
+        "CelticFC",
+        "cornerpirate",
+        "edeca",
+        "irsdl",
+        "NCCGroupInfosec",
+        "NCCGroupCareers",
+        "gwillem",
+        "PMason00",
+        "Edinburgh2600",
+        "manc_marko",
+        "BSidesMCR",
+        "GossiTheDog",
+        "IainKennedyGolf",
+        "netbiosX",
+        "TheMasters",
+        "AngelByDay",
+        "TimSweeneyEpic",
+        "OWASPScotland",
+        "TrustedSec",
+        "44CON",
+        "sqlmap",
+        "NotMedic",
+        "metasploit",
+        "sans_isc",
+        "podskin",
+        "cryptodavidw",
+        "dive_monkey",
+        "ScottishGolf",
+        "saidelike",
+        "bsidesbelfast",
+        "Robert__Douglas",
+        "CoreyD97",
+        "N1ckDunn",
+        "foxit",
+        "Katy_Winterborn",
+        "PresumingOnion",
+        "actionfrauduk",
+        "NCCsecurityUS",
+        "roryalsop",
+        "bbcquestiontime",
+        "BSidesScot",
+        "DavidRoads",
+        "PortSwigger",
+        "LeglessDean",
+        "chaosupdates",
+        "dlitchfield",
+        "commonexploits",
+        "nmonkee",
+        "securityninja"
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "is_complete": true,
+    "username": "CarlBeek",
+    "retweeted": {
+        "1115836396122591232": {
+            "id": "1115836396122591232",
+            "text": "30 June works for me :) It's enough time to handle know design issues and wrinkles. Likely enough to time find most as-of-yet-unknown bugs and issues.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1115147310336364544": {
+            "id": "1115147310336364544",
+            "text": "Ethereum Researcher Carl Beekhuizen @CarlBeek  sharing \"Where 2 go with Eth2.0\" #EDCONHACK #ETHEREUMpic.twitter.com/OnkWQ8iuZw",
+            "username": "Linktimetech",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1102613496183877632": {
+            "id": "1102613496183877632",
+            "text": "Thanks to everyone that joined the #ETH2 Q&A - was recorded, livestreamed and @trent_vanepps remotely ascribed - we\u2019ll publish soon ICYMI! Special thanks to @ethZed @gregthegreek @CarlBeek @0xzak @lrettig @drakefjustin @protolambda and Jannik!pic.twitter.com/mAAA1ZSi2R",
+            "username": "MPtherealMVP",
+            "num_likes": 29,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1101814193530044416": {
+            "id": "1101814193530044416",
+            "text": "#ETH2 Q&A session at @EthMagicians - we\u2019re having @protolambda (implementation & research), @0xzak (Dungeon Master - CTO @whiteblock / 2.0 research, chairman EEA testnet group, master of dragons), @gregthegreek (Lodestar), @CarlBeek (EF research) and @lrettig (eWASM) helping out.",
+            "username": "MPtherealMVP",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1093758044725342209": {
+            "id": "1093758044725342209",
+            "text": "The phrase \"Q1 2019 Beacon Chain Testnet\" has been thrown around lately.\n\nA testnet can have multiple different qualities and we seek to explore what to expect in Q1. 1/nhttps://twitter.com/sigp_io/status/1093750944590778368\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 63,
+            "num_retweets": 26,
+            "num_replies": 17
+        },
+        "1085291959390998534": {
+            "id": "1085291959390998534",
+            "text": "[SECURITY ALERT] #Constantinople upgrade is temporarily postponed out of caution following a consensus decision by #Ethereum developers, security professionals and other community members. More information and instructions are below.https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 1561,
+            "num_retweets": 1006,
+            "num_replies": 223
+        },
+        "1085274751763914754": {
+            "id": "1085274751763914754",
+            "text": "Constantinople has fallen.",
+            "username": "DeanEigenmann",
+            "num_likes": 47,
+            "num_retweets": 8,
+            "num_replies": 6
+        },
+        "1082986561304702976": {
+            "id": "1082986561304702976",
+            "text": "Rinkeby #Ethereum testnet successfully forked over to Constantinople! All signers, bootnodes, faucet online and working well. Clean split between new and non-upgraded nodes (please update!). pic.twitter.com/o4hlHHEjss",
+            "username": "peter_szilagyi",
+            "num_likes": 711,
+            "num_retweets": 236,
+            "num_replies": 17
+        }
+    },
+    "tweeted": {
+        "1118104614459494401": {
+            "id": "1118104614459494401",
+            "text": "Why do airlines only compose 2 minuites worth of elevator music and play it on repeat? It's a special kind of torture. \n\nLooking at you @EtihadAirways",
+            "username": "CarlBeek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1116182247323967488": {
+            "id": "1116182247323967488",
+            "text": "What makes CBC so sexy is not the ability for different people to choose different thresholds, but for you to pick different thresholds for each of your transactions.\n\nThis is how we should be marketing CBC.",
+            "username": "CarlBeek",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1116152023911682048": {
+            "id": "1116152023911682048",
+            "text": "Pitty we missed out on on your dance skills, @jinglanW. Grabbing that coffee was important though!https://twitter.com/jinglanW/status/1116136960001601536\u00a0\u2026",
+            "username": "CarlBeek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115830655265443842": {
+            "id": "1115830655265443842",
+            "text": "Spec version 0.6 should remain very stable so clients can target that in the meanwhile.",
+            "username": "CarlBeek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115830380865703936": {
+            "id": "1115830380865703936",
+            "text": "* BLS standardization efforts and economic coefficients withstanding",
+            "username": "CarlBeek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115829938668617728": {
+            "id": "1115829938668617728",
+            "text": "I want to make this \"canonical\":\n\nPhase 0 spec freeze* by 30 June\n@drakefjustin @dannyryan @icebearhww @protolambda @VitalikButerin @dankrad What do you think? Can I get a pre-commit?https://twitter.com/drakefjustin/status/1108392741132795904\u00a0\u2026",
+            "username": "CarlBeek",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "1115230093851287553": {
+            "id": "1115230093851287553",
+            "text": "Update: It turns out that this is the drier, so that solves the pump problem. That said, this is still some Australian-ass engineering.",
+            "username": "CarlBeek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115222295163727873": {
+            "id": "1115222295163727873",
+            "text": "Seriously, how is the water pumped out? Is the pump inverted?",
+            "username": "CarlBeek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1115222076795658240": {
+            "id": "1115222076795658240",
+            "text": "I did not know this was even possible. The things one learns whilst down-under. #EDCON #Sydneypic.twitter.com/KrYnGylrMS",
+            "username": "CarlBeek",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1113707806207692800": {
+            "id": "1113707806207692800",
+            "text": "On top of Ethereum: the way Zerocash should have been implemented in the first place.https://twitter.com/clearmatics/status/1113429598568628224\u00a0\u2026",
+            "username": "CarlBeek",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1104675328524464129": {
+            "id": "1104675328524464129",
+            "text": "Well done on writing an incredibly legible spec, @protolambda!https://twitter.com/protolambda/status/1104659673649688576\u00a0\u2026",
+            "username": "CarlBeek",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058022309108289536": {
+            "id": "1058022309108289536",
+            "text": "VDF ASICs will allow cheaper, faster and more secure randomness allowing the chain to inherit the same properties. #VDF #Devcon4pic.twitter.com/W4zSWrGJTD",
+            "username": "CarlBeek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "984386582135431168": {
+            "id": "984386582135431168",
+            "text": "Verifying myself: I am av80r on http://Keybase.io\u00a0. L1iv8FgLerFdmHX7V1ECQOIFQobAMv-97YgV / https://keybase.io/av80r/sigs/L1iv8FgLerFdmHX7V1ECQOIFQobAMv-97YgV\u00a0\u2026",
+            "username": "CarlBeek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "820951375806889984": {
+            "id": "820951375806889984",
+            "text": "Finally claimed my Universe game bot coding challenge prize. Thanks @sirajraval for a great discussion on ML and advice for the future!",
+            "username": "CarlBeek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "drakefjustin": 1,
+        "Linktimetech": 1,
+        "MPtherealMVP": 2,
+        "paulhauner": 1,
+        "ethereum": 1,
+        "DeanEigenmann": 1,
+        "peter_szilagyi": 1
+    },
+    "users_retweeted": [
+        "MPtherealMVP",
+        "drakefjustin",
+        "Linktimetech",
+        "paulhauner",
+        "ethereum",
+        "DeanEigenmann",
+        "peter_szilagyi"
+    ]
+}

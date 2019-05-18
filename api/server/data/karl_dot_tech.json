@@ -1,0 +1,3215 @@
+{
+    "is_complete": true,
+    "username": "karl_dot_tech",
+    "retweeted": {
+        "1124061450488700928": {
+            "id": "1124061450488700928",
+            "text": "Don't forget! In 40 minutes, we'll be having our live AMA: https://www.youtube.com/watch?v=5QqWB3ZMqdQ\u00a0\u2026. It will be recorded, and feel free to post questions ahead of time in the Plasma Contributors telegram group: https://t.me/plasmacontributors\u00a0\u2026pic.twitter.com/36d5drKX35",
+            "username": "plasma_group",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1122964757450035200": {
+            "id": "1122964757450035200",
+            "text": "Mark your calendars. This Thursday at 6pm EST, we'll be hosting a live AMA https://www.youtube.com/watch?v=5QqWB3ZMqdQ\u00a0\u2026... and those who donate to our @gitcoin grant will be able to select a topic and request a freestyle rap from the infamous EDCON rapper @karl_dot_techpic.twitter.com/gAh5Cu6tl1",
+            "username": "plasma_group",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1116136960001601536": {
+            "id": "1116136960001601536",
+            "text": "So who wants to see @VitalikButerin and @karl_dot_tech rap? #EDCON2019pic.twitter.com/CbGp9P7vYH",
+            "username": "jinglanW",
+            "num_likes": 442,
+            "num_retweets": 69,
+            "num_replies": 65
+        },
+        "1111023577233584133": {
+            "id": "1111023577233584133",
+            "text": "If you've enjoyed our research, please consider contributing to our grant on @GetGitcoin, for their LR matching program. With LR, the matching is weighted by number of contributors. Even $10 is significant. Thank you all for your support:https://gitcoin.co/grants/39/plasma-group\u00a0\u2026",
+            "username": "plasma_group",
+            "num_likes": 60,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1110250083377909761": {
+            "id": "1110250083377909761",
+            "text": "It's finally here!  Read more to understand how Generalized Plasma introduces upgradeability, extensibility, and state channel interoperability:https://medium.com/plasma-group/plapps-and-predicates-understanding-the-generalized-plasma-architecture-fc171b25741\u00a0\u2026",
+            "username": "plasma_group",
+            "num_likes": 368,
+            "num_retweets": 137,
+            "num_replies": 15
+        },
+        "1108406385442803714": {
+            "id": "1108406385442803714",
+            "text": "Today I'm publishing a new design for an off-chain decentralized exchange built on synthetics: the  Rainbow Network \n\n- Supports any liquid asset (even non-crypto)\n- Supports leverage and shorting\n- Implementable on Ethereum, or on top of Lightning\n\nhttps://rainbownet.work\u00a0",
+            "username": "danrobinson",
+            "num_likes": 415,
+            "num_retweets": 91,
+            "num_replies": 29
+        },
+        "1104148395004956674": {
+            "id": "1104148395004956674",
+            "text": "I wanted to highlight some BAMFs that I\u2019ve met in the past year that everyone should follow and get to know. I\u2019m grateful to all of these women for the work they\u2019ve done and continue to do in the blockchain space:",
+            "username": "jinglanW",
+            "num_likes": 127,
+            "num_retweets": 23,
+            "num_replies": 5
+        },
+        "1101171296443002880": {
+            "id": "1101171296443002880",
+            "text": "Announcing a framework for generalized plasma:https://link.medium.com/gUzRiOXgGU\u00a0",
+            "username": "plasma_group",
+            "num_likes": 353,
+            "num_retweets": 103,
+            "num_replies": 18
+        },
+        "1091063552994029568": {
+            "id": "1091063552994029568",
+            "text": "Hello World! Over the past few months, we built a suite of tools to enable you to easily deploy your own plasma chain. Read our launch post to learn more:https://medium.com/plasma-group/deployplasma-dd1cf0b2ab55\u00a0\u2026",
+            "username": "plasma_group",
+            "num_likes": 349,
+            "num_retweets": 126,
+            "num_replies": 20
+        },
+        "1082539639620087809": {
+            "id": "1082539639620087809",
+            "text": "1. http://Cryptoeconomics.study\u00a0  is excited to be a part of the @GetGitcoin grants program alongside awesome teams like @prylabs, @sigp_io, and @ChainSafeth. @GetGitcoin grants let you set up monthly recurring subscriptions to make donations in any token!https://gitcoin.co/grants/16/cryptoeconomicsstudy-free-open-source-blockchain-2\u00a0\u2026",
+            "username": "kevinjho_",
+            "num_likes": 31,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1075878931155304449": {
+            "id": "1075878931155304449",
+            "text": "Hey y'all check out part 1 out of 3 \"Introduction to Cryptography\" for the basics of public key crypto, with a dash of number theory and group theory. Written for those without a math background:https://medium.com/@jinglan/introduction-to-cryptography-part-1-646893e87d5d\u00a0\u2026",
+            "username": "jinglanW",
+            "num_likes": 91,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1058376395108376577": {
+            "id": "1058376395108376577",
+            "text": "1/ Excited to announce the launch of @UniswapExchange ! It's a protocol for automated exchange of ERC20 tokens on Ethereum. https://uniswap.io/\u00a0",
+            "username": "haydenzadams",
+            "num_likes": 290,
+            "num_retweets": 73,
+            "num_replies": 20
+        },
+        "1053017566543785984": {
+            "id": "1053017566543785984",
+            "text": "Learn about the basics of auctions and how they apply to transaction fee markets!https://medium.com/@jinglan/an-introduction-to-auction-theory-blockchain-edition-cf09b005b1cc\u00a0\u2026",
+            "username": "jinglanW",
+            "num_likes": 33,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1040072835451023360": {
+            "id": "1040072835451023360",
+            "text": "Woof. Check out my new post \u201cAn Illustrated Primer on Cross Currency Swaps with HTLCs\u201d:https://medium.com/crypto-economics/an-illustrated-primer-on-cross-currency-swaps-in-htlcs-da90a90b60a9\u00a0\u2026",
+            "username": "jinglanW",
+            "num_likes": 53,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "1036796785254166528": {
+            "id": "1036796785254166528",
+            "text": "Couldn't be more excited to put out probably most ambitious paper I have ever written, and the one I am proudest of.  With @VitalikButerin and @zhitzig, we propose a mechanism and philosophy for a self-organizing decentralized ecosystem of public goods: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656\u00a0\u2026.",
+            "username": "glenweyl",
+            "num_likes": 876,
+            "num_retweets": 253,
+            "num_replies": 85
+        },
+        "1024259386774937600": {
+            "id": "1024259386774937600",
+            "text": "https://www.youtube.com/watch?v=m-0escxJ-j8&t=92s\u00a0\u2026  \u306a\u3093\u3068@karl_dot_tech @jinglanW\u306eCryptoeconomics \u306e\u30b3\u30fc\u30b9\u306b\u65e5\u672c\u8a9e\u5b57\u5e55\u304c\u3064\u304d\u307e\u3057\u305f\uff01\uff08\u3042\u308a\u304c\u3068\u3046@UNOkov!\uff09\u4eca\u5f8c\u8ab0\u3067\u3082\u5b57\u5e55\u7ffb\u8a33\u306b\u53c2\u52a0\u3067\u304d\u308b\u8a2d\u5b9a\u306b\u306a\u3063\u3066\u3044\u308b\u306e\u3067\u3001\u7686\u3055\u3093\u305c\u3072\uff01",
+            "username": "mi_ayako",
+            "num_likes": 101,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "1021021113256763392": {
+            "id": "1021021113256763392",
+            "text": "More about STARKs for people who like getting into the weeds:\n\nhttps://vitalik.ca/general/2018/07/21/starks_part_3.html\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 674,
+            "num_retweets": 154,
+            "num_replies": 54
+        },
+        "1020395108255100928": {
+            "id": "1020395108255100928",
+            "text": "I just published \u201cWhat is Plasma? Plasma Cash?\u201dhttps://medium.com/p/what-is-plasma-plasma-cash-6fbbef784a\u00a0\u2026",
+            "username": "jinglanW",
+            "num_likes": 167,
+            "num_retweets": 54,
+            "num_replies": 8
+        },
+        "1013875840889884674": {
+            "id": "1013875840889884674",
+            "text": "Just published: \"On-Chain Vote Buying and the Rise of Dark DAOs\"\n... on new mechanisms for influencing coin voting, on-chain governance, and blockchain security.http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 325,
+            "num_retweets": 128,
+            "num_replies": 21
+        },
+        "1013468266063388673": {
+            "id": "1013468266063388673",
+            "text": "\u201cEvery block contains a pointer to the previous block\u201d - @VitalikButerin recursive research team @karl_dot_techpic.twitter.com/OXbumSj4r1",
+            "username": "jinglanW",
+            "num_likes": 154,
+            "num_retweets": 23,
+            "num_replies": 8
+        },
+        "991021062811930624": {
+            "id": "991021062811930624",
+            "text": "Sharding is coming.\n\nhttps://github.com/ethereum/research/tree/master/sharding_fork_choice_poc\u00a0\u2026pic.twitter.com/FXEQeiKGDr",
+            "username": "VitalikButerin",
+            "num_likes": 4485,
+            "num_retweets": 1607,
+            "num_replies": 227
+        },
+        "989525778424451072": {
+            "id": "989525778424451072",
+            "text": "I am boycotting @coindesk's Consensus 2018 conference this year, and strongly encourage others to do the same. Here is my reasoning why.\n\n1. Coindesk is recklessly complicit in enabling giveaway scams. See their latest article on OMG, which *directly links* to a giveaway scam.pic.twitter.com/WDr9uZ8XOw",
+            "username": "VitalikButerin",
+            "num_likes": 4319,
+            "num_retweets": 1466,
+            "num_replies": 272
+        },
+        "988607696046772224": {
+            "id": "988607696046772224",
+            "text": "EIP 1011 suggests PoW reward be reduced from 3 ETH to 0.6 ETH. Here we dig deeper into this proposed change.https://gist.github.com/djrtwo/bc864c0d0a275170183803814b207b9a\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 148,
+            "num_retweets": 56,
+            "num_replies": 9
+        },
+        "984922045166178304": {
+            "id": "984922045166178304",
+            "text": "Stoked to announce this baller course.\n\nStart with a centralized PayPal implementation and *de-centralize* it as the course progresses. Non-technical folk can skip the hw and follow lectures and read the textbook. Free and open for all.https://twitter.com/BlockchainEdu/status/984920930316177410\u00a0\u2026",
+            "username": "jinglanW",
+            "num_likes": 294,
+            "num_retweets": 83,
+            "num_replies": 7
+        },
+        "984999742458351616": {
+            "id": "984999742458351616",
+            "text": "Excited to spread the knowledge about cryptoeconomics :) https://twitter.com/karl_dot_tech/status/984908411207913472\u00a0\u2026",
+            "username": "aparnalocked",
+            "num_likes": 20,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "981069924255739904": {
+            "id": "981069924255739904",
+            "text": "I'm going to live tweet comments on the \"Bitcoin, Controversy over Principle\" section of Deconomy for fun.",
+            "username": "VitalikButerin",
+            "num_likes": 2927,
+            "num_retweets": 905,
+            "num_replies": 111
+        },
+        "980549368288890880": {
+            "id": "980549368288890880",
+            "text": "Moment to breathe after another hectic week. Spring has come. Ethereum has come. Sakura is a symbol of the beginning of a beautiful future in Japan. Sakura and Kabosu, the original Doge shiba with the eth family :)  #ethereum #kabochanpic.twitter.com/8BjRgNpWgF",
+            "username": "mi_ayako",
+            "num_likes": 892,
+            "num_retweets": 134,
+            "num_replies": 36
+        },
+        "976412703982940162": {
+            "id": "976412703982940162",
+            "text": "Taipei Ethereum Meetup with @VitalikButerin @VladZamfir @karl_dot_tech @pipermerriam @peter_szilagyi @ConsenSys @ethstatus @ParityTech @raulitojordan PrysmaticLabs  @brainbot_tech @L4ventureshttps://youtu.be/ilsjZAtUUvQ\u00a0",
+            "username": "icebearhww",
+            "num_likes": 150,
+            "num_retweets": 44,
+            "num_replies": 14
+        },
+        "972447326320058369": {
+            "id": "972447326320058369",
+            "text": ".@karl_dot_tech \"We need to give people not only the memes of decentralization, but also the means of decentralization\" #blockchain #ethereum #cryptoeconomics #EthCC",
+            "username": "technocrypto",
+            "num_likes": 80,
+            "num_retweets": 19,
+            "num_replies": 7
+        },
+        "956482358567317505": {
+            "id": "956482358567317505",
+            "text": "Congrats to @naterush1997 and @dannyryan for releasing v0.2 of the cbc Casper prototypes, last night! \n\nLots of great upgrades: networking delays, hash-linking, consensus on an integer, on a list ordering, and on a concurrent schedule!https://github.com/ethereum/cbc-casper/releases/tag/0.2.0\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 331,
+            "num_retweets": 112,
+            "num_replies": 11
+        },
+        "954906431911636992": {
+            "id": "954906431911636992",
+            "text": "pic.twitter.com/oiLh8SY340",
+            "username": "VitalikButerin",
+            "num_likes": 8149,
+            "num_retweets": 814,
+            "num_replies": 624
+        },
+        "945840283358334977": {
+            "id": "945840283358334977",
+            "text": ".@icebearhww just wrote another great post explaining shardinghttps://medium.com/@icebearhww/https-medium-com-icebearhww-ethereum-sharding-overview-and-finality-65248951f649\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 1272,
+            "num_retweets": 484,
+            "num_replies": 54
+        },
+        "937502593923801088": {
+            "id": "937502593923801088",
+            "text": "My Ethereum Sharding Concept slide for Asia-Pacific Ethereum Community Meetup. (ENG + CHS subtitles)\n\n#ethereum #shardinghttps://github.com/hwwhww/eth-research/blob/master/sharding/slides/Ethereum_Sharding_Concept_20171203_Shenzhen.pdf\u00a0\u2026",
+            "username": "icebearhww",
+            "num_likes": 76,
+            "num_retweets": 23,
+            "num_replies": 5
+        },
+        "934359458926411776": {
+            "id": "934359458926411776",
+            "text": "#BeyondBlockTaipei is finished! Hope all of you guys are enjoying this conf.\n@VitalikButerin @VladZamfir @ConsenLabs @loi_luu @karl_dot_tech @lrettig @raiden_network @ethfans @KyberNetwork thanks for coming and sharing those cool stuff<3pic.twitter.com/QXB9ccYAxg",
+            "username": "eth_taipei",
+            "num_likes": 82,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "933406613213298689": {
+            "id": "933406613213298689",
+            "text": "Bitcoin mining is now consuming more electricity than 159 countries. I never thought that the end of the world would come because of Internet play money.https://powercompare.co.uk/bitcoin/\u00a0",
+            "username": "AaronToponce",
+            "num_likes": 902,
+            "num_retweets": 940,
+            "num_replies": 33
+        },
+        "927721324256034817": {
+            "id": "927721324256034817",
+            "text": "On this day #unicornpunk was added to @urbandictionary and its definition is @VitalikButerin (credit @virgilgr ) https://www.urbandictionary.com/define.php?term=unicorn%20punk\u00a0\u2026",
+            "username": "AmberBaldet",
+            "num_likes": 36,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "922158700034273280": {
+            "id": "922158700034273280",
+            "text": "On Proof of Stake & Ethereum Casper: design principles, foundational concepts, challenges, and why it all matters.https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0\u00a0\u2026",
+            "username": "jon_choi_",
+            "num_likes": 511,
+            "num_retweets": 272,
+            "num_replies": 21
+        },
+        "921339441859346432": {
+            "id": "921339441859346432",
+            "text": "On medium of exchange token valuations: http://vitalik.ca/general/2017/10/17/moe.html\u00a0\u2026\n\nIn short: good token economics require sinks (ie. fees), not just flows",
+            "username": "VitalikButerin",
+            "num_likes": 863,
+            "num_retweets": 404,
+            "num_replies": 55
+        },
+        "919796864744132608": {
+            "id": "919796864744132608",
+            "text": "Hard fork celebration!pic.twitter.com/mL1ZyJOYeA",
+            "username": "VitalikButerin",
+            "num_likes": 8194,
+            "num_retweets": 2330,
+            "num_replies": 336
+        },
+        "914272859479928833": {
+            "id": "914272859479928833",
+            "text": "Casper FFG: now down to one message type and one slashing condition http://ethereumresearch.trydiscourse.com/t/casper-ffg-with-one-message-type-and-simpler-fork-choice-rule/103\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 498,
+            "num_retweets": 199,
+            "num_replies": 24
+        },
+        "913075181135962114": {
+            "id": "913075181135962114",
+            "text": "See who\u2019s here! It was greatest meetup ever for us. #Vitalik #Buterin #Hashed #HashedLounge #Karl #Thomas #Ethereum #Casper #OmiseGOpic.twitter.com/xcT8GmsL6S",
+            "username": "coinmanager_io",
+            "num_likes": 51,
+            "num_retweets": 23,
+            "num_replies": 6
+        },
+        "900571397583450112": {
+            "id": "900571397583450112",
+            "text": "choose highest slope of learning over highest point of pay\noptimizing for $$ too early is like monetizing a network before it's readyhttps://twitter.com/zaoyang/status/900553458180395009\u00a0\u2026",
+            "username": "jon_choi_",
+            "num_likes": 168,
+            "num_retweets": 73,
+            "num_replies": 6
+        },
+        "912266772233048069": {
+            "id": "912266772233048069",
+            "text": "Seoul Ethereum meetup @VitalikButerin @karl_dot_tech @omise_go live: https://youtu.be/Bo_M_1ntNu0\u00a0 #Ethereum #Casper #Plasma #OmiseGO",
+            "username": "omise_go",
+            "num_likes": 202,
+            "num_retweets": 91,
+            "num_replies": 9
+        },
+        "909860677694644224": {
+            "id": "909860677694644224",
+            "text": "The Ethereum mafia at @TechCrunch #DisruptSF2017.   herdingpic.twitter.com/hhHE3bNy5R \u2013 at Pier 48",
+            "username": "FutureJurvetson",
+            "num_likes": 363,
+            "num_retweets": 58,
+            "num_replies": 11
+        },
+        "897336838406328321": {
+            "id": "897336838406328321",
+            "text": "ETH transactions in the last 24 hours at an all time high (410,061):https://leeroy.io/ethgasstation/post/0x8249de11b06aea07fc70a0b6f02a1d51c3a056994aba34d79073913b6a5881c1\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 1245,
+            "num_retweets": 580,
+            "num_replies": 47
+        },
+        "897089480128999424": {
+            "id": "897089480128999424",
+            "text": "OmiseGO proud to support original Ethereum builders @VitalikButerin @gavofyork going fwd into future. We stand together! News coming soon :)pic.twitter.com/hGMh1MeR5j",
+            "username": "omise_go",
+            "num_likes": 1033,
+            "num_retweets": 382,
+            "num_replies": 70
+        },
+        "881664501761720321": {
+            "id": "881664501761720321",
+            "text": "Moose.",
+            "username": "VitalikButerin",
+            "num_likes": 204,
+            "num_retweets": 52,
+            "num_replies": 74
+        },
+        "892295184049991680": {
+            "id": "892295184049991680",
+            "text": "Ethereum formal verification paper, hot off the press!  https://www.ideals.illinois.edu/handle/2142/97207\u00a0\u2026. More to follow!!",
+            "username": "phildaian",
+            "num_likes": 354,
+            "num_retweets": 149,
+            "num_replies": 10
+        },
+        "890398113105678336": {
+            "id": "890398113105678336",
+            "text": "I just published \u201cChain Relays or a Practical Approach for Cross-chain Trades\u201dhttps://medium.com/p/chain-relays-or-a-practical-approach-for-cross-chain-trades-d0d7003f266b\u00a0\u2026",
+            "username": "loi_luu",
+            "num_likes": 103,
+            "num_retweets": 83,
+            "num_replies": 4
+        },
+        "890325339934777345": {
+            "id": "890325339934777345",
+            "text": "Love our @coalaglobal crew...just another day in blockchain paradise :) @VladZamfir @karl_dot_tech @naterushyrushpic.twitter.com/RTorPKVHXo",
+            "username": "sevenadvisory",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "889232477503533057": {
+            "id": "889232477503533057",
+            "text": "I commissioned some fun blockchain-themed comics!pic.twitter.com/WLwOJxPvSK",
+            "username": "VladZamfir",
+            "num_likes": 429,
+            "num_retweets": 121,
+            "num_replies": 12
+        },
+        "889133182049759232": {
+            "id": "889133182049759232",
+            "text": "@ElaineRShi @mingchan88 @VitalikButerin @socrates1024 @VladZamfir @hudsonjameson @phildaian @karl_dot_tech - thank u vm for an awesome time!https://twitter.com/HACERA_INC/status/889130498873847808\u00a0\u2026",
+            "username": "HACERA_INC",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "888787101898203136": {
+            "id": "888787101898203136",
+            "text": "This week at the #IC3 bootcamp, I implemented my first blockchain!!pic.twitter.com/hOsTwjumTM",
+            "username": "VladZamfir",
+            "num_likes": 121,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "880937317103435776": {
+            "id": "880937317103435776",
+            "text": "\u201cCasper & Smart Contract Consensus\u201d by @karl_dot_techhttps://media.consensys.net/casper-smart-contract-consensus-7be6cfa6f7ec\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 564,
+            "num_retweets": 266,
+            "num_replies": 22
+        },
+        "878805229038260224": {
+            "id": "878805229038260224",
+            "text": "Latest new and improved pyethereum released!\n\nhttps://www.reddit.com/r/ethereum/comments/6j83ox/latest_new_and_improved_pyethereum_module/\u00a0\u2026\nhttp://github.com/ethereum/pyethereum\u00a0\u2026https://pypi.python.org/pypi?:action=display&name=ethereum&version=2.0.4\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 510,
+            "num_retweets": 197,
+            "num_replies": 28
+        },
+        "877837756742778880": {
+            "id": "877837756742778880",
+            "text": "Yes, this is now happening.https://www.reddit.com/r/ethtrader/comments/6ip2vg/trustless_snt_selling_contract/\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 355,
+            "num_retweets": 119,
+            "num_replies": 28
+        },
+        "874238666175946752": {
+            "id": "874238666175946752",
+            "text": "Sharding research, now in mind map formathttps://www.mindomo.com/mindmap/sharding-d7cf8b6dee714d01a77388cb5d9d2a01\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 320,
+            "num_retweets": 118,
+            "num_replies": 54
+        },
+        "869551937561255936": {
+            "id": "869551937561255936",
+            "text": "\"OmiseGO: Unbank the Banked with Ethereum (OMG!)\", business and token launch details now live https://cdn.omise.co/omg/crowdsaledoc.pdf\u00a0\u2026",
+            "username": "omise_go",
+            "num_likes": 46,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "869439959312322560": {
+            "id": "869439959312322560",
+            "text": "I give my interpretation of blockchain governance in this thread! You may even be able to see how I see my role in it, if you read bw lines!https://twitter.com/cmdoerfler/status/869423760633249792\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 25,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "867991093136179201": {
+            "id": "867991093136179201",
+            "text": "I'm going to list some interesting \"softer\" topics in Blockchain research",
+            "username": "VladZamfir",
+            "num_likes": 74,
+            "num_retweets": 19,
+            "num_replies": 8
+        },
+        "867711780771872769": {
+            "id": "867711780771872769",
+            "text": "Ethereum research themed desktop background, courtesy of @karl_dot_techpic.twitter.com/lz95QTuz1A",
+            "username": "VitalikButerin",
+            "num_likes": 219,
+            "num_retweets": 35,
+            "num_replies": 5
+        },
+        "865570171758542848": {
+            "id": "865570171758542848",
+            "text": "DRAFT RELEASE: \"OmiseGO Decentralized Exchange and Payments Platform\", #whitepaper by @jcp Joseph Poon https://cdn.omise.co/omg/whitepaper.pdf\u00a0\u2026 #ethereum",
+            "username": "omise_go",
+            "num_likes": 76,
+            "num_retweets": 50,
+            "num_replies": 3
+        },
+        "843552270784614402": {
+            "id": "843552270784614402",
+            "text": "This. This is exactly what I'm afraid of.pic.twitter.com/z2OfP9MT3m",
+            "username": "VladZamfir",
+            "num_likes": 82,
+            "num_retweets": 26,
+            "num_replies": 11
+        },
+        "818523425425817600": {
+            "id": "818523425425817600",
+            "text": "#Ethereum is the most used #blockchain technology for enterprise development, so we\u2019re taking it to the next levelhttps://media.consensys.net/the-birth-of-enterprise-ethereum-in-2017-ebe7f7abed92#.scrde6v7w\u00a0\u2026",
+            "username": "ConsenSys",
+            "num_likes": 67,
+            "num_retweets": 46,
+            "num_replies": 1
+        },
+        "799905829705105409": {
+            "id": "799905829705105409",
+            "text": "With the #blockchain, we are all Alice and @karl_dot_tech shows us the rabbit hole...https://medium.com/@ConsenSys/a-lifestyle-revolution-enabling-professional-self-determination-abf4741a3680\u00a0\u2026",
+            "username": "SoCrypTech",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "798234924268589056": {
+            "id": "798234924268589056",
+            "text": "Does #blockchain really have anything to do with #music?https://medium.com/p/what-does-the-b-word-mean-for-music-9ca48533eb1b\u00a0\u2026",
+            "username": "UjoMusic",
+            "num_likes": 26,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "776910665034366976": {
+            "id": "776910665034366976",
+            "text": ".@UjoMusic is set to make waves in the music industry with #blockchain and #ethereumhttp://www.forbes.com/sites/jonathanchester/2016/09/16/how-blockchain-startups-are-disrupting-the-15-billion-music-industry/#60254ee7652c\u00a0\u2026",
+            "username": "ConsenSys",
+            "num_likes": 45,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "773639237258375169": {
+            "id": "773639237258375169",
+            "text": "Just tested @zsfelfoldi light client. Mainnet synced in 3m30s from scratch, used 30mb. Didn't need to change a single line of code in Mist.",
+            "username": "avsa",
+            "num_likes": 110,
+            "num_retweets": 65,
+            "num_replies": 15
+        },
+        "772001216805101568": {
+            "id": "772001216805101568",
+            "text": "\"Spend your Sunday converting hex to ascii by hand\"  http://bit.ly/2ccpAyi\u00a0 awesome #Solidity @metamask_io tutorial from @karl_dot_tech",
+            "username": "wuehler",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "770669610958028800": {
+            "id": "770669610958028800",
+            "text": "http://fintechist.com/ujo-music-still-plans-revamp-music-industry-blockchain-tech/\u00a0\u2026",
+            "username": "juanfranblanco",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "770392963046334465": {
+            "id": "770392963046334465",
+            "text": "We've been quiet, that's going to changehttps://medium.com/@UjoMusic/welcome-back-1addcc06bcc6#.7bzwbw22a\u00a0\u2026",
+            "username": "UjoMusic",
+            "num_likes": 39,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "770041514407890945": {
+            "id": "770041514407890945",
+            "text": "Ethereum @a16z podcast with @VitalikButerin and @cdxion:http://a16z.com/2016/08/28/ethereum/\u00a0\u2026",
+            "username": "FEhrsam",
+            "num_likes": 194,
+            "num_retweets": 113,
+            "num_replies": 7
+        },
+        "765644666716889088": {
+            "id": "765644666716889088",
+            "text": "Awesome! New tutorial for learning Ethereum\u2019s Solidity with MetaMask by @karl_dot_techhttps://karl.tech/learning-solidity-part-1-deploy-a-contract/\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "760185856057638913": {
+            "id": "760185856057638913",
+            "text": "Casper PoC3 backbone simulations: 3s block time, 1.25s avg latency + 2s avg clock offset: 1% stale ratepic.twitter.com/hMF2m30aG7",
+            "username": "VitalikButerin",
+            "num_likes": 327,
+            "num_retweets": 181,
+            "num_replies": 24
+        },
+        "757949528607715329": {
+            "id": "757949528607715329",
+            "text": "We need to utilize technolgies that are right there in front of us @karl_dot_tech @dmwevents @concurrentmedia #RightsTech",
+            "username": "Chasedreams17",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "755465112560013313": {
+            "id": "755465112560013313",
+            "text": "Writing a lotto smart contract as a group w/ @karl_dot_tech at the helm and budding #solidity devs @ethereumprojectpic.twitter.com/46NkYSmppe",
+            "username": "CoinspaceIO",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "753589972150517761": {
+            "id": "753589972150517761",
+            "text": "Presenting the MetaMask developer beta! https://www.youtube.com/watch?v=6Gf_kRE4MJU\u00a0\u2026 #Ethereumpic.twitter.com/dx74TlpbpK",
+            "username": "metamask_io",
+            "num_likes": 425,
+            "num_retweets": 207,
+            "num_replies": 122
+        },
+        "745382534687625216": {
+            "id": "745382534687625216",
+            "text": "#Ethereum workshop last night with @karl_dot_tech where we recreate #thedaohack #theDAO #solidity @ethereumprojectpic.twitter.com/g0MgQXEDQ7",
+            "username": "CoinspaceIO",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "745231124583026688": {
+            "id": "745231124583026688",
+            "text": "If the ETH community bails out the DAO (and I believe they should), we need to put in place a social wall around Slockit to avoid a repeat.",
+            "username": "el33th4xor",
+            "num_likes": 79,
+            "num_retweets": 25,
+            "num_replies": 34
+        },
+        "744048499868733440": {
+            "id": "744048499868733440",
+            "text": "Analysis of the DAO Exploit by Phil Daian, hacker extraordinaire & 1st year PhD student at Cornell. http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/\u00a0\u2026 #ethereum",
+            "username": "el33th4xor",
+            "num_likes": 134,
+            "num_retweets": 117,
+            "num_replies": 2
+        },
+        "742726639835058176": {
+            "id": "742726639835058176",
+            "text": "To all the cryptopunks who dipped their toes into #Ethereum #blockchain coding w/@karl_dot_tech @ethereumprojectpic.twitter.com/VNwn2OV4zi",
+            "username": "CoinspaceIO",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "735141057634144256": {
+            "id": "735141057634144256",
+            "text": "The Ether Review #28 - DApps, DAOs, and Bitsquare\n@bitsquare_ @ArthurFalls @karl_dot_tech\nhttps://goo.gl/2q1B8P\u00a0",
+            "username": "etherreview",
+            "num_likes": 7,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "734025211369164804": {
+            "id": "734025211369164804",
+            "text": "New show! #204 \u2013 IPFS (InterPlanetary File System) with Juan Benet (@juanbenet)http://chlg.co/1RffmaO\u00a0",
+            "username": "changelog",
+            "num_likes": 25,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "733728371037835265": {
+            "id": "733728371037835265",
+            "text": ". @ethereumJoseph bestowing #blockchain knowledge at the @UN with #ID2020pic.twitter.com/rw5ykPsyRy \u2013 at United Nations",
+            "username": "ConsenSys",
+            "num_likes": 60,
+            "num_retweets": 39,
+            "num_replies": 2
+        },
+        "732607627738423296": {
+            "id": "732607627738423296",
+            "text": "[podcast] Decentralization: Ethereum, Bitcoin, and IPFS with @karl_dot_tech http://softwareengineeringdaily.com/2016/05/16/decentralization-ethereum-bitcoin-ipfs-karl-floersh/\u00a0\u2026 #bitcoinpic.twitter.com/YzxzgSR8KT",
+            "username": "software_daily",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "729839665050701824": {
+            "id": "729839665050701824",
+            "text": "NEW! This is how the @ShapeShift_io hack went downhttps://youtu.be/G8QNpyqHr04\u00a0",
+            "username": "epicenterbtc",
+            "num_likes": 9,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "715198045869182977": {
+            "id": "715198045869182977",
+            "text": "Join @jutta_steiner and @gavofyork on \"Ethereum Enthusiasts: Web 3.0 by Example\" at Rise New York on April 6:http://goo.gl/vW7Cba\u00a0",
+            "username": "ParityTech",
+            "num_likes": 8,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "712728877320118272": {
+            "id": "712728877320118272",
+            "text": "@karl_dot_tech Great article & #Ethereum example. \u201cA Lifestyle Revolution: Enabling Professional Self-Determination\u201dhttps://medium.com/@ConsenSys/a-lifestyle-revolution-enabling-professional-self-determination-abf4741a3680#.nazu5pzfa\u00a0\u2026",
+            "username": "matthunter",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "709836660360413184": {
+            "id": "709836660360413184",
+            "text": "We're very excited to be part of the #SXSW music hackathon! If you're in Austin stop by!pic.twitter.com/F7Pdfmmb0U",
+            "username": "UjoMusic",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "707773013597376513": {
+            "id": "707773013597376513",
+            "text": "frameworks can have some drawbacks when compared",
+            "username": "horse_js",
+            "num_likes": 44,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "706934785193746432": {
+            "id": "706934785193746432",
+            "text": "How much validity could a validity check check if a validity check could check validity? @VladZamfir",
+            "username": "VitalikButerin",
+            "num_likes": 109,
+            "num_retweets": 28,
+            "num_replies": 11
+        },
+        "704307742454870016": {
+            "id": "704307742454870016",
+            "text": "https://blog.ethereum.org/2016/02/29/homestead-release/\u00a0\u2026 #ethereum #homestead",
+            "username": "VitalikButerin",
+            "num_likes": 64,
+            "num_retweets": 56,
+            "num_replies": 2
+        },
+        "699600555656622080": {
+            "id": "699600555656622080",
+            "text": "What I want out of decentralized uber: location-aware search eng for drivers with built-in rep system and payment processor. Keep it simple.",
+            "username": "VitalikButerin",
+            "num_likes": 62,
+            "num_retweets": 35,
+            "num_replies": 13
+        },
+        "690972737163137024": {
+            "id": "690972737163137024",
+            "text": "ethereum now has a larger market cap than litecoin.  Next ripple?pic.twitter.com/2dwTFhE23C",
+            "username": "awrigh01",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "689526658714378240": {
+            "id": "689526658714378240",
+            "text": "@karl_dot_tech @software_daily Make that 3 weeks.",
+            "username": "_ericelliott",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "684343142234087424": {
+            "id": "684343142234087424",
+            "text": "Ethereum nodes continue to grow; 646 and counting! Can you see yours? http://ethernodes.org/\u00a0 #blockchainpic.twitter.com/boG4XFccyP",
+            "username": "GeorgeAHallam",
+            "num_likes": 14,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "682637100475285506": {
+            "id": "682637100475285506",
+            "text": "What you can expect to hear about in the new year: #Holonic #government and our networked future #blockchain #ipfshttp://cointelegraph.com/news/115923/a-new-working-constitution-emerges-to-codify-a-liquid-holacracy-governance-model?utm_term=bitcoin+blockchain&utm_medium=twitter\u00a0\u2026",
+            "username": "jdietz",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "681555431647539200": {
+            "id": "681555431647539200",
+            "text": "NEW! Andrew Miller (@socrates1024) joins us to discuss the #Ethereum gas model, PoW and the plans to switch to PoShttps://youtu.be/91UekwMAXJs\u00a0",
+            "username": "epicenterbtc",
+            "num_likes": 16,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "679809954644021248": {
+            "id": "679809954644021248",
+            "text": "I know I don't tweet much anymore, but I'm really excited about this\u2026 Neon: Rust + Node = http://calculist.org/blog/2015/12/23/neon-node-rust/\u00a0\u2026",
+            "username": "littlecalculist",
+            "num_likes": 253,
+            "num_retweets": 171,
+            "num_replies": 8
+        },
+        "676656740860100608": {
+            "id": "676656740860100608",
+            "text": "https://medium.com/@mengwong/other-blockchain-based-social-graphs-5bfc97e31424#.j9wr4puh9\u00a0\u2026 \"Databases deal in fact; networks deal in opinion. Blockchains synthesize the two.\"",
+            "username": "VitalikButerin",
+            "num_likes": 45,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "676125777763672066": {
+            "id": "676125777763672066",
+            "text": "WebTorrent Brings BitTorrent to the Web, Impresses Netflix https://torrentfreak.com/webtorrent-brings-bittorrent-to-the-web-impresses-netflix-151213/\u00a0\u2026 check@ https://webtorrent.io\u00a0 via @feross #opensource",
+            "username": "macbroadcast",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "670703917731188736": {
+            "id": "670703917731188736",
+            "text": "Humans share 50% DNA with bananas. Dat boilerplate code.",
+            "username": "tyler_treat",
+            "num_likes": 102,
+            "num_retweets": 71,
+            "num_replies": 5
+        },
+        "673150767159631872": {
+            "id": "673150767159631872",
+            "text": "Happy to finally say that Chakra is going to be open source soon! Can't wait to work on GitHub :)",
+            "username": "bterlson",
+            "num_likes": 47,
+            "num_retweets": 35,
+            "num_replies": 5
+        },
+        "672479056957313027": {
+            "id": "672479056957313027",
+            "text": "Let's Encrypt is in Public Beta!",
+            "username": "letsencrypt",
+            "num_likes": 1096,
+            "num_retweets": 1849,
+            "num_replies": 24
+        },
+        "670412302135500803": {
+            "id": "670412302135500803",
+            "text": "I\u2019ve built my own crypto, Take 2pic.twitter.com/qM632Q5Bz9",
+            "username": "old_sound",
+            "num_likes": 858,
+            "num_retweets": 1221,
+            "num_replies": 6
+        },
+        "671075982384766976": {
+            "id": "671075982384766976",
+            "text": "#ethereum ticking off #altcoins one by one. #technology #blockchain #bitcoin #internetpic.twitter.com/snxIlmA2vf",
+            "username": "ianjmeikle",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "669997220113072128": {
+            "id": "669997220113072128",
+            "text": "Thanks to @janl, @steveklabnik, @aphyr for constantly reminding me software is about people.",
+            "username": "dan_abramov",
+            "num_likes": 27,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "667934879959527424": {
+            "id": "667934879959527424",
+            "text": "Open source is awesome: People join your company and you've already worked together. People leave, and you don't have to stop!",
+            "username": "jordwalke",
+            "num_likes": 52,
+            "num_retweets": 36,
+            "num_replies": 1
+        },
+        "667511229204811777": {
+            "id": "667511229204811777",
+            "text": "I wish there was a way to visualize the mental process of programmer reading the code. Beginners don't see what advanced users see.",
+            "username": "dan_abramov",
+            "num_likes": 86,
+            "num_retweets": 19,
+            "num_replies": 7
+        },
+        "665582215661821954": {
+            "id": "665582215661821954",
+            "text": "GitHub Corners http://buff.ly/1NMX2sH\u00a0 Updating those \"Fork me on GitHub\" links",
+            "username": "paulbunkham",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "664850671489781760": {
+            "id": "664850671489781760",
+            "text": "Let's Encrypt certificates have ninety-day lifetimes: http://bit.ly/1MYhxE7\u00a0 - so happy to see this! automation ftw.",
+            "username": "igrigorik",
+            "num_likes": 41,
+            "num_retweets": 38,
+            "num_replies": 2
+        },
+        "664614207845863425": {
+            "id": "664614207845863425",
+            "text": "7 tips for faster HTTP/2 performance: http://bit.ly/1QwnFmA\u00a0 - good tips, courtesy of @nginx crew.",
+            "username": "igrigorik",
+            "num_likes": 171,
+            "num_retweets": 102,
+            "num_replies": 4
+        },
+        "663386545815089152": {
+            "id": "663386545815089152",
+            "text": "Give a man some JavaScript, and he will cut and paste for a day.\n\nTeach him some JavaScript, and he will debate frameworks for a lifetime.",
+            "username": "raganwald",
+            "num_likes": 743,
+            "num_retweets": 889,
+            "num_replies": 13
+        },
+        "661573981196165121": {
+            "id": "661573981196165121",
+            "text": "Service workers offline support is fully enabled in FF 44 dev edition. Please test and report any issues. Thanks!https://www.mozilla.org/en-US/firefox/44.0a2/auroranotes/\u00a0\u2026",
+            "username": "wanderview",
+            "num_likes": 58,
+            "num_retweets": 74,
+            "num_replies": 3
+        },
+        "622768591402766336": {
+            "id": "622768591402766336",
+            "text": "Career advice I shared w multiple people this week: \n\nTo grow, get to a place where you have a pit in your stomach and a race in your heart.",
+            "username": "billwscott",
+            "num_likes": 169,
+            "num_retweets": 101,
+            "num_replies": 1
+        },
+        "659864947841716224": {
+            "id": "659864947841716224",
+            "text": "Modular @angularjs and @ionicframework architecture - a first step towards Angular 2 #webdev http://zndg.tl/1R0f4pY\u00a0",
+            "username": "zendigital",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "659093592082767872": {
+            "id": "659093592082767872",
+            "text": "@karl_dot_tech It's not  just a blog. It's a social network that's very effective at getting the message out. & I don't have to maintain it.",
+            "username": "_ericelliott",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "658983543410991104": {
+            "id": "658983543410991104",
+            "text": "If property based testing can bring confidence about 500 connected computers in a Volvo ... it will probably work for your UI",
+            "username": "swannodette",
+            "num_likes": 114,
+            "num_retweets": 91,
+            "num_replies": 6
+        },
+        "658604766847717376": {
+            "id": "658604766847717376",
+            "text": "@dan_abramov if still not in Relay and GraphQL: I recommend you spend 2h on https://learngraphql.com/\u00a0 after that 2h onhttps://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6\u00a0\u2026",
+            "username": "nodkz",
+            "num_likes": 120,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "615924334675296256": {
+            "id": "615924334675296256",
+            "text": "CSS snapping is pretty cool!pic.twitter.com/RERwdn09vb",
+            "username": "supersole",
+            "num_likes": 2171,
+            "num_retweets": 1428,
+            "num_replies": 34
+        },
+        "657537888729616384": {
+            "id": "657537888729616384",
+            "text": "Om Next has been ridiculously fun. It's like putting everything I learned from Abelson, Sussman, Friedman & Norvig into a practical library",
+            "username": "swannodette",
+            "num_likes": 144,
+            "num_retweets": 39,
+            "num_replies": 6
+        },
+        "658068061468172288": {
+            "id": "658068061468172288",
+            "text": "Influences on ES6 - another great post by @rauschma\nhttp://www.2ality.com/2015/10/es6-influences.html\u00a0\u2026\n#JavaScript",
+            "username": "_ericelliott",
+            "num_likes": 23,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "657641268919541764": {
+            "id": "657641268919541764",
+            "text": "React Native 0.13.0 is out: https://github.com/facebook/react-native/releases/tag/v0.13.0\u00a0\u2026. CocoaPods users: read the release notes since you'll have to make a small change.",
+            "username": "JI",
+            "num_likes": 61,
+            "num_retweets": 85,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1095110975592820736": {
+            "id": "1095110975592820736",
+            "text": " I'm hosting an online workshop where we'll each deploy our own plasma chains! Plus go over cryptoeconomic concepts which serve as the basis for this exciting Ethereum scaling solution. Just install Node 11 beforehand  \n\nIt's on Feb 13th @ 3pm EST  (@plasma_group <3)https://twitter.com/Linktimetech/status/1094918203472375808\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 102,
+            "num_retweets": 28,
+            "num_replies": 5
+        },
+        "1057336959087964160": {
+            "id": "1057336959087964160",
+            "text": "Looking forward to seeing everyone at day 1 of Devcon tomorrow! \n",
+            "username": "karl_dot_tech",
+            "num_likes": 22,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1057336957657849856": {
+            "id": "1057336957657849856",
+            "text": "Then in the last video of chapter 2 we solve all of our problems with proof of authority! https://youtu.be/Mj10HSEM5_8\u00a0 \n\nBut for those who aren't satisfied with trusted authorities (how could you??) you have chapter 3 to look forward to--when we dive into PoW and mechanism design ",
+            "username": "karl_dot_tech",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1057336955749482497": {
+            "id": "1057336955749482497",
+            "text": "The final videos of my video-per-day twitter rebirth!\n\nLearn about the 99% fault tolerant consensus protocol Vitalik outlined in his recent post! It's a great example of the magic of synchrony assumptions.\n\nhttps://youtu.be/l0AQ0UJAvM8\u00a0\n\nVitalik's post: https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html\u00a0\u2026 ",
+            "username": "karl_dot_tech",
+            "num_likes": 38,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1056670967953530881": {
+            "id": "1056670967953530881",
+            "text": "Check out @kevinjho_ 's double spend visualization! \nhttps://k-ho.github.io/code/\u00a0 \n\nWatch nodes propagate transactions to one another & even initiate a double spend. Witness why we need consensus protocols!\n\nHe even walks us through the demo here: https://youtu.be/LWKHs7Zfq34\u00a0 ",
+            "username": "karl_dot_tech",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1056670208981643265": {
+            "id": "1056670208981643265",
+            "text": "We have finally reached the bane of consensus: the double spend  --https://youtu.be/k6JVGR7Jx0A\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 23,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1056247363151560704": {
+            "id": "1056247363151560704",
+            "text": "Here's last week's Really Super Awesome Plasma Implementers call! This time Vitalik explains his RSA accumulator construction which solves the transaction history growth problem in Plasma Cash constructions. OoooOOoo fun Plasma times are ahead https://youtu.be/YjTF05SeYxo\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 82,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1055910202787225601": {
+            "id": "1055910202787225601",
+            "text": "Synchronous, partially synchronous, asynchronous networks--oh my! The three main models we use to analyze message passing.\n\nYour favorite protocol probably breaks under asynchrony--the dirty secret your protocol architect doesn't want you to know https://youtu.be/DcCe_dnMNJI\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 47,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1055614690909478912": {
+            "id": "1055614690909478912",
+            "text": "Also! Huge shout out to CE.S community member @kevinjho_ for editing this and other CE.S lectures! Plus he's done some other work which I'll mention soon... :) \n",
+            "username": "karl_dot_tech",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1055537278452424705": {
+            "id": "1055537278452424705",
+            "text": " Today's video: Learn about network models & double spends in the overview video for Chapter 2 in the http://Cryptoeconomics.study\u00a0 lecture series!https://youtu.be/P5_S0_oV1aY\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 58,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1055189292073566208": {
+            "id": "1055189292073566208",
+            "text": "I haven't been tweeting (too distracting!) but in honor of Devcon I'll tweet a video per day for the next 6 days \n\nKicking it off with a great Plasma implementers call where we add fungible assets to Plasma Cash & review the first EVM Plasma spec!https://www.youtube.com/watch?v=0ApUUoWYt8U\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 154,
+            "num_retweets": 27,
+            "num_replies": 6
+        },
+        "1019580527622443009": {
+            "id": "1019580527622443009",
+            "text": "New Plasma implementers call  \n\nWe start with another Plasma Cash implementation getting open sourced, then dive into bleeding edge state channel research. Plasma puzzle pieces are starting to fit together  of a sudden!https://youtu.be/w45PXH0DJa0\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 237,
+            "num_retweets": 50,
+            "num_replies": 9
+        },
+        "1013811000607461378": {
+            "id": "1013811000607461378",
+            "text": "Communicating the design patterns behind this crypto space is critical if we want lasting decentralization adopted on a larger scale. Super excited to contribute to this effort with some of the most lovely people I know! Yay cryptoeconomics! ",
+            "username": "karl_dot_tech",
+            "num_likes": 59,
+            "num_retweets": 8,
+            "num_replies": 6
+        },
+        "1013810998921318402": {
+            "id": "1013810998921318402",
+            "text": " Finally closing it out with a few quick notes on adversarial thinking & centralized systems.https://www.youtube.com/watch?v=ckzi8iqGilE\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 33,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1013810996769689603": {
+            "id": "1013810996769689603",
+            "text": " This was an extra fun one to make--the UTXO model! This video explains what UTXOs are & where they're useful!https://www.youtube.com/watch?v=-xoCoZGJ9AQ\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 20,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1013810995062558724": {
+            "id": "1013810995062558724",
+            "text": " Replay protection is a great example of how signed messages can be used for unintended purposes!https://www.youtube.com/watch?v=j7Mbx8laZwY\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1013810993066135553": {
+            "id": "1013810993066135553",
+            "text": " State and state transitions are critical to understanding blockchains and programming more generally! This video discusses the account model & state vs history through this lens.https://www.youtube.com/watch?v=XIsn8-5Xekc\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1013810991170191360": {
+            "id": "1013810991170191360",
+            "text": " Section 1 of chapter 1 talks about hash functions and signatures. Hint: the preimage is the input of a hash function! Stay tuned for further explainer videos on this topic contributed by our awesome CE.S community!https://www.youtube.com/watch?v=FLIo_ZjV--U\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1013810989576413184": {
+            "id": "1013810989576413184",
+            "text": "\u00a0The first video is an overview of the structure of centralized payment processor using the account model!https://www.youtube.com/watch?v=VaUTTE5xb54\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1013810987340910594": {
+            "id": "1013810987340910594",
+            "text": " http://Cryptoeconomics.study\u00a0 update! \n\nOver the past few weeks I've released 6 lectures which cover foundational concepts that we will build on throughout the course.",
+            "username": "karl_dot_tech",
+            "num_likes": 345,
+            "num_retweets": 94,
+            "num_replies": 10
+        },
+        "1006561392286162944": {
+            "id": "1006561392286162944",
+            "text": "Plasma Call #9: Plasma Debit & Instant Withdrawals!  -- https://youtu.be/sgr8bHRZUEM\u00a0\n\n- @danrobinson explains how to do partial payments in Plasma Cash \n- @kelvinfichter & Vitalik show us how to have instant withdrawals \n- & more! Thank you all for an awesome call ",
+            "username": "karl_dot_tech",
+            "num_likes": 274,
+            "num_retweets": 71,
+            "num_replies": 6
+        },
+        "993653646477987840": {
+            "id": "993653646477987840",
+            "text": "Btw, while I'm tweeting just want to say--It was amazing seeing everyone at Edcon! Thank you for all the amazingly good vibes and your inspiring work! Hugs ",
+            "username": "karl_dot_tech",
+            "num_likes": 50,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "993653645525831682": {
+            "id": "993653645525831682",
+            "text": "New Plasma implementers call! https://www.youtube.com/watch?v=uxKcK-4PgLk\u00a0\u2026\n\nWe have a fun research jam session discussing sparse merkle trees  & bloom  filters!",
+            "username": "karl_dot_tech",
+            "num_likes": 153,
+            "num_retweets": 37,
+            "num_replies": 4
+        },
+        "987779719075639296": {
+            "id": "987779719075639296",
+            "text": "Yay! A new Plasma Implementer's call -- https://www.youtube.com/watch?v=k82L4YohW_E\u00a0\u2026 \n\nDesigning Plasma with tons of transactions, instant finality, coin splits, PoS and censorship resistance... We got so into technicals that an hour & 15 minutes wasn't enough!",
+            "username": "karl_dot_tech",
+            "num_likes": 230,
+            "num_retweets": 50,
+            "num_replies": 11
+        },
+        "984908409504923648": {
+            "id": "984908409504923648",
+            "text": "Visit http://cryptoeconomics.study/\u00a0 to follow all these crypto and blockchain goodies. Learn about PoW, PoS, accumulators (eg. merkle trees), fault proofs, griefing and even build your own blockchain!\n",
+            "username": "karl_dot_tech",
+            "num_likes": 108,
+            "num_retweets": 30,
+            "num_replies": 2
+        },
+        "984908408477372418": {
+            "id": "984908408477372418",
+            "text": "Excited to announce a course, book, and community forum -- Cryptoeconomics: An Introduction! \n\nCheck out the intro trailer: https://www.youtube.com/watch?v=m-0escxJ-j8\u00a0\u2026\n",
+            "username": "karl_dot_tech",
+            "num_likes": 764,
+            "num_retweets": 222,
+            "num_replies": 23
+        },
+        "973946046001876992": {
+            "id": "973946046001876992",
+            "text": "A simple Plasma Cash specification: https://karl.tech/plasma-cash-simple-spec/\u00a0\u2026\n\n...including open research questions for the lovely researchers out there \n",
+            "username": "karl_dot_tech",
+            "num_likes": 319,
+            "num_retweets": 96,
+            "num_replies": 11
+        },
+        "972272136567099392": {
+            "id": "972272136567099392",
+            "text": "Will going into more detail during my talk tomorrow morning. Not sure it'll top this one though! ;)",
+            "username": "karl_dot_tech",
+            "num_likes": 34,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "972271561444126720": {
+            "id": "972271561444126720",
+            "text": "My impromptu Plasma Cash overview. Vitalik's talk was overflowing, so decided to give an alternative for the lovely people in the Plaza - https://youtu.be/suMDB34GXZ4\u00a0\n #EthCC",
+            "username": "karl_dot_tech",
+            "num_likes": 339,
+            "num_retweets": 99,
+            "num_replies": 21
+        },
+        "970851073350033409": {
+            "id": "970851073350033409",
+            "text": "Exciting new Plasma Implementers Call - https://www.youtube.com/watch?v=IFuxe3vL--k\u00a0\u2026\n\nThere are some fun ERC721 cryptokitties scalability designs from Joseph and Vitalik which we discuss that are particularly interesting I think ",
+            "username": "karl_dot_tech",
+            "num_likes": 82,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "970242469303525376": {
+            "id": "970242469303525376",
+            "text": "Reminder: Anyone replying to this tweet offering ETH (or a sweet deal) is a scammer. Keep your wits about you <3",
+            "username": "karl_dot_tech",
+            "num_likes": 43,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "970228624610664448": {
+            "id": "970228624610664448",
+            "text": "Just posted a quick Plasma MVP Overview: https://youtu.be/jTc_2tyT_lY\u00a0\n",
+            "username": "karl_dot_tech",
+            "num_likes": 523,
+            "num_retweets": 179,
+            "num_replies": 24
+        },
+        "965425724441202688": {
+            "id": "965425724441202688",
+            "text": "Was working on an image for burning ETH and got a bit carried away...pic.twitter.com/h9VKQyOQfz",
+            "username": "karl_dot_tech",
+            "num_likes": 341,
+            "num_retweets": 42,
+            "num_replies": 15
+        },
+        "954906503730798592": {
+            "id": "954906503730798592",
+            "text": "pic.twitter.com/qOujEcAomA",
+            "username": "karl_dot_tech",
+            "num_likes": 742,
+            "num_retweets": 38,
+            "num_replies": 25
+        },
+        "947509468685746176": {
+            "id": "947509468685746176",
+            "text": "More instructions including setting up a local testnet:https://github.com/karlfloersch/docker-pyeth-dev\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 73,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "947503029166546946": {
+            "id": "947503029166546946",
+            "text": "Casper testnet stats!\n\nSo much love to all the Casper implementers on the Ethereum research team! \n\n@changwu_tw, @ChihChengLiang, @davidlknott, @jon_choi_, and of course @VitalikButerin pic.twitter.com/LIt60NjLm4",
+            "username": "karl_dot_tech",
+            "num_likes": 347,
+            "num_retweets": 108,
+            "num_replies": 11
+        },
+        "947500270224683008": {
+            "id": "947500270224683008",
+            "text": "Alternate link: https://hackmd.io/s/Hk6UiFU7z\u00a0\n\nHopefully this one is DDOS proof ",
+            "username": "karl_dot_tech",
+            "num_likes": 153,
+            "num_retweets": 48,
+            "num_replies": 3
+        },
+        "947498262780461056": {
+            "id": "947498262780461056",
+            "text": "Alpha Casper Testnet  \nhttp://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view\u00a0\u2026\n\nHappy New Year Everyone!!",
+            "username": "karl_dot_tech",
+            "num_likes": 1405,
+            "num_retweets": 476,
+            "num_replies": 80
+        },
+        "942768764717637633": {
+            "id": "942768764717637633",
+            "text": "\"DPOS is an exercise in corrupt politics\" - @dannyryan [a DPOS expert with first hand experience]https://twitter.com/VitalikButerin/status/942636887801348096\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "940999963529662466": {
+            "id": "940999963529662466",
+            "text": "Ethereum PoS: Casper FFG In Depth - https://www.youtube.com/watch?v=uQ3IqLDf-oo\u00a0\u2026\n\nA followup talk I gave on Casper which covers all the fun new changes like moving to one message type... and more! ",
+            "username": "karl_dot_tech",
+            "num_likes": 411,
+            "num_retweets": 138,
+            "num_replies": 7
+        },
+        "936449655201710080": {
+            "id": "936449655201710080",
+            "text": "Also shout out to all of the wonderful people I got to spend time with at Devcon3! And especially to all the people who helped me put together this talk! I miss you all and look forward to seeing the positive impact we could have if we do this right ",
+            "username": "karl_dot_tech",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "936399786973962240": {
+            "id": "936399786973962240",
+            "text": "Cryptoeconomics & programmable incentives sets the stage for radical societal change. Let's make sure it's for the better! Here's my Devcon3 intro to what I think is the most critical subject in crypto:https://youtu.be/-alrVUv6E24\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 129,
+            "num_retweets": 41,
+            "num_replies": 3
+        },
+        "887356492894138368": {
+            "id": "887356492894138368",
+            "text": "The EOS logo looks like something... #ethereum #eospic.twitter.com/28fme7gCdj",
+            "username": "karl_dot_tech",
+            "num_likes": 358,
+            "num_retweets": 109,
+            "num_replies": 26
+        },
+        "880865707105366016": {
+            "id": "880865707105366016",
+            "text": "A talk I gave on #Ethereum's proof of stake protocol, Casper : https://media.consensys.net/casper-smart-contract-consensus-7be6cfa6f7ec\u00a0\u2026\nPresented @ConsenSysLLC's developer roundtable!",
+            "username": "karl_dot_tech",
+            "num_likes": 114,
+            "num_retweets": 52,
+            "num_replies": 4
+        },
+        "851203756691779588": {
+            "id": "851203756691779588",
+            "text": "Made a new #ethereum wallpaper from a picture I took in Geneva!  \n\nInspiration from http://ethereum.org\u00a0 of coursepic.twitter.com/OhqmRx7IrA",
+            "username": "karl_dot_tech",
+            "num_likes": 80,
+            "num_retweets": 15,
+            "num_replies": 5
+        },
+        "836961202249035776": {
+            "id": "836961202249035776",
+            "text": "Learning #Solidity part 2 is here! Learn about commit-reveal #crypto, #Ethereum, & smart contracts!https://karl.tech/learning-solidity-part-2-voting/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 23,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "806910231359856640": {
+            "id": "806910231359856640",
+            "text": "#Ethereum is the internet's government, & smart contracts are its laws.\nAn introduction to Ethereum:https://medium.com/@karl_dot_tech/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5foywrndz\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 49,
+            "num_retweets": 29,
+            "num_replies": 7
+        },
+        "797167592305737728": {
+            "id": "797167592305737728",
+            "text": "Great tutorials by @cheesematic on creating upgradable tokens with sweet NexusDev tools http://blog.nexusdev.us/dapple-tutorial/\u00a0\u2026 !",
+            "username": "karl_dot_tech",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "751975290730143744": {
+            "id": "751975290730143744",
+            "text": "Awesome episode capturing the breadth of #Ethereum's impact while staying down to earth.https://twitter.com/etherreview/status/751547736583962624\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "724999367967543296": {
+            "id": "724999367967543296",
+            "text": "Solidity's biggest bug: Javascript. I argue reliance on #javascript hurts the #ethereum ecosystemhttps://medium.com/@karl_dot_tech/soliditys-biggest-bug-javascript-be5c4f3520a5\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "715973109011116036": {
+            "id": "715973109011116036",
+            "text": "Great q&a @coinbase with @VitalikButerin https://www.youtube.com/watch?v=I6_68QuECWc\u00a0\u2026\n\nTopics: sharding, security, 'killer dapp', PoS, #ethereum's future",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "714242527436660740": {
+            "id": "714242527436660740",
+            "text": "An overview of 5 Essential #Ethereum dapp tools you'll need to know when building your dapp!https://karl.tech/5-essential-ethereum-dapp-tools/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "708507955088457728": {
+            "id": "708507955088457728",
+            "text": "It's 2016 and one thing still hasn't changed: Linux Sucks!\nhttps://www.youtube.com/watch?v=WipM3SAYqK4\u00a0\u2026\n\nInsightful, hilarious, classic talk.\n#linux",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "706903259798233089": {
+            "id": "706903259798233089",
+            "text": "Coming from #Grunt, the first half of this video gave me the intuition I needed to understand #Webpack:https://www.youtube.com/watch?v=RKqRj3VgR_c\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "705804982247944193": {
+            "id": "705804982247944193",
+            "text": "Awesome episode. @jdalton is clear and knowledgeable. Learned tons about open source collaboration.https://twitter.com/JavaScriptAir/status/705118309008564224\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "705483971661053952": {
+            "id": "705483971661053952",
+            "text": "My 2nd blog post! A Decentralized Application architecture overview:\nhttps://karl.tech/simple-dapp-architecture/\u00a0\u2026\n#ethereum #ipfs #webdev",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "704492017292861442": {
+            "id": "704492017292861442",
+            "text": "This is a great tutorial for getting up to speed with #react and #redux: https://www.youtube.com/watch?v=DfRibIkjhew\u00a0\u2026 --helped me a lot.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "703278441676853251": {
+            "id": "703278441676853251",
+            "text": "#Ethereum in 101 Words: http://karl.tech/ethereum-in-100-words/\u00a0\u2026 \n\n- The first article my new blog! All developers welcome :)",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "702943608152915968": {
+            "id": "702943608152915968",
+            "text": "The second Bitdevs meetup on #ethereum just opened up! RSVP before it fills up! http://www.meetup.com/BitDevsNYC/events/229130058/?rv=ea1&_af=event&_af_eid=229130058&https=off\u00a0\u2026 \u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "702698249086509059": {
+            "id": "702698249086509059",
+            "text": "It's not that experienced devs don't get stuck, they just avoid staying stuck. Learning that helped me immensely.https://twitter.com/dan_abramov/status/702652479532621825\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "700045238967144448": {
+            "id": "700045238967144448",
+            "text": "Looking forward to the #ethereum meetup in NYC tonight! @mandeleil is showing off some shiny new dev tools :)http://www.meetup.com/NYC_Ethereum/events/228734538/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "699293167703736322": {
+            "id": "699293167703736322",
+            "text": "If you forget how to value yourself as a software engineer, give this a listen: http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/\u00a0\u2026 @software_daily\n\ngreat episode",
+            "username": "karl_dot_tech",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "697224281856610305": {
+            "id": "697224281856610305",
+            "text": "If you are ever craving some good #reactjs #redux boilerplate, this repo has got you covered:https://github.com/erikras/react-redux-universal-hot-example\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "694597154527170560": {
+            "id": "694597154527170560",
+            "text": "#microservices work great for enforcing isolation. Here's a good high level talk covering key concepts:https://www.youtube.com/watch?v=yPvef9R3k-M\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "693431032968826881": {
+            "id": "693431032968826881",
+            "text": "The #mist browser for #ethereum is good looking and user friendly. Now we just got to reduce boot up time to below an hour! ;)",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "691698086977126401": {
+            "id": "691698086977126401",
+            "text": "Great to see the vibrant #ethereum community in NYC! It'll be a full house of 125 people at the meetup todayhttp://www.meetup.com/NYC_Ethereum/\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "691619109684035585": {
+            "id": "691619109684035585",
+            "text": "This year I learned #emberjs, #reactjs, #webpack, #jspm, and more. @JSJabber talks about #js tool fatigue:https://devchat.tv/js-jabber/194-jsj-javascript-tools-fatigue\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "691063648505204737": {
+            "id": "691063648505204737",
+            "text": "A company open sourcing software without building community is equivalent to show and tell.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "690973300810518528": {
+            "id": "690973300810518528",
+            "text": "\"Study different approaches to programing like we study different approaches to painting\"-@dhh on @software_dailyhttp://softwareengineeringdaily.com/2016/01/13/the-evolution-of-rails-with-david-heinemeier-hansson/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "690894266500018180": {
+            "id": "690894266500018180",
+            "text": "You have to listen to the classic episode of @seradio on #TechnicalDebt http://www.se-radio.net/2015/04/episode-224-sven-johann-and-eberhard-wolff-on-technical-debt/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "689523799914586112": {
+            "id": "689523799914586112",
+            "text": "\"These technical books are like milk, they expire in like 3 months\"-Future of #js @software_daily with @_ericelliotthttp://softwareengineeringdaily.com/2015/12/22/future-javascript-eric-elliott/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "679104818527535105": {
+            "id": "679104818527535105",
+            "text": "\"Rust is by definition close to the metal\"  - @software_daily dropping punishing puns on http://softwareengineeringdaily.com/2015/12/21/javascript-on-hardware-with-kelsey-breseman\u00a0\u2026 ;) \n\n#rustlang #js",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "678830847152246785": {
+            "id": "678830847152246785",
+            "text": "#ethereum could... But it's up to us developers to make that a reality--so let's get to it!https://twitter.com/DraugUlfr/status/678628806182240256\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "678380061909786624": {
+            "id": "678380061909786624",
+            "text": "\"Find the ecosystem that is young and promising [and contribute]\" -  @dan_abramov. That's the way to really make an impact.",
+            "username": "karl_dot_tech",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "677871886903197696": {
+            "id": "677871886903197696",
+            "text": "What does a #stackoverflow #dev feel like when their servers all go offline? Pressure. http://thisdeveloperslife.com/post/2-0-2-pressure\u00a0\u2026 -great podcast",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "676761253629571072": {
+            "id": "676761253629571072",
+            "text": "When bathroom breaks are the highlight of your day, you know you're working too hard.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "676576644505579521": {
+            "id": "676576644505579521",
+            "text": "Security is the most easily overlooked aspect of app development, and one of the most important, scary combo.https://twitter.com/codek_tv/status/676466918736416768\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "676461002381205504": {
+            "id": "676461002381205504",
+            "text": "Article exploring applications, implications, and objections to blockchain tech. Good stuff!https://twitter.com/DraugUlfr/status/676435004507865088\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "676398769626292225": {
+            "id": "676398769626292225",
+            "text": "What npm did for node, #jspm is doing it for the browser. Great work being done!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "675881536395309056": {
+            "id": "675881536395309056",
+            "text": "\"Java is a blue collar language... the coal face of the coding\"- Sums up my feelings perfectly. Give me #js or #golang!",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "675837369581494273": {
+            "id": "675837369581494273",
+            "text": "#ethereum is \"a truly singleton computer.\"-@gavofyork explains ethereum without saying \"blockchain\"https://www.youtube.com/watch?v=U_LK0t_qaPo\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "675311591320109056": {
+            "id": "675311591320109056",
+            "text": "I've been using this Git rebase workflow for years. You get a flat commit tree with meaningful branches: http://randyfay.com/content/rebase-workflow-git\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "675124372777082880": {
+            "id": "675124372777082880",
+            "text": "\"The network is the computer.\"-John Gage. Enter #ethereum and now you can take that as literally as possible.",
+            "username": "karl_dot_tech",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "675011627868114944": {
+            "id": "675011627868114944",
+            "text": "If this guy actually is the #bitcoin creator, maybe he can help out with the whole block size debate. http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/#slide-2\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "674771277274591232": {
+            "id": "674771277274591232",
+            "text": "Interesting interview providing an intro to #ethereum with @VitalikButerin at #TechCrunchDisrupt:http://techcrunch.com/video/ethereums-vitalik-buterin-breathes-blockchain/519315381/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "674653319856586752": {
+            "id": "674653319856586752",
+            "text": "Talk about starting off with a bang! It's the first episode and I'm already hooked!https://twitter.com/jvandemo/status/674648143426953216\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "674586833246900224": {
+            "id": "674586833246900224",
+            "text": "Composition is almost religious. Circular scaling in the recursive pattern we call life. https://www.youtube.com/watch?v=uzahKc_ukfM\u00a0\u2026 #ethereum #devcon1",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "674393840112025600": {
+            "id": "674393840112025600",
+            "text": "Best way to view @browniefed's exploding Twitter heart at scale:\n\n#rnplayisawesome (https://rnplay.org/apps/nJjHdw\u00a0)pic.twitter.com/8hCiusq9bY",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "674311002503184384": {
+            "id": "674311002503184384",
+            "text": "Replicated databases like #couchdb and #ipfs show how distributed first design is also great offline first design.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "674224474632429569": {
+            "id": "674224474632429569",
+            "text": "Not writing performant code? Start developing on a 2G phone and a cheap laptop, then sit back and watch the magic.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "674121840768524288": {
+            "id": "674121840768524288",
+            "text": "If we were using #ethereum and #ipfs it would be the users who decide when to shut down a service.https://twitter.com/TheNextWeb/status/674019110712434688\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "674031469174591488": {
+            "id": "674031469174591488",
+            "text": "Today I may or may not have binge listened to every episode of @etherreview... keep 'em coming!",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "673948670455382016": {
+            "id": "673948670455382016",
+            "text": "I love immutable infrastructure, treating your machines as \"cattle not pets.\" State complects like no other!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "673862033864048642": {
+            "id": "673862033864048642",
+            "text": "If you can't tell me exactly what the event loop is, you are required to watch this classic explanation: https://www.youtube.com/watch?v=8aGhZQkoFbQ\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "673627348177129472": {
+            "id": "673627348177129472",
+            "text": "Fascinating story about bypassing censorship in Syria in this episode! Information wants to be free.https://twitter.com/changelog/status/673181972202692608\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "673499688100888576": {
+            "id": "673499688100888576",
+            "text": "As web developers we are in the business of bringing people closer together. Give yourself a warm fuzzy pat on the back :)",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "673306640314179584": {
+            "id": "673306640314179584",
+            "text": "A future where companies are lead by math, and run by makers. http://colony.io\u00a0 -helping make it possible @joincolony.",
+            "username": "karl_dot_tech",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "673223832430354433": {
+            "id": "673223832430354433",
+            "text": "No stress: 13 beautiful lines of code. \nHigh stress: 1000 lines of crap.\nMedium stress: #FunctionalProgramming\n#doubleentendre",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "673137312008642561": {
+            "id": "673137312008642561",
+            "text": "The #ethereum hackathon @CampEther is turning out cool projects. My favorite: ethereum keeping you motivated!https://github.com/Souptacular/motivate-dapp\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "672944274690981888": {
+            "id": "672944274690981888",
+            "text": "Check out what you know and what you don't with this Programmer Competency Matrix: http://sijinjoseph.com/programmer-competency-matrix/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672873813865050112": {
+            "id": "672873813865050112",
+            "text": "Having too much fun pressing buttons with #MaterialDesign.  I'm using http://www.material-ui.com/\u00a0 for my next @reactjs app.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672861459538452481": {
+            "id": "672861459538452481",
+            "text": "It shouldn't take a senior engineer to build an async, offline-first, responsive web app. Dev tools need to play catch-up.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672774885714878464": {
+            "id": "672774885714878464",
+            "text": "I've been getting my #functionalprogramming on with http://ramdajs.com/\u00a0 \n\nR.compose(functions, pure, coding)",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672581848845967360": {
+            "id": "672581848845967360",
+            "text": "Great minds think alike, but the greatest minds think differently. Every idea I have has been done before, so I guess my IQ isn't a mystery.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672499050365759488": {
+            "id": "672499050365759488",
+            "text": "Renting access to devices with slock.it sounds cool. @ChrJentzsch explains the new tech: http://www.bitcoin.kn/2015/11/slockit-ceo-chs-a-smart-lock/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672136659320860672": {
+            "id": "672136659320860672",
+            "text": "#css is the hardest easy language.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672050096800952320": {
+            "id": "672050096800952320",
+            "text": "\"The universe is digital in its nature and runs on fundamental laws which can be described as simple programs\"-@stephen_wolfram",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671857110108499968": {
+            "id": "671857110108499968",
+            "text": "Great episode of @websecwarriors. Topics range from Tor to Annonomous. Awesome! https://devchat.tv/web-security-warriors/wsw_008_tunneling\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "671804560667762688": {
+            "id": "671804560667762688",
+            "text": "Nice!  @googlemaps just closed an issue I opened over a year ago. https://code.google.com/p/gmaps-api-issues/issues/detail?id=6534\u00a0\u2026 Thanks!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671710599676604416": {
+            "id": "671710599676604416",
+            "text": "Micropayments are the future, but it'll take years for the tools to mature. Is https://www.changetip.com/\u00a0 enough?",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671687819119730692": {
+            "id": "671687819119730692",
+            "text": "Check how quickly GitHub repos close issues and pull requests!http://issuestats.com/\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671494733013909505": {
+            "id": "671494733013909505",
+            "text": "A great introduction to developing dapps in Ethereum: https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.f75zbfd8j\u00a0\u2026 (there's a lot to learn!)",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "671442188648194048": {
+            "id": "671442188648194048",
+            "text": "1 week, 2 views on Vue! @changelog and @JSJabber cover different sides of Vue.js: https://changelog.com/184/\u00a0https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671348323790495744": {
+            "id": "671348323790495744",
+            "text": "An interesting project for rendering React components to the canvas: https://github.com/Flipboard/react-canvas\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671325382700892160": {
+            "id": "671325382700892160",
+            "text": "If one more #wordpress site uses it's domain name as the admin password I'm going to quit.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671132316522123264": {
+            "id": "671132316522123264",
+            "text": "Don't always trust those all-green GitHub accounts!https://github.com/4148/greenhat\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "671079692166893568": {
+            "id": "671079692166893568",
+            "text": "Frameworks need to be flexible in the right ways. Choosing the points of flexibility is where the difficulty comes in.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "670985859848646656": {
+            "id": "670985859848646656",
+            "text": "Much of the @ethereumproject revolves around one concept: wisdom of the crowd https://en.wikipedia.org/wiki/Wisdom_of_the_crowd\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "670962941378867200": {
+            "id": "670962941378867200",
+            "text": "I love this list of front-end #dev interview questions. It's fun to find out what you don't know: https://github.com/h5bp/Front-end-Developer-Interview-Questions\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "670717332717772800": {
+            "id": "670717332717772800",
+            "text": "After manually linking #js files, using #JSPM is a breath of fresh air. `jspm install react`, use an es6 import, and you're set.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "670600619011547136": {
+            "id": "670600619011547136",
+            "text": "A state-conscious style of coding can work wonders. This tutorial on Redux by @dan_abramov show you why:https://egghead.io/lessons/javascript-redux-the-reducer-function?series=getting-started-with-redux\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "670407519525863425": {
+            "id": "670407519525863425",
+            "text": "JSPM is great for prototyping. Currently throwing a quick web app together using this guy's formula: https://www.youtube.com/watch?v=iukBMY4apvI\u00a0\u2026 #js",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "670354953639231489": {
+            "id": "670354953639231489",
+            "text": "Using #nodejs for political change: http://democracyos.org/\u00a0 -and soon #blockchain too! @DemocracyOS",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "670261095186198528": {
+            "id": "670261095186198528",
+            "text": "As the war for \"best framework\" rages on, I sit on the sideline patching old #wordpress sites with jQuery spaghetti. Save me.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "670238197872488448": {
+            "id": "670238197872488448",
+            "text": "Where is the \".js\" domain?! I want to go to https://react.js!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "670045143936974848": {
+            "id": "670045143936974848",
+            "text": "When appliances become incentivized with currency we will have a true Internet of things. #IoT #blockchain",
+            "username": "karl_dot_tech",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "669875831792148480": {
+            "id": "669875831792148480",
+            "text": "Coding in C is only good for reminding us how lucky we are to not be coding in C anymore.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "669682732927229953": {
+            "id": "669682732927229953",
+            "text": "A coding all-nighter can be extremely productive, but the next day is ruined. Still my Redbull is begging for a sip... #dev",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "669531107302461440": {
+            "id": "669531107302461440",
+            "text": "Understanding decentralized consensus and #blockchain will be as important as understanding network layers and TCP in 15 years.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "669267801224454144": {
+            "id": "669267801224454144",
+            "text": "Great @software_daily episode about Popcorn Time and the politics of decentralization:http://softwareengineeringdaily.com/2015/11/23/popcorn-time-with-niv-sardi/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "669173929957814272": {
+            "id": "669173929957814272",
+            "text": "I want to see something like http://instantclick.io/\u00a0 implemented with service workers! #Javascript #project",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "669151003669872640": {
+            "id": "669151003669872640",
+            "text": "A hilarious introduction to service workers https://youtu.be/4uQMl7mFB6g\u00a0 --it'll \"train\" you to use them well! ;) #js #webdev",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668958042227089408": {
+            "id": "668958042227089408",
+            "text": "We are decentralizing: server-heavy apps \u2192 client-heavy apps, USD \u2192 bitcoin, closed source \u2192 open source. I'm loving it.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668905361634668544": {
+            "id": "668905361634668544",
+            "text": "All I do as a #dev is reinvent the wheel. \"Ah, so you want your wheel to be simple? And secure? And pink? OK, I can do that...\"",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668811499863982082": {
+            "id": "668811499863982082",
+            "text": "#bitcoin micropayments is the dopamine of the internet-of-things collective brain. Each day is one day closer to singularity.",
+            "username": "karl_dot_tech",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668788644346507264": {
+            "id": "668788644346507264",
+            "text": "The lightning network to save #bitcoin scalability! Why and how? Learn from the creators: http://www.bitcoin.kn/2015/11/lightning-network-architects-dryja-poon-discuss-scaling-bitcoin/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668595585579110400": {
+            "id": "668595585579110400",
+            "text": "Every #webdev has a specialization in distributed systems. They just don't know it yet.",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668543002340630538": {
+            "id": "668543002340630538",
+            "text": "Slack has been getting tons of good press, but it's not without it's flaws http://blog.freecodecamp.com/2015/06/so-yeah-we-tried-slack-and-we-deeply-regretted-it.html\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668435328525553664": {
+            "id": "668435328525553664",
+            "text": "Ilya Grigorik dropping HTTP 2 knowledge on @changelog https://changelog.com/161/\u00a0 Best practices becoming antipatterns!",
+            "username": "karl_dot_tech",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "668233237861388290": {
+            "id": "668233237861388290",
+            "text": "There are more people that have cellphones than toilets. This \"dot-com\" isn't  a bubble, it's a snowball.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668180597102280705": {
+            "id": "668180597102280705",
+            "text": "The biggest innovations will come from the intersection of new decentralized platforms and creative developers. #blockchain #dev",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "668086721297457153": {
+            "id": "668086721297457153",
+            "text": "This is a great 6-part series with #bitcoin vet Dr. Back. Here's the first episode: http://www.bitcoin.kn/2015/09/why-dr-adam-back-so-legendary/\u00a0\u2026\n#blockchain",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "668063828274520066": {
+            "id": "668063828274520066",
+            "text": "It's about the journey, not the destination.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "667724393473273856": {
+            "id": "667724393473273856",
+            "text": "Amazing #Javascript history lesson with creator himself https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich\u00a0\u2026 on @JSJabber",
+            "username": "karl_dot_tech",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "667701540145258496": {
+            "id": "667701540145258496",
+            "text": "\"Bitcoin was the most exciting technology I had encountered since the internet\"- @aantonop",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "667455826433568768": {
+            "id": "667455826433568768",
+            "text": "Is it bad that every time someone asks me for career advice I tell them to drop everything and code?",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "667362001128132608": {
+            "id": "667362001128132608",
+            "text": "Every major company should be contributing back to open source if they want prospective developers to take them seriously.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "667339073355423744": {
+            "id": "667339073355423744",
+            "text": "#webdev tools like #reactjs push our UI forward while decentralized tech like @ethereumproject push our ecosystem forward.",
+            "username": "karl_dot_tech",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "667146043314872320": {
+            "id": "667146043314872320",
+            "text": "I just added #vim shortcuts in my terminal. Wow I think I've finally lost it:http://vim.wikia.com/wiki/Use_vi_shortcuts_in_terminal\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "667093441168449537": {
+            "id": "667093441168449537",
+            "text": "#GraphQL looks great, but sometimes you need a good old REST API. Netflix uses https://github.com/restify/node-restify\u00a0\u2026 for their REST API",
+            "username": "karl_dot_tech",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "666999554122862592": {
+            "id": "666999554122862592",
+            "text": "Want to know what event listeners are subscribed to a button? Visual Event will tell you no problem:https://github.com/DataTables/VisualEvent\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666976695065382913": {
+            "id": "666976695065382913",
+            "text": "\"Windows 2008 will be running until the heat death of the universe\"- @bcantrill Too true!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666783685593690112": {
+            "id": "666783685593690112",
+            "text": "Next project: build a #docker image for your #vim install/configuration. Now you get #youcompleteme & more out of the box.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666731063230791680": {
+            "id": "666731063230791680",
+            "text": "\"People underestimate how cleaver we are when faced with existential threat. A bit of existential threat is good for engineering\"-@bcantrill",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666637232485310464": {
+            "id": "666637232485310464",
+            "text": "Want some #bitcoin developer drama?! An intense discussion on block size with @adam3us and @gavinandresen: http://www.bitcoin.kn/2015/09/adam-back-gavin-andresen-block-size-increase/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666463953879461888": {
+            "id": "666463953879461888",
+            "text": "Both articles point you towards being a better JS devhttps://twitter.com/_ericelliott/status/666421865976602624\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666421280804118528": {
+            "id": "666421280804118528",
+            "text": "Kill a hung ssh session with these keys in sequence: [enter]  ~  .\n\nHow did I never know this?! #linux #ssh",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666368651604398080": {
+            "id": "666368651604398080",
+            "text": "Otto for \"otto-matic\" #dev and production environments! https://ottoproject.io/\u00a0 Super cool!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666274781373800448": {
+            "id": "666274781373800448",
+            "text": "\"I started writing all my Web code in a #reactnative way. All inline styles and no #css style sheets.\"- @ccheeverhttps://www.devchat.tv/react-native-radio/02-exponentjs-with-charlie-cheever\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666251897024724992": {
+            "id": "666251897024724992",
+            "text": "var, let, or const? @_ericelliott goes over one of my favorite features of #es6. (spoiler: don't use var) #js",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666058860348723200": {
+            "id": "666058860348723200",
+            "text": "#bitcoin sidechains \u2260 @ethereumproject",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "666006294185312256": {
+            "id": "666006294185312256",
+            "text": "Just in case you still haven't done your #flexbox homework: https://css-tricks.com/snippets/css/a-guide-to-flexbox/\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665912415280869376": {
+            "id": "665912415280869376",
+            "text": "Stop dragging your browser border to check responsiveness! Use Chrome's device emulation: https://developer.chrome.com/devtools/docs/device-mode\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665889515194720256": {
+            "id": "665889515194720256",
+            "text": "Composition over inheritance! You don't want the jungle when you're looking for a banana: https://www.youtube.com/watch?v=wfMtDGfHWpA\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665696480225808384": {
+            "id": "665696480225808384",
+            "text": "A new #reactnative podcast!https://www.devchat.tv/react-native-radio/05-building-apps-using-react-native-with-matt-apperson\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665643914465026048": {
+            "id": "665643914465026048",
+            "text": "The offline story for the web is terrible. Time for offline first http://offlinefirst.org/\u00a0 #webdev",
+            "username": "karl_dot_tech",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665550011833405440": {
+            "id": "665550011833405440",
+            "text": "Want to mess around with GitHub data? Check out GitHubArchive http://bit.ly/1OJ1nhX\u00a0 #ml",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665527189648097281": {
+            "id": "665527189648097281",
+            "text": "To all those in Paris suffering, and to those suffering in the rest of the world.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665334121816723457": {
+            "id": "665334121816723457",
+            "text": "As developers we put up a lot of fake boundaries. iOS vs Android vs Web dev? It's all the same minus a learning curve. #dev",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665281562125213696": {
+            "id": "665281562125213696",
+            "text": "#bootstrap and material design!  I'll have to use this for my next quick web app: http://bit.ly/1OIwwlN\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "665187617563090944": {
+            "id": "665187617563090944",
+            "text": "Too much of #webdev is learning redundant abstractions.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665164754172821504": {
+            "id": "665164754172821504",
+            "text": "\"Be careful of taking the newest wiz-bang tech even if it's better because of the risk it hasn't been well studied\"-http://bit.ly/1iV9WI8\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664971757481259008": {
+            "id": "664971757481259008",
+            "text": "Decentralized DNS registration called Namecoin http://bit.ly/1SMdsl7\u00a0 Super cool! #blockchain",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664919117795893249": {
+            "id": "664919117795893249",
+            "text": "There's technical debt, but how about technical question debt? I've gotten help from IRCs so many times, I've got to give back. #dev",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664825225243176960": {
+            "id": "664825225243176960",
+            "text": "So many blogs are slow and distracting. I just found Ghostium, a #Ghost theme modeled after medium which works greathttp://bit.ly/1lke1aM\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664802371281756160": {
+            "id": "664802371281756160",
+            "text": "I use #vim keybindings on my text editor, browser, and tiled window manager. Who needs a trackpad/mouse?",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664609357443825665": {
+            "id": "664609357443825665",
+            "text": "Why on earth is the directory arg flipped for find and grep?! It confuses me every time, `find /dir foo` vs `grep foo /dir`. Redonk #linux",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664556717292855302": {
+            "id": "664556717292855302",
+            "text": "I'm starting to get why Google is pushing material design. The instant feedback on button clicks feels great on async Web pages.",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664462868180393986": {
+            "id": "664462868180393986",
+            "text": "Not sure if I should use #reactjs with Redux or #elm for my next project. The Elm camp would say \"Redux is just Elm without the compiler\"",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664439937161437185": {
+            "id": "664439937161437185",
+            "text": "Speed on your site matters. At Google an extra 500ms caused 20% fewer searches. http://bit.ly/1PBH6cW\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "664268992635359232": {
+            "id": "664268992635359232",
+            "text": "If you don't know anything about TensorFlow/#ml you might want to take the Stanford course: https://www.coursera.org/learn/machine-learning\u00a0\u2026https://twitter.com/GSJennsen/status/664152092127436800\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664246926351728640": {
+            "id": "664246926351728640",
+            "text": "I love all these people calling functions spells and developers mages!  I always wanted to be Gandalf.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664203289291018240": {
+            "id": "664203289291018240",
+            "text": "I was skeptical, but I'm impressed with how performant the site is. Plus promoting the homescreen feature is smart.https://twitter.com/gcollazo/status/664080595283263488\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664183983496929281": {
+            "id": "664183983496929281",
+            "text": "So interesting! Plus check out that logo. The hover effect has got me mesmerized.https://twitter.com/_ericelliott/status/664174734591041540\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664165351308050432": {
+            "id": "664165351308050432",
+            "text": "I made a SPA with signup, login, and queries hosted for free in 1 day! Crazy! I'm using @emberjs, GithubPages as host and @ParseIt as the DB",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "664077645144047616": {
+            "id": "664077645144047616",
+            "text": "It is so refreshing to be using #nodejs in Ghost instead of PHP in Wordpress.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "663884540482617346": {
+            "id": "663884540482617346",
+            "text": "I'm really loving the Sublime Text-like customization included in @semanticui. Theming is so fun with this #css framework!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "663831956669509632": {
+            "id": "663831956669509632",
+            "text": "I'm using @TryGhost and @semanticui for my new blog!  I'm really liking both technologies.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "663738061642158084": {
+            "id": "663738061642158084",
+            "text": "Otto by the guys who made #vagrant looks cool. It's automatically configured environments for deving and production. http://bit.ly/1ldNvQk\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "663715180967272448": {
+            "id": "663715180967272448",
+            "text": "I've been developing in @docker containers to avoid having to install tons of env junk on my computer.  It's really quite nice.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "663522175723401216": {
+            "id": "663522175723401216",
+            "text": "I keep writing posts on Twitter when instead I should be trying out @meteorjs.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "663469562638278656": {
+            "id": "663469562638278656",
+            "text": "Were the 100s of hours I spent configuring #linux and #vim worth it? Now all I have is a laptop nobody can use.",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "663383108687953920": {
+            "id": "663383108687953920",
+            "text": "Also check out the @JSJabber episode on Tracking.js. Really interesting stuff: https://devchat.tv/js-jabber/136-jsj-trackingjs-with-eduardo-lundgren\u00a0\u2026https://twitter.com/_ericelliott/status/663365475955380224\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "663159761429536768": {
+            "id": "663159761429536768",
+            "text": "You need a healthy lifestyle to write your best code.  I need more caffeine so I can stay up all night writing #jquery spaghetti.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "663137619627347968": {
+            "id": "663137619627347968",
+            "text": "\"Curb your ambition.\nLive happily ever after.\"- https://medium.com/@dhh/reconsider-41adf356857f\u00a0\u2026 \nDHH talks about being realistic with your startup.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662990460168888320": {
+            "id": "662990460168888320",
+            "text": "If you think those #wordpress themes you buy for $50 are well coded, you're in for a surprise. Honestly, I shouldn't have been surprised.",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662797436826578944": {
+            "id": "662797436826578944",
+            "text": "A letter of warning to all budding web developers: C.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662744800706228226": {
+            "id": "662744800706228226",
+            "text": "#css is the hardest easy language.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662650923613843457": {
+            "id": "662650923613843457",
+            "text": "\"Simplicity is prerequisite for reliability.\" -Dijkstra",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662628050828398592": {
+            "id": "662628050828398592",
+            "text": "The world of #blockchain, DHTs, and other distributed technologies are as cryptic as the cryptography behind them.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662480794695426048": {
+            "id": "662480794695426048",
+            "text": "Great article even though I wasn't quoted ;)https://twitter.com/_ericelliott/status/662426680552763392\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662435062231736321": {
+            "id": "662435062231736321",
+            "text": "\"Amazon added 100 milliseconds of load time, and they lost 1% of sales.\" -JSJ.   Wow.  Performance matters.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662382417987158016": {
+            "id": "662382417987158016",
+            "text": "Virtual DOMs are fast. Is that an insult to browsers? Or is it a product of having to be generic and support legacy code? #dom #js",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662288547739803648": {
+            "id": "662288547739803648",
+            "text": "I just worked with the worst #dev. He double spaced all his code, shipped commits with 13 compilation errors, then blamed me for our failure",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662265664107905024": {
+            "id": "662265664107905024",
+            "text": "There are as many bugs in this code as there are stars in the sky.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662072590287155201": {
+            "id": "662072590287155201",
+            "text": "I keep coming back to this talk on Minimal API Surface Area: http://bit.ly/1Onxiob\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "662020008256675840": {
+            "id": "662020008256675840",
+            "text": "Blogging sites need to learn from @Medium and stop using distracting sidebars for their articles. Make the internet a cleaner place!",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661945467798949888": {
+            "id": "661945467798949888",
+            "text": "Check out the @ReactiveConf live stream! https://www.youtube.com/watch?v=9cIEtC-V2XE\u00a0\u2026 I feel like I listen to talks more than I code. Oh well this stuff is cool!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661926150659252224": {
+            "id": "661926150659252224",
+            "text": "How can your average #webdev make an impact on keeping the web open and free? By using @letsencrypt for all your projects! (when it's out)",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661903272354140160": {
+            "id": "661903272354140160",
+            "text": "Spending hours debugging #css oddities on bad #wordpress themes has to be the bane of my existence. I never want to do this again !important",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "661710258633576448": {
+            "id": "661710258633576448",
+            "text": "Not offloading computation and storage to some of our many devices is a missed opportunity. Too much of our device's time is spent idling.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661657706051276800": {
+            "id": "661657706051276800",
+            "text": "Imagine hacking into sites and injecting #js which hosts illegal content using #webrtc. You'd be hosting the latest GOT and not even know!",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661636153595043841": {
+            "id": "661636153595043841",
+            "text": "I listened to this podcast, there were a number of extremely interesting insights.https://twitter.com/Functionalworks/status/661622427890425856\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661563763313786880": {
+            "id": "661563763313786880",
+            "text": "I find it truly amazing how a few people who influenced the architecture of the internet have such a powerful effect on so many of us today.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661540885226758144": {
+            "id": "661540885226758144",
+            "text": "The true beauty of encryption is that money can't buy math.  With the right math, no amount of money can make it easier to solve.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661347813394161666": {
+            "id": "661347813394161666",
+            "text": "Peer-to-peer technologies are underutilized because centralized systems are more easily monetized.",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661309153139400704": {
+            "id": "661309153139400704",
+            "text": "I'd love to read a blog post which goes into detail explaining all the reasons this choice was made.https://twitter.com/indutny/status/661307135838584832\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661295229925007360": {
+            "id": "661295229925007360",
+            "text": "It's a great exercise to explain what you do as a developer to nontechnical people. But man, it can be hard. #dev",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661240057924317185": {
+            "id": "661240057924317185",
+            "text": "Wow @software_daily looks awesome.  Daily podcasts?  Now I'll never be able to keep up!https://twitter.com/software_daily/status/661221228842082304\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661201347220492292": {
+            "id": "661201347220492292",
+            "text": "Before you write \n\n// TODO: redo \n\nagain, listen to @seradio's episode on technical debt. Great stuff http://bit.ly/1k2w2dp\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661178485302550528": {
+            "id": "661178485302550528",
+            "text": "I've been using Bootstrap too long, time to try @semanticui! I love the explicit language and pluggable nature of this framework #css",
+            "username": "karl_dot_tech",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "660985499738365952": {
+            "id": "660985499738365952",
+            "text": "Every major company should be contributing back to open source if they want prospective developers to really take them seriously.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660932833788039169": {
+            "id": "660932833788039169",
+            "text": "It was just Halloween and I didn't see anyone dressing up as iconic coders. We've got to change that! #compsci",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660902166031396866": {
+            "id": "660902166031396866",
+            "text": "Absolutely. We forget that version control should be what keeps track of our changes, not inline comments.https://twitter.com/paulbunkham/status/660380780422647808\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "660860422149423104": {
+            "id": "660860422149423104",
+            "text": "Functional programming is not just for academics! Check out that article and this book: https://github.com/MostlyAdequate/mostly-adequate-guide\u00a0\u2026https://twitter.com/_ericelliott/status/660224882924511232\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "660618300544577536": {
+            "id": "660618300544577536",
+            "text": "I'm building a plugin called cdEngine which loads #wordpress sites into #emberjs templates! Wish me luck",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "660555354804248577": {
+            "id": "660555354804248577",
+            "text": "Such a huge portion of computer science is just searching for the right level of abstraction. #compsci",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660502079086051328": {
+            "id": "660502079086051328",
+            "text": "I'm excited for this one!https://twitter.com/changelog/status/660474048279875586\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660461473563561984": {
+            "id": "660461473563561984",
+            "text": "Wow, I really like the ideas and approach taken for Cycle.js. Just read their main page, cool stuff http://bit.ly/1isEPUm\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660317813723254784": {
+            "id": "660317813723254784",
+            "text": "Traditional synchronous websites feel slow and bulky. Can we stop building them please? #webdev",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660245627432009728": {
+            "id": "660245627432009728",
+            "text": "Social skills are just as important as coding skills when developing. Drop the algorithms book and learn to talk to communicate first. #dev",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660192980687540225": {
+            "id": "660192980687540225",
+            "text": "Tiling window managers are where it's at.  Currently using #i3 on Linux but Amethyst for OSX looks pretty promising http://bit.ly/1KJhioK\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660181152939040768": {
+            "id": "660181152939040768",
+            "text": "Spaces > Tabs!  The flexibility of spaces is really the deal breaker for me.  #codinghttps://twitter.com/lizardbill/status/659905934869864448\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660099083508563968": {
+            "id": "660099083508563968",
+            "text": "http://bit.ly/1MWVvvo\u00a0 Cool article talking about how #flux is quite like an older Windows design. Thinking about the wax and wane of tech",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659916724439945216": {
+            "id": "659916724439945216",
+            "text": "One of the few concepts that have recently leveled up my programming.https://twitter.com/_ericelliott/status/659883082846232576\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659915959390466048": {
+            "id": "659915959390466048",
+            "text": "If only @emllang could save me from my one-off PHP gigs.https://twitter.com/rtfeldman/status/659890730941329408\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659853097125179392": {
+            "id": "659853097125179392",
+            "text": "When will #atom have #vim support good enough for me to make the switch? There is at least hope http://bit.ly/1OXaPOw\u00a0 but I don't know...",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659800410450993152": {
+            "id": "659800410450993152",
+            "text": "So many of the #Wordpress themes are heavy and bloated. Please stop using these ugly loading screens hoping it counts as a page transition.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659759125325340673": {
+            "id": "659759125325340673",
+            "text": "I respect Amazon for their #AWSloft in NYC. I've been there many times. It has a great vibe and devs to talk to. Way better than Starbucks.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659736709446426624": {
+            "id": "659736709446426624",
+            "text": "Composition over inheritance!  This is a fun video which goes over what the difference is and when to use it: http://bit.ly/1MQXIbT\u00a0 #FP",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659490613415583744": {
+            "id": "659490613415583744",
+            "text": "Get your Jekyll blog online in like 5 minutes using this repo: http://bit.ly/1OVc94E\u00a0 --All you do is clone it and view it on GitHub pages.",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659438034363023360": {
+            "id": "659438034363023360",
+            "text": "Cool program which transforms images to look like paintings in different artist's styles: http://bit.ly/1MpGvM9\u00a0pic.twitter.com/17qldFg2OX",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659396755553984513": {
+            "id": "659396755553984513",
+            "text": "I am now buying my shoes based on comfort over esthetics. What have I come to?",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659374393177579520": {
+            "id": "659374393177579520",
+            "text": "If development is an art, the best developers must have incredible experiences which inspire them to make incredible innovations. #dev",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659194878220509184": {
+            "id": "659194878220509184",
+            "text": "Objects in motion tend to stay in motion is incredibly profound. Could strength be defined by being able to change direction?",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "659105821993869312": {
+            "id": "659105821993869312",
+            "text": "\"I think in 3 years Angular will be the new jQuery, and React will be the new Angular.\"-JSJ\n\n^Might be missing Angular 2\n#reactjs #AngularJS",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659034361619202048": {
+            "id": "659034361619202048",
+            "text": "If you're confused (like me) with all the choice with #js module loading, listen to this @angularpodcast http://bit.ly/1LREpPP\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "659011940795183104": {
+            "id": "659011940795183104",
+            "text": "On Chromebook #pixel2 (running Arch) Chrome is *way* faster than Firefox.  Who'da thought? (@MoBen_Z did)",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "658849105062547456": {
+            "id": "658849105062547456",
+            "text": "Accessibility has huge potential for growth in the coming years. Let's get on it!https://twitter.com/LeonieWatson/status/658842595469033472\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "658832509069828096": {
+            "id": "658832509069828096",
+            "text": "#vim controls in GitHub!  I'm diggin' it!  http://bit.ly/1N1zVu3\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "658743431821467649": {
+            "id": "658743431821467649",
+            "text": "#vim keybindings for your browser interactions... I'm addicted.  Firefox: http://bit.ly/1OQ7j8G\u00a0 Chrome: http://bit.ly/1N1zTT0\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "658671968175181824": {
+            "id": "658671968175181824",
+            "text": "Mostly Adequate Guide to Functional Programming in #javascript--going through it now, it's great http://bit.ly/1MdW43s\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "658649532423675904": {
+            "id": "658649532423675904",
+            "text": "Elm is my next language. Time traveling code! Virtual DOM! + more!  Thank you @czaplic",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "658470142133862400": {
+            "id": "658470142133862400",
+            "text": "Currently accumulating technical debt.  How do I file bankruptcy? \n#dev",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "658313817403867136": {
+            "id": "658313817403867136",
+            "text": "Pretty cool. I always have like 3 old phones laying around. If only I could find the time to use them.https://twitter.com/hij1nx/status/658000441150676992\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "657906681712672768": {
+            "id": "657906681712672768",
+            "text": "Always good to brush up on testing skillshttps://twitter.com/_ericelliott/status/657739600891281409\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "657552077451841536": {
+            "id": "657552077451841536",
+            "text": "\"One of the greatest addictions is the addiction to thinking \nIt's actually addictive, can't stop thinking\nThinking's the greater addiction\"",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "657375696986185728": {
+            "id": "657375696986185728",
+            "text": "This Redux how much free time I'll have next week. (ba dum tss......)https://twitter.com/dan_abramov/status/657265005134544897\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "657199558494191616": {
+            "id": "657199558494191616",
+            "text": "Mark my words, I will soon be a top contributor to the awesome project that is WebTorrent https://webtorrent.io/\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "656855582058614784": {
+            "id": "656855582058614784",
+            "text": "I feel like with #javascript I just never got closure(s).",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "656685650595467264": {
+            "id": "656685650595467264",
+            "text": "I will now begin offering up tech thoughts to the no-followers Twitter tiki void.",
+            "username": "karl_dot_tech",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "not_retweeted": {},
+    "num_retweets_by_originator": {
+        "plasma_group": 6,
+        "jinglanW": 8,
+        "danrobinson": 1,
+        "kevinjho_": 1,
+        "haydenzadams": 1,
+        "glenweyl": 1,
+        "mi_ayako": 2,
+        "VitalikButerin": 21,
+        "phildaian": 2,
+        "dannyryan": 1,
+        "aparnalocked": 1,
+        "icebearhww": 2,
+        "technocrypto": 1,
+        "VladZamfir": 6,
+        "eth_taipei": 1,
+        "AaronToponce": 1,
+        "AmberBaldet": 1,
+        "jon_choi_": 2,
+        "coinmanager_io": 1,
+        "omise_go": 4,
+        "FutureJurvetson": 1,
+        "loi_luu": 1,
+        "sevenadvisory": 1,
+        "HACERA_INC": 1,
+        "ConsenSys": 3,
+        "SoCrypTech": 1,
+        "UjoMusic": 3,
+        "avsa": 1,
+        "wuehler": 1,
+        "juanfranblanco": 1,
+        "FEhrsam": 1,
+        "metamask_io": 2,
+        "Chasedreams17": 1,
+        "CoinspaceIO": 3,
+        "el33th4xor": 2,
+        "etherreview": 1,
+        "changelog": 1,
+        "software_daily": 1,
+        "epicenterbtc": 2,
+        "ParityTech": 1,
+        "matthunter": 1,
+        "horse_js": 1,
+        "awrigh01": 1,
+        "_ericelliott": 3,
+        "GeorgeAHallam": 1,
+        "jdietz": 1,
+        "littlecalculist": 1,
+        "macbroadcast": 1,
+        "tyler_treat": 1,
+        "bterlson": 1,
+        "letsencrypt": 1,
+        "old_sound": 1,
+        "ianjmeikle": 1,
+        "dan_abramov": 2,
+        "jordwalke": 1,
+        "paulbunkham": 1,
+        "igrigorik": 2,
+        "raganwald": 1,
+        "wanderview": 1,
+        "billwscott": 1,
+        "zendigital": 1,
+        "swannodette": 2,
+        "nodkz": 1,
+        "supersole": 1,
+        "JI": 1
+    },
+    "users_retweeted": [
+        "VitalikButerin",
+        "jinglanW",
+        "plasma_group",
+        "VladZamfir",
+        "omise_go",
+        "ConsenSys",
+        "UjoMusic",
+        "CoinspaceIO",
+        "_ericelliott",
+        "mi_ayako",
+        "phildaian",
+        "icebearhww",
+        "jon_choi_",
+        "metamask_io",
+        "el33th4xor",
+        "epicenterbtc",
+        "dan_abramov",
+        "igrigorik",
+        "swannodette",
+        "danrobinson",
+        "kevinjho_",
+        "haydenzadams",
+        "glenweyl",
+        "dannyryan",
+        "aparnalocked",
+        "technocrypto",
+        "eth_taipei",
+        "AaronToponce",
+        "AmberBaldet",
+        "coinmanager_io",
+        "FutureJurvetson",
+        "loi_luu",
+        "sevenadvisory",
+        "HACERA_INC",
+        "SoCrypTech",
+        "avsa",
+        "wuehler",
+        "juanfranblanco",
+        "FEhrsam",
+        "Chasedreams17",
+        "etherreview",
+        "changelog",
+        "software_daily",
+        "ParityTech",
+        "matthunter",
+        "horse_js",
+        "awrigh01",
+        "GeorgeAHallam",
+        "jdietz",
+        "littlecalculist",
+        "macbroadcast",
+        "tyler_treat",
+        "bterlson",
+        "letsencrypt",
+        "old_sound",
+        "ianjmeikle",
+        "jordwalke",
+        "paulbunkham",
+        "raganwald",
+        "wanderview",
+        "billwscott",
+        "zendigital",
+        "nodkz",
+        "supersole",
+        "JI"
+    ]
+}

@@ -1,0 +1,2964 @@
+{
+    "is_complete": true,
+    "username": "zeroknowledgefm",
+    "retweeted": {
+        "1122818062061797376": {
+            "id": "1122818062061797376",
+            "text": "Very much looking forward to our interview with @ebfull of @zcashco today for the @zeroknowledgefm - if you have any questions you would like us to ask, please share in the comments! Cc: @fredhrson",
+            "username": "AnnaRRose",
+            "num_likes": 56,
+            "num_retweets": 9,
+            "num_replies": 9
+        },
+        "1119163264582029312": {
+            "id": "1119163264582029312",
+            "text": "Quick note: Today is the last day to get matched contributions in on @gitcoin \u2756\n\nI just donated to the signalling project @Tenegraph https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2\u00a0\u2026\n\nThe @zeroknowledgefm grant is also still up there as well - in case you wanna send some https://gitcoin.co/grants/38/zero-knowledge-podcast\u00a0\u2026",
+            "username": "AnnaRRose",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1113994831708266501": {
+            "id": "1113994831708266501",
+            "text": "Excellent @zeroknowledgefm interview with my colleague @jk_arni on @radicle_xyz and our approach to libre software.https://twitter.com/zeroknowledgefm/status/1113730890155339777\u00a0\u2026",
+            "username": "hxrts",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1113322318485426176": {
+            "id": "1113322318485426176",
+            "text": "We've released the ZEXE codebase on Github!https://github.com/scipr-lab/zexe\u00a0",
+            "username": "1HowardWu",
+            "num_likes": 200,
+            "num_retweets": 68,
+            "num_replies": 6
+        },
+        "1113375572195991553": {
+            "id": "1113375572195991553",
+            "text": "Learnt kframework from @zeroknowledgefm , and then when digging through formal verification found @MarcJBrooker 's 2014 paper introducing AWS's work of fv, and then more with more digging found AWS Automated Reasoning Group and Byron Cook lol http://www0.cs.ucl.ac.uk/staff/b.cook/ARG.html\u00a0\u2026",
+            "username": "nopainkiller",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1110933250770432001": {
+            "id": "1110933250770432001",
+            "text": "Interested in stablecoins? Great discussion on the newest #ZeroKnowledge episode with @runechristensen from @MakerDAO Listen to it here https://buff.ly/2Wyub3d\u00a0pic.twitter.com/x5yFjJ3pMn",
+            "username": "neufundorg",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1112983189696450560": {
+            "id": "1112983189696450560",
+            "text": "Here are a few @zeroknowledgefm episodes that might help ppl better understand EIPs, ERCs & how decision making is working today in Ethereum\n\nEIPs with @hudsonjameson https://www.zeroknowledge.fm/43\u00a0\n\nPath to an ERC Standard\nhttps://www.zeroknowledge.fm/62\u00a0\n\nConvos at EthCC https://www.zeroknowledge.fm/68\u00a0",
+            "username": "AnnaRRose",
+            "num_likes": 23,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1112621168056516608": {
+            "id": "1112621168056516608",
+            "text": "All @zeroknowledgefm summit videos are now liveThanks to our sponsors + everyone who came out. Looking forward to the next one!\n\nhttps://m.youtube.com/playlist?list=PLj80z0cJm8QHvg1ydi6rTEUK1SpxbtKnM\u00a0\u2026 \n\ncc: @trailofbits @ParityTech @NuCypher @poanetwork @1kxnetwork @web3foundation @StarkWareLtd @ZcashFoundation @PvtStorage",
+            "username": "AnnaRRose",
+            "num_likes": 55,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1111724435780890625": {
+            "id": "1111724435780890625",
+            "text": "I will use this video as a getting started turorial for #circom and #snarkjs ... In half an hour we explain how to create complex circuits, compile, generate proofs and verify then on #erhereum chain. @identhree @zeroknowledgefmhttps://www.youtube.com/watch?v=-9TJa1hVsKA\u00a0\u2026",
+            "username": "jbaylina",
+            "num_likes": 91,
+            "num_retweets": 37,
+            "num_replies": 2
+        },
+        "1108863442696310785": {
+            "id": "1108863442696310785",
+            "text": "7/ Helpful Eth2.0 resources:\n- @_prestwich post \nhttps://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd\u00a0\u2026\n- @drakefjustin presentation video\nhttps://www.youtube.com/watch?v=J6xO7DH20Js\u00a0\u2026\n- @gregthegreek Q&A video\nhttps://www.youtube.com/watch?v=iOgMP_lpLlQ\u00a0\u2026\n- @dannyryan podcast episode \nhttps://www.zeroknowledge.fm/66\u00a0\n- @ethhub_io page\nhttps://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/\u00a0\u2026",
+            "username": "ljxie",
+            "num_likes": 58,
+            "num_retweets": 13,
+            "num_replies": 5
+        },
+        "1109043759440908288": {
+            "id": "1109043759440908288",
+            "text": "This just in from our presentation at the ZK-Summit in Berlin #ZK0x03:\n1/ StarkDEX, our settlement engine for non-custodial exchanges (DEXes) is now able to settle over 500 trades/second, costing less than 1,000 gas per trade.pic.twitter.com/EznKoX00DO",
+            "username": "StarkWareLtd",
+            "num_likes": 249,
+            "num_retweets": 84,
+            "num_replies": 7
+        },
+        "1108391186132279296": {
+            "id": "1108391186132279296",
+            "text": "Our very own @Zac_Aztec and @PaulRBerg are excited to be at the ZK Summit hosted by @zeroknowledgefm this Friday, March 22 in Berlin! \n\nReach out and we'd love to connect! ",
+            "username": "aztecprotocol",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1108369435251871744": {
+            "id": "1108369435251871744",
+            "text": "Attending @zeroknowledgefm Summit #ZK0x03? @cwgoes will be at the summit as well! He'll gladly converse about @cosmos, @cosmosIBC, @WyvernProtocol, @tezos or #PoS and consensus research in general:\nhttps://www.zeroknowledge.fm/summit\u00a0",
+            "username": "CryptiumLabs",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108373402245652481": {
+            "id": "1108373402245652481",
+            "text": "Great event happening in Berlin, the current crypto capital of the world. This Friday.https://twitter.com/zeroknowledgefm/status/1108005587864965123\u00a0\u2026",
+            "username": "stellarmagnet",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1107692317513789440": {
+            "id": "1107692317513789440",
+            "text": "Circom and SnarkJS explained in detail by its creator @jbaylina at the #ZK0x03 @zeroknowledgefm \nMeet you there!https://twitter.com/zeroknowledgefm/status/1107690473014153216\u00a0\u2026",
+            "username": "identhree",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1107632310197932033": {
+            "id": "1107632310197932033",
+            "text": "Looking forward to the ZK Summit in Berlin next week. @Shamatar from Matter Labs is going to talk about our implementation of #Sonic SNARKs.https://twitter.com/zeroknowledgefm/status/1105122135176110085\u00a0\u2026",
+            "username": "the_matter_labs",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1105259274639495174": {
+            "id": "1105259274639495174",
+            "text": "This turned into sort of an ask us anything sort of situation. If you want some resources I can recommend https://www.youtube.com/watch?v=B-3eZiZ5HPE\u00a0\u2026 orhttps://www.zeroknowledge.fm/67\u00a0",
+            "username": "MartinLundfall",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1105397905429540864": {
+            "id": "1105397905429540864",
+            "text": "I feel trapped in a dystopian universe. Et tu, Brute?pic.twitter.com/f665G5cZl1",
+            "username": "MaciejHirsz",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1105199725563863040": {
+            "id": "1105199725563863040",
+            "text": "Mainstream podcasts are boring anyway ;P",
+            "username": "fredhrson",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1085124990121504768": {
+            "id": "1085124990121504768",
+            "text": "Open NOW: Application & Call-for-Speakers for the Zero Knowledge Summit #Zk0x03 happening March 22nd! If you are a researcher, dev, builder, project driver working with zk-snarks, starks, and/or work on scaling topics, please do apply! https://goo.gl/forms/82g3fGuHJ4ViRXpq1\u00a0\u2026 @zeroknowledgefmpic.twitter.com/twUwtsEfLq",
+            "username": "AnnaRRose",
+            "num_likes": 41,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1103355490292195328": {
+            "id": "1103355490292195328",
+            "text": "Formal verification is one of my favorite topics because I like correctness. It\u2019s also one of my pet peeves because people think it\u2019s the magic solution to all software problems.https://twitter.com/zeroknowledgefm/status/1103334063895658499\u00a0\u2026",
+            "username": "fredhrson",
+            "num_likes": 28,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1101290889417117696": {
+            "id": "1101290889417117696",
+            "text": "Great podcast episode with @dannyryan @annarrose @fredhrson for getting a better sense of Eth2.0. It was my first time listening to @zeroknowledgefm and I'll definitely be a regular listener nowhttps://www.zeroknowledge.fm/66\u00a0",
+            "username": "ljxie",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1101107917560926208": {
+            "id": "1101107917560926208",
+            "text": "Very happy to take part in this! Our @avihu28 will be presenting some cool STARK stuff there.https://twitter.com/zeroknowledgefm/status/1101106531561627648\u00a0\u2026",
+            "username": "StarkWareLtd",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1100478860557197314": {
+            "id": "1100478860557197314",
+            "text": "Listen to our resident scientist @austingriffith on Zero Knowledge Episode 65!   Alongside Igor Barinov from @poanetwork, discussion circles around xDai, bridges, and the  Burner Wallet.https://www.zeroknowledge.fm/65\u00a0",
+            "username": "gitcoin",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1100868444486942720": {
+            "id": "1100868444486942720",
+            "text": "I was on @zeroknowledgefm to chat about the current progress of Eth2.0. Thanks @AnnaRRose and @fredhrson! I had a blast :)https://www.zeroknowledge.fm/66\u00a0",
+            "username": "dannyryan",
+            "num_likes": 101,
+            "num_retweets": 26,
+            "num_replies": 5
+        },
+        "1098569219136835584": {
+            "id": "1098569219136835584",
+            "text": "Check out the latest episode of @zeroknowledgefm from #ETHDenver  #BeABufficornhttps://twitter.com/zeroknowledgefm/status/1098560612207083520\u00a0\u2026",
+            "username": "EthereumDenver",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1098278036133240834": {
+            "id": "1098278036133240834",
+            "text": " Catch @barinov and I rapping on @zeroknowledgefm with @AnnaRRose and @fredhrson about xDai and the Burner Wallethttps://www.zeroknowledge.fm/65\u00a0",
+            "username": "austingriffith",
+            "num_likes": 35,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1096000352133005312": {
+            "id": "1096000352133005312",
+            "text": "All things Melon on @zeroknowledgefm , fresh out of M-1! Thanks @AnnaRRose for having me, really enjoyed our chat https://twitter.com/AnnaRRose/status/1095995180065398789\u00a0\u2026",
+            "username": "jennaszenk",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093632244416237568": {
+            "id": "1093632244416237568",
+            "text": "Zero Knowledge is a podcast which goes deep into the tech that will power the emerging Web3 and the community that is building it.   Check out the project and fund it here:https://gitcoin.co/grants/38/zero-knowledge-podcast\u00a0\u2026",
+            "username": "gitcoin",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1090651486936330240": {
+            "id": "1090651486936330240",
+            "text": "Today's episode of the Zero Knowledge podcast is sponsored by @LeastAuthority - To learn more about t he Private Periodic Payment Protocol (P4) for subscription payments with your token or blockchain GDPR-compliant project: http://zeroknowledge.fm/62\u00a0",
+            "username": "zcashco",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1091042236710694919": {
+            "id": "1091042236710694919",
+            "text": "@zeroknowledgefm Nice pod cast here: https://www.zeroknowledge.fm/62\u00a0  I'm the \"Nick\" that Matt mentions.",
+            "username": "mudgen",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095110632771280897": {
+            "id": "1095110632771280897",
+            "text": "Listening to @__Tux lay down some knowledge on fully homomorphic encryption on the ZK Podcast @zeroknowledgefm. Really interesting stuff if you're a fan of #Cryptography.\n\nHave a listen:https://www.zeroknowledge.fm/63\u00a0",
+            "username": "TheJoshalosh",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1095995180065398789": {
+            "id": "1095995180065398789",
+            "text": "On @zeroknowledgefm this week, I sit down with @jennaszenk - CTO of @melonport - to talk about the making of the Melon protocol, the evolving smart contracts tech stack, the Melon technical council, and what it means to release a protocol into the wild!https://www.zeroknowledge.fm/64\u00a0",
+            "username": "AnnaRRose",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1093204036847755265": {
+            "id": "1093204036847755265",
+            "text": "One of the top produced podcasts in #Crypto is @zeroknowledgefm \n@AnnaRRose and @fredhrson know how to break down complex topics and themes into digestible information for everyone\n\nThanks for hosting @nucypher in Episode 63 where we talk Umbral and FHEhttps://www.zeroknowledge.fm/63\u00a0",
+            "username": "NuCypher",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1092045270429265920": {
+            "id": "1092045270429265920",
+            "text": "@zeroknowledgefm - love your podcast, which sparked my interest on zero knowledge proofs! The Python code above and @zcashco's tutorials helped a lot for deep diving into the topic. Keep up the good work -  look forward to more knowledge & informed discussions!",
+            "username": "Ray_Hashmoto",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1091365459444658176": {
+            "id": "1091365459444658176",
+            "text": "The projects you contribute towards are all critical for the open source @ethereum ecosystem. \n\n@ConnextNetwork, @zeroknowledgefm, @plasma_group and 18 more great initiatives are in this grantee wave.pic.twitter.com/RQtLuXBdft",
+            "username": "vsinghdothings",
+            "num_likes": 19,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1090662135716298752": {
+            "id": "1090662135716298752",
+            "text": "Listening to a fantastic podcast from the founder of $ZEC @zooko https://www.zeroknowledge.fm/50\u00a0\nTrying to put together a comprehensive list of all the best Zcash \"mentions/featured\" Podcasts.  #protectyourprivacy @zeroknowledgefm  keep up the great work!",
+            "username": "TheTwistedDigit",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088149587519594496": {
+            "id": "1088149587519594496",
+            "text": "Really enjoyed the latest episode of @zeroknowledgefm, talking about statistical modeling of properties in PoW/PoS. This is one of the things I've been waiting for, that we can simulate and improve the trade-offs that inform these crypto-economic models!https://www.zeroknowledge.fm/61\u00a0",
+            "username": "fubuloubu",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1086780813742530560": {
+            "id": "1086780813742530560",
+            "text": "Great episode and intro to #ZeroKnowledge proofs:https://www.zeroknowledge.fm/21\u00a0",
+            "username": "conlan",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1085572454595026945": {
+            "id": "1085572454595026945",
+            "text": "Un buen podcast para aprender m\u00e1s de blockchain que adem\u00e1s explica temas t\u00e9cnicos.https://twitter.com/zeroknowledgefm/status/1085560307710418945\u00a0\u2026",
+            "username": "gerardo_io",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1085543418686771210": {
+            "id": "1085543418686771210",
+            "text": "Not a video but a great podcast episode on @CodaProtocol from @zeroknowledgefmhttps://www.zeroknowledge.fm/54\u00a0",
+            "username": "pedrouid",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1083383092897755136": {
+            "id": "1083383092897755136",
+            "text": "I think I\u2019ve managed to uncover a little bit of new knowledge\u2026 on SNARKs, STARKs, and SNARGs. One of my favorite episodes to date.",
+            "username": "MissingNo_BS",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1083487522834051072": {
+            "id": "1083487522834051072",
+            "text": "@zeroknowledgefm zk conference.\n\n@BinaryDistrict Master workshops.\n\n@ScalingBitcoin\n@CBRStanford SBC (old BPASE)",
+            "username": "gakonst",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1083087407807905793": {
+            "id": "1083087407807905793",
+            "text": "Thanks, @AnnaRRose, @fredhrson, for a thoughtful and intelligent interview!https://twitter.com/zeroknowledgefm/status/1083085546212204550\u00a0\u2026",
+            "username": "EliBenSasson",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1079519067873132544": {
+            "id": "1079519067873132544",
+            "text": "https://www.zeroknowledge.fm/\u00a0 is a good one for sure - any others in mind @HCharlanes ?",
+            "username": "NathanSexer",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1079388040173359104": {
+            "id": "1079388040173359104",
+            "text": "Merklize this! Merkle Trees & Patricia Tries - excellent podcast via @zeroknowledgefm with @AnnaRRose and @fredhrson:https://www.zeroknowledge.fm/57\u00a0",
+            "username": "posth",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1078366920536190977": {
+            "id": "1078366920536190977",
+            "text": "Merklize this! Merkle Trees & Patricia Tries [Zero Knowlege Podcast Ep 57]\n--In this week's episode, Anna and Fredrik dig into the topic of Merkle trees \nhttps://www.zeroknowledge.fm/57\u00a0\n@zeroknowledgefm @fredhrson @AnnaRRose\n#merkletrees #blockchain #radixtrees #bitcoin #ethereumpic.twitter.com/YMhxhR3BaR",
+            "username": "EthereumNetw",
+            "num_likes": 13,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1062270091088289792": {
+            "id": "1062270091088289792",
+            "text": "Great podcast supporting the Web3 community - want to know what that is? Zero knowledge proofs? Background on #BlockChain? Or more technical topics? Tune in: https://www.zeroknowledge.fm/\u00a0 @zeroknowledgefm @AnnaRRose @fredhrson",
+            "username": "GETJolocom",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1070457459263696896": {
+            "id": "1070457459263696896",
+            "text": "I love this podcast. https://www.zeroknowledge.fm/episodes\u00a0 @fredhrson @AnnaRRose @zeroknowledgefm deep-diving into topics like scaling, governance, UX, privacy, etc.",
+            "username": "seven7hwave",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1073247897834217473": {
+            "id": "1073247897834217473",
+            "text": "Get a feel for the vibe at @ethsingapore with our latest @zeroknowledgefm podcast ep https://www.zeroknowledge.fm/55\u00a0 - Its 8 interviews with participants of the hackathon mid-hack (including @evan_van_ness ! ) Enjoy!",
+            "username": "AnnaRRose",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1076590404177416196": {
+            "id": "1076590404177416196",
+            "text": "@zeroknowledgefm for all things web3 / blockchain tech",
+            "username": "adamSoffer",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1076568383263526914": {
+            "id": "1076568383263526914",
+            "text": "I think the guys at @zeroknowledgefm make especially great interviews. \n\n@thebtcpodcast has a new episode every day.\n\n@laurashin's Unconfirmed and Unchained are great. But very USA centric (lots of SEC-talk)\n\n@DistributedDD has a great journalistic approach that really stands out",
+            "username": "FrancescoRenziA",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1076026491719303168": {
+            "id": "1076026491719303168",
+            "text": "Get to know a Core Dev: Martin Holst Swende -- working on the Geth client and head of security for the Ethereum Foundation [Zero Knowlege Podcast Episode 56]\nhttps://www.zeroknowledge.fm/56\u00a0\n@zeroknowledgefm @mhswende @ethereum\n#geth #ethereum #developer #podcastpic.twitter.com/VODRQURXQf",
+            "username": "EthereumNetw",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1075396140017901568": {
+            "id": "1075396140017901568",
+            "text": "Always a pleasure hanging with my girl @AnnaRRose! Here we catch up on @ameensol 's devcon talk, party train with @lrettig and the infamous @ravecon0! I'm kind of starting to miss my conference crew...https://twitter.com/zeroknowledgefm/status/1075378254561902592\u00a0\u2026",
+            "username": "ashleighschap",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1073260085449842689": {
+            "id": "1073260085449842689",
+            "text": "It's always so much fun talking to @AnnaRRose! Thanks for having @elizabethereum and I on @zeroknowledgefm :)https://twitter.com/zeroknowledgefm/status/1073247136005926912\u00a0\u2026",
+            "username": "ChainSafeth",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1065564803987582976": {
+            "id": "1065564803987582976",
+            "text": "/1 @zeroknowledgefm podcast summary on the on-chain vs off-chain governance debate between @gavofyork and @VladZamfir.https://www.zeroknowledge.fm/52\u00a0",
+            "username": "urlichsanais",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1067907495719399424": {
+            "id": "1067907495719399424",
+            "text": "Best and most cogent discussion I've ever heard on blockchain governance. Do yourself a favor and give this a listen\u2014@gavofyork and @VladZamfir battling it out on blockchain governance.https://twitter.com/zeroknowledgefm/status/1065281910211981318\u00a0\u2026",
+            "username": "hosseeb",
+            "num_likes": 32,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1067784971471904768": {
+            "id": "1067784971471904768",
+            "text": "Oh, lookie, a @zeroknowledgefm podcast with me (courtesy of @fredhrson)! :D (super secret meeting during DevCon!)https://www.zeroknowledge.fm/53\u00a0",
+            "username": "peter_szilagyi",
+            "num_likes": 46,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1067713965042663425": {
+            "id": "1067713965042663425",
+            "text": "Read @CleanApp's review of the @zeroknowledgefm on-chain vs off-chain governance podcast! Skim if it's too long!https://twitter.com/CleanApp/status/1067691659926929408\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 37,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1067711997087600640": {
+            "id": "1067711997087600640",
+            "text": "Gav & Vlad should watch https://www.youtube.com/watch?v=-1BSSU6UzTk\u00a0\u2026 by @shurder about forking economics. Gav seems too dismissive of forks as a means to improve total welfare. Stephanie extrapolates cool results from a model where v(i,j,x) = value to user i of using chain j with % of community x.",
+            "username": "elliot_olds",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1067694722016268288": {
+            "id": "1067694722016268288",
+            "text": "I\u2019ve just discovered the @zeroknowledgefm podcast. Highly recommended. Their last episode is about governance with two of the main voices in ethereum community.",
+            "username": "juanfornell",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1066847177417416705": {
+            "id": "1066847177417416705",
+            "text": "@ZcashFoundation Zcon0: https://www.youtube.com/playlist?list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS\u00a0\u2026\n@zeroknowledgefm ZK0x02: https://www.youtube.com/playlist?list=PLj80z0cJm8QEC-DUp0bvpy3p82kqfnvc-\u00a0\u2026\n@grinMW GrinCon: https://www.youtube.com/playlist?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq\u00a0\u2026\n@internetarchive #DWebSummit: https://www.youtube.com/channel/UCFa_X02QhJnP0FNpFAKyRRg/videos\u00a0\u2026\n@web3foundation #web3 Summit:https://www.youtube.com/playlist?list=PLxVihxZC42nHlc7J-UqeS-asagbehBeh3\u00a0\u2026",
+            "username": "decentralistdan",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1065639633424388096": {
+            "id": "1065639633424388096",
+            "text": "Grab your popcorn, this @zeroknowledgefm episode is better than Game of Thrones.https://www.zeroknowledge.fm/52\u00a0",
+            "username": "a13xndra",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1051790017792753664": {
+            "id": "1051790017792753664",
+            "text": "Gavin Wood talks Sharding history, Polkadot and Substrate on Zero Knowledge podcast #Ethereumhttps://ift.tt/2NFEq0x\u00a0",
+            "username": "r_Ethereum",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1060881227694129152": {
+            "id": "1060881227694129152",
+            "text": "@AnnaRRose and @fredhrson cover everything @zooko , everything @zcashco , and they summarize the \u201cSapling\u201d network upgrade. Stick around until the end for an in depth description of how Zcash achieves privacy.https://itunes.apple.com/us/podcast/episode-50-zooko-talks-zcash-on-our-50th-episode/id1326503043?i=1000423392919&mt=2\u00a0\u2026",
+            "username": "awayslice",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1060824903077765120": {
+            "id": "1060824903077765120",
+            "text": "What a great podcast from @zooko about Zcash, UTXO models, ZEXE, and having multiple client implementations.https://twitter.com/zeroknowledgefm/status/1060645377991475205\u00a0\u2026",
+            "username": "ph_lux",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1060875254669574144": {
+            "id": "1060875254669574144",
+            "text": "The team at @zeroknowledgefm are democratizing zkSNARKs and enabling developers to contribute to an area of cryptography that has huge potentials to fundamentally change how we transact, communicate, and compute. Check out their podcast if you haven't already!https://twitter.com/zeroknowledgefm/status/1060821785799745536\u00a0\u2026",
+            "username": "1HowardWu",
+            "num_likes": 24,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1060831413015142400": {
+            "id": "1060831413015142400",
+            "text": "50th episode of Zero Knowledge Podcast with Zooko! #Ethereumhttps://ift.tt/2SZ8VCs\u00a0",
+            "username": "r_Ethereum",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1060189917391794182": {
+            "id": "1060189917391794182",
+            "text": "Want to get to know the UTXO data model and how to transform it into the Zcash model or what's in Sapling? @zooko explains it step by step as well as dives into a fascinating history and future. An amazing episode for sure! Also, 50th episode  @AnnaRRosehttps://www.zeroknowledge.fm/50\u00a0",
+            "username": "fredhrson",
+            "num_likes": 25,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1060195129653370881": {
+            "id": "1060195129653370881",
+            "text": ".@zooko chats with @zeroknowledgefm on giving end users more bargaining power with the new @paritytech and @ZcashFoundation #Zcash clienthttps://www.zeroknowledge.fm/50\u00a0",
+            "username": "ParityTech",
+            "num_likes": 46,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1060178095993487363": {
+            "id": "1060178095993487363",
+            "text": "So excited to share this extra special episode of @zeroknowledgefm!! Celebrating our 50th episode, we invite our pal @zooko to share some #zeroknowledge/@zcashco history, the inner workings of the sapling upgrade and what is coming next! cc @fredhrsonhttps://www.zeroknowledge.fm/50\u00a0",
+            "username": "AnnaRRose",
+            "num_likes": 65,
+            "num_retweets": 12,
+            "num_replies": 4
+        },
+        "1055956933671305216": {
+            "id": "1055956933671305216",
+            "text": "\"Where do u put your crypto?\" - @zeroknowledgefm raps with @tayvano_ of @MyCrypto. about anything and everything required to get people to take care of their crypto.  Please listen to this, and share it with people new to crypto.https://itunes.apple.com/us/podcast/episode-48-talking-ux-with-taylor-monahan-of-mycrypto/id1326503043?i=1000422512801&mt=2\u00a0\u2026",
+            "username": "awayslice",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1055431662451019778": {
+            "id": "1055431662451019778",
+            "text": "Earlier this month @henripihkala was interviewed by @AnnaRRose and @FredHrson for the  amazing @zeroknowledgefm. In fact it was so good (and so detailed) we transcribed it for your reading pleasure.https://medium.com/streamrblog/decentralized-p2p-messaging-for-realtime-data-podcast-transcript-da638cf695e5\u00a0\u2026",
+            "username": "streamr",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1055149590188621825": {
+            "id": "1055149590188621825",
+            "text": "Our CEO @tayvano_ is the guest on the latest episode of the @zeroknowledgefm podcast!\n\nThey discuss the challenges of growing MyCrypto, from the horror stories of support tickets to the nuances of building UX for a new industry.\n\nLISTEN NOW: https://www.zeroknowledge.fm/48\u00a0pic.twitter.com/XIPrwC5Yvn",
+            "username": "MyCrypto",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1053278972677644288": {
+            "id": "1053278972677644288",
+            "text": "Going to Devcon? Hang out at the Parity + @polkadotnetwork meetup the evening of Day 0. Speakers include @jutta_steiner, @FabianGompf, @bjornwgnr, and @amaurymartiny. Hosted by @AnnaRRose of @zeroknowledgefm. +https://www.meetup.com/parity/events/255665736/\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 86,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1051701497585520640": {
+            "id": "1051701497585520640",
+            "text": "Have been really enjoying, and learning from, the @HashingItOutPod Hashing it out and @zeroknowledgefm Zero Knoweldge podcasts\n\nhttp://thebitcoinpodcast.com/category/hashitout/\u00a0\u2026\nhttps://www.zeroknowledge.fm/\u00a0\n#podcasts #Blockchain #blockchaintechnology",
+            "username": "richard_parris",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1047000613421297665": {
+            "id": "1047000613421297665",
+            "text": "At #zk0x02 we presented on our work to accept Zcash shielded transactions with S4, called P4: Private Periodic Payment Protocol: https://twitter.com/zeroknowledgefm/status/1041991128688586752\u00a0\u2026 because we think #privacymatters",
+            "username": "LeastAuthority",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1046462599595003905": {
+            "id": "1046462599595003905",
+            "text": "How does an Ethereum transaction go from your computer into a block? @tomusdrw, who wrote the transaction queue implementation in Parity Ethereum, discusses with @zeroknowledgefm.https://www.zeroknowledge.fm/44\u00a0",
+            "username": "ParityTech",
+            "num_likes": 31,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1044175675341574144": {
+            "id": "1044175675341574144",
+            "text": "An older ep of the podcast, but nice to see that ppl are still listening to the Intro to Zero Knowledge Proofs episode! http://www.zeroknowledge.fm/21\u00a0 #zeroknowledge cc @fredhrson",
+            "username": "AnnaRRose",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1039932567548387328": {
+            "id": "1039932567548387328",
+            "text": "Check out the latest episode of @zeroknowledgefm to hear @andrew_cravenho, the project manager of #BlockScout, and @Mitch_Kosowski talk about @ethprize and open source blockchain explorers\n\nhttps://www.zeroknowledge.fm/42\u00a0https://twitter.com/zeroknowledgefm/status/1039885485286543360\u00a0\u2026",
+            "username": "poanetwork",
+            "num_likes": 32,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1042506779966496770": {
+            "id": "1042506779966496770",
+            "text": "Got to chat about #scuttlebutt and \"soft governance\" last week, shining a light on what bottom-up organizing strategies already exist for decentralized projects. thx @zeroknowledgefm for having me :))https://twitter.com/zeroknowledgefm/status/1042093547917332480\u00a0\u2026",
+            "username": "kohwi",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1041655140363776000": {
+            "id": "1041655140363776000",
+            "text": "Just published the recap of the Zero Knowledge Summit - #ZK0x02 - had an absolute blast hanging out with the folks that came. We also have most of our videos out! https://medium.com/zeroknowledge/zero-knowledge-summit-zk0x02-a1d09f7570d4\u00a0\u2026 cc @zeroknowledgefm @fredhrson @LorenzoPilia #zeroknowledge #techtalks",
+            "username": "AnnaRRose",
+            "num_likes": 41,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1041385937605996544": {
+            "id": "1041385937605996544",
+            "text": "Do you know where #Waldo is? @benediktbuenz talks about #Bulletproofs and Verifiable Delay Functions with @zeroknowledgefmhttps://www.zeroknowledge.fm/40\u00a0",
+            "username": "Truebitprotocol",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1039904337680625666": {
+            "id": "1039904337680625666",
+            "text": "Our colleague @Jacob_Eberhardt speaking about Zokrates: https://www.zeroknowledge.fm/41\u00a0 #blockchain #privacy #ethereum Thumbs up!",
+            "username": "sallapf",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1038062977730015232": {
+            "id": "1038062977730015232",
+            "text": "Being the visual learner/designer I am, I drew some simple images while listening to @prylabs @zeroknowledgefm to understand sharding problems. Now comparing the images at their @ETHBerlin presentation. Close?pic.twitter.com/OIIdFidfju",
+            "username": "itsamyjung",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1037327348352331776": {
+            "id": "1037327348352331776",
+            "text": "When Team #BEAM and its Core Developer Vladislav Gelfer are speaking at the prestigious Zero Knowledge Summit in #Berlin #BerlinBlockchainWeek http://www.zeroknowledge.fm/summit/\u00a0pic.twitter.com/s635FVddbi",
+            "username": "beamprivacy",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1037328598816837632": {
+            "id": "1037328598816837632",
+            "text": ".@barinov is live! Giving a presentation on privacy perserving sidechains at Zero Knowledge Summit in Berlin!pic.twitter.com/lmQgZ4634O",
+            "username": "poanetwork",
+            "num_likes": 53,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "1037333997456695302": {
+            "id": "1037333997456695302",
+            "text": "Just in time for ZKSummit, we go live with our #Zokrates episode - http://www.zeroknowledge.fm/41\u00a0 @jacob_eberhardt  discusses this language & toolbox for zkSNARKS on Ethereum as part of our #zeroknowledge series ",
+            "username": "AnnaRRose",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1037317631697534979": {
+            "id": "1037317631697534979",
+            "text": "My takeaways from Zero Knowledge Conf #ZK0x02 :\n\n1. Mainstream use of ZKP by devs still 3-5 yrs away\n2. Issues are i) Size of proofs ii) memory constraints iii) time to compute\n3. ZKP can solve key issues w/ GDPR\n4. Need lots of education & dev tools\n\nBig props to @AnnaRRose !!pic.twitter.com/eFEz6K8OyI",
+            "username": "paulkhls",
+            "num_likes": 49,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "1037321629842456578": {
+            "id": "1037321629842456578",
+            "text": "Explaining how to implement #IBC (Inter-Blockchain Communication) to enable interoperability and scalability. IBC can be used with @cosmos @ethereum @polkadotnetwork . Only requirement is finality or finality gadget. @cwgoes #zk0x02pic.twitter.com/5xCN9FuCXc",
+            "username": "adrian_brink",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1037313437439852544": {
+            "id": "1037313437439852544",
+            "text": "Oops ... had some technical trouble and had to change the url for this video. Here's the new one:https://www.youtube.com/watch?v=rWIu4M4dIEI\u00a0\u2026",
+            "username": "AdjyLeak",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1037302052001665026": {
+            "id": "1037302052001665026",
+            "text": "The Zero Knowledge Summit #zk0x02 #livestream continues here (after lunch): https://www.youtube.com/watch?v=ZxTtsh77g7U\u00a0\u2026\n@zcashco @ZcashFoundation @zeroknowledgefm",
+            "username": "AdjyLeak",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1037312104838127617": {
+            "id": "1037312104838127617",
+            "text": "Watching @liz315 tell us about the P4 project from @LeastAuthority at the @zeroknowledgefm Summit #zk0x02 #privacybydesignpic.twitter.com/QpboLW7PsP",
+            "username": "AnnaRRose",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1036631000418328576": {
+            "id": "1036631000418328576",
+            "text": "Say hi to the @centrifuge team members if you are at #zk0x02 this week during @BerBlockWeek - @lucasvo and @cassidydaly will moderate discussions. I'll be there too :)",
+            "username": "pstehlik",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1036608095663927296": {
+            "id": "1036608095663927296",
+            "text": " If you are in Berlin this week, be sure to check out @AnnaRRose's @zeroknowledgefm's event#berlinblockchainweekhttps://twitter.com/AnnaRRose/status/1036581762086981632\u00a0\u2026",
+            "username": "AmandineFlachs",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1036581762086981632": {
+            "id": "1036581762086981632",
+            "text": "Oh ya! Zero Knowledge Summit is landing Wednesday! #zk0x02pic.twitter.com/Vv0PFgdPEO",
+            "username": "AnnaRRose",
+            "num_likes": 75,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1036557778725138433": {
+            "id": "1036557778725138433",
+            "text": "@AnnaRRose and @fredhrson bringing privacy to mainstream! One of the only conferences that everyone should be attending these days.https://twitter.com/zeroknowledgefm/status/1036556163595296774\u00a0\u2026",
+            "username": "DekryptCapital",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1036037252328169477": {
+            "id": "1036037252328169477",
+            "text": "Listen to @buchmanster's interview about the Bitcoin, Ethereum, and Cosmos (Gaia) Testnets on @zeroknowledgefm, Ep. 35: http://bit.ly/2Pt9rpF\u00a0pic.twitter.com/NWtLzyButF",
+            "username": "cosmos",
+            "num_likes": 43,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1032598108784525312": {
+            "id": "1032598108784525312",
+            "text": "@zeroknowledgefm hosted @matthewdif in this deep conversation on #blockchainsecurity \n\n\"[...] to become good at security, keep dwelling into blackboxes that people accept as blackboxes, be it a blockchain, smart contracts or whatever needs to be analysed\"\n\nhttps://twitter.com/zeroknowledgefm\u00a0",
+            "username": "zklabs",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1034907302472699909": {
+            "id": "1034907302472699909",
+            "text": "This week's @zeroknowledgefm has the awesome @benediktbuenz on talking about Bulletproofs and Verifiable Delay Functions http://www.zeroknowledge.fm/40\u00a0 - we recorded this on the hottest day of the year in Berlin and the episode turned out baked to perfection :) cc @fredhrson",
+            "username": "AnnaRRose",
+            "num_likes": 24,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1034524458709598209": {
+            "id": "1034524458709598209",
+            "text": "We've got so much more zero knowledge goodness coming!",
+            "username": "fredhrson",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1032601559513944064": {
+            "id": "1032601559513944064",
+            "text": "@zeroknowledgefm is a great site for #techie's to deep dive into the current R&D taking place in the world of #blockchain technology. Already 39 episodes since the first one that was aired back in October 2017. Awesome work by @fredhrson & @AnnaRRose http://www.zeroknowledge.fm/\u00a0",
+            "username": "work_blockchain",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1032647924235128832": {
+            "id": "1032647924235128832",
+            "text": "\u2066@1HowardWu\u2069 of \u2066@CalBlockchain\u2069 and Berkeley in an excellent podcast summarizing zk-SNARK and STARKs, current areas of research, and distributed #zeroknowledgeproof systems!  http://www.zeroknowledge.fm/38?mc_cid=c666016c7c&mc_eid=08b6e021d8\u00a0\u2026",
+            "username": "AshleyLannquist",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1024624584308473857": {
+            "id": "1024624584308473857",
+            "text": "Open NOW: Application & Call-for-Speakers for the Zero Knowledge Summit - Zk0x02! If you are a researcher, dev, builder, project driver working with zkproofs, zk-snarks, starks, and/or work on privacy topics, please do apply! https://goo.gl/forms/jxgu3YJ9TTwmEFyr1\u00a0\u2026 @zeroknowledgefm",
+            "username": "AnnaRRose",
+            "num_likes": 76,
+            "num_retweets": 39,
+            "num_replies": 4
+        },
+        "1032374068723441664": {
+            "id": "1032374068723441664",
+            "text": "Off-chain vs. on-chain computations. @zeroknowledgefm talks to @ericxtang about the scenarios where each one should take place.\nLearn about how @LivepeerOrg fits into the ecosystem using Truebit.http://www.zeroknowledge.fm/36\u00a0",
+            "username": "Truebitprotocol",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1031521772535996417": {
+            "id": "1031521772535996417",
+            "text": "Interesting sharding update from @prylabs members @raulitojordan and @preston_vanloon on @zeroknowledgefm! Recommend you give a listen to hear a nice status update on a great team working on an implementation of the sharding spec http://www.zeroknowledge.fm/37\u00a0",
+            "username": "Mitch_Kosowski",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1030373254412881921": {
+            "id": "1030373254412881921",
+            "text": "We're one of the proud sponsors of #ZeroKnowledge #summit about \u201czk-snark\u201d #applications & #blockchain #privacy hosted by  @zeroknowledgefm\n@BerBlockWeek\nhttps://www.businesswire.com/news/home/20180815005297/en/Berlin-Blockchain-Week-Exposes-Vibrant-Tech-Community\u00a0\u2026\nvia @BusinessWire\n#podcast #Berlin #tech #community #TechnologyNews #Zksnark #innovation #article",
+            "username": "LeastAuthority",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1030139194621022208": {
+            "id": "1030139194621022208",
+            "text": "Great episode of @zeroknowledgefm with @1HowardWu on zkSNARKs, DIZK and many other interesting topics!http://www.zeroknowledge.fm/38\u00a0",
+            "username": "kobigurk",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1029813530126700544": {
+            "id": "1029813530126700544",
+            "text": "Super awesome podcast episode about practical limitations and current state of zero-knowledge proofs with @1HowardWu on @zeroknowledgefmhttp://www.zeroknowledge.fm/38\u00a0",
+            "username": "juliankoh",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1027590168503640064": {
+            "id": "1027590168503640064",
+            "text": "Sharding Update by Preston Van Loon From @prylabshttp://www.zeroknowledge.fm/37\u00a0",
+            "username": "layr2_",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1026519520842788864": {
+            "id": "1026519520842788864",
+            "text": "My @zeroknowledgefm co-host @fredhrson has stepped into the role of CTO at @ParityTech - Very well deserved and very cool!https://twitter.com/jutta_steiner/status/1026515681649549313\u00a0\u2026",
+            "username": "AnnaRRose",
+            "num_likes": 31,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1025272429017530368": {
+            "id": "1025272429017530368",
+            "text": "It's the epically helpful and hype-free blockchain podcast @zeroknowledgefm... as a conference! And right before @ETHBerlin! http://www.zeroknowledge.fm/summit\u00a0\n@BerBlockWeek is looking ",
+            "username": "a13xndra",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1022491763708231681": {
+            "id": "1022491763708231681",
+            "text": "Another amazing podcast by @buchmanster. We are currently deploying testnets for the @cosmos Hub. Join the latest one!  https://forum.cosmos.network/t/launch-gaia-7002/599\u00a0\u2026https://twitter.com/zeroknowledgefm/status/1022379956465270784\u00a0\u2026",
+            "username": "gautier_md",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1013991149239877634": {
+            "id": "1013991149239877634",
+            "text": "These ideas are very complex and radical, hard to compress into a tweet. We should really study these texts to try to appreciate their meaning of \"market\". Have you seen: http://www.zeroknowledge.fm/30\u00a0 ?",
+            "username": "JustinYarrow",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1017758832305541120": {
+            "id": "1017758832305541120",
+            "text": "The wrap-up of the best #blockchain/#crypto event of the summer (so far!) - #Zcon0 : https://z.cash.foundation//blog/zcon0-recap/\u00a0\u2026 This is THE resource for all the videos, docs, articles (and our @zeroknowledgefm episode) about the event! @ZcashFoundation @zcashco #zcash #zksnarks #Governance",
+            "username": "AnnaRRose",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1016194710833000448": {
+            "id": "1016194710833000448",
+            "text": "This collection of interviews with people in the hallways at Zcon0 is great!http://www.zeroknowledge.fm/32\u00a0",
+            "username": "zooko",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1015645394196451333": {
+            "id": "1015645394196451333",
+            "text": "The Challenge of UX in Ethereum - @AnnaRRose https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d\u00a0\u2026pic.twitter.com/9i6k6q2ZDZ",
+            "username": "Sciblockchain",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1014667968360243200": {
+            "id": "1014667968360243200",
+            "text": "Thanks to @AnnaRRose from @zeroknowledgefm for covering Zcon0! #privacy Listen to her podcast here:https://fireside.fm/s/3yp1oIzN+-JSOsKNn\u00a0\u2026",
+            "username": "DekryptCapital",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1008451474236452864": {
+            "id": "1008451474236452864",
+            "text": "Happy DAO hack anniversary! In honor of the day, we recommend you go listen to the wonderful @thegrifft on the most recent episode of @zeroknowledgefm. http://www.zeroknowledge.fm/29\u00a0",
+            "username": "MyCrypto",
+            "num_likes": 32,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "1011630283869827072": {
+            "id": "1011630283869827072",
+            "text": "I'm listening to the @zeroknowledgefm, with @demibrener and @facuspagnuolo talking about @zeppelin_oshttp://www.zeroknowledge.fm/27\u00a0",
+            "username": "yoelopio",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1011907448058339328": {
+            "id": "1011907448058339328",
+            "text": "Development and mass adoption of blockchain-based applications is a design problem. Here's a great overview of the UX design challenges within the Ethereum space by @AnnaRRose\nhttps://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d\u00a0\u2026\n#designblockchain",
+            "username": "koholaa",
+            "num_likes": 19,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1011579176397213697": {
+            "id": "1011579176397213697",
+            "text": "\"And so the door is open for UX designers and thinkers to weigh in on ways the users of decentralised technologies can be better onboarded.\" UX pain points on blockchain, great post by @zeroknowledgefm on the @ethereumecf blog!https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d\u00a0\u2026",
+            "username": "golemproject",
+            "num_likes": 104,
+            "num_retweets": 38,
+            "num_replies": 2
+        },
+        "1011571925536202752": {
+            "id": "1011571925536202752",
+            "text": "A lot of interesting UX stuff is getting traction -- the web 3.0 design community is starting to take form and I'm seeing lots of collaboration.  Perfect time for designers to join the space.  Also - @zeroknowledgefm is continuously putting out good content.https://twitter.com/zeroknowledgefm/status/1011568812385341440\u00a0\u2026",
+            "username": "robbiebent1",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1011295665706725376": {
+            "id": "1011295665706725376",
+            "text": "Check this ace podcast out! Excited our friends from @joincolony are joining the #ETHBerlin family after their own hackathon!https://twitter.com/zeroknowledgefm/status/1011213306978357248\u00a0\u2026",
+            "username": "ETHBerlin",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1008862416816541697": {
+            "id": "1008862416816541697",
+            "text": "Griff describes a lot of previously unknown stories about the white hat group in this great interviewhttp://www.zeroknowledge.fm/29\u00a0",
+            "username": "avsa",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1010542034749411329": {
+            "id": "1010542034749411329",
+            "text": "Hey, it's the weekend, perfect time for a nice block(chain)buster. #Blockchain4Good #FutureOfGivinghttps://twitter.com/itsamyjung/status/1010138088440508416\u00a0\u2026",
+            "username": "Givethio",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1010138088440508416": {
+            "id": "1010138088440508416",
+            "text": "I promise you this is like a Hollywood movie. THIS is my fav thing about the ETH community. People come together to do good & solve hard problems because well, they want to.\n\n@zeroknowledgefm Ep. 29: The DAO, white hat hacker group & Giveth w/ @thegrifft https://buff.ly/2ln2bPo\u00a0pic.twitter.com/qUvqvm4NvA",
+            "username": "itsamyjung",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1009460182043242496": {
+            "id": "1009460182043242496",
+            "text": "Wow! Just finished the simply amazing @zeroknowledgefm podcast with @thegrifft at http://www.zeroknowledge.fm/29\u00a0 Griff goes over the DAO story from the inside all the way to current work with @Givethio... story is like something out of a movie, super recommended you give it a listen!",
+            "username": "Mitch_Kosowski",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1009345709496291328": {
+            "id": "1009345709496291328",
+            "text": "I will be hosting the Blockchain stage at #TOA18 all day today! @TOABerlin #toa2018 this is Stage 2 at the awesome Funkhaus Berlinpic.twitter.com/3q1HKqVfC2",
+            "username": "AnnaRRose",
+            "num_likes": 40,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1008679175501336576": {
+            "id": "1008679175501336576",
+            "text": "The TheDAO hack is the single most impactful event to occur in Ethereum and the entire smart contract space! Listen to this if you missed it.https://twitter.com/zeroknowledgefm/status/1006866020718563330\u00a0\u2026",
+            "username": "maurelian_",
+            "num_likes": 23,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1008452003884826624": {
+            "id": "1008452003884826624",
+            "text": "Best episode so far :) a lot of us had many lose ends on this or info we caught on Reddit so this is so good! Props to @zeroknowledgefm & @thegriffthttps://twitter.com/zeroknowledgefm/status/1006866020718563330\u00a0\u2026",
+            "username": "ETHBerlin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1008452607852056576": {
+            "id": "1008452607852056576",
+            "text": "Highly recommending this episode of @zeroknowledgefm feat. @thegrifft: #TheDAO hack explained. Some of our team was following this closely and this event changed the way we work - we are all now a better ecosystem upon learning that audits are necessary - next step: Governance!https://twitter.com/zeroknowledgefm/status/1006866020718563330\u00a0\u2026",
+            "username": "golemproject",
+            "num_likes": 63,
+            "num_retweets": 25,
+            "num_replies": 5
+        },
+        "1006945543652667392": {
+            "id": "1006945543652667392",
+            "text": "Catch up with everything that happened at #EthBuenosAires on last weeks @ZeroKnowledgefm podcast! \n\n#Ethereum #BUIDL http://www.zeroknowledge.fm/28\u00a0",
+            "username": "gitcoin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1007603653627338753": {
+            "id": "1007603653627338753",
+            "text": "Despite hearing some stories, I never really understood the context of the DAO hack and @Givethio until this epic episode of @zeroknowledgefm. @thegrifft is a legend. Plz more story-time podcasts, @thegrifft.http://www.zeroknowledge.fm/29\u00a0",
+            "username": "a13xndra",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "997038075900555264": {
+            "id": "997038075900555264",
+            "text": "If you are having thoughts about scaling with Plasma: listen to the plasma-slayer/sofas-designer  @phildaian on @zeroknowledgefm podcast episode 17 http://www.zeroknowledge.fm/17\u00a0 for the best introductory I found on the topic.",
+            "username": "OmerShlomovits",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "999322597279129602": {
+            "id": "999322597279129602",
+            "text": "Zero Knowledge episode about #webassembly usage in #blockchainhttp://www.zeroknowledge.fm/26\u00a0",
+            "username": "pepyakin",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1001560371570896910": {
+            "id": "1001560371570896910",
+            "text": "#Blockchain #Tech world is getting #UX updates for everyday users. 40 min podcast on the directions it's going in: #ZeroKnowledge at #Web3 #UXUnConf after #Edcon:http://www.zeroknowledge.fm/24\u00a0",
+            "username": "CarnegieLemon",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1004361526390779904": {
+            "id": "1004361526390779904",
+            "text": "If you are not aware of the new gem you need to check out the  work of @zeroknowledgefm and @AnnaRRose the best ever host! Enjoy this episode covering @ethbuenosaires #ETHBuenosAireshttp://zeroknowledge.fm/28\u00a0",
+            "username": "mariatvidal",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1000067100243832832": {
+            "id": "1000067100243832832",
+            "text": "Anyone who can't attend: the very latest @zeroknowledgefm episode with @lrettig @alexberegszaszi @fredhrson was a real gem, really recommend as an introductionhttp://www.zeroknowledge.fm/26\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "999346130117898247": {
+            "id": "999346130117898247",
+            "text": "A fascinating podcast describing how the Ethereum smart contract network are \u2018outsourcing\u2019 their VM technology by using WebAssemblyhttp://www.zeroknowledge.fm/26\u00a0",
+            "username": "WasmWeekly",
+            "num_likes": 29,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "997355066645413888": {
+            "id": "997355066645413888",
+            "text": "\"We had this heavily criticised ICO craze. But a few projects that raised money are now on another level. @AragonProject @ethstatus, suddenly they have designers, usability studies... That shows we\u2019re playing the big leagues now.\"\u2014@avsa http://www.zeroknowledge.fm/24\u00a0 @zeroknowledgefm",
+            "username": "a13xndra",
+            "num_likes": 49,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "996984024064118785": {
+            "id": "996984024064118785",
+            "text": "Storage rent is one of those things that to me is a no-brainer, but is still somehow very controversial. In this weeks episode of ZK @AnnaRRose and I dig into what it is with @phildaian and what a practical model for it would be. Super important topic IMO!http://www.zeroknowledge.fm/25\u00a0",
+            "username": "fredhrson",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "994950871652978688": {
+            "id": "994950871652978688",
+            "text": "[Blog] Devcon4 Announcement. Join us in Prague Oct 30 - Nov 2! https://goo.gl/KoNDfq\u00a0 #ethereum #devcon4",
+            "username": "ethereum",
+            "num_likes": 613,
+            "num_retweets": 239,
+            "num_replies": 48
+        },
+        "993208663392301056": {
+            "id": "993208663392301056",
+            "text": "My first podcast! Full node 101, #Parity UI split and what it's like to do tech support @ParityTech. Thanks @zeroknowledgefm @AnnaRRose @fredhrson for having me!https://twitter.com/zeroknowledgefm/status/992432870403792896\u00a0\u2026",
+            "username": "Tbaut",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "991616353227427840": {
+            "id": "991616353227427840",
+            "text": "One of my favorite @zeroknowledgefm podcasts. Really helpful for understanding blockchain design.https://twitter.com/ParityTech/status/991608213224218624\u00a0\u2026",
+            "username": "a13xndra",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "991608213224218624": {
+            "id": "991608213224218624",
+            "text": "\u201cOriginally consensus algorithms were intended to be applied to the problem of splitting a database across multiple computers and allowing clients to retain consensus over what the latest data is.\u201d\u2014@rphmeier talks consensus algorithms with @zeroknowledgefmhttp://www.zeroknowledge.fm/15\u00a0",
+            "username": "ParityTech",
+            "num_likes": 21,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "991382164926181376": {
+            "id": "991382164926181376",
+            "text": "Here is a great brainteaser about zero-knowledge proofs that I learned about from episode 21 of @zeroknowledgefm.pic.twitter.com/nSFF5MgZac",
+            "username": "Cyrus",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 8
+        },
+        "989623405572952064": {
+            "id": "989623405572952064",
+            "text": "Great @zeroknowledgefm podcast with @8bitpal and Rob from @b9lab talking about #blockchain training http://www.zeroknowledge.fm/22\u00a0",
+            "username": "rhian_is",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "980268562970394625": {
+            "id": "980268562970394625",
+            "text": "slides are herehttps://slides.com/raumkurve/parity-bridge\u00a0\u2026",
+            "username": "raumkurve",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "979855556377657344": {
+            "id": "979855556377657344",
+            "text": "You can watch the full video from the Taipei Ethereum Meetup here: https://www.youtube.com/watch?v=ilsjZAtUUvQ\u00a0\u2026 . Also, Fredrik discusses rent with Philip Daian here: http://www.zeroknowledge.fm/17\u00a0 (cc @phildaian)",
+            "username": "Cyrus",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "979739796431138819": {
+            "id": "979739796431138819",
+            "text": "In this weeks episode of @Zer0_Knowledge, I sit down with the research team at @polychaincap to get a quick look into the technologies and projects that are inspiring them atm. http://www.zeroknowledge.fm/18\u00a0 #zeroknowledge #web3 #polychaincapital cc: @niraj @fredhrson",
+            "username": "AnnaRRose",
+            "num_likes": 33,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "978943613412564992": {
+            "id": "978943613412564992",
+            "text": "And while we are talking about Wasm and the Hard Fork, if you didn't get the chance at #Ethcc to see @fredhrson demoing how to run #Rust contracts on Kovan with Wasm you can check it out now!https://www.youtube.com/watch?v=Adcn-L59LRs\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 23,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "977168822364004352": {
+            "id": "977168822364004352",
+            "text": "If you attended the Tooling and Safety for #Solidity Roundtable, add your resources here! https://docs.google.com/document/d/1MdS4EHwsCpOZ6oVIQuuAFf03YZz1NXC3TsZ27wuW9VY/edit\u00a0\u2026 #ZK0x01 @Zer0_Knowledge",
+            "username": "AnnaRRose",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "977210075621330944": {
+            "id": "977210075621330944",
+            "text": ".@AnnaRRose and @fredhrson interviewing @jutta_steiner at ZK0x01!! @Zer0_Knowledgepic.twitter.com/dGMqRa7XzY",
+            "username": "niraj",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1116988686061666305": {
+            "id": "1116988686061666305",
+            "text": "If you haven't yet jumped into the Zero Knowledge space, and don't know where to start - here is a veeery introductory episode we did last year around this time. https://www.zeroknowledge.fm/21\u00a0 #zeroknowledgeproof #ZKProof",
+            "username": "zeroknowledgefm",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1126118840973385728": {
+            "id": "1126118840973385728",
+            "text": "Excited to share our interview with @ebfull ! We cover his story at @zcashco, the Powers of Tau trusted set up, MPCs, the story of the bug, #SONICs, #ZEXE, BLS12-381 Elliptic Curve Construction and more! https://www.zeroknowledge.fm/76\u00a0 @AnnaRRose @fredhrson @ZcashFoundation #cryptography",
+            "username": "zeroknowledgefm",
+            "num_likes": 50,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "1123897748670025733": {
+            "id": "1123897748670025733",
+            "text": "Catch up with @aztecprotocol and @Zac_Aztec on this week's ep of the ZKP. \nWe cover range proofs,the different approaches to bringing privacy to Ethereum, zk tools & standards, and more!  https://www.zeroknowledge.fm/75\u00a0 cc: @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1121040905954312192": {
+            "id": "1121040905954312192",
+            "text": " This week, we chat w @drakefjustin about the need for randomness in blockchain, how it's created and what adversarial models exist. We also cover random beacons & how randomness is used in various ways in ETH2.0 https://www.zeroknowledge.fm/74\u00a0 cc: @ethereum @fredhrson @AnnaRRose #eth2",
+            "username": "zeroknowledgefm",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1118517030930604032": {
+            "id": "1118517030930604032",
+            "text": "Latest episode of ZKP just landed. This week we chat with @ja_akinyele about the Bolt Protocol, a privacy preserving layer 2 approach for anonymous micropayments, built to work with #LightningNetwork // https://www.zeroknowledge.fm/73\u00a0 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 36,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1118409147316363264": {
+            "id": "1118409147316363264",
+            "text": "Once you have mastered the basics, you may want to check out our ZKSeries https://www.zeroknowledge.fm/zkseries\u00a0 for more episodes about Zero Knowledge topics!",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1116989570237784071": {
+            "id": "1116989570237784071",
+            "text": "And recently @nczhu put together a post roughly based on the material we covered in the ep:https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99?gi=56d38f18c6f3\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115964958796283904": {
+            "id": "1115964958796283904",
+            "text": " This week we catch up with AlexV and @gluk64 from @the_matter_labs about using #zkSNARKs for scaling #Ethereum  \nWe also chat about the Roll-up project and more! \nhttps://www.zeroknowledge.fm/72\u00a0 cc: @fredhrson @AnnaRRose #rollup #scalingblockchain",
+            "username": "zeroknowledgefm",
+            "num_likes": 31,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1115518562163208192": {
+            "id": "1115518562163208192",
+            "text": "Wow - thanks for putting this together Nicole! We have wanted to put out a summary of the Intro to Zero Knowledge episode for a long time, now it looks like we don\u2019t have to :)https://twitter.com/nczhu/status/1115475185031950336\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114130982670675969": {
+            "id": "1114130982670675969",
+            "text": "Lightning Talk from last month's #zk0x03 - In this talk, @cwgoes shares a look at the IBC of @cosmos and how this could work with zk focused chains. @cosmosIBC #interoperability #zeroknowledgehttps://youtu.be/q6pGV5NtqmU\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1113730890155339777": {
+            "id": "1113730890155339777",
+            "text": "In this week's episode, we speak with @jk_arni about @radicle_xyz , a decentralized alternative to Github built on IPFS. We cover why these types of projects need to exist and the challenges facing #opensource #software https://www.zeroknowledge.fm/71\u00a0 cc: @oscoin @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 30,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1113052795337347073": {
+            "id": "1113052795337347073",
+            "text": "Another great lightning talk recorded at the zkSummit - this time its @lucasvo from @centrifuge giving us a look at a library they are working on! https://youtu.be/OeDokQNA3eY\u00a0 #zk0x03 #merkleroot",
+            "username": "zeroknowledgefm",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1113009823128391680": {
+            "id": "1113009823128391680",
+            "text": "Harry Roberts (#ethsnarks) shared a brief history of high-level programming languages for making zero-knowledge proofs using #zkSNARKs at the zkSummit week before last -> https://youtu.be/nKrBJo3E3FY\u00a0 #zk0x03 \u2756",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1112663606888415232": {
+            "id": "1112663606888415232",
+            "text": "A look into how @aztecprotocol proposes to put confidential digital assets on Ethereum - a talk by @Zac_Aztec at the zk Summit https://youtu.be/RIg2aJQqNNc\u00a0 #zk0x03",
+            "username": "zeroknowledgefm",
+            "num_likes": 17,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1111641863914749952": {
+            "id": "1111641863914749952",
+            "text": "From the #zk0x03 last week - @kaplannie from the @ZcashFoundation and @mkotew from @ParityTech shared a look at the upcoming Zcash Parity client during their lightning talk!https://youtu.be/WduXasm8l-Y\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 31,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1111620053361922053": {
+            "id": "1111620053361922053",
+            "text": "Lightning talk on Formal Verification by @MartinLundfall at #ZK0x03 up now!https://youtu.be/Vkx6Yua0eGE\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111615035347009536": {
+            "id": "1111615035347009536",
+            "text": "All Summit videos are up! https://www.youtube.com/playlist?list=PLj80z0cJm8QHvg1ydi6rTEUK1SpxbtKnM\u00a0\u2026 Catch the main and side stage speakers, lightning talks, & park bench panel! ",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1111295912867958784": {
+            "id": "1111295912867958784",
+            "text": "Why are proof system an ideal tool to solve Blockchain\u2019s scalability problem Watch this talk from @avihu28, @StarkWareLtd's Head of Product from the Zero Knowledge Summit! https://youtu.be/H16nWlj3C_M\u00a0 #zk0x03 #STARKs",
+            "username": "zeroknowledgefm",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1111291020963184640": {
+            "id": "1111291020963184640",
+            "text": "Curious to hear the latest about xDai from @barinov? Catch his talk about this concept for scaling at zkSummit last week -- > https://youtu.be/HKShhNTJtUQ\u00a0 #zk0x03 cc: @poanetwork #burnerwallet #xdai ",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111239525488099328": {
+            "id": "1111239525488099328",
+            "text": "Just releasing more of our videos from the zkSummit - catch our intro with the answers our audience gave to our application question: How would you explain the trusted set up to a friend? https://youtu.be/DfEG5nhMRyQ\u00a0 #zk0x03 #zeroknowledge",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1110923058662047745": {
+            "id": "1110923058662047745",
+            "text": " Episode 70 of the ZK Podcast just landed!\n\nWe sat down with Rune of @MakerDAO to chat about stablecoins, MakerDAO\u2019s take on this concept, CDPs, how the peg is maintained, security, oracles, and more! https://www.zeroknowledge.fm/70\u00a0 cc:@fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1110898775076290562": {
+            "id": "1110898775076290562",
+            "text": "Catch this talk from Alex Vlasov of @the_matter_labs -->> Scaling settlements with zkSNARKs https://youtu.be/fSp2tyTtsEY\u00a0 Very much on the ZKSummit theme #zk0x03 of zk and scaling!",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1110893618829709312": {
+            "id": "1110893618829709312",
+            "text": "Catch the always informative and entertaining @__Tux at the Zero Knowledge Summit last week speaking about FHE and secure computation! cc: @NuCypher https://youtu.be/_1qFoDEhHRY\u00a0 #zk0x03",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1110880036184342529": {
+            "id": "1110880036184342529",
+            "text": "#Zk0x03 videos are out! First up @izmeckler from @CodaProtocol talking about SNARKonomicon: How to effectively program SNARKs ! Catch it here -->>https://www.youtube.com/watch?v=0u0XNfK8AJM&feature=youtu.be\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 12,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1109521883286904833": {
+            "id": "1109521883286904833",
+            "text": "This event looks great , happening Monday in Berlin, in case you are still in town :)https://twitter.com/AlexSkidanov/status/1109489070609235971\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1109113361780953089": {
+            "id": "1109113361780953089",
+            "text": "The first glimpse into the new zcash client @paritytech is building with the @ZcashFoundation in Rust - thanks @kaplannie and @mkotew for sharing! #zk0x03pic.twitter.com/pfEjnva15k",
+            "username": "zeroknowledgefm",
+            "num_likes": 37,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1109112040881299456": {
+            "id": "1109112040881299456",
+            "text": "Always great to hear from @cwgoes from @cosmos share the latest about their IBC #zk0x03pic.twitter.com/UtLLajqYAM",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1109111658650189831": {
+            "id": "1109111658650189831",
+            "text": "Packed room at the \u201cBuilding STARKs with pen and paper\u201d workshop #zk0x03pic.twitter.com/oMJSNSoS74",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1109105156996632577": {
+            "id": "1109105156996632577",
+            "text": "Lightning talk #2 at #zk0x03 with Aram @zcoinofficial talking about Lelantus and showing how it stacks up to the other zk implementations out therepic.twitter.com/UVRZAdpBVK",
+            "username": "zeroknowledgefm",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1109088779699216385": {
+            "id": "1109088779699216385",
+            "text": "Learning the trade offs between SNARKs vs SONICs with Alex from @the_matter_labs #zk0x03 #snarks pic.twitter.com/0iX7fs8Osf",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1109053266963378176": {
+            "id": "1109053266963378176",
+            "text": "Harry Roberts on the history of programming languages for #zkSNARKs, right before lunch at #zk0x03pic.twitter.com/MNgiWz52wE",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1109050659570098176": {
+            "id": "1109050659570098176",
+            "text": "xDai with @barinov of @poanetwork sharing this novel scaling solutionpic.twitter.com/Tm33r3CtFu",
+            "username": "zeroknowledgefm",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1109046346185670657": {
+            "id": "1109046346185670657",
+            "text": "Wrapping up the @aztecprotocol talk in the Side stage at #zk0x03pic.twitter.com/83XETzJg0L",
+            "username": "zeroknowledgefm",
+            "num_likes": 20,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1109041830170112003": {
+            "id": "1109041830170112003",
+            "text": "Catching @izmeckler from @CodaProtocol talks about \u201cSnarks\u201d #zk0x03pic.twitter.com/w5syg5oBOQ",
+            "username": "zeroknowledgefm",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1109031068794085376": {
+            "id": "1109031068794085376",
+            "text": "STARKs for scalability with  @StarkWareLtd - kicking off #zk0x03 pic.twitter.com/atWAJ3OWzv",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1109008432936435712": {
+            "id": "1109008432936435712",
+            "text": "#ZK0x03 begins !! pic.twitter.com/V40r9Z7smL",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1108654054975119365": {
+            "id": "1108654054975119365",
+            "text": "Tomorrow, come hang out with your zkp hosts @AnnaRRose and @fredhrson and catch talks & workshops with @avihu28, @izmeckler, @barinov, @Zac_Aztec, @jbaylina, @sunnya97, @aurelcode, the dudes from @the_matter_labs and more! https://www.zeroknowledge.fm/summit\u00a0pic.twitter.com/GrXI4nL4wB",
+            "username": "zeroknowledgefm",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108403876506595329": {
+            "id": "1108403876506595329",
+            "text": "In this week's episode, @AnnaRRose & @fredhrson sit down with @samecwilliams of @ArweaveTeam to chat about their novel approach to decentralised storage  and their concept of a permawebhttps://www.zeroknowledge.fm/69\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1108386141647110145": {
+            "id": "1108386141647110145",
+            "text": "ZKSummit will have breakouts, workshops & whiteboarding sessions as well! Learn about GPU implementation of #zksnark prover with the @the_matter_labs guys, #GDPR analysis of @zcashco shielded transactions from @TechGDPR & more!\n\nLast spots avail here: https://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026 \u2026pic.twitter.com/sKHsakV9vz",
+            "username": "zeroknowledgefm",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1108331637736128512": {
+            "id": "1108331637736128512",
+            "text": "ZKSummit lands in 2 days! Besides tons of great ZK content, we will also explore scaling. Catch xDai's @barinov from @poanetwork, @sunnya97 of @cosmos, @avihu28 of @StarkWareLtd, Alex of @the_matter_labs, @JonaFunLevi & more! \n\n Apply here: http://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026pic.twitter.com/c2fukTuPQc",
+            "username": "zeroknowledgefm",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1108016007644237825": {
+            "id": "1108016007644237825",
+            "text": "Curious what else we have in store for this edition of the Zero Knowledge Summit #zk0x03? \n\nOur legendary park bench panel, ofc! \n\nLets get the zk debates brewing cc: @__Tux @AlexSkidanov @barinov @btcVeg @izmeckler @liz315 @rphmeier  \n\nApply here: http://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026pic.twitter.com/JwSREmJ1yj",
+            "username": "zeroknowledgefm",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1108005587864965123": {
+            "id": "1108005587864965123",
+            "text": "ZKSummit will also have breakouts, workshops and whiteboarding sessions! Come brainstorm with @sunnya97 from @cosmos, @verbine from @innovation_vc, @TechGDPR and the @zcoinofficial guys! \n\nCome learn with us!\nApply here -->> https://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026 \u2026 \u2026 #zk0x03",
+            "username": "zeroknowledgefm",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1107996963461648384": {
+            "id": "1107996963461648384",
+            "text": "ZKSummit lands in 4 days! If you are a dev or researcher working in the space, come catch Aurelien Nicolas from @qeditzkp and @zkproof sharing an update on zkstandards & @Shamatar from @the_matter_labs talking about #Sonic SNARKs\n\nApply here --> https://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026 \u2026 #zk0x03pic.twitter.com/aHWr6YnsIP",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1107703001710505984": {
+            "id": "1107703001710505984",
+            "text": "ZKSummit isn't just talks - there will be breakouts, workshops and whiteboarding sessions as well! Catch @liz315, Tanya from @LeastAuthority, & @kaplannie and their real-world ZK use-cases workshop. \n\nCome learn with us!\nApply here -->> https://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026 #zk0x03pic.twitter.com/EDYZo2tlwZ",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1107690473014153216": {
+            "id": "1107690473014153216",
+            "text": "Looking forward to talks from @__Tux from @NuCypher, @jbaylina from @identhree, @Zac_Aztec from @aztecprotocol, and more of your fav builders/researchers at the ZKSummit #zk0x03! \n\nStill have a few spots available, join us and learn!\nApply here -->> https://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026pic.twitter.com/JzvOkVWxGF",
+            "username": "zeroknowledgefm",
+            "num_likes": 30,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1107664678107430914": {
+            "id": "1107664678107430914",
+            "text": "And in case you want a sneak peak at the program we have for you... https://www.zeroknowledge.fm/summit\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107639071235588096": {
+            "id": "1107639071235588096",
+            "text": "We\u2019ve been GIF\u2019ed ! https://twitter.com/DDemin/status/1106273779112730626\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1107623440629055489": {
+            "id": "1107623440629055489",
+            "text": "ZKSummit lands in 5 days! Hang out with your zkp hosts @AnnaRRose and @fredhrson and catch talks from @avihu28 from @StarkWareLtd, @izmeckler from @CodaProtocol and many of your fav builders/researchers :) Still have a few spots available - apply here: https://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026pic.twitter.com/D5D2bXa8q8",
+            "username": "zeroknowledgefm",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1105868793132302337": {
+            "id": "1105868793132302337",
+            "text": "@sunnya97 even managed to squeeze a little @cosmos action in there :) ",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105868558553235462": {
+            "id": "1105868558553235462",
+            "text": "Last week, ZKP popped over to #Ethcc for one day to chat with @bmann @MPtherealMVP @hudsonjameson @sunnya97 @stellarmagnet @PAMauric about decision making in the decentralised space, @EthMagicians, the new CoC, @EthCatHerders, and much more! https://www.zeroknowledge.fm/68\u00a0 ",
+            "username": "zeroknowledgefm",
+            "num_likes": 24,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1105477229071527937": {
+            "id": "1105477229071527937",
+            "text": "10 days until the Zero Knowledge Summit  lands in Berlin!! We want to thank another one of our sponsors @PvtStorage, a brand new initiative from @LeastAuthority & @buyvpnservice. Apply here to join us:https://goo.gl/forms/szQ5gtjNRRjSravz2\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1105420736800456704": {
+            "id": "1105420736800456704",
+            "text": "Pretty pumped we made the most clicked -  https://twitter.com/evan_van_ness/status/1104202309939146752\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105122135176110085": {
+            "id": "1105122135176110085",
+            "text": "Are you getting excited for the Zero Knowledge Summit? Have a look at our program teaser here: woo woo  https://www.zeroknowledge.fm/summit\u00a0pic.twitter.com/eXBAGewB1P",
+            "username": "zeroknowledgefm",
+            "num_likes": 27,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1103334063895658499": {
+            "id": "1103334063895658499",
+            "text": " Formal Verification time!  this week, we catchup with @MartinLundfall from @MakerDAO / @dapphub to talk about his work on formal verification, the #kframework, when it makes sense to use fv, when it doesn't, & more https://www.zeroknowledge.fm/67\u00a0 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 37,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1103252393767120896": {
+            "id": "1103252393767120896",
+            "text": "Get ready for the Zero Knowledge Summit, happening on March 22 in Berlin. We will dive into zero knowledge topics, SNARKs, STARKs, scaling and security. We want to welcome 2 additional sponsors - @trailofbits and @ZcashFoundation \n\nApply to attend here: \nhttps://goo.gl/forms/w81UvYAZRbRznXyJ3\u00a0\u2026pic.twitter.com/5mXwvnCsCG",
+            "username": "zeroknowledgefm",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1102932234439397377": {
+            "id": "1102932234439397377",
+            "text": "\u00a0The ZK Summit happens on March 22! We want to welcome 2 more of our sponsors @web3foundation & @poanetwork !  If you work on zero knowledge &/or scaling topics and want to attend - be sure to apply here ---->https://goo.gl/forms/8RDAUHwafbNLtWJn1\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102556101680214017": {
+            "id": "1102556101680214017",
+            "text": "The ZK Summit is landing in under just over 2 weeks! We want to welcome 2 more of our sponsors @NuCypher & @1kxnetwork !  If you work on zk/scaling topics and want to attend - apply here ---->  https://goo.gl/forms/THsQIgLhQoKIgAGE2\u00a0\u2026pic.twitter.com/sxeZiEHGV2",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1101557842191048704": {
+            "id": "1101557842191048704",
+            "text": "This is so awesome - thanks for this detailed write up @trent_vanepps https://twitter.com/trent_vanepps/status/1101529764161040385\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101106531561627648": {
+            "id": "1101106531561627648",
+            "text": "The ZK Summit is landing in 3 weeks! We want to welcome 2 of our sponsors @paritytech & @starkwareltd!  If you work on zk/scaling topics and want to attend - apply here ---->  https://goo.gl/forms/THsQIgLhQoKIgAGE2\u00a0\u2026pic.twitter.com/vgsKFRfG4F",
+            "username": "zeroknowledgefm",
+            "num_likes": 20,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1100282977957937152": {
+            "id": "1100282977957937152",
+            "text": "Have you sent us your application for our upcoming Zero Knowledge Summit? Come spend a day with the community working on SNARKs, STARKs & other fresh zero knowledge (+ scaling!) projects! Its happening in Berlin on March 22. Spots are limited - apply here:https://goo.gl/forms/HL4mNsGTX7ofJzy72\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1098560612207083520": {
+            "id": "1098560612207083520",
+            "text": "This week, @AnnaRRose & @fredhrson welcome @barinov & @austingriffith to the show to talk about bridges, xDai and the burner wallet. They also set the stage for the BuffiDai experiment that went down last weekend at @EthereumDenver https://www.zeroknowledge.fm/65\u00a0 ",
+            "username": "zeroknowledgefm",
+            "num_likes": 29,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1095630829890519041": {
+            "id": "1095630829890519041",
+            "text": "In case you missed last week's Zero Knowledge episode on proxy re-encryption and FHE - check out our in depth interview with Nucypher! https://www.zeroknowledge.fm/63\u00a0 Thanks @__Tux and Bogdan Opanchuk for going deep on this topic with us!",
+            "username": "zeroknowledgefm",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1093566950293282817": {
+            "id": "1093566950293282817",
+            "text": "Hey all, we recently set up a grant on @GetGitcoin - https://gitcoin.co/grants/38/zero-knowledge-podcast\u00a0\u2026 if you want to contribute (and don't wanna touch Fiat!) you can do that there! ",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090993645522771974": {
+            "id": "1090993645522771974",
+            "text": "Hey hey - get your application and talk proposals in for the Zero Knowledge Summit! Happening March 22nd in Berlin - We've started in on the program, so if you are working with succinct proofs for scaling blockchains, zkSNARK implementations, STARKs, MPCs etc let us know!https://twitter.com/AnnaRRose/status/1085124990121504768\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1090633982197272577": {
+            "id": "1090633982197272577",
+            "text": "Have you been a bit confused by what ERCs, EIPs and token standards really are? In this week's ep, we dive into tokens & the path to making an ERC into a standard https://www.zeroknowledge.fm/62\u00a0 \n\nThx to @mattdlockyer for his story about ERC998 \n\ncc: @AnnaRRose @fredhrson #ERC20 #ERC721",
+            "username": "zeroknowledgefm",
+            "num_likes": 25,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1090259983097200642": {
+            "id": "1090259983097200642",
+            "text": "Just released a throwback episode on Youtube - this came out in June and features @thegrifft talking about everything from #TheDAO, #whitehat hackers & @Givethio https://www.youtube.com/watch?v=N8gnvsqQVTE\u00a0\u2026 #ethereum",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1089872523154673664": {
+            "id": "1089872523154673664",
+            "text": "In case you missed it, last week we had @tarunchitra on the @zeroknowledgefm podcast talking statistical modeling of PoS systems & more!  https://www.zeroknowledge.fm/61\u00a0 cc: @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1088007760820740096": {
+            "id": "1088007760820740096",
+            "text": "Application & Call-for-Speakers for the next Zero Knowledge Summit #Zk0x03 (happening March 22nd) are open! If you are working with zero knowledge research, zkSNARKs, STARKs, cryptography primitives or scaling topics, do apply here https://goo.gl/forms/90ygyLdWPzWQgsDr2\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1087716617776181248": {
+            "id": "1087716617776181248",
+            "text": "Just re-released an old episode on Youtube - this was the event episode where we interviewed builders at the UXUnconf about the state of UX and blockchain https://youtu.be/Fp9Rg1Y_sNU\u00a0 - neat to see which probs have been solved, are being solved & which UX problems still haunt us today",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1087261567815700480": {
+            "id": "1087261567815700480",
+            "text": "Thanks for the shoutout :)https://twitter.com/mrjasonchoi/status/1087206276398931968\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085906123788562432": {
+            "id": "1085906123788562432",
+            "text": "We are gonna re-release a selection of podcasts from the last year on Youtube for those who like to get their podcasts there - Kicking off with our Introduction to Zero Knowledge Proofs https://youtu.be/PtPcBnC9yAs\u00a0 Episode 21. Recorded April 19th, 2018",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085560307710418945": {
+            "id": "1085560307710418945",
+            "text": "New ep out! This week @fredhrson & @AnnaRRose brave the treacherous waters of Multi-party Computation and try to pronounce \"Fully Homomorphic encryption\" properly! Enjoy this #cryptography 101 ep and please share your feedback and knowledge on the topic!https://www.zeroknowledge.fm/60\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 39,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1083085546212204550": {
+            "id": "1083085546212204550",
+            "text": "Latest ep just went live! This week, we chat history of Zk Systems in blockchain & the making of Zero cash, dive into #STARKs,  compare with #SNARKs and find out what @StarkWareLtd is up to w @EliBenSasson & Alessandro https://www.zeroknowledge.fm/59\u00a0 cc: @AnnaRRose @fredhrson @zcashco",
+            "username": "zeroknowledgefm",
+            "num_likes": 49,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "1081888103768510464": {
+            "id": "1081888103768510464",
+            "text": "Thanks to everyone who weighed in on this. Please do keep these coming as you think of them!! ",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1081178950951411712": {
+            "id": "1081178950951411712",
+            "text": "CALL FOR PODCAST TOPICS We are planning the Zero Knowledge episodes for the next few months and would really love to hear what you would like us to cover! Please share below or in our Telegram group",
+            "username": "zeroknowledgefm",
+            "num_likes": 22,
+            "num_retweets": 8,
+            "num_replies": 19
+        },
+        "1080851104081104897": {
+            "id": "1080851104081104897",
+            "text": "Our first episode of the new year is out: catch up with @AnnaRRose @fredhrson and our friend @jutta_steiner from @Paritytech to discuss what happened in the last year in our space and what we are looking forward to in 2019. https://www.zeroknowledge.fm/58\u00a0 ",
+            "username": "zeroknowledgefm",
+            "num_likes": 39,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1078633659333263360": {
+            "id": "1078633659333263360",
+            "text": "Earlier this month, @AnnaRRose was in Singapore  for @ethsingapore - Listen to interviews with a bunch of the hackers (including some winners!) about who they are, what they are building & their recap of 2018 \ncc:@dmihal @ETHGlobal @ChainSafeth @evan_van_ness",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1078259840395419648": {
+            "id": "1078259840395419648",
+            "text": "Awesome to hear it resonated ! Watching that video now, looks like a great resource that demonstrates the binary Merkle tree and how Merkle proofs work!https://twitter.com/nickdijkstra/status/1078228667707375616\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1077930453938724864": {
+            "id": "1077930453938724864",
+            "text": "~ Merklize this! Merkle Trees & Patricia Tries ~ \nIn this weeks ep, @fredhrson and @AnnaRRose celebrate Merry Merkle trees - by digging into the history and diving into the different constructions\nhttps://www.zeroknowledge.fm/57\u00a0 #festivusfortherestofus #merrymerkle",
+            "username": "zeroknowledgefm",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1077146714933510144": {
+            "id": "1077146714933510144",
+            "text": "some xmas eve listening?https://twitter.com/gavofyork/status/1076906164565110784\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1076897103950086145": {
+            "id": "1076897103950086145",
+            "text": "Another video we shot in the halls of @EFDevcon back in Nov. https://youtu.be/fIx_TK5MFPg\u00a0 Here we hang out with @AustinEAlexande from Kraken and catch up with him about his experience at the event. #devcon4 #throwback #devcon #Kraken",
+            "username": "zeroknowledgefm",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1076490606380269569": {
+            "id": "1076490606380269569",
+            "text": "Catch another video we shot in the halls of @EFDevcon back in Nov. https://youtu.be/XyESs5b8dsw\u00a0 Here we hang out with Felix Lange from the @ethereum foundation and catch up with him about his experience at the event. #devcon4 #throwback #devcon #ethereum",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1075694467326361600": {
+            "id": "1075694467326361600",
+            "text": "Back in Nov, we captured a couple videos in the halls of @EFDevcon. In this vid, we hang out with @AFDudley0 and catchup with him about his experience at the event. #devcon4 #throwbackhttps://youtu.be/TTdvHO3Qvhs\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1075432571750752257": {
+            "id": "1075432571750752257",
+            "text": "Latest episode of Zero Knowledge has @fredhrson catching up with Martin Holst Swende for a Core Dev 1:1 - they chat about what got him into the space, his interest in @ethereum security, & his entry into blockchain development https://www.zeroknowledge.fm/56\u00a0 #blockchain #ethereum",
+            "username": "zeroknowledgefm",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1075378254561902592": {
+            "id": "1075378254561902592",
+            "text": "Here is another video we shot in the halls of @EFDevcon back in Nov. https://youtu.be/HvVBODejoO4\u00a0 In this vid, we hang out with @ashleighschap from @MakerDAO and catchup with her about her experience at the event. #devcon4 #throwback",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075332576552861696": {
+            "id": "1075332576552861696",
+            "text": "Another video we shot in the halls of @EFDevcon back in Nov. https://www.youtube.com/watch?v=__7sQ7I_OTI\u00a0\u2026 - this vid feature @ericxtang from Livepeer talking about his experience in Prague! #devcon4 #throwback",
+            "username": "zeroknowledgefm",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1075027855917178880": {
+            "id": "1075027855917178880",
+            "text": "Check out a couple videos we shot in the halls of @EFDevcon back in Nov. https://youtu.be/rXv6G6nMUUg\u00a0 - this vid feature @yanivgraph from TheGraph talking about his experience there! #devcon4 #throwback",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1073247136005926912": {
+            "id": "1073247136005926912",
+            "text": "Back from Singapore  & happy to share our @ethsingapore in review ep. Listen to interviews with 7 hackers + @evan_van_ness about who they are, what they are building & their recap of 2018 \ncc:@dmihal @ETHGlobal @ChainSafeth @AnnaRRosehttps://www.zeroknowledge.fm/55\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 33,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1070697224160432138": {
+            "id": "1070697224160432138",
+            "text": "In this week's episode, we go for another #zeroknowledge topic and sit down with @izmeckler & Evan Shapiro from @o1_labs to discuss @CodaProtocol and their work on recursive constructions of #zkSNARKs. https://www.zeroknowledge.fm/54\u00a0 Enjoy! cc. @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 34,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1067984627124432899": {
+            "id": "1067984627124432899",
+            "text": "In this week's episode, @fredhrson hosts a 1:1 with a Core dev - @peter_szilagyi - team lead on the @ethereum go client and early foundation guy. They chat about his background, work and what it takes to be a core dev. \nEnjoy! https://www.zeroknowledge.fm/53\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1065281910211981318": {
+            "id": "1065281910211981318",
+            "text": "It's live! In this week's episode, we have @gavofyork and @VladZamfir go head-to-head on blockchain governance - digging into the on-chain vs off-chain debate. Catch it here: https://www.zeroknowledge.fm/52\u00a0 cc. @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 173,
+            "num_retweets": 55,
+            "num_replies": 9
+        },
+        "1062716836435750912": {
+            "id": "1062716836435750912",
+            "text": "In this week's episode, we sit down with @teamspacemesh's researcher Julian Loss to explore DAGs, the Proof-of-Spacetime idea and additional ideas powering the Spacemesh project. https://www.zeroknowledge.fm/51\u00a0 cc. @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1062057249844146176": {
+            "id": "1062057249844146176",
+            "text": "Hey friends of the podcast, we just launched a Patreon page in case you feel like supporting us with fiat, aka slave monies, aka money :P ! \u2014->https://www.patreon.com/zeroknowledge\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1061997907015016448": {
+            "id": "1061997907015016448",
+            "text": "We also had @vanderkriek presenting #Zokrates at the last #zk0x02 event in Berlin - in case you need some visuals :)https://www.youtube.com/watch?v=Wr1ic2671ww\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1061895843563868160": {
+            "id": "1061895843563868160",
+            "text": "Revisiting the episodes from the ZK series this week. Here we have @Jacob_Eberhardt on the Zokrates project. https://www.zeroknowledge.fm/41\u00a0 #zeroknowledge #framework #techeducation #zkseries",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1060821785799745536": {
+            "id": "1060821785799745536",
+            "text": "This episode with @1HowardWu talking about zkSNARKs remains one of our most popular episodes  . So amazing to see the interest for this stuff growing! https://www.zeroknowledge.fm/38\u00a0 #zeroknowledge #zksnarks #cryptography #crypto",
+            "username": "zeroknowledgefm",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1060645377991475205": {
+            "id": "1060645377991475205",
+            "text": "In case you missed it yesterday - in our special 50th episode with our pal Zooko, we cover everything from the early online activism space, the seeds of #zcash and #zerocoin, Trusted Setups, #Sapling activation and much more.  https://www.zeroknowledge.fm/50\u00a0 @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1057965082112651264": {
+            "id": "1057965082112651264",
+            "text": "If you are at Devcon today - pop by and say hi in the Xanadu team room at 1.30 :)",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1057658024175849472": {
+            "id": "1057658024175849472",
+            "text": "Check out our latest blockchain 101 episode where we dive into Cryptoeconomic Primatives and ideas around staking models with @ericsson_axel of Vest #proofofstake #stakingpool #cryptoeconomicshttps://www.zeroknowledge.fm/49\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1054742833364635648": {
+            "id": "1054742833364635648",
+            "text": "Hey all, we will be hosting a casual Zero Knowledge meetup tmr (Wednesday) after the #Web3Summit wraps up. Stay tuned for some more details and keep in touch with us in our telegram group -->>https://t.me/joinchat/B_81tQ57-ThZg8yOSx5gjA\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1054613987923496960": {
+            "id": "1054613987923496960",
+            "text": "Thanks for the feedback Sam! (And cool that you went into the archives to find that one!) We do plan on continuing on the topic of what it takes to be a dev in the space, so stay tuned.https://twitter.com/sambrichards/status/1054538874792239104\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052902682783027203": {
+            "id": "1052902682783027203",
+            "text": "In this week's episode we sit down with @richardcraib from @numerai to talk about crowdsourcing the role of a quant, prediction markets, Dapp adoption in @ethereum and what it's like to build a hedge fund fulled by a crypto token. https://www.zeroknowledge.fm/47\u00a0 cc:@AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1050955008362115072": {
+            "id": "1050955008362115072",
+            "text": " Thanks @hosseeb for the shoutout!https://twitter.com/hosseeb/status/1050888137008852994\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1050414744681635840": {
+            "id": "1050414744681635840",
+            "text": "In this week's episode, we sit down with @gavofyork of @ParityTech to chat about the birth of the @polkadotnetwork, some blockchain history, on-chain governance and Substrate. https://www.zeroknowledge.fm/46\u00a0 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 54,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1047563796196282369": {
+            "id": "1047563796196282369",
+            "text": "This week we catch up with @henripihkala from @streamrinc to chat about P2P messaging, pubsub, and about why one would want to decentralize these things. https://www.zeroknowledge.fm/45\u00a0 #blockchain @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1044993139335999489": {
+            "id": "1044993139335999489",
+            "text": "Learn about the lifecycle of a transaction and the mempool in this week's ep with @tomusdrw from @ParityTech. We explore how a transaction reaches a #mempool, the security properties of the mempool & more!\nhttps://www.zeroknowledge.fm/44\u00a0 cc: @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1044171915873660929": {
+            "id": "1044171915873660929",
+            "text": "In case you want to check out some of the Zero Knowledge Summit talks - here is a playlist with all the videos we captured from the event! https://www.youtube.com/watch?v=HTrquJ4UpDg&list=PLj80z0cJm8QEC-DUp0bvpy3p82kqfnvc-\u00a0\u2026 cc: @AnnaRRose @fredhrson #zk0x02",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1044160528715796480": {
+            "id": "1044160528715796480",
+            "text": "Catch @meatwithdreams of @ParityTech presenting #SecretStore and discussing private transactions on @ethereum at the Zero Knowledge Summit - #zk0x02 :)https://youtu.be/f2OOCdL-s-0\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1043123933631995904": {
+            "id": "1043123933631995904",
+            "text": "Here is @poanetwork's @barinov presenting Privacy Preserving Sidechains at Zero Knowledge Summit in Berlin. https://www.youtube.com/watch?v=hAk1pZ0oMzU\u00a0\u2026 #zk0x02",
+            "username": "zeroknowledgefm",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1043121298833068033": {
+            "id": "1043121298833068033",
+            "text": "Here we have @beamprivacy's Vladislav Gelfer presenting his talk \"#MimbleWimble implementation in BEAM\" at the Zero Knowledge Summit - #zk0x02 - beginning of sept. \nhttps://www.youtube.com/watch?v=EX9jQg9tuQc\u00a0\u2026 #zeroknowledge #privacyprotocol",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1042691451203846144": {
+            "id": "1042691451203846144",
+            "text": "Check out @david__nunez from @nucypher talks about on-chain verification with ZK proofs in this video from the Zero Knowledge Summit #ZK0x02 https://www.youtube.com/watch?v=6x-9gGvW0Yc\u00a0\u2026 #zeroknowledge #zkproofs #zksnarks",
+            "username": "zeroknowledgefm",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1042671256783532032": {
+            "id": "1042671256783532032",
+            "text": "Decision making & information gathering can be a uniquely difficult challenge in the decentralised space. In this episode, we chat with @hudsonjameson about how #EIPs works and governance in the @ethereum community https://www.zeroknowledge.fm/43\u00a0 #ethereumcommunity #ethereum #coredevs",
+            "username": "zeroknowledgefm",
+            "num_likes": 27,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1042397938901757952": {
+            "id": "1042397938901757952",
+            "text": "Recap of ZK0x02 is up on reddit :) Nice \u00a0https://www.reddit.com/r/ethereum/comments/9gk0er/zero_knowledge_summit_zk0x02_recap/\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042384365320327169": {
+            "id": "1042384365320327169",
+            "text": "Catch this video from the Zero Knowledge Summit - #ZK0x02 - Noah Johnson of @OasisLabs talking about Privacy-preserving smart contracts https://www.youtube.com/watch?v=VIJSFc3Wom8\u00a0\u2026 #zeroknowledge",
+            "username": "zeroknowledgefm",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042298020145123328": {
+            "id": "1042298020145123328",
+            "text": "Watch @awasunyin from @CryptiumLabs talk about #PoS variants and their privacy limitations at the Zero Knowledge Summit #zk0x02 - https://www.youtube.com/watch?v=_XicIlgmrxs\u00a0\u2026 #zeroknowledge",
+            "username": "zeroknowledgefm",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1042093547917332480": {
+            "id": "1042093547917332480",
+            "text": "Check out the lightning talks with @nanexcool from @MakerDAO, @kohwi talking about #scuttlebutt, @_rrybarczyk shares @summa_one and @jk_arni describing the #radicle programming language behind the @oscoin at #ZK0x02!! https://www.youtube.com/watch?v=J2SbiqbgFH0\u00a0\u2026 ",
+            "username": "zeroknowledgefm",
+            "num_likes": 40,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1042069053953728512": {
+            "id": "1042069053953728512",
+            "text": "Thanks to the team that stepped up to help make #zk0x02 happen - @LorenzoPilia @henrikjose @nembal, Jonas, Mary and Marlon from @hausungarn",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042063996029939712": {
+            "id": "1042063996029939712",
+            "text": "Catch @cwgoes from @Cosmos speaking about the IBC (Inter-blockchain communication) protocol, private-public blockchain interoperability and how to move between #zcash and #ethereum - #zk0x02 Zero Knowledge Summit - https://www.youtube.com/watch?v=cjfYThAk06w\u00a0\u2026 #zeroknowledge cc: @zcashco",
+            "username": "zeroknowledgefm",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1041991128688586752": {
+            "id": "1041991128688586752",
+            "text": "Our conversations with @liz315 from @LeastAuthority around privacy helped shape the concept for #Zk0x02 - here is her talk! https://www.youtube.com/watch?v=Zv-HybsKL2U\u00a0\u2026 #zeroknowledge cc: @zcashco",
+            "username": "zeroknowledgefm",
+            "num_likes": 13,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1041987062948392960": {
+            "id": "1041987062948392960",
+            "text": "In case you missed it yesterday - here is our wrap up of #zk0x02. Thanks again to our awesome team and sponsors! https://medium.com/zeroknowledge/zero-knowledge-summit-zk0x02-a1d09f7570d4\u00a0\u2026 cc: @DekryptCapital @nucypher @LeastAuthority @ParityTech @poanetwork @1kxnetwork @buyvpnservice @ZcashFoundation",
+            "username": "zeroknowledgefm",
+            "num_likes": 24,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1041981472477995013": {
+            "id": "1041981472477995013",
+            "text": "One of our fav podcast guests, @1HowardWu explaining his work on DIZK, a system that distributes the generation of a zero knowledge proof across machines in a compute cluster at the Zero Knowledge Summit  https://www.youtube.com/watch?v=mKvGXQjmNBU\u00a0\u2026 #zeroknowledge #zk0x02 Check it out!",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1041711312567521282": {
+            "id": "1041711312567521282",
+            "text": "Watch @vanderkriek give his talk \"Towards friendlier SNARKs with ZoKrates\" as part of the Zero Knowledge Summit - #ZK0x02 https://youtu.be/Wr1ic2671ww\u00a0 #snarks",
+            "username": "zeroknowledgefm",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1041706863509815296": {
+            "id": "1041706863509815296",
+            "text": "As part of the Zero Knowledge Summit - #ZK0x02, watch @btcVeg from @zcashco presenting about how the #zcash protocol and #zkSNARKs work! https://youtu.be/Kx4cIkCY2EA\u00a0 cc: @ZcashFoundation #zeroknowledge",
+            "username": "zeroknowledgefm",
+            "num_likes": 19,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1041704095223099393": {
+            "id": "1041704095223099393",
+            "text": "Just released most of the videos from #zk0x02 Zero Knowledge Summit - playlist is here!https://www.youtube.com/watch?v=HTrquJ4UpDg&list=PLj80z0cJm8QEC-DUp0bvpy3p82kqfnvc-\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1039885485286543360": {
+            "id": "1039885485286543360",
+            "text": "Latest episode has us chatting with @Mitch_Kosowski and @Andrew_Cravenho of @poanetwork about @ethprize bounties, #ETHreport and how community initiatives are kicked off and funded  cc: @fredhrson @robbiebent1https://www.zeroknowledge.fm/42\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 20,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1037331787138129920": {
+            "id": "1037331787138129920",
+            "text": "Noah Johnson of @OasisLabs talking privacy preserving smart contracts at the Zero Knowledge Summit #zk0x02pic.twitter.com/bK7BPbiqQs",
+            "username": "zeroknowledgefm",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1037281583772966912": {
+            "id": "1037281583772966912",
+            "text": "zkSNARKs & DIZK with @1HowardWu @ the #ZK0x02 #zeroknowledge pic.twitter.com/almyhJqhUs",
+            "username": "zeroknowledgefm",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037272961517068288": {
+            "id": "1037272961517068288",
+            "text": "Summit kicked off! We have a livestream link in case you want to follow along! https://youtube.com/playlist?list=PL3bvPCw5QCLK0B6tN7LtAjRdVOstQSiU8\u00a0\u2026 #zk0x02",
+            "username": "zeroknowledgefm",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1036929205429325831": {
+            "id": "1036929205429325831",
+            "text": "Or if you can't make it - stay tuned for our livestream link.",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1036928893385682944": {
+            "id": "1036928893385682944",
+            "text": "Zero Knowledge Summit #ZK0x02 starts tmr! We are bringing together some of our favorite guests from the last year, some of our friends and sparing partners and some of the best minds working on ZK and privacy topics in the decentralized space. See you there!pic.twitter.com/vIG1OdDJbN",
+            "username": "zeroknowledgefm",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1036645238054498304": {
+            "id": "1036645238054498304",
+            "text": "Application for ZKSummit is now officially closed! If you have received an invite, be sure to buy your tickets to reserve your spot.",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1036556163595296774": {
+            "id": "1036556163595296774",
+            "text": "Huge shoutout to the top sponsor of the ZKSummit >>> @DekryptCapital  We are so happy to have them onboard, especialy given their focus on Zero Knowledge topics & privacy. Plus one of our all time fav guests @1HowardWu is part of the crew! #ZK0x02 happens Sept 5!",
+            "username": "zeroknowledgefm",
+            "num_likes": 46,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1035446186134695937": {
+            "id": "1035446186134695937",
+            "text": "The Zero Knowledge Summit happens next Wed Sept 5! We have 2 more awesome sponsors to announce: PIA @buyvpnservice and @poanetwork Thanks so much for the support! Bringing together150 researchers & devs to discuss blockchain privacy & zero knowledge topics RAD! cc @BerBlockWeek",
+            "username": "zeroknowledgefm",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1035165228672200708": {
+            "id": "1035165228672200708",
+            "text": "We are back with #ZeroKnowledge goodness in our series covering ZK topics. This week we have @benediktbuenz talking about Bulletproofs and his research in the space. Super informative and an awesome guest!  http://www.zeroknowledge.fm/40\u00a0 Enjoy yo!",
+            "username": "zeroknowledgefm",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1032591590907412481": {
+            "id": "1032591590907412481",
+            "text": "New episode out with @matthewdif talking about #blockchainsecurity ! http://www.zeroknowledge.fm/39\u00a0 This only scratches the surface of a huge topic, but great to get a start on it. The episode ran long, so we are releasing an additional bonus part here: http://s.3h.se/zklabs_bonus.mp3\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1032300912012873729": {
+            "id": "1032300912012873729",
+            "text": "The ZK Summit is 2 weeks away! First sessions will be announced v soon. We also wanna welcome some more of our sponsors @1kxnetwork and @nucypher! If you work on zk/privacy topics -apply here:  https://goo.gl/forms/RHGKWCOGB4gGL3lc2\u00a0\u2026pic.twitter.com/7kTsmePF2v",
+            "username": "zeroknowledgefm",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1030395609860239360": {
+            "id": "1030395609860239360",
+            "text": "Profile of the ZKP podcast @fredhrson on the @ParityTech Blog - he chats about his new role as CTO and mentions our podcast and how it helps him stay on top of the emerging projects in the space. Very proud ! https://twitter.com/ParityTech/status/1030386230373048320\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1029717742599983104": {
+            "id": "1029717742599983104",
+            "text": "More #ZeroKnowledge goodness on this week's episode: @1HowardWu joins us to explain zkSNARKs and his work on DIZK ! http://www.zeroknowledge.fm/38\u00a0 cc: @fredhrson @AnnaRRose @DekryptCapital @CalBlockchain #libsnark #dizk #zeroknowledgeproofs",
+            "username": "zeroknowledgefm",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1029385828299141121": {
+            "id": "1029385828299141121",
+            "text": "Zero Knowledge Summit - #ZK0x02 - is coming together! Super excited to welcome some of our new sponsors to the mix @LeastAuthority @ZcashFoundation @ParityTech - Apply here :  https://goo.gl/forms/RHGKWCOGB4gGL3lc2\u00a0\u2026pic.twitter.com/Ge4wHqZ1Ha",
+            "username": "zeroknowledgefm",
+            "num_likes": 23,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1027833551218257920": {
+            "id": "1027833551218257920",
+            "text": "Latest ep up on reddit https://www.reddit.com/r/ethereum/comments/95xxr5/sharding_update_and_eth_20_talk_w_prysmatic_labs/\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1027192671176220673": {
+            "id": "1027192671176220673",
+            "text": "Sharding update in this week's episode! @raulitojordan and @preston_vanloon of @prylabs give us a look at the evolution of the spec, Ethereum 2.0, what happens to a side chain during a #hardfork, & whats next in #sharding http://www.zeroknowledge.fm/37\u00a0 #scaling @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 30,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1024655253185200128": {
+            "id": "1024655253185200128",
+            "text": "Latest #ZeroKnowledge ep just released - @ericxtang joins us and talks #offchain computation, when to use it and when to best go #onchain. We also look at how @LivepeerOrg is helping ppl livestream in a #decentralised way http://www.zeroknowledge.fm/36\u00a0 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1022775602594684929": {
+            "id": "1022775602594684929",
+            "text": "In this week's ep (link included this time!), we chat with @buchmanster from @cosmos @tendermint_team to talk about testnets - we cover what they are and the role they play in the launch of a new blockchain http://www.zeroknowledge.fm/35\u00a0 #Rinkeby #ropsten #kovan #cosmos #polkadot #eth",
+            "username": "zeroknowledgefm",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1022379956465270784": {
+            "id": "1022379956465270784",
+            "text": "In this week's ep, we chat with @buchmanster from @cosmos @tendermint_team to talk about testnets - we cover what they are and the role they play in the launch of a new blockchain -cc: @AnnaRRose @fredhrson #testnets #poa #mainnet #sidechain #bitcoin #ethereum #cosmos #polkadot",
+            "username": "zeroknowledgefm",
+            "num_likes": 34,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1019596626422390785": {
+            "id": "1019596626422390785",
+            "text": "New Episode IS OUT! In this Blockchain 101 ep, we dig into #smartcontracts with our guest @_prestwich. We explore what exactly a smart contract is, some use cases and the challenges that come along with it. http://www.zeroknowledge.fm/34\u00a0 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1017463171718832130": {
+            "id": "1017463171718832130",
+            "text": "This week we explore #OpenSource incentivization and ecosystem sustainability with @oscoin founders @lftherios and @cloudhead - find our how they aim to get more people involved in building! http://www.zeroknowledge.fm/33\u00a0 #blockchain",
+            "username": "zeroknowledgefm",
+            "num_likes": 23,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1015176874996191232": {
+            "id": "1015176874996191232",
+            "text": "(just wanted to tweet that again with all the participants included!!  )",
+            "username": "zeroknowledgefm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1015176671866048512": {
+            "id": "1015176671866048512",
+            "text": "ZKP @ #Zcon0 !! Discussing zcash community, highlights of the event, overwinter upgrade, & governance w @antoniehodge @valkenburgh @liz315 @ja_akinyele @awasunyin @hudsonjameson @benediktbuenz @str4d @nicolagreco @_lunar_mining @kaplannie @agoric @zookohttp://www.zeroknowledge.fm/32\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 17,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1014903743563825153": {
+            "id": "1014903743563825153",
+            "text": "Also featuring @kaplannie",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1014645401838870529": {
+            "id": "1014645401838870529",
+            "text": "Missed @_lunar_mining in that tweet! Catch her interview in this weeks ep!",
+            "username": "zeroknowledgefm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1014578637897691136": {
+            "id": "1014578637897691136",
+            "text": "This week, we cover #Zcon0 !! Find out what went down through our interviews with these wonderful folks:  @antoniehodge @valkenburgh @liz315 @ja_akinyele @awasunyin @hudsonjameson @benediktbuenz @agoric @str4d @nicolagreco @zookohttp://www.zeroknowledge.fm/32\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 41,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1011975095437406208": {
+            "id": "1011975095437406208",
+            "text": "This week we go full Blockchain101! In this episode,  @annarrose and @fredhrson cover the basics and explore what makes up the blocks and block headers  http://www.zeroknowledge.fm/31\u00a0 #merkletree #hashing #blockchain101 #techeducation",
+            "username": "zeroknowledgefm",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1011671427471302656": {
+            "id": "1011671427471302656",
+            "text": "Credit for the ideas in this article needs to be extended to the original interviewees - thx @danfinlay @avsa @ricburton @PhABCD @JonnyAustinTX @fubuloubu @sdtsui",
+            "username": "zeroknowledgefm",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1011568812385341440": {
+            "id": "1011568812385341440",
+            "text": "If you are thinking about UX and Blockchain - here is a quick read we put together with @ethereumecf . Based on our interviews at the UX Unconference back in May, we identified some pain points in blockchain UX - https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d\u00a0\u2026 #uxdesign #ethereum",
+            "username": "zeroknowledgefm",
+            "num_likes": 47,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1011308612587851780": {
+            "id": "1011308612587851780",
+            "text": "We are in Montreal for Zcon0 !!! Can't wait for 3 days of Zcash talk, #ZeroKnowledgeProofs and chatting with tons of awesome ppl! We will be recording an event podcast. If you are around - come say hi!! cc: @ZcashFoundation @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1011213306978357248": {
+            "id": "1011213306978357248",
+            "text": "In this week's episode, we kick off a conversation with @jackdurose and @mathsguy from @joincolony about their findings regarding governance in a decentralised team, rewarding contributions and open organizations. http://www.zeroknowledge.fm/30\u00a0 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1008633266436476928": {
+            "id": "1008633266436476928",
+            "text": "Thanks for sharing the episode!  It was a trip for us to hear this story first hand from @thegrifft and we are pretty excited that we could share this with you.https://twitter.com/MyCrypto/status/1008451474236452864\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1007581467814359040": {
+            "id": "1007581467814359040",
+            "text": "We will heading to Montreal from June 25-28 for @ZcashFoundation 's #Zcon0 !! in the meantime, be sure to brush up on your Zero Knowledgeness https://twitter.com/zeroknowledgefm/status/986940260096634881\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1006866020718563330": {
+            "id": "1006866020718563330",
+            "text": "Latest episode of ZeroKnowledge is out!! With @thegrifft talking about #theDAO, the white hat hacker group and @Givethio - This story kept us on the edge of our seat and we've been really excited to share this one http://www.zeroknowledge.fm/29\u00a0 #giveth #whg cc:@fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1004394298736029696": {
+            "id": "1004394298736029696",
+            "text": "Ya! best zero knowledge answer of the day!https://twitter.com/nanexcool/status/1004371586542178304\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1004294038856654848": {
+            "id": "1004294038856654848",
+            "text": "This week, @AnnaRRose chats w the awesome ppl & projects @ethbuenosaires  - @cryptowanderer @ethstatus @licuende @AragonProject @MakerDAO @komodoman @liamihorne @nanexcool @gomox_ar @crypt0glitter @pfletcherhill @eordano http://Chainsafe.io\u00a0 http://www.zeroknowledge.fm/28\u00a0pic.twitter.com/vVOnTn8eZb",
+            "username": "zeroknowledgefm",
+            "num_likes": 32,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1004288868969996288": {
+            "id": "1004288868969996288",
+            "text": "Oh cool! missed this earlier tweet - loved meeting you guys :)https://twitter.com/stephanoula96/status/1001831581651275776\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1001881740179394560": {
+            "id": "1001881740179394560",
+            "text": "Coming to you all the way from #buenosaires- we sit down w @facuspagnuolo & @demibrener from the @ZeppelinOrg team to chat about developer experience, upgradability, @zeppelin_os + openZeppelin - the products they developed to make smart contracts saferhttp://www.zeroknowledge.fm/27\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 35,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "999308513137647616": {
+            "id": "999308513137647616",
+            "text": "This week's episode goes deep on WebAssembly - @fredhrson sits down with @lrettig and @alexberegszaszi from the @ethereum eWasm team to explore why Wasm was chosen for Ethereum & what it means to switch instructions sets http://www.zeroknowledge.fm/26\u00a0 #Wasm #WebAssembly",
+            "username": "zeroknowledgefm",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "996766862229889025": {
+            "id": "996766862229889025",
+            "text": "Also quick announcement - we are officially moving release day to Wednesday going forward !",
+            "username": "zeroknowledgefm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "996766534650486786": {
+            "id": "996766534650486786",
+            "text": "Happy to have @phildaian back on the podcast this week! We continue our chat about cryptocommodities & storage rent and explore why kicking the \u201cstorage rent\u201d can down the proverbial road will only mean eventually kicking the bucket :Phttp://www.zeroknowledge.fm/25\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "994948701037760512": {
+            "id": "994948701037760512",
+            "text": "This week's episode is out! In it, we interview some of the participants of last week's #uxunconf in Toronto about the state of #blockchain UX - thx @MaciejHirsz @danfinlay @avsa @ricburton @PhABCD @JonnyAustinTX @fubuloubu @sdtsui & @derek_sys -http://www.zeroknowledge.fm/24\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 21,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "994764836004298752": {
+            "id": "994764836004298752",
+            "text": "This week's ep is on its way, will land tomorrow :)",
+            "username": "zeroknowledgefm",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "993475002237374465": {
+            "id": "993475002237374465",
+            "text": "After much of the security focused conversations that went down at #Edcon and #web3uxunconf seemed timely to re-visit this security/audit deep dive we did a few months ago with JP from @trailofbitshttp://www.zeroknowledge.fm/16\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "992432870403792896": {
+            "id": "992432870403792896",
+            "text": "This week\u2019s ep goes Blockchain 101: we cover the ins and outs of setting up a full node from scratch with @Tbaut, leading community support @ParityTech http://www.zeroknowledge.fm/23\u00a0 #lightclient #mining #blockchain cc @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "989809220529815553": {
+            "id": "989809220529815553",
+            "text": "Thanks to @b9lab, @8bitpal & @HitchensRob share their experience building educational material for blockchain developers and how this kind of education differs from the usual dev training. http://www.zeroknowledge.fm/22\u00a0 #techeducation #teched",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "986940260096634881": {
+            "id": "986940260096634881",
+            "text": "In this weeks episode, we finally dive into our namesake topic!! We share some examples of zero knowledge proofs and the underlying features of this important field of research http://www.zeroknowledge.fm/21\u00a0 cc: @AnnaRRose, @fredhrson #zeroknowledgeproofs",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "986661218676027392": {
+            "id": "986661218676027392",
+            "text": "Meant to include the link to that awesome ep - here it is:http://www.zeroknowledge.fm/20\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "986621958916923393": {
+            "id": "986621958916923393",
+            "text": "Last week's episode of the @zeroknowledgefm podcast had @fredhrson speaking with @jon_choi_ about what the @ethereum foundation grants are and more #decentralisedweb #ethereumfoundation",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "986530494627053569": {
+            "id": "986530494627053569",
+            "text": "Catch Jack Fransham and @tomaka17 from @ParityTech presenting their latest work on Libp2p at the #zk0x01 conferencehttps://youtu.be/VJ7a2-osJIU\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "986198895981187072": {
+            "id": "986198895981187072",
+            "text": "A deep dive into the libsnark framework with @1HowardWufrom @CalBlockchain & @DekryptCapital https://www.youtube.com/watch?v=Hig_1ZFbWRM\u00a0\u2026 #libsnark #zksnarks #zeroknowledge #techeducation",
+            "username": "zeroknowledgefm",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "985866733461430273": {
+            "id": "985866733461430273",
+            "text": "In Case you missed the #zk0x01 event in Berlin a few weeks ago, have a look at some of our videos on our Youtube channel https://www.youtube.com/channel/UCYWsYz5cKw4wZ9Mpe4kuM_g\u00a0\u2026 #blockchain #techeducation #zeroknowledge",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "984770669954191360": {
+            "id": "984770669954191360",
+            "text": "A few weeks ago, coming back from the @ethereum sharding workshop in Taiwan, Fredrik shared the sharding progress update at #zk0x01 - Check it out here: https://www.youtube.com/watch?v=f_erfJr6a7o\u00a0\u2026 cc: @fredhrson @ParityTech @ethereum",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "984464773621403648": {
+            "id": "984464773621403648",
+            "text": "Check out our latest!https://twitter.com/fredhrson/status/984441899296714752\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "981948803216498688": {
+            "id": "981948803216498688",
+            "text": "Catch this #zk0x01 talk from @adrian_brink of the @cosmos project presenting the Four Dimensions of Blockchain Scaling https://youtu.be/GYkfsaS3VaM\u00a0 - great framework to use when thinking about the challenges of scaling. ",
+            "username": "zeroknowledgefm",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "981946869571080192": {
+            "id": "981946869571080192",
+            "text": "Check out the latest episode, where we discuss our recent #ZK0x01 Summit, sharding, testnets and ASIC resistance with our old pal Jack Fransham. http://www.zeroknowledge.fm/19\u00a0 cc: @fredhrson @AnnaRRose @meatwithdreams",
+            "username": "zeroknowledgefm",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "981131118081650689": {
+            "id": "981131118081650689",
+            "text": "This video landed a bit late: but check @fredhrson 's \"Running Rust contracts on Kovan with WASM\" presentation at @ETHCC earlier in March. #ethereum #ethcc #livedemo #wasm #webassemblyhttps://www.reddit.com/r/ethdev/comments/87qzxw/how_to_run_smart_contracts_in_rust_on_kovan_with/\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "980766934030585856": {
+            "id": "980766934030585856",
+            "text": "Watch Zero Knowledge: The Road to Wide-Spread Adoption with @verbine from Berlin @innovation_vc at #zk0x01 https://youtu.be/OylWtiIKt8Q\u00a0 #zeroknowledge #gdprcompliance",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "980058238187171841": {
+            "id": "980058238187171841",
+            "text": "Stay tuned for an ep where we dive deeper into the concept of \"rent\" on the blockchain but in the meantime, catch @fredhrson chatting about it at Taipei Ethereum Meetup.https://twitter.com/Cyrus/status/979855454128939008\u00a0\u2026",
+            "username": "zeroknowledgefm",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "979710220900487168": {
+            "id": "979710220900487168",
+            "text": "The Parity Bridge workshop with Max @raumkurve from @ParityTech at last week's #zk0x01 - Zero Knowledge Summit. Learn how the bridges are currently working, what is in the pipeline and how they could be used in the future ! https://youtu.be/2kH5wEQ5fs0\u00a0 #blockchain #web3",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "979029877264396288": {
+            "id": "979029877264396288",
+            "text": "Watch @1HowardWu Rise of the SNARKs talk at #zk0x01 - a look at zk-snarks and the libsnark library #zksummit @CalBlockchain https://www.youtube.com/watch?v=Hig_1ZFbWRM\u00a0\u2026 \u2026 #zeroknowledge",
+            "username": "zeroknowledgefm",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "978539046472437760": {
+            "id": "978539046472437760",
+            "text": "Watch @str4d presenting a super useful high-level intro to zero knowledge proofs at #zk0x01 #zksummit @zcashco @AnnaRRose https://www.youtube.com/watch?v=Y9YgRDJAFEE\u00a0\u2026 #zeroknowledge",
+            "username": "zeroknowledgefm",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "978339857603981312": {
+            "id": "978339857603981312",
+            "text": "Check out last week's Zero Knowledge podcast episode: @fredhrson hosts @karl_dot_tech and @phildaian talking about the Plasma scaling solution #zeroknowledge #sharding #scaling",
+            "username": "zeroknowledgefm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "977167112685932544": {
+            "id": "977167112685932544",
+            "text": "Zero Knowledge Summit is happening right now! #ZK0x01 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "AnnaRRose": 20,
+        "hxrts": 1,
+        "1HowardWu": 2,
+        "nopainkiller": 1,
+        "neufundorg": 1,
+        "jbaylina": 1,
+        "ljxie": 2,
+        "StarkWareLtd": 2,
+        "aztecprotocol": 1,
+        "CryptiumLabs": 1,
+        "stellarmagnet": 1,
+        "identhree": 1,
+        "the_matter_labs": 1,
+        "MartinLundfall": 1,
+        "MaciejHirsz": 1,
+        "fredhrson": 5,
+        "gitcoin": 3,
+        "dannyryan": 1,
+        "EthereumDenver": 1,
+        "austingriffith": 1,
+        "jennaszenk": 1,
+        "zcashco": 1,
+        "mudgen": 1,
+        "TheJoshalosh": 1,
+        "NuCypher": 1,
+        "Ray_Hashmoto": 1,
+        "vsinghdothings": 1,
+        "TheTwistedDigit": 1,
+        "fubuloubu": 1,
+        "conlan": 1,
+        "gerardo_io": 1,
+        "pedrouid": 1,
+        "MissingNo_BS": 1,
+        "gakonst": 1,
+        "EliBenSasson": 1,
+        "NathanSexer": 1,
+        "posth": 1,
+        "EthereumNetw": 2,
+        "GETJolocom": 1,
+        "seven7hwave": 1,
+        "adamSoffer": 1,
+        "FrancescoRenziA": 1,
+        "ashleighschap": 1,
+        "ChainSafeth": 1,
+        "urlichsanais": 1,
+        "hosseeb": 1,
+        "peter_szilagyi": 1,
+        "VladZamfir": 1,
+        "elliot_olds": 1,
+        "juanfornell": 1,
+        "decentralistdan": 1,
+        "a13xndra": 5,
+        "r_Ethereum": 2,
+        "awayslice": 2,
+        "ph_lux": 1,
+        "ParityTech": 5,
+        "streamr": 1,
+        "MyCrypto": 2,
+        "richard_parris": 1,
+        "LeastAuthority": 2,
+        "poanetwork": 2,
+        "kohwi": 1,
+        "Truebitprotocol": 2,
+        "sallapf": 1,
+        "itsamyjung": 2,
+        "beamprivacy": 1,
+        "paulkhls": 1,
+        "adrian_brink": 1,
+        "AdjyLeak": 2,
+        "pstehlik": 1,
+        "AmandineFlachs": 1,
+        "DekryptCapital": 2,
+        "cosmos": 1,
+        "zklabs": 1,
+        "work_blockchain": 1,
+        "AshleyLannquist": 1,
+        "Mitch_Kosowski": 2,
+        "kobigurk": 1,
+        "juliankoh": 1,
+        "layr2_": 1,
+        "gautier_md": 1,
+        "JustinYarrow": 1,
+        "zooko": 1,
+        "Sciblockchain": 1,
+        "yoelopio": 1,
+        "koholaa": 1,
+        "golemproject": 2,
+        "robbiebent1": 1,
+        "ETHBerlin": 2,
+        "avsa": 1,
+        "Givethio": 1,
+        "maurelian_": 1,
+        "OmerShlomovits": 1,
+        "pepyakin": 1,
+        "CarnegieLemon": 1,
+        "mariatvidal": 1,
+        "vanderkriek": 1,
+        "WasmWeekly": 1,
+        "ethereum": 1,
+        "Tbaut": 1,
+        "Cyrus": 2,
+        "rhian_is": 1,
+        "raumkurve": 1,
+        "niraj": 1
+    },
+    "users_retweeted": [
+        "AnnaRRose",
+        "fredhrson",
+        "a13xndra",
+        "ParityTech",
+        "gitcoin",
+        "1HowardWu",
+        "ljxie",
+        "StarkWareLtd",
+        "EthereumNetw",
+        "r_Ethereum",
+        "awayslice",
+        "MyCrypto",
+        "LeastAuthority",
+        "poanetwork",
+        "Truebitprotocol",
+        "itsamyjung",
+        "AdjyLeak",
+        "DekryptCapital",
+        "Mitch_Kosowski",
+        "golemproject",
+        "ETHBerlin",
+        "Cyrus",
+        "hxrts",
+        "nopainkiller",
+        "neufundorg",
+        "jbaylina",
+        "aztecprotocol",
+        "CryptiumLabs",
+        "stellarmagnet",
+        "identhree",
+        "the_matter_labs",
+        "MartinLundfall",
+        "MaciejHirsz",
+        "dannyryan",
+        "EthereumDenver",
+        "austingriffith",
+        "jennaszenk",
+        "zcashco",
+        "mudgen",
+        "TheJoshalosh",
+        "NuCypher",
+        "Ray_Hashmoto",
+        "vsinghdothings",
+        "TheTwistedDigit",
+        "fubuloubu",
+        "conlan",
+        "gerardo_io",
+        "pedrouid",
+        "MissingNo_BS",
+        "gakonst",
+        "EliBenSasson",
+        "NathanSexer",
+        "posth",
+        "GETJolocom",
+        "seven7hwave",
+        "adamSoffer",
+        "FrancescoRenziA",
+        "ashleighschap",
+        "ChainSafeth",
+        "urlichsanais",
+        "hosseeb",
+        "peter_szilagyi",
+        "VladZamfir",
+        "elliot_olds",
+        "juanfornell",
+        "decentralistdan",
+        "ph_lux",
+        "streamr",
+        "richard_parris",
+        "kohwi",
+        "sallapf",
+        "beamprivacy",
+        "paulkhls",
+        "adrian_brink",
+        "pstehlik",
+        "AmandineFlachs",
+        "cosmos",
+        "zklabs",
+        "work_blockchain",
+        "AshleyLannquist",
+        "kobigurk",
+        "juliankoh",
+        "layr2_",
+        "gautier_md",
+        "JustinYarrow",
+        "zooko",
+        "Sciblockchain",
+        "yoelopio",
+        "koholaa",
+        "robbiebent1",
+        "avsa",
+        "Givethio",
+        "maurelian_",
+        "OmerShlomovits",
+        "pepyakin",
+        "CarnegieLemon",
+        "mariatvidal",
+        "vanderkriek",
+        "WasmWeekly",
+        "ethereum",
+        "Tbaut",
+        "rhian_is",
+        "raumkurve",
+        "niraj"
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "is_complete": true,
+    "username": "naterush1997",
+    "retweeted": {
+        "1121445514858455040": {
+            "id": "1121445514858455040",
+            "text": "Missed the Second Annual Penn Blockchain Conference? Want to listen to it again? No Worries! Follow this thread for links to all of our sessions! We are deeply grateful to our speakers and sponsors for making the conference a success! #pbconference @Penn @Wharton",
+            "username": "PennBlockchain",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1118266104433057799": {
+            "id": "1118266104433057799",
+            "text": "Finally restarted @conspiratus_, my _other_ podcast I do with @naterush1997. Take a listen!https://youtube.com/watch?v=8yCD3a1Izhw\u00a0\u2026",
+            "username": "sunnya97",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1119709859979714560": {
+            "id": "1119709859979714560",
+            "text": "One of my most controversial software opinions is that your sleep quality and stress level matter far, far more than the languages you use or the practices you follow. Nothing else comes close: not type systems, not TDD, not formal methods, not ANYTHING.\n\nAllow me to explain why.",
+            "username": "hillelogram",
+            "num_likes": 13551,
+            "num_retweets": 5815,
+            "num_replies": 191
+        },
+        "1096874699060101121": {
+            "id": "1096874699060101121",
+            "text": "Part 4 of \"Looking back at the Ethereum 1x workshop 26\u201328.01.2019. More on state reads, and thoughts on block gas limit increase;https://medium.com/@akhounov/looking-back-at-the-ethereum-1x-workshop-26-28-01-2019-part-4-a69b48e14309\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 23,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1075432571750752257": {
+            "id": "1075432571750752257",
+            "text": "Latest episode of Zero Knowledge has @fredhrson catching up with Martin Holst Swende for a Core Dev 1:1 - they chat about what got him into the space, his interest in @ethereum security, & his entry into blockchain development https://www.zeroknowledge.fm/56\u00a0 #blockchain #ethereum",
+            "username": "zeroknowledgefm",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1070822815006318592": {
+            "id": "1070822815006318592",
+            "text": "My attempt at explaining CBC Casper:\n\nhttps://vitalik.ca/general/2018/12/05/cbc_casper.html\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 758,
+            "num_retweets": 217,
+            "num_replies": 82
+        },
+        "1067473971560542209": {
+            "id": "1067473971560542209",
+            "text": "I discuss Ethereum 2.0 and VDFs on the @epicenterbtc showhttps://www.youtube.com/watch?v=QDwaAnhSJk8\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 63,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1066972879005392897": {
+            "id": "1066972879005392897",
+            "text": "Pre-EIP State rent document can be discussed here:\nhttps://ethresear.ch/t/ethereum-state-rent-for-eth-1-x-pre-eip-document/4378\u00a0\u2026\nhttps://ethereum-magicians.org/t/ethereum-state-rent-for-eth-1-x-pre-eip-document/2018\u00a0\u2026\nThe actual doc is here:https://github.com/ledgerwatch/eth_state/blob/master/State_rent.pdf\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 55,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1061123368211046400": {
+            "id": "1061123368211046400",
+            "text": "CBC Casper wants to make blockchain consensus formal, secure and open. @VladZamfir @naterush1997 @adiasg and G. Piliouras recently released a proof-heavy introduction to its specifications. I tried to translate the maths with pictures and explanations!https://medium.com/@barnabe/partially-explained-casper-cbc-specs-86d055fd0628\u00a0\u2026",
+            "username": "barnabemonnot",
+            "num_likes": 87,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "1060998315167297536": {
+            "id": "1060998315167297536",
+            "text": "Check out my \u201cCasper CBC, Simplified\u201d blog post https://medium.com/@aditya.asgaonkar/casper-cbc-simplified-2370922f9aa6\u00a0\u2026",
+            "username": "adiasg",
+            "num_likes": 147,
+            "num_retweets": 47,
+            "num_replies": 3
+        },
+        "1060077003649372160": {
+            "id": "1060077003649372160",
+            "text": "I wrote a detailed post on differences between @nearprotocol and @ethereum Serenity.\n\nhttps://medium.com/nearprotocol/3e2cfa2f960c\u00a0\u2026\n\nAs part of it I described some less known details of Serenity beacon chain consensus, e.g. that it reaches a byzantine consensus among ~400k participants!",
+            "username": "AlexSkidanov",
+            "num_likes": 44,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1059091271216549889": {
+            "id": "1059091271216549889",
+            "text": " @naterush1997 @adiasg Georgios Piliouras and I published a draft paper covering CBC Casper in much more excruciating detail than has been available until now! Check it out!!https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 347,
+            "num_retweets": 92,
+            "num_replies": 12
+        },
+        "953430807783251968": {
+            "id": "953430807783251968",
+            "text": "Check out the Conspiratus Podcast, a new podcast @naterush1997 and I just launched in which we will be discussing the blockchain protocols, cryptoeconomic fundamentals, and other cool decentralized tech!https://www.youtube.com/watch?v=LL5pRC87gaA\u00a0\u2026",
+            "username": "sunnya97",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "944094603052957697": {
+            "id": "944094603052957697",
+            "text": "Blockchains provide the infrastructure for ubiquitous financial nudge for worker swarms (ie. Uber\u2019s gamification for drivers). Capacities like this are intellectually fascinating and ethically horrifying. The eventual outcomes are unpredictable and likely mixed.",
+            "username": "malloc8",
+            "num_likes": 84,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "924699232686264320": {
+            "id": "924699232686264320",
+            "text": "I just published \u201cAnnouncing QuickBlocks\u00ae\u201dhttps://medium.com/p/announcing-quickblocks-861c4f0c6a52\u00a0\u2026",
+            "username": "quickblocks",
+            "num_likes": 18,
+            "num_retweets": 10,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1053787766197288962": {
+            "id": "1053787766197288962",
+            "text": "Check out how to make Ethereum's Bloom filters totally useless for only .3 USD per block :)\n\nGiven recent conversations about Blooms, might be interesting @nicksdjohnson @VladZamfir @VitalikButerinhttps://twitter.com/kelvinfichter/status/1053786742606696448\u00a0\u2026",
+            "username": "naterush1997",
+            "num_likes": 41,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1051217904014938112": {
+            "id": "1051217904014938112",
+            "text": "Does anyone know a second layer scaling solution (e.g. channels, plasma, etc) that requires no interactivity from users (or watchtowers) to provide guarantees about users funds not being stolen?",
+            "username": "naterush1997",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "963830322919038976": {
+            "id": "963830322919038976",
+            "text": "Come for the interesting discussion, stay for the ~amazing~ production quality :) . Thanks again to @VladZamfir and @ArthurB for coming on!https://twitter.com/conspiratus_/status/963823262403825664\u00a0\u2026",
+            "username": "naterush1997",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "939262072768036864": {
+            "id": "939262072768036864",
+            "text": "S/O to my dad for writing an article that really amazingly illustrates Ethereum's insane growth recently: https://medium.com/@tjayrush/playing-with-blocks-57870e284906\u00a0\u2026\n\nAs a side note, we should figure out (on-chain) blockchain scaling ASAP :)",
+            "username": "naterush1997",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "PennBlockchain": 2,
+        "sunnya97": 4,
+        "hillelogram": 2,
+        "realLedgerwatch": 4,
+        "zeroknowledgefm": 2,
+        "VitalikButerin": 2,
+        "drakefjustin": 2,
+        "barnabemonnot": 2,
+        "adiasg": 2,
+        "AlexSkidanov": 2,
+        "VladZamfir": 2,
+        "malloc8": 2,
+        "quickblocks": 2
+    },
+    "users_retweeted": [
+        "sunnya97",
+        "realLedgerwatch",
+        "PennBlockchain",
+        "hillelogram",
+        "zeroknowledgefm",
+        "VitalikButerin",
+        "drakefjustin",
+        "barnabemonnot",
+        "adiasg",
+        "AlexSkidanov",
+        "VladZamfir",
+        "malloc8",
+        "quickblocks"
+    ]
+}

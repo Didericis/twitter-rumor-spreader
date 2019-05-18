@@ -1,0 +1,64 @@
+{
+    "is_complete": true,
+    "username": "vwuestholz",
+    "retweeted": {
+        "1102990779230769152": {
+            "id": "1102990779230769152",
+            "text": "MythX is here! Our public beta has now launched. For a limited time, you can use our security analysis service for your smart contracts free of charge. We can't wait to have you try it out! More info here: https://medium.com/consensys-diligence/mythx-is-real-f3fafd86685e\u00a0\u2026pic.twitter.com/WFs2b9ikn0",
+            "username": "mythx_platform",
+            "num_likes": 48,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "1080826874643664896": {
+            "id": "1080826874643664896",
+            "text": "Introduction to Mythril Classic and Symbolic Execution by Joran Honighttps://link.medium.com/3XYuNke6aT\u00a0",
+            "username": "muellerberndt",
+            "num_likes": 23,
+            "num_retweets": 11,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1072883876123557888": {
+            "id": "1072883876123557888",
+            "text": "Just published the first article in a new series that will cover program analysis techniques for finding vulnerabilities in smart contracts: https://link.medium.com/20ysafkIAS\u00a0.",
+            "username": "vwuestholz",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1090911942737362944": {
+            "id": "1090911942737362944",
+            "text": "Published an article on detecting deep vulnerabilities in smart contracts using Harvey: https://link.medium.com/pFqM9dQhVT\u00a0.",
+            "username": "vwuestholz",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1082579611580547072": {
+            "id": "1082579611580547072",
+            "text": "Just published an article on fuzzing of smart contracts using a novel input prediction technique: https://link.medium.com/eLAPPpK7iT\u00a0.",
+            "username": "vwuestholz",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1125488122316369922": {
+            "id": "1125488122316369922",
+            "text": "Just published another article on Harvey and how to detect reentrancy vulnerabilities in smart contracts using fuzzing: https://link.medium.com/dOOISN8DtW\u00a0.",
+            "username": "vwuestholz",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "mythx_platform": 2,
+        "muellerberndt": 2
+    },
+    "users_retweeted": [
+        "mythx_platform",
+        "muellerberndt"
+    ]
+}

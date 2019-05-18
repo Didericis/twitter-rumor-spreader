@@ -1,0 +1,1348 @@
+{
+    "is_complete": true,
+    "username": "bitcoincoreorg",
+    "retweeted": {
+        "1007981116136022017": {
+            "id": "1007981116136022017",
+            "text": "The @bitcoincoreorg download page now provides instructions to help you verify your Bitcoin Core download.  https://bitcoincore.org/en/download/\u00a0\n\nThanks to @kallerosenbaum for suggesting an improvement, and to PR reviewers @kallerosenbaum, @bitstein, @MarcoFalke, BlockchainBilly, & @orionwl.pic.twitter.com/1TUdCXn8Vu",
+            "username": "hrdng",
+            "num_likes": 265,
+            "num_retweets": 78,
+            "num_replies": 49
+        },
+        "951193828446191616": {
+            "id": "951193828446191616",
+            "text": "Bitcoin Core Git Stats 2017:\n\n- Total pull requests created: 1'843 (~5 per day)\n\n- Merged pull requests: 1'195 (~3.27 per day)\n\n- GitHub comments/reviews: 21'153 (~57.95 per day)\n\n- Commits: 3'277 (~8.98 per day)\n\n- Git contributors (merged code): 161\n\n- GitHub contributors: 713",
+            "username": "_jonasschnelli_",
+            "num_likes": 1483,
+            "num_retweets": 562,
+            "num_replies": 131
+        },
+        "895001072317616128": {
+            "id": "895001072317616128",
+            "text": "A toast to the man who made a concrete proposal for #SegWit and then implemented most of it.pic.twitter.com/hm0bm17ILo",
+            "username": "eric_lombrozo",
+            "num_likes": 1396,
+            "num_retweets": 370,
+            "num_replies": 74
+        },
+        "841747139541770240": {
+            "id": "841747139541770240",
+            "text": "Reviewing, testing and maintenance are the most important duties to be done by a blockchain developer team. A slide from a recent talk:pic.twitter.com/CSkIexgHsd",
+            "username": "_jonasschnelli_",
+            "num_likes": 99,
+            "num_retweets": 55,
+            "num_replies": 11
+        },
+        "824289365195182080": {
+            "id": "824289365195182080",
+            "text": "Wondering what #SegWit means for #TREZOR? How will it help hardware wallets? Explore the topic on our blog! \nhttps://blog.trezor.io/what-segregated-witness-means-for-trezor-808c790a05bd#\u00a0\u2026pic.twitter.com/44V0TVYjY7",
+            "username": "Trezor",
+            "num_likes": 122,
+            "num_retweets": 77,
+            "num_replies": 8
+        },
+        "822383978879406080": {
+            "id": "822383978879406080",
+            "text": "Electrum just made its first #Segwit transaction (P2PKH nested in P2SH)https://testnet.smartbit.com.au/tx/c21d7b8ae6078a269b1d0a6f203f74e129a65e0109544e0820ef1b7f4a42a976\u00a0\u2026",
+            "username": "ElectrumWallet",
+            "num_likes": 168,
+            "num_retweets": 127,
+            "num_replies": 4
+        },
+        "818396084569538560": {
+            "id": "818396084569538560",
+            "text": "#Bitcoin Core 2016\n 517 Github contributors\n 47 Git contributors\n 1\u2019637 commits ~4.5/day\n 1\u2019563 PRs created\n 15\u2019208 Github comments ~41/day",
+            "username": "_jonasschnelli_",
+            "num_likes": 173,
+            "num_retweets": 118,
+            "num_replies": 4
+        },
+        "811408111432937472": {
+            "id": "811408111432937472",
+            "text": "Bitcoin FIBRE rebased on 0.13.2 with new FEC that is better, faster, cleaner (not to mention more testing)https://github.com/bitcoinfibre/bitcoinfibre/releases/tag/v0.13.2rc1-fibre0.5b1\u00a0\u2026",
+            "username": "TheBlueMatt",
+            "num_likes": 76,
+            "num_retweets": 47,
+            "num_replies": 0
+        },
+        "810037745397755904": {
+            "id": "810037745397755904",
+            "text": "The Lightning Network spec draft is almost done, and we're looking for community feedback (theme song included)!https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md\u00a0\u2026",
+            "username": "lightning",
+            "num_likes": 170,
+            "num_retweets": 138,
+            "num_replies": 4
+        },
+        "808373384971227136": {
+            "id": "808373384971227136",
+            "text": "Here's the badge I designed for SegWit. Credit to @SamouraiWallet for the idea! Available from http://segwit.co\u00a0 @bitcoincoreorgpic.twitter.com/Es5nFjbUMA",
+            "username": "albertdrosphoto",
+            "num_likes": 119,
+            "num_retweets": 51,
+            "num_replies": 3
+        },
+        "807877488906878976": {
+            "id": "807877488906878976",
+            "text": "Shanghai #Bitcoin meetup with @bitcoincoreorg devs @johnsonlau01 talking consensus & @TheBlueMatt talking about FIBRE. Full house!pic.twitter.com/yALyCdyDVQ",
+            "username": "Excellion",
+            "num_likes": 72,
+            "num_retweets": 42,
+            "num_replies": 3
+        },
+        "807522023668727808": {
+            "id": "807522023668727808",
+            "text": "Core contributor Johnson explaining consenus in blockchain and open source projectspic.twitter.com/uTZPsyED4J",
+            "username": "nwoodfine",
+            "num_likes": 32,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "807522841826447360": {
+            "id": "807522841826447360",
+            "text": "Core devs Johnson and Matt with Bitpie's Wen Hao and Yuanbao's Hepta covering tough tech questions from the audiencepic.twitter.com/V2QdrcbMo3",
+            "username": "nwoodfine",
+            "num_likes": 26,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "805084401495248896": {
+            "id": "805084401495248896",
+            "text": "Exciting to see @bitcoincoreorg coming to #China to meet with the community. #bitcoin #segwit #moonpic.twitter.com/0zBAj108rX",
+            "username": "Excellion",
+            "num_likes": 76,
+            "num_retweets": 46,
+            "num_replies": 7
+        },
+        "800752285781327872": {
+            "id": "800752285781327872",
+            "text": "Bitcoin 2015-2016, P2SH transactions vs Regular trx in proportions\nhttp://i.imgur.com/uoyCxlV.png\u00a0\nby @BitFuryGroup Analyticspic.twitter.com/Gk8RPYsIq4",
+            "username": "sysmannet",
+            "num_likes": 37,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "797816953469632512": {
+            "id": "797816953469632512",
+            "text": "Bitcoin's Security Model: A Deep Dive http://www.coindesk.com/bitcoins-security-model-deep-dive\u00a0\u2026pic.twitter.com/AObA6U1ksa",
+            "username": "coindesk",
+            "num_likes": 31,
+            "num_retweets": 42,
+            "num_replies": 1
+        },
+        "799680701645799425": {
+            "id": "799680701645799425",
+            "text": "We are ready for SegWit and Bitcoin Core 0.13.1. Upgraded and monitoring activation progress.",
+            "username": "bitfinex",
+            "num_likes": 121,
+            "num_retweets": 76,
+            "num_replies": 1
+        },
+        "799129612525518849": {
+            "id": "799129612525518849",
+            "text": "I'm fired UP that @YourBTCC, one of the largest exchanges & mining pools in the world, is now #SegWit ready. Let's Make Bitcoin Great Again!",
+            "username": "Excellion",
+            "num_likes": 162,
+            "num_retweets": 68,
+            "num_replies": 7
+        },
+        "797463918092414976": {
+            "id": "797463918092414976",
+            "text": "What's Left Before Bitcoin's Lightning Network Goes Live http://www.coindesk.com/whats-left-bitcoins-lightning-network-goes-live\u00a0\u2026pic.twitter.com/nbYzR0jLU8",
+            "username": "coindesk",
+            "num_likes": 32,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "797134477017411584": {
+            "id": "797134477017411584",
+            "text": "One in Four Bitcoin Nodes Are Now Upgraded for SegWit http://www.coindesk.com/one-four-bitcoin-nodes-now-upgraded-segwit\u00a0\u2026pic.twitter.com/HauJtpUbsZ",
+            "username": "coindesk",
+            "num_likes": 54,
+            "num_retweets": 50,
+            "num_replies": 1
+        },
+        "794480289519124480": {
+            "id": "794480289519124480",
+            "text": "A patch for an experimental full block hybrid SPV mode for #bitcoin-core. Use SPV while syncing your full node.https://github.com/bitcoin/bitcoin/pull/9076\u00a0\u2026",
+            "username": "_jonasschnelli_",
+            "num_likes": 56,
+            "num_retweets": 31,
+            "num_replies": 3
+        },
+        "793888629559005184": {
+            "id": "793888629559005184",
+            "text": "How Segregated Witness Is About to Fix Hardware Wallets http://btcm.ag/segwithd\u00a0 #bitcoin #blockchainpic.twitter.com/IeMHHYeHIH",
+            "username": "BitcoinMagazine",
+            "num_likes": 79,
+            "num_retweets": 74,
+            "num_replies": 1
+        },
+        "793433528008601600": {
+            "id": "793433528008601600",
+            "text": "We weren't mentioned in the article but @SamouraiDev has been getting Samourai Wallet ready for SegWit in an upcoming updatehttps://twitter.com/BitcoinMagazine/status/793156207846551552\u00a0\u2026",
+            "username": "SamouraiWallet",
+            "num_likes": 59,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "792984341542539264": {
+            "id": "792984341542539264",
+            "text": "ROKOS v7 core Bitcoin Full node 0.13.1 segwit ready for Raspberry Pi 2 3 #Bitcoin #fullnode #Blockchain #raspberrypihttps://medium.com/@OKCashCrypto/rok-os-v7-for-raspberry-pi-2-3-with-bitcoin-0-13-1-segwit-ready-released-9bdd263a3b37#.qvlezkbth\u00a0\u2026",
+            "username": "BitcoinFullnode",
+            "num_likes": 264,
+            "num_retweets": 1553,
+            "num_replies": 0
+        },
+        "793156207846551552": {
+            "id": "793156207846551552",
+            "text": "#Bitcoin Wallet Developers Prepare for Segregated Witness http://btcm.ag/segwitwa\u00a0 @breadwalletapp @BitPay @MyceliumCom @btccom_officialpic.twitter.com/eVOxK2HMxn",
+            "username": "BitcoinMagazine",
+            "num_likes": 55,
+            "num_retweets": 49,
+            "num_replies": 6
+        },
+        "793133010308562944": {
+            "id": "793133010308562944",
+            "text": "BitGo is now running Bitcoin Core 0.13.1 #segwit",
+            "username": "BitGo",
+            "num_likes": 156,
+            "num_retweets": 86,
+            "num_replies": 2
+        },
+        "792793864050397184": {
+            "id": "792793864050397184",
+            "text": "For the record, as I've stated every time I'm asked, I support SegWit and am very excited to see it being deployed. #bitcoin",
+            "username": "ErikVoorhees",
+            "num_likes": 101,
+            "num_retweets": 36,
+            "num_replies": 4
+        },
+        "792436751901921280": {
+            "id": "792436751901921280",
+            "text": "Upgraded all my bitcoin nodes to 0.13.1, ready for segwit activation",
+            "username": "aantonop",
+            "num_likes": 255,
+            "num_retweets": 116,
+            "num_replies": 14
+        },
+        "792431015927091200": {
+            "id": "792431015927091200",
+            "text": "SysMan just came back from vacation.\n@BitFuryGroup just mined block #436472 bitcoind v0.13.1 #SegWitpic.twitter.com/eC46dEt3m9",
+            "username": "sysmannet",
+            "num_likes": 52,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "791997024249974785": {
+            "id": "791997024249974785",
+            "text": "ICYMI: Segregated Witness Officially Introduced With Release of #Bitcoin Core 0.13.1 http://btcm.ag/btc0131-\u00a0 #blockchain @bitcoincoreorgpic.twitter.com/oNrKdIWk4k",
+            "username": "BitcoinMagazine",
+            "num_likes": 42,
+            "num_retweets": 42,
+            "num_replies": 1
+        },
+        "790103297365536768": {
+            "id": "790103297365536768",
+            "text": "Segwit support for @GreenAddress https://github.com/greenaddress/GreenBits/pull/174\u00a0\u2026 - short and easy with no changes since Februaryhttps://medium.com/@Ledger/segregated-witness-and-hardware-wallets-cc88ba532fb3\u00a0\u2026",
+            "username": "BTChip",
+            "num_likes": 25,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "790127984552382464": {
+            "id": "790127984552382464",
+            "text": "The next major release of @ElectrumWallet will support #segwit and payment channels. ETA: Xmas 2016",
+            "username": "ElectrumWallet",
+            "num_likes": 150,
+            "num_retweets": 96,
+            "num_replies": 4
+        },
+        "789360648593498112": {
+            "id": "789360648593498112",
+            "text": "Segwit is finally coming! No more malleability, this will be a great thing for #Bitcoinhttps://twitter.com/jackfru1t/status/788078404679692288\u00a0\u2026",
+            "username": "LocalBitcoins",
+            "num_likes": 49,
+            "num_retweets": 42,
+            "num_replies": 4
+        },
+        "785170918905618432": {
+            "id": "785170918905618432",
+            "text": "#scalingbitcoin Videos: https://www.youtube.com/channel/UCmwaDulmQtX-H8FOSQTKqMg\u00a0\u2026 , @kanzure's transcripts: http://diyhpl.us/wiki/transcripts/scalingbitcoin/milan/\u00a0\u2026",
+            "username": "orionwl",
+            "num_likes": 41,
+            "num_retweets": 39,
+            "num_replies": 1
+        },
+        "780808469238673408": {
+            "id": "780808469238673408",
+            "text": "it is good to see some independent, accurate commentary and acknowledgement for the work @bitcoincoreorg does as positive for #Bitcoin.https://twitter.com/kyletorpey/status/780802358158757889\u00a0\u2026",
+            "username": "adam3us",
+            "num_likes": 78,
+            "num_retweets": 46,
+            "num_replies": 3
+        },
+        "772754012739399681": {
+            "id": "772754012739399681",
+            "text": "Info: there will be a little \u201ehackathlon\u201c event after the #scalingbitcoin conference in Milan. Mo/Tue, 10th-11th October. More infos to come",
+            "username": "_jonasschnelli_",
+            "num_likes": 25,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "768114136618106880": {
+            "id": "768114136618106880",
+            "text": "Bitcoin Core version 0.13.0 was just released! See https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-August/013055.html\u00a0\u2026",
+            "username": "orionwl",
+            "num_likes": 60,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "766749097005027328": {
+            "id": "766749097005027328",
+            "text": "The first SegWit code is expected to be in the next bitcoin update:http://www.coindesk.com/bitcoin-software-version-0-13-0-segwit-code\u00a0\u2026",
+            "username": "coindesk",
+            "num_likes": 35,
+            "num_retweets": 54,
+            "num_replies": 2
+        },
+        "765826310795096065": {
+            "id": "765826310795096065",
+            "text": "#bitcoin BIP150 (Peer Authentication) is now available on the BIPs repository (https://github.com/bitcoin/bips/blob/master/bip-0150.mediawiki\u00a0\u2026)",
+            "username": "_jonasschnelli_",
+            "num_likes": 19,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "765584656423018496": {
+            "id": "765584656423018496",
+            "text": "Stop using PGP short IDs - known to be easy to create collisions for a while but now real attacks on Linux devs.\nhttps://lkml.org/lkml/2016/8/15/445\u00a0\u2026",
+            "username": "FredericJacobs",
+            "num_likes": 67,
+            "num_retweets": 121,
+            "num_replies": 5
+        },
+        "765275102971912192": {
+            "id": "765275102971912192",
+            "text": "The video for @roasbeef's recent Lightning Network Deep Dive talk at @SFBitcoinDevs is now up!https://youtu.be/b_szGaaPPFk\u00a0",
+            "username": "lightning",
+            "num_likes": 26,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "761681789706350592": {
+            "id": "761681789706350592",
+            "text": "California #bitcoin gathering transcript: 3 days, 80 pages, ~42,000 words http://diyhpl.us/wiki/transcripts/2016-july-bitcoin-developers-miners-meeting/cali2016/\u00a0\u2026 @bitcoincoreorg",
+            "username": "kanzure",
+            "num_likes": 72,
+            "num_retweets": 61,
+            "num_replies": 3
+        },
+        "761291552794615808": {
+            "id": "761291552794615808",
+            "text": "Transcript (July gathering): @JihanWu tech talk on #bitcoin http://diyhpl.us/wiki/transcripts/2016-july-bitcoin-developers-miners-meeting/jihan-wu-google-tech-talk/\u00a0\u2026 @google @bitcoincoreorg",
+            "username": "kanzure",
+            "num_likes": 37,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "760312956081012736": {
+            "id": "760312956081012736",
+            "text": "#ScalingBitcoin 2016: Retarget - Call for Proposals, Travel Subsidies and Sponsorship now open! https://scalingbitcoin.org\u00a0  for more info.",
+            "username": "ScalingBitcoin",
+            "num_likes": 24,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "760297796411002880": {
+            "id": "760297796411002880",
+            "text": "Transcript: A conversation with Dan Boneh about #bitcoin crypto advancements http://diyhpl.us/wiki/transcripts/2016-july-bitcoin-developers-miners-meeting/dan-boneh/\u00a0\u2026 @bitcoincoreorg",
+            "username": "kanzure",
+            "num_likes": 33,
+            "num_retweets": 31,
+            "num_replies": 5
+        },
+        "755681268902363136": {
+            "id": "755681268902363136",
+            "text": "Bitcoin core 0.13.0 release candidate 1 (test version!) is available as binary download: https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-July/000015.html\u00a0\u2026",
+            "username": "orionwl",
+            "num_likes": 56,
+            "num_retweets": 40,
+            "num_replies": 2
+        },
+        "755241138756448256": {
+            "id": "755241138756448256",
+            "text": "@roasbeef creating and sending #bitcoin in a lightning channel. 20 payments in less than 100 ms! @SFBitcoinDevspic.twitter.com/LaeujLnX7d",
+            "username": "bencxr",
+            "num_likes": 141,
+            "num_retweets": 113,
+            "num_replies": 5
+        },
+        "745518512630702081": {
+            "id": "745518512630702081",
+            "text": "CSV softfork - Important upgrade instructions for miners https://bitcoincore.org/en/2016/06/21/csv-softfork-instructions/\u00a0\u2026https://twitter.com/bitcoincoreorg/status/745245527013416961\u00a0\u2026",
+            "username": "orionwl",
+            "num_likes": 30,
+            "num_retweets": 36,
+            "num_replies": 0
+        },
+        "740586833747279872": {
+            "id": "740586833747279872",
+            "text": "BIP 151: The End-To-End Encryption Bitcoin Never Had \u2013 but Soon Will https://bitcoinmagazine.com/articles//bip-the-end-to-end-encryption-bitcoin-never-had-but-soon-will-1465401187\u00a0\u2026 via @BitcoinMagazine",
+            "username": "_jonasschnelli_",
+            "num_likes": 29,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "739943590919606272": {
+            "id": "739943590919606272",
+            "text": "Bitcoin Developers Meet in Z\u00fcrich for High-Stakes Code Review http://www.coindesk.com/zurich-bitcoin-core-scaling\u00a0\u2026pic.twitter.com/QDbLzMt8XB",
+            "username": "coindesk",
+            "num_likes": 14,
+            "num_retweets": 32,
+            "num_replies": 0
+        },
+        "735519398014881792": {
+            "id": "735519398014881792",
+            "text": "New BIP Would Enable Better Privacy, Cross Blockchain Exchange, TrustFree Betting, and More for #Bitcoinhttp://ow.ly/YEvO300A0OI\u00a0",
+            "username": "CoinJournal",
+            "num_likes": 20,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "728558630778380288": {
+            "id": "728558630778380288",
+            "text": "Dazed and confused, but trying to continue https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html\u00a0\u2026",
+            "username": "orionwl",
+            "num_likes": 148,
+            "num_retweets": 112,
+            "num_replies": 34
+        },
+        "727078284345917441": {
+            "id": "727078284345917441",
+            "text": "FYI, @gavinandresen's commit access just got removed - Core team members are concerned that he may have been hacked. https://news.ycombinator.com/item?id=11609707\u00a0\u2026",
+            "username": "peterktodd",
+            "num_likes": 224,
+            "num_retweets": 263,
+            "num_replies": 27
+        },
+        "723541738682486784": {
+            "id": "723541738682486784",
+            "text": "This #Bitcoin Developer Is Working Hard to Prepare Projects for Segregated Witness http://btcm.ag/dor\u00a0pic.twitter.com/rccpPYK6Qe",
+            "username": "BitcoinMagazine",
+            "num_likes": 36,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "715224634250170369": {
+            "id": "715224634250170369",
+            "text": "Segregated Witness Enters Final #Bitcoin Testnet Stage, Includes Lightning Network Support http://btcm.ag/segnet4\u00a0pic.twitter.com/j8lgB1IzQK",
+            "username": "BitcoinMagazine",
+            "num_likes": 71,
+            "num_retweets": 98,
+            "num_replies": 4
+        },
+        "702155092041064448": {
+            "id": "702155092041064448",
+            "text": "Bitcoin Core 0.12.0 Released: What's New? @bitcoincoreorg http://btcm.ag/core012\u00a0pic.twitter.com/TkoSDlAmsY",
+            "username": "BitcoinMagazine",
+            "num_likes": 34,
+            "num_retweets": 48,
+            "num_replies": 0
+        },
+        "702031965231435776": {
+            "id": "702031965231435776",
+            "text": "Ledger announces segregated witness support (beta). This will bring big performance benefits to our hardware walletshttps://medium.com/@Ledger/segregated-witness-and-hardware-wallets-cc88ba532fb3\u00a0\u2026",
+            "username": "Ledger",
+            "num_likes": 35,
+            "num_retweets": 40,
+            "num_replies": 1
+        },
+        "697672824282939393": {
+            "id": "697672824282939393",
+            "text": "A Call for Consensus from a community of #bitcoin exchanges, wallets, miners & mining pools. https://medium.com/@bitcoinroundtable/a-call-for-consensus-d96d5560d8d6\u00a0\u2026pic.twitter.com/19NNdAMMgE",
+            "username": "btcroundtable",
+            "num_likes": 83,
+            "num_retweets": 106,
+            "num_replies": 10
+        },
+        "694419983372279808": {
+            "id": "694419983372279808",
+            "text": "Insightful to non-devs: Roadmap infographic of @bitcoincoreorg https://imgur.com/MUrvsjY\u00a0 #bitcoin",
+            "username": "FrankSchuil",
+            "num_likes": 26,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "693131703527837698": {
+            "id": "693131703527837698",
+            "text": ".@MyceliumCom's Leo Wandersleb: Segregated Witness a Technical Necessity http://btcm.ag/seg4\u00a0pic.twitter.com/DiV5dwvAu9",
+            "username": "BitcoinMagazine",
+            "num_likes": 16,
+            "num_retweets": 26,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1123903722784993281": {
+            "id": "1123903722784993281",
+            "text": "Bitcoin Core 0.18.0 Released!\nhttps://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2019-May/000078.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 1180,
+            "num_retweets": 496,
+            "num_replies": 21
+        },
+        "1077501346306314240": {
+            "id": "1077501346306314240",
+            "text": "Bitcoin Core 0.17.1 Released\nhttps://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-December/000072.html\u00a0\u2026\nHappy holidays!",
+            "username": "bitcoincoreorg",
+            "num_likes": 1136,
+            "num_retweets": 327,
+            "num_replies": 73
+        },
+        "1047453288227131392": {
+            "id": "1047453288227131392",
+            "text": "Bitcoin Core 0.17.0 Released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-October/000068.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 772,
+            "num_retweets": 315,
+            "num_replies": 64
+        },
+        "1045912710293192704": {
+            "id": "1045912710293192704",
+            "text": "Bitcoin Core 0.15.2 was released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-September/000067.html\u00a0\u2026\nThis is a backport release with CVE-2018-17144 vulnerability fix",
+            "username": "bitcoincoreorg",
+            "num_likes": 218,
+            "num_retweets": 60,
+            "num_replies": 23
+        },
+        "1045912616810500096": {
+            "id": "1045912616810500096",
+            "text": "Bitcoin Core 0.14.3 was released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-September/000066.html\u00a0\u2026\nThis is a backport release with CVE-2018-17144 vulnerability fix",
+            "username": "bitcoincoreorg",
+            "num_likes": 158,
+            "num_retweets": 44,
+            "num_replies": 10
+        },
+        "1042162932224860161": {
+            "id": "1042162932224860161",
+            "text": "Bitcoin Core 0.16.3 was released: https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-September/000060.html\u00a0\u2026\nUpgrade recommended due to vulnerability fix",
+            "username": "bitcoincoreorg",
+            "num_likes": 987,
+            "num_retweets": 458,
+            "num_replies": 41
+        },
+        "1023617058775425025": {
+            "id": "1023617058775425025",
+            "text": "Bitcoin Core 0.16.2 Released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-July/000057.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 820,
+            "num_retweets": 290,
+            "num_replies": 52
+        },
+        "1007672907147939841": {
+            "id": "1007672907147939841",
+            "text": "Bitcoin Core 0.16.1 Released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-June/000055.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 570,
+            "num_retweets": 222,
+            "num_replies": 19
+        },
+        "968078246087659521": {
+            "id": "968078246087659521",
+            "text": "Bitcoin Core 0.16.0 Released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-February/000052.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 1952,
+            "num_retweets": 836,
+            "num_replies": 164
+        },
+        "918638354069164032": {
+            "id": "918638354069164032",
+            "text": "Thank you to @Twitter for verifying the Bitcoin Core project @bitcoincoreorg twitter account.https://bitcoincore.org/en/twitter-impersonation/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 643,
+            "num_retweets": 147,
+            "num_replies": 95
+        },
+        "918366707047108608": {
+            "id": "918366707047108608",
+            "text": "Please be aware of accounts trying to pass them self off as Bitcoin Core project's twitter account @bitcoincoreorghttps://bitcoincore.org/en/twitter-impersonation/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 243,
+            "num_retweets": 105,
+            "num_replies": 35
+        },
+        "908500681484627968": {
+            "id": "908500681484627968",
+            "text": "Bitcoin Core 0.15.0 has been released. Read all about it!https://bitcoincore.org/en/2017/09/01/release-0.15.0/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 450,
+            "num_retweets": 190,
+            "num_replies": 30
+        },
+        "902887882947411974": {
+            "id": "902887882947411974",
+            "text": "Correcting misleading statements about btc1 and \"segwit2x\"https://bitcoincore.org/en/2017/08/18/btc1-misleading-statements/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 258,
+            "num_retweets": 114,
+            "num_replies": 16
+        },
+        "902163115801845766": {
+            "id": "902163115801845766",
+            "text": "The Bitcoin Core project rejected the pull request for NYA \"segwit2x\"https://github.com/bitcoin/bitcoin/pull/11128\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 581,
+            "num_retweets": 281,
+            "num_replies": 50
+        },
+        "876062604724240384": {
+            "id": "876062604724240384",
+            "text": "Bitcoin Core 0.14.2 Released! https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2017-June/000041.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 306,
+            "num_retweets": 145,
+            "num_replies": 16
+        },
+        "856060374575075328": {
+            "id": "856060374575075328",
+            "text": "Bitcoin Core 0.14.1 Released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2017-April/000039.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 206,
+            "num_retweets": 92,
+            "num_replies": 9
+        },
+        "848876701102878721": {
+            "id": "848876701102878721",
+            "text": "Watch this amazing presentation by Pieter Wuille on his research into BCH/Bech32 addresses for SegWit #mbga @pwuillehttps://www.youtube.com/watch?v=NqiN9VFE4CU\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 171,
+            "num_retweets": 67,
+            "num_replies": 3
+        },
+        "844902744418930688": {
+            "id": "844902744418930688",
+            "text": "Technology Roadmap - Schnorr Signatures and Signature Aggregation! https://bitcoincore.org/en/2017/03/23/schnorr-signature-aggregation/\u00a0\u2026pic.twitter.com/AApCeT6D6M",
+            "username": "bitcoincoreorg",
+            "num_likes": 319,
+            "num_retweets": 156,
+            "num_replies": 16
+        },
+        "843791985211187201": {
+            "id": "843791985211187201",
+            "text": "Bitcoin Core 0.14.0 What\u2019s New? @BitcoinMagazinehttps://bitcoinmagazine.com/articles/bitcoin-core-0140-released-whats-new/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 80,
+            "num_retweets": 50,
+            "num_replies": 4
+        },
+        "841993635260469249": {
+            "id": "841993635260469249",
+            "text": "What's new in Bitcoin Core 0.14, by Jonas Schnelli - Bitcoin Core Developer @_jonasschnelli_https://www.youtube.com/watch?v=1FdGku1PVE8\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 78,
+            "num_retweets": 59,
+            "num_replies": 4
+        },
+        "841318681133105155": {
+            "id": "841318681133105155",
+            "text": "On-chain scaling - a review of historical performance optimization made to Bitcoin\u2019s reference software. Part 1 https://bitcoincore.org/en/2017/03/13/performance-optimizations-1/\u00a0\u2026pic.twitter.com/vED9A9Y8pq",
+            "username": "bitcoincoreorg",
+            "num_likes": 120,
+            "num_retweets": 89,
+            "num_replies": 5
+        },
+        "839418165050290176": {
+            "id": "839418165050290176",
+            "text": "Bitcoin Core 0.14.0 released with huge performance boost and many new features and bugfixes  https://bitcoincore.org/en/2017/03/08/release-0.14.0/\u00a0\u2026 @orionwlpic.twitter.com/FgJRgfbNvf",
+            "username": "bitcoincoreorg",
+            "num_likes": 230,
+            "num_retweets": 199,
+            "num_replies": 11
+        },
+        "838746492194045953": {
+            "id": "838746492194045953",
+            "text": "Fascinating interview with applied cryptographer, cypherpunk and Bitcoin protocol researcher, Dr. Adam Back @adam3ushttps://soundcloud.com/bitcoincore/interview-with-dr-adam-back\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 144,
+            "num_retweets": 77,
+            "num_replies": 6
+        },
+        "833643867354193920": {
+            "id": "833643867354193920",
+            "text": "Interview with Bitcoin Core contributor and maintainer, Jonas Schnelli @_jonasschnelli_ by @creationlayer https://soundcloud.com/bitcoincore/interview-with-jonas-schnelli\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 97,
+            "num_retweets": 52,
+            "num_replies": 2
+        },
+        "831086311348006912": {
+            "id": "831086311348006912",
+            "text": "An Interview with Bitcoin Core contributor, Eric Lombrozo @eric_lombrozo by @creationlayerhttps://soundcloud.com/bitcoincore/interview-with-eric-lombrozo\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 69,
+            "num_retweets": 36,
+            "num_replies": 2
+        },
+        "823595929437671425": {
+            "id": "823595929437671425",
+            "text": "Great resources and FAQs about Segwithttps://medium.com/segwit-co\u00a0",
+            "username": "bitcoincoreorg",
+            "num_likes": 94,
+            "num_retweets": 63,
+            "num_replies": 4
+        },
+        "818427704831803393": {
+            "id": "818427704831803393",
+            "text": "Watch the Bitcoin Core 2016 Development Activity Report!https://www.youtube.com/watch?v=eK1gfMV2Tqw\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 103,
+            "num_retweets": 75,
+            "num_replies": 2
+        },
+        "816243835022036992": {
+            "id": "816243835022036992",
+            "text": "Happy 8th Anniversary to Bitcoin! We're celebrating with a new release of Bitcoin Core 0.13.2. Download today! https://bitcoincore.org/en/2017/01/03/release-0.13.2/\u00a0\u2026pic.twitter.com/NiElVo5PCy",
+            "username": "bitcoincoreorg",
+            "num_likes": 352,
+            "num_retweets": 275,
+            "num_replies": 15
+        },
+        "815346805097562112": {
+            "id": "815346805097562112",
+            "text": "Happy New Year!pic.twitter.com/cG5osltm6x",
+            "username": "bitcoincoreorg",
+            "num_likes": 86,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "805745245505880064": {
+            "id": "805745245505880064",
+            "text": "Which SegWit badge do you like best? Thanks to @albertdrosphoto for the designs. http://i.imgur.com/ay6YJTR.png\u00a0",
+            "username": "bitcoincoreorg",
+            "num_likes": 32,
+            "num_retweets": 31,
+            "num_replies": 9
+        },
+        "799530826937626624": {
+            "id": "799530826937626624",
+            "text": "Segwit signalling has started! Keep track at https://bitcoincore.org/en/segwit_adoption/\u00a0\u2026pic.twitter.com/qoi0vf7VMA",
+            "username": "bitcoincoreorg",
+            "num_likes": 121,
+            "num_retweets": 131,
+            "num_replies": 1
+        },
+        "799523571961888769": {
+            "id": "799523571961888769",
+            "text": "Ready, SegWit, Go!",
+            "username": "bitcoincoreorg",
+            "num_likes": 168,
+            "num_retweets": 112,
+            "num_replies": 2
+        },
+        "798871240261959681": {
+            "id": "798871240261959681",
+            "text": "Watch Pieter Wuille's extended presentation on Segregated Witness, 2015/12/01 @pwuille\nhttps://bitcoincore.org/en/2015/12/14/segregated-witness/\u00a0\u2026 #segwit",
+            "username": "bitcoincoreorg",
+            "num_likes": 59,
+            "num_retweets": 40,
+            "num_replies": 1
+        },
+        "798122307516514304": {
+            "id": "798122307516514304",
+            "text": "\"SegWit helps solving two major Hardware Wallets performance issues (trusted input computation and generic transaction parsing)\" @BTChip",
+            "username": "bitcoincoreorg",
+            "num_likes": 30,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "796331003249704960": {
+            "id": "796331003249704960",
+            "text": "Running Bitcoin Core? Read the upgrade guide for 0.13.1 https://bitcoincore.org/en/2016/10/27/segwit-upgrade-guide/\u00a0\u2026pic.twitter.com/vtd9czPjyA",
+            "username": "bitcoincoreorg",
+            "num_likes": 32,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "796321697091751936": {
+            "id": "796321697091751936",
+            "text": "\"SegWit [...] will improve the device\u2019s performance.\" says Doug Miller of KeepKey, bitcoin hardware wallet @bitcoinkeepkeypic.twitter.com/yrOzDznWPi",
+            "username": "bitcoincoreorg",
+            "num_likes": 34,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "795997560519299073": {
+            "id": "795997560519299073",
+            "text": "\u201cSegwit is not just about scaling\u201d, say Marek \u201cSlush\u201d Palatinus of @SatoshiLabs and @BitcoinTrezor https://bitcoinmagazine.com/articles/how-segregated-witness-is-about-to-fix-hardware-wallets-1478110057\u00a0\u2026pic.twitter.com/fpgrS89yrS",
+            "username": "bitcoincoreorg",
+            "num_likes": 68,
+            "num_retweets": 57,
+            "num_replies": 3
+        },
+        "795650269593931776": {
+            "id": "795650269593931776",
+            "text": "Are you Segwit Ready? or in the planning? Submit a pull requests here and let the world know https://github.com/bitcoin-core/bitcoincore.org/blob/gh-pages/_data/segwitsupport.csv\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 44,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "795621579837186049": {
+            "id": "795621579837186049",
+            "text": "Thank you! @socrates1024https://twitter.com/socrates1024/status/793243500787662848\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 30,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "794543475547049984": {
+            "id": "794543475547049984",
+            "text": "\"[#SegWit] fixes one of the biggest issues hardware wallets are faced with today.\u201d says Ledger Wallet CTO Nicolas Bacca @BTChip @LedgerHQ",
+            "username": "bitcoincoreorg",
+            "num_likes": 30,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "794177564373716992": {
+            "id": "794177564373716992",
+            "text": "Purse.io is #segwit ready!https://twitter.com/PurseIO/status/793150430423293952\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 56,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "793861322735747073": {
+            "id": "793861322735747073",
+            "text": "Incredible speedup of block propagation with the new Bitcoin FIBRE Relay Network vs the old network http://bitcoinfibre.org/stats.html\u00a0 @TheBlueMattpic.twitter.com/lqIvMm1hZZ",
+            "username": "bitcoincoreorg",
+            "num_likes": 89,
+            "num_retweets": 59,
+            "num_replies": 4
+        },
+        "793793281943564292": {
+            "id": "793793281943564292",
+            "text": "Andrew Miller on #Segwithttps://twitter.com/socrates1024/status/793234632678383616\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 25,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "793764088375414784": {
+            "id": "793764088375414784",
+            "text": "Bitcoin Core has a Telegram community group with over 400 people and risinghttps://telegram.me/BitcoinCore\u00a0",
+            "username": "bitcoincoreorg",
+            "num_likes": 24,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "793540115859705856": {
+            "id": "793540115859705856",
+            "text": "Over 13% of full nodes have upgraded to be #segwit ready in the first 4 days since releasehttps://twitter.com/CoinTelegraph/status/793433204246122496\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 56,
+            "num_retweets": 55,
+            "num_replies": 1
+        },
+        "793463767053037568": {
+            "id": "793463767053037568",
+            "text": "PSA: The Bitcoin \"network wide Alert system\" is being retired https://bitcoin.org/en/alert/2016-11-01-alert-retirement\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 23,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "793403302734098432": {
+            "id": "793403302734098432",
+            "text": "Project @bcoinio now is #Segwit readyhttps://twitter.com/bcoinio/status/783447581137391616\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 49,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "793142072119291904": {
+            "id": "793142072119291904",
+            "text": "It's great to see so many mentions of \"segwit\" https://twitter.com/search?f=tweets&vertical=default&q=segwit&src=typd\u00a0\u2026 and use of the #segwit hashtag.",
+            "username": "bitcoincoreorg",
+            "num_likes": 39,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "792009778537099264": {
+            "id": "792009778537099264",
+            "text": "Segregated Witness, the costs and risks #segwithttps://bitcoincore.org/en/2016/10/28/segwit-costs/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 48,
+            "num_retweets": 40,
+            "num_replies": 4
+        },
+        "791721484829990912": {
+            "id": "791721484829990912",
+            "text": "Bitcoin Core 0.13.1 with Segregated Witness soft fork is released for general availability!https://bitcoincore.org/en/2016/10/27/release-0.13.1/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 203,
+            "num_retweets": 213,
+            "num_replies": 5
+        },
+        "789006215456129024": {
+            "id": "789006215456129024",
+            "text": "Help with final release testing for Bitcoin Core 0.13.1https://twitter.com/orionwl/status/788949776909885440\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 39,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "785025681130479616": {
+            "id": "785025681130479616",
+            "text": "Scaling Bitcoin Milan Day 2 Morning LIVESTREAM https://www.youtube.com/watch?v=_Z0ID-0DOnc\u00a0\u2026 #ScalingBitcoin",
+            "username": "bitcoincoreorg",
+            "num_likes": 35,
+            "num_retweets": 42,
+            "num_replies": 1
+        },
+        "784668449272463360": {
+            "id": "784668449272463360",
+            "text": "#ScalingBitcoin livestream morning session  https://www.youtube.com/watch?v=8BLWUUPfh2Q\u00a0\u2026 @ScalingBitcoin",
+            "username": "bitcoincoreorg",
+            "num_likes": 54,
+            "num_retweets": 53,
+            "num_replies": 0
+        },
+        "780798709210746880": {
+            "id": "780798709210746880",
+            "text": "#segwithttps://www.youtube.com/watch?v=9jK-NcRmVcw#t=13s\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 132,
+            "num_retweets": 93,
+            "num_replies": 10
+        },
+        "768117039605157888": {
+            "id": "768117039605157888",
+            "text": "Bitcoin Core 0.13.0 has been released https://bitcoincore.org/en/2016/08/23/release-0.13.0/\u00a0\u2026 remember to verify the hashes of your downloads!",
+            "username": "bitcoincoreorg",
+            "num_likes": 80,
+            "num_retweets": 85,
+            "num_replies": 0
+        },
+        "765830251310149632": {
+            "id": "765830251310149632",
+            "text": "New BIP 150 \"Peer Authentication\" https://github.com/bitcoin/bips/blob/master/bip-0150.mediawiki\u00a0\u2026 by @_jonasschnelli_",
+            "username": "bitcoincoreorg",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "765567687250575360": {
+            "id": "765567687250575360",
+            "text": "Month long Bitcoin programming course in NYC with Core developers @Chaincode https://twitter.com/BitcoinMagazine/status/762727674183909380\u00a0\u2026 @TheBlueMatt @morcosa @suhasdaftuar",
+            "username": "bitcoincoreorg",
+            "num_likes": 15,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "765566602620403712": {
+            "id": "765566602620403712",
+            "text": "New draft BIP for hardware wallet, \"detached signing\" https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-August/013008.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 38,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "759747032584101888": {
+            "id": "759747032584101888",
+            "text": "Bitcoin Core 0.13.0 release candidate 2 available for testing https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-July/000016.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 65,
+            "num_retweets": 54,
+            "num_replies": 1
+        },
+        "751807812993363968": {
+            "id": "751807812993363968",
+            "text": "Happy Bitcoin Halvening https://www.youtube.com/watch?v=ovXOZjxFB00\u00a0\u2026 (livestream) #thehalvening",
+            "username": "bitcoincoreorg",
+            "num_likes": 43,
+            "num_retweets": 34,
+            "num_replies": 3
+        },
+        "751383316339658752": {
+            "id": "751383316339658752",
+            "text": "Introducing Bitcoin FIBRE by @TheBlueMatt http://bitcoinfibre.org/\u00a0 NextGen Relay Network! http://bluematt.bitcoin.ninja/2016/07/07/relay-networks/\u00a0\u2026pic.twitter.com/toT6KiS1Cv",
+            "username": "bitcoincoreorg",
+            "num_likes": 44,
+            "num_retweets": 46,
+            "num_replies": 0
+        },
+        "750109924059860992": {
+            "id": "750109924059860992",
+            "text": "CSV soft fork (BIP 68,112 & 113) activated on block #419328 https://www.blocktrail.com/BTC/block/000000000000000004a1b34462cb8aeebd5799177f7a29cf28f2d1961716b5b5\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 104,
+            "num_retweets": 83,
+            "num_replies": 3
+        },
+        "746402111521316864": {
+            "id": "746402111521316864",
+            "text": "FUN FACT: over 60% of the SegWit pull request code consists of unit tests and integration tests.",
+            "username": "bitcoincoreorg",
+            "num_likes": 52,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "746377285024915457": {
+            "id": "746377285024915457",
+            "text": "SegWit pull request has been merged https://github.com/bitcoin/bitcoin/pull/8149\u00a0\u2026, see the next steps https://bitcoincore.org/en/2016/06/24/segwit-next-steps/\u00a0\u2026pic.twitter.com/FiHpC7QLwK",
+            "username": "bitcoincoreorg",
+            "num_likes": 137,
+            "num_retweets": 137,
+            "num_replies": 1
+        },
+        "746311147666579456": {
+            "id": "746311147666579456",
+            "text": "PROGRESS REPORT: Segregated Witness, the next stepshttps://bitcoincore.org/en/2016/06/24/segwit-next-steps/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 68,
+            "num_retweets": 76,
+            "num_replies": 4
+        },
+        "745611885127438337": {
+            "id": "745611885127438337",
+            "text": "Compact Blocks, BIP152 has been merged!  Reduces amount of bandwidth to propagate new blocks https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/\u00a0\u2026pic.twitter.com/xopdO0vLUC",
+            "username": "bitcoincoreorg",
+            "num_likes": 79,
+            "num_retweets": 73,
+            "num_replies": 3
+        },
+        "745245527013416961": {
+            "id": "745245527013416961",
+            "text": "The CSV soft fork has reached the \"locked in\" point of no return. The new rules will activate on block 419328.",
+            "username": "bitcoincoreorg",
+            "num_likes": 106,
+            "num_retweets": 96,
+            "num_replies": 3
+        },
+        "742711033115086848": {
+            "id": "742711033115086848",
+            "text": "Bitcoin Core IRC meeting summary (June 9, 2016)https://bitcoincore.org/en/meetings/2016/06/09/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 13,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "741279407193612288": {
+            "id": "741279407193612288",
+            "text": "Bitcoin Core meeting summary for 2016-06-02https://bitcoincore.org/en/meetings/2016/06/02/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 16,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "740169082335580160": {
+            "id": "740169082335580160",
+            "text": "Understanding Compact Block relay, BIP152 https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/\u00a0\u2026pic.twitter.com/CqXdqEh90U",
+            "username": "bitcoincoreorg",
+            "num_likes": 29,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "736133459098357760": {
+            "id": "736133459098357760",
+            "text": "We published the http://Coredev.tech\u00a0 Zurich meeting transcripts here: https://bitcoincore.org/logs/2016-05-zurich-meeting-notes.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 32,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "728580046118621184": {
+            "id": "728580046118621184",
+            "text": "Reflections by Bitcoin Core maintainer Wladimir van der Laan @orionwlhttps://twitter.com/orionwl/status/728558630778380288\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 30,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "727528489247756288": {
+            "id": "727528489247756288",
+            "text": "Meet the maintainers of Bitcoin Core! Join us at 1:30 pm in the Times Square Room at #Consensus2016http://bitcoincorefireside.splashthat.com\u00a0",
+            "username": "bitcoincoreorg",
+            "num_likes": 16,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "727138794311442432": {
+            "id": "727138794311442432",
+            "text": "How to evaluate claims of being Bitcoin's creator by Coin Center @coincenterhttps://docs.google.com/document/d/1IwUiLlARSzf0L-nNI7gR-hHVHW_y6YM0OsiEweHBa6M/preview\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 30,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "727079957537677312": {
+            "id": "727079957537677312",
+            "text": "There is currently no publicly available cryptographic proof that anyone in particular is Bitcoin's creator.",
+            "username": "bitcoincoreorg",
+            "num_likes": 238,
+            "num_retweets": 372,
+            "num_replies": 12
+        },
+        "722481091655954432": {
+            "id": "722481091655954432",
+            "text": "Segregated Witness pull-request for Bitcoin Core https://github.com/bitcoin/bitcoin/pull/7910\u00a0\u2026 submitted by Dr Pieter Wuillepic.twitter.com/xzeunyWXXR",
+            "username": "bitcoincoreorg",
+            "num_likes": 144,
+            "num_retweets": 110,
+            "num_replies": 0
+        },
+        "720908117211549696": {
+            "id": "720908117211549696",
+            "text": "Bitcoin Core 0.12.1 with CHECKSEQUENCEVERIFY softfork has been released. Upgrade today! https://bitcoincore.org/en/blog/2016/04/15/release-0.12.1/\u00a0\u2026pic.twitter.com/TOCLssQp74",
+            "username": "bitcoincoreorg",
+            "num_likes": 113,
+            "num_retweets": 118,
+            "num_replies": 5
+        },
+        "720579522794504192": {
+            "id": "720579522794504192",
+            "text": "Marco Falke appointed Bitcoin Core QA/Testing maintainerhttps://bitcoincore.org/en/blog/2016/04/14/maintainer/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 20,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "720564082710089728": {
+            "id": "720564082710089728",
+            "text": "Exciting things are possible post-segwit: BIP114 Merkelized Abstract Syntax Tree by Core contributor, Dr Johnson Lauhttps://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 22,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "719453873585463296": {
+            "id": "719453873585463296",
+            "text": "[RELEASE CANDIDATE] Bitcoin Core 0.12.1rc2 available for testing. https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-April/000001.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 24,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "718385200649080832": {
+            "id": "718385200649080832",
+            "text": "Bitcoin Core has a new mailing list for project specific discussions https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-April/000000.html\u00a0\u2026 @orionwl",
+            "username": "bitcoincoreorg",
+            "num_likes": 30,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "716921438792507394": {
+            "id": "716921438792507394",
+            "text": "Announcing the Bitcoin Core Sponsorship Programmehttps://bitcoincore.org/en/2016/04/04/announcing_sponsorship_programme/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 41,
+            "num_retweets": 46,
+            "num_replies": 0
+        },
+        "715934310017200128": {
+            "id": "715934310017200128",
+            "text": "Watch Bitcoin Lightning C implementation tests in actionhttps://www.youtube.com/watch?v=3EM5lAdAGM0\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 23,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "715482664443052032": {
+            "id": "715482664443052032",
+            "text": "CHECKSEQUENCEVERIFY (CSV) soft fork has been merged!\n\nPreparing for relative lock-time transactions!pic.twitter.com/7oNr30QT4P",
+            "username": "bitcoincoreorg",
+            "num_likes": 66,
+            "num_retweets": 53,
+            "num_replies": 2
+        },
+        "715103222516555776": {
+            "id": "715103222516555776",
+            "text": "Hello \"segnet4\"\n\nSegregated Witness with CHECKSEQUENCEVERIFY https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-March/012595.html\u00a0\u2026pic.twitter.com/wYRYHfjUJi",
+            "username": "bitcoincoreorg",
+            "num_likes": 99,
+            "num_retweets": 75,
+            "num_replies": 0
+        },
+        "711920095619104768": {
+            "id": "711920095619104768",
+            "text": "Important meeting summary covering the upcoming CHECKSEQUENCEVERIFY softforkhttps://bitcoincore.org/en/meetings/2016/03/17/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 10,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "709662786696192000": {
+            "id": "709662786696192000",
+            "text": "Keep up to date! Join the new Bitcoin Core announcement listhttps://bitcoincore.org/en/2016/03/15/announcement-list/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 20,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "703334028200517632": {
+            "id": "703334028200517632",
+            "text": "Announcing the first successful Zero-Knowledge Contingent Payment (ZKCP) on the Bitcoin networkhttps://bitcoincore.org/en/2016/02/26/zero-knowledge-contingent-payments-announcement/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 156,
+            "num_retweets": 174,
+            "num_replies": 2
+        },
+        "702089647481081856": {
+            "id": "702089647481081856",
+            "text": "We are proud to announce, Bitcoin Core 0.12.0 has been released https://bitcoincore.org/en/2016/02/23/release-0.12.0/\u00a0\u2026 @orionwl",
+            "username": "bitcoincoreorg",
+            "num_likes": 92,
+            "num_retweets": 109,
+            "num_replies": 5
+        },
+        "699556239236165633": {
+            "id": "699556239236165633",
+            "text": "Bitcoin Core's scalability roadmap in visual formhttps://imgur.com/Ki2Fnwr\u00a0",
+            "username": "bitcoincoreorg",
+            "num_likes": 39,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "699189657175748608": {
+            "id": "699189657175748608",
+            "text": "Because quality assurance and testing matters, Bitcoin Core release candidate 5 is now available https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-February/012448.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 38,
+            "num_retweets": 44,
+            "num_replies": 3
+        },
+        "699164009719820288": {
+            "id": "699164009719820288",
+            "text": "Catch up on the latest BItcoin Core meeting about BIP68https://bitcoincore.org/en/meetings/2016/02/11/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 9,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "695618091099807744": {
+            "id": "695618091099807744",
+            "text": "Bitcoin Core 0.12 is nearly here, with up to 7x faster validation. Check out Release Candidate 3 today http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-February/012356.html\u00a0\u2026 @orionwl",
+            "username": "bitcoincoreorg",
+            "num_likes": 46,
+            "num_retweets": 55,
+            "num_replies": 1
+        },
+        "694234380076740608": {
+            "id": "694234380076740608",
+            "text": "Checkout the latest Bitcoin Core developer meeting athttps://bitcoincore.org/en/meetings/2016/01/28/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 7,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "692727245442519042": {
+            "id": "692727245442519042",
+            "text": "Sign up for the Bitcoin Core Slack group at https://slack.bitcoincore.org/\u00a0",
+            "username": "bitcoincoreorg",
+            "num_likes": 11,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "692652740590342144": {
+            "id": "692652740590342144",
+            "text": "New blog post, \"Clarifying Communications\"https://bitcoincore.org/en/2016/01/28/clarification/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 33,
+            "num_retweets": 35,
+            "num_replies": 0
+        },
+        "691941261339660289": {
+            "id": "691941261339660289",
+            "text": "What are the benefits of Segregated Witness? https://bitcoincore.org/en/2016/01/26/segwit-benefits/\u00a0\u2026 @ajtowns",
+            "username": "bitcoincoreorg",
+            "num_likes": 52,
+            "num_retweets": 58,
+            "num_replies": 1
+        },
+        "691679376342126609": {
+            "id": "691679376342126609",
+            "text": "Read the IRC meeting summary for 2016-01-21https://bitcoincore.org/en/meetings/2016/01/21/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 16,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "691594431355580416": {
+            "id": "691594431355580416",
+            "text": "Bitcoin Core 0.12.0 release candidate 2 available http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-January/012275.html\u00a0\u2026 @orionwl",
+            "username": "bitcoincoreorg",
+            "num_likes": 28,
+            "num_retweets": 36,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "hrdng": 1,
+        "_jonasschnelli_": 7,
+        "eric_lombrozo": 1,
+        "Trezor": 1,
+        "ElectrumWallet": 2,
+        "TheBlueMatt": 1,
+        "lightning": 2,
+        "albertdrosphoto": 1,
+        "Excellion": 3,
+        "nwoodfine": 2,
+        "sysmannet": 2,
+        "coindesk": 5,
+        "bitfinex": 1,
+        "BitcoinMagazine": 7,
+        "SamouraiWallet": 1,
+        "BitcoinFullnode": 1,
+        "BitGo": 1,
+        "ErikVoorhees": 1,
+        "aantonop": 1,
+        "BTChip": 1,
+        "LocalBitcoins": 1,
+        "orionwl": 5,
+        "adam3us": 1,
+        "FredericJacobs": 1,
+        "kanzure": 3,
+        "ScalingBitcoin": 1,
+        "bencxr": 1,
+        "CoinJournal": 1,
+        "peterktodd": 1,
+        "Ledger": 1,
+        "btcroundtable": 1,
+        "FrankSchuil": 1
+    },
+    "users_retweeted": [
+        "_jonasschnelli_",
+        "BitcoinMagazine",
+        "coindesk",
+        "orionwl",
+        "Excellion",
+        "kanzure",
+        "ElectrumWallet",
+        "lightning",
+        "nwoodfine",
+        "sysmannet",
+        "hrdng",
+        "eric_lombrozo",
+        "Trezor",
+        "TheBlueMatt",
+        "albertdrosphoto",
+        "bitfinex",
+        "SamouraiWallet",
+        "BitcoinFullnode",
+        "BitGo",
+        "ErikVoorhees",
+        "aantonop",
+        "BTChip",
+        "LocalBitcoins",
+        "adam3us",
+        "FredericJacobs",
+        "ScalingBitcoin",
+        "bencxr",
+        "CoinJournal",
+        "peterktodd",
+        "Ledger",
+        "btcroundtable",
+        "FrankSchuil"
+    ]
+}

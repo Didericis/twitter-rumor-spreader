@@ -1,0 +1,638 @@
+{
+    "is_complete": true,
+    "username": "estemf",
+    "retweeted": {
+        "258927794376040448": {
+            "id": "258927794376040448",
+            "text": "Via TeamSHATTER TeamSHATTER\u2019s Analysis Of The October 2012 Oracle CPU http://bit.ly/U8XG8V\u00a0",
+            "username": "TeamSHATTER",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "253997833525547009": {
+            "id": "253997833525547009",
+            "text": "Via TeamSHATTER Advisory: Sybase Java Operating System command execution vulnerability http://bit.ly/VBJtQy\u00a0",
+            "username": "TeamSHATTER",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "253489170268426241": {
+            "id": "253489170268426241",
+            "text": "Disabling #O5LOGON for #ASM (gi) 11.2 can't be done setting \"sec_case_sensitive_logon\" to false. Parameter is not valid in ASM anymore.",
+            "username": "lmbr77",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "253233801495465985": {
+            "id": "253233801495465985",
+            "text": "SHA-3 = Keccakhttp://www.nist.gov/itl/csd/sha-100212.cfm\u00a0\u2026",
+            "username": "veorq",
+            "num_likes": 7,
+            "num_retweets": 65,
+            "num_replies": 4
+        },
+        "245900326488637441": {
+            "id": "245900326488637441",
+            "text": "TeamSHATTER Researcher To Discuss Flaws In Oracle Database At Ekoparty Conference: http://www.businesswire.com/news/home/20120912006267/en/Application-Security-Inc.%E2%80%99s-TeamSHATTER-Researcher-Discuss-Cryptographic\u00a0\u2026 via @BusinessWire",
+            "username": "AppSecInc",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "238665507862102017": {
+            "id": "238665507862102017",
+            "text": "Here are my slides from Black Hat: \"Find me in your database: an examination of Index security in Oracle\" http://www.databasesecurity.com/BHLV2012.pptx\u00a0",
+            "username": "dlitchfield",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "235469136430514176": {
+            "id": "235469136430514176",
+            "text": "\"Cryptographic flaws in Oracle Database authentication protocol\" by Esteban Fayo - @estemf",
+            "username": "ekoparty",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "223432805688934402": {
+            "id": "223432805688934402",
+            "text": "More SQL Injection? Let\u2019s ask \u201cWhy?\u201d:http://www.darkreading.com/database-security/blog/240003593/let-s-ask-why.html\u00a0\u2026",
+            "username": "AdrianLane",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "223881265059860480": {
+            "id": "223881265059860480",
+            "text": "It's been a busy breach disclosure week. Nvidia's forums is the latest:http://www.theverge.com/2012/7/13/3156597/nvidia-username-password-email-stolen-compromise\u00a0\u2026",
+            "username": "markrussinovich",
+            "num_likes": 2,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "195597599338790912": {
+            "id": "195597599338790912",
+            "text": "Critical Bug Reported in Oracle Servers http://bit.ly/II0Sjs\u00a0 via @threatpost",
+            "username": "threatpost",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "192720178948210688": {
+            "id": "192720178948210688",
+            "text": "Advisory for my vulnerability \"Oracle TNS Poison\" send to the usual lists. This is my oldest bug: probably, an Oracle bug from 1999!",
+            "username": "matalaz",
+            "num_likes": 3,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "192673160389332992": {
+            "id": "192673160389332992",
+            "text": "Oracle CPU came out yesterday. Happy patching. http://www.teamshatter.com/topics/general/team-shatter-exclusive/teamshatter%E2%80%99s-analysis-of-the-april-2012-oracle-cpu/\u00a0\u2026",
+            "username": "arothackerasi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "177439484357521408": {
+            "id": "177439484357521408",
+            "text": "I'm nominated (with my SW company) for 2011 Argentine Young Entrepreneur http://on.fb.me/y3M35m\u00a0 Like it and share so I get votes:)",
+            "username": "cesarcer",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "27138052169": {
+            "id": "27138052169",
+            "text": "Oracle database admins acknowledge security gaps http://bit.ly/a6nPag",
+            "username": "JohnOttman",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "20903690556": {
+            "id": "20903690556",
+            "text": "The registration for ekoparty 2010 trainings & conference is now OPEN! http://bit.ly/aYSRpw Register before is too late!",
+            "username": "ekoparty",
+            "num_likes": 1,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "20819488971": {
+            "id": "20819488971",
+            "text": "Microsoft Windows weak registry permissions vulnerability-MS10-059 http://bit.ly/drD9js -One issue from Token Kidnapping' Revenge",
+            "username": "cesarcer",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "20819399682": {
+            "id": "20819399682",
+            "text": "Microsoft Windows local privilege elevation vulnerability - MS10-059  http://bit.ly/bsD8VO - Advisory with details",
+            "username": "cesarcer",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "18697660581": {
+            "id": "18697660581",
+            "text": "MS Windows Token Kidnapping Problems Resurface http://bit.ly/c5dOTb",
+            "username": "cesarcer",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "304384179523698688": {
+            "id": "304384179523698688",
+            "text": "A total of 12 advisories were published for fixes in Oct/12 and Jan/13 Oracle CPU, check them at http://teamshatter.com\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "304359936014557185": {
+            "id": "304359936014557185",
+            "text": "Interested in details on Oracle 11g stealth password cracking vulnerability (CVE-2012-3137)?  See here: http://bit.ly/WRTwkZ\u00a0",
+            "username": "estemf",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "291933373860048897": {
+            "id": "291933373860048897",
+            "text": "TeamSHATTER\u2019s Analysis Of The January 2013 Oracle CPU - http://www.teamshatter.com/topics/database-security/teamshatters-analysis-of-the-january-2013-oracle-cpu/\u00a0\u2026",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "261551376591646720": {
+            "id": "261551376591646720",
+            "text": "SAP's Sybase RDMS Patches Fail to Repair 10 Critical Vulnerabilities http://threatpost.com/en_us/blogs/saps-sybase-rdms-patches-fail-repair-10-critical-vulnerabilities-102512#.UImURz4Iqq0.twitter\u00a0\u2026 via @threatpost",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "261526116806836224": {
+            "id": "261526116806836224",
+            "text": "Sybase \u2013 Disclosed But Unpatched Vulnerabilities | TeamSHATTER http://bit.ly/SzzqII\u00a0 -> 10 out of 12 fixes were defective",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "261254196232335362": {
+            "id": "261254196232335362",
+            "text": "84 Million Stars and Countinghttp://www.eso.org/public/news/eso1242/\u00a0\u2026",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "258605617781043200": {
+            "id": "258605617781043200",
+            "text": "3 Must-Fix Vulnerabilities Top Oracle CPU Patches -- @DarkReading http://twb.io/RRCmjv\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "258331629053964288": {
+            "id": "258331629053964288",
+            "text": "Make sure you have 10G password hashes before applying October CPU to #OracleDatabase 11g (unless you apply the CPU to all clients before)",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "258304868089987073": {
+            "id": "258304868089987073",
+            "text": "Oracle is killing for good Logon Protocol version 11; after applying October CPU only earlier version or v12 are allowed on Server side.",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "258189230797365249": {
+            "id": "258189230797365249",
+            "text": "Oracle Patch Update to Include 109 Patches http://threatpost.com/en_us/blogs/oracle-patch-update-include-109-patches-101512#.UH1ZAaEqUqA.twitter\u00a0\u2026 via @threatpost",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "257933084660494337": {
+            "id": "257933084660494337",
+            "text": "October CPU will include fixes for Oracle 11g stealth password cracking vulnerability (CVE-2012-3137) for all supported releases",
+            "username": "estemf",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "254040731931521024": {
+            "id": "254040731931521024",
+            "text": "5 new security advisories published at http://teamShatter.com\u00a0 (affecting Sybase ASE, IBM DB2 and Oracle EM)",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "252801751332319232": {
+            "id": "252801751332319232",
+            "text": "Good blog post by @lmbr77 about the Oracle stealth password cracking vulnerability  http://bit.ly/RuPQDA\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "251799894308814848": {
+            "id": "251799894308814848",
+            "text": "More info on mitigation for CVE-2012-3137 at Oracle Support [Article ID 1492721.1]",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "250650519859761152": {
+            "id": "250650519859761152",
+            "text": "Clarification: Oracle 11g stealth password cracking vuln is not CVE-2012-0511. It is fixed in 11.2.0.3 (not in a CPU).  #ekoparty2012",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "250372491103592448": {
+            "id": "250372491103592448",
+            "text": "Oracle flaw puts users' passwords at risk to brute force assault - IT News from http://V3.co.uk\u00a0http://bit.ly/TsmLvX\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "246433336724185088": {
+            "id": "246433336724185088",
+            "text": "Finished the slides for my #Ekoparty presentation, now working on some eye-catching demos",
+            "username": "estemf",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "238079524208795648": {
+            "id": "238079524208795648",
+            "text": "Interesting article about passwords and cracking http://arstechnica.com/security/2012/08/passwords-under-assault/\u00a0\u2026",
+            "username": "estemf",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "235372779006996481": {
+            "id": "235372779006996481",
+            "text": "\"Congratulations! The ekoparty Security Conference is pleased to accept you as a speaker for ekoparty 2012.\" -> Cool !",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "193081856793645056": {
+            "id": "193081856793645056",
+            "text": "CVE-2012-0511 allows offline password bruteforce of locked accounts in #Oracle Database  https://www.teamshatter.com/?p=3434\u00a0",
+            "username": "estemf",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "193047357015851008": {
+            "id": "193047357015851008",
+            "text": "Interesting vulnerabilities in #Oracle OCIPasswordChange API: CVE-2012-0510, CVE-2012-0511  http://www.teamshatter.com/category/topics/security-advisory/\u00a0\u2026",
+            "username": "estemf",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "193044345237147648": {
+            "id": "193044345237147648",
+            "text": "5 are web app vulnerabilities in #Oracle Ent Mgr: CVE-2012-0512, CVE-2012-0525, CVE-2012-0526, CVE-2012-0527, CVE-2012-0528",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "193042251583209472": {
+            "id": "193042251583209472",
+            "text": "8 advisories for vulnerabilities reported by me fixed in #Oracle April 2012 CPU - http://www.teamshatter.com/category/topics/security-advisory/\u00a0\u2026",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "190165431942791168": {
+            "id": "190165431942791168",
+            "text": "New Advisory: SQL Injection in Microsoft SQL Server can elevate to sa having CREATE DATABASE permission - http://bit.ly/HvGpfn\u00a0",
+            "username": "estemf",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "159750164008013824": {
+            "id": "159750164008013824",
+            "text": "RT @arothackerasi TeamSHATTER analysis of the Oracle Critical Patch Update http://bit.ly/AjulwN\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "127142261589946368": {
+            "id": "127142261589946368",
+            "text": "Advisory for Buffer Overflow in Oracle Database (CTXSYS.DRVDISP.TABLEFUNC_ASOWN function) (CVE-2011-2301)  http://bit.ly/qNXJvM\u00a0",
+            "username": "estemf",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "127132436952915968": {
+            "id": "127132436952915968",
+            "text": "Advisory for Oracle Database Vault Account Management Vulnerabilites (CVE-2011-3511 and CVE-2011-2322)  http://bit.ly/rlLWce\u00a0",
+            "username": "estemf",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "126426634634018816": {
+            "id": "126426634634018816",
+            "text": "Three #Oracle #Database vulnerabilities reported by me fixed in Oracle October CPU.  Read @teamShatter analysis at http://bit.ly/o7Pajp\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "120984718543028224": {
+            "id": "120984718543028224",
+            "text": "@mhandelman I'm glad you liked my blog post Keeping Privileged Users Under Control In Oracle Database http://bit.ly/mOP0pr\u00a0  Thanks!",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "120857149449576448": {
+            "id": "120857149449576448",
+            "text": "Blogging about Keeping Privileged Users Under Control In #Oracle #Database - http://bit.ly/mOP0pr\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "101410744855314432": {
+            "id": "101410744855314432",
+            "text": "RT @arothackerasi: Data Security Number One at Black Hat (Not) http://bit.ly/pJ0eRt\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "96352080880611328": {
+            "id": "96352080880611328",
+            "text": "Oracle Enterprise Manager vulnerable to Cross-site request forgery:  http://bit.ly/qMld6Q\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "96351927188725761": {
+            "id": "96351927188725761",
+            "text": "Multiple XSS issues in Oracle Enterprise Manager:  http://bit.ly/o6DhNx\u00a0 http://bit.ly/qbwe0t\u00a0 http://bit.ly/qVwO13\u00a0",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "94491463240519680": {
+            "id": "94491463240519680",
+            "text": "#TfRTs @my4ng3l, @antic0de , @securxcess, @_clem1",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "93811753670017025": {
+            "id": "93811753670017025",
+            "text": "TeamSHATTER's Analysis Of The July 2011 #Oracle #CPU http://bit.ly/qlGuuj\u00a0",
+            "username": "estemf",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "93709016219402240": {
+            "id": "93709016219402240",
+            "text": "Lots of @oracle_em fixes (18!) in July CPU, 11 associated to my submissions. Advisories will be posted to teamShatter.com soon",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "91586007144730624": {
+            "id": "91586007144730624",
+            "text": "Onapsis X1 Enterprise 2 is now SAP-certified! First and only endorsed SAP blackbox vulnassess ... http://bit.ly/qEgcvG\u00a0  -> Congrats!!",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "81455454672269312": {
+            "id": "81455454672269312",
+            "text": "I examined the problem of keeping privileged DB users under control in an article of SecureView mag - http://bit.ly/kjM5Tj\u00a0 - page 28",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "63257181377662976": {
+            "id": "63257181377662976",
+            "text": "CVE-2011-0793 (#Oracle Database Vault vuln) was not correctly fixed in April #CPU - Advisory on hold  #security",
+            "username": "estemf",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "63240663021518849": {
+            "id": "63240663021518849",
+            "text": "Advisories for CVE-2011-0806: http://bit.ly/dU8RpW - CVE-2011-0787: http://bit.ly/fH8tc8 - CVE-2011-0785: http://bit.ly/eozmPe",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "63220146612871168": {
+            "id": "63220146612871168",
+            "text": "The Oracle CPU advisories are released, find them at teamshatter.com",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "62879550488584192": {
+            "id": "62879550488584192",
+            "text": "RT @arothackerasi: Is #Oracle misleading it's customers with lowball CVSS scores in their CPU's? http://bit.ly/hbsJn4  #security",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "61213042876231680": {
+            "id": "61213042876231680",
+            "text": "RT @arothackerasi: What Does The April 2011 Oracle CPU Mean For DBAs And Database Security Staff? http://bit.ly/dMqy97",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "60423787576963072": {
+            "id": "60423787576963072",
+            "text": "there will be something for all tastes: DoS, XSS, SQL Inj, Database Vault security bypass  #oracle #cpu",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "60421896755351552": {
+            "id": "60421896755351552",
+            "text": "#Oracle April #CPU to include five vulnerabilities reported by me - Stay tuned for the advisories",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "39884517330264064": {
+            "id": "39884517330264064",
+            "text": "RT @petefinnigan: Blogging about Oracles Database Firewall - http://d3c.co/MmldFQ",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27748109043892225": {
+            "id": "27748109043892225",
+            "text": "Oracle started to fix some of the vulns I found in Database Vault - Apply the #Oracle #CPU to get the fixes http://bit.ly/euYCwq",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29622079546": {
+            "id": "29622079546",
+            "text": "@teamShatter now has it's own #databasesecurity website. http://www.teamShatter.com",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29421806905": {
+            "id": "29421806905",
+            "text": "RT @TeamShatter TeamSHATTER's The 10 Most Common Database Vulnerabilities http://bit.ly/aT93Q9",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27171184029": {
+            "id": "27171184029",
+            "text": "Oracle CPU for Oct 2010 is out! They are fixing a SQL Injection vulnerability I reported 1 year ago (CVE-2010-2415) http://bit.ly/bXmJgt",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "26784670883": {
+            "id": "26784670883",
+            "text": "Record Patch Tuesday: Both Microsoft http://bit.ly/atSRjZ and Oracle http://bit.ly/bavkvG set record number of vulns fixed.",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "20504724100": {
+            "id": "20504724100",
+            "text": "... also there are script files: http://bit.ly/azrYSF. Enjoy!",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "20504635169": {
+            "id": "20504635169",
+            "text": "My Hacking and protecting Oracle Database Vault presentation: http://bit.ly/dxkauY and Whitepaper: http://bit.ly/cX7gx0  #blackhatusa",
+            "username": "estemf",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "18552909847": {
+            "id": "18552909847",
+            "text": "Treinta nuevas vulnerabilidades se revelar\u00e1n en Black Hat USA 2010 - CSO: http://bit.ly/c4pBWF via @addthis",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "18546312734": {
+            "id": "18546312734",
+            "text": "@cesarcer Thanks!",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "18546275760": {
+            "id": "18546275760",
+            "text": "@my4ng3l Gracias Hernan!",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "18487125226": {
+            "id": "18487125226",
+            "text": "// my first tweet\nTwitter.Print(\"Hello World!\");",
+            "username": "estemf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "TeamSHATTER": 2,
+        "lmbr77": 1,
+        "veorq": 1,
+        "AppSecInc": 1,
+        "dlitchfield": 1,
+        "ekoparty": 2,
+        "AdrianLane": 1,
+        "markrussinovich": 1,
+        "threatpost": 1,
+        "matalaz": 1,
+        "arothackerasi": 1,
+        "cesarcer": 4,
+        "JohnOttman": 1
+    },
+    "users_retweeted": [
+        "cesarcer",
+        "TeamSHATTER",
+        "ekoparty",
+        "lmbr77",
+        "veorq",
+        "AppSecInc",
+        "dlitchfield",
+        "AdrianLane",
+        "markrussinovich",
+        "threatpost",
+        "matalaz",
+        "arothackerasi",
+        "JohnOttman"
+    ]
+}

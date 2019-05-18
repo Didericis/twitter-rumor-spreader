@@ -1,0 +1,3804 @@
+{
+    "is_complete": true,
+    "username": "Gilad_Bracha",
+    "retweeted": {
+        "1123989486013165569": {
+            "id": "1123989486013165569",
+            "text": "Curry On London is happening!",
+            "username": "j_v_66",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1123528435035512832": {
+            "id": "1123528435035512832",
+            "text": "The screenshot shows the outline of a @SOM_VMs file as well as the symbol navigation searching for things in an unrelated SOMns file, for which we also see linter warnings at the bottom.\n\nWorks pretty well \n\nMore work needed to make it really nice though.",
+            "username": "smarr",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1123527626570838016": {
+            "id": "1123527626570838016",
+            "text": "One step closer to having a generic Truffle Language Server.\n\nIntegrated the work of a @UniKentComp final year student\nhttps://github.com/smarr/SOMns-vscode/pull/8\u00a0\u2026\n\nThe Language server supports two languages @SOM_VMs and SOMns.\nOnly requires small changes in the parsers:\nHacked Parser == IDE Support!pic.twitter.com/vnHATuQhuf",
+            "username": "smarr",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1113758265501016066": {
+            "id": "1113758265501016066",
+            "text": "#ThursdayThoughts: \"We estimated that if we had built Kapital in another language, such as #Java, we would require at least 3 times the amount of resources to #develop and maintain the #application.\u201d To learn why @jpmorgan chose @cincomsmalltalk check out: http://bit.ly/2ncRCP9\u00a0pic.twitter.com/ioexTfTs6C",
+            "username": "cincomsmalltalk",
+            "num_likes": 17,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1111281250059182081": {
+            "id": "1111281250059182081",
+            "text": "If there\u2019s one lesson I would like the next generation of developers to learn, it is to spend less time doing hard things and more time making hard things easy. Customers benefit from the former. Customers and peers and we ourselves benefit from the latter.",
+            "username": "KentBeck",
+            "num_likes": 2303,
+            "num_retweets": 1006,
+            "num_replies": 31
+        },
+        "1104522585092481024": {
+            "id": "1104522585092481024",
+            "text": "Open source slows progress in software technology by demonetizing it.https://twitter.com/AmarachiAmaechi/status/1104383478483902464\u00a0\u2026",
+            "username": "jonathoda",
+            "num_likes": 48,
+            "num_retweets": 11,
+            "num_replies": 17
+        },
+        "1099454472777019394": {
+            "id": "1099454472777019394",
+            "text": "This is the best tweet I've ever seen.https://twitter.com/msimoni/status/1099319979797868544\u00a0\u2026",
+            "username": "srbaker",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1098335650233835521": {
+            "id": "1098335650233835521",
+            "text": "\"interprets simplicity as damage and routes around it\"",
+            "username": "garybernhardt",
+            "num_likes": 52,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "1084446631066513408": {
+            "id": "1084446631066513408",
+            "text": "They did, along with their own special circle of hell. Supposedly reputed academics actually said in public that C++ was clearly the right way to teach CS to beginners, at scale. They destroyed a generation of high school CS, and somehow were not run out of town.https://twitter.com/johnregehr/status/1084331857083125760\u00a0\u2026",
+            "username": "ShriramKMurthi",
+            "num_likes": 42,
+            "num_retweets": 7,
+            "num_replies": 7
+        },
+        "1082497131993124864": {
+            "id": "1082497131993124864",
+            "text": "Brilliant and disturbing. But, as they explain, ultimately much less disturbing than the \"Illusionist\" perspective I've been talking myself into.\n\nReally, one of the most profound philosophy papers, ever. Some of the deepest mysteries settled.\n\nRead it.",
+            "username": "marksammiller",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 4
+        },
+        "1057272045229277185": {
+            "id": "1057272045229277185",
+            "text": "Just preparing a short talk titled \u201cNewspeak and Truffle: A Platform for Grace?\u201d\n\nWant to know how we used GraalVM and SOMns to build a Grace, join me at the Grace workshop: https://2018.splashcon.org/event/grace-2018-papers-newspeak-and-truffle-a-platform-for-grace-\u00a0\u2026\n\nA brief write up with @drdickroberts, @jameskjx:\nhttp://stefan-marr.de/downloads/grace18-marr-et-al-newspeak-and-truffle-a-platform-for-grace.pdf\u00a0\u2026 #graalvm",
+            "username": "smarr",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1056936377995182080": {
+            "id": "1056936377995182080",
+            "text": "Comrades! I am co-organizing the third edition of the Salon des Refus\u00e9s Workshop at <Programming> 2019 in Genoa, Italy in April.\nI would appreciate it if you spread the word and consider contributing. Details and topics of interest athttps://www.shift-society.org/salon/call-for-papers/\u00a0\u2026",
+            "username": "PTchernavskij",
+            "num_likes": 20,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1055603486434516993": {
+            "id": "1055603486434516993",
+            "text": "\"web browser\" is exactly akin to \"hypercard player\", which is what killed hypercard http://dorophone.blogspot.com/2011/07/duckspeak-vs-smalltalk.html\u00a0\u2026pic.twitter.com/uelXGO5ocY",
+            "username": "worrydream",
+            "num_likes": 45,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1054842629077250049": {
+            "id": "1054842629077250049",
+            "text": "This year I'm helping with exploring new paths for research at POPL (https://popl19.sigplan.org/track/OBT-2019-papers\u00a0\u2026) - submissions are only 2 pages - that's one a week from now till the deadline.",
+            "username": "lukechurch",
+            "num_likes": 17,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1037121195680788480": {
+            "id": "1037121195680788480",
+            "text": "Excited to be sponsoring #AutoAI Europe (http://auto-ai.eu\u00a0) in Berlin, Sep 23-25. Our first public European presentation on-stage about HALO: bridging from R&D to mass deployment of #autonomousvehicles. Check out http://Tensyr.com/MassDeploy\u00a0 for more. #selfdriving #ai #Berlin",
+            "username": "TensyrInc",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1020267914031783941": {
+            "id": "1020267914031783941",
+            "text": "Not only FP languages, Smalltalk too - message sends return the receiver by default, and everything in the language is supposed to be a message send. I really wish that instead of FP vs OOP we'd be debating \"useful and elegant language features\" vs the opposite.",
+            "username": "ymeymann",
+            "num_likes": 34,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "1019930365488660480": {
+            "id": "1019930365488660480",
+            "text": "IMHO one of the most _underpraised_ peculiarities of FP languages is that everything is an expression, everything returns a value, there's no such a thing as a statement. You have to deal with just one concept and, once you get used to it, it's a big advantage.",
+            "username": "lambdista",
+            "num_likes": 236,
+            "num_retweets": 69,
+            "num_replies": 12
+        },
+        "997074325659373568": {
+            "id": "997074325659373568",
+            "text": "Efficient and Deterministic Record & Replay for Actor Languages https://arxiv.org/abs/1805.06267\u00a0 Paper submitted to @ManLangConf. Work by @d_aumayr C. B\u00e9ra, @elisagboix, H. M\u00f6ssenb\u00f6ck, and myself.pic.twitter.com/LoekJvyjL4",
+            "username": "smarr",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1014340876087320576": {
+            "id": "1014340876087320576",
+            "text": "Check this facebook event about the coming conference this year. We hope to see you there \nhttps://www.facebook.com/events/520839458311587/\u00a0\u2026",
+            "username": "fast_arg",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1007353591466790913": {
+            "id": "1007353591466790913",
+            "text": "Latest work in progress: Direct Programming http://alarmingdevelopment.org/?p=1145\u00a0 comments welcome",
+            "username": "jonathoda",
+            "num_likes": 41,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "996508488141422592": {
+            "id": "996508488141422592",
+            "text": "Fourth Symposium on the History and Philosophy of Programminghttps://www.shift-society.org/hapop4/\u00a0",
+            "username": "headinthebox",
+            "num_likes": 41,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "982040384988643328": {
+            "id": "982040384988643328",
+            "text": "Releasing SOMns 0.6.0 to the world: https://github.com/smarr/SOMns/releases/tag/v0.6.0\u00a0\u2026 Using our Black Diamonds building blocks, Java 9/10 support, files, streams, unicode, more tooling, improved language server/IDE support, and much more!",
+            "username": "SOM_VMs",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "976875313933242373": {
+            "id": "976875313933242373",
+            "text": "https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11?share=a52bda70&srid=s4tO\u00a0\u2026",
+            "username": "robertkrahn",
+            "num_likes": 26,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "974072957587816454": {
+            "id": "974072957587816454",
+            "text": "Spent half of the evening preparing the changelog for the next SOMns release. Think we need to do that more often... But a lot of nice improvements in here: https://github.com/smarr/SOMns/blob/release-prep/CHANGELOG.md#060---black-diamonds-v6\u00a0\u2026",
+            "username": "smarr",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "950104704930938880": {
+            "id": "950104704930938880",
+            "text": "Lars Bak wins the 2018 Dahl-Nygaard. A VM technologist getting some well deserved recognition. Way to go! \nhttp://www.aito.org/Dahl-Nygaard/2018.html\u00a0\u2026",
+            "username": "haupz",
+            "num_likes": 31,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "947165423828484097": {
+            "id": "947165423828484097",
+            "text": "I set up a website of Alan Kays talks: http://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay\u00a0\u2026  There are four talks that have clean transcript, and three talks that are annotated with additional information. Please help by editing the transcript of your favorite talk.",
+            "username": "yoshikiohshima",
+            "num_likes": 78,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "947177766885081088": {
+            "id": "947177766885081088",
+            "text": "As Kay himself has said so many times, this question is entirely about funding. With ARPA/IPTO-style funding, you get Kays (and Engelbarts, Minskys, McCarthys, Corbat\u00f3s, etc) With VC and NSF, you don't.\n\nEven Kay hasn't been able to \"be Kay\" since the 80s: http://worrydream.com/2017-12-30-alan/\u00a0\u2026https://twitter.com/smdiehl/status/946705788734787584\u00a0\u2026",
+            "username": "worrydream",
+            "num_likes": 1331,
+            "num_retweets": 658,
+            "num_replies": 33
+        },
+        "943978679129878529": {
+            "id": "943978679129878529",
+            "text": "Excited to share my \"On Storytelling\" talk from @DeconstructConf 2017! I am extremely passionate about this topic, and I think it helps explain how I work on @elmlang.\n\nThanks @garybernhardt for putting together such an excellent event and recording!\n\nhttps://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling\u00a0\u2026",
+            "username": "czaplic",
+            "num_likes": 231,
+            "num_retweets": 66,
+            "num_replies": 1
+        },
+        "943873422354010118": {
+            "id": "943873422354010118",
+            "text": "Correction: $ ./som core-lib/Benchmarks/TinyBenchmarks.ns 4\n240,000,000 bytecodes/sec; 440,000,000 sends/sec\n11,000,000,000 bytecodes/sec; 440,000,000 sends/sec\n12,000,000,000 bytecodes/sec; 440,000,000 sends/sec\n12,000,000,000 bytecodes/sec; 450,000,000 sends/sec",
+            "username": "smarr",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "943857155832209408": {
+            "id": "943857155832209408",
+            "text": "$ ./som TinyBenchmarks.ns 4\n2,400,000,000 bytecodes/sec; 4,500,000,000 sends/sec\n120,000,000,000 bytecodes/sec; 4,400,000,000 sends/sec\n120,000,000,000 bytecodes/sec; 4,500,000,000 sends/sec\n120,000,000,000 bytecodes/sec; 4,500,000,000 sends/sec",
+            "username": "smarr",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "943468373677142016": {
+            "id": "943468373677142016",
+            "text": ".NET CLR going to adopt the JVM HotSpot JIT style: mixed/tiered compilation mode https://github.com/dotnet/coreclr/issues/4331\u00a0\u2026\nNot that bad after all ",
+            "username": "jpbempel",
+            "num_likes": 31,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "943087355497467906": {
+            "id": "943087355497467906",
+            "text": "Found an early Christmas gift in my inbox.\nNewspeak/SOMns support in @NetBeans using the SOMns language server. Thanks @JaroslavTulach! Sill some way to go to get a free language server for each Truffle language though. :) #truffle @graalpic.twitter.com/IdRPdsBHrL",
+            "username": "smarr",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "941681570779451393": {
+            "id": "941681570779451393",
+            "text": "These Language Servers are pretty power full: Quick hack to run #SOMns tests from #vscode. #truffle #lsppic.twitter.com/0oyEJzjrxj",
+            "username": "smarr",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "940357443913097217": {
+            "id": "940357443913097217",
+            "text": "Autonomous Driving is the next big thing. Stealth mode Cloud Software company Tensyr is hiring a UX Engineer.  Visualizing distributed systems, 3D model of an in-car experience, simulating that experience in the cloud #UX #softwaredevelopment #webgl https://hire.withgoogle.com/public/jobs/tensyrcom/view/P_AAAAAACAAADIFKXiHYrxWv\u00a0\u2026",
+            "username": "AATechRecruiter",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "939655312491143168": {
+            "id": "939655312491143168",
+            "text": "The beauty of a protocol instead of a plugin: You use own tech to implement it. No reimplementation. All knowledge right there, no code duplication. Example: incomplete VM support for Mirror API. Visible right in the editor. #SOMns #LSP #vscodepic.twitter.com/3iSyHlDZLe",
+            "username": "smarr",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "939451120199626752": {
+            "id": "939451120199626752",
+            "text": "#SOMns #languageServerProtocol #vscodepic.twitter.com/MLHj3HSf0f",
+            "username": "smarr",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "925129944660828160": {
+            "id": "925129944660828160",
+            "text": "Slava is writing a neat language VM book, chapter-by-chapter! https://twitter.com/mraleph/status/925089869109526528\u00a0\u2026",
+            "username": "jfbastien",
+            "num_likes": 37,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "922848599062462467": {
+            "id": "922848599062462467",
+            "text": "DLS\u201917 10y best paper award goes to Mirages: Behavioral Interc. in a Mirror-based Arch., by S. Mostinckx, @tvcutsem S. Timbermont, E.Tanter",
+            "username": "smarr",
+            "num_likes": 12,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "921729026540167170": {
+            "id": "921729026540167170",
+            "text": "The belief that your favorite lang, made for developers or researchers, is appropriate for beginners, continues to be a thing apparently.",
+            "username": "sperbsen",
+            "num_likes": 56,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "918478477757702144": {
+            "id": "918478477757702144",
+            "text": "#TBT \u201c30% of the worldwide market of #shipping #containers is controlled by #Smalltalk systems\u201d http://bit.ly/2ay6BhK\u00a0pic.twitter.com/6HG7K4x42O",
+            "username": "cincomsmalltalk",
+            "num_likes": 32,
+            "num_retweets": 23,
+            "num_replies": 3
+        },
+        "917685349140312065": {
+            "id": "917685349140312065",
+            "text": "I think my baby is slowly growing up. Didn\u2019t work on SOMns in a month but got two external bug fixes. :)",
+            "username": "smarr",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "911364695256317953": {
+            "id": "911364695256317953",
+            "text": "Tensyr is hiring. If you - or talented engineers you know - fit the bill, please check out our open positions at: http://www.tensyr.com/careers.html\u00a0",
+            "username": "TensyrInc",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "908806432509894657": {
+            "id": "908806432509894657",
+            "text": "@tomaspetricek nails that which can't be nailed, once againhttp://tomasp.net/blog/2017/design-side-of-pl/\u00a0\u2026",
+            "username": "dsyme",
+            "num_likes": 48,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "894576955508629504": {
+            "id": "894576955508629504",
+            "text": "Many fixes to parse more of Newspeak. Special thanks to @Riro_nz for array and object literals!https://twitter.com/som_vms/status/894573224670920704\u00a0\u2026",
+            "username": "smarr",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "894573224670920704": {
+            "id": "894573224670920704",
+            "text": "New Release: SOMns v0.5 - More Newspeak! https://github.com/smarr/SOMns/releases/tag/v0.5.0\u00a0\u2026 #newspeak #truffle #som",
+            "username": "SOM_VMs",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "890947654737420290": {
+            "id": "890947654737420290",
+            "text": "SOMns\u2019 parser accepts the 100KLOC of Newspeak code from the main repo. With minor tweaks for silly incompatibilitieshttps://gist.github.com/smarr/46a26570f63e9b00954055b779437edb\u00a0\u2026",
+            "username": "smarr",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "890130699617017857": {
+            "id": "890130699617017857",
+            "text": "The SOMns dev branch now supports Newspeak\u2019s optional types https://github.com/smarr/SOMns/pull/175\u00a0\u2026 Would be great to use it in the lang. server IDE support",
+            "username": "SOM_VMs",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "888890965255217152": {
+            "id": "888890965255217152",
+            "text": "Newspeak\u2019s benchmarks are parsing :) And much of the main code repo, but needs message cascades,simulaneous slots, char literals, and others",
+            "username": "smarr",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "888769269533724672": {
+            "id": "888769269533724672",
+            "text": "Newspeak\u2019s benchmarks seem to parse, except for the type annotations. Almost there\u2026 #somns #compatibility",
+            "username": "smarr",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "884445654105419780": {
+            "id": "884445654105419780",
+            "text": "The SOMns VS Code extension has been updated with support for SOMns 0.4. This means debugging works again: https://marketplace.visualstudio.com/items?itemName=MetaConcProject.somns\u00a0\u2026",
+            "username": "SOM_VMs",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "882918929722691584": {
+            "id": "882918929722691584",
+            "text": "A 10 Year Journey, Stop 5: Growing the SOM Family. http://stefan-marr.de/2017/07/a-10-year-journey-stop-5-growing-the-som-family/\u00a0\u2026 #som #performance #truffle #omr #rpython #somns",
+            "username": "smarr",
+            "num_likes": 10,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "881982246693072897": {
+            "id": "881982246693072897",
+            "text": "I ran it on very recent HotSpot + Graal Core.",
+            "username": "smarr",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "880441709959708672": {
+            "id": "880441709959708672",
+            "text": "Open source isn't free. This free lunch free-for-all is going to come back and bite us. Somebody has to work on the stuff we all depend on",
+            "username": "heathercmiller",
+            "num_likes": 569,
+            "num_retweets": 304,
+            "num_replies": 42
+        },
+        "877138249772408834": {
+            "id": "877138249772408834",
+            "text": "SOMns 0.4.0 is released. Now with a new and shiny concurrency-agnostic debugger. #debugAllTheConcurrentThings! https://groups.google.com/forum/#!topic/som-dev/e4e5obxWOv0\u00a0\u2026 #sompic.twitter.com/KqsdLHjrbT",
+            "username": "SOM_VMs",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "875467942498009091": {
+            "id": "875467942498009091",
+            "text": "Preparing the SOMns 0.4 release: https://groups.google.com/forum/#!topic/som-dev/ntUKnljWU9Y\u00a0\u2026 #somns",
+            "username": "smarr",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "874794890936320000": {
+            "id": "874794890936320000",
+            "text": "#Smalltalks2017 website will be available soon to register to the conference and submit your talks! (2/2) @cincomsmalltalk @esugsmalltalk",
+            "username": "fast_arg",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "874794561264119809": {
+            "id": "874794561264119809",
+            "text": "#Smalltalks2017 will be held in Facultad de Inform\u00e1tica in Universidad Nacional de La Plata from Nov 15th to 17th, 2017 (1/2)",
+            "username": "fast_arg",
+            "num_likes": 20,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "874711091271675904": {
+            "id": "874711091271675904",
+            "text": "Charles \u201cChuck\u201d Thacker, whose visionary work helped bring the world the personal computer, passed away on Monday: http://ow.ly/yUIC30cz3mA\u00a0pic.twitter.com/ZqDBrJJtcg",
+            "username": "TheOfficialACM",
+            "num_likes": 29,
+            "num_retweets": 47,
+            "num_replies": 1
+        },
+        "872066921130328064": {
+            "id": "872066921130328064",
+            "text": "A 10 Year Journey, Stop 4: Concurrency and Tooling http://stefan-marr.de/2017/06/a-10-year-journey-stop-4-concurrency-and-tooling/\u00a0\u2026 #metaconc #tools #concurrency #truffle #somns",
+            "username": "smarr",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "870660751672975360": {
+            "id": "870660751672975360",
+            "text": "That\u2019s a draft of our paper on debugging all kinds of concurrency models. Comments and feedback welcome. #somns #truffle #concurrencyhttps://twitter.com/smarr/status/870660176482885632\u00a0\u2026",
+            "username": "smarr",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "870660176482885632": {
+            "id": "870660176482885632",
+            "text": "A Concurrency-Agnostic Protocol for Multi-Paradigm\nConcurrent Debugging Tools. Submitted to @dynlangsym. #draft #som http://stefan-marr.de/downloads/draft-marr-et-al-concurrency-agnostic-protocol-for-debugging.pdf\u00a0\u2026",
+            "username": "smarr",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "868477675769397249": {
+            "id": "868477675769397249",
+            "text": "New release of Self https://blog.selflanguage.org/\u00a0 #self",
+            "username": "smalltalkdev",
+            "num_likes": 23,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "867360886490640385": {
+            "id": "867360886490640385",
+            "text": "Yes! #icse17 paper by @DavyLandman on reflection vs static analysis received distinguished paper award! With @aserebrenik and yours truly.",
+            "username": "jurgenvinju",
+            "num_likes": 58,
+            "num_retweets": 14,
+            "num_replies": 8
+        },
+        "867415489747730432": {
+            "id": "867415489747730432",
+            "text": "Consider submitting to LIVE Programming Workshop. Deadline Aug 1. http://2017.splashcon.org/track/live-2017#Call-for-Papers\u00a0\u2026",
+            "username": "jonathoda",
+            "num_likes": 12,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "867425552772210688": {
+            "id": "867425552772210688",
+            "text": "I\u2019ll be giving a keynote at SPLASH this year about @with_eve! Should be an exciting talk. :)\n\nhttp://2017.splashcon.org/event/splash-2017-keynotes-splash-2017-keynote-eve-tackling-a-giant-with-a-change-in-perspective\u00a0\u2026",
+            "username": "ibdknox",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "862277211839246336": {
+            "id": "862277211839246336",
+            "text": "After the conference is before the next conference: Preparing <Programming> 2018 in Nice, France, 9-12 April 2018. \nhttp://2018.programming-conference.org/\u00a0",
+            "username": "programmingconf",
+            "num_likes": 14,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "861903637005709312": {
+            "id": "861903637005709312",
+            "text": "A 10 Year Journey, Stop 2: Supporting All Kind of Concurrency Models on a Simple VM\nhttp://stefan-marr.de/2017/05/a-10-year-journey-stop-2-supporting-all-kind-of-concurrency-models-on-a-simple-vm/?utm_source=twitter&utm_medium=twitter&utm_campaign=10y2\u00a0\u2026 #RoarVM #actors #rete #omop",
+            "username": "smarr",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "861178987829116928": {
+            "id": "861178987829116928",
+            "text": "History of Pony Language by Sylvan Clebsch @ponylang https://www.ponylang.org/blog/2017/05/an-early-history-of-pony/\u00a0\u2026",
+            "username": "craiganslow",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "853979748568932352": {
+            "id": "853979748568932352",
+            "text": "What keeps the academics up at night:\nhttp://2017.ecoop.org/info/accepted-papers\u00a0\u2026\n\nWhat keeps me up at night:\nWhy are there no links to the code and papers?",
+            "username": "headinthebox",
+            "num_likes": 54,
+            "num_retweets": 25,
+            "num_replies": 7
+        },
+        "849993317752459264": {
+            "id": "849993317752459264",
+            "text": "Most, but not all features demoed at @programmingconf are now part of the 0.3.0 release of SOMns https://github.com/smarr/SOMns/releases/tag/v0.3.0\u00a0\u2026 #truffle #metaconc",
+            "username": "smarr",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "845554935735504897": {
+            "id": "845554935735504897",
+            "text": "Woohoo! Smalltalk is the #2 \"most loved programming language\", according to the 2017 StackOverflow developer survey! https://stackoverflow.com/insights/survey/2017#technology-most-loved-dreaded-and-wanted-languages\u00a0\u2026",
+            "username": "onierstrasz",
+            "num_likes": 39,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "844682636454879232": {
+            "id": "844682636454879232",
+            "text": "Ok, let me just say this: the PACM/PL format is really really REALLY hard to read (worse than the 10pt 2col) /cc @michael_w_hicks @sigplan",
+            "username": "RanjitJhala",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "842546121885077504": {
+            "id": "842546121885077504",
+            "text": "We need this for PL research:http://fads.ws/about/\u00a0",
+            "username": "samth",
+            "num_likes": 30,
+            "num_retweets": 20,
+            "num_replies": 5
+        },
+        "839139740590944257": {
+            "id": "839139740590944257",
+            "text": "SOMns 0.2 Release with CSP, STM, Threads, and Fork/Join: http://stefan-marr.de/2017/03/somns-0-2-release-with-csp-stm-threads-and-forkjoin/\u00a0\u2026 #som #newspeak #concurrency #truffle",
+            "username": "smarr",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "832326857798348800": {
+            "id": "832326857798348800",
+            "text": "Learning to code is an essential skill in the modern world. Here's a handy diagram showing you how to get started.pic.twitter.com/E5YH6A6WaO",
+            "username": "dylanbeattie",
+            "num_likes": 9624,
+            "num_retweets": 6105,
+            "num_replies": 221
+        },
+        "826145937684697089": {
+            "id": "826145937684697089",
+            "text": "Congrats to @Gilad_Bracha on his 2017 AITO Dahl-Nygaard Prize http://goo.gl/WQzTIu\u00a0. Learn more about his work at http://goo.gl/6r7dLq\u00a0",
+            "username": "GoogleAI",
+            "num_likes": 40,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "824893378454106112": {
+            "id": "824893378454106112",
+            "text": "And PR #100 on SOMns is an external contribution for literal arrays https://github.com/smarr/SOMns/pull/100\u00a0\u2026 Yay :) #SOMns #Smalltalk #Truffle",
+            "username": "smarr",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "823874577851969536": {
+            "id": "823874577851969536",
+            "text": "\u201cJava is Unsound: The Industry Perspective\u201d - a tech blog version of our OOPSLA paper https://medium.com/@rosstate/java-is-unsound-28c84cb2b3f#.p9ofzopfx\u00a0\u2026 @nadamin @joshbloch",
+            "username": "rossetate",
+            "num_likes": 93,
+            "num_retweets": 71,
+            "num_replies": 4
+        },
+        "823560226678902784": {
+            "id": "823560226678902784",
+            "text": "... tolerance of needless complexity is like a badge of honor among programmers",
+            "username": "pchiusano",
+            "num_likes": 25,
+            "num_retweets": 21,
+            "num_replies": 2
+        },
+        "823291193341673473": {
+            "id": "823291193341673473",
+            "text": "Put some Getting Started information together for SOMns. Guess, that\u2019s mostly for our students: http://som-st.github.io/somns/getting-started/\u00a0\u2026 #SOMns",
+            "username": "smarr",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "822804578957660160": {
+            "id": "822804578957660160",
+            "text": ".@mrb_bk this talk is so good; such a humane, clear-eyed view of what PL design is, or can be, or should bepic.twitter.com/nvuZTphM8c",
+            "username": "mgrnbrg",
+            "num_likes": 8,
+            "num_retweets": 6,
+            "num_replies": 5
+        },
+        "818926612012040192": {
+            "id": "818926612012040192",
+            "text": "Communicating Sequential Processes for Newspeak/SOMns. A new blog post: http://stefan-marr.de/2017/01/communicating-sequential-processes-for-newspeak-somns/\u00a0\u2026 #concurrency #somns #truffle",
+            "username": "smarr",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "817077074716479488": {
+            "id": "817077074716479488",
+            "text": "And, a sketch for Communicating Sequential Processes for SOMns: https://github.com/smarr/SOMns/pull/84\u00a0\u2026 #concurrency #firstSteps #Smalltalk #metaconc",
+            "username": "smarr",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "816326287639842816": {
+            "id": "816326287639842816",
+            "text": "And here we have a toy STM for SOMns: https://github.com/smarr/SOMns/pull/81\u00a0\u2026 Performance is likely abysmal. #Truffle #SOM #Smalltalk #concurrency",
+            "username": "smarr",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "809434190190088193": {
+            "id": "809434190190088193",
+            "text": "The SOMns VS @Code Extension is now on the Marketplace https://marketplace.visualstudio.com/items?itemName=MetaConcProject.SOMns\u00a0\u2026 Hope our students appreciate it :) #som #vscode #truffle #ide",
+            "username": "smarr",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "807696561711022084": {
+            "id": "807696561711022084",
+            "text": "A bit of progress with SOMns\u2019 #vscode support: Better syntax highlighting and highlighting of matching parentheses. Very useful. #sompic.twitter.com/gK6RNRFhQF",
+            "username": "smarr",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "802182063529062400": {
+            "id": "802182063529062400",
+            "text": "Five workshops have now joined the cause of <Programming> 2017: LASSY, MOMO, MoreVMs, PX, Salon des Refus\u00e9s, and more to come! #prog17",
+            "username": "programmingconf",
+            "num_likes": 5,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "801426994227449856": {
+            "id": "801426994227449856",
+            "text": "Do you feel there is a lot more that programming language research could be doing? Submit your ideas to a new venue!https://refuses.github.io/\u00a0",
+            "username": "tomaspetricek",
+            "num_likes": 38,
+            "num_retweets": 28,
+            "num_replies": 4
+        },
+        "801114046254546944": {
+            "id": "801114046254546944",
+            "text": "Making working with SOMns a little easier. Not yet a Smalltalk IDE, but more to come :) #metaconc #truffle #sompic.twitter.com/J3bZ8diMFo",
+            "username": "smarr",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "775321870526779396": {
+            "id": "775321870526779396",
+            "text": "Critical theory and PL! Programming language theory: Thinking the unthinkable. http://tomasp.net/academic/drafts/unthinkable/\u00a0\u2026 By @tomaspetricek /via @felienne",
+            "username": "tvdstorm",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "771386155304685569": {
+            "id": "771386155304685569",
+            "text": "[x] Specific context menu entries based on token, for fancy actor breakpoints #justahack #vscode #SOMns #metaconcpic.twitter.com/GvFfj0XxHJ",
+            "username": "smarr",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "771310314985889792": {
+            "id": "771310314985889792",
+            "text": "[x] add a custom debugger view in VS @code to display actor message sends. #justahack #vscode #som #metaconcpic.twitter.com/mO92W1Ggfb",
+            "username": "smarr",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "765240125819383808": {
+            "id": "765240125819383808",
+            "text": "And the VS Code debugger looks like it could be used for SOMns and other Truffle languages. #truffle #vscodepic.twitter.com/hwRoPvvCZ2",
+            "username": "smarr",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "762840992407887872": {
+            "id": "762840992407887872",
+            "text": "I suspect real reason for unnecessary complexity is a failure of aesthetics. Most people unconscious feel complexity is impressive.",
+            "username": "stevedekorte",
+            "num_likes": 70,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "760057041687830528": {
+            "id": "760057041687830528",
+            "text": "Sad to report that Seymour Papert died yesterday.He inspired people around the word to be joyful and creative learners and teachers.",
+            "username": "LogoFoundation",
+            "num_likes": 613,
+            "num_retweets": 1105,
+            "num_replies": 44
+        },
+        "759733032488173569": {
+            "id": "759733032488173569",
+            "text": "And basic autocomplete. Getting all this really useful/stable will be a lot of work :( And requires a better parserpic.twitter.com/s4bauTmsBl",
+            "username": "smarr",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "759521649892941824": {
+            "id": "759521649892941824",
+            "text": "Some late night hacking: SOMns support for \u2018got to definition\u2019 in VS @codepic.twitter.com/QG9a7BsvbK",
+            "username": "smarr",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "751202065800695808": {
+            "id": "751202065800695808",
+            "text": "And just a little bit more hacking gives symbol navigation. Just exposing what we already got with JSON. #SOMnspic.twitter.com/MDnn93GEeu",
+            "username": "smarr",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "751124511458750465": {
+            "id": "751124511458750465",
+            "text": "Finally! Parse errors for editing SOMns. Thanks to VS Code and the Language Server Protocol https://github.com/smarr/SOMns-vscode\u00a0\u2026pic.twitter.com/YGwmPPn4sy",
+            "username": "smarr",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "741545565616504832": {
+            "id": "741545565616504832",
+            "text": "A pigeon flew into our library last night, slept on the Wittgenstein shelf & pooed on Derrida and Nietzsche.pic.twitter.com/gtlYc50jrD",
+            "username": "csandis",
+            "num_likes": 1628,
+            "num_retweets": 1005,
+            "num_replies": 65
+        },
+        "735707694628118529": {
+            "id": "735707694628118529",
+            "text": "We have a problem: Simplicity is incompatible with the job security of developers.",
+            "username": "duncancragg",
+            "num_likes": 22,
+            "num_retweets": 18,
+            "num_replies": 5
+        },
+        "725877657376673792": {
+            "id": "725877657376673792",
+            "text": "Every time I look at Smalltalk, I feel I know how Dark Age engineers must have felt looking at the Roman Aqueducts.",
+            "username": "stevedekorte",
+            "num_likes": 60,
+            "num_retweets": 43,
+            "num_replies": 1
+        },
+        "710512619619282944": {
+            "id": "710512619619282944",
+            "text": "Book Review: 'The Dart Programming Language' by Gilad Bracha - http://divingintodart.blogspot.co.at/2016/02/book-review-dart-programming-language.html\u00a0\u2026",
+            "username": "statuscode",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "708300280325120000": {
+            "id": "708300280325120000",
+            "text": "CfP \"Programming Experience 2016 Workshop\", colocated w ECOOP:  \nhttp://programming-experience.org/px16/\u00a0\n\"is joy relevant to the [programming] experience?\"",
+            "username": "cfbolz",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "707553550398832640": {
+            "id": "707553550398832640",
+            "text": "New @rubyrogues Episode 250: Programming Language Evolution and Design with Gilad Bracha http://ow.ly/ZfD47\u00a0 cc/ @Gilad_Bracha",
+            "username": "rubyrogues",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "705053447523926016": {
+            "id": "705053447523926016",
+            "text": "Graphs are like white board diagrams: they communicate to the people who created them. Anyone else who walks up\nsees squiggly lines.",
+            "username": "jessitron",
+            "num_likes": 34,
+            "num_retweets": 16,
+            "num_replies": 7
+        },
+        "704739310851981312": {
+            "id": "704739310851981312",
+            "text": ".@ECOOPconf\u201916  is going to be great for live programming! LIVE http://2016.ecoop.org/track/LIVE-2016\u00a0  and PX http://2016.ecoop.org/track/PX-2016\u00a0! #liveprogramming",
+            "username": "tvdstorm",
+            "num_likes": 5,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "704669923210084353": {
+            "id": "704669923210084353",
+            "text": ".@i_am_erip Javascript is the assembly of the internet. And as with assembly most people shouldn't be programming in it directly.",
+            "username": "jeanqasaur",
+            "num_likes": 25,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "703865980267573248": {
+            "id": "703865980267573248",
+            "text": "[PEARSON]\u3000Dart Programming Language, The by Gilad Bracha\u3000http://www.informit.com/deals/\u00a0",
+            "username": "ebooksdealofday",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "661886065586929664": {
+            "id": "661886065586929664",
+            "text": "The sad truth is that we are crawling towards a model of interactive programming Smalltalk had 4 decades agohttps://vimeo.com/143858200\u00a0",
+            "username": "swannodette",
+            "num_likes": 248,
+            "num_retweets": 159,
+            "num_replies": 14
+        },
+        "643757786602405888": {
+            "id": "643757786602405888",
+            "text": "After 3+ years of work, yesterday we went live with our brand new, 100% Smalltalk, ERP system: GemStone, VW, Seaside. #Smalltalk",
+            "username": "bohdan72",
+            "num_likes": 11,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "634753542998388736": {
+            "id": "634753542998388736",
+            "text": "OOP is all about Behavior. Things that aren't essential to OOP: inheritance, classes, mutable state. See @w7cook http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html\u00a0\u2026",
+            "username": "awbjs",
+            "num_likes": 278,
+            "num_retweets": 159,
+            "num_replies": 10
+        },
+        "614443509026844672": {
+            "id": "614443509026844672",
+            "text": "Dear academics, please help us *before* languages are created instead of studying our artifacts when it is too late http://drops.dagstuhl.de/portals/extern/index.php?semnr=15009\u00a0\u2026.",
+            "username": "headinthebox",
+            "num_likes": 22,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "610545993495347201": {
+            "id": "610545993495347201",
+            "text": "2015 SIGPLAN Programming Languages Achievement Award goes to Luca Cardelli http://lucacardelli.name\u00a0 #pldi15",
+            "username": "PLDI",
+            "num_likes": 26,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "597423163509764096": {
+            "id": "597423163509764096",
+            "text": "But, man, the first time you get a NoMethodError and hit \"create\", followed by \"proceed\"... #smalltalk",
+            "username": "avdi",
+            "num_likes": 24,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "570034698329718784": {
+            "id": "570034698329718784",
+            "text": "With math, together with our belief in the unimportance of usability, we can solve any problem.",
+            "username": "SwiftOnSecurity",
+            "num_likes": 60,
+            "num_retweets": 58,
+            "num_replies": 4
+        },
+        "563013637074616320": {
+            "id": "563013637074616320",
+            "text": "tc39 dread\n/tee-cee-thurtee-nien dred/\n    noun\n    1. the fear that Lars Bak was right",
+            "username": "swannodette",
+            "num_likes": 20,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "557587113227878400": {
+            "id": "557587113227878400",
+            "text": "Programming languages are a social construct. My piece w/ @AriTalking about how social bias masquerades as PL bias. https://modelviewculture.com/pieces/c-is-manly-python-is-for-n00bs-how-false-stereotypes-turn-into-technical-truths\u00a0\u2026",
+            "username": "jeanqasaur",
+            "num_likes": 72,
+            "num_retweets": 92,
+            "num_replies": 19
+        },
+        "555784814779846657": {
+            "id": "555784814779846657",
+            "text": "Call for Proposals open! You're invited to present your projects at the first #dartlang Developer Summit https://docs.google.com/a/google.com/forms/d/1pEL1f_b7eE3ZWKqbGlSbxH8H9wL05qTY2sZZSGlIlTc/viewform\u00a0\u2026",
+            "username": "dart_lang",
+            "num_likes": 8,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "544541122714800128": {
+            "id": "544541122714800128",
+            "text": "#dartlang ECMA-408 spec, 2nd edition, is out! Enjoy the new enums and async primitives. http://news.dartlang.org/2014/12/enums-and-async-primitives-in-dart.html\u00a0\u2026",
+            "username": "dart_lang",
+            "num_likes": 34,
+            "num_retweets": 47,
+            "num_replies": 1
+        },
+        "539011232146419712": {
+            "id": "539011232146419712",
+            "text": "\u201c@Gilad_Bracha: New blog post. http://gbracha.blogspot.com/2014/11/a-dsl-with-view.html\u00a0\u2026\u201d mix of oo and functional techniques which goes to show that the two are orthogonal..",
+            "username": "floekke",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "533253981498519554": {
+            "id": "533253981498519554",
+            "text": "http://reactivex.io/documentation/Operators/operators.html\u00a0\u2026",
+            "username": "headinthebox",
+            "num_likes": 16,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "519817022281383937": {
+            "id": "519817022281383937",
+            "text": "New PL conf for big-picture questions and long-running research programs. Independent, no sponsors, so pls reshare!\nhttp://snapl.org/\u00a0",
+            "username": "ShriramKMurthi",
+            "num_likes": 39,
+            "num_retweets": 102,
+            "num_replies": 4
+        },
+        "514707424658608128": {
+            "id": "514707424658608128",
+            "text": "The interview Adam and I did with @Gilad_Bracha on programming languages is now available http://ieeexplore.ieee.org/iel7/52/6898682/06898742.pdf?arnumber=6898742\u00a0\u2026 [PDF]",
+            "username": "laurencetratt",
+            "num_likes": 18,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "468389772365664256": {
+            "id": "468389772365664256",
+            "text": "\u201c<<Person-that-I-barely-know>> endorsed you for <<skill-I\u2019m-pretty-sure-he-has-no-way-of-knowing-I-posess>\u201d \u2014 LinkedIn in a nutshell",
+            "username": "zef",
+            "num_likes": 16,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "467851217801326592": {
+            "id": "467851217801326592",
+            "text": "The ring of truth from Light Table http://www.lighttable.com/2014/05/16/pain-we-forgot/\u00a0\u2026",
+            "username": "jonathoda",
+            "num_likes": 17,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "454972535185375233": {
+            "id": "454972535185375233",
+            "text": "\"XML is crap. Really. There are no excuses. There's just no reason for that horrible crap to exist\" - Linus Torvalds",
+            "username": "abt_programming",
+            "num_likes": 137,
+            "num_retweets": 308,
+            "num_replies": 18
+        },
+        "445318529122709504": {
+            "id": "445318529122709504",
+            "text": "As a special service to update my academic friends on the state of the art, I'll be doing a Rx tutorial at #ECOOP2014 http://ecoop14.it.uu.se/programme/summerschools.php\u00a0\u2026",
+            "username": "headinthebox",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "445299720190033920": {
+            "id": "445299720190033920",
+            "text": "So very true, and a little sad!! #IExpectMoreOfApple #SadComicspic.twitter.com/V19sKDBs9w",
+            "username": "blondeinabinder",
+            "num_likes": 31,
+            "num_retweets": 60,
+            "num_replies": 3
+        },
+        "413642435550789632": {
+            "id": "413642435550789632",
+            "text": "July 2nd in Delft: First workshop on Software Engineering methods in Spreadsheets. Call for Papers now open http://ow.ly/rUxb2\u00a0 #sems13",
+            "username": "Felienne",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "413241106621800448": {
+            "id": "413241106621800448",
+            "text": "One of the coolest bits of history I've seen in a while: http://lively-web.org/users/Dan/ALTO-Smalltalk-72.html\u00a0\u2026",
+            "username": "timfelgentreff",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "400914664667639808": {
+            "id": "400914664667639808",
+            "text": "Dart VM outperforming V8 by a substantial amount, dart2js' output comparable to JS running raw on V8. #devoxx #dartlang",
+            "username": "dart_lang",
+            "num_likes": 6,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "400916243479162880": {
+            "id": "400916243479162880",
+            "text": "#devoxx keynote wrapping up - I'm really happy to have Dart 1.0 out the door!",
+            "username": "dart_lang",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "383652180151906305": {
+            "id": "383652180151906305",
+            "text": "\u5143\u30cd\u30bf\u306f\u4f55\uff1f@levjj \"Look, we're professionals. We use Smalltalk.\" http://telly.com/194401V\u00a0 #anime",
+            "username": "yoshikiohshima",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "368733729956433920": {
+            "id": "368733729956433920",
+            "text": "Hadn't seen this before! Travels with Smalltalk, Dave Thomas: http://www.mojowire.com/TravelsWithSmalltalk/DaveThomas-TravelsWithSmalltalk.htm\u00a0\u2026.",
+            "username": "lukego",
+            "num_likes": 8,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "349040141031075840": {
+            "id": "349040141031075840",
+            "text": "Very insightful essay by Jonathan Aldrich: \"The Power of Interoperability: Why Objects Are Inevitable\". http://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf\u00a0\u2026",
+            "username": "wrnli",
+            "num_likes": 19,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "336558951636275200": {
+            "id": "336558951636275200",
+            "text": "Thanks organisers and participants of @liveprog2013 for a great #live2013 workshop at @ICSEconf yesterday. A truly inspirational event.",
+            "username": "thormagnusson",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "330253707688169472": {
+            "id": "330253707688169472",
+            "text": "\"Objects and functions, conflict without a cause?\" Every CS student should listen at this talk by Martin @odersky http://goo.gl/Z3e5Z\u00a0",
+            "username": "JBezivin",
+            "num_likes": 48,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "309739888977272832": {
+            "id": "309739888977272832",
+            "text": "Accidentally created a deadlock based on the JVM static initialization lock. Ouch.",
+            "username": "jamesiry",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "309742872234713088": {
+            "id": "309742872234713088",
+            "text": "New cool feature in #mbeddr/#mps: mixed content (i.e. fluidly mixing code and prose text): https://www.youtube.com/watch?v=Y96HU44FjZ4#\u00a0\u2026!",
+            "username": "markusvoelter",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "306832034351955968": {
+            "id": "306832034351955968",
+            "text": "What is Object Oriented Programming: A Critical Approachhttps://www.udemy.com/blog/object-oriented-programming-a-critical-approach/\u00a0\u2026",
+            "username": "JBezivin",
+            "num_likes": 12,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "306853160717258752": {
+            "id": "306853160717258752",
+            "text": "State of the Dart: http://alarmingdevelopment.org/?p=748\u00a0 #dartlang",
+            "username": "jonathoda",
+            "num_likes": 3,
+            "num_retweets": 9,
+            "num_replies": 6
+        },
+        "306978378026721281": {
+            "id": "306978378026721281",
+            "text": "\u201cThe Deep Insights of Alan Kay - mythz blog\u201d http://htn.to/3wX96U\u00a0",
+            "username": "ympbyc",
+            "num_likes": 10,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "300310039250477057": {
+            "id": "300310039250477057",
+            "text": "Amazon has patented the milkman, etc. It has been granted a broad US patent on periodic deliveries.\nhttps://plus.google.com/104716271353648708358/posts/Q7xrJaMru93\u00a0\u2026",
+            "username": "CarlHewitt",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "298145156635439105": {
+            "id": "298145156635439105",
+            "text": "Justin Bieber's new album deserves a whole Wikipedia page http://en.wikipedia.org/wiki/Believe_Acoustica\u00a0\u2026 while the interesting stuff http://en.wikipedia.org/wiki/IRobust\u00a0 gets banned?",
+            "username": "headinthebox",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 4
+        },
+        "295316289046605826": {
+            "id": "295316289046605826",
+            "text": "In Javascript, ['10', '10', '10', '10', '10'].map(parseInt) => [ 10, NaN, 2, 3, 4 ]. From http://nedbatchelder.com/blog/201301/stupid_languages.html\u00a0\u2026. #wtfjs",
+            "username": "avibryant",
+            "num_likes": 22,
+            "num_retweets": 96,
+            "num_replies": 10
+        },
+        "290883299109371905": {
+            "id": "290883299109371905",
+            "text": "A History of Live Programming http://liveprogramming.github.com/liveblog/2013/01/13/a-history-of-live-programming.html\u00a0\u2026",
+            "username": "tvdstorm",
+            "num_likes": 4,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "282505061865754624": {
+            "id": "282505061865754624",
+            "text": "Live programming workshop in SF 5/19:  http://liveprogramming.github.com/2013/\u00a0",
+            "username": "jonathoda",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "270558268517138433": {
+            "id": "270558268517138433",
+            "text": "The US system of patenting software is a failure and should be abolished.\n\nSee http://bit.ly/T718MR\u00a0",
+            "username": "CarlHewitt",
+            "num_likes": 3,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "256190317882134529": {
+            "id": "256190317882134529",
+            "text": "Who would have thought a company based on tricking people into buying virtual farm animals would one day be considered nearly worthless.",
+            "username": "sorenmacbeth",
+            "num_likes": 310,
+            "num_retweets": 1251,
+            "num_replies": 23
+        },
+        "256637783291072512": {
+            "id": "256637783291072512",
+            "text": "JavaFX has been announced every year at JavaONE since before my son was born, and he can now beat me at Gran Turismo 4.",
+            "username": "ricky_clarkson",
+            "num_likes": 3,
+            "num_retweets": 46,
+            "num_replies": 2
+        },
+        "243069306852761600": {
+            "id": "243069306852761600",
+            "text": "True story: I knew the new laptop was hosed b/c it froze in emacs. You see, if it was in Word, I'd have figured it's a software problem.",
+            "username": "ehud",
+            "num_likes": 4,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "235972215613566976": {
+            "id": "235972215613566976",
+            "text": "#lisp paper by Richard P. Gabriel about the history of #mixins. The Structure of a Programming Language Revolution. http://www.dreamsongs.com/Files/Incommensurability.pdf\u00a0\u2026",
+            "username": "RainerJoswig",
+            "num_likes": 32,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "223521642553417728": {
+            "id": "223521642553417728",
+            "text": "How many developers does it take to debug a JavaScript error?\n\nNaN",
+            "username": "lazycoder",
+            "num_likes": 29,
+            "num_retweets": 128,
+            "num_replies": 2
+        },
+        "210498170143248385": {
+            "id": "210498170143248385",
+            "text": "People are not nearly as terrified of threaded programming as they ought to be.",
+            "username": "vassili_bykov",
+            "num_likes": 17,
+            "num_retweets": 54,
+            "num_replies": 3
+        },
+        "188580104463581185": {
+            "id": "188580104463581185",
+            "text": "Dart: A Well Structured Web Programming Language http://bit.ly/HkZnW3\u00a0 by @Gilad_Bracha",
+            "username": "ajlopez",
+            "num_likes": 1,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "180293431862636544": {
+            "id": "180293431862636544",
+            "text": "This year's Dynamic Lanugages Symposium (DLS) call for papers is now out http://www.dynamic-languages-symposium.org/dls-12/cfp/index.html\u00a0\u2026",
+            "username": "laurencetratt",
+            "num_likes": 2,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "116468292109078528": {
+            "id": "116468292109078528",
+            "text": "2011 Dijkstra Prize in Distributed Computing awarded to \"ABD\" paper: Sharing Memory Robustly in Message-Passing Systems http://wv.ly/nOWmvi\u00a0",
+            "username": "Werner",
+            "num_likes": 24,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "111843951442526208": {
+            "id": "111843951442526208",
+            "text": "Dart, a new programming language from Google ... http://bit.ly/n4xs5p\u00a0; exciting news at #gotocon",
+            "username": "drkrab",
+            "num_likes": 15,
+            "num_retweets": 53,
+            "num_replies": 1
+        },
+        "88305122270130176": {
+            "id": "88305122270130176",
+            "text": "\"The power of accurate observation is commonly called cynicism by those who have not got it.\" - George Bernard Shaw",
+            "username": "DRMacIver",
+            "num_likes": 11,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "77593698577293312": {
+            "id": "77593698577293312",
+            "text": "The issue with the Erlang style mailbox is that if you aren't careful to have a default handler unrecognized messages are memory leaks.",
+            "username": "jamesiry",
+            "num_likes": 5,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "44483856153325568": {
+            "id": "44483856153325568",
+            "text": "I wish I had a dollar every time I hear, \"in Smalltalk we could just do X and be done with it.\"",
+            "username": "vassili_bykov",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "30766392110219266": {
+            "id": "30766392110219266",
+            "text": "Boolean.prototype.yourself=function(){return this;}; if (false.yourself()) print(\"False is True, Ignorance is Strength, JS is a Language.\")",
+            "username": "vassili_bykov",
+            "num_likes": 5,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "28603682719268864": {
+            "id": "28603682719268864",
+            "text": "\"I have no plans to learn UML before I die. I'm sure they'll be teaching it in hell.\" - dmbarbour",
+            "username": "jamesiry",
+            "num_likes": 58,
+            "num_retweets": 355,
+            "num_replies": 0
+        },
+        "24604640599347201": {
+            "id": "24604640599347201",
+            "text": "Brazil MessageBox running in Strongtalk under Cocoa #cocoa #brazil # strongtalk http://twitpic.com/3owzz7",
+            "username": "smalltalkhacker",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "20267887914647552": {
+            "id": "20267887914647552",
+            "text": "PL/SQL may be one of the most revolting languages ever designed to actually be useful.",
+            "username": "jamesiry",
+            "num_likes": 0,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "9633037520207872": {
+            "id": "9633037520207872",
+            "text": "Wilkes said it best http://bit.ly/hoVoF5  RIP http://bbc.in/e33vpY",
+            "username": "jamesiry",
+            "num_likes": 1,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "7495808190513152": {
+            "id": "7495808190513152",
+            "text": "\"XML is like violence. If it doesn't solve your problem, you're not using enough of it.\"  Who said that first?",
+            "username": "jamesiry",
+            "num_likes": 3,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "3039509407076352": {
+            "id": "3039509407076352",
+            "text": "RT @karltk: History of tablet design at Apple 1979 - 2010, leading to the iPad: http://bit.ly/cCtA6n (via @osnews) #ipadisoldnews #history",
+            "username": "onierstrasz",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "2750684948594688": {
+            "id": "2750684948594688",
+            "text": "Read Hamming's \"The Unreasonable Effectiveness of Mathematics\" for great good http://bit.ly/cOVvJg",
+            "username": "jamesiry",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "29212209139": {
+            "id": "29212209139",
+            "text": "\"#Java is to #JavaScript as Ham is to Hamster\"  What is: \"things less cool than #Smalltalk\", Alex ;-) @jhartikainen @bpopov #Jeopardy",
+            "username": "SeanDenigris",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "25825304456": {
+            "id": "25825304456",
+            "text": "Finally have a completely clean port of Brazil for Windows in Strongtalk. Next stop OSX!",
+            "username": "smalltalkhacker",
+            "num_likes": 1,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "21731187576": {
+            "id": "21731187576",
+            "text": "#phdcomics Being a PhD is an instantaneous property http://bit.ly/bTYhgC",
+            "username": "onierstrasz",
+            "num_likes": 0,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "20356498615": {
+            "id": "20356498615",
+            "text": "Upped my iMac's memory to 8G. Now, since I don't run Eclipse on it, I can't actually test how much difference the extra 4G make.",
+            "username": "vassili_bykov",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "17945474152": {
+            "id": "17945474152",
+            "text": "interesting synopsis of a documentary about APL: http://lathwellproductions.ca/wordpress/film-synopsis/",
+            "username": "ldfallas",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "16076383697": {
+            "id": "16076383697",
+            "text": "blogged: Parsing XML documents with namespaces in Newspeak (http://tinyurl.com/3443lwy)",
+            "username": "ldfallas",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "15701586643": {
+            "id": "15701586643",
+            "text": "The Journal of Object Technology makes a fresh start; consider submitting a paper http://bit.ly/d6Q2pQ",
+            "username": "EelcoVisser",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "15675670799": {
+            "id": "15675670799",
+            "text": "Check out our latest video, FangAGRA: for #vampires who can't get it down :) http://bit.ly/biFwjy #vampire #twilight #vamp #viagra #funny",
+            "username": "alexwarth",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "12537437926": {
+            "id": "12537437926",
+            "text": "Apple Rejects Kid-Friendly Programming App http://shar.es/mvTtB",
+            "username": "onierstrasz",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "12563358118": {
+            "id": "12563358118",
+            "text": "Intersting read: @mtnygard on the future of software development \"I fear that Java will have to be abandoned...\" http://bit.ly/9mJMDc",
+            "username": "drkrab",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "10934447140": {
+            "id": "10934447140",
+            "text": "\u201cIf they know my work, they don\u2019t need my C.V.; If they need my C.V., they don\u2019t know my work.\u201d\u2014Grigori Perelman http://bit.ly/ceRI6G",
+            "username": "raganwald",
+            "num_likes": 3,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "10882822296": {
+            "id": "10882822296",
+            "text": "EclipseCon takeaway #1: OSGi is remarkably minimalistic. It only has 27 API types.",
+            "username": "vassili_bykov",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "10714133314": {
+            "id": "10714133314",
+            "text": "Alex Orso proposes that all software should always track all execution & minimize+anonymize it and send it back to the developers. #msa2010",
+            "username": "akuhn",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "10863116337": {
+            "id": "10863116337",
+            "text": "The object team makes a case for nested classes as packages in Java, http://bit.ly/cV618L newspeak & beta ftw! /via @adietisheim",
+            "username": "akuhn",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "10222500683": {
+            "id": "10222500683",
+            "text": "Charles P. Thacker to Receive 2009 ACM Turing Award for Design of First Modern Personal Computer http://bit.ly/9rJ8OS",
+            "username": "TheOfficialACM",
+            "num_likes": 1,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "8419491397": {
+            "id": "8419491397",
+            "text": "\"why has it taken this long for the desktop metaphor to go away?\" http://bit.ly/bH6HCv by @stevenf",
+            "username": "conal",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "8303411333": {
+            "id": "8303411333",
+            "text": "\"I can't imagine why anyone would need X\" is a statement about your imagination, not X.",
+            "username": "sigfpe",
+            "num_likes": 8,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "8364861082": {
+            "id": "8364861082",
+            "text": "\"Is the iPad the harbinger of doom for personal computing?\" http://bit.ly/aZmDSV",
+            "username": "raganwald",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "7578746826": {
+            "id": "7578746826",
+            "text": "Is anyone else as appalled by this as me? - http://karpisek.net/gemdev/ #smalltalk",
+            "username": "smalltalkhacker",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "7750937854": {
+            "id": "7750937854",
+            "text": "RT @abstratt: had more people programmed in Smalltalk at some point in their lives, 300-line methods would be a less common sight these days",
+            "username": "smalltalkhacker",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1122353328833228800": {
+            "id": "1122353328833228800",
+            "text": "Sad news, once again. Among Jim's many accomplishments, he co-authored the classic \"Art of the Metaobject Protocol\",  which many can still learn from.https://twitter.com/headinthebox/status/1122341703875055617\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 57,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "1119686073888559105": {
+            "id": "1119686073888559105",
+            "text": "What a loss. Joe was a person who made perfect sense - they are so rare :-(https://twitter.com/FrancescoC/status/1119604272000315394\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 42,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1097956579289120769": {
+            "id": "1097956579289120769",
+            "text": "Come join us.https://twitter.com/TensyrInc/status/1097925154221387776\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1084164889843621889": {
+            "id": "1084164889843621889",
+            "text": "A short post about significant whitespace\nhttps://gbracha.blogspot.com/2019/01/much-ado-about-nothing.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 31,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "1084120549561851905": {
+            "id": "1084120549561851905",
+            "text": "A classic. Read it and weep.https://twitter.com/Ryu_Zoku/status/1083628630536708097\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 137,
+            "num_retweets": 50,
+            "num_replies": 5
+        },
+        "1067487503085490176": {
+            "id": "1067487503085490176",
+            "text": "Nice work on live programming. It's finally starting to spread out from the Smalltalk and Lisp communities.https://twitter.com/geoffreylitt/status/1067106102750400517\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 30,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1048657079601311744": {
+            "id": "1048657079601311744",
+            "text": "Reified Generics: The Search for the Cure. A new blog post on an old topic:\nhttps://gbracha.blogspot.com/2018/10/reified-generics-search-for-cure.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 56,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1014247439761469440": {
+            "id": "1014247439761469440",
+            "text": "https://www.fpcastle.com/\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 38,
+            "num_retweets": 15,
+            "num_replies": 6
+        },
+        "1007426379879575552": {
+            "id": "1007426379879575552",
+            "text": "Nice!",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006917468881743874": {
+            "id": "1006917468881743874",
+            "text": "And to give some idea of what we're doing ...https://twitter.com/TensyrInc/status/1006308001270005762\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1006917320613040128": {
+            "id": "1006917320613040128",
+            "text": "We need systems folk (some VMish people included) as well as Python and even maybe some Ocaml!https://twitter.com/TensyrInc/status/1006302655851794432\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 13,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "956324719111753728": {
+            "id": "956324719111753728",
+            "text": "Eve was one of the few interesting new efforts in the PL/PX space. It's a shame to see it come to an end.https://twitter.com/with_eve/status/956258695049981952\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 45,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "943870486190047232": {
+            "id": "943870486190047232",
+            "text": "Tiny benchmarks lends itself to that - but still awesome",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "921777718382833664": {
+            "id": "921777718382833664",
+            "text": "Also http://worrydream.com/EarlyHistoryOfSmalltalk/#smalltalkAndChildren\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "911370053760589824": {
+            "id": "911370053760589824",
+            "text": "As some of you know, I left Google for Tensyr a couple of months ago. Our web page is now live: http://www.tensyr.com/\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 22,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "905658745014726656": {
+            "id": "905658745014726656",
+            "text": "NOOL deadline extended. A great venue for good work. https://2017.splashcon.org/track/nool-2017\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "881153800077058050": {
+            "id": "881153800077058050",
+            "text": "My ECOOP keynote, accepting the Dahl-Nygaard award, is online at:https://youtu.be/TrNlNjwzzmc?list=PLMTm6Ln7vQZZ4uY483ouMr4EEIa79yEqu\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "869347639313039360": {
+            "id": "869347639313039360",
+            "text": "New blog post: more on live literate programming. https://gbracha.blogspot.com/2017/05/dead-programs-society.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 19,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "868537398837133313": {
+            "id": "868537398837133313",
+            "text": "Video of my keynote at Programming 17 is now at: https://youtu.be/HW7sqMjTkI0\u00a0. Pity they never zoom in on the screen - much is lost.",
+            "username": "Gilad_Bracha",
+            "num_likes": 44,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "859164934101278720": {
+            "id": "859164934101278720",
+            "text": "Are classics like Self and Smalltalk unworthy of your attention? Or Etoys? Or Newspeak?",
+            "username": "Gilad_Bracha",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 5
+        },
+        "845673410780811266": {
+            "id": "845673410780811266",
+            "text": "Congratulations Simon! RT @MSFTResearch: Simon Peyton Jones earns the @BCS Distinguished ... http://tmi.me/1fi6wW\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "841785964032749569": {
+            "id": "841785964032749569",
+            "text": "Take the import mechanism as an example.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "835629528705720321": {
+            "id": "835629528705720321",
+            "text": "Can't take any credit for Lars' VM work.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "826851499724591104": {
+            "id": "826851499724591104",
+            "text": "Thanks Juan!",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "826614112759083012": {
+            "id": "826614112759083012",
+            "text": "Thank you Gabi, and all the great people involved with @fast_arg",
+            "username": "Gilad_Bracha",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "826113659252281344": {
+            "id": "826113659252281344",
+            "text": "And congrats to Ross Tate (@ninjividual), who also won and truly deserves it.",
+            "username": "Gilad_Bracha",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "826113245324800000": {
+            "id": "826113245324800000",
+            "text": "And now, for some good news: I'm honored to receive the Dahl-Nygaard prize. http://www.aito.org/Dahl-Nygaard/2017.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 117,
+            "num_retweets": 30,
+            "num_replies": 25
+        },
+        "805286533632622592": {
+            "id": "805286533632622592",
+            "text": "Tough love for Smalltalkers. My keynote at Smalltalks 2016: where Smalltalk and its community could do better: https://www.youtube.com/watch?v=BDwlEJGP3Mk\u00a0\u2026 .",
+            "username": "Gilad_Bracha",
+            "num_likes": 40,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "800528718141587456": {
+            "id": "800528718141587456",
+            "text": "New blog post (after almost 2 years). Illiterate Programming. http://bit.ly/2gtyhsl\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 26,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "797816155142557696": {
+            "id": "797816155142557696",
+            "text": "With the advent of Eve (great stuff btw), seems like time to bring up my own old work on live literate programming: http://bit.ly/2fN3TVx\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 20,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "767404834911690752": {
+            "id": "767404834911690752",
+            "text": "\u201cI\u2019m living in a world of goldfish\u201d \n- Mycroft Homes, in \"Sherlock: The Empty Hearse",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "748574061370871808": {
+            "id": "748574061370871808",
+            "text": "1st Workshop on Meta-Programming Techniques and Reflection at SPLASH\nOctober 30, 2016,  Amsterdam\nhttp://2016.splashcon.org/track/meta2016\u00a0\n@MetaAtSPLASH",
+            "username": "Gilad_Bracha",
+            "num_likes": 15,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "704688918696841217": {
+            "id": "704688918696841217",
+            "text": "Not a distinction I care to discuss in tweets. The point is that JS is not for humans to program in. It needs to be paved over.",
+            "username": "Gilad_Bracha",
+            "num_likes": 13,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "704686631941337089": {
+            "id": "704686631941337089",
+            "text": "Yes and No. Assembly is in many ways more expressive than most HLLs. And more error prone.",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "704465421722718208": {
+            "id": "704465421722718208",
+            "text": "Live workshop call for papers: http://2016.ecoop.org/track/LIVE-2016#Call-for-Papers\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "687035785531400192": {
+            "id": "687035785531400192",
+            "text": "Dave is one of the greatest minds in PL.  check it out RT @senderPath: Check out my new blog. First ... http://tmi.me/1fbHpw\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "680060158626500608": {
+            "id": "680060158626500608",
+            "text": "Cool stuff. Lazy, live, literate lisp-like collaborative functionalhttps://plus.google.com/111407704672373701301/posts/VsaHQUnUjak?_utm_source=199-1-1\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "659197018816974848": {
+            "id": "659197018816974848",
+            "text": "The whole rationale section is a delight.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "620960189605253120": {
+            "id": "620960189605253120",
+            "text": "Types for an Untyped World. Discussion at Curry On 2015:https://www.youtube.com/watch?v=JBmIQIZPaHY&feature=youtu.be\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 62,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "617023000643301377": {
+            "id": "617023000643301377",
+            "text": "In Prague for ECOOP and Curry On. Talks at http://bit.ly/1H4NCUH\u00a0 and http://bit.ly/1KBizCj\u00a0 and discussion at http://bit.ly/1NCdPM3\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "607562657294516227": {
+            "id": "607562657294516227",
+            "text": "At ECOOP I'll be participating in a discussion about optional types http://2015.ecoop.org/event/stop2015-types-for-an-untyped-world\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "587003513277784064": {
+            "id": "587003513277784064",
+            "text": "Hitler finds out about Hopscotch: https://youtu.be/DsxNOMW4te8\u00a0 via @YouTube",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "538520673023295489": {
+            "id": "538520673023295489",
+            "text": "New blog post. http://gbracha.blogspot.com/2014/11/a-dsl-with-view.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "533280191024345088": {
+            "id": "533280191024345088",
+            "text": "First page works and is great, but links to github 404.",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "528271137378009089": {
+            "id": "528271137378009089",
+            "text": "Beware of syntoxic sugar!",
+            "username": "Gilad_Bracha",
+            "num_likes": 13,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "516821104451518464": {
+            "id": "516821104451518464",
+            "text": "New blog post. What do imports, ML modules and Polymer have in common. http://gbracha.blogspot.com/2014/09/a-domain-of-shadows.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 18,
+            "num_retweets": 21,
+            "num_replies": 2
+        },
+        "509090589833302016": {
+            "id": "509090589833302016",
+            "text": "Any sentence in which the word 'stakeholders' appears without quotation marks is indistinguishable from drivel.",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "506947669437059072": {
+            "id": "506947669437059072",
+            "text": "Probably Object. But when we implement Value, some stuff might leave Object. Or else Top.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "505574964578103296": {
+            "id": "505574964578103296",
+            "text": "New blog post. http://bit.ly/1tLIM8R\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "496297843586777088": {
+            "id": "496297843586777088",
+            "text": "My Qcon NY 2014 talk, 'Whither web Programming' is now online:http://bit.ly/1AOLuxr\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 22,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "440509095263498240": {
+            "id": "440509095263498240",
+            "text": "My Splash Onward keynote is \"Does Thought Crime Pay\" is now online:http://bit.ly/OTcTes\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 11,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "413889840774537216": {
+            "id": "413889840774537216",
+            "text": "So my QCon talk on Deconstructing FP  is finally public (really), and with a plausible summary as well.http://www.infoq.com/presentations/functional-pros-cons?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=QConSanFrancisco2013\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 50,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "412817726080430080": {
+            "id": "412817726080430080",
+            "text": "My QCon 2013 talk on Deconstructing FP is now available. The sumary is misleading, but the talk is all here:  athttp://www.infoq.com/presentations/functional-pros-cons?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=QConSanFrancisco2013\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 21,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "399211943853969408": {
+            "id": "399211943853969408",
+            "text": "Monadgreen: A Misunderstood Metaphor for Monads. After Lady Monadgreen, Duchess of Arrow",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "392781290899922944": {
+            "id": "392781290899922944",
+            "text": "When you think of a new language feature, think what it does to the testing matrix for the compiler, reflection and IDE.",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 11,
+            "num_replies": 6
+        },
+        "391953439762042880": {
+            "id": "391953439762042880",
+            "text": "Knowledge Navigator: Alan Kay's vision from his Apple days. Are we there yet? No :-(\n\nhttp://youtu.be/QRH8eimU_20\u00a0 via @youtube",
+            "username": "Gilad_Bracha",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "383590174602440704": {
+            "id": "383590174602440704",
+            "text": "Pay no attention to the head in the box :-) @headinthebox",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "383379695770685440": {
+            "id": "383379695770685440",
+            "text": "I'll be speaking at QCon in SF November 13th at the Post Functional Programming track: http://bit.ly/175K9nM\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "367515765496238080": {
+            "id": "367515765496238080",
+            "text": "VM workshop at SPLASH.  http://design.cs.iastate.edu/vmil/2013/cfp.shtml\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "349367349507391489": {
+            "id": "349367349507391489",
+            "text": "allow Tesla Motors to sell directly to consumers in all 50 states. http://wh.gov/llpAp\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "340223050412859393": {
+            "id": "340223050412859393",
+            "text": "I'll be speaking at the HotSWUp workshop.https://www.usenix.org/conference/hotswup13/tech-schedule/workshop-program\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "338836713503850499": {
+            "id": "338836713503850499",
+            "text": "Conception is kind of a live IDE for Go.  It's in its early stages, but very cool.https://www.youtube.com/watch?feature=player_embedded&v=DNJ7HqlV55k\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 42,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "338292018079989760": {
+            "id": "338292018079989760",
+            "text": "RT @daningalls: Looking for a graphic design person to give Lively(http://lively-kernel.org/videos/jsconf-live-web-2012\u00a0\u2026) a clean modern look.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "320047290326867968": {
+            "id": "320047290326867968",
+            "text": "New blog post at http://gbracha.blogspot.com/2013/04/making-methods-live.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 7,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "309096202346045441": {
+            "id": "309096202346045441",
+            "text": "Language features are like the heads of a Hydra; every feature you add creates demand for seven more.",
+            "username": "Gilad_Bracha",
+            "num_likes": 12,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "299027050449235968": {
+            "id": "299027050449235968",
+            "text": "Corrected URI for Newspeak release http://bit.ly/YStYb5\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "299025709819654144": {
+            "id": "299025709819654144",
+            "text": "Updated Newspeak release at http://bit.ly/YStYb5/\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "295915287147065344": {
+            "id": "295915287147065344",
+            "text": "Interesting perspective on Dart:http://zef.me/4835/dart-web-fragmentation-vs-web-development-fragmentation\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 16,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "292861878202413057": {
+            "id": "292861878202413057",
+            "text": "New blog post in Room 101: A real life example of class hierarchy inheritance. http://gbracha.blogspot.com/2013/01/inheriting-class.html\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "281503569528647681": {
+            "id": "281503569528647681",
+            "text": "New article on Mixins in Dart on http://dartlang.org\u00a0http://www.dartlang.org/articles/mixins/\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 8,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "274594000940433408": {
+            "id": "274594000940433408",
+            "text": "Article on mirrors in Dart:http://www.dartlang.org/articles/reflection-with-mirrors/\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "269825698275930112": {
+            "id": "269825698275930112",
+            "text": "New blog post on Room 101. http://bit.ly/Wiptop\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "255458921970540544": {
+            "id": "255458921970540544",
+            "text": "I'll be speaking about Dart at HTML5DevConf in SF on October 16th.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "248118218093363200": {
+            "id": "248118218093363200",
+            "text": "Dart 0.11 draft spec is out.http://www.dartlang.org/docs/spec/?utm_source=site&utm_medium=footer&utm_campaign=homepage\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "242493306397933568": {
+            "id": "242493306397933568",
+            "text": "The latest release of Newspeak is out. . New version of the spec is also available.\nhttp://newspeaklanguage.org/\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "238669839265320960": {
+            "id": "238669839265320960",
+            "text": "An executive summary of NS2Dart on my blog: http://bit.ly/PeQamy\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "238461185505247232": {
+            "id": "238461185505247232",
+            "text": "NS2Dart: A Newspeak-to-Dart compiler built by Ryan Macnak this summer at Google.https://docs.google.com/document/d/1pU_nautpK49pJzwZkJM1NhACcad0Hjq0rjIomLSWQ1Y/edit\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "238461123609890816": {
+            "id": "238461123609890816",
+            "text": "NS2Dart: A Newspeak-to-Dart compiler",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "227634856929161217": {
+            "id": "227634856929161217",
+            "text": "New blog post: violating procedural abstraction with mirrors, and why you might wish to do so: http://bit.ly/MYd4fI\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "226675305165774849": {
+            "id": "226675305165774849",
+            "text": "The Fortress project is wrapping up. http://bit.ly/NJ9bwL\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "223253692277727232": {
+            "id": "223253692277727232",
+            "text": "William Cook on the definition an OO language. Someone who really knows what they're talking about: http://bit.ly/Mjly6U\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 30,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "223070364887040002": {
+            "id": "223070364887040002",
+            "text": "Alan Kay interview: http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442?pgno=1\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 9,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "214404422040698881": {
+            "id": "214404422040698881",
+            "text": "THe resurrection of Room 101: new post on source control http://bit.ly/Mzpm10\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "191181784451522560": {
+            "id": "191181784451522560",
+            "text": "Arg, cr to soon :-). ANyway, the Dart talk from lang.Next is athttp://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Dart-A-Well-Structured-Web-Programming-Language\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "191181651370455041": {
+            "id": "191181651370455041",
+            "text": "My Dart talk at Lang.Next is now online at:",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "187898163657580545": {
+            "id": "187898163657580545",
+            "text": "Back from Lang.NEXT. One of the very best PL forums out there. #langNEXT",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "170202848427118592": {
+            "id": "170202848427118592",
+            "text": "@mcandre send me mail. Or use G+. You can't have complex conversations on Twitter.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "165090148260917249": {
+            "id": "165090148260917249",
+            "text": "@genialogic Best place for such queries is Dart mailing list. Pls discuss there - no room in Twitter.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "164915885113475072": {
+            "id": "164915885113475072",
+            "text": "@genialogic  Every program you run on dartboard produces a link.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "162672670624858112": {
+            "id": "162672670624858112",
+            "text": "@glaforge yes",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "162583451445366788": {
+            "id": "162583451445366788",
+            "text": "Quick article on how to make your own classes act like functions in Dart.  http://goo.gl/D7hTm\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "161830523117907968": {
+            "id": "161830523117907968",
+            "text": "Had a great day yesterday at Peak6, talking about Newspeak, mirrors, full-service computing.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "160750769698643968": {
+            "id": "160750769698643968",
+            "text": "Dart language spec 0.07 is out.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "158583984396320769": {
+            "id": "158583984396320769",
+            "text": "People without a sense of humor are the most dangerous thing in the world; send them to re-education camps :-)",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "157916302147723265": {
+            "id": "157916302147723265",
+            "text": "@jedisct1 Those are Steve's slides on web page perf, not mine, and not about Dart",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "157833066210013184": {
+            "id": "157833066210013184",
+            "text": "Had a great time at talking about Dart at SF JS meetup last night: http://bit.ly/x5x27S\u00a0 . Great audience, lots of discussion.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "137566276330602496": {
+            "id": "137566276330602496",
+            "text": "About to start my Dart keynote at Qcon San Francisco",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "134868378098737153": {
+            "id": "134868378098737153",
+            "text": "@vassili_bykov has reactivated his blog. New post on Newspeak setter sends: http://bit.ly/uk2b0m\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "134297893950603264": {
+            "id": "134297893950603264",
+            "text": "Channel 9 interview from SPLASH: http://channel9.msdn.com/Blogs/Charles/SPLASH-2011-Gilad-Bracha-Dart-Newspeak-and-More\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "132522981887983616": {
+            "id": "132522981887983616",
+            "text": "Dart talk at Stanford (corrected): http://ee380.stanford.edu/cgi-bin/videologger.php?target=111102-ee380-300.asx\u00a0\u2026",
+            "username": "Gilad_Bracha",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "129200463789830144": {
+            "id": "129200463789830144",
+            "text": "@BrianTRice @SeanTAllen certainly requiring images is a problem; supporting them is good. So yes, optional is the way.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "126998621597077505": {
+            "id": "126998621597077505",
+            "text": "@glaforge The original NS2JS started before my involvement with SAP. But later version was done at SAP.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "126997360843821056": {
+            "id": "126997360843821056",
+            "text": "Still working with SAP to release NS2JS. I hope they'll do the right thing eventually.",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "126997149538992128": {
+            "id": "126997149538992128",
+            "text": "@talios Dart occupies almost all my time, but there is a team at Cadence working on it again.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "126996412482326528": {
+            "id": "126996412482326528",
+            "text": "Newspeak forums moved after our old forum provider seems to have shut down. Now at: https://groups.google.com/group/newspeaklanguage\u00a0\u2026. Oct 19 release now available.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "124223313458364417": {
+            "id": "124223313458364417",
+            "text": "@avibryant mirrors are coming but no monkey patching.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "123133180822822912": {
+            "id": "123133180822822912",
+            "text": "Looks like our Dart GOTO keynote tomorrow will be live tweeted @dart_lang #dart",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "120861699401195521": {
+            "id": "120861699401195521",
+            "text": "@awbjs Fixed the link.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "119958320537800704": {
+            "id": "119958320537800704",
+            "text": "@awbjs Thanks, will look into it. Links to workshops tend to go stale - I shouldn't use them.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "117972685308428288": {
+            "id": "117972685308428288",
+            "text": "Direct the Patent Office to Cease Issuing Software Patents http://wh.gov/gEm\u00a0",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "112184447952109568": {
+            "id": "112184447952109568",
+            "text": "@fbanados I have no idea. Ask @drkrab, or check the GOTO site.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "112181374332579840": {
+            "id": "112181374332579840",
+            "text": "Lots of speculation about Dart; few facts. All will be revealed at GOTO Aarhus.",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 36,
+            "num_replies": 7
+        },
+        "107845419249303552": {
+            "id": "107845419249303552",
+            "text": "@onierstrasz He should know ...",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "99164661810868224": {
+            "id": "99164661810868224",
+            "text": "Newspeak 3 released. \n http://bit.ly/r3ENhA",
+            "username": "Gilad_Bracha",
+            "num_likes": 9,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "78272665735012352": {
+            "id": "78272665735012352",
+            "text": "@__eMMe Thanks for the pointer.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "77425356235223041": {
+            "id": "77425356235223041",
+            "text": "@conditionalogic I've discussed modularity on my blog several times, and implemented a language based on those ideas.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "77343043556081664": {
+            "id": "77343043556081664",
+            "text": "Blog post on types being anti-modular: http://bit.ly/kad87t",
+            "username": "Gilad_Bracha",
+            "num_likes": 20,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "77209691876360192": {
+            "id": "77209691876360192",
+            "text": "@etorreborre I'll blog about it.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "77191601604132864": {
+            "id": "77191601604132864",
+            "text": "@johndmitchell Right. Maybe I should blog this so I can discuss it properly.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "77176970596716544": {
+            "id": "77176970596716544",
+            "text": "@johndmitchell But I can usefully manipulate a module declaration w/o types w/o formal external information. With types that isn't doable",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "77174799616573440": {
+            "id": "77174799616573440",
+            "text": "@johndmitchell With types one can plausibly support separate compilation of a module but not independent compilation",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "77171648813477888": {
+            "id": "77171648813477888",
+            "text": "@justinmchase Not sure what you mean. What I mean is: Types require global knowledge.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "77168988265775104": {
+            "id": "77168988265775104",
+            "text": "Types are anti-modular.",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "75677751201382400": {
+            "id": "75677751201382400",
+            "text": "Short term always trumps long term - except in the long term",
+            "username": "Gilad_Bracha",
+            "num_likes": 11,
+            "num_retweets": 51,
+            "num_replies": 0
+        },
+        "75259713989787649": {
+            "id": "75259713989787649",
+            "text": "Excellent series of posts on mirrors by Allen Wirfs-Brock, culminating in http://www.wirfs-brock.com/allen/posts/314",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "71573945509359616": {
+            "id": "71573945509359616",
+            "text": "If you suffer fools gladly, you are rewarded with more fools to suffer.",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "66878344750317569": {
+            "id": "66878344750317569",
+            "text": "Few programmers practice literate programming.  Illiterate programming is much more popular.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "59274342143500288": {
+            "id": "59274342143500288",
+            "text": "Everyone stays smug and happy, having chosen and easy opponent! Best of all possible worlds.",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "59274189986742272": {
+            "id": "59274189986742272",
+            "text": "Static PL fans think Javascript represents dynamic typing;",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "59274114447327232": {
+            "id": "59274114447327232",
+            "text": "Dynamic PL fans think Java represents static typing;",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "53440699537960960": {
+            "id": "53440699537960960",
+            "text": "FLOSS interview on Newspeak and related stuff at http://twit.tv/floss159",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "49523233665466368": {
+            "id": "49523233665466368",
+            "text": "The Truthiness is out there: http://bit.ly/f2Zm9W",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "42454075710775296": {
+            "id": "42454075710775296",
+            "text": "New blog post on Mintest, Newspeak's unit testing framework. http://bit.ly/eDxlL2",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "33175855035318272": {
+            "id": "33175855035318272",
+            "text": "As I said, bits don't rot and that's a problem. Jonathan Edwards' Darwinian license:  http://alarmingdevelopment.org/?p=555",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "30492143998996480": {
+            "id": "30492143998996480",
+            "text": "@runarorama Yes, there are indeed two of them. But it is the non-associative one that gets used.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "30488439954612224": {
+            "id": "30488439954612224",
+            "text": "@runarorama and the answer is, so that I can override productions with semantic actions kept separate in subclasses .",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "30487964492496896": {
+            "id": "30487964492496896",
+            "text": "@runarorama I wanted the sequencing combinator to be non-associative. That preserves the structure of productions.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "30479162829447169": {
+            "id": "30479162829447169",
+            "text": "@runarorama ok, thanks!",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "30469979686043648": {
+            "id": "30469979686043648",
+            "text": "@runarorama Such as?",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "30467298305249281": {
+            "id": "30467298305249281",
+            "text": "@runarorama But I also had specific reasons for not making them monadic.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "30467138909118464": {
+            "id": "30467138909118464",
+            "text": "@runarorama Good point. I can do context-sensitive parsers, but I am not working in a purely functional setting.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29560430267473921": {
+            "id": "29560430267473921",
+            "text": "@jamesiry actors let you look a the result in the future. Got to go now.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29558236415795200": {
+            "id": "29558236415795200",
+            "text": "@jamesiry  and actors can do the same, using a similar trick: don't look at the result. That is the point.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29551545494282241": {
+            "id": "29551545494282241",
+            "text": "@jamesiry As usual, people read what they want to read, not what the post says.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29551254787063809": {
+            "id": "29551254787063809",
+            "text": "@jamesiry But bear in mind: no one will stop you from using monads if you want.  Few will want however.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29550700664987648": {
+            "id": "29550700664987648",
+            "text": "@jamesiry To take one example: I've done parser combinators and concluded I didn't want them to be monadic.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "29314995233759233": {
+            "id": "29314995233759233",
+            "text": "My Masochistic Monad Musings at http://bit.ly/e6qTB7",
+            "username": "Gilad_Bracha",
+            "num_likes": 9,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "24070625844789248": {
+            "id": "24070625844789248",
+            "text": "Compare the phrases: \"Leveraged buyout\" & \"Leveraging Eclipse\". Identify the lever & the heavy load being leveraged in each.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "21290691430719488": {
+            "id": "21290691430719488",
+            "text": "What did you expect when you program in Objective-C?",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "21290521842417664": {
+            "id": "21290521842417664",
+            "text": "RT @SeanDenigris: #iPhone alarm clocks #fail worldwide",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "15611317851258881": {
+            "id": "15611317851258881",
+            "text": "Most people are too stupid to appreciate minimalism; most of the rest are too clever.",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "15611097100853249": {
+            "id": "15611097100853249",
+            "text": "The number of people who appreciate minimalism is minimal.",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "13792144883978240": {
+            "id": "13792144883978240",
+            "text": "AFter a six month hiatus, Room 101 is back: new blog post at http://bit.ly/fgHp6e",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "13728092891648001": {
+            "id": "13728092891648001",
+            "text": "Angel Lopez@Smalltalks2010. Nice work, but more important, hysterically funny (even better for Spanish speakers). http://bit.ly/hSiUXu",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "13288874482606080": {
+            "id": "13288874482606080",
+            "text": "@hseeberger Probably the number of non-metadata tokens in the implementation, gauged to max at 25 lines equivalent. Needs experimentation.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "13279330566148096": {
+            "id": "13279330566148096",
+            "text": "Maybe programming languages should restrict the length of methods/functions.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "12295931877662720": {
+            "id": "12295931877662720",
+            "text": "@sophistifunk Not really.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "12293948340965376": {
+            "id": "12293948340965376",
+            "text": "Also from Smalltaks2010 my Newspeak talk at http://bit.ly/fW9h6T and a Strongtalk retrospective http://bit.ly/hHKi9j",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "12292958443278336": {
+            "id": "12292958443278336",
+            "text": "Implementing a Smalltalk VM in itself. Smalltalks2010 talk: http://bit.ly/ijhVId",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "5477515313287168": {
+            "id": "5477515313287168",
+            "text": "Oh, I'm so sorry, I mean to say \"An Eclipse ...\"",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "5475784495988736": {
+            "id": "5475784495988736",
+            "text": "Eclipse creates a situation of utter darkness",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "3228464295448576": {
+            "id": "3228464295448576",
+            "text": "Gerardo Richarte and Javier Burroni modify their Smalltalk-GC-written-in-Smalltalk while it's running. Awesome stuff.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "29318083614": {
+            "id": "29318083614",
+            "text": "Emerging language camp: Newspeak in 12 minutes (ok, 18 w/questions). Video: http://bit.ly/ah5fW1 ; Slides: bit.ly/ah5fW1",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "29317830613": {
+            "id": "29317830613",
+            "text": "Emerging languages camp: Newspeak in 12 minutes.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29233344420": {
+            "id": "29233344420",
+            "text": "Language panel at PDC. Silverlight only, but will be fixed soon I'm told. http://bit.ly/9xHLSW",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27852916890": {
+            "id": "27852916890",
+            "text": "@djspiewak Oddly, some people thought my perspective was too mathematical. It certainly wasn't nearly mathematical enough for some :-)",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27852840187": {
+            "id": "27852840187",
+            "text": "I mean does it lead to a result I value. We obviously won't agree.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27852442890": {
+            "id": "27852442890",
+            "text": "@djspiewak Every theory has to start somewhere. And a usable parser is a more meaningful result than anything that LALR has to offer.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27839845699": {
+            "id": "27839845699",
+            "text": "@djspiewak as far as I'm concerned, PEGs are a theory. If it's good enough for POPL it's good enough for me.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27834156779": {
+            "id": "27834156779",
+            "text": "@djspiewak PEGs. CFGs. And to be precise, I said they were based on a theory.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "26909570762": {
+            "id": "26909570762",
+            "text": "Someone once said: \"if you want to get rich, start a religion\".  Alas, nobody ever made that claim for programming languages.",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "26070393434": {
+            "id": "26070393434",
+            "text": "I'll be giving a keynote at Smalltalks 2010.http://bit.ly/3lzXEZ",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "25639186130": {
+            "id": "25639186130",
+            "text": "How do you write an essay in Twitter?",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "25639164730": {
+            "id": "25639164730",
+            "text": "Twiiter is not a good medium for deep conversations.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "25639118015": {
+            "id": "25639118015",
+            "text": "@BrainCatalog Yes, but not in detail. But I'm more interested in identity, and I'm not sure that manifests itself in that context.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "25613374105": {
+            "id": "25613374105",
+            "text": "@BrainCatalog I'm talking about sizable organizations.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "25612417166": {
+            "id": "25612417166",
+            "text": "@BrainCatalog we're talking abou",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "25609806419": {
+            "id": "25609806419",
+            "text": "@BrainCatalog You mean \"seek to minimize\". And, no, not even that. Competition can help achieve goals.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "25591228103": {
+            "id": "25591228103",
+            "text": "@jtnystrom Only if one can distinguish between the identities of the subparts. So schizophrenia would characterize an organizational brain!",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "25590947375": {
+            "id": "25590947375",
+            "text": "@redsquirrel I'd say the opposite",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "25558572674": {
+            "id": "25558572674",
+            "text": "Groupthink is a mechanism for making an organization more like an organism. It assimilates people to their Borg.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "25558553502": {
+            "id": "25558553502",
+            "text": "What distinguishes an organism from an organization is that in an organism, the elements cooperate; in an organization, they compete.",
+            "username": "Gilad_Bracha",
+            "num_likes": 15,
+            "num_retweets": 42,
+            "num_replies": 0
+        },
+        "25558538638": {
+            "id": "25558538638",
+            "text": "In any society or organization, most energy is spent competing internally among its members, not externally against its competitors.",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "24754074958": {
+            "id": "24754074958",
+            "text": "Unrefined taste is a comfort in distasteful situations; perhaps that is why evolution has favored this trait so much",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "24445443232": {
+            "id": "24445443232",
+            "text": "@netytan Not sure when and in what form. Google botched the recording in May.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "24334740654": {
+            "id": "24334740654",
+            "text": "Bay area Newspeak talk at SD Forum in Palo Alto, Oct. 5th. http://bit.ly/9sFr4R",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "24324694274": {
+            "id": "24324694274",
+            "text": "@faistech Scala is good for the same kinds of applications Java is; not all kinds",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "24195169433": {
+            "id": "24195169433",
+            "text": "@vdichev What change of heart? I'd still rather use Newspeak, but it depends on your circumstances.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "24157289875": {
+            "id": "24157289875",
+            "text": "@mfeathers Clojure has much to recommend it. But as a drop in replacement for Java I'll go with Scala.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "24152604436": {
+            "id": "24152604436",
+            "text": "If you need to use Java, you should be using Scala.  If you don't need to use Java - then you have options.",
+            "username": "Gilad_Bracha",
+            "num_likes": 25,
+            "num_retweets": 105,
+            "num_replies": 0
+        },
+        "22857717803": {
+            "id": "22857717803",
+            "text": "Spec: Roar like a lion, fly like a bird\nReality: Roar like a bird, fly like a lion.\nStop grafting pieces together like mythical beasts!",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "22440447985": {
+            "id": "22440447985",
+            "text": "When you have a lot of convenience methods, keeping track of them becomes very inconvenient. They become nuisance methods.",
+            "username": "Gilad_Bracha",
+            "num_likes": 43,
+            "num_retweets": 93,
+            "num_replies": 1
+        },
+        "21491560669": {
+            "id": "21491560669",
+            "text": "A successful software technology usually introduces at least as many problems as it solves.",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "20353964354": {
+            "id": "20353964354",
+            "text": "New post on compositional UI/Morphic. http://bit.ly/azIPfj",
+            "username": "Gilad_Bracha",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "20277629963": {
+            "id": "20277629963",
+            "text": "Emerging language camp group conversation. http://bit.ly/aorQ4A",
+            "username": "Gilad_Bracha",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "20092839937": {
+            "id": "20092839937",
+            "text": "\"There is nothing so practical as a good theory\" - Phil Wadler.  \nOr so rare.",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "19425148957": {
+            "id": "19425148957",
+            "text": "Paul Graham:Avoid becoming an administrator, or your job will consist of dealing with money and disputes.http://www.paulgraham.com/top.html#",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "19344876721": {
+            "id": "19344876721",
+            "text": "Checkout the amazing Frink  - one of the pleasant surprises at emrging languages camp. http://futureboy.homeip.net/frinkdocs/",
+            "username": "Gilad_Bracha",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "19344763082": {
+            "id": "19344763082",
+            "text": "Returning from Emerging Languages Camp at OSCON. Exceeded my expectations. http://emerginglangs.com/",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "18289691029": {
+            "id": "18289691029",
+            "text": "New blog post on converting Smalltalk to Newspeak. http://bit.ly/avzouq",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "16943992639": {
+            "id": "16943992639",
+            "text": "@dcsobral the paper is by me and my colleagues. Thanks!",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "16943906157": {
+            "id": "16943906157",
+            "text": "@nraychaudhuri @Gilad_Bracha @djspiewak http://bit.ly/asR1Ey",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "16916802029": {
+            "id": "16916802029",
+            "text": "Newspeak paper wins best paper award at ECOOP.",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "16791318591": {
+            "id": "16791318591",
+            "text": "@mw44118 patterns, modules, functions - you name it",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "16790994799": {
+            "id": "16790994799",
+            "text": "Programming language constructs are like travel - making them first class makes things so much better!",
+            "username": "Gilad_Bracha",
+            "num_likes": 9,
+            "num_retweets": 67,
+            "num_replies": 0
+        },
+        "16562092669": {
+            "id": "16562092669",
+            "text": "@mohanmca Oh yes.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "16561942455": {
+            "id": "16561942455",
+            "text": "oops, forgot the URL: http://bit.ly/9PnYAZ",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "16561910073": {
+            "id": "16561910073",
+            "text": "New blog post on: Patterns as Objects in Newspeak.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "16203883470": {
+            "id": "16203883470",
+            "text": "Web forms go beyond Kafka! At least paper forms don't argue with you or erase your input.",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "16203851288": {
+            "id": "16203851288",
+            "text": "Web forms go beyond Kafka! At least paper forms don't argue with you or erase your input.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15954660211": {
+            "id": "15954660211",
+            "text": "@vassili_bykov How do you tell the front from the rear?",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15866426167": {
+            "id": "15866426167",
+            "text": "DabbleDB acquired by Twitter. http://blog.dabbledb.com/2010/06/140character-dabbling.html",
+            "username": "Gilad_Bracha",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "15817522136": {
+            "id": "15817522136",
+            "text": "AOSD 2011 track on modularity. I'll be speaking. http://www.aosd.net/2011/call_modularity.html",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "15713788088": {
+            "id": "15713788088",
+            "text": "@glaforge Yes, an infinite tower of scams",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15713407941": {
+            "id": "15713407941",
+            "text": "Metascamming: Internet scam w/storyline based on compensating internet scam victims. See also Metaspamming.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15392665158": {
+            "id": "15392665158",
+            "text": "New blog post on nested classes. http://bit.ly/brsRMK",
+            "username": "Gilad_Bracha",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "15204866883": {
+            "id": "15204866883",
+            "text": "@nddrylliog Yes - a) They can't fire me b) They don't exist c) I told them all this privately for years d) It's all moot",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15200098110": {
+            "id": "15200098110",
+            "text": "Brave New World of Full Service Computing talk at Microsoft Research. http://bit.ly/ahiEfa",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15002905082": {
+            "id": "15002905082",
+            "text": "@opinali It's easy to blame the platform! No one should have to know about pack200, serial UID etc.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14997667624": {
+            "id": "14997667624",
+            "text": "@opinali Ok, statics and serialization; as much the platform's fault as the programmer's. And it doesn't really explain the performance.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14986003674": {
+            "id": "14986003674",
+            "text": "@opinali I suspected there might be more to it - but the startup alone is awful. What did you learn?",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14967869591": {
+            "id": "14967869591",
+            "text": "Deutsche Opera still uses a Java applet to sell tickets! Sloooow. A demo of the failure of Java on the client, and hence for Sun's demise.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "14932686691": {
+            "id": "14932686691",
+            "text": "Great names for Web 2.0 startups still available: twtch and brrp.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "13885517011": {
+            "id": "13885517011",
+            "text": "First class patterns for Newspeak - the prequel. http://bit.ly/ajeNZC",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "12922406003": {
+            "id": "12922406003",
+            "text": "Dan Ingalls' blog: http://whatsup-di.blogspot.com/",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "12732861909": {
+            "id": "12732861909",
+            "text": "@djspiewak Remember: Hanging by a thread is the punishment for shared state concurrency",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "12698925567": {
+            "id": "12698925567",
+            "text": "@djspiewak Clarke qualified things with \"sufficiently advanced\", so his statement does not apply :-)",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "12698866440": {
+            "id": "12698866440",
+            "text": "@djspiewak No, addition works. The analogy here is: if it works, it's by accident :-)",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "12681358426": {
+            "id": "12681358426",
+            "text": "Threads are to Concurrency as Witchcraft is to Physics.",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "12570310836": {
+            "id": "12570310836",
+            "text": "@drkrab  quoth Nygard: \"I fear that Java will have to be abandoned...\" - why fear?",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "12241872719": {
+            "id": "12241872719",
+            "text": "PLDE slides online at http://bracha.org/decon-java.pdf",
+            "username": "Gilad_Bracha",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "11507533873": {
+            "id": "11507533873",
+            "text": "@voidspace it isn't back to timesharing because it also works offline, and much work is on the client.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11504972342": {
+            "id": "11504972342",
+            "text": "Full service computing: http://bit.ly/bjdQrL",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11125166627": {
+            "id": "11125166627",
+            "text": "\"Down with Imports\" - Upcoming Newspeak talk at EPFL.\nhttp://bit.ly/bK3PQL",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "10876710375": {
+            "id": "10876710375",
+            "text": "@akuhn Orso's suggestion seems very much in line with my Objects as Software Services talk from 2005.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "10873625259": {
+            "id": "10873625259",
+            "text": "Versioning is the mother of all ratholes.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "10442541586": {
+            "id": "10442541586",
+            "text": "Notes on converting Smalltalk to Newspeak. http://bit.ly/9kiZxr",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "10407766740": {
+            "id": "10407766740",
+            "text": "@smalltalkhacker \nExcellent!",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "10381878680": {
+            "id": "10381878680",
+            "text": "STOP. Design by committee: \nhttp://www.youtube.com/watch?v=xwqPYeTSYng",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "10175657710": {
+            "id": "10175657710",
+            "text": "Old programming languages never die; they just fade away. Brief interview for JAX Germany. http://bit.ly/94RnQV",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "10032185467": {
+            "id": "10032185467",
+            "text": "Screencast of mirror talk at http://bit.ly/cwiV0N",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "9849258634": {
+            "id": "9849258634",
+            "text": "@eeide Thanks Eric!",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "9837921070": {
+            "id": "9837921070",
+            "text": "\"Objects as Modules in Newspeak\"  paper accepted at ECOOP.",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "9691776223": {
+            "id": "9691776223",
+            "text": "How do you get your hands dirty writing software if you only write clean code?",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "9651671983": {
+            "id": "9651671983",
+            "text": "@sanjayak71 @smalltalkhacker will check out suggestions. My bar is pretty high",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "9650669619": {
+            "id": "9650669619",
+            "text": "Why are there no decent bug trackers?  I guess we'll have to build one Hopscotch.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "9546862591": {
+            "id": "9546862591",
+            "text": "Newspeak update release with pushbutton deployment and Goodthink libs just pushed out. http://newspeaklanguage.org",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "8980508087": {
+            "id": "8980508087",
+            "text": "Pushbutton deployment of Newspeak apps to Windows executables working (thanks Ryan!) http://bracha.org/push-button.PNG",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "8643548405": {
+            "id": "8643548405",
+            "text": "Interesting NY times piece on Microsoft: http://nyti.ms/cHfQNb",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "8635226207": {
+            "id": "8635226207",
+            "text": "I'll be giving two talks at JAX in Germany in May: 'Java: A Post Mortem' and a Newspeak talk.  http://jax.de.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "8372819043": {
+            "id": "8372819043",
+            "text": "iPad is not a Kindle-killer; it's a netbook killer.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "8336580920": {
+            "id": "8336580920",
+            "text": "When we say a programming language is expressive,  we mean it's easy to use. When we say a type system is expressive, we means it isn't.",
+            "username": "Gilad_Bracha",
+            "num_likes": 8,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "8235995129": {
+            "id": "8235995129",
+            "text": "The 70% solution is usually the 40% solution, described by someone who can't tell the difference",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "8194496228": {
+            "id": "8194496228",
+            "text": "I'll be giving an invited talk entitled: 'Deconstructing Java' at PLDE (not PLDI!) 2010. http://bit.ly/6I2Nn3",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "7830675125": {
+            "id": "7830675125",
+            "text": "instanceOf: is pattern matching's lobotomized little brother, and static typechecking is their cousin twice removed.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "7730381093": {
+            "id": "7730381093",
+            "text": "Handed the Newspeak-2-Strongtalk port to Steve. On to Newspeak-to -Javascript!",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "7523979578": {
+            "id": "7523979578",
+            "text": "'Javascript: The Good Parts' is a very slim volume. This is not a coincidence. It will hold for any language, no matter how large.",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "7513320630": {
+            "id": "7513320630",
+            "text": "Interesting post on the relationship between become: and AOP at http://bit.ly/67vdir",
+            "username": "Gilad_Bracha",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6745016761": {
+            "id": "6745016761",
+            "text": "Mainstream programming language syntax is like human sacrifice: evil, yet once entrenched, difficult to get rid of.",
+            "username": "Gilad_Bracha",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "5772023407": {
+            "id": "5772023407",
+            "text": "Every new typed programming language says it \"feels like a dynamic language\". What does this tell us about how typed languages feel?",
+            "username": "Gilad_Bracha",
+            "num_likes": 2,
+            "num_retweets": 11,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "j_v_66": 1,
+        "smarr": 41,
+        "cincomsmalltalk": 2,
+        "KentBeck": 1,
+        "jonathoda": 6,
+        "srbaker": 1,
+        "garybernhardt": 1,
+        "ShriramKMurthi": 2,
+        "marksammiller": 1,
+        "PTchernavskij": 1,
+        "worrydream": 2,
+        "lukechurch": 1,
+        "TensyrInc": 2,
+        "ymeymann": 1,
+        "lambdista": 1,
+        "fast_arg": 3,
+        "headinthebox": 6,
+        "SOM_VMs": 5,
+        "robertkrahn": 1,
+        "haupz": 1,
+        "yoshikiohshima": 2,
+        "czaplic": 1,
+        "jpbempel": 1,
+        "AATechRecruiter": 1,
+        "jfbastien": 1,
+        "sperbsen": 1,
+        "dsyme": 1,
+        "heathercmiller": 1,
+        "TheOfficialACM": 2,
+        "smalltalkdev": 1,
+        "jurgenvinju": 1,
+        "ibdknox": 1,
+        "programmingconf": 2,
+        "craiganslow": 1,
+        "onierstrasz": 4,
+        "RanjitJhala": 1,
+        "samth": 1,
+        "dylanbeattie": 1,
+        "GoogleAI": 1,
+        "rossetate": 1,
+        "pchiusano": 1,
+        "mgrnbrg": 1,
+        "tomaspetricek": 1,
+        "tvdstorm": 3,
+        "stevedekorte": 2,
+        "LogoFoundation": 1,
+        "csandis": 1,
+        "duncancragg": 1,
+        "statuscode": 1,
+        "cfbolz": 1,
+        "rubyrogues": 1,
+        "jessitron": 1,
+        "jeanqasaur": 2,
+        "ebooksdealofday": 1,
+        "swannodette": 2,
+        "bohdan72": 1,
+        "awbjs": 1,
+        "PLDI": 1,
+        "avdi": 1,
+        "SwiftOnSecurity": 1,
+        "dart_lang": 4,
+        "floekke": 1,
+        "laurencetratt": 2,
+        "zef": 1,
+        "abt_programming": 1,
+        "blondeinabinder": 1,
+        "Felienne": 1,
+        "timfelgentreff": 1,
+        "lukego": 1,
+        "wrnli": 1,
+        "thormagnusson": 1,
+        "JBezivin": 2,
+        "jamesiry": 7,
+        "markusvoelter": 1,
+        "ympbyc": 1,
+        "CarlHewitt": 2,
+        "avibryant": 1,
+        "sorenmacbeth": 1,
+        "ricky_clarkson": 1,
+        "ehud": 1,
+        "RainerJoswig": 1,
+        "lazycoder": 1,
+        "vassili_bykov": 5,
+        "ajlopez": 1,
+        "Werner": 1,
+        "drkrab": 2,
+        "DRMacIver": 1,
+        "smalltalkhacker": 4,
+        "SeanDenigris": 1,
+        "ldfallas": 2,
+        "EelcoVisser": 1,
+        "alexwarth": 1,
+        "raganwald": 2,
+        "akuhn": 2,
+        "conal": 1,
+        "sigfpe": 1
+    },
+    "users_retweeted": [
+        "smarr",
+        "jamesiry",
+        "jonathoda",
+        "headinthebox",
+        "SOM_VMs",
+        "vassili_bykov",
+        "onierstrasz",
+        "dart_lang",
+        "smalltalkhacker",
+        "fast_arg",
+        "tvdstorm",
+        "cincomsmalltalk",
+        "ShriramKMurthi",
+        "worrydream",
+        "TensyrInc",
+        "yoshikiohshima",
+        "TheOfficialACM",
+        "programmingconf",
+        "stevedekorte",
+        "jeanqasaur",
+        "swannodette",
+        "laurencetratt",
+        "JBezivin",
+        "CarlHewitt",
+        "drkrab",
+        "ldfallas",
+        "raganwald",
+        "akuhn",
+        "j_v_66",
+        "KentBeck",
+        "srbaker",
+        "garybernhardt",
+        "marksammiller",
+        "PTchernavskij",
+        "lukechurch",
+        "ymeymann",
+        "lambdista",
+        "robertkrahn",
+        "haupz",
+        "czaplic",
+        "jpbempel",
+        "AATechRecruiter",
+        "jfbastien",
+        "sperbsen",
+        "dsyme",
+        "heathercmiller",
+        "smalltalkdev",
+        "jurgenvinju",
+        "ibdknox",
+        "craiganslow",
+        "RanjitJhala",
+        "samth",
+        "dylanbeattie",
+        "GoogleAI",
+        "rossetate",
+        "pchiusano",
+        "mgrnbrg",
+        "tomaspetricek",
+        "LogoFoundation",
+        "csandis",
+        "duncancragg",
+        "statuscode",
+        "cfbolz",
+        "rubyrogues",
+        "jessitron",
+        "ebooksdealofday",
+        "bohdan72",
+        "awbjs",
+        "PLDI",
+        "avdi",
+        "SwiftOnSecurity",
+        "floekke",
+        "zef",
+        "abt_programming",
+        "blondeinabinder",
+        "Felienne",
+        "timfelgentreff",
+        "lukego",
+        "wrnli",
+        "thormagnusson",
+        "markusvoelter",
+        "ympbyc",
+        "avibryant",
+        "sorenmacbeth",
+        "ricky_clarkson",
+        "ehud",
+        "RainerJoswig",
+        "lazycoder",
+        "ajlopez",
+        "Werner",
+        "DRMacIver",
+        "SeanDenigris",
+        "EelcoVisser",
+        "alexwarth",
+        "conal",
+        "sigfpe"
+    ]
+}

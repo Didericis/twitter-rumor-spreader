@@ -1,0 +1,4192 @@
+{
+    "is_complete": true,
+    "username": "2b_as",
+    "retweeted": {
+        "1119719281489584128": {
+            "id": "1119719281489584128",
+            "text": "Joe Armstrong, the inventor of the Erlang programming language and ecosystem, died. RIP and thanks for all the fish.https://twitter.com/joeerl/status/1114558139217711104\u00a0\u2026",
+            "username": "timpritlove",
+            "num_likes": 149,
+            "num_retweets": 66,
+            "num_replies": 0
+        },
+        "1118826091936997377": {
+            "id": "1118826091936997377",
+            "text": "So Intel is the 1st chip casualty of the 4G to 5G n/wk transition. These always force market exits.  2G to 3G saw exit of ADI, TI, Silicon Labs, Freescale and NXP.  3G to 4G removed Broadcom, Nokia, Infineon, Renesas, ST-Ericsson, Marvell and NVIDIA (Icera).",
+            "username": "sentwistle1419",
+            "num_likes": 42,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "1118296038337421312": {
+            "id": "1118296038337421312",
+            "text": "Intel will exit the 5G smartphone modem business to focus our 5G efforts on network infrastructure and other data-centric opportunities: https://intel.ly/2GhnWdx\u00a0pic.twitter.com/zS1F8GPIJF",
+            "username": "intelnews",
+            "num_likes": 46,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "1107995864038035457": {
+            "id": "1107995864038035457",
+            "text": "Learning about AML at TelcoSecDay of @WEareTROOPERS for locating phones in emergency calls, the \"successor in spirit\" of RRLP and SUPL a decade ago. Quite interesting that modern iOS + Android phones are sending SMS with your location when you make emergency calls",
+            "username": "LaF0rge",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1098443422908608514": {
+            "id": "1098443422908608514",
+            "text": "Pretty good list.https://twitter.com/newsycombinator/status/1098432726200397824\u00a0\u2026",
+            "username": "PatrickMcCanna",
+            "num_likes": 5,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1082254587849928706": {
+            "id": "1082254587849928706",
+            "text": "At #Osmocom, we're looking for 2G/3G core network traces of Inter-MSC handover.  We could use the traces to validate our ongoing implementation: http://lists.osmocom.org/pipermail/openbsc/2019-January/012620.html\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 10,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1079063459629801472": {
+            "id": "1079063459629801472",
+            "text": "Hat jemand eine Vodafone oder Telefonica NB-IOT SIM Karte, um ein SIM7020E Board zu testen und ist auf dem #35C3 ?",
+            "username": "hhf",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1073530428240347136": {
+            "id": "1073530428240347136",
+            "text": "German 5G & critical infrastructure/Huawei discussion shifting.\nDeutsche Telekom until recently one of the biggest Huawei cheerleaders is \"reconsidering its procurement strategy. We take the global discussion very seriously\".https://www.faz.net/aktuell/wirtschaft/diginomics/die-telekom-ueberprueft-von-wem-sie-sensible-technik-kauft-15941291.html\u00a0\u2026",
+            "username": "thorstenbenner",
+            "num_likes": 35,
+            "num_retweets": 41,
+            "num_replies": 6
+        },
+        "1070713412378902534": {
+            "id": "1070713412378902534",
+            "text": "\"the main issue was an expired certificate\" in \"two specific software versions of the SGSN\u2013MME (Serving GPRS Support Node \u2013 Mobility Management Entity).\" \n\nhttps://www.ericsson.com/en/press-releases/2018/12/update-on-software-issue-impacting-certain-customers?707191720\u00a0\u2026https://twitter.com/PedroClarke1/status/1070612370723139586\u00a0\u2026",
+            "username": "PedroClarke1",
+            "num_likes": 28,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1069896812398407680": {
+            "id": "1069896812398407680",
+            "text": "Meanwhile somewhere in 1990's - 93's - Nostalgiapic.twitter.com/r6eyymRDX6",
+            "username": "binitamshah",
+            "num_likes": 257,
+            "num_retweets": 77,
+            "num_replies": 12
+        },
+        "1068532759747014656": {
+            "id": "1068532759747014656",
+            "text": "Lustiger Teil der Antwort: Die Handynummer des verantwortlichen Polizisten (nach der wir nicht gefragt haben) darf nicht \u00f6ffentlich werden, \"da \u00fcber die Mobilfunknummer jederzeit der Aufenthaltsort einer Person grob bestimmbar ist\". Genau, davor warnen wir seit Jahren!pic.twitter.com/0E9bAyM4WB",
+            "username": "andre_meister",
+            "num_likes": 62,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1053135355161890816": {
+            "id": "1053135355161890816",
+            "text": "I highly recommend this talk by Anthony Timson on his \"stubborn\" efforts building his own cellular network to connect areas with no cellular coverage even within the London orbital: (1/2)",
+            "username": "LaF0rge",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1045933006270205952": {
+            "id": "1045933006270205952",
+            "text": "\"very first commercial launch of 5G in the world\" . What about these?\n\nSan Marino launches first nationwide 5G network: https://operatorwatch.3g4g.co.uk/2018/08/san-marino-launches-first-nationwide-5g.html\u00a0\u2026\n\nElisa claims \"first in world...\nhttps://operatorwatch.3g4g.co.uk/2018/06/elisa-claims-first-in-world-to-launch.html\u00a0\u2026\n\n3 Middle East Operators...World's First' 5G...\nhttps://operatorwatch.3g4g.co.uk/2018/05/three-middle-east-operators-launch.html\u00a0\u2026",
+            "username": "3g4gUK",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1044675178343661568": {
+            "id": "1044675178343661568",
+            "text": "The UK just admitted the global mass surveillance system was used against civil society\u2014people like you. These programs were never about crime or terrorism, they're about power. It's about control.https://twitter.com/privacyint/status/1044547574546538496\u00a0\u2026",
+            "username": "Snowden",
+            "num_likes": 17501,
+            "num_retweets": 12455,
+            "num_replies": 330
+        },
+        "1042525542849765376": {
+            "id": "1042525542849765376",
+            "text": "I recently wrote a #wireshark dissector for 3GPP CBSP (Cell Broadcast Service Protocol) from scratch. I don't have any traces to test it against. Can anyonte help? https://code.wireshark.org/review/#/c/29745/\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 23,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "1040726602563432448": {
+            "id": "1040726602563432448",
+            "text": "The other interesting thing: Both the Samsung Shannon baseband and the Intel ICE baseband seem to be gaining fake cell detection (IMSI catcher countermeasures). Looks like detected rogue cells might even be reported back to AAPL through AWD.",
+            "username": "esizkur",
+            "num_likes": 90,
+            "num_retweets": 38,
+            "num_replies": 5
+        },
+        "1039433031600271360": {
+            "id": "1039433031600271360",
+            "text": "AMN has started rolling out ultra-low cost small 10m towers to work in rural villages in Zambia, Cameroon and a couple other countries. Communities value them so much that they build their own fences and security.pic.twitter.com/yGVI5mQHdX",
+            "username": "whiteafrican",
+            "num_likes": 48,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1039367544988000256": {
+            "id": "1039367544988000256",
+            "text": "pic.twitter.com/P6iHEA0XRF",
+            "username": "yun",
+            "num_likes": 2776,
+            "num_retweets": 898,
+            "num_replies": 133
+        },
+        "1020701284641529857": {
+            "id": "1020701284641529857",
+            "text": "Okay. I finally started dumping the eMMC of my the #nokia 8110 i bought yesterday. Let's see, if it works out and if it is possible to get own software on it. This would make the #banana a brilliant platform.pic.twitter.com/q8fhgKcp6E",
+            "username": "Nexus511",
+            "num_likes": 85,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "1019974835953459200": {
+            "id": "1019974835953459200",
+            "text": "Breaking - UK govt oversight board says \"shortcomings in Huawei\u2019s engineering processes have exposed new risks in the UK telecommunication networks\"   \"limited assurance that any risks to UK national security...have been\nsufficiently mitigated.\" Big questions for Huawei",
+            "username": "ruskin147",
+            "num_likes": 116,
+            "num_retweets": 156,
+            "num_replies": 27
+        },
+        "1005149613496643584": {
+            "id": "1005149613496643584",
+            "text": "In the config editor at least, setting the int to 0.\n#Enigmail #WKDpic.twitter.com/WIYWbUhOnp",
+            "username": "vecirex",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1005136187349139456": {
+            "id": "1005136187349139456",
+            "text": "Seriously? In the 5G RAN, they named a new interface \"E1\" (TS 38.460 and following ones). With all the 2G/3G legacy that uses physical E1/T1 lines even still today, of course that's not confusing at all. They seem to have no respect for their own heritage at #3GPP these days :(",
+            "username": "LaF0rge",
+            "num_likes": 24,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1001547026574737408": {
+            "id": "1001547026574737408",
+            "text": "Dieters take on @keen_lab not providing any attribution on other/prior research on both QNX as well as @BMW telematics security: http://www.mirider.com/weblog/2018/05/28/#20180528_A_personal_remark_about_security_research\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 22,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "999243919899680768": {
+            "id": "999243919899680768",
+            "text": "Its really sad (and unprofessional) by @keen_lab to not attribute all the prior work by Dieter Spaar (under ADAC contract) on hacking BMW ConnectedDrive already in early 2015. Not one mention at allhttps://twitter.com/x0rz/status/998875299965173760\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 67,
+            "num_retweets": 30,
+            "num_replies": 4
+        },
+        "988047418401882112": {
+            "id": "988047418401882112",
+            "text": "At the #Osmocom Developer Conference, Steve Markgraf (creator of rtl-sdr) just released osmo-fl2k: Turning USB VGA dongles into  a transmit-only SDR https://osmocom.org/projects/osmo-fl2k/wiki/Wiki\u00a0\u2026 http://git.osmocom.org/osmo-fl2k\u00a0",
+            "username": "LaF0rge",
+            "num_likes": 239,
+            "num_retweets": 156,
+            "num_replies": 4
+        },
+        "981912404509503488": {
+            "id": "981912404509503488",
+            "text": "if you're interested in cellular warning systems and cellular baseband security, I hope this is an interesting read! bug shortcut https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/#CVE-2018-4148\u00a0\u2026https://twitter.com/Comsecuris/status/981906169890566145\u00a0\u2026",
+            "username": "iamnion",
+            "num_likes": 45,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "981906169890566145": {
+            "id": "981906169890566145",
+            "text": "There's Life in the Old Dog Yet: Tearing New Holes into Intel/iPhone Cellular Modems: https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/\u00a0\u2026",
+            "username": "Comsecuris",
+            "num_likes": 33,
+            "num_retweets": 33,
+            "num_replies": 2
+        },
+        "980113905426026496": {
+            "id": "980113905426026496",
+            "text": "Slides for my #SyScan360 talk on the Infineon Baseband, \nMostly introductory,  I'll start releasing my tools in the upcoming weeks.\n\nFrom 0 to Infinityhttps://docs.google.com/presentation/d/19A1JWyOTueZvD8AksqCxtxriNJJgj0vPdq3cNTwndf4/edit?usp=sharing\u00a0\u2026",
+            "username": "Shiftreduce",
+            "num_likes": 207,
+            "num_retweets": 116,
+            "num_replies": 5
+        },
+        "969840296648429568": {
+            "id": "969840296648429568",
+            "text": "Vodafone Uganda Files for Bankruptcy https://wp.me/p5MfqS-4Lw\u00a0 via @Commsrisk",
+            "username": "HardenStance",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "963350125761433600": {
+            "id": "963350125761433600",
+            "text": "Speaker from @ericsson expects 2G 900MHz GSM to last a very long time, to service long-term M2M uses like electricity meters",
+            "username": "disruptivedean",
+            "num_likes": 9,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "957294674406002689": {
+            "id": "957294674406002689",
+            "text": "1996 hat eine halbe Stunde Ortsgespr\u00e4ch am Vormittag noch 2 Maaak 40 gekostet.pic.twitter.com/EPRsmDjXZ2",
+            "username": "Dr_Gretchen",
+            "num_likes": 1078,
+            "num_retweets": 428,
+            "num_replies": 72
+        },
+        "954043292794212357": {
+            "id": "954043292794212357",
+            "text": "#lumiereldn Aquarium in a telephone box  Finally got to see it in all its fishy glory! Best use of a disused telephone box (after a library as demonstrated by the folk in Lewisham)pic.twitter.com/mLsQ3LVEJE",
+            "username": "RossBolWill",
+            "num_likes": 188,
+            "num_retweets": 65,
+            "num_replies": 10
+        },
+        "954471562375294976": {
+            "id": "954471562375294976",
+            "text": "New wiki page with collection of video recording of #osmocom related talks: https://osmocom.org/projects/cellular-infrastructure/wiki/Videos_of_Presentations\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 42,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "940083647029190657": {
+            "id": "940083647029190657",
+            "text": "Imagine if the NSA tweeted out stuff like thishttps://twitter.com/netflix/status/940051734650503168\u00a0\u2026",
+            "username": "pwnallthethings",
+            "num_likes": 2409,
+            "num_retweets": 833,
+            "num_replies": 42
+        },
+        "937272563100680192": {
+            "id": "937272563100680192",
+            "text": "SMS turns 25 today. The first text message was sent on the 3rd of December, 1992. \n\nAlso, GSM SMS MSG is a palindrome.",
+            "username": "mikko",
+            "num_likes": 2074,
+            "num_retweets": 1199,
+            "num_replies": 26
+        },
+        "936610784540536833": {
+            "id": "936610784540536833",
+            "text": "Nokia Snake is now 20 years old. Thank You Taneli Armanto. \nhttps://en.wikipedia.org/wiki/Nokia_6110\u00a0pic.twitter.com/JKwrCyS0Ng",
+            "username": "mikko",
+            "num_likes": 316,
+            "num_retweets": 118,
+            "num_replies": 10
+        },
+        "930365558100582401": {
+            "id": "930365558100582401",
+            "text": "Future Railway Mobile Communication System (FRMCS) #URLLC2017pic.twitter.com/h0IVcXo3ay",
+            "username": "zahidtg",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "929740438294204416": {
+            "id": "929740438294204416",
+            "text": "Forbes cover 10 years ago.pic.twitter.com/EBlHpdRDsl",
+            "username": "mikko",
+            "num_likes": 27407,
+            "num_retweets": 19263,
+            "num_replies": 408
+        },
+        "924751753123418112": {
+            "id": "924751753123418112",
+            "text": "Das allerbeste Telekommunikations-Deutsch, dass man sich vorstellen kann: https://www.aknn.de/fileadmin/uploads/oeffentlich/ZeichengabeImZZN7_400_verabschiedet.pdf\u00a0\u2026 Zeichengabezwischennetz Nr.7 (ZZN7)",
+            "username": "LaF0rge",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "912163075511410688": {
+            "id": "912163075511410688",
+            "text": "pic.twitter.com/BBWLB8Zklu",
+            "username": "jellphonic",
+            "num_likes": 13019,
+            "num_retweets": 5409,
+            "num_replies": 73
+        },
+        "907650014238973952": {
+            "id": "907650014238973952",
+            "text": "Researchers say only 45% of #Android phones are patchable. That leaves 1.1 billion older devices vulnerable -http://bit.ly/2f2w3kt\u00a0",
+            "username": "threatpost",
+            "num_likes": 38,
+            "num_retweets": 65,
+            "num_replies": 1
+        },
+        "905403631989641217": {
+            "id": "905403631989641217",
+            "text": "#Osmocom News: OpenGGSN is dead, long live OsmoGGSN https://osmocom.org/news/77\u00a0 - VTY interface, multiple APN, virtual GGSN instances, ...",
+            "username": "LaF0rge",
+            "num_likes": 25,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "899321881974755328": {
+            "id": "899321881974755328",
+            "text": "The 3G4G Blog: Enhanced 5G Security via IMSI Encryption http://blog.3g4g.co.uk/2017/08/enhanced-5g-security-via-imsi-encryption.html\u00a0\u2026 via @EricssonLabspic.twitter.com/0LD2H6mly0",
+            "username": "zahidtg",
+            "num_likes": 18,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "897528108793958400": {
+            "id": "897528108793958400",
+            "text": "The 3G4G Blog: AT&T Blog: \"Providing Connectivity from Inside a Cactus\" - http://blog.3g4g.co.uk/2017/08/at-blog-providing-connectivity-from.html?spref=tw\u00a0\u2026 via @ATT #StealthAntennas #Antennas #4Gpic.twitter.com/uS6Bomulg3",
+            "username": "zahidtg",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "888316240812486656": {
+            "id": "888316240812486656",
+            "text": "The super-fast next generation cell phone service (5G) only makes sense for the wealthy - http://uk.businessinsider.com/5g-cell-phone-service-only-makes-sense-for-the-wealthy-2017-7?r=US&IR=T\u00a0\u2026pic.twitter.com/Ewyxcd2V5G",
+            "username": "zahidtg",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "886290921381179392": {
+            "id": "886290921381179392",
+            "text": "Apparently future-dated gps packets disable Stingray phone signal intercept devices. The device thinks its license has expired and locks up.pic.twitter.com/tCVp5AXkD4",
+            "username": "VickerySec",
+            "num_likes": 1722,
+            "num_retweets": 1000,
+            "num_replies": 31
+        },
+        "884694176515936256": {
+            "id": "884694176515936256",
+            "text": "Hey @firefox, the privacy respecting browser, could you please stop using Google Analytics in your about:addons page? Thanks. #privacy #failpic.twitter.com/1AkM8dNg0G",
+            "username": "NicolasPetton",
+            "num_likes": 650,
+            "num_retweets": 498,
+            "num_replies": 33
+        },
+        "875820268303917056": {
+            "id": "875820268303917056",
+            "text": "In case you want to know how #Osmocom GSM/3G work is funded:http://laforge.gnumonks.org/blog/20170616-osmocom_funding/\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 28,
+            "num_retweets": 30,
+            "num_replies": 2
+        },
+        "867537946936848385": {
+            "id": "867537946936848385",
+            "text": "pic.twitter.com/tveCpmhJvI",
+            "username": "frank_rieger",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 6
+        },
+        "867033641389621248": {
+            "id": "867033641389621248",
+            "text": "http://www.samsung.com/global/galaxy/galaxy-s8/security/\u00a0\u2026 \"There's iris scanning for airtight security\" #airtightsecurity!1!11!",
+            "username": "iamnion",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "867041082902798337": {
+            "id": "867041082902798337",
+            "text": "The false eye: Another reminder that #biometrics is not a silver bullet http://www.bbc.com/news/technology-40012990\u00a0\u2026 #S8irishack",
+            "username": "chaosupdates",
+            "num_likes": 65,
+            "num_retweets": 69,
+            "num_replies": 0
+        },
+        "863381894175567873": {
+            "id": "863381894175567873",
+            "text": "Expanding our cultural reach is very important to us: #34c3 is moving to #Leipzig https://www.ccc.de/en/updates/2017/34C3-in-leipzig\u00a0\u2026",
+            "username": "chaosupdates",
+            "num_likes": 133,
+            "num_retweets": 178,
+            "num_replies": 0
+        },
+        "862952347026153473": {
+            "id": "862952347026153473",
+            "text": "Filtered for IMSI/MSISDN/GT in a packet trace and spent too much in \"Expand All\" and scrolling? Split it with this:https://github.com/moiji-mobile/pcap-toolset\u00a0\u2026",
+            "username": "zecke42",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "862589402140352514": {
+            "id": "862589402140352514",
+            "text": "We discovered a keylogger in a  recent HP audio driver package. https://www.modzero.ch/modlog/archives/2017/05/11/en_keylogger_in_hewlett-packard_audio_driver/index.html\u00a0\u2026 -\n CVE-2017-8360",
+            "username": "__ths__",
+            "num_likes": 594,
+            "num_retweets": 755,
+            "num_replies": 23
+        },
+        "860191526760140800": {
+            "id": "860191526760140800",
+            "text": "Remember that thing about \"Do NOT use your phone number as a means of authenticating yourself to a site\"? https://arstechnica.com/security/2017/05/thieves-drain-2fa-protected-bank-accounts-by-abusing-ss7-routing-protocol/\u00a0\u2026",
+            "username": "zooko",
+            "num_likes": 16,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "859707748723949568": {
+            "id": "859707748723949568",
+            "text": "Habe dazu mit dem SS7-Experten @2b_as gesprochen. Er nimmt die Provider ein wenig in Schutz: http://www.zeit.de/digital/datenschutz/2017-05/onlinebanking-hacker-konten-mtan-ss7\u00a0\u2026https://twitter.com/SZ_Digital/status/859645935969865728\u00a0\u2026",
+            "username": "PatrickBeuth",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "854706307395461121": {
+            "id": "854706307395461121",
+            "text": "How attackers were discovered inside a mobile operator during a routine audit https://conference.hitb.org/hitbsecconf2017ams/materials/D2T4%20-%20Emmanuel%20Gadaix%20-%20A%20Surprise%20Encounter%20With%20a%20Telco%20APT.pdf\u00a0\u2026 (PDF)\nGuess who had Solaris 0day? pic.twitter.com/crcxJGlqiW",
+            "username": "x0rz",
+            "num_likes": 328,
+            "num_retweets": 247,
+            "num_replies": 8
+        },
+        "851407621693333505": {
+            "id": "851407621693333505",
+            "text": "Finally, 77 SIGTRAN related patches merged to #osmocom - with M3UA, SUA, SCCP (connection oriented!) and a STP:http://laforge.gnumonks.org/blog/20170410-libosmo-sigtran/\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 10,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "848643328337903616": {
+            "id": "848643328337903616",
+            "text": "Awesome poster on the history of #nokia phones. #mobilepic.twitter.com/xUWUC0C2Jy",
+            "username": "thejoshpit",
+            "num_likes": 28,
+            "num_retweets": 31,
+            "num_replies": 3
+        },
+        "847878910369030144": {
+            "id": "847878910369030144",
+            "text": "#Osmocom libosmo-sigtran stack finally working for connection-oriented SCCP over M3UA (important step for 3GPP AoIP)",
+            "username": "LaF0rge",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "843560334384279552": {
+            "id": "843560334384279552",
+            "text": "I've seen this style of dial illustrated in early human-factors study reports. I didn't know they actually made them!pic.twitter.com/z1Z9CHhQOD",
+            "username": "museumofcomm",
+            "num_likes": 466,
+            "num_retweets": 228,
+            "num_replies": 13
+        },
+        "842200478524006400": {
+            "id": "842200478524006400",
+            "text": "@2b_as Sp\u00e4ter Impact\u2026https://techcrunch.com/2017/03/15/ss7-congress-dhs-wyden-lieu/\u00a0\u2026",
+            "username": "LarsWienand",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "838334607351218177": {
+            "id": "838334607351218177",
+            "text": "A wild new repository appears: DECT sniffing with SDRhttps://github.com/znuh/re-DECTed\u00a0",
+            "username": "ElZnuh",
+            "num_likes": 65,
+            "num_retweets": 43,
+            "num_replies": 0
+        },
+        "832848678893264896": {
+            "id": "832848678893264896",
+            "text": "Easy 4G/LTE IMSI Catchers for Non-Programmers\nhttps://arxiv.org/pdf/1702.04434.pdf\u00a0\u2026 [PDF]pic.twitter.com/hUpDGXXd5W",
+            "username": "Enno_Insinuator",
+            "num_likes": 264,
+            "num_retweets": 203,
+            "num_replies": 6
+        },
+        "823903744647720960": {
+            "id": "823903744647720960",
+            "text": "After yesterday's tweet thought I'd gather some imagery. These are genuine shots from our team keeping the EE network working in the cold:pic.twitter.com/DasHlF99tZ",
+            "username": "MarcAllera",
+            "num_likes": 39,
+            "num_retweets": 19,
+            "num_replies": 6
+        },
+        "823589402576187395": {
+            "id": "823589402576187395",
+            "text": "Best question so far about my 1992 Nokia 101: \"How can it be older than the web, if it has a separate button for the #hashtag?\"pic.twitter.com/Sa9drZwtPe",
+            "username": "mikko",
+            "num_likes": 2757,
+            "num_retweets": 1366,
+            "num_replies": 67
+        },
+        "822187279804465155": {
+            "id": "822187279804465155",
+            "text": "All MNOs with 4G, as well as 2G and 3G, on one, rather busy, headframe. BTS: VF/O2 Ericsson, 3 4G Samsung, EE 2G/4G Huawei. MBNL 3G Nokia.pic.twitter.com/B5Afm7utuL",
+            "username": "PedroClarke1",
+            "num_likes": 48,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "817840159186178048": {
+            "id": "817840159186178048",
+            "text": "partial DIAG parsing for #wireshark now implemented at http://git.osmocom.org/wireshark/log/?h=laforge/qcdiag\u00a0\u2026 to be used with http://git.osmocom.org/osmo-qcdiag/\u00a0",
+            "username": "LaF0rge",
+            "num_likes": 22,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "816077566612303872": {
+            "id": "816077566612303872",
+            "text": "Hacker perspective: AT&T switching off 2G does NOT mean that phones in your pocket will suddenly magically stop connecting to any 2G cells\u2026https://twitter.com/hackerfantastic/status/816051724943327232\u00a0\u2026",
+            "username": "frank_rieger",
+            "num_likes": 153,
+            "num_retweets": 113,
+            "num_replies": 7
+        },
+        "809975466010374144": {
+            "id": "809975466010374144",
+            "text": "Really looking forward to @LaF0rge and @zecke42's CCC talk! \"Dissecting modern 3G/4G cellular modems\" -  https://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8151.html\u00a0\u2026.",
+            "username": "msolnik",
+            "num_likes": 52,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "797512925430906881": {
+            "id": "797512925430906881",
+            "text": "Die GSM Palme - Erkennungszeichen: Rote Lampe auf der Spitzepic.twitter.com/XCCaE75xKt",
+            "username": "frapzz0r",
+            "num_likes": 40,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "797332822298161152": {
+            "id": "797332822298161152",
+            "text": "Zum Gl\u00fcck h\u00e4lt neben dem ICE ein holl\u00e4ndischer Regionalzug... sonst h\u00e4tte ich jetzt gar kein Internet.",
+            "username": "zecke42",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "794260514645966850": {
+            "id": "794260514645966850",
+            "text": "Interesting stuff: Wi-Fi-Based IMSI Catcher\nhttps://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf\u00a0\u2026 [PDF], by @raviborgaonkar & Piers O'Hanlon\n#BHEUpic.twitter.com/lTGTADnS5N",
+            "username": "Enno_Insinuator",
+            "num_likes": 97,
+            "num_retweets": 101,
+            "num_replies": 0
+        },
+        "793729536504500226": {
+            "id": "793729536504500226",
+            "text": "Einhundert M pro bits -\nEin weiterer Durchbruch der Licht-durch-Kupfer-Technologie!pic.twitter.com/mA8TfonTGT",
+            "username": "Linuzifer",
+            "num_likes": 382,
+            "num_retweets": 275,
+            "num_replies": 22
+        },
+        "792466862361706496": {
+            "id": "792466862361706496",
+            "text": "Cool idea! \"SMS Privacy allows you to buy mobile phone numbers using Bitcoin\" https://smsprivacy.org/\u00a0 Tor HS: http://smspriv6fynj23u6.onion\u00a0",
+            "username": "lightcoin",
+            "num_likes": 33,
+            "num_retweets": 31,
+            "num_replies": 0
+        },
+        "790333450037424128": {
+            "id": "790333450037424128",
+            "text": "Using DRAM errors (rowhammer) to root an Android phone http://arstechnica.com/security/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/\u00a0\u2026",
+            "username": "pwnallthethings",
+            "num_likes": 90,
+            "num_retweets": 101,
+            "num_replies": 2
+        },
+        "788457765849137153": {
+            "id": "788457765849137153",
+            "text": "Good summary of #LTEVoice by @thinksmallcell, including the roaming discussions - https://www.thinksmallcell.com/Femtocell-Events/lte-voice-summit-2016-event-report.html\u00a0\u2026 #5GWorld",
+            "username": "zahidtg",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "786129547452383232": {
+            "id": "786129547452383232",
+            "text": "Swisscom offers a \"emergency stop\" for VoLTE: customers can send an SMS to be removed from VoLTE service (actually IMS altogether) #LTEVoice",
+            "username": "jserna",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "783028900418969600": {
+            "id": "783028900418969600",
+            "text": "#Osmocom 3G circuit switched voice support with IuCS and Iuh: https://osmocom.org/news/59\u00a0",
+            "username": "LaF0rge",
+            "num_likes": 19,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "782292227741585409": {
+            "id": "782292227741585409",
+            "text": "This is so truepic.twitter.com/i90pLrpRVr",
+            "username": "michael_hendrix",
+            "num_likes": 8096,
+            "num_retweets": 5253,
+            "num_replies": 227
+        },
+        "778329222750343168": {
+            "id": "778329222750343168",
+            "text": "Informatik-Gutachten: Eine Telefonnummer ist ausreichend, um eine Person mit einer Drohnen-Rakete zu treffen. https://netzpolitik.org/2016/informatik-gutachten-eine-telefonnummer-ist-ausreichend-um-eine-person-mit-einer-drohnen-rakete-zu-treffen/\u00a0\u2026pic.twitter.com/ZxhbmTfg0j",
+            "username": "netzpolitik",
+            "num_likes": 73,
+            "num_retweets": 142,
+            "num_replies": 3
+        },
+        "772424568187326464": {
+            "id": "772424568187326464",
+            "text": "Releasing diag-parser (https://github.com/moiji-mobile/diag-parser\u00a0\u2026) to get PCAP out of Quectel modems. See https://moiji-mobile.com/2016/09/04/quectel-uc20-ec20-qxdm/\u00a0\u2026 for my set-up.",
+            "username": "zecke42",
+            "num_likes": 48,
+            "num_retweets": 41,
+            "num_replies": 0
+        },
+        "769005954851491840": {
+            "id": "769005954851491840",
+            "text": "#MakePhonesDumbAgainpic.twitter.com/ZjmM5iJglE",
+            "username": "DidymaWorks",
+            "num_likes": 45,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "768859049228177409": {
+            "id": "768859049228177409",
+            "text": "Why Apple pushed iOS 9.3.5 so fast: remote-jailbreak exploit chain used for govt. trojan against dissidents phonehttps://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/\u00a0\u2026",
+            "username": "frank_rieger",
+            "num_likes": 89,
+            "num_retweets": 180,
+            "num_replies": 2
+        },
+        "754028203409285120": {
+            "id": "754028203409285120",
+            "text": "Timeline from Japanese operator KDDI of every mobile handset it has ever sold since 1988 - http://time-space.kddi.com/ketaizukan/index.html\u00a0\u2026pic.twitter.com/m6RWKuHLzB",
+            "username": "zahidtg",
+            "num_likes": 10,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "752563042769072128": {
+            "id": "752563042769072128",
+            "text": "Customer: \"The only experience with #Erlang we have is something you deployed 4 years ago, and it still runs without any crash/restart.\"",
+            "username": "LaF0rge",
+            "num_likes": 57,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "750298441625001984": {
+            "id": "750298441625001984",
+            "text": "@collinrm It doesn\u2019t. Guess that\u2019s a misunderstanding of the \u201etwo factor\u201c concept :D",
+            "username": "dhauenstein",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "748750184612442112": {
+            "id": "748750184612442112",
+            "text": "How I notice a new month has started? By dozens of mailman list subscription status reminders. Did anyone ever do anything but delete them?",
+            "username": "LaF0rge",
+            "num_likes": 22,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "744252204505309186": {
+            "id": "744252204505309186",
+            "text": "Slides for our #Samsung baseband research presented @reconmtl: https://comsecuris.com/slides/recon2016-breaking_band.pdf\u00a0\u2026",
+            "username": "Comsecuris",
+            "num_likes": 142,
+            "num_retweets": 139,
+            "num_replies": 0
+        },
+        "740934433767890944": {
+            "id": "740934433767890944",
+            "text": "Faszinierender Unsinn, den die Geheimdienstler da \u00fcber die angebl. Unm\u00f6glichkeit der pr\u00e4zisen Lokalisierung von Mobiltelefonen reden. #NSAUA",
+            "username": "frank_rieger",
+            "num_likes": 68,
+            "num_retweets": 61,
+            "num_replies": 8
+        },
+        "737736912144879616": {
+            "id": "737736912144879616",
+            "text": "U.S. court says no warrant needed for cellphone location data http://reut.rs/281gpHv\u00a0pic.twitter.com/vqpsYbl2IV",
+            "username": "Reuters",
+            "num_likes": 335,
+            "num_retweets": 893,
+            "num_replies": 42
+        },
+        "734685078526234624": {
+            "id": "734685078526234624",
+            "text": "Representation of all #SS7 location tracking attacks in a nutshell. I owe this diagram to @2b_as :)  #Telcosecpic.twitter.com/j12IiL4OpG",
+            "username": "sidnext2none",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "734009770072494080": {
+            "id": "734009770072494080",
+            "text": "Docomo makes smartphones covertly trackable by Japanese authorities | The Japan Times http://www.japantimes.co.jp/news/2016/05/17/business/corporate-business/new-docomo-smartphone-models-will-covertly-trackable-japanese-authorities/#.V0BfcrGstrP.twitter\u00a0\u2026",
+            "username": "RonDeibert",
+            "num_likes": 5,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "733254903339028480": {
+            "id": "733254903339028480",
+            "text": "Bin mir ganz sicher, dass die Telekom den Ausstieg aus der funktionierenden Telefonie vollkommen im Griff hat.pic.twitter.com/sSnsgSBnR5",
+            "username": "nblr",
+            "num_likes": 90,
+            "num_retweets": 55,
+            "num_replies": 12
+        },
+        "726136203519623168": {
+            "id": "726136203519623168",
+            "text": "Note also the part about possible SS7 attacks on SMS authentication.\nhttps://twitter.com/Cryptomeorg/status/726135206088990720\u00a0\u2026",
+            "username": "SteveBellovin",
+            "num_likes": 22,
+            "num_retweets": 53,
+            "num_replies": 6
+        },
+        "721472320330711045": {
+            "id": "721472320330711045",
+            "text": "You know when phone cords get uncoiled and you can't make them normal again? It has an *amazing* name: https://en.wikipedia.org/wiki/Tendril_perversion\u00a0\u2026",
+            "username": "Hannah_Chutzpah",
+            "num_likes": 884,
+            "num_retweets": 991,
+            "num_replies": 47
+        },
+        "699814182464593920": {
+            "id": "699814182464593920",
+            "text": "Radial phone testerpic.twitter.com/qz9eq3HO9U",
+            "username": "PatrickMcCanna",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "698808112489357312": {
+            "id": "698808112489357312",
+            "text": "Does the iPhone take the date/time from GSM as well? (http://www.golem.de/news/apples-ios-datumsfehler-macht-iphone-kaputt-1602-119118.html\u00a0\u2026)",
+            "username": "zecke42",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "695112922175897600": {
+            "id": "695112922175897600",
+            "text": "Where is your signaling system 7 now?!? https://m.youtube.com/watch?v=xZePwin92cI\u00a0\u2026",
+            "username": "PatrickMcCanna",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "695020841289928704": {
+            "id": "695020841289928704",
+            "text": "Bottom drops out of @CiscoVNI's N.Am. mobile data forecasts #peakspectrumpic.twitter.com/dqutKnRL1i",
+            "username": "TMFAssociates",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "679283878792667136": {
+            "id": "679283878792667136",
+            "text": "Die \u00c4lteren unter Ihnen werden sich an ISDN erinnern. So gut hat Telefonieren nie vorher und nie nachher funktioniert. Peak Phone.",
+            "username": "andreasdotorg",
+            "num_likes": 297,
+            "num_retweets": 209,
+            "num_replies": 24
+        },
+        "679272820103344128": {
+            "id": "679272820103344128",
+            "text": "Werbegeschenke aus der Zeit, als ISDN noch Exportschlager war.pic.twitter.com/PLHECGnlDf",
+            "username": "andreasdotorg",
+            "num_likes": 73,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "669530868139073540": {
+            "id": "669530868139073540",
+            "text": "Huawei doing great in disclosing 'Security Advisory' for baseband bugs too.Hope Qualcomm/MediaTek/Samsung to follow http://www1.huawei.com/en/security/psirt/security-bulletins/security-advisories/hw-459832.htm\u00a0\u2026",
+            "username": "raviborgaonkar",
+            "num_likes": 19,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "650374153149808640": {
+            "id": "650374153149808640",
+            "text": "reviving #Osmocom User Group Berlin meetings. First one on October 7: https://openbsc.osmocom.org/trac/blog/osmug-20151007\u00a0\u2026 with a presentation on the Iuh interface.",
+            "username": "LaF0rge",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "630476518838431744": {
+            "id": "630476518838431744",
+            "text": "3G4G Blog: Diameter Security is worse than SS7 Security http://blog.3g4g.co.uk/2015/08/diameter-security-is-worse-than-ss7.html?spref=tw\u00a0\u2026 (Cc @drogersuk @raviborgaonkar @2b_as)pic.twitter.com/cZlMOShrMz",
+            "username": "zahidtg",
+            "num_likes": 27,
+            "num_retweets": 28,
+            "num_replies": 2
+        },
+        "624135682760511488": {
+            "id": "624135682760511488",
+            "text": "The Commodore #Amiga is 30 years old today.\n\nRenderings by @XYQOMpic.twitter.com/Wpn9nOxyPP",
+            "username": "mikko",
+            "num_likes": 186,
+            "num_retweets": 262,
+            "num_replies": 24
+        },
+        "577411893217865728": {
+            "id": "577411893217865728",
+            "text": "Again this time of the year ...On my way to Troopers'15 and looking forward to TelcoSecDay'15 - https://www.troopers.de/events/troopers15/299_telcosecday_2015_invitation_only/\u00a0\u2026 @WEareTROOPERS",
+            "username": "raviborgaonkar",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "573943460648108032": {
+            "id": "573943460648108032",
+            "text": "700,800,1800,2500/2600 MHz most popular - \"@GSMAi: New infographic: 4G deployments by frequency band @GSMA #MWC15 pic.twitter.com/eJz1PiyFei\"",
+            "username": "zahidtg",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "568497065485045760": {
+            "id": "568497065485045760",
+            "text": "With that access, backdooring the PRNG makes more sense than just extracting the keys. Just sayin'",
+            "username": "esizkur",
+            "num_likes": 4,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "568492038997606400": {
+            "id": "568492038997606400",
+            "text": "Exclusive: American, British spies hacked into world's largest manufacturer of SIM cards, stealing encryption keys.http://interc.pt/1COE51C\u00a0",
+            "username": "theintercept",
+            "num_likes": 133,
+            "num_retweets": 533,
+            "num_replies": 7
+        },
+        "566381002830794752": {
+            "id": "566381002830794752",
+            "text": "Presidential protective services / WHCA did a top notch job (as usual). Always a pleasure to watch the pros work!pic.twitter.com/mZYMT9iFXp",
+            "username": "dotMudge",
+            "num_likes": 220,
+            "num_retweets": 277,
+            "num_replies": 19
+        },
+        "561267614769774592": {
+            "id": "561267614769774592",
+            "text": "Security flaw in BMW\\'s ConnectedDrive detected  http://tinyurl.com/nehlopq\u00a0",
+            "username": "eeNewsEurope",
+            "num_likes": 6,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "561299015334383616": {
+            "id": "561299015334383616",
+            "text": "yet another case where #Osmocom #OpenBSC has helped to reveal serious security issues http://www.heise.de/newsticker/meldung/BMW-ConnectedDrive-gehackt-2533601.html\u00a0\u2026 #bmw #adac #gsm",
+            "username": "LaF0rge",
+            "num_likes": 16,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "551773809012142080": {
+            "id": "551773809012142080",
+            "text": "The official advertising-free youtube channel for all the CCC conference content (incl. #31C3) is here:https://www.youtube.com/user/mediacccde\u00a0",
+            "username": "frank_rieger",
+            "num_likes": 79,
+            "num_retweets": 109,
+            "num_replies": 5
+        },
+        "549702435149983744": {
+            "id": "549702435149983744",
+            "text": "@2b_as @andreasdotorg http://xkcd.com/1435/\u00a0",
+            "username": "tuexss",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "548876118561128449": {
+            "id": "548876118561128449",
+            "text": "@2b_as kudos 4 kudos at #31C3 to Sergey and Dmitry for phdays SS7 talks http://2014.phdays.com/program/tech/36930/\u00a0\u2026",
+            "username": "scadasl",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "548523745410043905": {
+            "id": "548523745410043905",
+            "text": "Ein Hacker (@2b_as) demonstriert, wie man von jedem Punkt der Erde aus Handys orten und fernsteuern kann #31c3http://sz.de/1.2281898\u00a0",
+            "username": "SZ",
+            "num_likes": 101,
+            "num_retweets": 166,
+            "num_replies": 10
+        },
+        "545660793711501312": {
+            "id": "545660793711501312",
+            "text": "Vortrag von @2b_as beim #31c3 wird interessant. Er sagt: Alles noch viel schlimmer als der #SS7-Hack von Nohl & Co.http://www.zeit.de/digital/datenschutz/2014-12/umts-verschluesselung-umgehen-angela-merkel-handy\u00a0\u2026",
+            "username": "PatrickBeuth",
+            "num_likes": 7,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "545661562649067520": {
+            "id": "545661562649067520",
+            "text": "\"3G is heavily encrypted!\"\n\"Oh, ok. Can I have the keys?\"\n\"Sure. Here you are.\"\nhttp://www.zeit.de/digital/datenschutz/2014-12/umts-verschluesselung-umgehen-angela-merkel-handy\u00a0\u2026 (german only, sorry) #SS7",
+            "username": "PatrickBeuth",
+            "num_likes": 61,
+            "num_retweets": 66,
+            "num_replies": 3
+        },
+        "529055344191111169": {
+            "id": "529055344191111169",
+            "text": "Fired up a spectrum analyzer as POTUS motorcade went by. Definitely wideband jamming from lead WHCA vehicle. (& it unpaired my BT headset)",
+            "username": "mattblaze",
+            "num_likes": 282,
+            "num_retweets": 372,
+            "num_replies": 26
+        },
+        "523160345096253441": {
+            "id": "523160345096253441",
+            "text": "When encrypted phones are outlawed, only outlaws will have encrypted phones.",
+            "username": "mikko",
+            "num_likes": 135,
+            "num_retweets": 269,
+            "num_replies": 17
+        },
+        "513034367560871936": {
+            "id": "513034367560871936",
+            "text": "A recording from back then when the future was called ISDN and international automated working a modern miracle: https://nblr.de/jp-navail.mp3\u00a0",
+            "username": "nblr",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "512214731906486272": {
+            "id": "512214731906486272",
+            "text": "Tracking People From their Cellphones with an SS7 Vulnerability: What's interesting about this story is not th... http://bit.ly/1tdRyMX\u00a0",
+            "username": "schneierblog",
+            "num_likes": 24,
+            "num_retweets": 44,
+            "num_replies": 1
+        },
+        "507615227320352769": {
+            "id": "507615227320352769",
+            "text": "#nerds cc @erdgeistpic.twitter.com/beK8Ug5cg9",
+            "username": "lolaandromeda",
+            "num_likes": 7,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "504289587259539456": {
+            "id": "504289587259539456",
+            "text": "Interview mit Tobias Engel zu Handytracking \u2013 \u201cEntwicklung eines eigenen Systems ist nicht besonders schwierig\u201d.https://netzpolitik.org/2014/interview-mit-tobias-engel-zu-handytracking-entwicklung-eines-eigenen-systems-ist-nicht-besonders-schwierig/\u00a0\u2026",
+            "username": "netzpolitik",
+            "num_likes": 3,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "503219041218351104": {
+            "id": "503219041218351104",
+            "text": "Dharavi mobile network http://flic.kr/p/oSmypZ\u00a0",
+            "username": "Linuzifer",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "499045084826836993": {
+            "id": "499045084826836993",
+            "text": "They should make a movie about Phreaking and name it, \"Game of Tones.\"",
+            "username": "SwiftOnSecurity",
+            "num_likes": 43,
+            "num_retweets": 48,
+            "num_replies": 3
+        },
+        "494761787053850625": {
+            "id": "494761787053850625",
+            "text": "Most M2M modules still use 2G. 1% of M2M modules use 4G, 35% use 3G and a whopping 64% 2G... http://fb.me/2wmHvRSFL\u00a0pic.twitter.com/RJ0DHtAc0F",
+            "username": "eXplanoTech",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "480979000136060928": {
+            "id": "480979000136060928",
+            "text": "EE: SIP & IMS bring core signaling to the device. Interesting and unknown side effects, especially in security. #LTEWS h",
+            "username": "dmavrakis",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "479195892323721216": {
+            "id": "479195892323721216",
+            "text": "Decline of the Keyboard. \n\nFrom 56% to 1%, in seven years.pic.twitter.com/kkkLIJSKs0",
+            "username": "somospostpc",
+            "num_likes": 9,
+            "num_retweets": 30,
+            "num_replies": 7
+        },
+        "475701321475964930": {
+            "id": "475701321475964930",
+            "text": "Third time lucky? - Ericsson Phone Comeback With $17 Chip Tests Qualcomm http://bloom.bg/Svemc7\u00a0 via @bjornekelund",
+            "username": "zahidtg",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "471249374870536192": {
+            "id": "471249374870536192",
+            "text": "\"@piwjob_mobile: #android jobs LTE IMSI Catcher : Hi,  I am looking for someone who is capable of running a LTE I... http://bit.ly/KGcnem\u00a0\"",
+            "username": "raviborgaonkar",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "465810158946631680": {
+            "id": "465810158946631680",
+            "text": "Blogged: On the Difference Between RFID And NFChttp://blog.ploetzli.ch/2014/rfid-nfc-difference/\u00a0\u2026",
+            "username": "henrykploetz",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "443365828093026305": {
+            "id": "443365828093026305",
+            "text": "@ioerror Vodafone says it can provide contents of encrypted call to security agencies making \"legitimate request.\"",
+            "username": "wirereporter",
+            "num_likes": 6,
+            "num_retweets": 38,
+            "num_replies": 7
+        },
+        "443342905655431168": {
+            "id": "443342905655431168",
+            "text": "I've (finally) published my blog post on the recent FritzBox router vulnerability:http://www.insinuator.net/2014/03/how-to-own-a-router-fritzbox-avm-vulnerability-analysis/\u00a0\u2026",
+            "username": "_fel1x",
+            "num_likes": 14,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "427932387138215936": {
+            "id": "427932387138215936",
+            "text": "a nice (public) reference about the mess that is A5/3 in practice from a Deutsche Telekom employee https://lists.srlabs.de/pipermail/gsmmap/2014-January/000135.html\u00a0\u2026 #gsm #security",
+            "username": "iamnion",
+            "num_likes": 12,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "426621946995163136": {
+            "id": "426621946995163136",
+            "text": "Qualcomm Acquires Palm, IPAQ and Bitfone Patent Portfolio from HP - http://www.qualcomm.com/media/releases/2014/01/23/qualcomm-acquires-palm-ipaq-and-bitfone-patent-portfolio-hp\u00a0\u2026",
+            "username": "zahidtg",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "423852558516760576": {
+            "id": "423852558516760576",
+            "text": "so I've sat down and done some testing on the current state of mobile XMPP. Results: http://fnanp.in-ulm.de/blog/2014/01/16/01-woes.html\u00a0\u2026",
+            "username": "das_aug",
+            "num_likes": 13,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "416930405980188673": {
+            "id": "416930405980188673",
+            "text": "#30c3 #gsm network - seen mobile devices http://fandango.binarybase.org/~nion/30c3-gsm-devices/\u00a0\u2026 (updated every 5 minutes)",
+            "username": "iamnion",
+            "num_likes": 24,
+            "num_retweets": 32,
+            "num_replies": 2
+        },
+        "416622154306682880": {
+            "id": "416622154306682880",
+            "text": "http://gsmmap.org\u00a0 relaunch: eyecandy++, data+time, country reports, and still no raw data contributed back to the community, meh #30c3",
+            "username": "iamnion",
+            "num_likes": 9,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "414050476267540481": {
+            "id": "414050476267540481",
+            "text": "Android's permissions gap: why has it fallen so far behind Apple's iOS? http://zite.to/19gQ9xN\u00a0",
+            "username": "counternotions",
+            "num_likes": 5,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "408149983754743808": {
+            "id": "408149983754743808",
+            "text": "3UK enables subs to use UK mins and data in US. Important move as market has not been subject to the roaming cuts enforced across EU.",
+            "username": "kestermann",
+            "num_likes": 0,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "406563669401960448": {
+            "id": "406563669401960448",
+            "text": "DOS attack on Google Nexus Phones \"@msecnet: @raviborgaonkar thank you. here are the slides http://www.m-sec.net/defcamp2013/0class2DoS.pdf\u00a0\u2026\"",
+            "username": "raviborgaonkar",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "402847204773097472": {
+            "id": "402847204773097472",
+            "text": "LG Smart TVs log which channels you watch, USB file names you view, and shares it with advertisers, http://doctorbeet.blogspot.com/2013/11/lg-smart-tvs-logging-usb-filenames-and.html\u00a0\u2026 - yuck!",
+            "username": "dhh",
+            "num_likes": 46,
+            "num_retweets": 272,
+            "num_replies": 14
+        },
+        "400933566206722048": {
+            "id": "400933566206722048",
+            "text": "\"The world's first #Jolla phone will be sold on Nov 27 in Helsinki\" by @DNA_fi",
+            "username": "JollaHQ",
+            "num_likes": 44,
+            "num_retweets": 211,
+            "num_replies": 35
+        },
+        "398418216265195520": {
+            "id": "398418216265195520",
+            "text": "CSFB FTW! MT @robdgallagher EE: 3G didn't live up to its promise-or investments. We will offload 3G data onto 4G + use 3G for voice #IO2014",
+            "username": "dmavrakis",
+            "num_likes": 0,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "394573978372562944": {
+            "id": "394573978372562944",
+            "text": "Physical Layer Development Framework for OsmocomBB http://www.iis.ee.ethz.ch/~benkeser/professional/osmophy.pdf\u00a0\u2026",
+            "username": "nicboul",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "390219048182480896": {
+            "id": "390219048182480896",
+            "text": "Wow, nice thing to block IMSI Display on mobile devices in Japan. Source: Qualcomm- https://developer.qualcomm.com/books/gobi-connection-manager/blocking-imsi-display-japan\u00a0\u2026",
+            "username": "raviborgaonkar",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "389461773675266049": {
+            "id": "389461773675266049",
+            "text": "BBC is covering the project we're doing  in Mexico with @rhizomatica. Community mobile networks are the future!http://www.bbc.co.uk/news/world-latin-america-24510962\u00a0\u2026",
+            "username": "chemeris",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "387332201182146560": {
+            "id": "387332201182146560",
+            "text": "The Price of 500MB of Mobile Data Across the World http://bit.ly/1bRSSeh\u00a0? < What a travesty. via @DavidMorken",
+            "username": "davwrigh",
+            "num_likes": 0,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "382867713669885952": {
+            "id": "382867713669885952",
+            "text": "Ziemliche Unversch\u00e4mtheit, wie sich Datens\u00e4ue wie Apple und Google unter convenience-Vorwand ungefragt Backups meiner Kontakte ergaunern.",
+            "username": "erdgeist",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "376081533422944256": {
+            "id": "376081533422944256",
+            "text": "GSM mit einer kleinen schwarzen Box im mexikanischen Dorf, ganz ohne Telecom-Konzerne: http://www.swr.de/landesschau-aktuell/bw/-/id=1622/rid=10161676/nid=1622/did=12007472/n4v21f/index.html\u00a0\u2026",
+            "username": "LaF0rge",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "375027508904611840": {
+            "id": "375027508904611840",
+            "text": "I wonder how many Nokia people have vivid dreams about throwing a certain manager from a burnning oil platform into the burning sea tonight.",
+            "username": "frank_rieger",
+            "num_likes": 6,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "374750282460061696": {
+            "id": "374750282460061696",
+            "text": "The Microsoft/Nokia deal visualized.pic.twitter.com/8JGPPOuyTM",
+            "username": "ltm",
+            "num_likes": 786,
+            "num_retweets": 3784,
+            "num_replies": 146
+        },
+        "374792678816632832": {
+            "id": "374792678816632832",
+            "text": "MS fans: Finally\nNokia fans: Elop was a trojan horse\nBB fans: We need a trojan horse\nAndroid fans: No Android on Nokia :(\niPhone fans: Who?",
+            "username": "DomagojPa",
+            "num_likes": 58,
+            "num_retweets": 187,
+            "num_replies": 3
+        },
+        "374776750095732736": {
+            "id": "374776750095732736",
+            "text": "So in 2014, 30 years after #1984, most of the mobile platform companies will be under US legislation and #NSA monitoring.",
+            "username": "khuhtanen",
+            "num_likes": 0,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "374171125644677120": {
+            "id": "374171125644677120",
+            "text": "Running your own LTE eNodeB  http://www.mirider.com/weblog/2013/07/30/#20130730-Running_Your_Own_LTE_eNodeB\u00a0\u2026",
+            "username": "raviborgaonkar",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "372678392140677120": {
+            "id": "372678392140677120",
+            "text": "Global mobile data traffic almost doubled between Q2 2012 and Q2 2013, says #Ericsson. Voice traffic looks flatpic.twitter.com/tAvEWZHIlI",
+            "username": "GSMAi",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "373424082794348544": {
+            "id": "373424082794348544",
+            "text": "Wow. Sending this utf-8 chars as mms to an iphone sends it to safe mode....bad stuff",
+            "username": "c0rnholio",
+            "num_likes": 0,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "373417244237508608": {
+            "id": "373417244237508608",
+            "text": "\"@blubbfiction: This is the shortest UTF8 sequence which still causes a crash: http://fallout.skora.net/ios-crash-4.html\u00a0\u2026\" send this as class0 sms. Anon crash!",
+            "username": "c0rnholio",
+            "num_likes": 4,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "370132326702784512": {
+            "id": "370132326702784512",
+            "text": "4G traffic Wireshark Dissector based on Samsung USB stick by Ramtin -> displays #LTE RRC and NAS messages. http://labs.p1sec.com/2013/08/18/4g-wireshark-dissector-based-on-samsung-usb-stick/\u00a0\u2026 #security",
+            "username": "raviborgaonkar",
+            "num_likes": 20,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "367274205848412162": {
+            "id": "367274205848412162",
+            "text": "our #usenix #sec13 paper: Let Me Answer That For You: Exploiting Broadcast Information in Cellular Networks http://fandango.binarybase.org/~nion/usenix2013.pdf\u00a0\u2026",
+            "username": "iamnion",
+            "num_likes": 11,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "357631238758084609": {
+            "id": "357631238758084609",
+            "text": "#Blackberry 10 harvests IMAP / POP credentials, enables #NSA / #GCHQ to access them by connecting back in the clear http://frank.geekheim.de/?p=2379\u00a0",
+            "username": "frank_rieger",
+            "num_likes": 16,
+            "num_retweets": 82,
+            "num_replies": 4
+        },
+        "355431601489969152": {
+            "id": "355431601489969152",
+            "text": "Now seems a good time for smaller non UK/US-based companies to start selling communication services.",
+            "username": "collinrm",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "354348407919353858": {
+            "id": "354348407919353858",
+            "text": "We finally got a SIM to give up a DES MAC. Next we crack DES key to install custom applet & try to root it =) http://bit.ly/170iHpp\u00a0",
+            "username": "thomas_cannon",
+            "num_likes": 8,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "352668727445168128": {
+            "id": "352668727445168128",
+            "text": "Heute kann man um 17:30 Uhr am Brandenburger Tor in Berlin f\u00fcr Asyl f\u00fcr Edward Snowden demonstrieren: http://www.freebradleymanning.net/?p=5217\u00a0",
+            "username": "netzpolitik",
+            "num_likes": 3,
+            "num_retweets": 56,
+            "num_replies": 3
+        },
+        "351766463222255616": {
+            "id": "351766463222255616",
+            "text": "fingerprinting #GSM phones based on characteristics of their RF hardware http://www.dence.de/publications/Hasse13_GSMMobilePhoneIdentification.pdf\u00a0\u2026",
+            "username": "iamnion",
+            "num_likes": 18,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "350701557437829121": {
+            "id": "350701557437829121",
+            "text": "In C, an uninitialized \"bool\" can be BOTH true AND false at the same time: http://markshroyer.com/2012/06/c-both-true-and-false/\u00a0\u2026  Yes, really.",
+            "username": "MarkKriegsman",
+            "num_likes": 35,
+            "num_retweets": 94,
+            "num_replies": 16
+        },
+        "350209694121476097": {
+            "id": "350209694121476097",
+            "text": "Renesas to discontinue wireless modem operations bought from Nokia and liquidate business in Finland, India, China - http://on.wsj.com/139VNPl\u00a0",
+            "username": "zahidtg",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "349884538790490112": {
+            "id": "349884538790490112",
+            "text": "So. Warum genau kann man bei Android jetzt nicht sagen, \"die App installieren, aber an meine Kontakte darf die nicht\"?",
+            "username": "andreasdotorg",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 7
+        },
+        "341318010331623424": {
+            "id": "341318010331623424",
+            "text": "OMG \u2013 our Smart TV has been pr0wned ;)http://mherfurt.wordpress.com/2013/06/01/security-concerns-with-hbbtv/\u00a0\u2026",
+            "username": "mherfurt",
+            "num_likes": 9,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "341119530828984322": {
+            "id": "341119530828984322",
+            "text": "letztes jahr war der regen w\u00e4rmer :(",
+            "username": "lukasweber",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "339307755817033729": {
+            "id": "339307755817033729",
+            "text": "SQL error via USSD code , image courtesy @dpnishant @ @garage4hackers  cc:@raviborgaonkar @iamnionpic.twitter.com/HEmQbKTIDs",
+            "username": "fb1h2s",
+            "num_likes": 11,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "337120680686542853": {
+            "id": "337120680686542853",
+            "text": "\"2G should have been turned off by now\". \"It was not envisaged it would last this long.\" #networksecurity",
+            "username": "drogersuk",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "337134112387260416": {
+            "id": "337134112387260416",
+            "text": "The only secure mobile is one that is switched off with battery removed - Charles Brookson, GSMA/ETSI at #NetworkSecurity",
+            "username": "zahidtg",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "335354394549825536": {
+            "id": "335354394549825536",
+            "text": "When selecting the ASCII encoding [...], consider the following: The ASCII encoding is usually appropriate for protocols that require ASCII.",
+            "username": "Shit_MSDN_Says",
+            "num_likes": 17,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "334426527489982464": {
+            "id": "334426527489982464",
+            "text": "Handy website for encoding/decoding/analyzing #2G, #3G, and #LTE messages http://www.3gpp-message-analyser.com/\u00a0. Useful while building a fuzzer.",
+            "username": "raviborgaonkar",
+            "num_likes": 8,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "333873435514126336": {
+            "id": "333873435514126336",
+            "text": "Liebe Verlage, Euch ist schon klar, da\u00df #Adblocker massiv Bandbreite sparen? in Zeiten von #Drosselkom kann sich nicht jeder Werbung leisten",
+            "username": "frank_rieger",
+            "num_likes": 161,
+            "num_retweets": 321,
+            "num_replies": 11
+        },
+        "332179825626345472": {
+            "id": "332179825626345472",
+            "text": "I don't use a passcode on my iPhone.  When asked why not, I send people to this URL: http://web.nvd.nist.gov/view/vuln/search-results?query=apple+ios+passcode&search_type=all&cves=on\u00a0\u2026 (and cry a little)",
+            "username": "joswr1ght",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "325243482073604096": {
+            "id": "325243482073604096",
+            "text": "Nokia sold 100 million Symbian phones after announcing that it will no longer support the platform.",
+            "username": "asymco",
+            "num_likes": 6,
+            "num_retweets": 31,
+            "num_replies": 4
+        },
+        "322362578728792064": {
+            "id": "322362578728792064",
+            "text": "Samsung Android Screen Sizes:\n2.8\n3.14\n3.2\n3.4\n3.5\n3.6\n3.65\n3.7\n3.97\n4\n4.2\n4.27\n4.3\n4.5\n4.52\n4.65\n4.8\n5\n5.3\n5.5\n5.8\n6.3\n7\n7.7\n8\n10\n10.1",
+            "username": "DenZhadanov",
+            "num_likes": 449,
+            "num_retweets": 1469,
+            "num_replies": 78
+        },
+        "319526429983379456": {
+            "id": "319526429983379456",
+            "text": "In other news: there is a kid named \"Oday\" in my daughter's kindergarden. I almost couldn't help laughing.",
+            "username": "esizkur",
+            "num_likes": 8,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "313869011714707456": {
+            "id": "313869011714707456",
+            "text": "http://www.youtube.com/watch?feature=player_embedded&v=2dvv-Yib1Xg\u00a0\u2026 The Death Star was an Inside Job.  This is the greatest conspiracy video of all time.",
+            "username": "dakami",
+            "num_likes": 23,
+            "num_retweets": 30,
+            "num_replies": 5
+        },
+        "313717083974287360": {
+            "id": "313717083974287360",
+            "text": "The Vodafone NOC images I just shared with you are no longer available. They realised  there are too many details being shared",
+            "username": "msecnet",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "313615340414316544": {
+            "id": "313615340414316544",
+            "text": "Wanna see Vodafone NOC on the inside? Check https://www.facebook.com/media/set/?set=a.10151590878606204.1073741829.757311203&type=3\u00a0\u2026 (FB only) Some interesting stuff like IPs, usernames are also there :)",
+            "username": "msecnet",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "313442363408261121": {
+            "id": "313442363408261121",
+            "text": "My slides to 'Next generation mobile rootkits' are online: http://leveldown.de/bh_eu_2013.pdf\u00a0 /cc @BlackHatEvents",
+            "username": "StackSmashing",
+            "num_likes": 38,
+            "num_retweets": 41,
+            "num_replies": 2
+        },
+        "311958898389172225": {
+            "id": "311958898389172225",
+            "text": "And this my friends, is BY FAR the best SQL injection I have ever seen! :-)\n\n(Takes a nerd to understand though)\n\nhttp://i.imgur.com/haspR.jpg\u00a0",
+            "username": "bertboerland",
+            "num_likes": 315,
+            "num_retweets": 1325,
+            "num_replies": 49
+        },
+        "312235799624163329": {
+            "id": "312235799624163329",
+            "text": "a bit late, but here's a completely uncleaned version of some possibly interesting source code http://tinyurl.com/fun-with-paging\u00a0 #gsm #TROOPERS13",
+            "username": "iamnion",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "311183306832093184": {
+            "id": "311183306832093184",
+            "text": "ITU decided to publish \u201cRadio Regulation\u201d for free. The thing they should have started doing 20 years before.  http://dangerousprototypes.com/2013/03/11/itu-radio-regs-online-free-for-limited-time/\u00a0\u2026",
+            "username": "chemeris",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "311391772486037504": {
+            "id": "311391772486037504",
+            "text": "There is a bar called 'The progress Bar' :-)pic.twitter.com/4SYZPbIyFr",
+            "username": "zahidtg",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "310385772907872257": {
+            "id": "310385772907872257",
+            "text": "Some dark corners of C: https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/mobilepresent#slide=id.p\u00a0\u2026",
+            "username": "der_ak",
+            "num_likes": 15,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "307046595541749761": {
+            "id": "307046595541749761",
+            "text": "Last day at #MWC but plenty to see. This is 3G e-ink Android phone. Questionable whether there is demand for it tho.pic.twitter.com/qMh2tPQtJw",
+            "username": "benwood",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "305320178701463552": {
+            "id": "305320178701463552",
+            "text": "HTC America Settles @FTC Charges - It Failed to Secure Millions of Mobile Devices Shipped to Consumers http://ftc.gov/opa/2013/02/htc.shtm\u00a0\u2026 wow",
+            "username": "iamnion",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "304358665203367936": {
+            "id": "304358665203367936",
+            "text": "Don't copy&paste too much on Samsung phones, they'll \"become permanently unusable until a factory reset\" http://bit.ly/XlK3DD\u00a0 via @edent",
+            "username": "counternotions",
+            "num_likes": 10,
+            "num_retweets": 53,
+            "num_replies": 7
+        },
+        "303320392133656576": {
+            "id": "303320392133656576",
+            "text": "Guessing Smart Phone PINs by Monitoring the Accelerometer https://www.schneier.com/blog/archives/2013/02/guessing_smart.html\u00a0\u2026",
+            "username": "nblr",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "301727604954783744": {
+            "id": "301727604954783744",
+            "text": "Every 10 years, a cataclysm kills off most phone brands - the next one is almost here http://bgr.co/14SnQPL\u00a0 by @teroterotero",
+            "username": "BGR",
+            "num_likes": 13,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "301462341344694272": {
+            "id": "301462341344694272",
+            "text": "Comparing Mobile Privacy Protection through Cross-Platform Applications http://www.liaiqin.com/hanjin/papers/NDSS2013Han.pdf\u00a0\u2026 #android #ios #api",
+            "username": "iamnion",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "299273669878878208": {
+            "id": "299273669878878208",
+            "text": "Bricking Intel NICs (yes, NICs, not drivers, OS stack etc.) with a single ethernet frame:\nhttp://blog.krisk.org/2013/02/packets-of-death.html\u00a0\u2026",
+            "username": "andiwundsam",
+            "num_likes": 5,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "293808605805809666": {
+            "id": "293808605805809666",
+            "text": "overview of security related work by #ETSI for 2013 http://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp1_security.pdf\u00a0\u2026 also a great target list for anyone interested in #mobile #security",
+            "username": "iamnion",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "291049180544249857": {
+            "id": "291049180544249857",
+            "text": "'Find My Phone' inexplicably directs some Sprint customers to the Las Vegas home of a very annoyed 59-year-old man. http://www.lvrj.com/news/if-you-lose-your-cellphone-don-t-blame-wayne-dobson-186670171.html\u00a0\u2026",
+            "username": "davidfg",
+            "num_likes": 20,
+            "num_retweets": 67,
+            "num_replies": 2
+        },
+        "284803242070781953": {
+            "id": "284803242070781953",
+            "text": "slides of my #29c3 talk Let Me Answer that for you - adventures in mobile paging http://fandango.binarybase.org/~nion/let_me_answer_that_for_you.pdf\u00a0\u2026 #gsm #security #mobile",
+            "username": "iamnion",
+            "num_likes": 9,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "281852963033608194": {
+            "id": "281852963033608194",
+            "text": "#samsung tv attack surface notes - Dirty note on Samsung Smart TV #Security http://grayhash.com/2012/12/20/samsung_smart_tv_security/\u00a0\u2026 http://beistlab.files.wordpress.com/2012/12/samsung_smart_tv_attack_surfaces2.pdf\u00a0\u2026",
+            "username": "iamnion",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "279681735040589824": {
+            "id": "279681735040589824",
+            "text": "Remember the epic film Sneakers? The \"No more secrets\" device? It's called Google nowadays.",
+            "username": "c0rnholio",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "276645829840891905": {
+            "id": "276645829840891905",
+            "text": "http://duckduckgo.com/tty/\u00a0 #duckduckgo ... shell ... terminal.. :)",
+            "username": "sheeshee",
+            "num_likes": 1,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "275797009275969536": {
+            "id": "275797009275969536",
+            "text": "GSM for assgoblinspic.twitter.com/M5cJX1B9",
+            "username": "dburgess00",
+            "num_likes": 21,
+            "num_retweets": 34,
+            "num_replies": 4
+        },
+        "273373790589812736": {
+            "id": "273373790589812736",
+            "text": "@2b_as Apparently at least VPN is coming shortly: http://www.techradar.com/news/phone-and-communications/mobile-phones/windows-phone-8-apollo-plus-update-said-to-bring-new-features-1115498\u00a0\u2026",
+            "username": "midisFI",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "273066517581664256": {
+            "id": "273066517581664256",
+            "text": "ITU gone bizarre  RT @Jankovitch: UN Agency's Leaked Playbook: Panic, Chaos over Anti-Internet Treaty - Forbes http://po.st/8UHfx9\u00a0",
+            "username": "jpnKevin_T",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "271828404792340480": {
+            "id": "271828404792340480",
+            "text": "LTE cell scanning and tracking software. Works with RTL SDR hardware http://www.evrytania.com/lte-tools\u00a0",
+            "username": "WeldPond",
+            "num_likes": 31,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "271662457309765632": {
+            "id": "271662457309765632",
+            "text": "the wonders of a #gsm cavity duplexer http://laforge.gnumonks.org/weblog/2012/11/22/#20121122-inside_cavity_duplexer\u00a0\u2026 - precision mechanics and RF voodoo...",
+            "username": "LaF0rge",
+            "num_likes": 8,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "270870502900371456": {
+            "id": "270870502900371456",
+            "text": "too bad the annual #whatsapp fee is so low, it won't stop anyone from using that crap",
+            "username": "iamnion",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "266881802541596672": {
+            "id": "266881802541596672",
+            "text": "seems like i'll be giving a talk at the #29c3 this year. talk will be about attacking the paging procedure in #GSM",
+            "username": "iamnion",
+            "num_likes": 2,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "264295853165010944": {
+            "id": "264295853165010944",
+            "text": "Parallel garbage collection in perl https://secure.flickr.com/photos/27057665@N04/5767283075/\u00a0\u2026",
+            "username": "andreasdotorg",
+            "num_likes": 22,
+            "num_retweets": 56,
+            "num_replies": 0
+        },
+        "263593298281758720": {
+            "id": "263593298281758720",
+            "text": "Remotely crashing HLR - Why it took telecom industry 20 years to recognize the problems with SS7 http://2012.hack.lu/archive/2012/Hack.lu-Philippe-Langlois-remote-HLR-crash.pptx.pdf\u00a0\u2026 #telcosec",
+            "username": "iamnion",
+            "num_likes": 3,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "258892276737130496": {
+            "id": "258892276737130496",
+            "text": "Nokia's maps business. Did someone seriously suggest buying Nokia for this?  http://twitpic.com/b57emk\u00a0",
+            "username": "asymco",
+            "num_likes": 2,
+            "num_retweets": 12,
+            "num_replies": 10
+        },
+        "257427478589612032": {
+            "id": "257427478589612032",
+            "text": "Ericsson CTO: GSM covers 85% of global population, 3G covers 45%, LTE covers 5%. But 3G/4G up to 80% & 50% in five years #ITUworld12",
+            "username": "disruptivedean",
+            "num_likes": 7,
+            "num_retweets": 39,
+            "num_replies": 0
+        },
+        "256728167446892544": {
+            "id": "256728167446892544",
+            "text": "E-Plus (third largest German mobile operator) #GSM privacy/TMSI allocation leak http://nion.modprobe.de/blog/archives/705-E-Plus-GSM-privacyTMSI-allocation-leak.html\u00a0\u2026 #privacy",
+            "username": "iamnion",
+            "num_likes": 7,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "256656347905540096": {
+            "id": "256656347905540096",
+            "text": "China's fake #Apple store. Best claim ever. http://i.imgur.com/mK22W.jpg\u00a0",
+            "username": "zonque",
+            "num_likes": 0,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "255970981770825728": {
+            "id": "255970981770825728",
+            "text": "6000 ways and more: A 15 years perspective on Why Telcos Keep Getting #Hacked https://conference.hitb.org/hitbsecconf2012kul/materials/D1T1%20-%20Philippe%20Langlois%20and%20Emmanuel%20Gadaix%20-%206000%20Ways%20and%20More.pdf\u00a0\u2026 by @philpraxis and @gadaix",
+            "username": "iamnion",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "255955741863735297": {
+            "id": "255955741863735297",
+            "text": "New Privacy Issues in Mobile Telephony:\nFix and Verification - http://www.isti.tu-berlin.de/fileadmin/fg214/Papers/3Gprivacy.pdf\u00a0\u2026",
+            "username": "iamnion",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "251370976837779456": {
+            "id": "251370976837779456",
+            "text": "Gefahr f\u00fcr #Android-Ger\u00e4te von Samsung, HTC, Motorola u.a. - mit Info von @2b_as http://mobil.zeit.de/digital/mobil/2012-09/android-sicherheit-ussd\u00a0\u2026",
+            "username": "PatrickBeuth",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "247990860237660161": {
+            "id": "247990860237660161",
+            "text": "Anyone with your Virgin phone number can read your phone/SMS logs. Virgin know but don't care. Do not buy! http://kev.inburke.com/kevin/open-season-on-virgin-mobile-customer-data/\u00a0\u2026",
+            "username": "ciphergoth",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "243778466728775680": {
+            "id": "243778466728775680",
+            "text": "GSM, SIP, H.323, ISUP and IMS Call Flows http://www.eventhelix.com/RealtimeMantra/Telecom/\u00a0\u2026 <- has been extremely valuable for me a couple of times",
+            "username": "iamnion",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "242701884538896386": {
+            "id": "242701884538896386",
+            "text": "\"Remotely crashing HLR or why it took telecom industry 20 years to recognize the problems with SS7\" http://2012.hack.lu/index.php/List#Philippe_Langlois_-_Remotely_crashing_HLR_or_why_it_took_telecom_industry_20_years_to_recognize_the_problems_with_SS7\u00a0\u2026 sounds like fun :)",
+            "username": "iamnion",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "241435232715300865": {
+            "id": "241435232715300865",
+            "text": "#Smartphoneangebote in #Neuk\u00f6lln http://twitpic.com/aphbmv\u00a0",
+            "username": "StudienratFanny",
+            "num_likes": 14,
+            "num_retweets": 36,
+            "num_replies": 3
+        },
+        "234807908544688128": {
+            "id": "234807908544688128",
+            "text": "A new algorithm uses tracking data on people\u2019s phones to predict where they\u2019ll be in 24 hours. Average error: 20 metershttp://www.slate.com/blogs/future_tense/2012/08/08/cellphone_tracking_what_happens_when_our_smartphones_can_predict_our_every_move_.html\u00a0\u2026",
+            "username": "evgenymorozov",
+            "num_likes": 249,
+            "num_retweets": 709,
+            "num_replies": 23
+        },
+        "229867566733074432": {
+            "id": "229867566733074432",
+            "text": "nice addon to the talks and the #baseband chapter of the #iOS hackers handbook by @esizkur https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf\u00a0\u2026 #usenix #woot",
+            "username": "iamnion",
+            "num_likes": 15,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "228982619386298368": {
+            "id": "228982619386298368",
+            "text": "Nokia\u2019s shutting down their last factory in Finland, also last major cellphone manufacturing site in western Europe: http://go.salk.in/O3zfFS\u00a0",
+            "username": "niklahs",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "226368844120330240": {
+            "id": "226368844120330240",
+            "text": "RT @thezdi Announcing Mobile Pwn2Own 2012: http://dvlabs.tippingpoint.com/blog/2012/07/20/mobile-pwn2own-2012\u00a0\u2026 #pwn2own < 100k for compromising basebands.",
+            "username": "kutyacica",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "223480265186615297": {
+            "id": "223480265186615297",
+            "text": "my love for writing regex's is dwwarved by my hatred of reading those same regex's years later.",
+            "username": "__daveg__",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "222895316452655105": {
+            "id": "222895316452655105",
+            "text": "#Huawei: Der lange Arm des chinesischen Geheimdienstes #Wiwo http://awe.sm/o0b11\u00a0 #China #Technologie #Wirtschaft",
+            "username": "carta_",
+            "num_likes": 1,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "217207343216214016": {
+            "id": "217207343216214016",
+            "text": "Oh, I totally missed that. Samsung phones on Verizon and the CDMA Galaxy Nexus use Via Telecom chips for CDMA? http://gadgets.tmcnet.com/topics/gadgets/articles/2012/02/07/263893-samsung-galaxy-nexus-teardown-reveals-low-cost-lte.htm\u00a0\u2026",
+            "username": "esizkur",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "213782600928608256": {
+            "id": "213782600928608256",
+            "text": "I'm going to invent new HTTP status codes: 508 NOT MY FAULT and 208 WORKS FOR ME",
+            "username": "beandog76",
+            "num_likes": 992,
+            "num_retweets": 4777,
+            "num_replies": 81
+        },
+        "213159889801977857": {
+            "id": "213159889801977857",
+            "text": "At this rate, Rovio will just buy Nokia and release an Angry Birds handset.",
+            "username": "Michael_French",
+            "num_likes": 32,
+            "num_retweets": 234,
+            "num_replies": 2
+        },
+        "213443812951990272": {
+            "id": "213443812951990272",
+            "text": "One thing I'm most afraid of for Nokia is - did anyone really survive&prosper by focusing on cost cutting?In mobile? Siemenes, Sony, Moto?",
+            "username": "Staska",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "209512007446175747": {
+            "id": "209512007446175747",
+            "text": "CSL Ltd and SK Telecom have launched the world\u2019s first 4G LTE international roaming between two markets\u2013Hong Kong and Korea (Source:CSL Ltd)",
+            "username": "Maravedis",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "209364326493077504": {
+            "id": "209364326493077504",
+            "text": "A Quiz About Integers in #C http://blog.regehr.org/archives/721\u00a0 /via @trufae",
+            "username": "iamnion",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "204606339153014784": {
+            "id": "204606339153014784",
+            "text": "#osmocom collaborative project to gather database on #gsm terminal profile: https://geekblog.kevredon.org/?p=592\u00a0 #sim #sat #stk",
+            "username": "LaF0rge",
+            "num_likes": 2,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "203524124046397440": {
+            "id": "203524124046397440",
+            "text": "sysmocom announces availability of the low-power, light-weight, quad-band sysmoBTS based on #OpenBSC technology: http://www.sysmocom.de/news/sysmocom-announces-availability-of-sysmobts\u00a0\u2026 #gsm",
+            "username": "sysmocom",
+            "num_likes": 4,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "201577522897502208": {
+            "id": "201577522897502208",
+            "text": "Interesting. So the NovaThor (used in the Sony Xperia P/U) is based on a Cortex R4 and the stack seems to be licensed from Renesas (Nokia).",
+            "username": "esizkur",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "192898081006686208": {
+            "id": "192898081006686208",
+            "text": "Microsoft Refuses To Answer This Simple, Critical Question About Windows Phone Software - http://asym.co/J3g4v3\u00a0",
+            "username": "asymco",
+            "num_likes": 5,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "187406267030052864": {
+            "id": "187406267030052864",
+            "text": "After trying to teach my grandma to use an iPhone I now understand religion. It's sooo much easier to say god did it and be through with it.",
+            "username": "darrellmaycry",
+            "num_likes": 44,
+            "num_retweets": 78,
+            "num_replies": 4
+        },
+        "187216067792343040": {
+            "id": "187216067792343040",
+            "text": "another #microcell/#femtocell brought down http://fail0verflow.com/blog/2012/microcell-fail.html\u00a0\u2026 seems intentionally backdoored by @ATT #fail",
+            "username": "iamnion",
+            "num_likes": 7,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "186337055855489026": {
+            "id": "186337055855489026",
+            "text": "Android wipe does not delete personal data.  http://is.gd/xSOn9T\u00a0",
+            "username": "hhf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "174836049456005121": {
+            "id": "174836049456005121",
+            "text": "pot. customer asked if I could simplify the solution to cut cost. Sure, I said, if you could simplify the problem! They didn't replied since",
+            "username": "cristianyxen",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "174119627482333184": {
+            "id": "174119627482333184",
+            "text": "20% of those who have a mobile, actually walk around with 2 phones. 37% of us have 2 or 3 or even more SIM cardshttp://bit.ly/zRSkQy\u00a0",
+            "username": "tomiahonen",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "174113459565379584": {
+            "id": "174113459565379584",
+            "text": "100M people on Blackberry. 250M on Twitter. 900M people on FB. 1.4B use email. 2.5B use MMS. 5.0B use SMShttp://bit.ly/zRSkQy\u00a0",
+            "username": "tomiahonen",
+            "num_likes": 60,
+            "num_retweets": 129,
+            "num_replies": 6
+        },
+        "161322804917174273": {
+            "id": "161322804917174273",
+            "text": "HTTP 7xx status codes. Gets my vote for RFC approval! https://github.com/joho/7XX-rfc\u00a0",
+            "username": "therealsaumil",
+            "num_likes": 5,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "158305224740712448": {
+            "id": "158305224740712448",
+            "text": "\u201c@esizkur interesting. so it's not just QCOM MSMs that have APP/BB shared memory, but also Broadcom and the new ST-Ericsson NovaThur U8500.\u201d",
+            "username": "LaF0rge",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "156775361361879040": {
+            "id": "156775361361879040",
+            "text": "So wahr!! http://imageshack.us/photo/my-images/210/updatelinuxwindowsmac.jpg/\u00a0\u2026 #linux #win #mac #update",
+            "username": "agonarch",
+            "num_likes": 16,
+            "num_retweets": 58,
+            "num_replies": 1
+        },
+        "156678777710198784": {
+            "id": "156678777710198784",
+            "text": "Researcher: T-Mobile UK is secretly disrupting secure communications, leaving customers vulnerable to spyinghttp://tinyurl.com/7ducy8t\u00a0",
+            "username": "doctorow",
+            "num_likes": 17,
+            "num_retweets": 85,
+            "num_replies": 7
+        },
+        "154638318053769217": {
+            "id": "154638318053769217",
+            "text": "Best. Book Review. Ever. http://i.imgur.com/pAy4z.png\u00a0",
+            "username": "LeeCash",
+            "num_likes": 245,
+            "num_retweets": 1639,
+            "num_replies": 25
+        },
+        "155752807415300096": {
+            "id": "155752807415300096",
+            "text": "The internet, like cable TV, is Much Worse on a Saturday night. #ifeelsick",
+            "username": "cstross",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "144791640589078530": {
+            "id": "144791640589078530",
+            "text": "Revised log levels proposal: \"fyi,\" \"wtf,\" and \"omg.\"",
+            "username": "jbarnette",
+            "num_likes": 715,
+            "num_retweets": 3514,
+            "num_replies": 85
+        },
+        "154417777032183810": {
+            "id": "154417777032183810",
+            "text": "RT @boursier @gknauss You can tell Monopoly is an old game because there's a luxury tax and rich people can go to jail.",
+            "username": "GammaCounter",
+            "num_likes": 28,
+            "num_retweets": 179,
+            "num_replies": 1
+        },
+        "140771618296303616": {
+            "id": "140771618296303616",
+            "text": "Want to type like a real hacker in a Hollywood movie? Use this: http://hackertyper.com/\u00a0",
+            "username": "johl",
+            "num_likes": 135,
+            "num_retweets": 205,
+            "num_replies": 7
+        }
+    },
+    "tweeted": {
+        "1108327099427897344": {
+            "id": "1108327099427897344",
+            "text": "#TelcoSecDay was great as always! Many thanks @WEareTROOPERS &  @priyachalakkal. See you next year!",
+            "username": "2b_as",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1101865786761797632": {
+            "id": "1101865786761797632",
+            "text": "... aaaaaand we're back, 26 hours later.\nThis will make a scary story to tell the grand kinds some day.https://twitter.com/2b_as/status/1101737978693672961\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1101737978693672961": {
+            "id": "1101737978693672961",
+            "text": "Day 2 without internet in Berlin Friedrichshain. People are now facing the bleak reality of having to talk to each other during breakfast.https://twitter.com/2b_as/status/1101603591016587264\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1101605175217872901": {
+            "id": "1101605175217872901",
+            "text": "Their website where you can usually get info about service interruptions is now down for maintenance...",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101603982424846339": {
+            "id": "1101603982424846339",
+            "text": "Deutsche Telekom can't say how long it's going to take. They are now sending out 10 GB LTE vouchers.",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1101603591016587264": {
+            "id": "1101603591016587264",
+            "text": "After a short power outage around noon, internet in almost all of Berlin Friedrichshain has been gone for the last 10 hours.",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "1070996020237078528": {
+            "id": "1070996020237078528",
+            "text": "Technical presentation on Ericsson's SGSN-MME from 2012. It's implemented in Erlang.\n\"If the SGSN-MME fails our customers do not care who introduced the bug\" - so true :) \nhttp://www.erlang-factory.com/upload/presentations/597/sgsn.pdf\u00a0\u2026https://twitter.com/2b_as/status/1070938713448951808\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1070988101852520448": {
+            "id": "1070988101852520448",
+            "text": "Btw, o2 UK already had a complete outage in 2012, because of... Ericsson HLR:https://www.theregister.co.uk/2012/07/13/o2_outage_cause/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1070938713448951808": {
+            "id": "1070938713448951808",
+            "text": "Ever forgot to update a certificate? Don't feel too bad - Ericsson just disabled the whole o2 UK LTE network because of an expired certificate.https://twitter.com/PedroClarke1/status/1070791159553904646\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 392,
+            "num_retweets": 291,
+            "num_replies": 3
+        },
+        "1065324403716702208": {
+            "id": "1065324403716702208",
+            "text": "Telephone hackers active!!https://twitter.com/todayininfosec/status/1064925442384179200\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1043800454046646272": {
+            "id": "1043800454046646272",
+            "text": "Old and busted: VoLTE\nNew hotness: VoNR\n(currently no handover to 2G/3G planned)https://twitter.com/3g4gUK/status/1043776603279544320\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1041763083461554176": {
+            "id": "1041763083461554176",
+            "text": "If you attended 31C3, you probably already know this feature: https://twitter.com/2b_as/status/549695235207737344\u00a0\u2026 #osmocom @LaF0rge @zecke42",
+            "username": "2b_as",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1041763074057924613": {
+            "id": "1041763074057924613",
+            "text": "Trump administration will test the \"Presidential Alert\" on all US cell phones on Thursday.https://www.reuters.com/article/us-usa-trump-alerts/trump-administration-to-send-us-cellphones-a-test-alert-on-thursday-idUSKCN1LV0N6\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1039764320681447424": {
+            "id": "1039764320681447424",
+            "text": "Judging from the replies (US/UK/AUS) it seems language might be a factor.\n\nAlso, in Germany there are steep fines for unsolicited calls (if they catch you).\n\nAny other insights into why spam/scam calls are so common in some countries and almost nonexistent in others?https://twitter.com/2b_as/status/1039612492899606530\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1019713589849018368": {
+            "id": "1019713589849018368",
+            "text": "\"T-Mobile's full phone bills can be around 50 pages long\" - wat?https://gizmodo.com/the-ftc-just-accused-t-mobile-of-putting-fake-charges-o-1598656528/amp\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1016606359125680128": {
+            "id": "1016606359125680128",
+            "text": "Turns out \"no Intel 5G modem in iPhone\" was fake news: https://www.theregister.co.uk/2018/07/06/intel_wifi_bluetooth_sunny_peak/\u00a0\u2026 (and I gullibly retweeted it)",
+            "username": "2b_as",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1014913094806659072": {
+            "id": "1014913094806659072",
+            "text": "\"... as saying Intel is at risk of losing Apple\u2019s modem business and suggesting Intel could be displaced by Taiwanese modem manufacturer MediaTek Inc.\"https://twitter.com/counternotions/status/1014838804522455040\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1005145508107685891": {
+            "id": "1005145508107685891",
+            "text": "Oops: Enigmail leaks the fact that I start to compose an email to all entered recipients! As soon as I enter the recipient's addresses, it tries to connect to the domain part of all of them. Apparently, it's this: https://tools.ietf.org/html/draft-koch-openpgp-webkey-service-05\u00a0\u2026\nAny way to switch it off?",
+            "username": "2b_as",
+            "num_likes": 30,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1003347996824698880": {
+            "id": "1003347996824698880",
+            "text": "Found while cleaning up. 15 years ago, the (mobile) world still looked a little different.pic.twitter.com/AOfwTpWGyK",
+            "username": "2b_as",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1001772769913303041": {
+            "id": "1001772769913303041",
+            "text": "German telco regulator BNetzA just assigned an MNC to us.\n43 minutes after I sent in the application. \n43 minutes!!\n\nIs German bureaucracy even allowed to work that fast?",
+            "username": "2b_as",
+            "num_likes": 51,
+            "num_retweets": 11,
+            "num_replies": 7
+        },
+        "988095108355624961": {
+            "id": "988095108355624961",
+            "text": "When you go on a vacation to take a break from your mobile security job and the first big animal you see is a stingray...pic.twitter.com/f4TBFC0QmO",
+            "username": "2b_as",
+            "num_likes": 60,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "973960925349851136": {
+            "id": "973960925349851136",
+            "text": "Big thanks to @WEareTROOPERS for another great TelcoSecDay!",
+            "username": "2b_as",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "968743180924485632": {
+            "id": "968743180924485632",
+            "text": "Any word yet on roaming charges?https://twitter.com/peter_mount/status/968567587205517314\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "964404995964612609": {
+            "id": "964404995964612609",
+            "text": "Can anyone recommend a Nano SIM to Mini/Micro SIM adapter that survives frequent SIM changes?",
+            "username": "2b_as",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "952446004309233664": {
+            "id": "952446004309233664",
+            "text": "The Hawaii false missile alert reminded me of this (from 31c3)https://twitter.com/2b_as/status/549695235207737344\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "951106596649734144": {
+            "id": "951106596649734144",
+            "text": "Just 1.5 years after 2G shutdown, Taiwan will also switch off 3G by the end of the year.https://twitter.com/mobileworldlive/status/950990696051339265\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "946685637742223360": {
+            "id": "946685637742223360",
+            "text": "After SS7 for 2G/3G and Diameter for 4G, 5G seems to use HTTP/2 for many Core network interfaces.https://twitter.com/zahidtg/status/946664248595353600\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 47,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "930466417102737408": {
+            "id": "930466417102737408",
+            "text": "GSMA just published \"FS.26 Guidelines for Independent Remote Interconnect Security Testing\". If you are a security researcher with SS7/Diameter access, you should have a look at it. https://www.gsma.com/aboutus/leadership/committees-and-groups/working-groups/fraud-security-group/guidelines-independent-remote-interconnect-security-testing\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 32,
+            "num_retweets": 21,
+            "num_replies": 2
+        },
+        "929815023165300736": {
+            "id": "929815023165300736",
+            "text": "If you track a mobile subscriber via SS7, Wireshark now helpfully includes a direct link to OpenStreetMap...pic.twitter.com/hHes5CdDzX",
+            "username": "2b_as",
+            "num_likes": 582,
+            "num_retweets": 372,
+            "num_replies": 6
+        },
+        "929354988559699968": {
+            "id": "929354988559699968",
+            "text": "Uganda - land of WTF (via @ilf)pic.twitter.com/uCW4oJPnof",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "929354023198773249": {
+            "id": "929354023198773249",
+            "text": "RT @ilf: \"Dial *175*14# to activate 100 MBs of daily WTF\" (WhatsApp, Twitter and Facebook) @Airtel_Ug @socialhack #Kampalapic.twitter.com/F5DlbThV1M",
+            "username": "2b_as",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "928186724492210176": {
+            "id": "928186724492210176",
+            "text": "Twitter h\u00e4tte die Unterschiede verschiedener Sprachen viel gerechter ausgleichen k\u00f6nnen, wenn sie das Zeichen- durch ein Wort-Limit ersetzt h\u00e4tten. Etwa durch eine Twitternationalsprachenwortzeichenanzahlausgleichsregelung.",
+            "username": "2b_as",
+            "num_likes": 126,
+            "num_retweets": 68,
+            "num_replies": 5
+        },
+        "917661610658975744": {
+            "id": "917661610658975744",
+            "text": "PSA: Don't buy a Canon printer/scanner. Worst user experience of my life.",
+            "username": "2b_as",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "908048641889374209": {
+            "id": "908048641889374209",
+            "text": "\"The Harmful Consequences of Postel's Maxim\" (why \"Be liberal in what you accept, and conservative in what you send\" is outdated)https://twitter.com/h4nnes/status/907981259074404353\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "869225641975197698": {
+            "id": "869225641975197698",
+            "text": "\"Many banks send banking details (regarded as sensitive information by our participants) via SMS messages, so SMS must be secure\"https://twitter.com/veorq/status/869146424717475841\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "855352688992817152": {
+            "id": "855352688992817152",
+            "text": "5G NodeBs will be called \"gNB\". What does the \"g\" stand for? \"next Generation\". No, really! https://blog.wirelessmoves.com/2016/11/3gpp-5g-nr-whats-the-g-in-gnb-all-about-part-2.html\u00a0\u2026 (via @zahidtg)",
+            "username": "2b_as",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "823910128860725250": {
+            "id": "823910128860725250",
+            "text": "Other network operators shut down their 2G (GSM) networks, Deutsche Telekom shuts down 3G (UMTS) in Germany:https://www.teltarif.de/telekom-umts-3g-abschaltung-ende-2020/news/67162.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "823793387610456064": {
+            "id": "823793387610456064",
+            "text": "No one here is using WebEx, right? Right??!https://twitter.com/taviso/status/823642226093760512\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "815137443322200064": {
+            "id": "815137443322200064",
+            "text": "GSM-Netz-Abschaltungen: ganz guter \u00dcberblick \u00fcber den aktuellen Stand bei heise.dehttps://www.heise.de/newsticker/meldung/GSM-Daemmerung-Netze-in-Australien-und-den-USA-am-Ende-3582867.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "801430217638182912": {
+            "id": "801430217638182912",
+            "text": "ITU published the 2016 edition of their list of E.212 Mobile Network Codes (MNC) http://www.itu.int/pub/T-SP-E.212B-2016\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "790904931674906624": {
+            "id": "790904931674906624",
+            "text": "Wie aktiviert man am Telekom \"All-IP\"-Anschluss R\u00fcckruf b. besetzt, R\u00fcckfragen/Makeln o. Dreierkonferenz? Gar nicht! https://www.telekom.de/hilfe/downloads/leistungsmerkmale-ip-anschluss-pk.pdf\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "771644044447404032": {
+            "id": "771644044447404032",
+            "text": "6G support!!1http://mashable.com/2016/09/01/reliance-jio-launch-tariff-plans-india\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "750226690362728448": {
+            "id": "750226690362728448",
+            "text": "How did \"Send encrypted content in one email and password in another email\" become a thing? Against what scenario is this supposed to help?",
+            "username": "2b_as",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 5
+        },
+        "743481356752162816": {
+            "id": "743481356752162816",
+            "text": "Jemand unter meinen Followern, der eine FritzBox an Telekom-VoIP hinter einem anderen Router/Modem betreibt?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "741249437377400833": {
+            "id": "741249437377400833",
+            "text": "\"Zudem reichten Handynummern nicht f\u00fcr die Lokalisierung von Personen\" - komisch, mach ich f\u00fcr meine Arbeit st\u00e4ndighttps://twitter.com/zeitonline/status/740960223943352320\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 24,
+            "num_retweets": 23,
+            "num_replies": 4
+        },
+        "730788637131051008": {
+            "id": "730788637131051008",
+            "text": "Today, after 20 years, Deutsche Telekom disconnected my ISDN line. \nPhone service will never be so reliable again. ~5 outages in 20 years.",
+            "username": "2b_as",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "701073432453189633": {
+            "id": "701073432453189633",
+            "text": "Sad to see that there are no feature phones with current technology anymore.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "695159242857308161": {
+            "id": "695159242857308161",
+            "text": ". @PatrickMcCanna System 50 with Hebdrehw\u00e4hler:http://youtu.be/q5TeEBUPalA\u00a0",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "695147672777441280": {
+            "id": "695147672777441280",
+            "text": "Maryland Attorney General: You don't want police to track your phone? Well, just switch it off! (Via @PatrickBeuth)https://twitter.com/bradheath/status/694933918705913856\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "691991780917657600": {
+            "id": "691991780917657600",
+            "text": "\"2016 MY YEAR OF EVER INCREASING GLORY......\" (Found in our SS7 log: Contents of test message used by SMS spammer to find open SMS gateways)",
+            "username": "2b_as",
+            "num_likes": 7,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "671690263430057984": {
+            "id": "671690263430057984",
+            "text": "Ist telefonieren \u00fcber IP bei der Telekom eigentlich inzwischen stabiler geworden? Habe mal wieder die K\u00fcndigung f\u00fcr mein ISDN erhalten...",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "619475104238583808": {
+            "id": "619475104238583808",
+            "text": "Philosophical question: Do GSM-R phones have an Airplane mode?",
+            "username": "2b_as",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "613299810070867968": {
+            "id": "613299810070867968",
+            "text": "Like many expected: GSM (2G) will live longer than UMTS (3G), at least in some european networks http://www.mobileworldlive.com/telenor-norway-shut-3g-network-2020-five-years-2g\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 7,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "596261653156655104": {
+            "id": "596261653156655104",
+            "text": "Germany's SMS volume in 2014 drops to almost only one third compared to just two years earlier http://www.bitkom.org/de/presse/8477_82223.aspx\u00a0\u2026pic.twitter.com/zXF7qx3CcO",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "595890055887101952": {
+            "id": "595890055887101952",
+            "text": "Another mobile baseband stack gone: Nvidia shuts down Icerahttp://nvidianews.nvidia.com/news/nvidia-to-wind-down-icera-modem-operations\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 6,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "583628347667836928": {
+            "id": "583628347667836928",
+            "text": "Robert Voit: New Trees http://www.robertvoit.com/bilder/serie1_new_trees/index.php?id=1\u00a0\u2026 (\"That\u2019s no tree\u2026it\u2019s a base station.\")",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "572760337340076032": {
+            "id": "572760337340076032",
+            "text": "#MWC palm tree chain reactionpic.twitter.com/PQ4mgYozv2",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "570513267656949760": {
+            "id": "570513267656949760",
+            "text": "So the Nokia 6310i (introduced 13 years ago) now costs as much as the iPhone 6http://www.ebay.de/itm/200910591314\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 5,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "564163274028384256": {
+            "id": "564163274028384256",
+            "text": "Festnetz-Alarm!!1 (Berlin daily titles \"Landline Alarm!\" because Dt Telekom migrates all Analog/ISDN lines to VoIP)pic.twitter.com/JV86RllACq",
+            "username": "2b_as",
+            "num_likes": 4,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "551439536988110849": {
+            "id": "551439536988110849",
+            "text": "Here are the slides for my #31c3 talk \"SS7: Locate. Track. Manipulate\" https://frab.cccv.de/system/attachments/2553/original/31c3-ss7-locate-track-manipulate.pdf\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 81,
+            "num_retweets": 85,
+            "num_replies": 3
+        },
+        "549695235207737344": {
+            "id": "549695235207737344",
+            "text": "Presidential Alert!! (All newer phones have this feature and you cannot turn it off) #osmocom #31c3pic.twitter.com/dFJu19F5he",
+            "username": "2b_as",
+            "num_likes": 66,
+            "num_retweets": 69,
+            "num_replies": 5
+        },
+        "549180550683316224": {
+            "id": "549180550683316224",
+            "text": ". @Thomas_Drake1 @craigtimberg No matter how they got in there, now is the time to fix them. Other than that, Hanlon's razor applies",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "546635972658868225": {
+            "id": "546635972658868225",
+            "text": "RT <protected>: For everybody who is currently working on their slides for #31C3 https://pbs.twimg.com/media/B5YJLiACAAASPT3.jpg\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545666354557493248": {
+            "id": "545666354557493248",
+            "text": "German researchers discover a flaw that could let anyone listen to your cell calls #SS7 http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/18/german-researchers-discover-a-flaw-that-could-let-anyone-listen-to-your-cell-calls-and-read-your-texts/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 34,
+            "num_retweets": 115,
+            "num_replies": 4
+        },
+        "542231734616875009": {
+            "id": "542231734616875009",
+            "text": "2014 ist, wenn an der T\u00fcr nicht die Zeugen klingeln, sondern die Telekom, die mit Dir \u00fcber die Umstellung Deines Anschlusses sprechen will.",
+            "username": "2b_as",
+            "num_likes": 13,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "533209999791894529": {
+            "id": "533209999791894529",
+            "text": "It's a Bird...\nIt's a Plane...\nIt's... an IMSI catcher!http://www.theguardian.com/world/2014/nov/14/government-planes-mimic-cellphone-towers-to-collect-user-data-report\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "527386917672083458": {
+            "id": "527386917672083458",
+            "text": "Number of SMS messages sent in Germany in 2014 less than *half* compared to 2012 http://www.vatm.de/fileadmin/publikationen/studien/2014/marktstudie-2014.pdf\u00a0\u2026pic.twitter.com/sQqgXxNbSY",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "527166025805340673": {
+            "id": "527166025805340673",
+            "text": "SCTP support in Erlang on OSX: in addition to https://nplab.fh-muenster.de/groups/wiki/wiki/bf935/SCTP_on_Mavericks.html\u00a0\u2026, you have to \nsudo ln -s /usr/lib/libsctp.dylib /usr/lib/libsctp.so.1",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "523069214329159680": {
+            "id": "523069214329159680",
+            "text": "\"Apple SIM\": Is it a real SIM with multiple, preinstalled IMSIs or just a dummy where IMSIs and keys are stored on / downloaded to device?",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "503844378260283392": {
+            "id": "503844378260283392",
+            "text": "Washington Post about how easy it is to track your phone's location with cell-level precision from all over the world http://www.washingtonpost.com/business/technology/for-sale-systems-that-can-secretly-track-where-cellphone-users-go-around-the-globe/2014/08/24/f0700e8a-f003-11e3-bf76-447a5df6411f_story.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 3,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "501709925006184448": {
+            "id": "501709925006184448",
+            "text": ".@hhf All others rewrite the PID (Protocol IDentifier) from 64 (== Type 0) to 0 (== normal SMS) on send, so your message gets \"unsilenced\"",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "501709379046215680": {
+            "id": "501709379046215680",
+            "text": "To clarify: all German networks still allow to *receive* Type 0 SMS, but to *send* one via mobile network, you have to use a Vodafone.de SIM",
+            "username": "2b_as",
+            "num_likes": 7,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "501699977396363264": {
+            "id": "501699977396363264",
+            "text": "Btw, Vodafone.de is the only German operator that still allows sending of Type 0 \"Silent SMS\"",
+            "username": "2b_as",
+            "num_likes": 10,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "501681921701974017": {
+            "id": "501681921701974017",
+            "text": "Darshak currently does not detect Type 0 silent SMS. @raviborgaonkar just told me support will be added in the next version.",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "480429684073984001": {
+            "id": "480429684073984001",
+            "text": ".@zecke42 I powered up a Nokia 7110 today for the first time in about 15 years. Still works perfectly, including the slide :)",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "472345517813669888": {
+            "id": "472345517813669888",
+            "text": "Beginning of the end for SMS: Number of SMS messages sent in Germany drops by 37% http://www.bitkom.org/de/presse/8477_79536.aspx\u00a0\u2026pic.twitter.com/cDzuCZRu7V",
+            "username": "2b_as",
+            "num_likes": 4,
+            "num_retweets": 26,
+            "num_replies": 3
+        },
+        "461126959784026112": {
+            "id": "461126959784026112",
+            "text": "Man kann die Telefonzellen aus dem Bild von heut morgen \u00fcbrigens auch k\u00e4uflich erwerben: http://www.tagesspiegel.de/berlin/grosslager-bei-potsdam-telekom-verkauft-ihre-alten-telefonzellen-an-privatleute/9817850.html\u00a0\u2026 (Nur Selbstabholer)",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "461052836303085568": {
+            "id": "461052836303085568",
+            "text": "Deutsche Telekom's storage of unused phone booths, in a forest near Berlin:https://www.google.com/maps/@52.3185092,13.0147078,295m/data=!3m1!1e3\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 11,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "453800370062753792": {
+            "id": "453800370062753792",
+            "text": "So, Apple wants to develop their own baseband processor? Will they also be implementing their own protocol stack?http://www.digitimes.com/news/a20140407PD210.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "430607663089463296": {
+            "id": "430607663089463296",
+            "text": "If you switch to Apple's iMessage, you can never switch back to SMS/MMS, even if you don't use an iPhone anymore:http://blog.benjaminste.in/post/75389520824/ios-holding-my-phone-number-hostage-the-worst-bug\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 7,
+            "num_retweets": 33,
+            "num_replies": 3
+        },
+        "425956607730913280": {
+            "id": "425956607730913280",
+            "text": "Location Based Services! \"Dear subscriber, you are registered as a participant in a mass disturbance.\" http://www.nytimes.com/2014/01/22/world/europe/ukraine-protests.html\u00a0\u2026\u201d",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "424143469804658688": {
+            "id": "424143469804658688",
+            "text": "So for the NSA, the IMSI simply is the \"person id\" https://image.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/1/16/1389895896336/d37371e4-5d38-4568-81e2-09c8eaa3936a-460x345.jpeg\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "420886529095905281": {
+            "id": "420886529095905281",
+            "text": "By the way, xgoldmon also supports the Samsung Galaxy S4 GT-I9500 (that's the *non-LTE* version)https://github.com/2b-as/xgoldmon\u00a0",
+            "username": "2b_as",
+            "num_likes": 4,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "417633021349490688": {
+            "id": "417633021349490688",
+            "text": "After @ioerror's talk it becomes clear that bad SIM security - like presented in http://cdn.media.ccc.de/congress/30C3/mp4/30c3-5449-en-Mobile_network_attack_evolution_h264-hq.mp4\u00a0\u2026 -most likely isn't an accident #30c3",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "410037130623078400": {
+            "id": "410037130623078400",
+            "text": "Official list of devices supporting A5/3 on T-Mobile Germany: http://www.telekom.com/medien/konzern/209938\u00a0\u2026 (iPad2 & 4, but not 3? LG Optimus G, but not Nexus 4?)",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "409304661036773376": {
+            "id": "409304661036773376",
+            "text": "Vodafone.de offers A5/3 only on one BTS: the one next to the seat of the German government in Berlin Mitte...",
+            "username": "2b_as",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "409304147792371712": {
+            "id": "409304147792371712",
+            "text": "T-Mobile Germany introduces A5/3 encryption for its entire GSM networkhttp://www.wiwo.de/unternehmen/it/datenschutz-telekom-fuehrt-neue-verschluesselungstechnik-fuer-handygespraeche-ein/9180638.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 3,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "406719314847203329": {
+            "id": "406719314847203329",
+            "text": ".@msecnet Seems like Google treats SMS as a legacy service they have to support until everybody finally switches to their shiny Hangouts!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "406707977278590978": {
+            "id": "406707977278590978",
+            "text": ".@msecnet Haha, so broken: if a flash SMS has been shown on display for five minutes *while the display was ON*, then you get the SMS sound!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "406706898851737601": {
+            "id": "406706898851737601",
+            "text": ".@msecnet That \"flash\" SMS on Nexus are not audibly signalled to the user in any way is a bug itself: They are meant for urgent messages",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "395549847429718016": {
+            "id": "395549847429718016",
+            "text": "Another Thai mobile operator without net neutrality: https://pbs.twimg.com/media/BX09EKcCYAAptDU.jpg\u00a0\u2026 (This is \"Happy\", DTAC's prepaid brand: http://www.dtac.co.th/en/prepaid/products/Social-Unlimited-package.html\u00a0\u2026)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "395483038642999296": {
+            "id": "395483038642999296",
+            "text": "This is how Internet looks like without net neutrality: https://pbs.twimg.com/media/BXz-onhCMAAftY7.jpg:large\u00a0\u2026 (Thailand) via @ilf",
+            "username": "2b_as",
+            "num_likes": 12,
+            "num_retweets": 58,
+            "num_replies": 0
+        },
+        "395125880952848385": {
+            "id": "395125880952848385",
+            "text": "Remember that Deutsche Telekom wants to be like US telcos? Today BBC explains, why broadband is most expensive in US: http://www.bbc.co.uk/news/magazine-24528383\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "394781228731076608": {
+            "id": "394781228731076608",
+            "text": "Deutsche Telekom's new CEO wants his company to be less consumer-friendly, more like US telcos. http://www.wiwo.de/unternehmen/it/positionspapier-telekom-fordert-vollstaendige-deregulierung-des-marktes/8988344.html\u00a0\u2026 (German)",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "382779063800037377": {
+            "id": "382779063800037377",
+            "text": "How much more can Elop humiliate Nokia? They now have to pay for his *divorce*?? http://bgr.com/2013/09/24/nokia-elop-bonus-scandal/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "377042353661288449": {
+            "id": "377042353661288449",
+            "text": ".@StackSmashing And currently (at least when it comes to smrtphones) there is almost only one baseband vendor that still matters: Qualcomm.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "373055314901233664": {
+            "id": "373055314901233664",
+            "text": "\"Nein!\" - \"Doch!\"- \"Ohhh!\"",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "373055069685415937": {
+            "id": "373055069685415937",
+            "text": "Remember those \"EU axes roaming charges\" headlines? Won't happen, because -surprisingly- the operators are against it http://futurezone.at/netzpolitik/17995-eu-rueckt-von-plaenen-fuer-guenstigeres-roaming-ab.php\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "367942976023982081": {
+            "id": "367942976023982081",
+            "text": "Captain Obvious reporting: 30% of operators believe Joyn will not successfully compete with WhatsApp and Skype http://www.telecoms.com/171082/operators-losing-faith-in-joyn/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "359658823436353537": {
+            "id": "359658823436353537",
+            "text": "E-Plus senkte Preise immer weiter um neue Kunden zu gewinnen - und die anderen mussten nachziehen. Ich denke, damit ist jetzt wohl Schluss.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "358893048282882048": {
+            "id": "358893048282882048",
+            "text": "Pro-tip: Don't insert an empty Micro-SIM adapter into a SIM card slot. It may rip out the reader contacts when pulling it out again.",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "357781804742213636": {
+            "id": "357781804742213636",
+            "text": "http://cdn.meme.li/instances/300x300/39812240.jpg\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "351983031285841921": {
+            "id": "351983031285841921",
+            "text": "T-Mobile seems to be first German operator to activate SMS Home Routing. All SMS to T-Mob customers now routed over single point in network.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "351653957879349248": {
+            "id": "351653957879349248",
+            "text": "Door leading to a cell tower site on the roof of a building in San Francisco http://asset0.cbsistatic.com/cnwk.1d/i/tim2/2013/06/12/Sprint_Cell_Site_Tour-19_620x413.jpg\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "350234863602909185": {
+            "id": "350234863602909185",
+            "text": "I am curious to see if this is the end of the road for the old Nokia baseband or if somebody buys it from Renesas.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "340016433058705409": {
+            "id": "340016433058705409",
+            "text": "o2 Germany's Femtocell is now finally available - for a one-time fee of 150\u20ac (still business customers only) http://www.o2business.de/signalbox\u00a0",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "334590021136949249": {
+            "id": "334590021136949249",
+            "text": "Android fail: If you dial #31# in front of a phone no. to call anonymously, and later use redial to call 2nd time, your number will be shown",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "313619518368919552": {
+            "id": "313619518368919552",
+            "text": "Vodafone's NOC for all European Networks (except UK) opened in Bucharest. Some interesting pictures: http://www.piticu.ro/centrul-regional-de-operatiuni-vodafone-prezentat-la-bucuresti.html\u00a0\u2026 (via @msecnet )",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "312534694027747328": {
+            "id": "312534694027747328",
+            "text": "\"the SPC of the SCP is needed to send the first SCCP message\" m)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "307408329817341952": {
+            "id": "307408329817341952",
+            "text": "Livestream of the demolition of Berlin's EastSideGallery http://www.livestream.com/undergroundreports\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "305698003015053313": {
+            "id": "305698003015053313",
+            "text": "I thought \"adb backup\" made a complete backup of an Android device - but SMS and contacts are missing. At least on Nexus 4. #fail #useless",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "305046096932130816": {
+            "id": "305046096932130816",
+            "text": "xgoldmon now also supports Galaxy Nexus!\nMany thanks to @yangrunenberger for finding out how to activate diag mode!http://github.com/2b-as/xgoldmon\u00a0",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "305003998929354754": {
+            "id": "305003998929354754",
+            "text": "Vodafone first German operator to offer Femtocells for private use. You still have to pay for it, though: 10 \u20ac/month http://www.teltarif.de/vodafone-umts-femtozelle-privatkunden/news/50092.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "304577353395351553": {
+            "id": "304577353395351553",
+            "text": "xgoldmon - together with newest libosmocore and Wireshark revisions - now supports UMTS RRC message decodinghttps://github.com/2b-as/xgoldmon\u00a0",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "302393706932215808": {
+            "id": "302393706932215808",
+            "text": "Btw: Does anybody know how to activate modem diag mode on non-Samsung-XGold phones?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "302079201710854145": {
+            "id": "302079201710854145",
+            "text": "Thanks to @iamnion, xgoldmon now also supports the Samsung Galaxy Note IIhttps://github.com/2b-as/xgoldmon\u00a0",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "300883684024795136": {
+            "id": "300883684024795136",
+            "text": "\"Putting 1-2-3 on the top row made for more accurate dialing\"\nJohn E. Karlin, designer of the phone keypad, dies at 94 \nhttp://www.nytimes.com/2013/02/09/business/john-e-karlin-who-led-the-way-to-all-digit-dialing-dies-at-94.html?pagewanted=all\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "299818299959701504": {
+            "id": "299818299959701504",
+            "text": "Moving VoIP into the Baseband for #VoLTE: http://mobilesociety.typepad.com/mobile_life/2013/02/voicer-over-ip-the-move-back-into-the-baseband.html\u00a0\u2026\nSo there would be two independent IP stacks in the phone (BB vs. AP) #LTE",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "296950357953757185": {
+            "id": "296950357953757185",
+            "text": "Querying your current MSC/VLR and SGSN with a Vodafone UK SIM works even when roaming. (USSD code: *#105#)pic.twitter.com/y8K0TvVf",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "294450611703906305": {
+            "id": "294450611703906305",
+            "text": "My xgoldmon tool on github: https://github.com/2b-as/xgoldmon\u00a0\n\nSee GSM/UMTS signalling messages (call, SMS, etc) from/to your Galaxy S2/S3 in Wireshark.",
+            "username": "2b_as",
+            "num_likes": 60,
+            "num_retweets": 59,
+            "num_replies": 1
+        },
+        "287287074992824320": {
+            "id": "287287074992824320",
+            "text": "This just made my day! RT @msecnet SQL Injection in USSD codes? Oh yeah! Thanks to Milan and TusMobil http://i.imgur.com/Cmlbx.png\u00a0",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "282810090602516482": {
+            "id": "282810090602516482",
+            "text": "WTF? http://www.etsi.org/deliver/\u00a0 doesn't work anymore: \"403 - Forbidden\" http://nooooooooooooooo.com/\u00a0",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "281772949046976512": {
+            "id": "281772949046976512",
+            "text": "Wow: Apparently Vodafone UK allows you to query your phone's current HLR, VLR, SGSN and MSC directly via USSD code: https://nickpackhamonline.wordpress.com/cellsites/vodafone-short-codes/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "278446106470408192": {
+            "id": "278446106470408192",
+            "text": "Samsung TV remote root exploit: https://www.net-security.org/secworld.php?id=14098\u00a0\u2026 Can't be long now until we have botnets consisting of TVs",
+            "username": "2b_as",
+            "num_likes": 5,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "277007512195186689": {
+            "id": "277007512195186689",
+            "text": "Wikipedia list: \"Fiber to the premises by country\". Germany? Not even on there. https://en.wikipedia.org/wiki/Fiber_to_the_premises_by_country\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "277006920257241088": {
+            "id": "277006920257241088",
+            "text": "Other countries' governments set up FTTH programs - but Germany? No, sir! The old copper wire is good enough\u2026 http://www.heise.de/newsticker/meldung/Deutsche-Telekom-setzt-auf-Ausbau-der-Glasfaser-und-DSL-Vectoring-1764072.html\u00a0\u2026 (German)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "276628008289320961": {
+            "id": "276628008289320961",
+            "text": "Another reason why the \"SMS successor\" #joyn / #RCS-e will fail: #Skype will soon offer video messaging http://www.theverge.com/2012/12/5/3732572/skype-video-messaging-feature-terms-of-use\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "275908865466441728": {
+            "id": "275908865466441728",
+            "text": "#o2 Germany apparently offering #Femtocells now: http://www.o2business.de/signalbox\u00a0 (Business Customers only)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "272972980202659840": {
+            "id": "272972980202659840",
+            "text": "Windows Phone 8: No VPN or IPSec support, no data encryption, no way to check remote peer's SSL certs https://plus.google.com/u/0/111696449660983519433/posts/2GxiKiEeyH5\u00a0\u2026 #WP8 #fail",
+            "username": "2b_as",
+            "num_likes": 16,
+            "num_retweets": 64,
+            "num_replies": 4
+        },
+        "271918718404145152": {
+            "id": "271918718404145152",
+            "text": "LTE in Googles Nexus 4 can simply be activated in a hidden menu. Curious to see which bands (besides IV) it supports. http://www.engadget.com/2012/11/23/nexus-4-lte-working-canada/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "270874241723953153": {
+            "id": "270874241723953153",
+            "text": "#Nokia gate5 releases its \"HERE\" Maps application for iOS: https://itunes.apple.com/us/app/here-maps/id577430143\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "269015364313174016": {
+            "id": "269015364313174016",
+            "text": "Police officers in Salt Lake City get glasses with attached cameras: http://www.ksl.com/?sid=22965087\u00a0 - @cstross ' \"Halting State\" becoming reality\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "269006121782632449": {
+            "id": "269006121782632449",
+            "text": "Paper on #LTE jamming: http://www.ntia.doc.gov/files/ntia/va_tech_response.pdf\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "263240788895494147": {
+            "id": "263240788895494147",
+            "text": "#o2 wants to sell its customers movement patterns to advertisers, complete with gender, age, etc: http://www.tagesschau.de/wirtschaft/telefonica106.html\u00a0\u2026 (German)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "258844109622628352": {
+            "id": "258844109622628352",
+            "text": "People are ashamed - ASHAMED! - for still having to use a BlackBerry. They even have to hide them under their iPads! https://www.nytimes.com/2012/10/16/technology/blackberry-becomes-a-source-of-shame-for-users.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "258837499135266816": {
+            "id": "258837499135266816",
+            "text": "Falling back to their old HLR: RT @zahidtg UK: O2 kicks out Ericsson after network failure http://gu.com/p/3b7ke/tw\u00a0  via @guardian",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "258502198227513345": {
+            "id": "258502198227513345",
+            "text": "Nokia EVP Location & Commerce M.Halbherr:\"Maybe we will be worth more than other Nokia Business Units one day\" http://www.tagesspiegel.de/wirtschaft/nokia-vorstand-halbherr-das-handy-vom-papa/7263140.html\u00a0\u2026 (German)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "255632651149508609": {
+            "id": "255632651149508609",
+            "text": "The older ones might still remember using their GSM phone as a dial-up modem: CSD (Circuit switched data) for #openbsc: http://lists.osmocom.org/pipermail/openbsc/2012-October/004160.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "254170062133526529": {
+            "id": "254170062133526529",
+            "text": "That's a tracking device under the complete control of the advertiser! They could even record audio to see which TV channel you are watching",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "254169708738248704": {
+            "id": "254169708738248704",
+            "text": "Fully functioning Android device including SIM in a US magazine showing ads for a TV network https://mashable.com/2012/10/02/ew-has-smartphone-inside/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "251332918146920449": {
+            "id": "251332918146920449",
+            "text": "Everybody is still saying the #Samsung remote wipe attack used an #USSD code: It did not! Explanation: http://berlin.ccc.de/~tobias/mmi-ussd-ss-codes-explained.html\u00a0\u2026 @heisec",
+            "username": "2b_as",
+            "num_likes": 19,
+            "num_retweets": 54,
+            "num_replies": 7
+        },
+        "247584668629757952": {
+            "id": "247584668629757952",
+            "text": "Samsung lists Galaxy S III advantages over iPhone 5 in ad http://news.cnet.com/8301-17852_3-57513628-71/samsung-attacks-iphone-5-in-new-ad/\u00a0\u2026 I can't imagine this will win over a single Apple customer...",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "246593082370424832": {
+            "id": "246593082370424832",
+            "text": "Sounds like this might double sales of Nokias Windows Phones for 2012: http://www.forbes.com/sites/kellyclay/2012/09/13/all-microsoft-employees-to-get-new-surface-tablets-windows-8-phones-pcs/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "243976679997964288": {
+            "id": "243976679997964288",
+            "text": "Classes suspended for thousands of chinese students for mandatory \"internship\" at Foxconn factory building new iPhones http://www.shanghaidaily.com/article/?id=511136\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "243667780229005313": {
+            "id": "243667780229005313",
+            "text": "Funny that \"joyn\" (RCS-e) is being pushed as the \"SMS successor\". Wasn't MMS supposed to be just that?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "243665987113717760": {
+            "id": "243665987113717760",
+            "text": "WhatsApp: Phonenumber as Username, IMEI as Password... m( http://samgranger.com/whatsapp-is-using-imei-numbers-as-passwords/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "240748247394680832": {
+            "id": "240748247394680832",
+            "text": "Trying to understand ITU-T V.110 ...",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "235278744099647488": {
+            "id": "235278744099647488",
+            "text": "New #Nokia GSM-Phone sold out even before marketing starts! - Sounds like a headline from last decade? It's not: http://www.bgr.com/2012/08/13/nokia-feature-phone-business-analysis/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "233151728214740992": {
+            "id": "233151728214740992",
+            "text": "Apparently, South Korea has already 99% #LTE coverage, even \"in underground areas as well as mountainous region\". o_0",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "233151031893168128": {
+            "id": "233151031893168128",
+            "text": "South Korea Telecom launches first commercial VoLTE (Voice over LTE) service today. http://www.koreaittimes.com/story/22840/skt-launches-world%25E2%2580%2599s-first-hd-voice-over-lte\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "231712697580933122": {
+            "id": "231712697580933122",
+            "text": "For Europe, I would not be surprised if GSM outlived UMTS/3G.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "231712456752386049": {
+            "id": "231712456752386049",
+            "text": "#AT&T wants to completely shut down its #GSM network by 2017 http://online.wsj.com/article_email/SB10000872396390443687504577567313211264588-lMyQjAxMTAyMDAwMzAwODM3Wj.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "228785053440802816": {
+            "id": "228785053440802816",
+            "text": ".@deutschetelekom erh\u00f6ht 3G-Speed in meinem Mobilfunk-Tarif auf 21,6Mb/s - jetzt kann ich meine monatl. 300MB in unter 2 Minuten verbraten!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "227429207477727232": {
+            "id": "227429207477727232",
+            "text": "Pay for DSL, pay for your calls and 3G data over that line and also pay for the #Femtocell (per month!): #Vodafone de! http://www.vodafone.de/downloadarea/Flyer_Sure_Signal_120619.pdf\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "227338854489808896": {
+            "id": "227338854489808896",
+            "text": "#Vodafone will als erster deutscher Netzbetreiber regul\u00e4r #Femtozellen anbieten - wenn auch nur f\u00fcr Gesch\u00e4ftskunden http://www.teltarif.de/femtozelle-vodafone-sure-signal/news/47516.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "225918388172640256": {
+            "id": "225918388172640256",
+            "text": "\"7 yrs before the iPhone Nokia showed a phone with a color touchscreen set above a single button\" I remember those pics http://online.wsj.com/article/SB10001424052702304388004577531002591315494.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "223003200280731649": {
+            "id": "223003200280731649",
+            "text": "WTF? There is a flag named \"emergency_for_cyber_terror\" inside the #Samsung #Galaxy #S3 firmware.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "220790545939841024": {
+            "id": "220790545939841024",
+            "text": "Why Meltemi Was Murdered http://www.mobile-review.com/articles/2012/birulki-176-en.shtml#2\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "215744886421454849": {
+            "id": "215744886421454849",
+            "text": "Hey @deutschetelekom , ich h\u00f6r immer \"LTE\" und \"100 Mbit/s\" - wie w\u00e4rs denn wenigstens mal mit 1 Mbit/s in der Berliner U-Bahn?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "214637598872842240": {
+            "id": "214637598872842240",
+            "text": "Using #VoIP in #Ethopia is now punishable by up to 15 years in prison http://techcrunch.com/2012/06/14/ethiopian-government-bans-skype-google-talk-and-all-other-voip-services/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "213562192769978368": {
+            "id": "213562192769978368",
+            "text": "#Nokia cancels development of Linux based #Meltemi phones. Platform was supposed to replace Series 30/40 https://allthingsd.com/20120614/nokia-to-end-meltemi-effort-for-low-end-smartphones/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "210310176484507648": {
+            "id": "210310176484507648",
+            "text": "\"T-Mobile has fully enabled IPv6 across entire network\" - T-Mobile USA, that is. Nowhere in sight in German home market http://blog.t-mobile.com/2012/06/05/t-mobile-enables-ipv6-across-nationwide-mobile-network-5/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "208216496361574401": {
+            "id": "208216496361574401",
+            "text": "http://etsi.org/deliver\u00a0 makes my life so much easier. Finally no obscure webinterface to struggle with anymore.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "207864912612032512": {
+            "id": "207864912612032512",
+            "text": "Can somebody please tell me that I misinterpret this? #Microsoft owns a #patent on the processing of multipart #SMS ?! http://worldwide.espacenet.com/publicationDetails/biblio?DB=worldwide.espacenet.com&II=1&ND=3&adjacent=true&locale=en_EP&FT=D&date=20030423&CC=EP&NR=1304891A2&KC=A2\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "207452230536794112": {
+            "id": "207452230536794112",
+            "text": "Google Maps bezieht Stellung in der Rivalit\u00e4t zw. #Friedrichshain und #Kreuzberg :)pic.twitter.com/JreB77h3",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "199858255047036929": {
+            "id": "199858255047036929",
+            "text": "SMS is 20 years old now. Two thirds of the worlds population have access to it. http://www.guardian.co.uk/technology/2012/may/06/sms-text-messages-20th-birthday\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "190383215943495680": {
+            "id": "190383215943495680",
+            "text": "3GPP: The cost of making the North American Phone System accept numbers longer than 10 digits would exceed USD 100 billion (3GPP TR 22.988)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "190142451439243265": {
+            "id": "190142451439243265",
+            "text": "Kernnetzkompetenzkomponenten!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "190094934953566210": {
+            "id": "190094934953566210",
+            "text": "#Nokia : worst performance of any globally market-leading company of any industry in the economic history of mankind.http://communities-dominate.blogs.com/brands/2012/04/nokia-profit-warning-again-here-is-what-you-need-to-know-why-it-is-actually-far-worse.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "190059905183514624": {
+            "id": "190059905183514624",
+            "text": "Just great! Where did UPS deliver my shipment this time? http://bit.ly/I2pu6e\u00a0",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "187822353156284416": {
+            "id": "187822353156284416",
+            "text": "Went to a cafe for breakfast. This was their Wifi password :)pic.twitter.com/TONFaAtA",
+            "username": "2b_as",
+            "num_likes": 6,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "182781975357161472": {
+            "id": "182781975357161472",
+            "text": "#Apple trying to become biggest #ETSI voting member to be able to force its own proposals as mobile comms standardshttp://www.engadget.com/2012/03/21/apple-nano-sim-motorola-nokia-rim-standard/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 2,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "180952872048005120": {
+            "id": "180952872048005120",
+            "text": "Kann mir jemand erkl\u00e4ren wir das iPhone rausfindet, ob Tethering erlaubt ist?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "180254380510019584": {
+            "id": "180254380510019584",
+            "text": "Why on earth are there 3 different numbering schemes for #GSM / #UMTS teleservices? GSM 02.03 Tbl 2 vs GSM 02.30 Annex C vs GSM 09.20 17.7.9",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "179551440019267584": {
+            "id": "179551440019267584",
+            "text": "I wrote an entire database program using only zeros. http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/8000/700/28703/28703.strip.zoom.gif\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "179155881156546560": {
+            "id": "179155881156546560",
+            "text": "A Dilbert Classic: Marketing http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/8000/500/28548/28548.strip.zoom.gif\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "178780531905921026": {
+            "id": "178780531905921026",
+            "text": "@icke1cke Hatten wir ja in Thailand. Nur, da\u00df dort \"Sonderbeh.\" heisst: Geht an den Schalter ohne Schlange, damit das Kind nicht warten muss",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "178104242622562304": {
+            "id": "178104242622562304",
+            "text": "If you want to be picky, Apples #iPad statement \"most wireless bands ever\" isn't true: I count six, vs seven on the Galaxy S II HD LTE",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "177384609938538496": {
+            "id": "177384609938538496",
+            "text": "Expose yourself undressed! (Sign on the hotel balcony)pic.twitter.com/Nn0NsbTi",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "177336719069298688": {
+            "id": "177336719069298688",
+            "text": "In some countries they are still selling Real Phones[tm]. In mint condition, also...pic.twitter.com/4yGJmyjp",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "174774319690428416": {
+            "id": "174774319690428416",
+            "text": "Life is no fun at 1024x768",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "174076472837947393": {
+            "id": "174076472837947393",
+            "text": "#Nokia #PureView 808 41 Megapixel phone will stay a niche product because it runs Symbian, which Nokias CEO declared dead at last years #MWC",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "173854034032209920": {
+            "id": "173854034032209920",
+            "text": "http://www.golem.de/news/ueberwachung-polizei-laesst-stille-sms-von-privater-firma-versenden-1202-90033.html\u00a0\u2026 Was die Polizei denen wohl zahlt? Ob die wissen, da\u00df man stille SMS von jeder Supermarkt-Prepaid-Karte absetzen kann?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "173072494545211395": {
+            "id": "173072494545211395",
+            "text": "H\u00e4h?! \"Ausnahmen sind hier allerdings E-Plus und o2, da diese keine \"reinen\" GSM-Netze sind\"  http://www.t-mobile.de/steuercodes/0,23096,19202-_,00.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "171902486121160704": {
+            "id": "171902486121160704",
+            "text": "How complex is UMTS? When Renesas bought Nokias baseband in 2010 they said development of a 3G stack from scratch would cost US$ 2 billion",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "171901245110484992": {
+            "id": "171901245110484992",
+            "text": "Renesas announces 3G+LTE #baseband SoC for $150 phones http://www.renesas.eu/press/news/2012/news20120215.jsp\u00a0\u2026 - That's the old #Nokia baseband which they bought in 2010...",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "171890093970292736": {
+            "id": "171890093970292736",
+            "text": "Wenn man einige Wochen ohne \"Nachrichten\" gelebt hat kommt einem alles gleich nochmal doppelt so bizarr vor.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "171583219261644802": {
+            "id": "171583219261644802",
+            "text": "\"Ich m\u00f6chte gern auf Online-Rechnung umstellen\" - \"Ok, da schick ich ihnen mal das Formular zu, das faxen sie uns dann einfach zur\u00fcck\" m(",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "170796008220000256": {
+            "id": "170796008220000256",
+            "text": "@NivenJ1 Read \"The Second Coming\", enjoyed it a lot. But why is God's office looking like one on earth right now? (Watercooler and all...)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "167951945007497217": {
+            "id": "167951945007497217",
+            "text": "Wenn auf der Insel die GSM-Basestation nachts zum Stromsparen ausgeschaltet wird. #notingermany",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "167949114485645313": {
+            "id": "167949114485645313",
+            "text": "Wenn die Schaffnerin des Express-Boots jmd zum Aufstehen auffordert, damit sich der Mann mit dem Kind aufm Arm hinsetzen kann #notingermany",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "167947468280049664": {
+            "id": "167947468280049664",
+            "text": "Wenn man bei der Immigration am Flughafen an den Extra-Schalter ohne Schlange geschickt wird, weil man ein Kind dabei hat. #notingermany",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "161522495848058880": {
+            "id": "161522495848058880",
+            "text": "Kann im Zielland komplett auf meine .de-SIM verzichten dank Call-Forward, SMS-Forward, CLIP no screening und SMPP-Account. Kann losgehen :)",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "158855106245312516": {
+            "id": "158855106245312516",
+            "text": "@GreatDismal What is the difference? http://www.amazon.com/Distrust-That-Particular-Flavor-ebook/dp/B005GSZJ6Q/\u00a0\u2026 vs. http://www.amazon.com/Distrust-that-Particular-Flavor-ebook/dp/B006MN98PW\u00a0\u2026 - i save 7 bucks if it has a picture of you?!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "157900856761647105": {
+            "id": "157900856761647105",
+            "text": "Ist eigentlich an dem Ger\u00fccht was dran, da\u00df Christian Wulff Kandidat in der neuen RTL #Dschungelcamp -Staffel ist?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "157814327741661184": {
+            "id": "157814327741661184",
+            "text": "@moeffju Kommt immer drauf an, was Du bereit bist, auszugeben ;) Kannst ja mal hier schauen: http://www.asteriskexchange.com/listings/category/18\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "157805677530726400": {
+            "id": "157805677530726400",
+            "text": "@moeffju Gibt so SIP-DECT-Accesspoints, allerdings hab ich f\u00fcr kleinere Installationen da grad keinen \u00dcberblick",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "157804157191987201": {
+            "id": "157804157191987201",
+            "text": "@moeffju Je nach Geschmack Asterisk (more featurez) oder Freeswitch (sauberer), E1 card die supported wird. DECT: wieviele Handsets?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "157802542594654209": {
+            "id": "157802542594654209",
+            "text": "@moeffju Schon. Worum gehts denn konkret?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "157405790867693568": {
+            "id": "157405790867693568",
+            "text": "#o2 schaffts nicht allein, deshalb fragen sie wieder die #Telekom um Hilfe - wie fr\u00fcher, nur auf einer anderen Ebene http://www.telefonica.de/news/303/msg/17601/telefonica-germany-und-telekom-vereinbaren-netzkooperation.html\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "157395173293309952": {
+            "id": "157395173293309952",
+            "text": "@hukl Look! A three-headed monkey!!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "156071339977998336": {
+            "id": "156071339977998336",
+            "text": "@o2de failed bis zum Letzten: wenn man gek\u00fcndigt hat kann man die nach der Abschaltung eintreffende Abschlussrechnung nicht abrufen m(",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "154527428268662784": {
+            "id": "154527428268662784",
+            "text": "@andreasdotorg A20?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "153922563490332672": {
+            "id": "153922563490332672",
+            "text": "Anzahl gesendeter SMS f\u00e4llt wegen Facebook/Twitter stark: http://www.forbes.com/sites/terokuittinen/2011/12/29/more-signs-of-steep-text-message-erosion/\u00a0\u2026 ... twitterte er",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "153738322668290048": {
+            "id": "153738322668290048",
+            "text": "@LaF0rge maybe somebody is trying out https://code.google.com/p/reaver-wps/\u00a0 ?",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "152031456850477056": {
+            "id": "152031456850477056",
+            "text": "\"real attacks on real networks against real customers are most unlikely\" #famouslastwords #gsm #gsma",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "151981482561380352": {
+            "id": "151981482561380352",
+            "text": "A service that's definitely missing from the #28c3 http://www.dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/3000/800/23867/23867.strip.zoom.gif\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "151606434910572544": {
+            "id": "151606434910572544",
+            "text": "Better set phone to \"3G only\"... #hackersgonnahack #28c3",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "149511573940076544": {
+            "id": "149511573940076544",
+            "text": "Wichtig f\u00fcr eine Mobil-Rufnummern-Portierung in .de: Bei altem und neuem Anbieter m\u00fcssen Nachname und Geburtsdatum \u00fcbereinstimmen #MNP",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "149434783640977408": {
+            "id": "149434783640977408",
+            "text": "In case anybody wondered: No trace of #Nokia left in Nokias with Windows. Baseband is integrated in the #Qualcomm SoC http://www.signonsandiego.com/news/2011/oct/28/qualcomm-chips-power-nokias-new-windows-smart-phon/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "149397995597737984": {
+            "id": "149397995597737984",
+            "text": "Toll, die Messung ver\u00e4ndert das Ergebnis: Anruf des \"KontoService\" von T-Mobile ist in einigen Tarifen nicht kostenlos",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "147597395872587776": {
+            "id": "147597395872587776",
+            "text": "Einmal mit Profis... \"Tragen Sie einfach im Login-Bereich Ihren meincongstar Benutzernamen {benutzername} ein.\"",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "147577045864546305": {
+            "id": "147577045864546305",
+            "text": "Siri destroys jobs http://www.dilbert.com/dyn/str_strip/000000000/00000000/0000000/100000/40000/5000/700/145777/145777.strip.zoom.gif\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "146531815245619200": {
+            "id": "146531815245619200",
+            "text": "Jetzt kommts raus: #o2 failed in den St\u00e4dten, weil die Techniker immer auf der Zugspitze sind...pic.twitter.com/bkz8eh3Z",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "145048421085089792": {
+            "id": "145048421085089792",
+            "text": "Der Mann hat ja wohl den coolsten Namen ever: http://www.wiwi.uni-rostock.de/bwl/psychologie/mitarbeiter/prof-dr-friedemann-w-nerdinger/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "144000425224454144": {
+            "id": "144000425224454144",
+            "text": "@hhf True only if you add \"smartphone\" to that sentence.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "143966202639818754": {
+            "id": "143966202639818754",
+            "text": "@dirkjaeckel $100, und dann nochmal $60 f\u00fcr \"Shipping and handling\"...",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "143325936761307136": {
+            "id": "143325936761307136",
+            "text": "@hhf Die Datenbank m\u00fcsste schon EU-weit sein. Aber das ist rein technisch nat\u00fcrlich un-m\u00f6g-lich!!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "143252652380274688": {
+            "id": "143252652380274688",
+            "text": "Ach. In Australien wird die IMEI von geklauten Telefonen bei allen Carriern geblockt: Starker R\u00fcckgang von Diebst\u00e4hlen. http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/12/03/BAHO1M7J9U.DTL\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "142595109966462977": {
+            "id": "142595109966462977",
+            "text": "http://blogs.wsj.com/tech-europe/2011/12/01/phonedeck-helps-manage-your-cell-calls/\u00a0\u2026 \"I'm not following my wife on Twitter, so from a non-phone perspective I don't know this woman\"- whats wrong with ppl?!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "142594377196380162": {
+            "id": "142594377196380162",
+            "text": "Bizarr: Twitter erlaubt mir nicht, einen bestimmten Tweet abzusetzen (\"Your account may not be allowed to perform this action.\")",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "142592475570241536": {
+            "id": "142592475570241536",
+            "text": "(pls ignore)",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "142261962871549952": {
+            "id": "142261962871549952",
+            "text": "Da brauchts dann auch kein CarrierIQ mehr...",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "142261766821392386": {
+            "id": "142261766821392386",
+            "text": "N\u00e4chstes hippes Berliner Startup: phonedeck - lager einfach Dein gesamtes Mobiltelefonbuch, SMS, Call-History etc. in die Cloud aus!!",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "142146946734366721": {
+            "id": "142146946734366721",
+            "text": "\"Your information will be saved as the highest confidential data in our database\"\nI feel safer already.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "141945061528190976": {
+            "id": "141945061528190976",
+            "text": "Dezentrales Instant Messaging ist tot. Hab grade realisiert, da\u00df es keinen wirklich funktionierenden Jabber-Client f\u00fcr Windows 7 gibt.",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "141813243025948672": {
+            "id": "141813243025948672",
+            "text": "o2 schreibt bei wir-sind-einzelfall.de, was sie gegen ihre Netzprobleme tun wollen: http://wir-sind-einzelfall.de/2011/11/danke-fur-ihr-feedback-und-wie-wir-es-verwerten/\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "141808527709708288": {
+            "id": "141808527709708288",
+            "text": "T-Mobile versucht, die frustrierten o2-Kunden f\u00fcr sich zu gewinnen. Ich w\u00fcrd ja gern, aber o2 l\u00e4sst mich nicht...pic.twitter.com/p7va2Hik",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "141098103251009536": {
+            "id": "141098103251009536",
+            "text": "o2 ruft an um zu fragen, ob sie bzgl meiner K\u00fcndigung wg. Netzproblemen noch was tun k\u00f6nnen, Gespr\u00e4ch bricht wg. Netzproblemen ab #o2 #fail",
+            "username": "2b_as",
+            "num_likes": 48,
+            "num_retweets": 172,
+            "num_replies": 2
+        },
+        "139642096364699648": {
+            "id": "139642096364699648",
+            "text": "Upgraded from #Thunderbird 2 to 8 this week. Not only are the old bugs still present, but also new ones to keep them company. #fail",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "139619165064540160": {
+            "id": "139619165064540160",
+            "text": "\"The system monitors patterns of movement. We can see, like migrating birds, where people are going to.\" http://money.cnn.com/2011/11/22/technology/malls_track_cell_phones_black_friday/index.htm\u00a0\u2026",
+            "username": "2b_as",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "139304880304160770": {
+            "id": "139304880304160770",
+            "text": "Famous first words: \"Jetzt probier ich das auch mal mit diesem Twitter\". Als ob jemals jemand wieder aufgeh\u00f6rt h\u00e4tte.",
+            "username": "2b_as",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "timpritlove": 1,
+        "sentwistle1419": 1,
+        "intelnews": 1,
+        "LaF0rge": 24,
+        "PatrickMcCanna": 3,
+        "hhf": 2,
+        "thorstenbenner": 1,
+        "PedroClarke1": 2,
+        "binitamshah": 1,
+        "andre_meister": 1,
+        "3g4gUK": 1,
+        "Snowden": 1,
+        "esizkur": 5,
+        "whiteafrican": 1,
+        "yun": 1,
+        "Nexus511": 1,
+        "ruskin147": 1,
+        "vecirex": 1,
+        "iamnion": 24,
+        "Comsecuris": 2,
+        "Shiftreduce": 1,
+        "HardenStance": 1,
+        "disruptivedean": 2,
+        "Dr_Gretchen": 1,
+        "RossBolWill": 1,
+        "pwnallthethings": 2,
+        "mikko": 6,
+        "zahidtg": 13,
+        "jellphonic": 1,
+        "threatpost": 1,
+        "VickerySec": 1,
+        "NicolasPetton": 1,
+        "frank_rieger": 8,
+        "chaosupdates": 2,
+        "zecke42": 4,
+        "__ths__": 1,
+        "zooko": 1,
+        "PatrickBeuth": 4,
+        "x0rz": 1,
+        "thejoshpit": 1,
+        "museumofcomm": 1,
+        "LarsWienand": 1,
+        "ElZnuh": 1,
+        "Enno_Insinuator": 2,
+        "MarcAllera": 1,
+        "msolnik": 1,
+        "frapzz0r": 1,
+        "Linuzifer": 2,
+        "lightcoin": 1,
+        "jserna": 1,
+        "michael_hendrix": 1,
+        "netzpolitik": 3,
+        "DidymaWorks": 1,
+        "dhauenstein": 1,
+        "Reuters": 1,
+        "sidnext2none": 1,
+        "RonDeibert": 1,
+        "nblr": 3,
+        "SteveBellovin": 1,
+        "Hannah_Chutzpah": 1,
+        "TMFAssociates": 1,
+        "andreasdotorg": 4,
+        "raviborgaonkar": 8,
+        "theintercept": 1,
+        "dotMudge": 1,
+        "eeNewsEurope": 1,
+        "tuexss": 1,
+        "scadasl": 1,
+        "SZ": 1,
+        "mattblaze": 1,
+        "schneierblog": 1,
+        "lolaandromeda": 1,
+        "SwiftOnSecurity": 1,
+        "eXplanoTech": 1,
+        "dmavrakis": 2,
+        "somospostpc": 1,
+        "henrykploetz": 1,
+        "wirereporter": 1,
+        "_fel1x": 1,
+        "das_aug": 1,
+        "counternotions": 2,
+        "kestermann": 1,
+        "dhh": 1,
+        "JollaHQ": 1,
+        "nicboul": 1,
+        "chemeris": 2,
+        "davwrigh": 1,
+        "erdgeist": 1,
+        "ltm": 1,
+        "DomagojPa": 1,
+        "khuhtanen": 1,
+        "GSMAi": 1,
+        "c0rnholio": 3,
+        "collinrm": 1,
+        "thomas_cannon": 1,
+        "MarkKriegsman": 1,
+        "mherfurt": 1,
+        "lukasweber": 1,
+        "fb1h2s": 1,
+        "drogersuk": 1,
+        "Shit_MSDN_Says": 1,
+        "joswr1ght": 1,
+        "asymco": 3,
+        "DenZhadanov": 1,
+        "dakami": 1,
+        "msecnet": 2,
+        "StackSmashing": 1,
+        "bertboerland": 1,
+        "der_ak": 1,
+        "benwood": 1,
+        "BGR": 1,
+        "andiwundsam": 1,
+        "davidfg": 1,
+        "sheeshee": 1,
+        "dburgess00": 1,
+        "midisFI": 1,
+        "jpnKevin_T": 1,
+        "WeldPond": 1,
+        "zonque": 1,
+        "ciphergoth": 1,
+        "StudienratFanny": 1,
+        "evgenymorozov": 1,
+        "niklahs": 1,
+        "kutyacica": 1,
+        "__daveg__": 1,
+        "carta_": 1,
+        "beandog76": 1,
+        "Michael_French": 1,
+        "Staska": 1,
+        "Maravedis": 1,
+        "sysmocom": 1,
+        "darrellmaycry": 1,
+        "cristianyxen": 1,
+        "tomiahonen": 2,
+        "therealsaumil": 1,
+        "agonarch": 1,
+        "doctorow": 1,
+        "LeeCash": 1,
+        "cstross": 1,
+        "jbarnette": 1,
+        "GammaCounter": 1,
+        "johl": 1
+    },
+    "users_retweeted": [
+        "LaF0rge",
+        "iamnion",
+        "zahidtg",
+        "frank_rieger",
+        "raviborgaonkar",
+        "mikko",
+        "esizkur",
+        "zecke42",
+        "PatrickBeuth",
+        "andreasdotorg",
+        "PatrickMcCanna",
+        "netzpolitik",
+        "nblr",
+        "c0rnholio",
+        "asymco",
+        "hhf",
+        "PedroClarke1",
+        "Comsecuris",
+        "disruptivedean",
+        "pwnallthethings",
+        "chaosupdates",
+        "Enno_Insinuator",
+        "Linuzifer",
+        "dmavrakis",
+        "counternotions",
+        "chemeris",
+        "msecnet",
+        "tomiahonen",
+        "timpritlove",
+        "sentwistle1419",
+        "intelnews",
+        "thorstenbenner",
+        "binitamshah",
+        "andre_meister",
+        "3g4gUK",
+        "Snowden",
+        "whiteafrican",
+        "yun",
+        "Nexus511",
+        "ruskin147",
+        "vecirex",
+        "Shiftreduce",
+        "HardenStance",
+        "Dr_Gretchen",
+        "RossBolWill",
+        "jellphonic",
+        "threatpost",
+        "VickerySec",
+        "NicolasPetton",
+        "__ths__",
+        "zooko",
+        "x0rz",
+        "thejoshpit",
+        "museumofcomm",
+        "LarsWienand",
+        "ElZnuh",
+        "MarcAllera",
+        "msolnik",
+        "frapzz0r",
+        "lightcoin",
+        "jserna",
+        "michael_hendrix",
+        "DidymaWorks",
+        "dhauenstein",
+        "Reuters",
+        "sidnext2none",
+        "RonDeibert",
+        "SteveBellovin",
+        "Hannah_Chutzpah",
+        "TMFAssociates",
+        "theintercept",
+        "dotMudge",
+        "eeNewsEurope",
+        "tuexss",
+        "scadasl",
+        "SZ",
+        "mattblaze",
+        "schneierblog",
+        "lolaandromeda",
+        "SwiftOnSecurity",
+        "eXplanoTech",
+        "somospostpc",
+        "henrykploetz",
+        "wirereporter",
+        "_fel1x",
+        "das_aug",
+        "kestermann",
+        "dhh",
+        "JollaHQ",
+        "nicboul",
+        "davwrigh",
+        "erdgeist",
+        "ltm",
+        "DomagojPa",
+        "khuhtanen",
+        "GSMAi",
+        "collinrm",
+        "thomas_cannon",
+        "MarkKriegsman",
+        "mherfurt",
+        "lukasweber",
+        "fb1h2s",
+        "drogersuk",
+        "Shit_MSDN_Says",
+        "joswr1ght",
+        "DenZhadanov",
+        "dakami",
+        "StackSmashing",
+        "bertboerland",
+        "der_ak",
+        "benwood",
+        "BGR",
+        "andiwundsam",
+        "davidfg",
+        "sheeshee",
+        "dburgess00",
+        "midisFI",
+        "jpnKevin_T",
+        "WeldPond",
+        "zonque",
+        "ciphergoth",
+        "StudienratFanny",
+        "evgenymorozov",
+        "niklahs",
+        "kutyacica",
+        "__daveg__",
+        "carta_",
+        "beandog76",
+        "Michael_French",
+        "Staska",
+        "Maravedis",
+        "sysmocom",
+        "darrellmaycry",
+        "cristianyxen",
+        "therealsaumil",
+        "agonarch",
+        "doctorow",
+        "LeeCash",
+        "cstross",
+        "jbarnette",
+        "GammaCounter",
+        "johl"
+    ]
+}

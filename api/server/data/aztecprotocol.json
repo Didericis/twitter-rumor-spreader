@@ -1,0 +1,950 @@
+{
+    "is_complete": true,
+    "username": "aztecprotocol",
+    "retweeted": {
+        "1126409427551170560": {
+            "id": "1126409427551170560",
+            "text": "Berlin! Join us @blueyard Wednesday May 22nd to discuss zero knowledge cryptography with @aztecprotocol. Make sure to sign up on the Eventbrite below - as usual there will be Pizza and Drinks:https://www.eventbrite.com/e/aztec-protocol-berlin-meetup-tickets-61303204535\u00a0\u2026",
+            "username": "pbanhardt",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1124768669798682625": {
+            "id": "1124768669798682625",
+            "text": "We look forward to welcoming the awesome @Zac_Aztec , Founder and CTO of @aztecprotocol tomorrow for Day 2. Plus lots of hands-on coding for our students. ",
+            "username": "work_blockchain",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1124348011210051585": {
+            "id": "1124348011210051585",
+            "text": "Rounding out #privacy week with one of the most exciting projects in the space: @aztecprotocol. Create a confidential ERC20 token using Aztec's zero-knowledge proofs, which are available on mainnet right now!https://kauri.io/article/b699361c8f7b4671aca588f1213e87bd\u00a0\u2026",
+            "username": "kauri_io",
+            "num_likes": 36,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1124336198648918016": {
+            "id": "1124336198648918016",
+            "text": "We can't wait to gather some of the most talented people & outstanding projects in the Web 3.0 ecosystem at #CogX2019! \n\n Join us on June 10-12 as we dive into technical building blocks, use-cases, and social & political implications. https://www.fabric.vc/web3-cogx\u00a0pic.twitter.com/454bJiaAEQ",
+            "username": "fabric_vc",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1123968518171525123": {
+            "id": "1123968518171525123",
+            "text": "@aztecprotocol have further extended their family of ZKPs, adding both public (like proving age based on encrypted ID) and private range proofs (proving an asset has greater or lesser value than another confidential asset - all without revealing the underlying values! Excited!",
+            "username": "_LewisHarland_",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1123933916782579712": {
+            "id": "1123933916782579712",
+            "text": "Want to learn more about the @aztecprotocol? Neufund is happy to sponsor the newest @zeroknowledgefm episode discussing the topic. Give it a listen herehttps://buff.ly/2PEykAj\u00a0",
+            "username": "neufundorg",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1123897748670025733": {
+            "id": "1123897748670025733",
+            "text": "Catch up with @aztecprotocol and @Zac_Aztec on this week's ep of the ZKP. \nWe cover range proofs,the different approaches to bringing privacy to Ethereum, zk tools & standards, and more!  https://www.zeroknowledge.fm/75\u00a0 cc: @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1120890108285263872": {
+            "id": "1120890108285263872",
+            "text": "\"Towards More Programmable and Robust Security Tokens: Five Protocols that Should be Part of\u2026\" by @jrdothoughts https://hackernoon.com/towards-more-programmable-and-robust-security-tokens-five-protocols-that-should-be-part-of-a02093bcb190\u00a0\u2026 #blockchain #ethereum",
+            "username": "hackernoon",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1118827915314176000": {
+            "id": "1118827915314176000",
+            "text": "#tquorum privacy panel with: privacy pioneer @chaumdotcom, Marco and Marc from @LabosNomades , @trpocock, founder of @aztecprotocol, and Jean-Baptiste from Banque de France!pic.twitter.com/D6IhkfAtQg",
+            "username": "JacobArluck",
+            "num_likes": 53,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1118829494704406528": {
+            "id": "1118829494704406528",
+            "text": "@trpocock from @aztecprotocol:\n\nIn the long-run, a lot of value [in financial markets] will be delivered over private channels on public networks, not just via private networks",
+            "username": "JacobArluck",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1118098679771074560": {
+            "id": "1118098679771074560",
+            "text": "Our second Zero Knowledge Proof Developer Workshop is live brought to you by @work_blockchain & @Extropy \n\nWe are inviting pioneers in the #ZKP space cc: @aztecprotocol @clearmatics @ArtosSystems\n#Privacy #Security #ZKProof #Workshop #Coding #Educationhttps://www.eventbrite.com/e/zero-knowledge-proof-developer-workshop-tickets-60458939315\u00a0\u2026",
+            "username": "work_blockchain",
+            "num_likes": 15,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1117955131037966337": {
+            "id": "1117955131037966337",
+            "text": "Great prez by @aztecprotocol at tonight\u2019s #DeFi meetup in NYC.\n\nAs institutional capital looks to partake in the budding DeFi ecosystem, privacy for financial primitives will be critical. Modularity, gas efficiency, and simple implementation of these ZKproofs doesn\u2019t hurt either!pic.twitter.com/epDK4ELTBW \u2013 at Distributed Global",
+            "username": "seanlippel",
+            "num_likes": 69,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1117748271882080262": {
+            "id": "1117748271882080262",
+            "text": "If anyone is in NYC this evening, I will be presenting an overview of @aztecprotocol to DeFi NYC!\n\n1830. Distribute Global, 16 Vestry Street, New York, 10013\n\nHope to meet you there! https://www.meetup.com/DeFiNYC/events/260554548/\u00a0\u2026",
+            "username": "iam_gls",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1115809713503916032": {
+            "id": "1115809713503916032",
+            "text": "Discussing the future of #Privacy @CeloHQ #blockchaintech @zcashco @aztecprotocolpic.twitter.com/moApLuBwRn",
+            "username": "iamkyrious",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1112663606888415232": {
+            "id": "1112663606888415232",
+            "text": "A look into how @aztecprotocol proposes to put confidential digital assets on Ethereum - a talk by @Zac_Aztec at the zk Summit https://youtu.be/RIg2aJQqNNc\u00a0 #zk0x03",
+            "username": "zeroknowledgefm",
+            "num_likes": 17,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1107690473014153216": {
+            "id": "1107690473014153216",
+            "text": "Looking forward to talks from @__Tux from @NuCypher, @jbaylina from @identhree, @Zac_Aztec from @aztecprotocol, and more of your fav builders/researchers at the ZKSummit #zk0x03! \n\nStill have a few spots available, join us and learn!\nApply here -->> https://goo.gl/forms/RxZyod7wjq1At7a42\u00a0\u2026pic.twitter.com/JzvOkVWxGF",
+            "username": "zeroknowledgefm",
+            "num_likes": 30,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1106561493766729729": {
+            "id": "1106561493766729729",
+            "text": "Good read by @mattyGyo about @RealBlocks's decision to go public over private, and the importance of privacy tools in making that decision! https://link.medium.com/lXNLvZ8W4U\u00a0pic.twitter.com/nSI0Sc9P55",
+            "username": "_ArnaudS_",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1106216153616187392": {
+            "id": "1106216153616187392",
+            "text": "Aztec and Carbon bringing you privacy and stability!https://twitter.com/TheBlock__/status/1106215052003151877\u00a0\u2026",
+            "username": "futurenomics",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1106215953526939649": {
+            "id": "1106215953526939649",
+            "text": "Thrilled to have @carbon_money bringing their stablecoin to the @aztecprotocol!https://twitter.com/TheBlock__/status/1106215052003151877\u00a0\u2026",
+            "username": "trpocock",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1106215052003151877": {
+            "id": "1106215052003151877",
+            "text": "Carbon (@carbon_money) and AZTEC Protocol (@aztecprotocol) partner to bring a privacy stablecoin to Ethereum (via @Dogetoshi)https://www.theblockcrypto.com/2019/03/14/carbon-and-aztec-protocol-partner-to-bring-a-privacy-stablecoin-to-ethereum/\u00a0\u2026",
+            "username": "TheBlock__",
+            "num_likes": 42,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1105876741812305920": {
+            "id": "1105876741812305920",
+            "text": "Who are the most interesting STO & stablecoin issuers, wallets & exchanges operating in NYC? I'm in NY with time to meet on Wed 27th and Thurs 28th March - recommendations please!",
+            "username": "trpocock",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1103612179943550976": {
+            "id": "1103612179943550976",
+            "text": "Q3 production ready mainnet release for @aztecprotocol  https://twitter.com/evan_van_ness/status/1103610335968284672\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 33,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1103602808866172928": {
+            "id": "1103602808866172928",
+            "text": "The one and only @ZacCreditMint talking about the @aztecprotocol https://www.pscp.tv/w/b1DpSjQxNDQyfDFCUkpqWEJkTXdvS3eZD1WDEoXOUlE4151GCOeSz4Nrx2FgVKZgth44_vJyDg==\u00a0\u2026",
+            "username": "ricburton",
+            "num_likes": 34,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "1103272512711020545": {
+            "id": "1103272512711020545",
+            "text": "PR for generic elliptic curve linear combinations, hoping to get this in the next hardfork. It solves a very large class of problems. I'm excited by the support from great minds at @StarkWareLtd @the_matter_labs @aztecprotocol et al.https://github.com/ethereum/EIPs/pull/1829\u00a0\u2026",
+            "username": "recmo",
+            "num_likes": 61,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1103048653806153730": {
+            "id": "1103048653806153730",
+            "text": "A perfect end to Day 1 of #EthCC. Dinner with \u2066@_shelk\u2069 \u2066@yanroux\u2069 \u2066@ConsenSys\u2069 \u2066@evan_van_ness\u2069 \u2066@aztecprotocol\u2069 \u2066@multisHQ\u2069 \u2066@ricburton\u2069 \u2066@poanetwork\u2069pic.twitter.com/4HQ7EII7De",
+            "username": "argentHQ",
+            "num_likes": 33,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1103022135784730624": {
+            "id": "1103022135784730624",
+            "text": "Today's #DistributedDigest features @omise_go's Developer Program, a partnership between @aztecprotocol and @renprotocol, and the @GetGitcoin Torch. Read for more #crypto news.http://ow.ly/2dJp30nVUC9\u00a0",
+            "username": "ETHNews_",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1102902718396428288": {
+            "id": "1102902718396428288",
+            "text": "Achieving privacy in the decentralised world is not going to be done by one team alone, and working together with @aztecprotocol we are all that much closer to #UnstoppablePrivacyhttps://twitter.com/aztecprotocol/status/1102901772744577024\u00a0\u2026",
+            "username": "bzlwang",
+            "num_likes": 50,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1102902087204003840": {
+            "id": "1102902087204003840",
+            "text": "A big step for fully private decentralized trading is coming. Ren is very excited to announce our partnership with @aztecprotocol Take a look here: https://medium.com/renproject/ren-partners-with-aztec-protocol-c2651a13a039\u00a0\u2026pic.twitter.com/FHm4C3vbmK",
+            "username": "renprotocol",
+            "num_likes": 134,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "1100418200691527680": {
+            "id": "1100418200691527680",
+            "text": "Join our KRYPTONIGHT LONDON meetup at Huckletree Shoreditch tonight! \n\nHear the latest from @argentHQ, @aztecprotocol and @vegaprotocol! We'll have some food and drinks too, looking forward!https://www.eventbrite.co.uk/e/kryptonight-ii-argent-aztec-vega-hosted-by-kr1-tickets-56505714112\u00a0\u2026",
+            "username": "KR1plc",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1095052988719128576": {
+            "id": "1095052988719128576",
+            "text": "Part two of our analysis of zero-knowledge proofs looks at the projects implementing the protocols: that's you @zcashco @republic @aztecprotocol @CodaProtocol @bzlwang @Leverj_iohttps://www.bitrates.com/news/p/part-2-of-2-zero-knowledge-proofs-implementations-and-applications-zcash-to-ren\u00a0\u2026",
+            "username": "BitratesNews",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1096870084981604352": {
+            "id": "1096870084981604352",
+            "text": "Intro manuals for bounty #3https://twitter.com/aztecprotocol/status/1096674420494606336?s=19\u00a0\u2026",
+            "username": "LenklaH",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1096503083511668737": {
+            "id": "1096503083511668737",
+            "text": "Look, I\u2019m not saying @aztecprotocol is one one the coolest teams in ethereum BECAUSE they gave me the very first of their new stickers. But I am saying they are and that they did! #ETH #MEW #humblebragpic.twitter.com/WbiciGVYHH",
+            "username": "RatherBeThePope",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1095504051142197248": {
+            "id": "1095504051142197248",
+            "text": "Welcome to Protocol Weekly @aztecprotocol \n\nAZTEC brings private transactions to public blockchains.https://medium.com/8xprotocol/welcome-to-protocol-weekly-aztec-protocol-4d6fbbc9c519\u00a0\u2026",
+            "username": "HelisNetwork",
+            "num_likes": 27,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1093664603668729856": {
+            "id": "1093664603668729856",
+            "text": "Emerging from @aztecprotocol's primordial ooze is Huff, a smart contract \"language\" for writing gas-optimized code.http://ow.ly/9lsL30nCEu0\u00a0",
+            "username": "ETHNews_",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1092860644372561920": {
+            "id": "1092860644372561920",
+            "text": "New EthHub Weekly Recap\n\n-QuadrigaCX lost funds\n-@graphprotocol launch\n-WBTC live\n-@dex_ag and @airswap DEx aggregators\n-@aztecprotocol zkERC20s\n-@AugurProject market resolves for Democrats\n-@ameensol's awesome tweet thread\n-@cyounessi1 Maker Daihttps://podcast.ethhub.io\u00a0",
+            "username": "ethhub_io",
+            "num_likes": 39,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1091733197124235264": {
+            "id": "1091733197124235264",
+            "text": "In other words, @ZacCreditMint wrote an EVM smart contract that's substantially more gas-efficient than the equivalent *precompile* contract. \n\nI thought things aren't supposed to work that way...  https://twitter.com/aztecprotocol/status/1090620878021427200\u00a0\u2026",
+            "username": "MihailoBjelic",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1090401721380233217": {
+            "id": "1090401721380233217",
+            "text": "Published on Friday, January 25, by @aztecprotocol's Chief Technology Officer @ZacCreditMint, the proposed Confidential Token Standard #zkERC20 offers a zero-knowledge equivalent to #Ethereum's ERC20 standard.http://ow.ly/yL8v30nvj21\u00a0",
+            "username": "ETHNews_",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1089734165015064576": {
+            "id": "1089734165015064576",
+            "text": "There\u2019s a new EVM programming language, aptly named, \u201cHuff\u201d. Hilarious.https://github.com/AztecProtocol/huff\u00a0\u2026",
+            "username": "Steven_McKie",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1088919131536015360": {
+            "id": "1088919131536015360",
+            "text": "Gitcoin community call!https://www.pscp.tv/w/bxt-FTM3NTY1NXwxTVl4TnlYQk9Rbkp3vb_xUKUOiXaIRhwHU7BsnCoBWTcpbX6EpAauiAo5Kpg=\u00a0\u2026",
+            "username": "davecraige",
+            "num_likes": 17,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1088456256019259393": {
+            "id": "1088456256019259393",
+            "text": "Earlier today @ZeppelinOrg meet with @aztecprotocol to talk about their exciting new privacy technology. It's one of the projects I'm really excited about in the space.https://www.youtube.com/watch?v=NIuQdXdCWVE\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1087724059729772546": {
+            "id": "1087724059729772546",
+            "text": "The @aztecprotocol is probably going to be one of the best bets @ConsenSys has made.\n\n@_minteo told me about them just before DevCon. I have been following their progress ever since.\n\nListen to this conversation between @itsjefftong and @ZacCreditMint: https://www.thesmartestcontract.com/27\u00a0\nhttps://twitter.com/_ArnaudS_/status/1087670397024256000\u00a0\u2026",
+            "username": "ricburton",
+            "num_likes": 54,
+            "num_retweets": 11,
+            "num_replies": 5
+        },
+        "1085123602201100288": {
+            "id": "1085123602201100288",
+            "text": "I am very excited to announce that I am joining the @CreditMint // @aztecprotocol team! I can\u2019t wait to start my career, sink my teeth into some interesting work and get stuck into the industry. Corporate debt on the blockchain and privacy solutions for Ethereum. ",
+            "username": "iam_gls",
+            "num_likes": 43,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1081637210737311746": {
+            "id": "1081637210737311746",
+            "text": "Excited to announce that I've joined @AztecProtocol  \nStay tuned for our zero-knowledge asset standards built on Ethereum pic.twitter.com/M8fTktfMOA",
+            "username": "PaulRBerg",
+            "num_likes": 83,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1077637614361083905": {
+            "id": "1077637614361083905",
+            "text": "ETHNews talked to @aztecprotocol CTO @ZacCreditMint and CEO @trpocock about how the zero-knowledge protocol could bring confidentiality to #blockchain transactions while benefiting from the public nature of Ethereum.http://ow.ly/mSky30n5eM5\u00a0",
+            "username": "ETHNews_",
+            "num_likes": 24,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1071540450044076033": {
+            "id": "1071540450044076033",
+            "text": "1/ I enjoyed the recent \"The Smartest Contract\" podcast with @ZacCreditMint + @itsjefftong on @aztecprotocol - here's a high level thread summary, for both myself and whomever comes across it. cheers\n\n\u21e9\u21e9 (give it a listen if you have time!) \u21e9\u21e9\u21e9https://www.thesmartestcontract.com/27\u00a0",
+            "username": "trent_vanepps",
+            "num_likes": 40,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1070985230738210816": {
+            "id": "1070985230738210816",
+            "text": "Ok more (i\u2019ll compile on GH and then you can all make your issues with job openings, right?) \n- @aztecprotocol (favesies project rn)\n- @CreditMint \n- @witnet_io",
+            "username": "MPtherealMVP",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1070750645093830659": {
+            "id": "1070750645093830659",
+            "text": "Curious about @aztecprotocol and how they did it? Drop everything and listen to this now! Bravo @itsjefftong for releasing timely, fact-based content on a weekly basis.https://twitter.com/itsjefftong/status/1070742342666076160\u00a0\u2026",
+            "username": "_MinTeo",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1070742342666076160": {
+            "id": "1070742342666076160",
+            "text": "@ZacCreditMint from @aztecprotocol hopped on the show this week to talk about confidential transactions on Ethereum and a brief overview of their implementation of range proofs.\n\nGreat knowledge right here:https://www.thesmartestcontract.com/27\u00a0",
+            "username": "itsjefftong",
+            "num_likes": 28,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1070606032878141440": {
+            "id": "1070606032878141440",
+            "text": "Confidential transactions across the Ethereum network have arrived and the possibilities are endless. What would you like to build on @aztecprotocol?https://twitter.com/aztecprotocol/status/1069949675866869761\u00a0\u2026",
+            "username": "_MinTeo",
+            "num_likes": 48,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1070395323955130368": {
+            "id": "1070395323955130368",
+            "text": "Just published issue #47 of our newsletter, featuring @aztecprotocol, @UniswapExchange, @sinahab, @zmanian, @AragonProject, @harbor, @veil, @dydxprotocol and @MakerDAO\nhttps://www.getrevue.co/profile/control/issues/the-control-issue-47-146944\u00a0\u2026",
+            "username": "1confirmation",
+            "num_likes": 29,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1069563320074739712": {
+            "id": "1069563320074739712",
+            "text": "In the last few months:\n\n* Augur launched\n* DAI survived extreme trial-by-fire unscathed\n* Uniswap launched\n* AZTEC (privacy solution)\n* Plasma PoCs\n* Celer gomoku\n* http://hurricaneguard.io\u00a0 and similar apps\n* ZK-SNARK-based apps slowly emerging\n\n@evan_van_ness what did I miss?",
+            "username": "VitalikButerin",
+            "num_likes": 344,
+            "num_retweets": 83,
+            "num_replies": 25
+        },
+        "1068151520179470336": {
+            "id": "1068151520179470336",
+            "text": "ConsenSys Backs $2.1 Million Funding Round for Ethereum-based Privacy Startup using zk-SNARKs tech, AZTEC\nhttps://www.coindesk.com/consensys-backs-2-1-million-funding-round-for-ethereum-privacy-startup\u00a0\u2026\n@aztecprotocol @consensys #ethereum #zksnarkspic.twitter.com/2ojSWfeCAm",
+            "username": "EthereumNetw",
+            "num_likes": 28,
+            "num_retweets": 11,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1101561822883258369": {
+            "id": "1101561822883258369",
+            "text": "We've just opened up 4 new jobs. Join us as we help drive the largest financial ecosystems onto public blockchains.\n\nApply here https://angel.co/aztec-protocol-3/jobs\u00a0\u2026, or via email at arnaud [at] http://aztecprotocol.com\u00a0 with the name of the job you're applying for in the subject line",
+            "username": "aztecprotocol",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1125736898553683968": {
+            "id": "1125736898553683968",
+            "text": "Delighted to welcome @RealBlocks to the AZTEC ecosystem! https://twitter.com/RealBlocks/status/1125735800933683201\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1125678324255219713": {
+            "id": "1125678324255219713",
+            "text": "Come along to our meetup in Berlin at @BlueYard Capital on Wednesday 22nd May - looking forward to connecting with teams and community. See you there! https://www.eventbrite.com/e/aztec-protocol-berlin-meetup-tickets-61303204535\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1123898678698237953": {
+            "id": "1123898678698237953",
+            "text": "This week @Zac_Aztec  spoke on the @zeroknowledgefm podcast. In the episode he covers zero-knowledge tools, range proofs and the AZTEC protocol.\n\n Listen in here:https://www.zeroknowledge.fm/75\u00a0",
+            "username": "aztecprotocol",
+            "num_likes": 29,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1123615450447925250": {
+            "id": "1123615450447925250",
+            "text": "Looking forward to the first ZK-London meetup this evening at 6.30pm at Runway East London Bridge! See you there! ",
+            "username": "aztecprotocol",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121494914561445888": {
+            "id": "1121494914561445888",
+            "text": "Don't miss ZK-LDN 0x01, May 1st @ London Bridge! We'll be around to talk cryptography, writing fast code on the EVM, and all things privacy!https://twitter.com/GuthL/status/1120352155683233792\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1113762278124474369": {
+            "id": "1113762278124474369",
+            "text": "If you are in NYC on Monday, April 15 at 1830, we are hosting an AZTEC meetup! Do come along for an overview of the AZTEC Protocol, an opportunity to network and meet the teams integrating!\n\nSign up here:https://www.eventbrite.com/e/aztec-protocol-new-york-meetup-tickets-59881444011\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1113483680436060165": {
+            "id": "1113483680436060165",
+            "text": "We have just created a community @discordapp channel! \n\nFollow the link below to join. \nhttps://discord.gg/Z2kyTTu\u00a0 \n\nEveryone is welcome to come and chat about zero-knowledge cryptography!  ",
+            "username": "aztecprotocol",
+            "num_likes": 22,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1111578083746828289": {
+            "id": "1111578083746828289",
+            "text": "Our monthly newsletter is coming out today! \nSign up to hear about:\n- updates on the AZTEC ecosystem\n- integrations \n- job opportunities \n- technical updates\n- what to look out for next month\n\n\nhttps://aztecprotocol.us7.list-manage.com/subscribe?u=0f5fa2f22c3349ec01c3d1fdc&id=fe93ec0b0b\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108391186132279296": {
+            "id": "1108391186132279296",
+            "text": "Our very own @Zac_Aztec and @PaulRBerg are excited to be at the ZK Summit hosted by @zeroknowledgefm this Friday, March 22 in Berlin! \n\nReach out and we'd love to connect! ",
+            "username": "aztecprotocol",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1104136983222411264": {
+            "id": "1104136983222411264",
+            "text": "Some of the AZTEC team is at @EthParis!\n\nTweet @PaulRBerg or @TomIWaite if you want to chat about using AZTEC or just to say hellopic.twitter.com/KyqiOUUhOt",
+            "username": "aztecprotocol",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1103589327613976577": {
+            "id": "1103589327613976577",
+            "text": "#ETHCC our CTO Zac will be speaking in tongues in the Robert Faur\u00e9 lecture theatre at 11:15am!\n\nThe talk is called \"Publically verifiable private transactions - a deep dive into the AZTEC protocol\", and it\u2019s a fun one!",
+            "username": "aztecprotocol",
+            "num_likes": 39,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1102901772744577024": {
+            "id": "1102901772744577024",
+            "text": "Today we are delighted to announce our partnership with @renprotocol! \n\nWe are looking forward to working with them to spread the adoption of privacy technologies on blockchains. \n\nRead more about our first project: \nhttps://medium.com/@_ArnaudS_/ren-aztec-b1a1689f0c87\u00a0\u2026pic.twitter.com/bsphGgHuge",
+            "username": "aztecprotocol",
+            "num_likes": 92,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "1102601133812523008": {
+            "id": "1102601133812523008",
+            "text": "Our CEO @trpocock and CTO @ZacCreditMint  are on their way to #EthCC! \nFeel free to reach out to them and say hello! \n\n@ZacCreditMint  will be presenting on Thursday at 1100am! ",
+            "username": "aztecprotocol",
+            "num_likes": 27,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1101903296040714240": {
+            "id": "1101903296040714240",
+            "text": ". @oli_vdb claims drop # 4\n\nhttps://twitter.com/oli_vdb/status/1101884597854527489?s=21\u00a0\u2026https://twitter.com/aztecprotocol/status/1101447091497418752\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101733838756155392": {
+            "id": "1101733838756155392",
+            "text": "7 swag drops to go! Thank you @msolomon44 for the notes!\n\nhttps://twitter.com/msolomon44/status/1101616632680595457?s=21\u00a0\u2026https://twitter.com/aztecprotocol/status/1101447091497418752\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101564965931098113": {
+            "id": "1101564965931098113",
+            "text": "Only 8 swag drops remaining, thank you for the zero-knowledge notes @kobigurk!\n\nhttps://twitter.com/kobigurk/status/1101563722114437120\u00a0\u2026https://twitter.com/aztecprotocol/status/1101447091497418752\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101515307422760966": {
+            "id": "1101515307422760966",
+            "text": "Only 9 swag-drops remaining! Well done @pompaphant for being first!\n\nhttps://twitter.com/pompaphant/status/1101508957447823366\u00a0\u2026https://twitter.com/aztecprotocol/status/1101447091497418752\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1101450093612421120": {
+            "id": "1101450093612421120",
+            "text": "Extra pointer:https://twitter.com/aztecprotocol/status/1101117639412338688?s=20\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101448155684577280": {
+            "id": "1101448155684577280",
+            "text": "Bonus point for telling us about all the things which are not obvious, or broken!",
+            "username": "aztecprotocol",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1101447091497418752": {
+            "id": "1101447091497418752",
+            "text": "Looking for a fun project this weekend?\n\nThe first 10 people who send 0x5d7500Ec532B475574b6De5704a4c5DD2949884f some confidential tokens on Rinkeby (and post the etherscan link below) get some AZTEC swag!\n\nGet started here:https://medium.com/aztec-protocol/context-4a8c045c8651\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 28,
+            "num_retweets": 11,
+            "num_replies": 6
+        },
+        "1101117639412338688": {
+            "id": "1101117639412338688",
+            "text": "We are live!\n\n@aztecprotocolhttps://www.pscp.tv/aztecprotocol/1MYxNykjpywJw?t=6m10s\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1101084736649342976": {
+            "id": "1101084736649342976",
+            "text": "Message from @ZacCreditMint !\n\nFor everyone tuning in to our livestream at 1300 GMT, we're going to be walking through how to use AZTEC to send confidential transactions. You will need an Ethereum account with some Rinkeby testnet ether! \n\nLooking forward to it ",
+            "username": "aztecprotocol",
+            "num_likes": 28,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1101026158739636224": {
+            "id": "1101026158739636224",
+            "text": "Very excited for our deep-dive developer livestream TODAY via Periscope, from this account, at 1300 GMT!  \n\n@ZacCreditMint  will be explaining the cryptography and how to implement AZTEC. \n\nJoin the discussion here! ",
+            "username": "aztecprotocol",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100731973729992704": {
+            "id": "1100731973729992704",
+            "text": "We will be at @EntEthAlliance's London meetup this evening alongside @clearmatics and @PegaSysEng! \n\nCatch our CEO @trpocock and CTO @ZacCreditMint  there!\n\nLooking forward to it! https://www.meetup.com/eea-london/events/258874795/\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1100689131712204800": {
+            "id": "1100689131712204800",
+            "text": "Thanks very much to @ethfans for the Chinese translation of @ZacCreditMint's  introductory blog post on the @aztecprotocol! \n\nLooking forward to connecting further with our Asian communities! \nhttps://ethfans.org/posts/confidential-transactions-have-arrived-a-dive-into-the-aztec-protocol\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1100119198041202688": {
+            "id": "1100119198041202688",
+            "text": "https://www.pscp.tv/w/b0Q89jFsWktwWWxNVlp2am58MXlwS2RPQnFMYm54V8pucFKTSdRncNHodACTNLVL3FlvaG4hpq8UvlZuqA2r\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 30,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1099961030648700930": {
+            "id": "1099961030648700930",
+            "text": "CTO @ZacCreditMint is giving a presentation on AZTEC this evening at the Imperial Blockchain Forum at 1800 in Lecture Theatre 308, Huxley Building.\n\nLooking forward to seeing as many of you as possible there! \n\nThanks @ICComputing! #ethereum #aztecpic.twitter.com/wHbPFaBp2K",
+            "username": "aztecprotocol",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1098994642329264129": {
+            "id": "1098994642329264129",
+            "text": "Weekly summary!\n- updated our smart contracts to Solidity V5\n- proof implementation improvements\n- Zac has been on a holiday! \n- visited our new offices @ConsenSys_UK \n- integrations..!\n- lot's we can't wait to tell you about ",
+            "username": "aztecprotocol",
+            "num_likes": 22,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096370408796884992": {
+            "id": "1096370408796884992",
+            "text": "We have a number of exciting partnerships to announce with exchanges, wallets, digital asset builders and more! \n\nIf you would also like to integrate AZTEC do get in touch on Twitter or hello@aztecprotocol.com ",
+            "username": "aztecprotocol",
+            "num_likes": 49,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1096826904311750656": {
+            "id": "1096826904311750656",
+            "text": "Hit us up on twitter for any questions about zero knowledge proofs!\n\n(Time zones might make answering difficult but we\u2019ll do our best!)https://twitter.com/nanexcool/status/1096165985759879170\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1096674420494606336": {
+            "id": "1096674420494606336",
+            "text": "Our very own @PaulRBerg wrote an intro to our new npm modules, which gives anyone the ability to easily deploy and transact in zero-knowledge assets. Check it out here:https://paulrberg.com/post/2019/02/15/confidential-tokens/\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 42,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1096019087371714560": {
+            "id": "1096019087371714560",
+            "text": "Here's a date for your diary! \n\nWe will be presenting at @EntEthAlliance's London meetup!\n\n1830, Wednesday, February 27 - CodeNode, 10 South Pl, London EC2M 7EB.\n\nhttps://www.meetup.com/eea-london/events/258874795/\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1093830036266930176": {
+            "id": "1093830036266930176",
+            "text": "We work hard and we are so lucky to eat well too! \n\nLast night we had a welcome dinner for @TomIWaite, @PaulRBerg and @iam_gls. Great to have them on-board. \n\nIf you would be interested in joining the team, reach out to: hello@aztecprotocol.compic.twitter.com/oWe1OGXuph",
+            "username": "aztecprotocol",
+            "num_likes": 25,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093445061428330497": {
+            "id": "1093445061428330497",
+            "text": "Huff is hot right now. \n\nWhilst developing weierstrudel (a smart contract which is more gas-efficient than a precompile), @ZacCreditMint our CTO invented a new programming language which writes extremely gas-optimized code. \n\nDive in..! \n\nhttps://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 35,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1093205307621367808": {
+            "id": "1093205307621367808",
+            "text": "Anonymous \nZero-knowledge\nTransactions with\nEfficient \nCommunication\n\n= AZTEC \n\nPrivate transactions on a public blockchain \n#boom ",
+            "username": "aztecprotocol",
+            "num_likes": 49,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1092837745469333504": {
+            "id": "1092837745469333504",
+            "text": "An update regarding the Zcash vulnerability announcementhttps://twitter.com/Zac_Aztec/status/1092837341696352256\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1092811423791632387": {
+            "id": "1092811423791632387",
+            "text": "Our inaugural developer lunch will be February 28 in London. We are almost at capacity so sign up below. Looking forward to meeting as many of you as possible!\n\nhttps://goo.gl/forms/vHb8jyts6gdKENOU2\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1092384705226424326": {
+            "id": "1092384705226424326",
+            "text": "A nice recap of some of our releases from last week:\n- Huff\n- zkERC20 standard\n\nThanks @LimeChainHQ! https://youtu.be/RF-ItKgV0yw?t=2m41s\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1090921195640377345": {
+            "id": "1090921195640377345",
+            "text": "We are organising a small developer lunch workshop in February.  If you are London based and interesetd in learning more about AZTEC please fill out this form! \n\nLooking forward to meeting you https://goo.gl/forms/Nb8aTQM1aWunOKzR2\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1090620878021427200": {
+            "id": "1090620878021427200",
+            "text": "Our CTO Zac has written Weierstrudel; a smart-contract written in Huff that enables cheaper zero-knowledge cryptography on Ethereum. This cuts the cost of verifying zero knowledge cryptography by up to 45%!\n\n More info on Huff to come\u2026\nhttps://medium.com/aztec-protocol/huffing-for-crypto-with-weierstrudel-9c9568c06901\u00a0\u2026 @ZacCreditMint",
+            "username": "aztecprotocol",
+            "num_likes": 228,
+            "num_retweets": 62,
+            "num_replies": 7
+        },
+        "1090278242974609408": {
+            "id": "1090278242974609408",
+            "text": "We just hit 1000 Twitter followers! \n\nThanks everyone and you are not going to want to miss what we have coming up...! Onwards. \n\nZac is happy! pic.twitter.com/SrRT812mO7",
+            "username": "aztecprotocol",
+            "num_likes": 52,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1090258470266273793": {
+            "id": "1090258470266273793",
+            "text": "In our newsletter yesterday:\n- 3 new hires\n- 2 live streams \n- AZTEC token standard\n- AZTEC Cryptography Engine\n- Trusted Setup (Ignition) \n- Integrations \n- Blog posts\n- Partnership announcements\n\nPheeewww! Much more to come next month... \nhttps://aztecprotocol.us7.list-manage.com/subscribe?u=0f5fa2f22c3349ec01c3d1fdc&id=fe93ec0b0b\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1089942319158251520": {
+            "id": "1089942319158251520",
+            "text": "On Friday we released the Confidential Token Standard, backed by the AZTEC cryptography engine. This is the equivalent of the ERC20 token standard but in zero knowledge. https://github.com/ethereum/EIPs/issues/1724\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 271,
+            "num_retweets": 91,
+            "num_replies": 2
+        },
+        "1089909705093406722": {
+            "id": "1089909705093406722",
+            "text": "Our CTO @ZacCreditMint just published 'AZTEC under the hood: range proofs' \n\n\"This article is an in-depth look into how the AZTEC protocol enables efficient confidential transactions.\"\n\nEnjoy!https://medium.com/aztec-protocol/aztec-under-the-hood-range-proofs-5fa6fe83a46\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1089845553180086272": {
+            "id": "1089845553180086272",
+            "text": "Don\u2019t miss our monthly newsletter, heading to your inboxes in a couple of hours!https://twitter.com/aztecprotocol/status/1088838294434131971\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1088880685178327040": {
+            "id": "1088880685178327040",
+            "text": "Join us in two and a half hours!https://twitter.com/gitcoin/status/1088879971098157056\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088838294434131971": {
+            "id": "1088838294434131971",
+            "text": "Sign up to our new monthly newsletter here: https://aztecprotocol.us7.list-manage.com/subscribe?u=0f5fa2f22c3349ec01c3d1fdc&id=fe93ec0b0b\u00a0\u2026 \n\nOn the menu: \n- What's happened at Aztec this month\n- Technical updates\n- Integrations \n- Trusted setup\n- Build...!\n\nSee you on Monday!",
+            "username": "aztecprotocol",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1088737547671486464": {
+            "id": "1088737547671486464",
+            "text": "We have just updated our code base using a Monorepo thanks to @lernajs! This should make it more developer friendly and easy to use! https://github.com/AztecProtocol/AZTEC\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1088407240963510272": {
+            "id": "1088407240963510272",
+            "text": "Private transactions on a public blockchain? \nOur CTO Dr Zac Williamson's  Medium post on the Aztec Protocol has just reached 2000 claps! Feel free to have a look : https://medium.com/aztec-protocol/confidential-transactions-have-arrived-a-dive-into-the-aztec-protocol-a1794c00c009\u00a0\u2026 @ZacCreditMint",
+            "username": "aztecprotocol",
+            "num_likes": 33,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1088126200025935873": {
+            "id": "1088126200025935873",
+            "text": "Our CEO @trpocock is at the @UniofOxford this evening, giving a talk about starting a company in deep-tech. Exeter College at 5:45pm!",
+            "username": "aztecprotocol",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088114711332311041": {
+            "id": "1088114711332311041",
+            "text": "Looking forward to sharing with you all the amazing things we are working on at Aztec. Feel free to reach out to us at anytime - let's build ",
+            "username": "aztecprotocol",
+            "num_likes": 39,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1071069396435640320": {
+            "id": "1071069396435640320",
+            "text": "And now with privacy ;)\n\nThanks to @BloombergLive for hosting AZTEC co-founder @trpocock in London earlier today!https://twitter.com/BloombergLive/status/1071029662292291584\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1069949675866869761": {
+            "id": "1069949675866869761",
+            "text": "We've just published a more approachable explanation of how the AZTEC protocol works!https://medium.com/aztec-protocol/confidential-transactions-have-arrived-a-dive-into-the-aztec-protocol-a1794c00c009\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 146,
+            "num_retweets": 52,
+            "num_replies": 4
+        },
+        "1069698979972218881": {
+            "id": "1069698979972218881",
+            "text": "Announcing the AZTEC bug bounty, and a bug discoveryhttps://medium.com/aztec-protocol/announcing-the-aztec-bug-bounty-and-a-bug-discovery-a49a4e8f653e\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "pbanhardt": 1,
+        "work_blockchain": 2,
+        "kauri_io": 1,
+        "fabric_vc": 1,
+        "_LewisHarland_": 1,
+        "neufundorg": 1,
+        "zeroknowledgefm": 3,
+        "hackernoon": 1,
+        "JacobArluck": 2,
+        "seanlippel": 1,
+        "iam_gls": 2,
+        "iamkyrious": 1,
+        "_ArnaudS_": 1,
+        "futurenomics": 1,
+        "trpocock": 2,
+        "TheBlock__": 1,
+        "sassal0x": 1,
+        "ricburton": 2,
+        "recmo": 1,
+        "argentHQ": 1,
+        "ETHNews_": 4,
+        "bzlwang": 1,
+        "renprotocol": 1,
+        "KR1plc": 1,
+        "BitratesNews": 1,
+        "LenklaH": 1,
+        "RatherBeThePope": 1,
+        "HelisNetwork": 1,
+        "ethhub_io": 1,
+        "MihailoBjelic": 1,
+        "Steven_McKie": 1,
+        "davecraige": 1,
+        "DennisonBertram": 1,
+        "PaulRBerg": 1,
+        "trent_vanepps": 1,
+        "MPtherealMVP": 1,
+        "_MinTeo": 2,
+        "itsjefftong": 1,
+        "1confirmation": 1,
+        "VitalikButerin": 1,
+        "EthereumNetw": 1
+    },
+    "users_retweeted": [
+        "ETHNews_",
+        "zeroknowledgefm",
+        "work_blockchain",
+        "JacobArluck",
+        "iam_gls",
+        "trpocock",
+        "ricburton",
+        "_MinTeo",
+        "pbanhardt",
+        "kauri_io",
+        "fabric_vc",
+        "_LewisHarland_",
+        "neufundorg",
+        "hackernoon",
+        "seanlippel",
+        "iamkyrious",
+        "_ArnaudS_",
+        "futurenomics",
+        "TheBlock__",
+        "sassal0x",
+        "recmo",
+        "argentHQ",
+        "bzlwang",
+        "renprotocol",
+        "KR1plc",
+        "BitratesNews",
+        "LenklaH",
+        "RatherBeThePope",
+        "HelisNetwork",
+        "ethhub_io",
+        "MihailoBjelic",
+        "Steven_McKie",
+        "davecraige",
+        "DennisonBertram",
+        "PaulRBerg",
+        "trent_vanepps",
+        "MPtherealMVP",
+        "itsjefftong",
+        "1confirmation",
+        "VitalikButerin",
+        "EthereumNetw"
+    ]
+}

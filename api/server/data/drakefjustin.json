@@ -1,0 +1,3528 @@
+{
+    "is_complete": true,
+    "username": "drakefjustin",
+    "retweeted": {
+        "1125881895378722816": {
+            "id": "1125881895378722816",
+            "text": "Come to a mini-VDF day at MIT next week that we're co-hosting with @drakefjustin @protocollabs @MIT_CSAIL et al!https://dci.mit.edu/vdfday\u00a0",
+            "username": "mitDCI",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1121040905954312192": {
+            "id": "1121040905954312192",
+            "text": " This week, we chat w @drakefjustin about the need for randomness in blockchain, how it's created and what adversarial models exist. We also cover random beacons & how randomness is used in various ways in ETH2.0 https://www.zeroknowledge.fm/74\u00a0 cc: @ethereum @fredhrson @AnnaRRose #eth2",
+            "username": "zeroknowledgefm",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1107374204062699520": {
+            "id": "1107374204062699520",
+            "text": "Check out my article for @qihardware, VDF FAQ pt. 1, in which I explain Ethereum's research into VDF functions for randomness to the non-technical reader.https://qihardware.org/2019/03/17/vdf-faq-1/\u00a0\u2026",
+            "username": "maxwellsfoley",
+            "num_likes": 25,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1098134276426498048": {
+            "id": "1098134276426498048",
+            "text": "A grand tour of Ethereum 2.0 with The \u00d0rake @drakefjustin (EF) and Alex (Near Protocol)!https://twitter.com/NEARProtocol/status/1098059929003278336\u00a0\u2026",
+            "username": "icebearhww",
+            "num_likes": 133,
+            "num_retweets": 25,
+            "num_replies": 17
+        },
+        "1096155554924310528": {
+            "id": "1096155554924310528",
+            "text": "The Filecoin Project has made significant strides in protocol research, design, development, and implementation to get to where we are today. Come join us in building the future of the web! Read our update: https://filecoin.io/blog/update-2018-q3-q4/\u00a0\u2026pic.twitter.com/p44g27P430",
+            "username": "MineFilecoin",
+            "num_likes": 73,
+            "num_retweets": 34,
+            "num_replies": 3
+        },
+        "1087938532444909569": {
+            "id": "1087938532444909569",
+            "text": "We're doing an Eth2.0 researcher AMA this Thursday! Send in your questions here:https://www.reddit.com/r/ethereum/comments/aivyyj/eth_20_researchers_ama_send_in_your_questions/\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 112,
+            "num_retweets": 47,
+            "num_replies": 12
+        },
+        "1047910897769836544": {
+            "id": "1047910897769836544",
+            "text": "Chia is happy to announce our VDF implementation competition with $100,000 in prize moneyhttps://github.com/Chia-Network/vdf-competition\u00a0\u2026",
+            "username": "bramcohen",
+            "num_likes": 80,
+            "num_retweets": 26,
+            "num_replies": 3
+        },
+        "1045114895228973057": {
+            "id": "1045114895228973057",
+            "text": "Curious about the potential use of VDFs in eth2.0?\n\n@drakefjustin published an in-depth explanation, analysis, and discussion of the technique herehttps://ethresear.ch/t/minimal-vdf-randomness-beacon/3566\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 41,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1041724560805175296": {
+            "id": "1041724560805175296",
+            "text": "If you've been wondering about what's going on with eth2.0, I highly recommend giving this a listen. I had a long conversation on @HashingItOutPod discussing the motivations, design, and roadmap of eth2.0.https://thebitcoinpodcast.com/hashing-it-out-22/\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 77,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1019323196745637889": {
+            "id": "1019323196745637889",
+            "text": "I talk about sharding at the IC3 workshop!\n\nhttps://vitalik.ca/files/Ithaca201807_Sharding.pdf\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 618,
+            "num_retweets": 143,
+            "num_replies": 47
+        },
+        "1018685807148879873": {
+            "id": "1018685807148879873",
+            "text": "1/ We're delighted to announce StarkWare has been awarded a BIG milestone/performance-based grant from the Ethereum Foundation (more details at a later date)",
+            "username": "StarkWareLtd",
+            "num_likes": 263,
+            "num_retweets": 67,
+            "num_replies": 11
+        },
+        "992755776765792256": {
+            "id": "992755776765792256",
+            "text": "1) Why we need sharding: if blockchain consensus relies on every node processing all transactions + storing all state, the network cannot scale beyond the capacity of a single node.",
+            "username": "sinahab",
+            "num_likes": 578,
+            "num_retweets": 162,
+            "num_replies": 27
+        },
+        "890198239575760896": {
+            "id": "890198239575760896",
+            "text": "Honoured to have Duo featured in the Filecoin Primer. IPFS is key to the future of decentralised apps. https://ipfs.io/ipfs/QmWimYyZHzChb35EYojGduWHBdhf9SD5NHqf8MjZ4n3Qrr/Filecoin-Primer.7-25.pdf\u00a0\u2026pic.twitter.com/FZ83cSdB5C",
+            "username": "duosearch",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "887725923553861632": {
+            "id": "887725923553861632",
+            "text": "We may have been silent, but we haven\u2019t been bored. Time to join us!https://youtu.be/EClPAFPeXIQ\u00a0",
+            "username": "MineFilecoin",
+            "num_likes": 197,
+            "num_retweets": 103,
+            "num_replies": 12
+        },
+        "883506496289595393": {
+            "id": "883506496289595393",
+            "text": "What is Ethereum http://whatthefuckisethereum.com/#nerd\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 142,
+            "num_retweets": 47,
+            "num_replies": 4
+        },
+        "882067032468017152": {
+            "id": "882067032468017152",
+            "text": "\"Building Ethereum Payment Channels\"https://medium.com/@jgm.orinoco/building-ethereum-payment-channels-9ee64ff95b12\u00a0\u2026",
+            "username": "TuurDemeester",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "871678139591786496": {
+            "id": "871678139591786496",
+            "text": "I just published \u201cEthereum Payment Channel in 50 Lines of Code\u201dhttps://medium.com/p/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc\u00a0\u2026",
+            "username": "matthewdif",
+            "num_likes": 111,
+            "num_retweets": 46,
+            "num_replies": 2
+        },
+        "870830076945866753": {
+            "id": "870830076945866753",
+            "text": "The best venture investment of the last three years wasn't a venture deal. Ethereum - 750x, liquid, and open to all.",
+            "username": "naval",
+            "num_likes": 1655,
+            "num_retweets": 652,
+            "num_replies": 42
+        },
+        "867355118005436416": {
+            "id": "867355118005436416",
+            "text": "How you can help Ethereum: send smart people our way. Math, CS, dist sys, crypto, econ, game theory, behav econ all highly welcome.",
+            "username": "VitalikButerin",
+            "num_likes": 1480,
+            "num_retweets": 638,
+            "num_replies": 119
+        },
+        "866970377238564864": {
+            "id": "866970377238564864",
+            "text": "Is OpenBazaar too early to enjoy success?",
+            "username": "duosearch",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "865282664844210176": {
+            "id": "865282664844210176",
+            "text": "Excited to tell the world about @ProtocolLabs, a research, development, and deployment lab for network protocols!\n\nhttps://protocol.ai/blog/protocol-labs-creating-new-networks/\u00a0\u2026pic.twitter.com/E1cnQbG9Wl",
+            "username": "juanbenet",
+            "num_likes": 244,
+            "num_retweets": 109,
+            "num_replies": 7
+        },
+        "855342420229324800": {
+            "id": "855342420229324800",
+            "text": "Announcing our end-to-end encrypted OpenBazaar 2.0 chat demo at http://www.openbazaar.chat\u00a0 https://blog.duosear.ch/end-to-end-encrypted-openbazaar-chat-8baa285f65eb\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 36,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "855003486085402626": {
+            "id": "855003486085402626",
+            "text": "Duo Search is turning 1 year old today! ",
+            "username": "duosearch",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "852538509579735040": {
+            "id": "852538509579735040",
+            "text": "11 reasons why OpenBazaar might fail https://medium.com/@duosearch/11-reasons-why-openbazaar-might-fail-5e5712d8cca8\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "852246571467108355": {
+            "id": "852246571467108355",
+            "text": "Very good talk by @drakefjustin on decentralised networks: clear intro to complicated concepts (libp2p, bitcoin, ethereum, IPFS). Thanks!",
+            "username": "AmelieCornelis",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "845411016213180418": {
+            "id": "845411016213180418",
+            "text": "OpenBazaar on Ethereum? (ENS, Raiden, stable coins, smart escrow/auction/assurance contracts)",
+            "username": "duosearch",
+            "num_likes": 16,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "842547096599195650": {
+            "id": "842547096599195650",
+            "text": "My post on this topic, as promised: http://vitalik.ca/general/2017/03/14/forks_and_markets.html\u00a0\u2026https://twitter.com/VitalikButerin/status/842240566205202432\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 232,
+            "num_retweets": 139,
+            "num_replies": 14
+        },
+        "842030512541732864": {
+            "id": "842030512541732864",
+            "text": "What isn't there to  ?\n\n   Global\n   Free\n   Private\n   Secure\n   Open innovation\n   Bot friendly\n\nGet ready for OpenBazaar 2.0!",
+            "username": "duosearch",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "831185403550060545": {
+            "id": "831185403550060545",
+            "text": "Is privacy a significant selling point of @OpenBazaar for you?",
+            "username": "duosearch",
+            "num_likes": 5,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "807273016136712192": {
+            "id": "807273016136712192",
+            "text": "Glimpse into the decentralised internet with IPFS founder @juanbenet. This technology underpins #OpenBazaar 2.0https://www.youtube.com/watch?v=2RCwZDRwk48\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "801364159317295104": {
+            "id": "801364159317295104",
+            "text": "#OpenBazaar vendors are you ready for #Bitcoin #BlackFriday? Add the tag \"BitcoinBlackFriday\" to your listings to be featured on Duo Search!",
+            "username": "duosearch",
+            "num_likes": 16,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "798276335508606980": {
+            "id": "798276335508606980",
+            "text": "How will OpenBazaar attract a million buyers?",
+            "username": "duosearch",
+            "num_likes": 12,
+            "num_retweets": 16,
+            "num_replies": 5
+        },
+        "785867190536986624": {
+            "id": "785867190536986624",
+            "text": "No fees. No restrictions. What could you do with a truly free marketplace?pic.twitter.com/UZ5tYMFAFZ",
+            "username": "openbazaar",
+            "num_likes": 26,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "785766743436169216": {
+            "id": "785766743436169216",
+            "text": "Towards 1B OpenBazaar users\u2014From idea to mainstream in nine steps https://medium.com/@duosearch/towards-1b-openbazaar-users-113beaf80184#.p4exj6ppa\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 18,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "785512828706910208": {
+            "id": "785512828706910208",
+            "text": "Shoutout to all 260 #OpenBazaar stores online now! You keep the network beating with passion while we wait for OB2.0 https://duosear.ch/stores\u00a0pic.twitter.com/MXEutGimr1",
+            "username": "duosearch",
+            "num_likes": 11,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "783433308709543936": {
+            "id": "783433308709543936",
+            "text": "15 OpenBazaar business ideas to run with https://blog.duosear.ch/15-openbazaar-business-ideas-to-run-with-ba967c09016c#.9du4t2l33\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "783433728110436352": {
+            "id": "783433728110436352",
+            "text": "20 tips for OpenBazaar entrepreneurs https://blog.duosear.ch/20-tips-for-openbazaar-entrepreneurs-1da9e5d42703#.6vu2rz2b3\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 6,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "783015636486201344": {
+            "id": "783015636486201344",
+            "text": "I wrote a post about the inspiring talks of @drakefjustin and @SamuelPatt at #HCPP16 http://www.propellah.net/2016/10/03/openbazaar-at-hackers-congress-paralelni-polis-2016/\u00a0\u2026 @openbazaar",
+            "username": "davalb",
+            "num_likes": 12,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "776884048199356417": {
+            "id": "776884048199356417",
+            "text": "The amazing #OpenBazaar community made us rank 436,668 by traffic in <5 months. Thanks!   http://www.alexa.com/siteinfo/duosear.ch\u00a0\u2026pic.twitter.com/vrqkvQ9tzM",
+            "username": "duosearch",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "776377746805104642": {
+            "id": "776377746805104642",
+            "text": "CEO @drakefjustin to speak on \"Building on #OpenBazaar\" at the Prague Hackers Congress, joining @SamuelPatt http://hcpp.cz/#speakers\u00a0 #hcpp16",
+            "username": "duosearch",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "776023689666105344": {
+            "id": "776023689666105344",
+            "text": "Introducing instant categories for OpenBazaar https://medium.com/@duosearch/instant-categories-3078de589f48#.1xehh6p5k\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "773639237258375169": {
+            "id": "773639237258375169",
+            "text": "Just tested @zsfelfoldi light client. Mainnet synced in 3m30s from scratch, used 30mb. Didn't need to change a single line of code in Mist.",
+            "username": "avsa",
+            "num_likes": 110,
+            "num_retweets": 65,
+            "num_replies": 15
+        },
+        "773839670400561153": {
+            "id": "773839670400561153",
+            "text": "https://www.reddit.com/r/ethereum/comments/51qjz6/interactive_verification_of_c_programs/\u00a0\u2026 interactive verification of C programs now possible on ethereum!",
+            "username": "VitalikButerin",
+            "num_likes": 36,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "773630503207464960": {
+            "id": "773630503207464960",
+            "text": "The @aantonop effect. Duo Search featured on the @joerogan show. Keep calm and trade on #OpenBazaarpic.twitter.com/UGdIpSLBmQ",
+            "username": "duosearch",
+            "num_likes": 36,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "770931301620809728": {
+            "id": "770931301620809728",
+            "text": "Introducing automated OpenBazaar store checks https://medium.com/@duosearch/openbazar-store-checks-f541e446e669#.mmhmg5n86\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 7,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "767686042950496256": {
+            "id": "767686042950496256",
+            "text": "Duo Search is introducing trusted OpenBazaar stores https://medium.com/@duosearch/trusted-openbazaar-stores-7129dd34360b#.97ncc6ovi\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 14,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "765329301767991300": {
+            "id": "765329301767991300",
+            "text": "Go 1.7 has been released!\n\nhttps://blog.golang.org/go1.7\u00a0\n\nGet here: https://golang.org/dl/\u00a0\n#golangpic.twitter.com/V4Nmn16kHL",
+            "username": "golang",
+            "num_likes": 916,
+            "num_retweets": 996,
+            "num_replies": 8
+        },
+        "765199201110204416": {
+            "id": "765199201110204416",
+            "text": "OpenBazaar historical data for all https://blog.duosear.ch/openbazaar-historical-data-for-all-c812f58ac2e6#.vadm9u5fl\u00a0\u2026",
+            "username": "duosearch",
+            "num_likes": 6,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "762725068262608896": {
+            "id": "762725068262608896",
+            "text": "Can OpenBazaar Make Free Trade Unstoppable? @openbazaarhttp://bit.ly/2av3IQo\u00a0",
+            "username": "reason",
+            "num_likes": 13,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "761457877391380480": {
+            "id": "761457877391380480",
+            "text": "Is this what's going on? #Ethereum #ETC #Bitcoinpic.twitter.com/9vm2o1w35G",
+            "username": "kunogoda",
+            "num_likes": 207,
+            "num_retweets": 611,
+            "num_replies": 19
+        },
+        "752212124357816320": {
+            "id": "752212124357816320",
+            "text": "#OpenBazaar average growth since April 4 launch:\n\n- 3 online stores per day\n- 70 online listings per day",
+            "username": "duosearch",
+            "num_likes": 8,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "751466827411324930": {
+            "id": "751466827411324930",
+            "text": "NEW! Stores can now be filtered by category on Duo Search. Try it out for example on https://duosear.ch/@nuichan\u00a0 #OpenBazaar",
+            "username": "duosearch",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "748454231430959104": {
+            "id": "748454231430959104",
+            "text": "Read @VitalikButerin explain 'Transaction Finality' in #ethereum > #Bitcoin just before #TheDAO #Blockchain $ETHpic.twitter.com/ZBSNNkW3Lk",
+            "username": "ToneVays",
+            "num_likes": 53,
+            "num_retweets": 30,
+            "num_replies": 4
+        },
+        "746946456393654272": {
+            "id": "746946456393654272",
+            "text": "In the future, we are going to hire hackers to look over a smart contract just like we hire lawyers to look over a contract today.",
+            "username": "SatoshiLite",
+            "num_likes": 335,
+            "num_retweets": 260,
+            "num_replies": 44
+        },
+        "744958395158003712": {
+            "id": "744958395158003712",
+            "text": "You can simulate reversible systems on top of irreversible systems, but it's impossible to simulate irreversible systems on reversible ones.",
+            "username": "ryaneshea",
+            "num_likes": 16,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "744072470613856256": {
+            "id": "744072470613856256",
+            "text": "There is something far bigger than #theDao or even #ethereum at stake here: the very idea of immutable smart contracts.",
+            "username": "EdanYago",
+            "num_likes": 34,
+            "num_retweets": 21,
+            "num_replies": 3
+        },
+        "743923176489484289": {
+            "id": "743923176489484289",
+            "text": "I just published \u201cThe Case for Dumb Contracts\u201dhttps://medium.com/p/the-case-for-dumb-contracts-6308aa5b757\u00a0\u2026",
+            "username": "openbazaar",
+            "num_likes": 24,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "743819598701674496": {
+            "id": "743819598701674496",
+            "text": "My quick thoughts on The DAO Hack:http://hackingdistributed.com/2016/06/17/thoughts-on-the-dao-hack/\u00a0\u2026",
+            "username": "el33th4xor",
+            "num_likes": 221,
+            "num_retweets": 236,
+            "num_replies": 15
+        },
+        "737393983022878720": {
+            "id": "737393983022878720",
+            "text": "2013: It's treason!\n2014: Maybe not, but it was reckless\n2015: Still, technically it was unlawful\n2016: It was a public service but\n2017:",
+            "username": "Snowden",
+            "num_likes": 30539,
+            "num_retweets": 17340,
+            "num_replies": 1051
+        },
+        "735827641811378180": {
+            "id": "735827641811378180",
+            "text": "Interview with @DuoSearch co-founder Justin Drake, the best web based @OpenBazaar search http://www.diariobitcoin.com/index.php/2016/05/26/interview-with-duosearch-co-founder-justin-drake-the-best-web-based-openbazaar-search-engine/\u00a0\u2026pic.twitter.com/ZC2E8rNpkI",
+            "username": "DiarioBitcoin",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "735180643353513984": {
+            "id": "735180643353513984",
+            "text": "\"Ethereum is the Forefront of Digital Currency\u201dhttps://medium.com/the-coinbase-blog/ethereum-is-the-forefront-of-digital-currency-5300298f6c75#.x4yrw21xc\u00a0\u2026",
+            "username": "FEhrsam",
+            "num_likes": 289,
+            "num_retweets": 207,
+            "num_replies": 27
+        },
+        "734698027609423872": {
+            "id": "734698027609423872",
+            "text": "https://github.com/ethereum/EIPs/issues\u00a0\u2026 <- ethereum hardfork proposals. Reminder: everyone is welcome and encouraged to contribute to the discussions",
+            "username": "VitalikButerin",
+            "num_likes": 80,
+            "num_retweets": 90,
+            "num_replies": 3
+        },
+        "734398579234754560": {
+            "id": "734398579234754560",
+            "text": "An @openbazaar search engine.  very cool!  https://duosear.ch\u00a0",
+            "username": "Bubble_Gum_Tate",
+            "num_likes": 29,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "733658427877171200": {
+            "id": "733658427877171200",
+            "text": "https://duosear.ch\u00a0 sees 16 #OpenBazaar listings on average per online vendor [median 5; std deviation 49]pic.twitter.com/kNXRc01Nf3",
+            "username": "duosearch",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "731956237412208640": {
+            "id": "731956237412208640",
+            "text": "http://www.duosear.ch\u00a0 sees 4,544 #OpenBazaar online listings (inc. 251 NSFW)",
+            "username": "duosearch",
+            "num_likes": 6,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "729462686514208769": {
+            "id": "729462686514208769",
+            "text": "I'm reclaiming the word \"Blockchain\", but using it with a qualifier:\n\nOpen Blockchain\n\nIf it ain't open, it ain't worth shit",
+            "username": "aantonop",
+            "num_likes": 359,
+            "num_retweets": 227,
+            "num_replies": 24
+        },
+        "730131712844431364": {
+            "id": "730131712844431364",
+            "text": "OpenBazaar 1.1.5 is now released! https://openbazaar.org/download.html\u00a0",
+            "username": "openbazaar",
+            "num_likes": 23,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "727832929490079744": {
+            "id": "727832929490079744",
+            "text": "Less than 3% of #OpenBazaar online listings are tagged NSFW.",
+            "username": "duosearch",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "727084066374336512": {
+            "id": "727084066374336512",
+            "text": "The real Satoshi would use those pristine original coins to get himself a nice gift on @openbazaar",
+            "username": "openbazaar",
+            "num_likes": 45,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "722870081030615041": {
+            "id": "722870081030615041",
+            "text": "Search @openbazaar? This is how you duo it: http://bitcoinist.net/duo-search-is-a-search-engine-for-openbazaar/\u00a0\u2026 @duosearch @drakefjustin @bitcoinist",
+            "username": "Hacm9",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "722746229675945984": {
+            "id": "722746229675945984",
+            "text": "Check out the new/supercool #OpenBazaar search engine:Duo Search https://duosear.ch/\u00a0 and see what's in store!pic.twitter.com/PmLKO24jkz",
+            "username": "openbazaarnews",
+            "num_likes": 11,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "722733972992716801": {
+            "id": "722733972992716801",
+            "text": "We've launched Duo Search, a new #OpenBazaar search engine! http://www.duosear.ch\u00a0",
+            "username": "duosearch",
+            "num_likes": 17,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "715511466275782656": {
+            "id": "715511466275782656",
+            "text": "FYI: Beta 5 (1.0.10) was our last @openbazaar release before we go to mainnet. #bitcoin",
+            "username": "openbazaar",
+            "num_likes": 62,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "714455531121934336": {
+            "id": "714455531121934336",
+            "text": "Bitcoin has struggled, but a rival virtual currency called Ethereum has climbed 1,000% over the past 3 three monthshttp://nyti.ms/21OYkGD\u00a0",
+            "username": "nytimes",
+            "num_likes": 357,
+            "num_retweets": 430,
+            "num_replies": 27
+        },
+        "709713368307929088": {
+            "id": "709713368307929088",
+            "text": "PechaKucha Cambridge Vol. 4, speakers confirmed: @GoodGrammarComp, @bentregenna, @VandyMassey, @stonemasonryco, @drakefjustin, @lukemilbourn",
+            "username": "JonTorrens",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "709459615969312769": {
+            "id": "709459615969312769",
+            "text": "Hello Ethereum Homestead, it's very nice to meet you! #blockchain #fork #progress #successpic.twitter.com/6rUx36SLbI",
+            "username": "ethereum",
+            "num_likes": 243,
+            "num_retweets": 244,
+            "num_replies": 11
+        },
+        "708497889035571201": {
+            "id": "708497889035571201",
+            "text": "Ethereum just hit $1b market cap. It is the second blockchain asset to ever accomplish this, alongside Bitcoin. http://www.CoinCap.io\u00a0",
+            "username": "ErikVoorhees",
+            "num_likes": 204,
+            "num_retweets": 185,
+            "num_replies": 11
+        },
+        "707701719468261378": {
+            "id": "707701719468261378",
+            "text": "I'm a big fan of @ethereumproject, one of the first truly innovative coins after #bitcoinhttps://twitter.com/elidourado/status/707637573091520512\u00a0\u2026",
+            "username": "jgarzik",
+            "num_likes": 141,
+            "num_retweets": 111,
+            "num_replies": 8
+        },
+        "706550940879327232": {
+            "id": "706550940879327232",
+            "text": "How To Change The World With Bitcoin. New talk by @drakefjustin http://bit.ly/1X2pA2U\u00a0pic.twitter.com/Tl4m1iJsr9",
+            "username": "DoLectures",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "706108889117364224": {
+            "id": "706108889117364224",
+            "text": "#ethereum #serenity PoC2 releasedhttps://blog.ethereum.org/2016/03/05/serenity-poc2/\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 71,
+            "num_retweets": 61,
+            "num_replies": 0
+        },
+        "704666298500915201": {
+            "id": "704666298500915201",
+            "text": "OpenBazaar launches on testnet later today. We'll update as soon as everything is ready. Let's make trade free!",
+            "username": "openbazaar",
+            "num_likes": 62,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "695667399446507520": {
+            "id": "695667399446507520",
+            "text": "A Guided Tour of the 2mb Fork: http://gavinandresen.ninja/a-guided-tour-of-the-2mb-fork\u00a0\u2026 ... or \"why does changing a 1 to a 2 take so long?\"",
+            "username": "gavinandresen",
+            "num_likes": 73,
+            "num_retweets": 63,
+            "num_replies": 5
+        },
+        "689856241691160577": {
+            "id": "689856241691160577",
+            "text": "Zcash, the untraceable cryptocurrency originally known as Zerocoin, just launched in alpha for testing:http://www.wired.com/2016/01/zcash-an-untraceable-bitcoin-alternative-launches-in-alpha/\u00a0\u2026",
+            "username": "a_greenberg",
+            "num_likes": 138,
+            "num_retweets": 168,
+            "num_replies": 4
+        },
+        "688019573740843009": {
+            "id": "688019573740843009",
+            "text": "Best way to respond to all the drama in bitcoin is to focus. Buckle down, work, don't get distracted. Engineering solves problems. Code On!",
+            "username": "aantonop",
+            "num_likes": 299,
+            "num_retweets": 189,
+            "num_replies": 25
+        },
+        "687352747465830400": {
+            "id": "687352747465830400",
+            "text": "The #bitcoin community should get behind http://BitcoinClassic.com\u00a0 the best hope for moving past current blockage.\nAdded my name. More soon!",
+            "username": "jgarzik",
+            "num_likes": 134,
+            "num_retweets": 113,
+            "num_replies": 7
+        },
+        "682257506018672640": {
+            "id": "682257506018672640",
+            "text": "Without Tor, when you walk the streets of the internet, you're always watched. https://blog.torproject.org/blog/what-tor-supporter-looks-edward-snowden\u00a0\u2026 #SupportTorpic.twitter.com/TEEBiURaKr",
+            "username": "Snowden",
+            "num_likes": 3634,
+            "num_retweets": 2921,
+            "num_replies": 188
+        },
+        "684797141890433025": {
+            "id": "684797141890433025",
+            "text": "Another proposal based on the SegWit soft-fork script upgrades: Adding Confidential Transactions as a soft-fork. \n\nhttps://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-January/012194.html\u00a0\u2026",
+            "username": "aantonop",
+            "num_likes": 33,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "684615730772447232": {
+            "id": "684615730772447232",
+            "text": "Why privacy is important, and having \u201cnothing to hide\u201d is irrelevant http://robindoherty.com/2016/01/06/nothing-to-hide.html\u00a0\u2026",
+            "username": "newsycombinator",
+            "num_likes": 79,
+            "num_retweets": 77,
+            "num_replies": 2
+        },
+        "683733502156734465": {
+            "id": "683733502156734465",
+            "text": "Anyone who thinks miners determine the blockchain need to ask themselves why the miners don't just mint 1 trillion coins for themselves.",
+            "username": "el33th4xor",
+            "num_likes": 15,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "683610059159506944": {
+            "id": "683610059159506944",
+            "text": "If your smart contract has to be admissible in court, you're doing it wrong - the blockchain disintermediates the justice system - #p2p",
+            "username": "stephantual",
+            "num_likes": 35,
+            "num_retweets": 19,
+            "num_replies": 7
+        },
+        "682995047541960705": {
+            "id": "682995047541960705",
+            "text": "Best performing currencies, past 5 yrs:\n2011- Bitcoin, +1500%\n2012- Bitcoin, +299%\n2013- Bitcoin, +5400%\n2014- USD, +13%\n2015- Bitcoin, +37%",
+            "username": "robustus",
+            "num_likes": 293,
+            "num_retweets": 383,
+            "num_replies": 14
+        },
+        "682703791913865217": {
+            "id": "682703791913865217",
+            "text": "Hmm..Bloomberg named bitcoin worst performing currency in '14, but excludes in '15 when it was best cc @julieverhagehttps://twitter.com/BloombergTV/status/682697912225263616\u00a0\u2026",
+            "username": "barrysilbert",
+            "num_likes": 170,
+            "num_retweets": 226,
+            "num_replies": 16
+        },
+        "681967343107465216": {
+            "id": "681967343107465216",
+            "text": "Segregated witness is necessary but not sufficient. We must also raise the block size limit. Inaction is a radical re-shaping of bitcoin",
+            "username": "aantonop",
+            "num_likes": 143,
+            "num_retweets": 106,
+            "num_replies": 25
+        },
+        "679319304828018689": {
+            "id": "679319304828018689",
+            "text": "The more #Apple keeps up their vocal defense of digital rights, the more conspicuous @Google's comparative absence.pic.twitter.com/o26AIk7CER",
+            "username": "Snowden",
+            "num_likes": 5810,
+            "num_retweets": 5485,
+            "num_replies": 189
+        },
+        "679692055271096321": {
+            "id": "679692055271096321",
+            "text": "Imagine if the government went after corruption as hard as it goes after guys who run filesharing sites. Priorities.https://twitter.com/vicenews/status/679621884112158720\u00a0\u2026",
+            "username": "Snowden",
+            "num_likes": 8342,
+            "num_retweets": 8799,
+            "num_replies": 335
+        },
+        "676200967159836672": {
+            "id": "676200967159836672",
+            "text": "Companies that require KYC all trend toward legacy bank-like utility over time.https://www.reddit.com/r/Bitcoin/comments/3woxce/changetip_disabled_account_of_bitcoin_magazine/\u00a0\u2026",
+            "username": "kristovatlas",
+            "num_likes": 29,
+            "num_retweets": 18,
+            "num_replies": 6
+        },
+        "673799486171439104": {
+            "id": "673799486171439104",
+            "text": "Bitcoin transactions, as visualised by Imperial College. Guess which one is an attack on the network. Via @spenleypic.twitter.com/HfPWaTLmVO",
+            "username": "JamieJBartlett",
+            "num_likes": 7,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "669177189796077568": {
+            "id": "669177189796077568",
+            "text": "Bank attitudes towards bitcoin are very similar to the taxi industry response to Uber. Shock and dismay that competition might be allowed",
+            "username": "aantonop",
+            "num_likes": 107,
+            "num_retweets": 135,
+            "num_replies": 8
+        },
+        "669091129514594304": {
+            "id": "669091129514594304",
+            "text": "\"Bitcoins don't need to be changed into dollars any more than email needs to be printed.\" ~ @BitcoinEdu  #Bitcoin",
+            "username": "Coinsecure",
+            "num_likes": 94,
+            "num_retweets": 106,
+            "num_replies": 4
+        },
+        "667548284253315072": {
+            "id": "667548284253315072",
+            "text": "What we know about Paris terrorists\n-Not Syrian\n-Not refugees\n-No encryption\n\nWhat the US is focusing on\n-Syrians\n-Refugees\n-Encryption",
+            "username": "danwlin",
+            "num_likes": 16212,
+            "num_retweets": 22757,
+            "num_replies": 397
+        },
+        "667368506367733761": {
+            "id": "667368506367733761",
+            "text": "Western Union CEO: \"We'll use bitcoin when regulated\". Ok, you wait. We'll use bitcoin now. See who runs out of business model first.",
+            "username": "aantonop",
+            "num_likes": 126,
+            "num_retweets": 102,
+            "num_replies": 7
+        },
+        "667036635029045248": {
+            "id": "667036635029045248",
+            "text": "Bitcoin lowest risk on UK risk assessment of money laundering and terrorist financing: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/468210/UK_NRA_October_2015_final_web.pdf\u00a0\u2026pic.twitter.com/HCDw3nLQrf",
+            "username": "FEhrsam",
+            "num_likes": 209,
+            "num_retweets": 296,
+            "num_replies": 5
+        },
+        "663822315227074560": {
+            "id": "663822315227074560",
+            "text": "Once.https://twitter.com/Coding2Learn/status/663820854904659968\u00a0\u2026",
+            "username": "Snowden",
+            "num_likes": 8103,
+            "num_retweets": 6726,
+            "num_replies": 534
+        },
+        "661604239794376704": {
+            "id": "661604239794376704",
+            "text": "I would like to see Apple refuse to sell iPhone in UK if gov't bans end-to-end encryption.  Does Parliament dare be that stupid?",
+            "username": "jimmy_wales",
+            "num_likes": 387,
+            "num_retweets": 635,
+            "num_replies": 55
+        },
+        "661603491450716162": {
+            "id": "661603491450716162",
+            "text": "PSA:  Don't leave bitcoin on an exchange. Trade and withdraw to a wallet you control.",
+            "username": "aantonop",
+            "num_likes": 173,
+            "num_retweets": 181,
+            "num_replies": 24
+        },
+        "661240316331069443": {
+            "id": "661240316331069443",
+            "text": "Our iOS #0day bounty has expired & we have one winning team who made a remote browser-based iOS 9.1/9.2b #jailbreak (untethered). Congrats!",
+            "username": "Zerodium",
+            "num_likes": 607,
+            "num_retweets": 971,
+            "num_replies": 85
+        },
+        "660217968308056064": {
+            "id": "660217968308056064",
+            "text": "Erik is so right and says it so clearly : http://moneyandstate.com/its-all-about-the-blockchain/\u00a0\u2026 @ErikVoorhees",
+            "username": "wences",
+            "num_likes": 30,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "660054459620458497": {
+            "id": "660054459620458497",
+            "text": "Bitcoin's brand has been upgraded. It was known as a tool for drug dealers and money launderers. Now it's the tech platform of the future.",
+            "username": "WayneVaughan",
+            "num_likes": 28,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "659782090599170048": {
+            "id": "659782090599170048",
+            "text": "Don't pay attention to the Internet, the really interesting application is INTRANETS\n\n#blockchain #lol",
+            "username": "aantonop",
+            "num_likes": 126,
+            "num_retweets": 94,
+            "num_replies": 5
+        },
+        "654516179751403520": {
+            "id": "654516179751403520",
+            "text": "pic.twitter.com/aK4DwNMZSV",
+            "username": "alliecoyne",
+            "num_likes": 63,
+            "num_retweets": 106,
+            "num_replies": 1
+        },
+        "646539440983248896": {
+            "id": "646539440983248896",
+            "text": "Publicly calling on #bitcoin companies to follow the Linux route and defensively pool patents for collective good:http://www.openinventionnetwork.com\u00a0",
+            "username": "jgarzik",
+            "num_likes": 71,
+            "num_retweets": 77,
+            "num_replies": 4
+        },
+        "646491113344241664": {
+            "id": "646491113344241664",
+            "text": "21 Bitcoin Computer: it's like selling scuba gear with an attached plant instead of an oxygen tank . Sorry @balajis. I couldn't resist! :D",
+            "username": "SatoshiLite",
+            "num_likes": 22,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "646138372730155008": {
+            "id": "646138372730155008",
+            "text": "People are getting ripped off on Venmo because they think it works like Bitcoin.http://www.slate.com/articles/business/moneybox/2015/09/venmo_scam_and_fraud_why_it_s_easy_to_get_ripped_off_through_the_mobile.html\u00a0\u2026",
+            "username": "kashhill",
+            "num_likes": 52,
+            "num_retweets": 61,
+            "num_replies": 7
+        },
+        "641538031334391808": {
+            "id": "641538031334391808",
+            "text": "Britain's currency loses 95% of its value under Queen Elizabeth II, unlike under Victoria...http://www.ft.com/cms/s/0/0f25f9b8-5640-11e5-a28b-50226830d644.html#axzz3lBCvC0d1\u00a0\u2026pic.twitter.com/J2govtAwHz",
+            "username": "ChrisGiles_",
+            "num_likes": 65,
+            "num_retweets": 162,
+            "num_replies": 24
+        },
+        "641704933931266048": {
+            "id": "641704933931266048",
+            "text": "Chain has raised $30M from Visa, Nasdaq, Citi, Capital One, Fiserv and Orange https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQqQIwAGoVChMIntPYjN_qxwIVxDI-Ch2HAQDy&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fvisa-nasdaq-others-invest-30-million-in-bitcoin-related-startup-1441827120&usg=AFQjCNFM7loK047QvFxxblp4s6hIJYtCfg\u00a0\u2026",
+            "username": "go_interstellar",
+            "num_likes": 79,
+            "num_retweets": 71,
+            "num_replies": 9
+        },
+        "617752480496132100": {
+            "id": "617752480496132100",
+            "text": "Greek deputy FinMin says cash in safe deposit boxes at banks cannot be taken out under capital controls. (RTRS)",
+            "username": "Schuldensuehner",
+            "num_likes": 31,
+            "num_retweets": 89,
+            "num_replies": 9
+        },
+        "614150377580142592": {
+            "id": "614150377580142592",
+            "text": "If your company advocates for consumer privacy and protection, and you haven't integrated Bitcoin as payment option, you're being insincere.",
+            "username": "ErikVoorhees",
+            "num_likes": 19,
+            "num_retweets": 34,
+            "num_replies": 2
+        },
+        "613425693544869888": {
+            "id": "613425693544869888",
+            "text": "\"This is beyond crazy...Honestly, I don't know what I expected when I trusted PayPal with our donation money.\"https://voat.co/v/announcements/comments/161711\u00a0\u2026",
+            "username": "NickSzabo4",
+            "num_likes": 16,
+            "num_retweets": 26,
+            "num_replies": 2
+        },
+        "611922954885165056": {
+            "id": "611922954885165056",
+            "text": "The blockchain is a real innovation. We published the Banking cmte report on digital currency & #bitcoin there today:http://www.reddit.com/r/Bitcoin/comments/3aei7c/heres_what_the_canadian_senate_just_put_in_the/\u00a0\u2026",
+            "username": "DougBlackAB",
+            "num_likes": 157,
+            "num_retweets": 199,
+            "num_replies": 14
+        },
+        "611481910385119232": {
+            "id": "611481910385119232",
+            "text": "TCP/IP to be rebranded as 'dark packets' by the same folks who think OpenBazaar is a dark market.",
+            "username": "openbazaar",
+            "num_likes": 32,
+            "num_retweets": 40,
+            "num_replies": 3
+        },
+        "608130975109943296": {
+            "id": "608130975109943296",
+            "text": "Gregory Maxwell's Confidental Transactions is very impressive work: https://people.xiph.org/~greg/confidential_values.txt\u00a0\u2026",
+            "username": "peterktodd",
+            "num_likes": 61,
+            "num_retweets": 62,
+            "num_replies": 2
+        },
+        "603686725072887808": {
+            "id": "603686725072887808",
+            "text": "ID theft. Privacy violation. Tedious forms. Cut the Gordian knot: use finance (cash, Bitcoin) that doesn't depend for its security on ID.",
+            "username": "NickSzabo4",
+            "num_likes": 60,
+            "num_retweets": 66,
+            "num_replies": 4
+        },
+        "604339469727059968": {
+            "id": "604339469727059968",
+            "text": "In One Quote, Edward Snowden Just Destroyed the Biggest Myth About Privacy\n\n#Snowden\nhttp://mic.com/articles/119602/in-one-quote-edward-snowden-summed-up-why-our-privacy-is-worth-fighting-for\u00a0\u2026pic.twitter.com/7RbIp4sw9b",
+            "username": "HelpSnowden",
+            "num_likes": 780,
+            "num_retweets": 1462,
+            "num_replies": 29
+        },
+        "604017264258490368": {
+            "id": "604017264258490368",
+            "text": "What happens after periods of high Bitcoin price stability indexed to current prices. Credits to AZOP.pic.twitter.com/jXfWsqT4xH",
+            "username": "chrisXBT",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "603367109817716736": {
+            "id": "603367109817716736",
+            "text": "Future of money is 100% digital. The only remaining question is whether it will be open, decentralized and people-powered or\u2026 not. #bitcoin",
+            "username": "aantonop",
+            "num_likes": 110,
+            "num_retweets": 153,
+            "num_replies": 7
+        },
+        "603206292593840129": {
+            "id": "603206292593840129",
+            "text": "proclaiming what bitcoin blockchain & smart-contracts cant do, is maybe like predicting internet will never be more than fax machine in 90s.",
+            "username": "adam3us",
+            "num_likes": 59,
+            "num_retweets": 69,
+            "num_replies": 1
+        },
+        "602187481908391936": {
+            "id": "602187481908391936",
+            "text": "Bitcoin mining on a 55 year old IBM 1401 mainframe: 80 seconds per hash http://www.righto.com/2015/05/bitcoin-mining-on-55-year-old-ibm-1401.html\u00a0\u2026",
+            "username": "newsycombinator",
+            "num_likes": 26,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "602032719502147584": {
+            "id": "602032719502147584",
+            "text": "In Blockchain mediated contracts, the governing law is the software itself, not a jurisdiction. Its unambiguous, precise and not open ended.",
+            "username": "Beautyon_",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "601768857636872192": {
+            "id": "601768857636872192",
+            "text": "Bitcoins. A future novelty come to life. Entrepreneur @drakefjustin is offering what you need in such exciting times http://ow.ly/NhVZN\u00a0",
+            "username": "DoLectures",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "601705098046222336": {
+            "id": "601705098046222336",
+            "text": "In 2010, two pizzas for 10,000 BTC were bought. Today, 1 BTC buys you this! @coindesk Happy #bitcoinpizzaday everyonepic.twitter.com/S7FeZBZZNe",
+            "username": "nejc_kodric",
+            "num_likes": 391,
+            "num_retweets": 497,
+            "num_replies": 26
+        },
+        "600367120178745344": {
+            "id": "600367120178745344",
+            "text": "We're pleased to announce that Cisco, Qualcomm, and the former CSO of ARM are now investors. More details:http://blogs.wsj.com/digits/2015/05/18/bitcoin-startup-21-unveils-product-plan-embeddable-mining-chips/\u00a0\u2026",
+            "username": "21dotco",
+            "num_likes": 121,
+            "num_retweets": 102,
+            "num_replies": 5
+        },
+        "598541809690652673": {
+            "id": "598541809690652673",
+            "text": "Can we take a moment to reflect on the fact that the Bitcoin protocol STILL hasn't been hacked? One of the greatest comp sci accomplishments",
+            "username": "ErikVoorhees",
+            "num_likes": 182,
+            "num_retweets": 221,
+            "num_replies": 18
+        },
+        "598502966719447040": {
+            "id": "598502966719447040",
+            "text": "Categories of #bitcoin critics:\n1. No clue about BTC, but they hate it.\n2.Krugman, Iza Kaminska & friends.\n3. Selling a competing product.",
+            "username": "jgarzik",
+            "num_likes": 104,
+            "num_retweets": 113,
+            "num_replies": 31
+        },
+        "597084947610894336": {
+            "id": "597084947610894336",
+            "text": "@prestonjbyrne @haydentiff @iang_fc Cryptocurrency allows smart contracts to make on-chain payments without invoking off-chain controls.",
+            "username": "NickSzabo4",
+            "num_likes": 22,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "596195788012781568": {
+            "id": "596195788012781568",
+            "text": "A striking number of innovative companies have business models that flout the law http://econ.st/1PqcDvh\u00a0pic.twitter.com/AKiE36qdGL",
+            "username": "TheEconomist",
+            "num_likes": 128,
+            "num_retweets": 169,
+            "num_replies": 6
+        },
+        "597018575765778433": {
+            "id": "597018575765778433",
+            "text": "Blockchains == distributed denial of denial of service as a service.",
+            "username": "VitalikButerin",
+            "num_likes": 202,
+            "num_retweets": 186,
+            "num_replies": 11
+        },
+        "593584932485779457": {
+            "id": "593584932485779457",
+            "text": "Apparently bitcoin is disrupting our economy now (?)https://twitter.com/nytimes/status/593583832869249024\u00a0\u2026",
+            "username": "CasaArgentinaAR",
+            "num_likes": 140,
+            "num_retweets": 243,
+            "num_replies": 58
+        },
+        "593159534270623744": {
+            "id": "593159534270623744",
+            "text": "Bitcoin Marketplace Purse Unveils 'Instant' Amazon Shopping http://coinde.sk/1PTIeYi\u00a0pic.twitter.com/agq5tMJoHs",
+            "username": "coindesk",
+            "num_likes": 18,
+            "num_retweets": 36,
+            "num_replies": 2
+        },
+        "591527686117466113": {
+            "id": "591527686117466113",
+            "text": "@orionwl just merged pruning support in #Bitcoin Core! Run a (no wallet) full node with 1.3 GB storage. Thanks to all who contributed.",
+            "username": "pwuille",
+            "num_likes": 100,
+            "num_retweets": 101,
+            "num_replies": 11
+        },
+        "588463193070022656": {
+            "id": "588463193070022656",
+            "text": "High resolution, color corrected, slow motion rocket landing videohttps://youtu.be/BhMSzC1crr0\u00a0",
+            "username": "elonmusk",
+            "num_likes": 4637,
+            "num_retweets": 4984,
+            "num_replies": 755
+        },
+        "486926129409052672": {
+            "id": "486926129409052672",
+            "text": "I can no longer have even the smallest association with the Bitcoin Foundation, because of the complete lack of transparency",
+            "username": "aantonop",
+            "num_likes": 275,
+            "num_retweets": 323,
+            "num_replies": 78
+        },
+        "585349390224752640": {
+            "id": "585349390224752640",
+            "text": "This picture is misleading. Decentralized is always distributed, but distributed system can be centrally-controlled.pic.twitter.com/7wdXQh8lu2",
+            "username": "oleganza",
+            "num_likes": 22,
+            "num_retweets": 35,
+            "num_replies": 7
+        },
+        "585404156627832833": {
+            "id": "585404156627832833",
+            "text": "Applications open on April 13 for http://anthemisfellowship.org\u00a0 Secure your place on the launchpad for future FinTech disruptor talent!",
+            "username": "GavinHolland77",
+            "num_likes": 8,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "584705082807169024": {
+            "id": "584705082807169024",
+            "text": "The more I hear Eris Industries guys bashing bitcoin, the less I think they really understand the technology. \n\nGo home Eris, you\u2019re drunk.",
+            "username": "aantonop",
+            "num_likes": 45,
+            "num_retweets": 46,
+            "num_replies": 12
+        },
+        "582588016994041856": {
+            "id": "582588016994041856",
+            "text": "DEA/USSS lesson via #bitcoin : Your agents probably steal cash all the time and this is the 1st time you had a chance of catching them.",
+            "username": "alansilbert",
+            "num_likes": 186,
+            "num_retweets": 259,
+            "num_replies": 13
+        },
+        "578596808378720256": {
+            "id": "578596808378720256",
+            "text": "Looks like the #OpenSSL vulnerabilities announced today don't affect #Bitcoin Core (Yay! No release fire-drill today)",
+            "username": "gavinandresen",
+            "num_likes": 40,
+            "num_retweets": 43,
+            "num_replies": 2
+        },
+        "578208487852900353": {
+            "id": "578208487852900353",
+            "text": "So the UK government is now subsidizing research into digital currency technology. How far we\u2019ve come.",
+            "username": "jerrybrito",
+            "num_likes": 10,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "572862734997454848": {
+            "id": "572862734997454848",
+            "text": "Fraud Comes to Apple Pay http://on.wsj.com/1BCSZt8\u00a0 via @WSJD @daiwaka",
+            "username": "barrysilbert",
+            "num_likes": 12,
+            "num_retweets": 27,
+            "num_replies": 5
+        },
+        "568485755175243776": {
+            "id": "568485755175243776",
+            "text": "Stripe: Bitcoin https://stripe.com/bitcoin\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 18,
+            "num_retweets": 21,
+            "num_replies": 2
+        },
+        "566230361240518656": {
+            "id": "566230361240518656",
+            "text": "It's faster to FedEx a 1 ton anvil from London to New York than send a wire. The world is so ready for #bitcoin @coindesk @pmarca @WSJ",
+            "username": "niccary",
+            "num_likes": 96,
+            "num_retweets": 110,
+            "num_replies": 11
+        },
+        "564802211478122496": {
+            "id": "564802211478122496",
+            "text": "39.48\u20ac markup for CC payments vs 0\u20ac on Bitcoin at @Air_Lituanicapic.twitter.com/GONVYHvW2O",
+            "username": "oleganza",
+            "num_likes": 43,
+            "num_retweets": 80,
+            "num_replies": 3
+        },
+        "559560034506395648": {
+            "id": "559560034506395648",
+            "text": "The API docs for our new project are live. Some good Sunday night reading material: https://docs.exchange.coinbase.com/#introduction\u00a0",
+            "username": "coinbase",
+            "num_likes": 54,
+            "num_retweets": 68,
+            "num_replies": 9
+        },
+        "557595490192089088": {
+            "id": "557595490192089088",
+            "text": "At $400M post, @coinbase valuation is almost 15% of entire BTC market cap. Top 20 BTC co's market cap  > entire BTC market cap.",
+            "username": "chamath",
+            "num_likes": 101,
+            "num_retweets": 142,
+            "num_replies": 19
+        },
+        "557538896192737280": {
+            "id": "557538896192737280",
+            "text": "Coinbase said it raised $75 million in the single largest venture-capital fundraising by a bitcoin-related startup:http://on.wsj.com/1undOY2\u00a0",
+            "username": "WSJmarkets",
+            "num_likes": 16,
+            "num_retweets": 34,
+            "num_replies": 1
+        },
+        "556544680448389120": {
+            "id": "556544680448389120",
+            "text": "Ultimately, @ChangeTip is a seamless way to use & send #bitcoin without needing to know, or understand, that you\u2019re using #Bitcoin.",
+            "username": "dan_pantera",
+            "num_likes": 12,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "555588810298642433": {
+            "id": "555588810298642433",
+            "text": "people say #bitcoin will be very stable once a lot of people use it ...I sometimes think that too, then I look at the price of oil",
+            "username": "spair",
+            "num_likes": 63,
+            "num_retweets": 90,
+            "num_replies": 24
+        },
+        "553935924414136320": {
+            "id": "553935924414136320",
+            "text": "bitcoin is like solar power -  something everyone should be using but almost no one will until it is cheaper and more convenient.",
+            "username": "EdanYago",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "552540066959331330": {
+            "id": "552540066959331330",
+            "text": "What's been keeping me busy lately: scaling-up testing: http://gavintech.blogspot.com/2015/01/looking-before-scaling-up-leap.html\u00a0\u2026",
+            "username": "gavinandresen",
+            "num_likes": 33,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "552226293895667713": {
+            "id": "552226293895667713",
+            "text": "To would-be auditors: don't play the charade of checking if exchanges are solvent once every few months; real-time crypto-auditing or GTFO.",
+            "username": "peterktodd",
+            "num_likes": 37,
+            "num_retweets": 27,
+            "num_replies": 6
+        },
+        "552190020463759360": {
+            "id": "552190020463759360",
+            "text": "@rjwile A x-border system that goes USDa-BTCa-BTCb-YENb in under 1 millisecond functions at $1",
+            "username": "jgarzik",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "550460288198144000": {
+            "id": "550460288198144000",
+            "text": "During 2015 Bitcoin will be more transparent ,better regulated and more acceptable as part of the global payment system",
+            "username": "ArthurLevitt",
+            "num_likes": 94,
+            "num_retweets": 105,
+            "num_replies": 8
+        },
+        "550414378982723584": {
+            "id": "550414378982723584",
+            "text": "2008: 1 paper (Satoshi)\n2009: 1 paper\n2010: 1 paper\n2011: 7 papers\n2012: 18 papers\n2013: 55 papers\n2014: 190 papershttps://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit?pli=1#gid=0\u00a0\u2026",
+            "username": "lopp",
+            "num_likes": 69,
+            "num_retweets": 74,
+            "num_replies": 3
+        },
+        "549129213065048064": {
+            "id": "549129213065048064",
+            "text": "Federal Reserve analysis report reveals an admiration for Bitcoin protocol http://www.federalreserve.gov/econresdata/feds/2014/files/2014104pap.pdf\u00a0\u2026 via @inthepixels @federalreserve",
+            "username": "jonmatonis",
+            "num_likes": 16,
+            "num_retweets": 22,
+            "num_replies": 5
+        },
+        "540312011880398848": {
+            "id": "540312011880398848",
+            "text": "Bitcoin is an interdisciplinary field:\n\ntech\nfinance\necon\nforex\ncrypto\nsecurity\npymnts\ndata sci\nP2P\nlaw\nregulatory\npolitics\nstartups\nhistory",
+            "username": "adamludwin",
+            "num_likes": 307,
+            "num_retweets": 252,
+            "num_replies": 26
+        },
+        "544884275670450176": {
+            "id": "544884275670450176",
+            "text": "BREAKING: CSBS releases proposed framework for US state-by-state #bitcoin regulation and opens comment period.  http://www.csbs.org/regulatory/ep/Pages/framework.aspx\u00a0\u2026",
+            "username": "msantoriESQ",
+            "num_likes": 23,
+            "num_retweets": 73,
+            "num_replies": 5
+        },
+        "544864707551956992": {
+            "id": "544864707551956992",
+            "text": "Time Inc Becomes First Major Magazine Publisher to Accept Bitcoin http://coinde.sk/1BQQ3GP\u00a0pic.twitter.com/Ieg0r1pge7",
+            "username": "coindesk",
+            "num_likes": 40,
+            "num_retweets": 77,
+            "num_replies": 3
+        },
+        "543480407220813824": {
+            "id": "543480407220813824",
+            "text": "Bitcoin \u201cthe currency\u201d alone is already epochal in monetary theory/history. Easy to underestimate the scale of this as a shift.",
+            "username": "KonradSGraf",
+            "num_likes": 28,
+            "num_retweets": 37,
+            "num_replies": 0
+        },
+        "543348420984180736": {
+            "id": "543348420984180736",
+            "text": "Bitcoin distributes equity globally. \nCentral banks distribute debt globally. \n\nFree people prefer equity over debt.",
+            "username": "maxkeiser",
+            "num_likes": 22,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "542937466593095680": {
+            "id": "542937466593095680",
+            "text": "Microsoft accepting Bitcoin https://commerce.microsoft.com/PaymentHub/Help/Right?helppagename=CSV_BitcoinHowTo.htm\u00a0\u2026",
+            "username": "newsycombinator",
+            "num_likes": 13,
+            "num_retweets": 43,
+            "num_replies": 3
+        },
+        "540214341191364608": {
+            "id": "540214341191364608",
+            "text": "All 3,746 public comments DFS received on Bitlicense now live on our site. Revised reg should be out later this month http://www.dfs.ny.gov/legal/vcrf_comments.htm\u00a0\u2026",
+            "username": "BenLawsky",
+            "num_likes": 38,
+            "num_retweets": 83,
+            "num_replies": 14
+        },
+        "537651490186223616": {
+            "id": "537651490186223616",
+            "text": "American Red Cross To Accept Bitcoin Donations Through BitPay | Business Wire http://www.businesswire.com/news/home/20141126005571/en/American-Red-Cross-Accept-Bitcoin-Donations-BitPay#.VHYGjmhgFP1.twitter\u00a0\u2026 #bitcoin @redcross",
+            "username": "BitPay",
+            "num_likes": 24,
+            "num_retweets": 55,
+            "num_replies": 2
+        },
+        "532066401033654272": {
+            "id": "532066401033654272",
+            "text": "If you are wondering what we are all talking about with this new digital money called Bitcoin, this introductory... http://fb.me/3lzcXdpHN\u00a0",
+            "username": "brucefenton",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "530690246095433728": {
+            "id": "530690246095433728",
+            "text": "@niccary of @blockchain will be speaking at Cambridge UK on Nov 11th \n#bitcoin in the shires - via @BitcoinUKmediahttp://www.meetup.com/CambridgeBitcoin/events/218221222/?a=ea1_grp&rv=ea1&_af_eid=218221222&_af=event\u00a0\u2026",
+            "username": "BitcoinRat",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "530400447539183617": {
+            "id": "530400447539183617",
+            "text": "The end of centralized marketplaces is nigh.",
+            "username": "openbazaar",
+            "num_likes": 41,
+            "num_retweets": 62,
+            "num_replies": 5
+        },
+        "527518270434209792": {
+            "id": "527518270434209792",
+            "text": "Coinbase Giving Users Access To Private Keys Using New 'MultiVault'\u2026 http://dlvr.it/7MCRnc\u00a0 #Coinbase #MultiVaultpic.twitter.com/ePMq8bke2C",
+            "username": "Cointelegraph",
+            "num_likes": 7,
+            "num_retweets": 56,
+            "num_replies": 2
+        },
+        "527115118426206208": {
+            "id": "527115118426206208",
+            "text": "1st Bitcoin ATM opens Thursday at #StJohnsInnovationCentre & 5 city sites  accept #bitcoin http://bit.ly/1tF8MVc\u00a0pic.twitter.com/otqJ5kdtbg",
+            "username": "CambsOpenMedia",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "525700772714283009": {
+            "id": "525700772714283009",
+            "text": "Adding IDs to Bitcoin is like adding pencils and papers to a computer.",
+            "username": "NickSzabo4",
+            "num_likes": 34,
+            "num_retweets": 26,
+            "num_replies": 5
+        },
+        "511624011390779392": {
+            "id": "511624011390779392",
+            "text": "IDs are insecure, local, and labor-intensive. Nakamoto consensus is secure, global, and automated.",
+            "username": "NickSzabo4",
+            "num_likes": 101,
+            "num_retweets": 73,
+            "num_replies": 11
+        },
+        "525301322245894145": {
+            "id": "525301322245894145",
+            "text": "@jgarzik I got better comparison. Z$100,000,000,000,000 and Z$10 silver dollar. Which one keeps purchasing power?pic.twitter.com/uDFSFi7FI7",
+            "username": "kenshishido",
+            "num_likes": 8,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "523063399610339328": {
+            "id": "523063399610339328",
+            "text": "Headers-first (https://github.com/bitcoin/bitcoin/pull/4468\u00a0\u2026) has been merged! Thanks @pwuille and everyone who worked on it or tested/reviewed #bitcoin #core",
+            "username": "orionwl",
+            "num_likes": 44,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "522115773918359552": {
+            "id": "522115773918359552",
+            "text": "Will say it again; It's the bitcoin incentive that makes the \"blockchain\" technology work, stupid.",
+            "username": "nvk",
+            "num_likes": 54,
+            "num_retweets": 856,
+            "num_replies": 9
+        },
+        "521605134099685376": {
+            "id": "521605134099685376",
+            "text": "Another must watch documentary - The Internet's Own Boy, The Story of Aaron Swartz- https://www.youtube.com/watch?v=vXr-2hwTk58\u00a0\u2026",
+            "username": "gelenbe",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "521475661018697728": {
+            "id": "521475661018697728",
+            "text": "The beauty of Fidor Bank. Why the call to get a full banking licence has made Fidor the most compelling challenger... http://bit.ly/1yQ1Kjk\u00a0",
+            "username": "Kroener_M",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "521573504077287424": {
+            "id": "521573504077287424",
+            "text": "Vitalik will be speaking in Cambridge tomorrow PM, livestream will be available at https://plus.google.com/events/c281daiqocv6ehijsu0h6oeo8eo\u00a0\u2026 -http://www.meetup.com/CambridgeBitcoin/events/212012602/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 12,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "520039146610753536": {
+            "id": "520039146610753536",
+            "text": "Reputation = money ... NOT identity = money (we don't need the whole identity for money!): http://www.gluu.co/reputation-is-money\u00a0\u2026 @heathervescent",
+            "username": "GluuFederation",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "517778245451018240": {
+            "id": "517778245451018240",
+            "text": "Gotta love Bill Gates telling 7000 bankers that transactions will be \"digital, universal and almost free\"pic.twitter.com/RaZ2OVzbAt",
+            "username": "annairrera",
+            "num_likes": 236,
+            "num_retweets": 311,
+            "num_replies": 24
+        },
+        "514733220815192064": {
+            "id": "514733220815192064",
+            "text": "I\u2019ll spend $5000 at @Amazon if they accept #Bitcoin.  How about you?  #AmazonBitcoin  email jeff@amazon.com",
+            "username": "brucefenton",
+            "num_likes": 91,
+            "num_retweets": 104,
+            "num_replies": 38
+        },
+        "514467196228358144": {
+            "id": "514467196228358144",
+            "text": "We're teaming up with #Bitcoin payment processors to provide more flexibility in how you buy and sell: http://bit.ly/1riGagG\u00a0. #paypalit",
+            "username": "PayPal",
+            "num_likes": 292,
+            "num_retweets": 582,
+            "num_replies": 51
+        },
+        "509415514993459200": {
+            "id": "509415514993459200",
+            "text": "Apple will make NFC available everywhere. Bitcoin will make NFC usable without selling your soul to banks.",
+            "username": "aantonop",
+            "num_likes": 152,
+            "num_retweets": 230,
+            "num_replies": 18
+        },
+        "509053601541787648": {
+            "id": "509053601541787648",
+            "text": "Our One Touch #tech and #Bitcoin integration enables a more seamless and secure payment experience: http://bit.ly/1oZruyE\u00a0. #paypalit",
+            "username": "PayPal",
+            "num_likes": 354,
+            "num_retweets": 727,
+            "num_replies": 55
+        },
+        "509012186426245120": {
+            "id": "509012186426245120",
+            "text": "New Paypal Ad: \"Our phone is our wallet. We can spend Bitcoin with a tap\" http://bit.ly/1tmzddY\u00a0 \u2014 important moment.",
+            "username": "TuurDemeester",
+            "num_likes": 21,
+            "num_retweets": 34,
+            "num_replies": 2
+        },
+        "508679819664822272": {
+            "id": "508679819664822272",
+            "text": "OpenBazaar has officially moved to MIT licensing",
+            "username": "openbazaar",
+            "num_likes": 23,
+            "num_retweets": 33,
+            "num_replies": 3
+        },
+        "504551171592171521": {
+            "id": "504551171592171521",
+            "text": "Don't bother explaining Bitcoin to grown ups. Explain it to teens. They will get it and they will change the world.",
+            "username": "oleganza",
+            "num_likes": 75,
+            "num_retweets": 84,
+            "num_replies": 12
+        },
+        "499637027202400256": {
+            "id": "499637027202400256",
+            "text": "\"Without material changes, Circle will have no choice but to block New York customers from our services\" https://www.circle.com/2014/08/13/thoughts-new-york-bitlicense-proposal/\u00a0\u2026 #bitcoin",
+            "username": "ErikVoorhees",
+            "num_likes": 16,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "497485122963513345": {
+            "id": "497485122963513345",
+            "text": "Old but gold. The official divorce complaint of Richard Feynman's second wife, hater of calculus.pic.twitter.com/bzwDeGnH8k",
+            "username": "pickover",
+            "num_likes": 54,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "496884419752640512": {
+            "id": "496884419752640512",
+            "text": "Ethereum pre-sale hits 12.7M$, still 27 days to gohttp://blogs.wsj.com/moneybeat/2014/08/05/bitbeat-ethereum-presale-hits-12-7-million-tally/\u00a0\u2026",
+            "username": "newsycombinator",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "492429787336413184": {
+            "id": "492429787336413184",
+            "text": "I have never been more upset by an arrangement of English words in my lifepic.twitter.com/x5dve8GPpZ",
+            "username": "TriciaLockwood",
+            "num_likes": 275,
+            "num_retweets": 135,
+            "num_replies": 37
+        },
+        "491704748358516736": {
+            "id": "491704748358516736",
+            "text": "The ether sale has now started! It is taking place exclusively on https://www.ethereum.org/\u00a0 All information can be found on our website.",
+            "username": "ethereum",
+            "num_likes": 31,
+            "num_retweets": 74,
+            "num_replies": 3
+        },
+        "490162239983599616": {
+            "id": "490162239983599616",
+            "text": "Dell is now the world's largest ecommerce business to accept #bitcoin http://www.dell.com\u00a0 http://fb.me/1d9ojMrZw\u00a0",
+            "username": "MichaelDell",
+            "num_likes": 480,
+            "num_retweets": 1191,
+            "num_replies": 71
+        },
+        "486455679843319808": {
+            "id": "486455679843319808",
+            "text": "Meet the pioneers! 1st ever class of Anthemis Fellows: @mkerouch @drakefjustin & Frederic Hofmann http://linkd.in/1qR5JaE\u00a0 #anthemisfellowship",
+            "username": "anthemis",
+            "num_likes": 7,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "483904093723717632": {
+            "id": "483904093723717632",
+            "text": "Congratulations to @Newegg @TigerDirect and @Overstock for accepting Bitcoin! When will @amazon be tired of being left behind? @BitPay",
+            "username": "rogerkver",
+            "num_likes": 45,
+            "num_retweets": 81,
+            "num_replies": 4
+        },
+        "482245513605939200": {
+            "id": "482245513605939200",
+            "text": "Some gov's are starting to declare that \"Bitcoin is money.\"  Next up: declaring chicken is food, and that blue is a color.",
+            "username": "ErikVoorhees",
+            "num_likes": 58,
+            "num_retweets": 81,
+            "num_replies": 13
+        },
+        "479463088870412288": {
+            "id": "479463088870412288",
+            "text": "I was considering bidding on the seized SR bitcoin, but I think I'll just wait for the US Marshals to tweet the private keys to the winners.",
+            "username": "Satoshi_N_",
+            "num_likes": 63,
+            "num_retweets": 65,
+            "num_replies": 6
+        },
+        "478640757805699076": {
+            "id": "478640757805699076",
+            "text": "\"Why Bitcoin is the Petroleum of Our Time\": http://bit.ly/1uyKc3M\u00a0 \u2014 imo my most important Bitcoin article to date",
+            "username": "TuurDemeester",
+            "num_likes": 35,
+            "num_retweets": 40,
+            "num_replies": 4
+        },
+        "476755544393252865": {
+            "id": "476755544393252865",
+            "text": "Bitcoin is the separation of money and state. Important for the same reason as separating church and state, and just as controversial.",
+            "username": "ErikVoorhees",
+            "num_likes": 56,
+            "num_retweets": 89,
+            "num_replies": 6
+        },
+        "474296815198552064": {
+            "id": "474296815198552064",
+            "text": "First time I've sent money to Africa:\n3 wire attempts, 4 weeks, 5 banks, no luck (+ $30 in fees).\n\nJust sent in bitcoin: Immediate, free",
+            "username": "barrysilbert",
+            "num_likes": 241,
+            "num_retweets": 345,
+            "num_replies": 31
+        },
+        "457948128931766272": {
+            "id": "457948128931766272",
+            "text": "Saying #bitcoin is not a currency is like saying Internet is not a telephone.",
+            "username": "InPayTo",
+            "num_likes": 65,
+            "num_retweets": 330,
+            "num_replies": 6
+        },
+        "443846837943160832": {
+            "id": "443846837943160832",
+            "text": "I set up a standing order to sell 1BTC per day which I will donate to the Wikimedia Foundation.  So far, the balance continues to go up tho.",
+            "username": "jimmy_wales",
+            "num_likes": 9,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "430426036098977792": {
+            "id": "430426036098977792",
+            "text": "Circulating proposal for new Argentine peso bill:pic.twitter.com/T0NN1xGU5s",
+            "username": "TuurDemeester",
+            "num_likes": 1,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "421682424976654336": {
+            "id": "421682424976654336",
+            "text": "After 21 hours on @overstock.com, we've had 780 #Bitcoin orders that accounted for $124,000 in sales. Wow!",
+            "username": "OverstockCEO",
+            "num_likes": 301,
+            "num_retweets": 764,
+            "num_replies": 71
+        },
+        "397854473705373696": {
+            "id": "397854473705373696",
+            "text": "The most British thing I've ever read. https://twitter.com/History_Pics/status/397393751527919616/photo/1pic.twitter.com/CYBjM4SxWX\u00a0",
+            "username": "GreenClouds4",
+            "num_likes": 1322,
+            "num_retweets": 2916,
+            "num_replies": 207
+        },
+        "394576438189621248": {
+            "id": "394576438189621248",
+            "text": "Public crypto keys with common factors http://ow.ly/qdPau\u00a0",
+            "username": "CompSciFact",
+            "num_likes": 40,
+            "num_retweets": 66,
+            "num_replies": 7
+        },
+        "364823539972456449": {
+            "id": "364823539972456449",
+            "text": "One Second on the Internet http://onesecond.designly.com/\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 33,
+            "num_retweets": 74,
+            "num_replies": 4
+        },
+        "354365100553023488": {
+            "id": "354365100553023488",
+            "text": "Word of the day: sapiosexuality: (n.) A behavior of becoming attracted to or aroused by intelligence http://www.unwords.com/unword/sapiosexuality.html\u00a0\u2026\nvia @amyvdh",
+            "username": "LeaVerou",
+            "num_likes": 21,
+            "num_retweets": 24,
+            "num_replies": 5
+        },
+        "352563056880009216": {
+            "id": "352563056880009216",
+            "text": "Students Question the NSA at Recruiting Session [audio] https://soundcloud.com/madiha-1/students-question-the-nsa-at\u00a0\u2026",
+            "username": "newsycombinator",
+            "num_likes": 10,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "336120318974377986": {
+            "id": "336120318974377986",
+            "text": "A Hacker News For Ideas http://j.mp/16zupej\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 45,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "332979534125232128": {
+            "id": "332979534125232128",
+            "text": "I love impossibly eccentric math geniuses so hard. http://projectwordsworth.com/the-paradox-of-the-proof/\u00a0\u2026",
+            "username": "tom7",
+            "num_likes": 25,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "328495073396412416": {
+            "id": "328495073396412416",
+            "text": "Here is today http://j.mp/10G7IDk\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 16,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "325444976416813056": {
+            "id": "325444976416813056",
+            "text": "CipherCloud used DMCA Takedown on StackExchange discussion of their cryptography http://j.mp/15ph4DT\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 5,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "324584311833645057": {
+            "id": "324584311833645057",
+            "text": "New lithium-ion battery 2000 times more powerful, recharges 1000 times faster http://j.mp/11gIo1S\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 24,
+            "num_retweets": 40,
+            "num_replies": 0
+        },
+        "320652898025488384": {
+            "id": "320652898025488384",
+            "text": "If you weren't alive during the moon landing, watch this. http://www.firstmenonthemoon.com/\u00a0",
+            "username": "donpdonp",
+            "num_likes": 66,
+            "num_retweets": 67,
+            "num_replies": 6
+        },
+        "319465582514802688": {
+            "id": "319465582514802688",
+            "text": "The Bitcoin Bubble and the Future of Currency http://j.mp/XpJfQI\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 26,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "316534107897221120": {
+            "id": "316534107897221120",
+            "text": "Furbee: my js1k entry http://js1k.com/2013-spring/demo/1451\u00a0\u2026 and related blog post http://www.romancortes.com/blog/furbee-my-js1k-spring-13-entry/\u00a0\u2026",
+            "username": "romancortes",
+            "num_likes": 15,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "315811503825641474": {
+            "id": "315811503825641474",
+            "text": "Meet the scientific accident that could change the worldhttp://j.mp/ZyvdIY\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 32,
+            "num_retweets": 73,
+            "num_replies": 4
+        },
+        "307099100225097728": {
+            "id": "307099100225097728",
+            "text": "Scientists Uncover Invisible Motion in Video http://j.mp/142aePJ\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 25,
+            "num_retweets": 24,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1123143447551053824": {
+            "id": "1123143447551053824",
+            "text": "Latency per 2048-bit modular multiplication (the unit of sequential computation in RSA VDFs):\n\n* CPU\u20141100ns\n* FPGA\u201466ns\n* ASIC\u20141ns (expected)",
+            "username": "drakefjustin",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1123138956944715776": {
+            "id": "1123138956944715776",
+            "text": "Two approaches to crack the 35-year Rivest timelock/VDF puzzle:\n\n1) CPU running for 3.5 years\n2) FPGA (with a novel algo) running for 2 months\n\nCoincidentally both approaches at the finish line within one month of each other. (Tortoise beats the hare!) https://www.csail.mit.edu/news/programmers-solve-mits-20-year-old-cryptographic-puzzle\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 92,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "1121001617111695360": {
+            "id": "1121001617111695360",
+            "text": "Filecoin and Ethereum 2.0 collaborate on various fronts\u2014libp2p, VDFs, BLS12-381, secret single-leader election. Yay for win-win cross-blockchain efforts!https://filecoin.io/blog/collaboration-on-vdfs\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 330,
+            "num_retweets": 92,
+            "num_replies": 12
+        },
+        "1120583144392970240": {
+            "id": "1120583144392970240",
+            "text": "The BLS12-381 Wahby-Boneh hash functions promise simple, fast, constant-time, and indistinguishable from random oracle hashing to G1 and G2. Prime candidate for BLS standardisation for the blockchain industry (Algorand, Chia, Dfinity, Eth2, Filecoin, ...)https://twitter.com/IACRePrint/status/1120410166741090304\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 58,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1119494639482859520": {
+            "id": "1119494639482859520",
+            "text": "Maker \"stability\" fees at 14.5%! With $90m DAI outstanding that's $35K/day. If those fees burnt DAI (instead of enriching MKR holders who provide no bad debt insurance) the peg would restore. I'll help any team looking to fix this insane incentive misalignment. Fork @MakerDAO!",
+            "username": "drakefjustin",
+            "num_likes": 192,
+            "num_retweets": 26,
+            "num_replies": 25
+        },
+        "1116098602923724802": {
+            "id": "1116098602923724802",
+            "text": "I'll talk about Eth2 shard data availability and the custody game at Edcon today\u2014slides belowhttps://docs.google.com/presentation/d/1d3YhaT1y6zhK_zjNPW0wDSfFStUgfs3X7sm277MG0mg/edit#slide=id.p\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 44,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1111188318094585856": {
+            "id": "1111188318094585856",
+            "text": "WebAssembly (WASM) for blockchains:\n\n* over-rated\u2014performance gains, removal of cryptographic opcodes/precompiles\n* under-rated\u2014tooling, standardisation, interoperability, developer ecosystem",
+            "username": "drakefjustin",
+            "num_likes": 43,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1110648087352090625": {
+            "id": "1110648087352090625",
+            "text": "Ethereum 2.0 will use SHA256\u2014goodbye Keccak256! Yay for standardisation and interoperability with the great majority of present and future blockchains.\n\nWe're patiently waiting for a viable STARK/SNARK/MPC-friendly hash function for Ethereum 3.0.",
+            "username": "drakefjustin",
+            "num_likes": 460,
+            "num_retweets": 111,
+            "num_replies": 23
+        },
+        "1109557476272295936": {
+            "id": "1109557476272295936",
+            "text": "Maker raised maintenance fees to 7.5%. In the single-collateral model MKR is a scam. MKR tokens will *not* get diluted if CDPs default. PETH holders bear that risk yet maintenance fees go to the MKR holders. Someone fork Maker! We need a @UniswapExchange equivalent of Maker.",
+            "username": "drakefjustin",
+            "num_likes": 163,
+            "num_retweets": 24,
+            "num_replies": 26
+        },
+        "1108392741132795904": {
+            "id": "1108392741132795904",
+            "text": "The first eth2.0-specs commit is 6 month old  Tons of phase 0 and phase 1 progress. Plausible timing for 2019:\n\n* Q2: phase 0 spec freeze\n* Q3: phase 1 spec freeze\n* Q4: phase 0 launch\n\nhttps://github.com/ethereum/eth2.0-specs/blob/0001b7b9de2bf87ff267547acdb99788cf9b463c/specs/casper_sharding_v2.1.md\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 207,
+            "num_retweets": 69,
+            "num_replies": 9
+        },
+        "1106312627171532800": {
+            "id": "1106312627171532800",
+            "text": "Cryptography dominates consensus cryptoeconomics\u2014hashes, aggregate signatures, PRPs, PRFs, VDFs, succinct zk-proofs, quantum security, MPC friendliness\n\nEconomics dominates application cryptoeconomics\u2014token sales, auctions, stable coins, NFTs, DAOs, TCRs, games, gambling, ponzis",
+            "username": "drakefjustin",
+            "num_likes": 143,
+            "num_retweets": 34,
+            "num_replies": 6
+        },
+        "1105951401069428736": {
+            "id": "1105951401069428736",
+            "text": "Eth2.0 phase 0 workshop starting now\u2014come ask questions :)https://twitter.com/Linktimetech/status/1105047691472457728\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1103181324104409088": {
+            "id": "1103181324104409088",
+            "text": "The \"secret single-leader election problem\" is also relevant for Ethereum 2.0/3.0, and many other proof of stake systems.https://twitter.com/protocollabs/status/1103069927919898624\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 63,
+            "num_retweets": 15,
+            "num_replies": 5
+        },
+        "1102916908326797312": {
+            "id": "1102916908326797312",
+            "text": "EthCC slides on the Eth2 phase 0 spechttps://docs.google.com/presentation/d/1YdrJPGRLTK2FQLy9zS-8DRHFtPbVBwX1EhrDzXnULTY/edit?usp=sharing\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 80,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "1102911207785287680": {
+            "id": "1102911207785287680",
+            "text": "Diederik Loerakker @protolambda wins the phase 0 spec challenge! Next step: make the Go and Python executable specs compatible https://github.com/protolambda/beacon-challenge\u00a0\u2026 https://github.com/ethereum/research/tree/master/spec_pythonizer\u00a0\u2026https://twitter.com/drakefjustin/status/1100809667528278016\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1100809667528278016": {
+            "id": "1100809667528278016",
+            "text": "The phase 0 spec (even not fully polished) is slick!\n\n10 ETH bounty to the first person to write in Go (MIT license) the full state transition function (BeaconState, BeaconBlock) -> (BeaconState, Error) in 1,024 lines or less.",
+            "username": "drakefjustin",
+            "num_likes": 51,
+            "num_retweets": 10,
+            "num_replies": 10
+        },
+        "1099283178383134720": {
+            "id": "1099283178383134720",
+            "text": "And blockchain topics/people are invading @IACReurocryptpic.twitter.com/SL6Xz9TiVP",
+            "username": "drakefjustin",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1099282913236082688": {
+            "id": "1099282913236082688",
+            "text": "Benjamin Wesolowski's work on VDFs earns him Eurocrypt 2019 \"Best Young Research Paper\". We likely wouldn't consider building a VDF ASIC if it wasn't for this breakthrough paper.pic.twitter.com/tFBCjHko5N",
+            "username": "drakefjustin",
+            "num_likes": 76,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1099240826272665601": {
+            "id": "1099240826272665601",
+            "text": "The 6 talks from VDF day (Feb 3, 2018) are available. Speakers are @danboneh, @Whyrusleeping, @drakefjustin, Benjamin Wesolowski, Erdinc Ozturk and @abhvious.https://www.youtube.com/playlist?list=PLaM7G4Llrb7y075mVXGmSABDP9Nb_PsBq\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 36,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1095482885027565569": {
+            "id": "1095482885027565569",
+            "text": "The blockchain community may reach rough consensus on lowering the Bitcoin block size to 300kB.\n\nBitcoin\u2014Great for Lightning! \nBitcoin Cash\u2014We dare you! \nOthers\u2014Unexpectedly fun development! ",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095379392925220864": {
+            "id": "1095379392925220864",
+            "text": "Which blockchains are *not* using (or planning to use) SHA256 for Merkleisation? I am aware Ethereum/Ethereum Classic/Monero use Keccak256, Ripple uses the first 256 bits of SHA512, and Polkadot is planning to use Blake2b.",
+            "username": "drakefjustin",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 5
+        },
+        "1095046888074723328": {
+            "id": "1095046888074723328",
+            "text": "Prompted by the Eth2.0 AMA to make BETH liquid in phases 0 and 1: a mechanism (to be removed in phase 2) for validators to transfer their balance on the beacon chain.https://github.com/ethereum/eth2.0-specs/pull/601\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 62,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1088424057417146368": {
+            "id": "1088424057417146368",
+            "text": "The Ethereum 2.0 Reddit AMA is on for the next 12 hours! Ask your questions herehttps://www.reddit.com/r/ethereum/comments/ajc9ip/ama_we_are_the_eth_20_research_team/\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 57,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "1086609758256283650": {
+            "id": "1086609758256283650",
+            "text": "VDFs have been known for 8 months only (3 independent papers published in June 2018). Now 10 blockchain projects are looking into them:\n\n@ethereum\n@MineFilecoin\n@ChiaNetworkInc\n@SolanaLabs\n@tezos\n@cosmos\n@ThunderProtocol\n@NearProtocol\n@poanetwork\n@InjectiveLabs",
+            "username": "drakefjustin",
+            "num_likes": 104,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1076826090839199745": {
+            "id": "1076826090839199745",
+            "text": "Rough back-of-the-envelope calculation suggests it costs about $1m in electricity to find a Mersenne prime. Someone should start a $10m Kickstarter project to build an ASIC orders of magnitude more power efficient than CPUs/GPUs. Bitcoin hardware manufacturers have the skills.",
+            "username": "drakefjustin",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "1074813944039178241": {
+            "id": "1074813944039178241",
+            "text": "ELI5: randomness in Ethereum 2.0 using a VDF\n\n100 people, one by one, (re)roll dice placed in a dark room. After the last person lights turn on, revealing a fair random number. The Verifiable Delay Function (VDF) ensures lights aren't turned on early.",
+            "username": "drakefjustin",
+            "num_likes": 127,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "1073938728698171392": {
+            "id": "1073938728698171392",
+            "text": "If I understand correctly the PETH holders currently take on tail risk for DAI, not MKR holders. The stability fee should be reduced to 0%, or someone should fork away MKR (similar to 0x and the ZRX token).https://twitter.com/RyanSAdams/status/1073648542680563712\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1072256800068644864": {
+            "id": "1072256800068644864",
+            "text": "Clarification! Two *totally different* things are known as \"Casper\". Casper FFG is a simple \"Finality Gadget\" for Ethereum 2.0. Casper CBC is an abstract family of \"Correct-By-Construction\" consensus protocols explored as a candidate design space for the Ethereum 3.0 consensus.",
+            "username": "drakefjustin",
+            "num_likes": 83,
+            "num_retweets": 22,
+            "num_replies": 7
+        },
+        "1070785586917711872": {
+            "id": "1070785586917711872",
+            "text": "We need more community feedback on interest/inflation in Ethereum 2.0.\n\nPersonal opinion: We should err on the side of caution with generous interest. Validator interest should be increased by 50%-100%. Inflation would remain below 1%.https://twitter.com/econoar/status/1070713152864583682\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 106,
+            "num_retweets": 30,
+            "num_replies": 23
+        },
+        "1067473971560542209": {
+            "id": "1067473971560542209",
+            "text": "I discuss Ethereum 2.0 and VDFs on the @epicenterbtc showhttps://www.youtube.com/watch?v=QDwaAnhSJk8\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 63,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1062374749785993217": {
+            "id": "1062374749785993217",
+            "text": "Devcon4 talk on Ethereum 2.0 randomness: RANDAO, VDF, RSA, MPC, ASIChttps://slideslive.com/38911623/ethereum-20-randomness\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 48,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1057981173555781632": {
+            "id": "1057981173555781632",
+            "text": "http://VDFresearch.org\u00a0 is up! And I will speak about Ethereum 2.0 randomness and VDFs at 16:20 Prague time in the Spectrum auditorium.",
+            "username": "drakefjustin",
+            "num_likes": 76,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1038364587995947008": {
+            "id": "1038364587995947008",
+            "text": "High-level sharding update in 25 minutes. Various cool concepts such as system/data/state separation, delay functions, honesty/rationality assumptions and committee sampling, attestations, Casper voting, crosslinks, proofs of custody, BLS signatures.https://youtu.be/J6xO7DH20Js\u00a0",
+            "username": "drakefjustin",
+            "num_likes": 71,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "1029225800489291776": {
+            "id": "1029225800489291776",
+            "text": "Ethereum 2.0 randomness using Verifiable Delay Functions (VDFs)https://docs.google.com/presentation/d/13OAGL42yzOvQUKvJJ0EBsAAne25yA7sv9RC8FfPhtyo/edit?usp=sharing\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 78,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "1025527704634974208": {
+            "id": "1025527704634974208",
+            "text": "Proof of custody video explanation and discussion complementing EthResearch https://ethresear.ch/t/1-bit-aggregation-friendly-custody-bonds/2236\u00a0\u2026https://www.youtube.com/watch?v=jRcS9D_gw_o\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1025099648778887168": {
+            "id": "1025099648778887168",
+            "text": "Verifiable Delay Function (VDF) reading list https://notes.ethereum.org/52JZtwErThe9KmN6TNd1lg\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 34,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1025040874386939904": {
+            "id": "1025040874386939904",
+            "text": "I will talk about VDFs and randomness beacons on August 3 (tomorrow) at 5:25pm ET and do a sharding AMA with @GetGitcoin http://gitcoin.co/livestream\u00a0",
+            "username": "drakefjustin",
+            "num_likes": 40,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1017444513550221312": {
+            "id": "1017444513550221312",
+            "text": "Here are the sharding slides I used at @TechCrunch in Zug and @ConsenSysIndia in Delhi. Also expect more tweets from me about sharding as the design matures :) https://ipfs.io/ipfs/QmSPZxh52unTy6aFHdKck3xyycsBLcuxvmZg2N2sr1Qmm7\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 35,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "915593786939633664": {
+            "id": "915593786939633664",
+            "text": "Do you have a privacy sticker on your laptop\u2019s webcam?",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "911185354606153729": {
+            "id": "911185354606153729",
+            "text": "Decentralised p2p marketplaces FTW @openbazaar @SwarmCityDApp @ParticlProject @district0x @Bitboostershttp://www.bbc.co.uk/news/uk-england-41358640\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 31,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "905411492476063744": {
+            "id": "905411492476063744",
+            "text": "Ethereum\n\nwhy? trustless (vs trusted)\nwhat? autonomous (vs automatic)\nhow? decentralised (vs centralised)",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "905164960061419520": {
+            "id": "905164960061419520",
+            "text": "Blockchain tech is the bridge from automation to autonomy",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "901755856701751298": {
+            "id": "901755856701751298",
+            "text": "Bitcoin's 1MB block limit and Ethereum's difficulty bomb are both pro-innovation forcing mechanisms for hard forks.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "900989620585943040": {
+            "id": "900989620585943040",
+            "text": "A market is like a democratic ballot where voting is continuous and weighted by capital at risk.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "898680741374173184": {
+            "id": "898680741374173184",
+            "text": "Another day another record. 24 hour volume in the crypto markets inching towards $9B!pic.twitter.com/2chftineCG",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "897953019161042944": {
+            "id": "897953019161042944",
+            "text": "The crypto markets have grown on average $1B *per day* for the last 110 days.pic.twitter.com/sIbTrb7NvI",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "897844611909013504": {
+            "id": "897844611909013504",
+            "text": "Bitcoin is a 2-dim blocktree where the constituent 1-dim blockchains (e.g. Core, Cash, 2x) are in a quantum-like superposition.",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "897494652449955840": {
+            "id": "897494652449955840",
+            "text": "Blockstream Satellite is... unexpected and cool! Bitcoin may be a viable currency should WW3 occur.",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "896297014165733376": {
+            "id": "896297014165733376",
+            "text": "You're a teen and don't understand blockchains? Start learning! Message me your Ethereum address and I'll send $1. This is your future.",
+            "username": "drakefjustin",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "896051950814347264": {
+            "id": "896051950814347264",
+            "text": "Total crypto market cap has reached an ATH at $125B\u2014when will it reach $1T?",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "894938268835471360": {
+            "id": "894938268835471360",
+            "text": "If you're in Cambridge (UK) and interested in blockchain tech (bitcoin, ethereum) please, please talk to me. I also give free crash courses.",
+            "username": "drakefjustin",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "891794470466985985": {
+            "id": "891794470466985985",
+            "text": "I want the MacBook Pro's Touch Bar to operate off a Secure Element to run cryptocurrency apps (e.g. wallets) with hardware-grade security.",
+            "username": "drakefjustin",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "889917441798811649": {
+            "id": "889917441798811649",
+            "text": "The only token sale I invested in was Ethereum. The next will be Filecoin. I want to support IPFS and the awesome @protocollabs team.",
+            "username": "drakefjustin",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "889753723236261888": {
+            "id": "889753723236261888",
+            "text": "Hey @myetherwallet. With your support issues, consider a MEW token to build a great decentralised support team. Stake MEW for reputation.",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "887789012664057856": {
+            "id": "887789012664057856",
+            "text": "Decentralised marketplaces funding:\n\n@openbazaar $4.2M\n@SwarmCityDApp $750K\n@ErosHQ $4.8M\n@district0x $6.2M\n@ParticlProject $750K",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "887549988343099392": {
+            "id": "887549988343099392",
+            "text": "That ETH would have higher 30d (and 7d and 1d) volume than BTC was unthinkable just last year http://coinmarketcap.com/currencies/volume/monthly/\u00a0\u2026pic.twitter.com/yyIhu8YaUO",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "886657124109086720": {
+            "id": "886657124109086720",
+            "text": "I want to be warned by email of login attempts with correct password but invalid or missing 2FA. Clear indication my password was pwned.",
+            "username": "drakefjustin",
+            "num_likes": 369,
+            "num_retweets": 158,
+            "num_replies": 16
+        },
+        "885876494748307456": {
+            "id": "885876494748307456",
+            "text": "The technical rabbit hole includes basic crypto, p2p networking, blockchains, DHTs, CRDTs, zk-SNARKs, formal verification, mechanism design",
+            "username": "drakefjustin",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "885530794005073921": {
+            "id": "885530794005073921",
+            "text": "libp2p + IPFS + Ethereum + ENS is the stack of choice for user-facing decentralised apps (I think)",
+            "username": "drakefjustin",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "884150553860820992": {
+            "id": "884150553860820992",
+            "text": "Regardless of delivery, ICOs will provide 2nd-order value through talent, code, tooling, outreach, education, best practices, anti-patterns.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "882334291694411776": {
+            "id": "882334291694411776",
+            "text": "\"Brilliant thinking is rare, but courage is in even shorter supply than genius.\" Peter Thiel",
+            "username": "drakefjustin",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "881829269755895808": {
+            "id": "881829269755895808",
+            "text": "Bitcoin monetary inflation is a bootstrap for fixed supply \u2192 gold\nEthereum ICO contribution selloff is a bootstrap for network effects \u2192 web",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "881640877579534337": {
+            "id": "881640877579534337",
+            "text": "21 of the top 25 crypto tokens use Ethereum http://coinmarketcap.com/assets/views/all/\u00a0\u2026pic.twitter.com/fkfvZGoHms",
+            "username": "drakefjustin",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "880860227096244224": {
+            "id": "880860227096244224",
+            "text": "Bitcoin's excess load pours into Ethereum. The symbiosis maintains Bitcoin in a usable-ish state, and simultaneously fuels Ethereum growth.",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "880424628019220480": {
+            "id": "880424628019220480",
+            "text": "About 10K ETH (~$3m) burnt so far to 0x000000000000000000000000000000000000dead by the Ethereum Name Service (ENS) https://etherscan.io/address/0x000000000000000000000000000000000000dead\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "880403599989329920": {
+            "id": "880403599989329920",
+            "text": "~50 signups for my Ethereum talk in Cambridge in less than a week. Only 100 seats available!https://www.eventbrite.co.uk/e/ethereumall-you-wanted-to-know-tickets-35590992617\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "880124284903071745": {
+            "id": "880124284903071745",
+            "text": "The Ethereum network is less than 2 years old. Joining today is joining (very) early.",
+            "username": "drakefjustin",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "879650362218741762": {
+            "id": "879650362218741762",
+            "text": "Decentralisation is not for its own sake. It's for control, privacy, trust, innovation, competition, freedom, resilience, robustness, reach.",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "879429610357870594": {
+            "id": "879429610357870594",
+            "text": "Company equity incentivises and aligns founders, investors and employees. Dapp tokens add users to the mix and blur the lines between roles.",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "878987456107995136": {
+            "id": "878987456107995136",
+            "text": "Moon math that could change the world: homomorphic encryption, zksnarks, program obfuscation",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "878968247265239042": {
+            "id": "878968247265239042",
+            "text": "If time is money then reproduction is money printing.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "878917748864241669": {
+            "id": "878917748864241669",
+            "text": "A (centralised) service for a decentralised app achieves greatness when it's just optional bandwidth and storage for data it cannot decrypt.",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "878909703476191232": {
+            "id": "878909703476191232",
+            "text": "The great news for entrepreneurs is web app decentralisation is (very) hard. Most problems are neither easy nor impossible. #ethereum #IPFS",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "878564130214604801": {
+            "id": "878564130214604801",
+            "text": "ICOs unlock circular economies within Ethereum. These internal flows are mutually reinforced  yielding a uniquely defensible network effect.",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "878248564350001152": {
+            "id": "878248564350001152",
+            "text": "Ethereum talk in Cambridge, UK on September 7https://www.eventbrite.co.uk/e/ethereumall-you-wanted-to-know-tickets-35590992617\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "878235041209266177": {
+            "id": "878235041209266177",
+            "text": "tx/day parity\u2014what took 7.5 years for Bitcoin takes 2 years for Ethereum. Ethereum poised to have 5x Bitcoin's transaction volume in a year.pic.twitter.com/yb3muPlxcO",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "878228867797864448": {
+            "id": "878228867797864448",
+            "text": "Just like motorways are exclusively for motor-driven vehicles (no horses), botways will exclusively be for bot-driven vehicles (no humans).",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "877631085185818624": {
+            "id": "877631085185818624",
+            "text": "Races (e.g. ICOs) are dual to timeouts (e.g. auctions). Races condense load, disrupting timeouts. Timeouts spread load, enabling races.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "877553984399183873": {
+            "id": "877553984399183873",
+            "text": "The ICO craze will create a talent crunch in the crypto space. Paying an Ethereum expert $500K/year may become the new normal.",
+            "username": "drakefjustin",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "876832576421474305": {
+            "id": "876832576421474305",
+            "text": "It took 1,211 days to reach 72,500 Blockstack IDs. Just 46 days for the Ethereum Name Service. That's 27x faster name registration.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "876707931005341696": {
+            "id": "876707931005341696",
+            "text": "Tokens leverage base Ether, like a base stock 'leverages' indexes.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "874242892071665664": {
+            "id": "874242892071665664",
+            "text": "8 geeks sitting next to me in the office now want to learn about Ethereum #itsHappening",
+            "username": "drakefjustin",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "874229065980547073": {
+            "id": "874229065980547073",
+            "text": "\"Ethereum puts time into computing\"\u2014a repost from April 2015https://medium.com/@justindrake/ethereum-puts-time-into-computing-7b444208bf3a\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "874208727397785601": {
+            "id": "874208727397785601",
+            "text": "The most amazing thing about the flippening is that Bitcoin is not even flinching. Amazing resilience.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "874178926909812736": {
+            "id": "874178926909812736",
+            "text": "A traditional p2p marketplace has buyer/seller network effects. Decentralisation adds developer, stakeholder and services network effects.",
+            "username": "drakefjustin",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "874178325073231873": {
+            "id": "874178325073231873",
+            "text": "Decentralisation as a topological change is powerful insofar that it primes for and unlocks novel network effects.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "874158919555448832": {
+            "id": "874158919555448832",
+            "text": "I am a crypto quasi-maximalist. I believe cryptocurrencies will follow the Pareto principle (largest with ~80% share, and then a long tail).",
+            "username": "drakefjustin",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "873922171327971329": {
+            "id": "873922171327971329",
+            "text": "Bitcoin's network effects are pushed offchain (exchanges, custodial wallets, LN, sidechains). Ethereum's network effects are rooted onchain.",
+            "username": "drakefjustin",
+            "num_likes": 103,
+            "num_retweets": 32,
+            "num_replies": 6
+        },
+        "873704961628098561": {
+            "id": "873704961628098561",
+            "text": "The \"build it and they will come\" fallacy applies to both products without marketing, and open-source projects without a community strategy.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "873700879647592448": {
+            "id": "873700879647592448",
+            "text": "A poorly documented protocol with a single reference client maintained by a single company is hardly an open protocol. open-source != open",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "873477994962190336": {
+            "id": "873477994962190336",
+            "text": "Ethereum's Patricia-Merkle tries for state, storage, transactions and receipts are awesome for light clients. Very underrated tech.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "873439542682021888": {
+            "id": "873439542682021888",
+            "text": "OpenBazaar cannot be successful on today's Bitcoin. There. I said it. The future of decentralised p2p marketplaces lies elsewhere.https://twitter.com/chrispacia/status/872302809491877888\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "873302485418618880": {
+            "id": "873302485418618880",
+            "text": "Decentralised p2p marketplace projects\u2014@openbazaar, @district0x, @Bitboosters, @ethPay, SafeMarket, ShadowMarket. Did I miss any?",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "872858652545347584": {
+            "id": "872858652545347584",
+            "text": "Crazy startup idea. Build an FPGA (then ASIC) sufficiently universal zkSNARK prover. Sell open blockchain privacy and scalability to banks.",
+            "username": "drakefjustin",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "872436276829532160": {
+            "id": "872436276829532160",
+            "text": "Message to my past teenage self: learn more crypto, game theory, economics, machine learning and public speaking.",
+            "username": "drakefjustin",
+            "num_likes": 264,
+            "num_retweets": 71,
+            "num_replies": 7
+        },
+        "872323705967390720": {
+            "id": "872323705967390720",
+            "text": "Some thoughts on the intersection of zksnarks and blockchain scalability. https://medium.com/@justindrake/zksnarks-and-blockchain-scalability-af85e350a93a\u00a0\u2026 #Bitcoin #Ethereum",
+            "username": "drakefjustin",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "872004773620404224": {
+            "id": "872004773620404224",
+            "text": "Bitcoin's full price graph over 7 years. Baseline growth (see bottom blue strip) is >0.3% *per day*. My bank yields <0.3% *per year*.pic.twitter.com/a1tsaqqCDe",
+            "username": "drakefjustin",
+            "num_likes": 231,
+            "num_retweets": 118,
+            "num_replies": 13
+        },
+        "871281871916761088": {
+            "id": "871281871916761088",
+            "text": "'Crypto is antifragile' is the new 'Bitcoin is antifragile'",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "871100730307903489": {
+            "id": "871100730307903489",
+            "text": "Insightful, clear and simple overview of zksnarks by @ethchris http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "870256437867548672": {
+            "id": "870256437867548672",
+            "text": "Bolt: Anonymous Payment Channels for Decentralized Currencies https://eprint.iacr.org/2016/701.pdf\u00a0 A possible future for decentralised p2p marketplaces.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "869537032208601088": {
+            "id": "869537032208601088",
+            "text": "Researcher @ElaineRShi thinking years ahead of the game with privacy-preserving smart contracts. Pre-Ethereum videohttps://www.youtube.com/watch?v=FQ6Hii69b5U\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "868123945563717632": {
+            "id": "868123945563717632",
+            "text": "Coining the word capp. Short for centralised app and pronounced 'sap'. The dual of dapp (short for decentralised app and pronounced 'dap').",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "868117004770848768": {
+            "id": "868117004770848768",
+            "text": "Just discovered the @BlockChannel podcast. Great interviews. Brilliant for crypto nerds ",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "868038761606729728": {
+            "id": "868038761606729728",
+            "text": "Timing: 80% doing it at the right time, 20% pacing it to fix bad timing. If early stay low and burn slow. If late VC jet fuel may save you.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "867766225631313920": {
+            "id": "867766225631313920",
+            "text": "A technical introduction to decentralised networks (covers libp2p, Bitcoin, Ethereum, IPFS and OpenBazaar)https://youtu.be/uqWWXeih12Q\u00a0",
+            "username": "drakefjustin",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "867374669061644288": {
+            "id": "867374669061644288",
+            "text": "Ethereum is an army of thousands of nerd devs with a vision, working on some of the most interesting problems of our time. #unstoppablepic.twitter.com/BYonGq56kg",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "866978647558807552": {
+            "id": "866978647558807552",
+            "text": "Humans love delegating decision making. Believers to gods. Employees to companies. Investors to entrepreneurs. Citizens to governments.",
+            "username": "drakefjustin",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "866624638352330752": {
+            "id": "866624638352330752",
+            "text": "27 of the top 38 crypto assets are built on Ethereum. That's about 71%. http://coinmarketcap.com/assets\u00a0 #ecosystem",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "866555751283781633": {
+            "id": "866555751283781633",
+            "text": "Ethereum raises collaboration to a first-class citizen. The tech unlocks the possibility for safe collaboration at Internet scales.",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "866550956397297664": {
+            "id": "866550956397297664",
+            "text": ".@ethereumJoseph cracked the Ethereum developer bootstrap problem. Taps directly into the dev pool of 100s of major enterprises. #genius",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "866362247962087430": {
+            "id": "866362247962087430",
+            "text": "Prediction: Ethereum will have a higher market cap, higher mining rewards and more transactions per day than Bitcoin in 2017.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "866361877588213760": {
+            "id": "866361877588213760",
+            "text": "Market cap is a proxy for adoption\nMining rewards are a proxy for security\nTransactions per day is a proxy for utility\n#blockchains",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "865552832748859393": {
+            "id": "865552832748859393",
+            "text": "rbitcoin \u2192 rbitcoinmarkets \u2192 rbtc \u2192 rethtrader \u2192 rethereum \u2192 ?\n\n#redditTravels",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "860832281405030400": {
+            "id": "860832281405030400",
+            "text": "Web apps \u2014 \"untested code is broken code\"\nEthereum dapps \u2014 \"not formally verified code is broken code\"",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "860784850613284864": {
+            "id": "860784850613284864",
+            "text": "That @haveibeenpwned does not send pwned passwords to the owner's email makes no sense to me.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "858233094972821504": {
+            "id": "858233094972821504",
+            "text": "My ideas incubate as intuitions, mulled over months. They suddenly crystallise when I'm questioned and/or when I spot an external pattern.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "857834134634467328": {
+            "id": "857834134634467328",
+            "text": "I hate giving investment advice but go buy $1 of Ether now. The learning you get today may be invaluable.",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "855035078346510338": {
+            "id": "855035078346510338",
+            "text": "The quality of the @ConsenSysLLC team is breathtaking. Congrats to whoever assembled this tribe!https://consensys.net/team\u00a0",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "855003054080479233": {
+            "id": "855003054080479233",
+            "text": "I invite the OpenBazaar community to comment on the OpenBazaar Foundation proposal on GitHubhttps://github.com/OpenBazaar/openbazaar-go/issues/513\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "852123354068918274": {
+            "id": "852123354068918274",
+            "text": "Assumptions\n\nMathematics assumes itself\nCryptography assumes computers\nGame theory assumes humans\nCryptoeconomics assumes computers & humans",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "851825617825914880": {
+            "id": "851825617825914880",
+            "text": "8/8 Duo is looking to raise a Series A round for a new trustless @OpenBazaar service. Investors DM me for details.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "851825366717091840": {
+            "id": "851825366717091840",
+            "text": "7/8 The role of companies will shift from building trusted applications to building trust-minimised services.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "851825249360412673": {
+            "id": "851825249360412673",
+            "text": "6/8 The p2p internet will exhibit strong separation of concerns between shared global apps (e.g. @OpenBazaar) and unbundled services.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "851825129055301632": {
+            "id": "851825129055301632",
+            "text": "5/8 The old internet's apps and services are bundled in products where control and profit too often conflict with innovation and privacy.",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "851825011216310273": {
+            "id": "851825011216310273",
+            "text": "4/8 App hosting and storage for the new p2p internet will also be p2p and decentralised leveraging technologies such as @IPFSbot.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "851824900159528964": {
+            "id": "851824900159528964",
+            "text": "3/8 The p2p consensus layers (e.g. Bitcoin, Ethereum) will become the trust bedrock for decentralised apps of the new p2p internet.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "851824796488880128": {
+            "id": "851824796488880128",
+            "text": "2/8 p2p transports such as @libp2p will overlay the old internet to form the transport layer of the new p2p internet.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "851824739198939136": {
+            "id": "851824739198939136",
+            "text": "1/8 The old internet will become the physical layer for the new peer-to-peer internet.",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "851787910881955841": {
+            "id": "851787910881955841",
+            "text": "A glorious stack:\n\nNetwork \u2192 operators\nConsensus \u2192 miners\nTransactions \u2192 users\nApplications \u2192 developpers\nServices \u2192 companies\n\n#blockchains",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "851018094424317952": {
+            "id": "851018094424317952",
+            "text": "Such actions boost decentralised marketplaces such as @openbazaarhttps://twitter.com/newsycombinator/status/850982342021828608\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "849486454715813890": {
+            "id": "849486454715813890",
+            "text": "OpenBazaar service providers coopete on one shared open marketplace.\n\nProprietary marketplace operators compete for isolated market shares.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "848675064123985920": {
+            "id": "848675064123985920",
+            "text": "Are you an Ethereum dev interested in decentralised trade? DM me!https://twitter.com/duosearch/status/845411016213180418\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "839044986247184384": {
+            "id": "839044986247184384",
+            "text": "15 years of innovation in decentralised networks\n\n2001 BitTorrent\n2002 Tor\n2003 Skype\n2008 Bitcoin\n2013 Ethereum\n2014 IPFS\n2015 OpenBazaar",
+            "username": "drakefjustin",
+            "num_likes": 154,
+            "num_retweets": 83,
+            "num_replies": 7
+        },
+        "836301292335149056": {
+            "id": "836301292335149056",
+            "text": "OpenBazaar's best technical design decision? Leveraging IPFS, hands down.",
+            "username": "drakefjustin",
+            "num_likes": 47,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "834685669423316992": {
+            "id": "834685669423316992",
+            "text": "Blockchain security design is an exercise in maximising cryptographic security and patching the gaps with next-best cryptoeconomic security.",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "827131733225140224": {
+            "id": "827131733225140224",
+            "text": "Top entrepreneur resources:\n\n- @peterthiel 0 to 1\n- @Stanford How to Start a Startup?\n- @pmarca interviews\n- @paulg essays\n- @a16z podcasts",
+            "username": "drakefjustin",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "825311356379336704": {
+            "id": "825311356379336704",
+            "text": "Excited to mentor bitcoin/blockchain projects at @Hack_Cambridge",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "807287845824135168": {
+            "id": "807287845824135168",
+            "text": "Another amazing talk by @juanbenethttps://www.youtube.com/watch?v=jONZtXMu03w\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "806464475457081344": {
+            "id": "806464475457081344",
+            "text": "Great talk by @muneeb about an internet without intermediaries. cc @openbazaarhttps://www.youtube.com/watch?list=PLvaRUGvjpFS2ciobOlOwMeVKDqO7S9ar6&v=qtOIh93Hvuw\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "782658739362992128": {
+            "id": "782658739362992128",
+            "text": "(from left to right) @drakefjustin, @aantonop and @ponli137 at #HCPP16pic.twitter.com/994qhbMXPm",
+            "username": "drakefjustin",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "775275439279439872": {
+            "id": "775275439279439872",
+            "text": "Technical specs and business plans are alike. They sharpen internal thinking and improve communication but are overlooked by small teams.",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "772513583783636995": {
+            "id": "772513583783636995",
+            "text": "OpenBazaar is 1% ideas, 99% implementation. It need more talented devs and entrepreneurs.",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "743904814023716864": {
+            "id": "743904814023716864",
+            "text": "Sophisticated hacks on #Ethereum contracts can instinctively be seen as bad. Like a child's first lie it is a sign of healthy development.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "743111249106489345": {
+            "id": "743111249106489345",
+            "text": "Is the Bitcoin mempool entering run-away growth? If so, the halving will only make things worse. Are you hedged?pic.twitter.com/65KnEWoYMr",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "733767281537388544": {
+            "id": "733767281537388544",
+            "text": "Four fun and rewarding crypto challenges for 2016-17:\n\n- Layer 2 (Lightning)\n- POS (Casper)\n- zk-SNARKs (Zcash)\n- Sharding (Ethereum)",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "732312197456666625": {
+            "id": "732312197456666625",
+            "text": "Prediction: soon after the halving #bitcoin's primary use will be to buy #ether.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "713117715716829186": {
+            "id": "713117715716829186",
+            "text": "The similarities between #Docker and #Ethereum as developer platforms/ecosystems/movements for mass innovation is striking.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "711603288806965249": {
+            "id": "711603288806965249",
+            "text": "Prediction: #Bitcoin will do R&D for the Lightning Network out of necessity, which #Ethereum will steal to deliver mainstream payments",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "706111303035830272": {
+            "id": "706111303035830272",
+            "text": "The ring signature mixer in Serenity PoC2 sounds amazing. #Ethereum https://blog.ethereum.org/2016/03/05/serenity-poc2/\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "705900655387516928": {
+            "id": "705900655387516928",
+            "text": "#Bitcoin's full blocks, Classic/Core schism and reward halving is perfect timing for #Ethereum to lead the future of decentralised consensus",
+            "username": "drakefjustin",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "702067882524545026": {
+            "id": "702067882524545026",
+            "text": "Please ask questions on the new OpenBazaar StackExchange proposal. http://area51.stackexchange.com/proposals/95881/openbazaar\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "697441708775186432": {
+            "id": "697441708775186432",
+            "text": "In the world of blockchains Ethereum is the ultimate hedge. It hedges against the failure of either Bitcoin or private blockchains. #ETH",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "675618802915221504": {
+            "id": "675618802915221504",
+            "text": "First ever #OpenBazaar meetup opens in London!http://www.meetup.com/openbazaar\u00a0",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "667310253088727040": {
+            "id": "667310253088727040",
+            "text": "The Cambridge Bitcoin ATM is being taken down to support @duo_money. In one year, we have sold ~\u00a315K worth of bitcoins to about 150 people.",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661763907120447488": {
+            "id": "661763907120447488",
+            "text": "If you don't own one dollar's worth of bitcoin, go educate yourself sooner rather later.",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "661455860200263680": {
+            "id": "661455860200263680",
+            "text": "The Bitcoin unicode sign: \u20bf",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "651696966397743104": {
+            "id": "651696966397743104",
+            "text": "Banks responding to Bitcoin with their own blockchains is like taxi companies responding to Uber with their own apps. #LOL",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "632301728642154496": {
+            "id": "632301728642154496",
+            "text": "Introducing Duo Money to The App Guy. http://www.theappguy.co/the-app-guy-podcast/2015/7/8/tagp338-justin-drake\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "630307316718505984": {
+            "id": "630307316718505984",
+            "text": ".@arthurbrooks Uber and AirBNB (the companies) are problems to be solved! How do we decentralise the service operator? #Bitcoin #Ethereum",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "626772710694219776": {
+            "id": "626772710694219776",
+            "text": "To a new area of computing and organisations, decentralised and trustless! #ethereum",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "620167883730124800": {
+            "id": "620167883730124800",
+            "text": "I generally avoid giving investment advice, but go buy $1 of Bitcoin now! The learning you get today could be invaluable for the future.",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "615457497365807104": {
+            "id": "615457497365807104",
+            "text": "Greeks on \u20ac60/day cash limit at ATMs, and banned from bank transactions outside of the country. Regain monetary sovereignty! #Bitcoin",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "607843911059558400": {
+            "id": "607843911059558400",
+            "text": "The @DoLectures were amazing! Thanks for having me.pic.twitter.com/7umnjHUM64",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "605152450564255744": {
+            "id": "605152450564255744",
+            "text": "20% of the 2015 @anthemisfellows applications mention #Bitcoin or #Blockchain. Slowly but surely gaining mindshare.",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "594473084058529793": {
+            "id": "594473084058529793",
+            "text": ".@anjiecast is a super sharp mind in the Bitcoin space. https://www.youtube.com/watch?v=drPkfGUZBqY&feature=youtu.be\u00a0\u2026 #WomenInBitcoin #Bitcoin",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "593361298710208512": {
+            "id": "593361298710208512",
+            "text": ".@FidorUK Do you have access to Faster Payments?",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "592221705164165120": {
+            "id": "592221705164165120",
+            "text": "3$ to @RedCross in support of the #NepalQuakeRelief. @ChangeTip",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "591842946384789505": {
+            "id": "591842946384789505",
+            "text": "A blockchain is a dynamic Merkle tree of blocks and a strongest path choice function. The hard bit is the choice function, clearly. #bitcoin",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "588805307666595841": {
+            "id": "588805307666595841",
+            "text": "My first big article citation! \"[Ethereum is a] computational universe with true time dimensionality\" http://thenextweb.com/insider/2015/04/16/bitcoin-is-the-worlds-most-dangerous-idea/?utm_content=Bitcoin%20is%20the%20world%E2??s%20most%20dangerous%20idea&awesm=tnw.to_q3NAp&utm_medium=referral&utm_campaign=share%20button&utm_source=t.co\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "587393443627831296": {
+            "id": "587393443627831296",
+            "text": "Describing @eris_ltd in one sentence, by Nick Szabo (@NickSzabo4) http://unenumerated.blogspot.com.au/2014/12/the-dawn-of-trustworthy-computing.html\u00a0\u2026pic.twitter.com/dRFTTHIoEF",
+            "username": "drakefjustin",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "585981792538140672": {
+            "id": "585981792538140672",
+            "text": "Ethereum puts time into computing http://bitcoin-consultants.co.uk/post#ethereum-puts-time-into-computing\u00a0\u2026 #Ethereum #Blockchain #Computing #Time #Bitcoin",
+            "username": "drakefjustin",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "555749970671071232": {
+            "id": "555749970671071232",
+            "text": "On March 5th, @eris_ltd will give an intro to Thelonius and the Decerver in Cambridge, UK. http://www.meetup.com/CambridgeBitcoin/events/219853003/\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "550265363829915648": {
+            "id": "550265363829915648",
+            "text": "Happy 2015! #tiramisu #bitcoinpic.twitter.com/Da6a2gHFFo",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "545569970433056769": {
+            "id": "545569970433056769",
+            "text": "Any update on the two-day #Fidor #cryptocurrency #bank workshop? http://cryptocurrency-bank.com\u00a0 @FrankJSchwab",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "543374612814635009": {
+            "id": "543374612814635009",
+            "text": "The creator of Node.js starred my Node ES6 examples. :) #ES6 #node https://github.com/JustinDrake/node-es6-examples\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "531126684167471104": {
+            "id": "531126684167471104",
+            "text": "Cambridge, UK is buzzing! #Bitcoin #Decentralisation #Cambridge #Entrepreneurship #FutureOfMoneyhttp://www.reddit.com/r/Bitcoin/comments/2lnwan/cambridge_uk_is_buzzing/\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "527889062666194944": {
+            "id": "527889062666194944",
+            "text": "In three hours, Cambridge's first Bitcoin ATM sold ~\u00a3450 worth of Bitcoin to ~20 people! #Bitcoin #adoption #Cambridge",
+            "username": "drakefjustin",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "525629769153798144": {
+            "id": "525629769153798144",
+            "text": "Cambridge's first Bitcoin vending machine available at @StJohnsCentre! #BTCATM",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "523191213533704192": {
+            "id": "523191213533704192",
+            "text": "We're launching the first Bitcoin ATM in Cambridge, UK. Come join us! http://www.meetup.com/CambridgeBitcoin/events/214000242/\u00a0\u2026 @lamassu #Bitcoin #ATM #Cambridge",
+            "username": "drakefjustin",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "520117967477280768": {
+            "id": "520117967477280768",
+            "text": "Vitalik from Ethereum is coming to Cambridge! http://www.meetup.com/CambridgeBitcoin/events/212012602/\u00a0\u2026 #DecentraliseAllTheThings #Ethereum #Bitcoin",
+            "username": "drakefjustin",
+            "num_likes": 10,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "484622826482458625": {
+            "id": "484622826482458625",
+            "text": "Interesting typo \"No country party risk in Bitcoin\". #BitFin @niccary",
+            "username": "drakefjustin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "481827299419897856": {
+            "id": "481827299419897856",
+            "text": "Cambridge city butcher decides to accept bitcoins http://www.cambridge-news.co.uk/Business/Business-News/Cambridge-city-butcher-decides-to-accept-bitcoins-20140624100045.htm\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "477442590800101376": {
+            "id": "477442590800101376",
+            "text": "Cambridge UK Bitcoin event on Monday (33 signed up so far)http://www.meetup.com/CambridgeBitcoin/events/181888312/\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "415202632500658176": {
+            "id": "415202632500658176",
+            "text": "Cambridge Bitcoin meetup has been created!http://meetup.com/CambridgeBitcoin\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "42388370252513282": {
+            "id": "42388370252513282",
+            "text": "First time tweet ever for me!",
+            "username": "drakefjustin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "mitDCI": 1,
+        "zeroknowledgefm": 1,
+        "maxwellsfoley": 1,
+        "icebearhww": 1,
+        "MineFilecoin": 2,
+        "dannyryan": 3,
+        "bramcohen": 1,
+        "VitalikButerin": 7,
+        "StarkWareLtd": 1,
+        "sinahab": 1,
+        "duosearch": 28,
+        "newsycombinator": 15,
+        "TuurDemeester": 4,
+        "matthewdif": 1,
+        "naval": 1,
+        "juanbenet": 1,
+        "AmelieCornelis": 1,
+        "openbazaar": 9,
+        "davalb": 1,
+        "avsa": 1,
+        "golang": 1,
+        "reason": 1,
+        "kunogoda": 1,
+        "ToneVays": 1,
+        "SatoshiLite": 2,
+        "ryaneshea": 1,
+        "EdanYago": 2,
+        "el33th4xor": 2,
+        "Snowden": 5,
+        "DiarioBitcoin": 1,
+        "FEhrsam": 2,
+        "Bubble_Gum_Tate": 1,
+        "aantonop": 12,
+        "Hacm9": 1,
+        "openbazaarnews": 1,
+        "nytimes": 1,
+        "JonTorrens": 1,
+        "ethereum": 3,
+        "ErikVoorhees": 6,
+        "jgarzik": 5,
+        "DoLectures": 2,
+        "gavinandresen": 3,
+        "a_greenberg": 1,
+        "stephantual": 1,
+        "robustus": 1,
+        "barrysilbert": 3,
+        "kristovatlas": 1,
+        "JamieJBartlett": 1,
+        "Coinsecure": 1,
+        "danwlin": 1,
+        "jimmy_wales": 2,
+        "Zerodium": 1,
+        "wences": 1,
+        "WayneVaughan": 1,
+        "alliecoyne": 1,
+        "kashhill": 1,
+        "ChrisGiles_": 1,
+        "go_interstellar": 1,
+        "Schuldensuehner": 1,
+        "NickSzabo4": 5,
+        "DougBlackAB": 1,
+        "peterktodd": 2,
+        "HelpSnowden": 1,
+        "chrisXBT": 1,
+        "adam3us": 1,
+        "Beautyon_": 1,
+        "nejc_kodric": 1,
+        "21dotco": 1,
+        "TheEconomist": 1,
+        "CasaArgentinaAR": 1,
+        "coindesk": 2,
+        "pwuille": 1,
+        "elonmusk": 1,
+        "oleganza": 3,
+        "GavinHolland77": 1,
+        "alansilbert": 1,
+        "jerrybrito": 1,
+        "niccary": 1,
+        "coinbase": 1,
+        "chamath": 1,
+        "WSJmarkets": 1,
+        "dan_pantera": 1,
+        "spair": 1,
+        "ArthurLevitt": 1,
+        "lopp": 1,
+        "jonmatonis": 1,
+        "adamludwin": 1,
+        "msantoriESQ": 1,
+        "KonradSGraf": 1,
+        "maxkeiser": 1,
+        "BenLawsky": 1,
+        "BitPay": 1,
+        "brucefenton": 2,
+        "BitcoinRat": 1,
+        "Cointelegraph": 1,
+        "CambsOpenMedia": 1,
+        "kenshishido": 1,
+        "orionwl": 1,
+        "nvk": 1,
+        "gelenbe": 1,
+        "Kroener_M": 1,
+        "GluuFederation": 1,
+        "annairrera": 1,
+        "PayPal": 2,
+        "pickover": 1,
+        "TriciaLockwood": 1,
+        "MichaelDell": 1,
+        "anthemis": 1,
+        "rogerkver": 1,
+        "Satoshi_N_": 1,
+        "InPayTo": 1,
+        "OverstockCEO": 1,
+        "GreenClouds4": 1,
+        "CompSciFact": 1,
+        "LeaVerou": 1,
+        "tom7": 1,
+        "donpdonp": 1,
+        "romancortes": 1
+    },
+    "users_retweeted": [
+        "duosearch",
+        "newsycombinator",
+        "aantonop",
+        "openbazaar",
+        "VitalikButerin",
+        "ErikVoorhees",
+        "Snowden",
+        "jgarzik",
+        "NickSzabo4",
+        "TuurDemeester",
+        "dannyryan",
+        "ethereum",
+        "gavinandresen",
+        "barrysilbert",
+        "oleganza",
+        "MineFilecoin",
+        "SatoshiLite",
+        "EdanYago",
+        "el33th4xor",
+        "FEhrsam",
+        "DoLectures",
+        "jimmy_wales",
+        "peterktodd",
+        "coindesk",
+        "brucefenton",
+        "PayPal",
+        "mitDCI",
+        "zeroknowledgefm",
+        "maxwellsfoley",
+        "icebearhww",
+        "bramcohen",
+        "StarkWareLtd",
+        "sinahab",
+        "matthewdif",
+        "naval",
+        "juanbenet",
+        "AmelieCornelis",
+        "davalb",
+        "avsa",
+        "golang",
+        "reason",
+        "kunogoda",
+        "ToneVays",
+        "ryaneshea",
+        "DiarioBitcoin",
+        "Bubble_Gum_Tate",
+        "Hacm9",
+        "openbazaarnews",
+        "nytimes",
+        "JonTorrens",
+        "a_greenberg",
+        "stephantual",
+        "robustus",
+        "kristovatlas",
+        "JamieJBartlett",
+        "Coinsecure",
+        "danwlin",
+        "Zerodium",
+        "wences",
+        "WayneVaughan",
+        "alliecoyne",
+        "kashhill",
+        "ChrisGiles_",
+        "go_interstellar",
+        "Schuldensuehner",
+        "DougBlackAB",
+        "HelpSnowden",
+        "chrisXBT",
+        "adam3us",
+        "Beautyon_",
+        "nejc_kodric",
+        "21dotco",
+        "TheEconomist",
+        "CasaArgentinaAR",
+        "pwuille",
+        "elonmusk",
+        "GavinHolland77",
+        "alansilbert",
+        "jerrybrito",
+        "niccary",
+        "coinbase",
+        "chamath",
+        "WSJmarkets",
+        "dan_pantera",
+        "spair",
+        "ArthurLevitt",
+        "lopp",
+        "jonmatonis",
+        "adamludwin",
+        "msantoriESQ",
+        "KonradSGraf",
+        "maxkeiser",
+        "BenLawsky",
+        "BitPay",
+        "BitcoinRat",
+        "Cointelegraph",
+        "CambsOpenMedia",
+        "kenshishido",
+        "orionwl",
+        "nvk",
+        "gelenbe",
+        "Kroener_M",
+        "GluuFederation",
+        "annairrera",
+        "pickover",
+        "TriciaLockwood",
+        "MichaelDell",
+        "anthemis",
+        "rogerkver",
+        "Satoshi_N_",
+        "InPayTo",
+        "OverstockCEO",
+        "GreenClouds4",
+        "CompSciFact",
+        "LeaVerou",
+        "tom7",
+        "donpdonp",
+        "romancortes"
+    ]
+}

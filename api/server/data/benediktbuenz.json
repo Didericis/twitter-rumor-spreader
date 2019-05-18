@@ -1,0 +1,1164 @@
+{
+    "is_complete": true,
+    "username": "benediktbuenz",
+    "retweeted": {
+        "1118933141014466560": {
+            "id": "1118933141014466560",
+            "text": "Check out our cryptographic accumulators in Rust, implemented over RSA and ideal class groups!https://github.com/cambrian/accumulator\u00a0\u2026",
+            "username": "CambrianDev",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1118746365956198400": {
+            "id": "1118746365956198400",
+            "text": "We have some discussion of performance here: https://github.com/cambrian/accumulator/pull/35\u00a0\u2026. Using optimized class groups has about a 10-20x overhead compared to the RSA group. We also have benchmarks in the repo that can be run using 'cargo bench' ",
+            "username": "mstrakastrak",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1113322318485426176": {
+            "id": "1113322318485426176",
+            "text": "We've released the ZEXE codebase on Github!https://github.com/scipr-lab/zexe\u00a0",
+            "username": "1HowardWu",
+            "num_likes": 200,
+            "num_retweets": 68,
+            "num_replies": 6
+        },
+        "1080156749330472960": {
+            "id": "1080156749330472960",
+            "text": "Zero-knowledge proofs for attestation: https://www.imperialviolet.org/2019/01/01/zkattestation.html\u00a0\u2026",
+            "username": "agl__",
+            "num_likes": 153,
+            "num_retweets": 58,
+            "num_replies": 4
+        },
+        "1096000389458071553": {
+            "id": "1096000389458071553",
+            "text": "The Monero and Zcash communities should talk to each other more.\n\nFor example, Monero's \"burning bug\" (https://www.getmonero.org/2018/09/25/a-post-mortum-of-the-burning-bug.html\u00a0\u2026) was known as \"faerie gold vulnerability\" in Zerocash at least 3 years earlier (https://github.com/zcash/zcash/issues/98\u00a0\u2026), and fixed before Zcash went live.",
+            "username": "real_or_random",
+            "num_likes": 73,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "1100842715095449600": {
+            "id": "1100842715095449600",
+            "text": "EOS failed to build a Byzantine fault tolerant blacklist, so someone stole $7+M.https://breakermag.com/heres-how-the-2-09-million-eos-hack-really-happened/\u00a0\u2026",
+            "username": "el33th4xor",
+            "num_likes": 1101,
+            "num_retweets": 437,
+            "num_replies": 72
+        },
+        "1100928250543431680": {
+            "id": "1100928250543431680",
+            "text": "Zether provides a simple API to \u2018add\u2019 a meaningful level of privacy to several important DApps. Joint work with @benediktbuenz @mahdizami @danbonehhttps://twitter.com/IACRePrint/status/1100237241157369856\u00a0\u2026",
+            "username": "sha2nk_",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1093635795896791045": {
+            "id": "1093635795896791045",
+            "text": "The Zcash Foundation's newest team member is @hdevalence, coming on as Principal Cryptographic Researcher!https://www.zfnd.org/blog/henry-de-valence/\u00a0\u2026",
+            "username": "ZcashFoundation",
+            "num_likes": 91,
+            "num_retweets": 25,
+            "num_replies": 5
+        },
+        "1092120538259038209": {
+            "id": "1092120538259038209",
+            "text": "#OnThisDay 1978: The British public were not impressed at the prospect of switching from miles to kilometres.pic.twitter.com/ubieUxCuuJ",
+            "username": "BBCArchive",
+            "num_likes": 7183,
+            "num_retweets": 2955,
+            "num_replies": 533
+        },
+        "1092149039527649280": {
+            "id": "1092149039527649280",
+            "text": "Missed the Stanford Blockchain Conference? Want to revisit your favorite talk? Fear not: you can rewatch the live stream! Day1: https://www.youtube.com/watch?v=XckwEw8FyEA\u00a0\u2026 Day 2: https://www.youtube.com/watch?v=sQOfnsW6PTY\u00a0\u2026 Day 3: https://www.youtube.com/watch?v=U5fEvfAFs_o\u00a0\u2026 . We will also put up post edited videos of the talks later.",
+            "username": "CBRStanford",
+            "num_likes": 41,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "1091878849653010433": {
+            "id": "1091878849653010433",
+            "text": "We should have a social agreement that any bulletproofs T-shirt must actually be bulletproof. Mainly because I'd love to attend a conference and get a bulletproof shirt as swag.",
+            "username": "VitalikButerin",
+            "num_likes": 72,
+            "num_retweets": 8,
+            "num_replies": 9
+        },
+        "1091120278736760832": {
+            "id": "1091120278736760832",
+            "text": "I'm happy to announce Sonic, a new zero-knowledge SNARK developed in collaboration with Mary Maller, Markulf Kohlweiss and Sarah Meiklejohn. https://ia.cr/2019/099\u00a0",
+            "username": "ebfull",
+            "num_likes": 426,
+            "num_retweets": 158,
+            "num_replies": 10
+        },
+        "1077003639347208197": {
+            "id": "1077003639347208197",
+            "text": "About 9.5% of all of the active \u201cBitcoin Private\u201d (BTCP) coins were secretly generated by the devs, i.e. counterfeit money, effectively stealing from all holders of the coin. http://Coinmetrics.io\u00a0 discovered the con: https://coinmetrics.io/bitcoin-private/\u00a0\u2026 Way to go, @kgannib etal!",
+            "username": "zooko",
+            "num_likes": 595,
+            "num_retweets": 178,
+            "num_replies": 30
+        },
+        "1077581636999495680": {
+            "id": "1077581636999495680",
+            "text": "The program for the Stanford Blockchain Conference (formerly BPASE) is out. We had a record number of submissions (120) this year and were able to put together a great program. Check it out at https://cyber.stanford.edu/sbc19\u00a0",
+            "username": "CBRStanford",
+            "num_likes": 97,
+            "num_retweets": 42,
+            "num_replies": 4
+        },
+        "1076256957663768576": {
+            "id": "1076256957663768576",
+            "text": "Excited that our paper, \u201cLearning a SAT Solver from Single-bit Supervision\u201d (Daniel Selsam, @benediktbuenz, @percyliang, Leonardo de Moura and David Dill) has been accepted at  @iclr2019:https://openreview.net/forum?id=HJMC_iA5tm\u00a0\u2026",
+            "username": "MatthewRLamm",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1072269579689222144": {
+            "id": "1072269579689222144",
+            "text": "Even faster Edwards curves with IFMA:https://medium.com/@hdevalence/even-faster-edwards-curves-with-ifma-8b1e576a00e9\u00a0\u2026",
+            "username": "hdevalence",
+            "num_likes": 45,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "1060331053364142081": {
+            "id": "1060331053364142081",
+            "text": "Step by step instructions for entering Chia's VDF competition. Real cash prizes for good hackeryhttps://medium.com/@chia_network/chia-vdf-competition-guide-5382e1f4bd39\u00a0\u2026",
+            "username": "bramcohen",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "1052626279474835456": {
+            "id": "1052626279474835456",
+            "text": "Seeing a lot of talks at #ccs18 being given by advisors because the first author couldn't get a visa in time. Surprising (and disappointing!) \u2013 I thought that Canada was better about this.",
+            "username": "moyix",
+            "num_likes": 30,
+            "num_retweets": 7,
+            "num_replies": 6
+        },
+        "1050879212750397441": {
+            "id": "1050879212750397441",
+            "text": "I want to recognize the fact that cryptography has entered the renaissance era. Exciting times.https://oleganza.com/all/renaissance-of-cryptography/\u00a0\u2026",
+            "username": "oleganza",
+            "num_likes": 402,
+            "num_retweets": 153,
+            "num_replies": 8
+        },
+        "1049060544198504448": {
+            "id": "1049060544198504448",
+            "text": "I spent some very interesting days at Scaling Bitcoin. All talks are online, including mine on multi-signatures.https://twitter.com/dfinityexplorer/status/1048994480110559234\u00a0\u2026",
+            "username": "gregoryneven",
+            "num_likes": 82,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1050784271852539904": {
+            "id": "1050784271852539904",
+            "text": "Through Class Groups!\nGroups of unknown order without a trusted setup.https://github.com/Chia-Network/vdf-competition\u00a0\u2026",
+            "username": "zmanian",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1050419787522695168": {
+            "id": "1050419787522695168",
+            "text": "Any strong developers out there looking to get involved in a super cool project? Come find me or @EdFelten after the talk today!https://twitter.com/OffchainLabs/status/1050413716582354944\u00a0\u2026",
+            "username": "sgoldfed",
+            "num_likes": 19,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1050102100414394368": {
+            "id": "1050102100414394368",
+            "text": "I'm not crying, you're cryingpic.twitter.com/Q47dcWOFh7",
+            "username": "CitiusMag",
+            "num_likes": 1165,
+            "num_retweets": 388,
+            "num_replies": 15
+        },
+        "1045046896769658881": {
+            "id": "1045046896769658881",
+            "text": "I think it is easy to underestimate how radical WhatsApp\u2019s decision to deploy E2E was. Acton and Koum, with Zuck\u2019s blessing, jumped off a bridge with the goal of building a monetization parachute on the way down. (9/13)",
+            "username": "alexstamos",
+            "num_likes": 174,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "1042882497208451072": {
+            "id": "1042882497208451072",
+            "text": "If you are in the Bay Area, join us next week for @pwuille's talk on \"Taproot, Graftroot and G'root\"\nhttps://cbr.stanford.edu/seminar.html\u00a0",
+            "username": "CBRStanford",
+            "num_likes": 47,
+            "num_retweets": 17,
+            "num_replies": 5
+        },
+        "1034915058898350081": {
+            "id": "1034915058898350081",
+            "text": "I defended my PhD thesis today. I\u2019m incredibly grateful to my advisor @random_walker for providing me with unbounded support and opportunities and to my family for their constant love. I\u2019ll miss @PrincetonCITP but I\u2019m very excited to begin a postdoc at @cornell_tech/ @initc3org.",
+            "username": "sgoldfed",
+            "num_likes": 134,
+            "num_retweets": 4,
+            "num_replies": 19
+        },
+        "1034907302472699909": {
+            "id": "1034907302472699909",
+            "text": "This week's @zeroknowledgefm has the awesome @benediktbuenz on talking about Bulletproofs and Verifiable Delay Functions http://www.zeroknowledge.fm/40\u00a0 - we recorded this on the hottest day of the year in Berlin and the episode turned out baked to perfection :) cc @fredhrson",
+            "username": "AnnaRRose",
+            "num_likes": 24,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1029550602404200454": {
+            "id": "1029550602404200454",
+            "text": "BOLT software release would not be possible without support from the @ZcashFoundation, @matthew_d_green and @secparam. BOLT also builds on bn lib and bulletproofs. Thanks to @ebfull , @hdevalence, @isislovecruft and others for their work! This is just the beginning...https://twitter.com/mineZcash/status/1029531839818620928\u00a0\u2026",
+            "username": "ja_akinyele",
+            "num_likes": 157,
+            "num_retweets": 49,
+            "num_replies": 10
+        },
+        "1027259622909009920": {
+            "id": "1027259622909009920",
+            "text": "ANNOUNCING... 2 days, 250 of your fave #crypto people, and no hype. talks by @starkness @ljxie @AmberBaldet @bitcoinlady @stacyherbert @_jillruth @jutta_steiner @_tessr @iam_preethi @AlyseKilleen and more. oct 2-4 inPalm Springs\n\njoin us! tix <$1k \nhttp://www.cryptosprings.org/\u00a0pic.twitter.com/PtvkUIvkUp",
+            "username": "Melt_Dem",
+            "num_likes": 210,
+            "num_retweets": 49,
+            "num_replies": 33
+        },
+        "1026795940131295234": {
+            "id": "1026795940131295234",
+            "text": "Follow Natalie in Berlin!\n#Repost strava with get_repost\n\u30fb\u30fb\u30fb\nTakeover alert! Tomorrow nattanner will be taking over our story from the european.championships in Berlin. @stravatrackclub\u2026 https://www.instagram.com/p/BmLSla6l6W-/?utm_source=ig_twitter_share&igshid=146gkyrjtig5t\u00a0\u2026",
+            "username": "peninsuladc",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1024734532002435072": {
+            "id": "1024734532002435072",
+            "text": "#ePrint Tight Proofs of Space and Replication: B Fisch https://ia.cr/2018/702\u00a0",
+            "username": "IACR_News",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1024641890157817856": {
+            "id": "1024641890157817856",
+            "text": "The three documents of the ZKProof Standards Workshop have now been published - http://zkproof.org/documents.html\u00a0 We want to thank all of the participants, the sponsors and the track chairs for their contributions.",
+            "username": "zkproof",
+            "num_likes": 61,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "1020081478670082048": {
+            "id": "1020081478670082048",
+            "text": "Our two years of hard work distributing zkSNARKs now enables computations of up to billions of logical gates (100x larger than previous state-of-the-art work)! Stay tuned for our release of the DIZK library!https://twitter.com/IACR_News/status/1019946478628982784\u00a0\u2026",
+            "username": "1HowardWu",
+            "num_likes": 278,
+            "num_retweets": 83,
+            "num_replies": 3
+        },
+        "1019691552384352257": {
+            "id": "1019691552384352257",
+            "text": "On @TheDailyShow , @Trevornoah called the @FrenchTeam 's World Cup win an \"African victory.\" Read Ambassador @GerardAraud 's response:pic.twitter.com/KR0kFOxDOw",
+            "username": "franceintheus",
+            "num_likes": 11577,
+            "num_retweets": 3913,
+            "num_replies": 664
+        },
+        "1018682645000216576": {
+            "id": "1018682645000216576",
+            "text": "#ePrint PoReps: Proofs of Space on Useful Data: B Fisch https://ia.cr/2018/678\u00a0",
+            "username": "IACR_News",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1017778795133140992": {
+            "id": "1017778795133140992",
+            "text": "A genealogy of zero knowledge c/o Prof. Jens Groth. The guy you never heard of behind snarks and bullet proofs.pic.twitter.com/PGbTeRBG8d",
+            "username": "secparam",
+            "num_likes": 93,
+            "num_retweets": 19,
+            "num_replies": 5
+        },
+        "1014921157139558400": {
+            "id": "1014921157139558400",
+            "text": "Being a PhD student is a job.\n\nThe student becomes an apprentice for 3-6 years, and learns by doing research. \n\nThe student is paid a stipend in exchange for doing research. \n\nThis is different from a BS or a MS degree, where the student pays tuition fees to the university.https://twitter.com/Mantia/status/1013559718759956481\u00a0\u2026",
+            "username": "vj_chidambaram",
+            "num_likes": 403,
+            "num_retweets": 91,
+            "num_replies": 19
+        },
+        "1014578637897691136": {
+            "id": "1014578637897691136",
+            "text": "This week, we cover #Zcon0 !! Find out what went down through our interviews with these wonderful folks:  @antoniehodge @valkenburgh @liz315 @ja_akinyele @awasunyin @hudsonjameson @benediktbuenz @agoric @str4d @nicolagreco @zookohttp://www.zeroknowledge.fm/32\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 41,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1013141946720837632": {
+            "id": "1013141946720837632",
+            "text": "@Fly_Norwegian I booked flight DI7015 that got cancelled. There has been 0 guidance on how we can get home. Is there any plan in place? Terrible customer service",
+            "username": "Rob_Morhard",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1012159398460952576": {
+            "id": "1012159398460952576",
+            "text": "I am putting Verifiable Delay Functions in everything from now on.",
+            "username": "matthew_d_green",
+            "num_likes": 65,
+            "num_retweets": 7,
+            "num_replies": 7
+        },
+        "1011136583863537664": {
+            "id": "1011136583863537664",
+            "text": "BLS signatures and how awesome they are (especially for Bitcoin):https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716\u00a0\u2026",
+            "username": "StepanSnigirev",
+            "num_likes": 227,
+            "num_retweets": 91,
+            "num_replies": 8
+        },
+        "1010612676530196480": {
+            "id": "1010612676530196480",
+            "text": "Football is a simple game, 22 men chase the ball for 82 minutes and the Germans get a player sent off so 21 men chase the ball for 13 minutes and at the end the Germans somehow fucking win.",
+            "username": "GaryLineker",
+            "num_likes": 195352,
+            "num_retweets": 63158,
+            "num_replies": 2993
+        },
+        "1009144242311127041": {
+            "id": "1009144242311127041",
+            "text": "I'm deeply disappointed at White House policies that separate children from parents. No one wants illegal immigration, but cruelty to children is unethical and we cannot justify it as \"deterrence.\" I am a proud immigrant, and have faith in the US to be better than this.",
+            "username": "AndrewYNg",
+            "num_likes": 3633,
+            "num_retweets": 710,
+            "num_replies": 49
+        },
+        "1009199463871799297": {
+            "id": "1009199463871799297",
+            "text": "An easy-to-read summary on @benediktbuenz @benafisch @josephbonneau @danboneh's latest work on VDFs and why they're useful:https://thedigest.substack.com/p/thedigest-0\u00a0",
+            "username": "glambeth94",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1006133953156304897": {
+            "id": "1006133953156304897",
+            "text": "I was asked to contribute to a series on the lack of women coaches in sport:https://www.stuff.co.nz/sport/other-sports/104615237/nick-willis-hey-sceptics-my-wife-is-my-coach-not-a-kind-of-glorified-cheerleader#comments\u00a0\u2026",
+            "username": "nickwillis",
+            "num_likes": 437,
+            "num_retweets": 138,
+            "num_replies": 12
+        },
+        "1003618897805889537": {
+            "id": "1003618897805889537",
+            "text": "simple-bulletproof-js (secp256k1). https://github.com/omershlo/simple-bulletproof-js\u00a0\u2026 @benediktbuenz.",
+            "username": "OmerShlomovits",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "992144763376685056": {
+            "id": "992144763376685056",
+            "text": "A great topic for today, but scheduled for May 9th: \u201cHostile Blockchain Takeovers,\" presented by @josephbonneau. Join us. You know you want to.https://www.youtube.com/watch?v=9BDIl9cYshI\u00a0\u2026",
+            "username": "zcashco",
+            "num_likes": 53,
+            "num_retweets": 22,
+            "num_replies": 12
+        },
+        "993513782419783681": {
+            "id": "993513782419783681",
+            "text": "WATCH: Harvard sprinter Gabby Thomas overcame a crazy deficit to edge out an Olympian in a 4x400-meter relay https://on.si.com/2KHApIL\u00a0pic.twitter.com/CY1llT5oW3",
+            "username": "SInow",
+            "num_likes": 284,
+            "num_retweets": 96,
+            "num_replies": 7
+        },
+        "991711548895834113": {
+            "id": "991711548895834113",
+            "text": "Thrilled to announce that The Hydra project for cryptoeconomic contract security and decentralized security bounties (http://thehydra.io\u00a0) will appear at USENIX Security 18.\n\nLet's prove smart contracts enable *entirely new security techniques*, not only applications of old!pic.twitter.com/8ReKsrRgvS",
+            "username": "phildaian",
+            "num_likes": 69,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "989230066847580160": {
+            "id": "989230066847580160",
+            "text": "Bullish on Westcoinhttps://twitter.com/kanyewest/status/989184815340535808\u00a0\u2026",
+            "username": "IrwanBello",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "988835275605504000": {
+            "id": "988835275605504000",
+            "text": "1/ It's long since time the bitcoin community spent a ton more effort on recruiting and ensuring underrepresented groups (incl women and especially folks with a different background) feel welcome in the community.",
+            "username": "TheBlueMatt",
+            "num_likes": 217,
+            "num_retweets": 37,
+            "num_replies": 29
+        },
+        "984885685277507584": {
+            "id": "984885685277507584",
+            "text": "Ever wondered how zero-knowledge proofs work? This write-up requires only the basic knowledge of algebra to understand how Bulletproofs work. Crypto is not that magical, after all! https://doc-internal.dalek.rs/ristretto_bulletproofs/notes/index.html\u00a0\u2026",
+            "username": "oleganza",
+            "num_likes": 309,
+            "num_retweets": 94,
+            "num_replies": 6
+        },
+        "985964405589495814": {
+            "id": "985964405589495814",
+            "text": "Worst punditry ever? #Yukipic.twitter.com/AwjeuZDtOt",
+            "username": "xempouk",
+            "num_likes": 504,
+            "num_retweets": 147,
+            "num_replies": 24
+        },
+        "984890720191426561": {
+            "id": "984890720191426561",
+            "text": "this Ristretto Bulletproofs infographic by @oleganza is amazingly cyberpunk afpic.twitter.com/0tn6KljJRI",
+            "username": "isislovecruft",
+            "num_likes": 131,
+            "num_retweets": 43,
+            "num_replies": 3
+        },
+        "984879915483873280": {
+            "id": "984879915483873280",
+            "text": "Excited to share what I\u2019ve been working on with @cathieyun and @oleganza: a fast, pure-Rust, SIMD-accelerated Bulletproofs implementation, that can verify a 64-bit rangeproof in just over a millisecond.https://blog.chain.com/faster-bulletproofs-with-ristretto-avx2-29450b4490cd\u00a0\u2026",
+            "username": "hdevalence",
+            "num_likes": 130,
+            "num_retweets": 49,
+            "num_replies": 5
+        },
+        "984672039859400704": {
+            "id": "984672039859400704",
+            "text": "Fiat and Shamir performing a Bulletproofs rangeproof protocol.pic.twitter.com/GT0M1Q8s3Q",
+            "username": "oleganza",
+            "num_likes": 44,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "972208962278797312": {
+            "id": "972208962278797312",
+            "text": "At Chia we've been working on a BLS implementation. Going with BLS12-381 but swapping the curves so it's 48 byte public keys. Not yet implemented optimizations should speed things up a lot. Hoping to get it polished and make a BIP for Bitcoin",
+            "username": "bramcohen",
+            "num_likes": 79,
+            "num_retweets": 13,
+            "num_replies": 7
+        },
+        "969608824742187009": {
+            "id": "969608824742187009",
+            "text": "The zkSTARK \"academic\" codebase is here! https://github.com/elibensasson/libSTARK\u00a0\u2026 Permissive open source licence.",
+            "username": "zooko",
+            "num_likes": 182,
+            "num_retweets": 76,
+            "num_replies": 4
+        },
+        "968144800947081216": {
+            "id": "968144800947081216",
+            "text": "New blog post, a writeup about tech behind Bulletproofs https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/\u00a0\u2026\n\nMany thanks for any corrections.",
+            "username": "waxwing__",
+            "num_likes": 50,
+            "num_retweets": 26,
+            "num_replies": 2
+        },
+        "968088282457354240": {
+            "id": "968088282457354240",
+            "text": "IOTA is broken not because there are numerous attacks (which there are). But because there is no security claim. The IOTA DAG/tangle whitepaper does not even have a definition of security, the most basic prerequisite in modern cryptography. 1/",
+            "username": "dionyziz",
+            "num_likes": 520,
+            "num_retweets": 211,
+            "num_replies": 45
+        },
+        "967079630854291456": {
+            "id": "967079630854291456",
+            "text": "Travel advisory: Germans in Canada should exercise a high degree of empathy. Be nice, don\u2019t gloat, give hugs, buy rounds of hot chocolate.\n\nJust imagine how you would feel if Canada beat us in soccer \n  \n#CANGER @TeamD @CanadaFP @GermanyInCanada @KanadaBotschaftpic.twitter.com/0HlHoxMA7E",
+            "username": "GermanyDiplo",
+            "num_likes": 43046,
+            "num_retweets": 19452,
+            "num_replies": 1514
+        },
+        "966484355962032133": {
+            "id": "966484355962032133",
+            "text": "A blog post about #Bulletproofs, their performance, applications, and history by Andrew Poelstra (cc @benediktbuenz): https://blockstream.com/2018/02/21/bulletproofs-faster-rangeproofs-and-much-more.html\u00a0\u2026",
+            "username": "pwuille",
+            "num_likes": 344,
+            "num_retweets": 129,
+            "num_replies": 7
+        },
+        "963889055342649344": {
+            "id": "963889055342649344",
+            "text": "Also related to Neural Combinatorial Optimization is NeuroSAT: learning a SAT solver from single bit supervision https://arxiv.org/pdf/1802.03685.pdf\u00a0\u2026 by Daniel Selsam et al (@benediktbuenz).",
+            "username": "IrwanBello",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "959505097649569792": {
+            "id": "959505097649569792",
+            "text": "\"I'm gonna talk about bullet proofs - not to be confused with proof-of-bullets, the consensus mechanism used by fiat currencies.\"",
+            "username": "mrauchs",
+            "num_likes": 139,
+            "num_retweets": 40,
+            "num_replies": 1
+        },
+        "959223126964883457": {
+            "id": "959223126964883457",
+            "text": "My talk on Verifiable Delay Functions at #BPASE18 @benediktbuenz @josephbonneauhttps://www.youtube.com/watch?v=qUoagL7OZ1k&t=534s\u00a0\u2026",
+            "username": "benafisch",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "955651919279722496": {
+            "id": "955651919279722496",
+            "text": "\u2513\u250f\u2513\u250f\u2513\u2503\n\u251b\u2517\u251b\u2517\u251b\u2503\uff3c\u25cb\uff0f\n\u2513\u250f\u2513\u250f\u2513\u2503   /     CRYPTO\n\u251b\u2517\u251b\u2517\u251b\u2503\u30ce)\n\u2513\u250f\u2513\u250f\u2513\u2503         STANDS\n\u251b\u2517\u251b\u2517\u251b\u2503 \n\u2513\u250f\u2513\u250f\u2513\u2503         FOR\n\u251b\u2517\u251b\u2517\u251b\u2503 \n\u2513\u250f\u2513\u250f\u2513\u2503        CRYPTOGR\n\u2503\u2503\u2503\u2503\u2503\u2503               a p h y y y\n\u253b\u253b\u253b\u253b\u253b\u253b",
+            "username": "sarahjeong",
+            "num_likes": 3865,
+            "num_retweets": 1094,
+            "num_replies": 65
+        },
+        "954379477483634688": {
+            "id": "954379477483634688",
+            "text": "We're super excited to have @benediktbuenz speak about Bulletproofs @SFBitcoinDevs on January 29th! https://www.meetup.com/SF-Bitcoin-Devs/events/246954865/\u00a0\u2026 #AwesomeTech",
+            "username": "_DeniseTerry",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1123878740973506564": {
+            "id": "1123878740973506564",
+            "text": "RSA time lock puzzle has been opened!https://twitter.com/huitseeker/status/1123649591713226752\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1118643224887697408": {
+            "id": "1118643224887697408",
+            "text": "The great and very talented folks from Cambrian Labs have implemented accumulators with both a Class Group and an RSA interface. And yes of course it's in Rust! Go check it out here:https://github.com/cambrian/accumulator\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 85,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "1113845109492031489": {
+            "id": "1113845109492031489",
+            "text": "O(1) labs is using recursive SNARKs to build a constant size/ constant time to download and check blockchain. One of the coolest projects out there! They raised some money to do this but more importantly you can now build on Coda and help contribute in many new ways:https://twitter.com/CodaProtocol/status/1113834225906532353\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 65,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1113274505776885760": {
+            "id": "1113274505776885760",
+            "text": "Learn more about class groups and how they can be used for accumulators without trusted setup in this blog post by @mstrakastrakhttps://twitter.com/mstrakastrak/status/1113152164661088256\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1108082803730636800": {
+            "id": "1108082803730636800",
+            "text": "We posted an updated version to the accumulator paper: https://eprint.iacr.org/2018/1188\u00a0. Now with non-interactive aggregation of exclusion proofs and vector commitment openings. Also a more efficient way to use accumulators and vector commitments in the account model. @benafisch @danboneh",
+            "username": "benediktbuenz",
+            "num_likes": 69,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "1106402002475479040": {
+            "id": "1106402002475479040",
+            "text": "My friend Trevor told me a cool new pi fact today: i^i=e^(-pi/2)~0.208",
+            "username": "benediktbuenz",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1101281775320358915": {
+            "id": "1101281775320358915",
+            "text": "AFAIK @grinMW and @beamprivacy are set up to use Flyclient today and other currencies can add it through a soft or an even more lightweight velvet fork (no consensus necessary)",
+            "username": "benediktbuenz",
+            "num_likes": 24,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1101246669541105664": {
+            "id": "1101246669541105664",
+            "text": "Lucianna\u2019s Twitter: @lululixious",
+            "username": "benediktbuenz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1101241316007063552": {
+            "id": "1101241316007063552",
+            "text": "Many optimizations since I gave a talk on this at Scaling Bitcoin",
+            "username": "benediktbuenz",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1101241113262776321": {
+            "id": "1101241113262776321",
+            "text": "New paper with Lucianna Kiffer (joint first author), @loi_luu, @mahdi_zamani_ on Flyclient. Super light clients for PoW chains. You only need to download O(log(n)) block headers. We prove that our scheme is \u201coptimal\u201d. For Ethereum 3.6GB-> 500kb. https://eprint.iacr.org/2019/226\u00a0",
+            "username": "benediktbuenz",
+            "num_likes": 135,
+            "num_retweets": 41,
+            "num_replies": 13
+        },
+        "1100426933081276418": {
+            "id": "1100426933081276418",
+            "text": "Joint work with @sha2nk_ @mahdizami and @danboneh",
+            "username": "benediktbuenz",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100421602800414720": {
+            "id": "1100421602800414720",
+            "text": "Many applications: Sealed bid auctions, confidential payment channels, stake voting (for small groups) and privacy preserving proof of stake. We also have an extension to Zether which adds some Monero style anonymity (Full anonymity is hard in account systems).",
+            "username": "benediktbuenz",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1100420033925177345": {
+            "id": "1100420033925177345",
+            "text": "Our new paper is finally on Eprint. We construct a confidential payment system on top of Ethereum. It works with Ethereum today and is compatible with other smart contracts. The techniques apply to account based payments in general. Also: extension to BP called Sigma-Bulletshttps://twitter.com/IACRePrint/status/1100237241157369856\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 103,
+            "num_retweets": 36,
+            "num_replies": 3
+        },
+        "1098409370105274368": {
+            "id": "1098409370105274368",
+            "text": "What is a SNARK?\nn=size of the statement\nI have seen\no(n) proof size\nlog(n) proof size\nO(1) proof size\nSame as above but proof size + verification time\nAny of the above but with trusted setup\nA pairing based protocol akin to GGPR based on knowledge assumptions\na fictional animal",
+            "username": "benediktbuenz",
+            "num_likes": 47,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "1098336534342774784": {
+            "id": "1098336534342774784",
+            "text": "When will we have the YAVDF paper? Seriously though it's amazing how many constructions already exist. I am sure that we haven't seen the end of it. A \"simple\" VDF with full quantum security for example is still open. Great work and congrats!https://twitter.com/asanso/status/1098316560320614401\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1097315874346803202": {
+            "id": "1097315874346803202",
+            "text": "Dale Boca!https://twitter.com/chuno_aizenberg/status/1097309816328998912\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092631184859848706": {
+            "id": "1092631184859848706",
+            "text": "Agreed. We wrote a paper after the Mtgox hack on how to efficiently do this with ZK proofs: https://eprint.iacr.org/2015/1008\u00a0 it should be much more efficient these days with new zk proofs like Bulletproofs, Hyrax, SNARKs, STARKs...https://twitter.com/Snyke/status/1092453292708429825\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 50,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1092150573133049856": {
+            "id": "1092150573133049856",
+            "text": "My talk at #SBC19 about our new accumulator paper is online:https://youtu.be/XckwEw8FyEA?t=20280\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 54,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1091840657725960192": {
+            "id": "1091840657725960192",
+            "text": "Screw blockchains the fashion industry is where Bulletproofs will have the largest impact.https://twitter.com/cathieyun/status/1091823705955524608\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 50,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1087187465448841216": {
+            "id": "1087187465448841216",
+            "text": "This Brady kid is good at football",
+            "username": "benediktbuenz",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1084871776834711552": {
+            "id": "1084871776834711552",
+            "text": "CoinDesk wrote an article about @benafisch, Dan and my paper on accumulators as well as @tdryja\u2018s utreexo.https://twitter.com/coindesk/status/1084420661525778432\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 38,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1072600503874478080": {
+            "id": "1072600503874478080",
+            "text": "New paper on batching techniques for accumulators. Applications to stateless blockchains (miners only need 2kb digest to store the entire UTXOs) and shorter STARKs/Aurora. Also new succinct proofs for groups of unknown order: https://eprint.iacr.org/2018/1188\u00a0 Joint work: @benafisch & Dabo",
+            "username": "benediktbuenz",
+            "num_likes": 270,
+            "num_retweets": 78,
+            "num_replies": 13
+        },
+        "1068027465799393280": {
+            "id": "1068027465799393280",
+            "text": "Treasury \u201cbans\u201d two bitcoin addresses. Something something privacy coins: https://home.treasury.gov/news/press-releases/sm556\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1061683154027597824": {
+            "id": "1061683154027597824",
+            "text": "Grateful to have received a scholarship from the ZCash Foundation for my research on Cryptocurrencies and Zero-Knowledge proofs! Especially big thanks to @ZcashFoundation\u2019s flexibility in accepting an unusual grant proposal.https://twitter.com/ZcashFoundation/status/1060967343071744000\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 158,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1060690653414219776": {
+            "id": "1060690653414219776",
+            "text": "Look they wrote a thing about the thing which implements the thing that we wrote and which builds on previous thingshttps://twitter.com/cathieyun/status/1060685430603960320\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 25,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053492174627565568": {
+            "id": "1053492174627565568",
+            "text": "This is amazing!https://twitter.com/xmarghhhpirate/status/1053440797603901440\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1053004799363317761": {
+            "id": "1053004799363317761",
+            "text": "https://twitter.com/monero/status/1052939409392365568\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1053004455572992000": {
+            "id": "1053004455572992000",
+            "text": "On the Monero podcast todayhttps://twitter.com/MoneroTalk/status/1052919688005644288\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1050884596730982400": {
+            "id": "1050884596730982400",
+            "text": "Submission to the Stanford Blockchain Conference closes in 4 days: https://cyber.stanford.edu/sbc19\u00a0",
+            "username": "benediktbuenz",
+            "num_likes": 31,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1048439542674481152": {
+            "id": "1048439542674481152",
+            "text": "Watch my talk on Accumulators and Vector Commitments for Blockchains and IOPs(STARKs) in 45 minutes:\nhttps://tokyo2018.scalingbitcoin.org/live\u00a0\n#ScalingBitcoin",
+            "username": "benediktbuenz",
+            "num_likes": 48,
+            "num_retweets": 15,
+            "num_replies": 6
+        },
+        "1046450985864814592": {
+            "id": "1046450985864814592",
+            "text": "Good to know that the British government and I approach deadlines in the same wayhttps://nyti.ms/2QiHiCk?smid=nytcore-ios-share\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1045741258243694592": {
+            "id": "1045741258243694592",
+            "text": "In 19 days Bulletproofs will be deployed on Monero: http://xmr.noctism.com/\u00a0",
+            "username": "benediktbuenz",
+            "num_likes": 240,
+            "num_retweets": 42,
+            "num_replies": 9
+        },
+        "1037733664484876293": {
+            "id": "1037733664484876293",
+            "text": "How does Accept+2*WeakAccept=Reject? Feels like some recalibration is needed... #NIPSMath #NIPS2018",
+            "username": "benediktbuenz",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1030578383858495489": {
+            "id": "1030578383858495489",
+            "text": "Same! https://twitter.com/izmeckler/status/1030485014431952896\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1026099630201872384": {
+            "id": "1026099630201872384",
+            "text": "TFW your bike fork hard forkspic.twitter.com/zjITWOr8UR",
+            "username": "benediktbuenz",
+            "num_likes": 26,
+            "num_retweets": 0,
+            "num_replies": 5
+        },
+        "1024043326050316290": {
+            "id": "1024043326050316290",
+            "text": "Dan Boneh @benafisch  and I wrote a small survey about the recently published VDFs by Pietrzak and Wesolowski showing how one of them can be instantiated without a trusted setup and comparing their security assumptions: https://crypto.stanford.edu/~dabo/pubs/papers/VDFsurvey.pdf\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 64,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1020286310106345472": {
+            "id": "1020286310106345472",
+            "text": "https://wabetainfo.com/whatsapp-beta-for-android-2-18-204-whats-new/#more-3314\u00a0\u2026 Suspicious link detection in WhatsApp. Serious question, how are they going to do it if their messages are encrypted? A local model? With what data is it trained? Also what would they do about adversarial examples? Cc:@matthew_d_green",
+            "username": "benediktbuenz",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "1018709512033787904": {
+            "id": "1018709512033787904",
+            "text": "I can personally attest how much work went into it but the result is quite useful, just like proofs of replications (PoReps)https://twitter.com/benafisch/status/1018402844414656512\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 21,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1017589890144337922": {
+            "id": "1017589890144337922",
+            "text": "The call for papers for the Stanford Blockchain Conference 2019 (formerly known as BPASE) is up: https://cyber.stanford.edu/sbc19\u00a0 \nPlease retweet, submit papers and attend!",
+            "username": "benediktbuenz",
+            "num_likes": 193,
+            "num_retweets": 121,
+            "num_replies": 5
+        },
+        "1017488578161471488": {
+            "id": "1017488578161471488",
+            "text": "If you happen to find yourself in TelAviv on Wednesday drop by: https://www.meetup.com/bitcoin-il/events/252703051/\u00a0\u2026 #Meetup #TelAviv-Yafo via @Meetup",
+            "username": "benediktbuenz",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1014251953101025280": {
+            "id": "1014251953101025280",
+            "text": "An England that can shoot penalties is scary... @MattLeach_",
+            "username": "benediktbuenz",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1012710481541226496": {
+            "id": "1012710481541226496",
+            "text": "Perhaps the first isogeny related meme in the world.https://twitter.com/hdevalence/status/903724495302647808\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1012072831587319808": {
+            "id": "1012072831587319808",
+            "text": "When I got on stage Germany was still in the world cup, once I got off we weren't  #GERKOR #Zcon0https://twitter.com/ZcashFoundation/status/1011997448896745473\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1010931790087847938": {
+            "id": "1010931790087847938",
+            "text": "https://engineering.stanford.edu/news/stanford-computer-scientists-launch-center-blockchain-research\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 36,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1008802241246126080": {
+            "id": "1008802241246126080",
+            "text": "New paper: Verifiable Delay Functions (https://eprint.iacr.org/2018/601.pdf\u00a0)\nJoint work with @benafisch @josephbonneau and Dan Boneh. To appear at CRYPTO 2018",
+            "username": "benediktbuenz",
+            "num_likes": 120,
+            "num_retweets": 42,
+            "num_replies": 4
+        },
+        "1004593305995259904": {
+            "id": "1004593305995259904",
+            "text": "New paper: Designing Core-Selecting Payment Rules: A computational search approach. To appear at EC 18 https://ssrn.com/abstract=3178454\u00a0\u2026\nTLDR We study complex auctions that are used to sell spectrum for LTE/5G. We design better auctions by computing equilibria and using an automated search",
+            "username": "benediktbuenz",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1001588562645499904": {
+            "id": "1001588562645499904",
+            "text": "Plus the main benefit: they are super elegant!",
+            "username": "benediktbuenz",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1001574545034113024": {
+            "id": "1001574545034113024",
+            "text": "BLS and blockchains seem to be a perfect match:   1st: N signers of 1 transaction= 1 signature, 1 pk and ex post aggregation! 2nd N signers N transactions= N pks and 1 signature. 3rd N pks subset signs= Description of subset + 1 sig +1 pk https://eprint.iacr.org/2018/483.pdf\u00a0",
+            "username": "benediktbuenz",
+            "num_likes": 41,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "992518904005017601": {
+            "id": "992518904005017601",
+            "text": "Somehow my brain thought that it said share a coke with a ledger... it clearly needs some blockchain cleansing.pic.twitter.com/QeKPNApUDB",
+            "username": "benediktbuenz",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "984891984241246208": {
+            "id": "984891984241246208",
+            "text": "Work by @oleganza @hdevalence @cathieyun !",
+            "username": "benediktbuenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "984889021191962624": {
+            "id": "984889021191962624",
+            "text": "Rusty bullets from chain:https://blog.chain.com/faster-bulletproofs-with-ristretto-avx2-29450b4490cd\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 51,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "983184631703920641": {
+            "id": "983184631703920641",
+            "text": "My recent talk about Bitcoin,cryptocurrencies, Lightning Network and confidential transaction @ Cafe Sci Stanford Blood Center (@giveblood) is online: https://www.youtube.com/watch?v=p-S9Rw-lhSU&list=PLiR173OLxau6in3KapitR_kB_UXORU4AT&index=1\u00a0\u2026 This fills the void of hour long introductory blockchain talks delivered with a German accent.",
+            "username": "benediktbuenz",
+            "num_likes": 48,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "974460965684068352": {
+            "id": "974460965684068352",
+            "text": "Having an amazing coach @dizneenahttps://twitter.com/runinrabbit/status/974440476370640896\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "974085255220027392": {
+            "id": "974085255220027392",
+            "text": "I'll be speaking at Cafe Sci in Palo Alto next week. It's organized by the Stanford Blood Center so before you come you should go and @giveblood !https://twitter.com/giveblood/status/972207864365248512\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "972007884736249857": {
+            "id": "972007884736249857",
+            "text": "My great friend Aidan is running 65km on March 17th to raise money for cystic fibrosis research. Aidan and his brother suffer from this chronic lung disease. Aidan is a true inspiration and you can donate to support him: https://65kmforcf.everydayhero.com/au/aidan\u00a0\nBitcoin: https://blockchain.info/address/1Aidan2NnED4weMaK3qCpEMYSF5KAAgAUX\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "971861482358165505": {
+            "id": "971861482358165505",
+            "text": "Gates Office 490 at work again. Cool research by Florian Tramer and IC3 on how to arbitrage gas price fluctuations.https://twitter.com/phildaian/status/971781982849064960\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "966725307775373317": {
+            "id": "966725307775373317",
+            "text": "Presenting at Frontier Conf on 4/11https://twitter.com/frontiersf/status/966721926621151232\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "961470526479740928": {
+            "id": "961470526479740928",
+            "text": "It has also been peer-reviewed and will officially be appear in the proceedings of @IEEESSP 2018 (Oakland).",
+            "username": "benediktbuenz",
+            "num_likes": 44,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "961468224230473728": {
+            "id": "961468224230473728",
+            "text": "New version of the Bulletproofs paper is online: https://crypto.stanford.edu/bulletproofs/\u00a0 . Greatly expanded the evaluation section. BPs are now implemented in libsecp256k1. Amazing work by Andrew Poelstra and @pwuille . Batch verifying 16 aggregate range proofs=16 ECDSA signatures (It's fast)",
+            "username": "benediktbuenz",
+            "num_likes": 548,
+            "num_retweets": 206,
+            "num_replies": 18
+        },
+        "958851406345072640": {
+            "id": "958851406345072640",
+            "text": "Above average research by Stanford Applied Crypto group member and my office mate Ben Fisch! Also welcome to the twittersphere it's a warm and cozy place out here.https://twitter.com/benafisch/status/958849737662242816\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "958502192159145984": {
+            "id": "958502192159145984",
+            "text": "Video of my BPASE talk on #bulletproofs is online:https://www.youtube.com/watch?v=gZjDKgR4dw8&feature=youtu.be\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 65,
+            "num_retweets": 32,
+            "num_replies": 2
+        },
+        "937864665022971904": {
+            "id": "937864665022971904",
+            "text": "Verifying myself: I am buenz on Keybase.io. 5Jx8DxA0j3nbC__Bq_U08CZnWnZ_JZ2-Bymy / https://keybase.io/buenz/sigs/5Jx8DxA0j3nbC__Bq_U08CZnWnZ_JZ2-Bymy\u00a0\u2026",
+            "username": "benediktbuenz",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "930572673285021696": {
+            "id": "930572673285021696",
+            "text": "I guess I am doing twitter now... Check out my new websitehttps://crypto.stanford.edu/~buenz/\u00a0",
+            "username": "benediktbuenz",
+            "num_likes": 62,
+            "num_retweets": 12,
+            "num_replies": 4
+        }
+    },
+    "num_retweets_by_originator": {
+        "CambrianDev": 1,
+        "mstrakastrak": 1,
+        "1HowardWu": 2,
+        "agl__": 1,
+        "real_or_random": 1,
+        "el33th4xor": 1,
+        "sha2nk_": 1,
+        "ZcashFoundation": 1,
+        "BBCArchive": 1,
+        "CBRStanford": 3,
+        "VitalikButerin": 1,
+        "ebfull": 1,
+        "zooko": 2,
+        "MatthewRLamm": 1,
+        "hdevalence": 2,
+        "bramcohen": 2,
+        "moyix": 1,
+        "oleganza": 3,
+        "gregoryneven": 1,
+        "zmanian": 1,
+        "sgoldfed": 2,
+        "CitiusMag": 1,
+        "alexstamos": 1,
+        "AnnaRRose": 1,
+        "ja_akinyele": 1,
+        "Melt_Dem": 1,
+        "peninsuladc": 1,
+        "IACR_News": 2,
+        "zkproof": 1,
+        "franceintheus": 1,
+        "secparam": 1,
+        "vj_chidambaram": 1,
+        "zeroknowledgefm": 1,
+        "Rob_Morhard": 1,
+        "matthew_d_green": 1,
+        "StepanSnigirev": 1,
+        "GaryLineker": 1,
+        "AndrewYNg": 1,
+        "glambeth94": 1,
+        "nickwillis": 1,
+        "OmerShlomovits": 1,
+        "zcashco": 1,
+        "SInow": 1,
+        "phildaian": 1,
+        "IrwanBello": 2,
+        "TheBlueMatt": 1,
+        "xempouk": 1,
+        "isislovecruft": 1,
+        "waxwing__": 1,
+        "dionyziz": 1,
+        "GermanyDiplo": 1,
+        "pwuille": 1,
+        "mrauchs": 1,
+        "benafisch": 1,
+        "sarahjeong": 1,
+        "_DeniseTerry": 1
+    },
+    "users_retweeted": [
+        "CBRStanford",
+        "oleganza",
+        "1HowardWu",
+        "zooko",
+        "hdevalence",
+        "bramcohen",
+        "sgoldfed",
+        "IACR_News",
+        "IrwanBello",
+        "CambrianDev",
+        "mstrakastrak",
+        "agl__",
+        "real_or_random",
+        "el33th4xor",
+        "sha2nk_",
+        "ZcashFoundation",
+        "BBCArchive",
+        "VitalikButerin",
+        "ebfull",
+        "MatthewRLamm",
+        "moyix",
+        "gregoryneven",
+        "zmanian",
+        "CitiusMag",
+        "alexstamos",
+        "AnnaRRose",
+        "ja_akinyele",
+        "Melt_Dem",
+        "peninsuladc",
+        "zkproof",
+        "franceintheus",
+        "secparam",
+        "vj_chidambaram",
+        "zeroknowledgefm",
+        "Rob_Morhard",
+        "matthew_d_green",
+        "StepanSnigirev",
+        "GaryLineker",
+        "AndrewYNg",
+        "glambeth94",
+        "nickwillis",
+        "OmerShlomovits",
+        "zcashco",
+        "SInow",
+        "phildaian",
+        "TheBlueMatt",
+        "xempouk",
+        "isislovecruft",
+        "waxwing__",
+        "dionyziz",
+        "GermanyDiplo",
+        "pwuille",
+        "mrauchs",
+        "benafisch",
+        "sarahjeong",
+        "_DeniseTerry"
+    ]
+}

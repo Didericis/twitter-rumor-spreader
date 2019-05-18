@@ -1,0 +1,922 @@
+{
+    "is_complete": true,
+    "username": "SolidStamp",
+    "retweeted": {
+        "1085210844483457024": {
+            "id": "1085210844483457024",
+            "text": "Ahead of the upcoming #Constantinople hardfork, please make sure that your contract doesn't become vulnerable to reentrancy attacks due to the lowered gas costs.\n\nGreat work by the @chain_security team:https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9\u00a0\u2026",
+            "username": "HRitzdorf",
+            "num_likes": 37,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1080291038470627328": {
+            "id": "1080291038470627328",
+            "text": "1/ It's easy to underestimate the sheer amount of talent working on solutions to Ethereum's challenges. The smart contract security community alone has grown to hundreds of devs and researchers.",
+            "username": "muellerberndt",
+            "num_likes": 48,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1076096502005727234": {
+            "id": "1076096502005727234",
+            "text": "Cryptocurrency value comes both from the protocol and the social layer - great explanation by @hasuflhttps://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9\u00a0\u2026",
+            "username": "jakublipinski",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1061231857516363776": {
+            "id": "1061231857516363776",
+            "text": "Smart contract audits need to include much more detail on scope and specification. What's useful to users is to know what has been checked and certified. Violations / vulnerabilities are mostly for developers to fix.\n\n@chain_security @ZeppelinOrg @trailofbits @ConsenSys",
+            "username": "ptsankov",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1062356819778134016": {
+            "id": "1062356819778134016",
+            "text": "NDAs are bad for crypto security. If you\u2019re creating an open source protocol why would I sign an NDA as a security auditor when I audit it? The results of an audit for an open source project should be open source too.",
+            "username": "DeanEigenmann",
+            "num_likes": 121,
+            "num_retweets": 16,
+            "num_replies": 5
+        },
+        "1059784399959527424": {
+            "id": "1059784399959527424",
+            "text": "We enjoyed auditing @BokkyPooBah's red black binary tree and EIP 777 and talking with @sigp_io @Quantstamp, @SolidStamp, BeakerOS and others. Thanks for participating in Solidified CTF and thanks to @web3foundation for hosting!pic.twitter.com/J5ahNfejtx",
+            "username": "SolidifiedHQ",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1058724685289021441": {
+            "id": "1058724685289021441",
+            "text": "What differs #devcon from other conferences I attended is that there is really no distinction between the organizers and the audience. It\u2019s really the attendees who provide all the event content and shape the future of the whole ecosystem, not some central authority #Devcon4",
+            "username": "jakublipinski",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1057179024722665472": {
+            "id": "1057179024722665472",
+            "text": ". @Hacken_io thanks for inviting us at the #blockchainhackers summit. Well done in getting so many top smart contract security experts in a single room @trailofbits @ConsenSys @chain_security @mythril_tool @Hacken_io @SolidStamp @SmartDecTeam and many others! #Devcon4https://twitter.com/jerh17/status/1056960792665427970\u00a0\u2026",
+            "username": "ptsankov",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1049207776076083200": {
+            "id": "1049207776076083200",
+            "text": "(NEW DAPP) SolidStamp  - Category: Other \n \n #solidstamp\n#DApps\n#DappVolumehttps://dappvolume.com/dapp/851/solidstamp\u00a0\u2026",
+            "username": "DappVolume",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1046803835245608960": {
+            "id": "1046803835245608960",
+            "text": "Just published the ETHSecurity Community Report! So many hours put in by so many people! Here's to making the Ethereum ecosystem stronger!https://medium.com/@captnseagraves/learnings-from-the-ethsecurity-community-57431ae0ed5e\u00a0\u2026",
+            "username": "captnseagraves",
+            "num_likes": 43,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "1043802955126837248": {
+            "id": "1043802955126837248",
+            "text": "An amazing series getting in the internals of Solidity, highly recommended read \n\n\u201cDeconstructing a Solidity Contract \u2014Part I: Introduction\u201d by @_ajsantanderhttps://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737\u00a0\u2026",
+            "username": "gakonst",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1043488241834516482": {
+            "id": "1043488241834516482",
+            "text": "This is *exactly* why blockchains are so powerful - thay replace archaic fictions which served us for centuries with indisputable truths\n\n(Excerpt from @harari_yuval\u2019s 21 Lessons for the 21st Century)pic.twitter.com/3bHxaSG4Hl",
+            "username": "jakublipinski",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1039264332956295173": {
+            "id": "1039264332956295173",
+            "text": "I just published \u201cBlockchains as a Public Good\u201dhttps://medium.com/p/blockchains-as-a-public-good-17764de19b3f\u00a0\u2026",
+            "username": "matthewdif",
+            "num_likes": 220,
+            "num_retweets": 82,
+            "num_replies": 8
+        },
+        "1032733038789050368": {
+            "id": "1032733038789050368",
+            "text": "An upcoming service that tracks audited smart contracts, very cool. I'm interested to learn more about this.https://twitter.com/robbiebent1/status/1032359451594911745\u00a0\u2026",
+            "username": "dylancm4",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1032359451594911745": {
+            "id": "1032359451594911745",
+            "text": "13) We are building a service where you can see all the smart contracts which have been audited by a security specialist.  You can check which contracts were audited, and if the bugs found were actually fixed. - \ncc @jakublipinski",
+            "username": "robbiebent1",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1027612700644462592": {
+            "id": "1027612700644462592",
+            "text": "Blockchain Hub Warsaw kick off meeting featuring: @MakerDAO @RampNetwork @trivial_co #cryptoverse @golemproject @SolidStamp & @ethworks New city on the block(chain) Go Warsaw!pic.twitter.com/AyXWYXgs9f",
+            "username": "jakublipinski",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1024883718165475329": {
+            "id": "1024883718165475329",
+            "text": "I expected #DWebSummit to have a one big stage so that I can sit in one place and watch all the talks. Instead each session is in a different room, there are several lunch spots and two registration areas. Everything is decentralized. Medium is the message.",
+            "username": "jakublipinski",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1021376703304818689": {
+            "id": "1021376703304818689",
+            "text": "Not sure whether to laugh or cry :)) FoMo3d contract on #Ethereum mainnet ($12M) being exit scammed due to their buggy code ;) For now only the airdrops are nuked.\n\nhttps://etherscan.io/txs?a=0x73b61a56cb93c17a1f5fb21c01cfe0fb23f132c3\u00a0\u2026\n\nDear devs... you can't generate random numbers on chain! ",
+            "username": "peter_szilagyi",
+            "num_likes": 236,
+            "num_retweets": 81,
+            "num_replies": 18
+        },
+        "1017416937679216645": {
+            "id": "1017416937679216645",
+            "text": "Let's talk about designing for #blockchain. We sat down with the expert: @starsoup7 Sarah Baker Mills, Product Design Director at @ConsenSys, who's passionate about making blockchain more accessible and inclusive. Check out the full interview here -->http://bit.ly/BlockchainPoli\u00a0",
+            "username": "polidea",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1014482706145652736": {
+            "id": "1014482706145652736",
+            "text": "Thanks @jakublipinski for http://www.solidstamp.com\u00a0 On-chain registry of #Ethereum #smartcontracts #audits. We are now live and approved one of the first #smartcontracts there! @\u2026 https://www.instagram.com/p/BkzwD4_guCg/?utm_source=ig_twitter_share&igshid=y26vuut75so4\u00a0\u2026",
+            "username": "chainsulting",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1012430874703486979": {
+            "id": "1012430874703486979",
+            "text": "Open source collection of open source smart contracts: https://github.com/ethereumjs/ethereum-verified-contracts\u00a0\u2026 Please contribute and help make contract calls trustless! Let's have natspec-enabled wallets! @LefterisJP",
+            "username": "ethchris",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1010445415546867712": {
+            "id": "1010445415546867712",
+            "text": "Congrats to the whole team and the founder @jakublipinski https://twitter.com/SolidStamp/status/1008633360984440832\u00a0\u2026",
+            "username": "MaciejOczko",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1008725333430894595": {
+            "id": "1008725333430894595",
+            "text": "Future of smart contract audits. New project by @jakublipinski , a friend and very solid entrepreneur with track record! Watch them closely. Good luck and have fun @SolidStamp !https://twitter.com/solidstamp/status/1008633360984440832\u00a0\u2026",
+            "username": "chriswaclawek",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1008654225512034309": {
+            "id": "1008654225512034309",
+            "text": ".@jakublipinski  just launched a project that has a chance to bring more transparency to smart contract audits. \n\nIt leverages social proof of the reviewers and may lead to more experts joining the market -> more robust codehttps://twitter.com/solidstamp/status/1008633360984440832\u00a0\u2026",
+            "username": "MaciekLaskus",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1092825340135854082": {
+            "id": "1092825340135854082",
+            "text": "Unfortunately, we will be shutting down SolidStamp in a couple of days. We didn't manage to achieve our traction goals. I would like to thank you for all your support and comments. Please continue making Ethereum a safer place.pic.twitter.com/lwJRrSXqyS",
+            "username": "SolidStamp",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1063024845615706112": {
+            "id": "1063024845615706112",
+            "text": "Welcome @QuillHashhttps://twitter.com/QuillHash/status/1063012909641555968\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060163444228456450": {
+            "id": "1060163444228456450",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Zeppelin (@ZeppelinOrg) include: @kik (2,565,000 Eth, $563,786,576), @brave (2,369,136 Eth, $520,735,701), @golemproject (1,570,866 Eth, $345,276,087) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060163442722652160": {
+            "id": "1060163442722652160",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Zeppelin (@ZeppelinOrg) audited 39 smart contracts worth 11,113,668 Eth ($2,442,782,392) and used by 888,854 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060163441007214593": {
+            "id": "1060163441007214593",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Zero Knowledge Labs (@zklabs) include: @zilliqa (2,034,090 Eth, $447,092,646), @SIRINLABS (511,252 Eth, $112,373,105), @BCShop_io (396,650 Eth) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1060163436745818113": {
+            "id": "1060163436745818113",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Zero Knowledge Labs (@zklabs) audited 20 smart contracts worth 4,230,066 Eth ($929,767,808) and used by 260,254 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1060163435428757504": {
+            "id": "1060163435428757504",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Solidified (@SolidifiedHQ) include: @polymathnetwork (1,216,600 Eth, $267,408,479), @restartenergyio (42,098 Eth, $9,253,133), @dadi (39,780 Eth) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060163433944047618": {
+            "id": "1060163433944047618",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Solidified (@SolidifiedHQ) audited 29 smart contracts worth 1,323,512 Eth ($290,907,719) and used by 77,204 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060163432689868800": {
+            "id": "1060163432689868800",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by SoHo Token Labs (@SoHoTokenLabs) include: @0xproject (1,799,627 Eth, $395,557,717), @dydxprotocol (1,733 Eth, $380,913) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060163000424914944": {
+            "id": "1060163000424914944",
+            "text": "According to the SolidStamp Smart Contract Auditor Report SoHo Token Labs (@SoHoTokenLabs) audited 3 smart contracts worth 1,801,360 Eth ($395,938,630) and used by 36,447 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162999141457921": {
+            "id": "1060162999141457921",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by SmartDec (@SmartDecTeam) include: @digitexfutures (416,163 Eth, $91,472,558), @genesis_vision (188,824 Eth, $41,503,484), @sonmdevelopment (137,051 Eth) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162997279248390": {
+            "id": "1060162997279248390",
+            "text": "According to the SolidStamp Smart Contract Auditor Report SmartDec (@SmartDecTeam) audited 22 smart contracts worth 831,383 Eth ($182,737,846) and used by 106,249 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1060162996062900225": {
+            "id": "1060162996062900225",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Sigma Prime (@sigp_io) include: @HorizonState (257,446 Eth, $56,586,588), @havven_io (67,612 Eth, $14,861,106), @FantomFDN (5,431 Eth, $1,193,732) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162994779369472": {
+            "id": "1060162994779369472",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Sigma Prime (@sigp_io) audited 6 smart contracts worth 332,130 Eth ($73,002,119) and used by 25,549 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162993458237441": {
+            "id": "1060162993458237441",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Quantstamp (@quantstamp) include: @requestnetwork (225,555 Eth, $49,576,951), @PayWithInk (37,035 Eth, $8,140,286), @carryprotocol (24,635 Eth) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162992036290561": {
+            "id": "1060162992036290561",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Quantstamp (@quantstamp) audited 6 smart contracts worth 297,978 Eth ($65,495,515) and used by 87,074 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162990669004800": {
+            "id": "1060162990669004800",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Nomic Labs (@nomiclabs) include: @paxosglobal (636,116 Eth, $139,818,191) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162989389737984": {
+            "id": "1060162989389737984",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Nomic Labs (@nomiclabs) audited 1 smart contracts worth 636,116 Eth ($139,818,191) and used by 1,348 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162987804295169": {
+            "id": "1060162987804295169",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by New Alchemy (@newalchemy) include: @theabyss (43,203 Eth, $9,496,012), @LuckchemyLtd (83 Eth, $18,243) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162986281783297": {
+            "id": "1060162986281783297",
+            "text": "According to the SolidStamp Smart Contract Auditor Report New Alchemy (@newalchemy) audited 12 smart contracts worth 43,287 Eth ($9,514,475) and used by 20,034 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162984683692034": {
+            "id": "1060162984683692034",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Iosiro (@iosiro_security) include: @amoblockchain (7,595 Eth, $1,669,379), @wawllet (786 Eth, $172,762) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162983383457792": {
+            "id": "1060162983383457792",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Iosiro (@iosiro_security) audited 5 smart contracts worth 8,381 Eth ($1,842,142) and used by 4,622 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162981713965056": {
+            "id": "1060162981713965056",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Hosho (@hoshogroup) include: @origin_trail (100,003 Eth, $21,980,642), @unchainedcap (8,144 Eth, $1,790,049), @moxy_one (2,609 Eth, $573,457) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162980103503872": {
+            "id": "1060162980103503872",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Hosho (@hoshogroup) audited 6 smart contracts worth 110,756 Eth ($24,344,150) and used by 30,001 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162978643931137": {
+            "id": "1060162978643931137",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Consensys Diligence (@ConsenSys) include: @0xproject (3,468,064 Eth, $762,279,894), @0xproject (1,799,627 Eth, $395,557,717) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162976764870656": {
+            "id": "1060162976764870656",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Consensys Diligence (@ConsenSys) audited 4 smart contracts worth 5,267,691 Eth ($1,157,837,612) and used by 195,948 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162975452020736": {
+            "id": "1060162975452020736",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by CoinFabrik (@coinfabrik) include: @thetatoken (416,955 Eth, $91,646,640), @RCN_token (132,982 Eth, $29,229,421), @dmarket_com (108,987 Eth, $23,955,324) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1060162974210580481": {
+            "id": "1060162974210580481",
+            "text": "According to the SolidStamp Smart Contract Auditor Report CoinFabrik (@coinfabrik) audited 26 smart contracts worth 807,465 Eth ($177,480,673) and used by 90,421 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162972717342720": {
+            "id": "1060162972717342720",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by ChainSecurity (@chain_security) include: @paxosglobal (636,116 Eth, $139,818,191), @kybernetwork (195,701 Eth, $43,015,047), @palnetwork_ (128,707 Eth) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162971261911040": {
+            "id": "1060162971261911040",
+            "text": "According to the SolidStamp Smart Contract Auditor Report ChainSecurity (@chain_security) audited 5 smart contracts worth 960,525 Eth ($211,123,236) and used by 49,055 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162969097637889": {
+            "id": "1060162969097637889",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Authio (@Authio_Team) include: @CoinvestHQ (120,749 Eth, $26,540,610), @blockportio (32,016 Eth, $7,037,111), @EthbetProject (500 Eth, $109,899) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1060162967675772928": {
+            "id": "1060162967675772928",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Authio (@Authio_Team) audited 7 smart contracts worth 153,292 Eth ($33,693,556) and used by 18,299 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162966279069696": {
+            "id": "1060162966279069696",
+            "text": "We analyzed 13 (+6) companies, 197 (+51)  audits and 296 (+108) addresses. Our report methodology and raw data is available at https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026. Any feedback or suggestions? Let us know how we can improve the next edition of our report.",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060162963603111936": {
+            "id": "1060162963603111936",
+            "text": "The second edition of the SolidStamp Smart Contract Auditor Report is out! Check out the companies behind the audits of the most valuable Ethereum smart contracts https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-november-2018\u00a0\u2026 #ethereum #smartcontracts #BUIDL #Audit #security #devcon #devcon4pic.twitter.com/6RHpifEBPo",
+            "username": "SolidStamp",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1059754873191849985": {
+            "id": "1059754873191849985",
+            "text": "We've just released our public API. We invite Ethereum blockchain explorers, wallets, exchanges to partner with us and display audit data on their websites. Let\u2019s build a safer Ethereum ecosystem together. https://www.solidstamp.com/api/\u00a0",
+            "username": "SolidStamp",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1058028074011422721": {
+            "id": "1058028074011422721",
+            "text": "\u201cThere is much more awareness of the need for the security audit before the smart contract goes live\u201d says @matthewdif during the #Devcon4 panel featuring: @phildaian @dguido @maurelian_ @mhswende @captnseagravespic.twitter.com/6peSCngbzk",
+            "username": "SolidStamp",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1057750088058048512": {
+            "id": "1057750088058048512",
+            "text": "We couldn\u2019t agree more!https://twitter.com/phildaian/status/1057738192617701397\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057574040976658432": {
+            "id": "1057574040976658432",
+            "text": "State of the Union by @VitalikButerin at #DevCon4pic.twitter.com/x5iJz4jz8C",
+            "username": "SolidStamp",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056843803355742214": {
+            "id": "1056843803355742214",
+            "text": "Our CEO @jakublipinski is heading to Prague for #devcon4 Ping him to talk about smart contract audits and Ethereum security.",
+            "username": "SolidStamp",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1055853952573624321": {
+            "id": "1055853952573624321",
+            "text": "Happy to partner with our friends from @trivial_co on presenting smart contract audit data on their websitehttps://twitter.com/trivial_co/status/1055852006001254400\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054733219772403718": {
+            "id": "1054733219772403718",
+            "text": "Great discussion on whether smart contract auditors owe anything to the contract users at #Web3summit. Thank you @SolidifiedHQ for the invitationpic.twitter.com/JZiwJdXDbN",
+            "username": "SolidStamp",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054402432460079104": {
+            "id": "1054402432460079104",
+            "text": "Check out 19 audits conducted by the SmartDec team (@SmartDecTeam) at their SolidStamp profile: https://www.solidstamp.com/auditor/0x03c47A4Ee673B49850faeFA8E83CfAF707946a46\u00a0\u2026 Welcome!",
+            "username": "SolidStamp",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1053303718484025346": {
+            "id": "1053303718484025346",
+            "text": "Meet @jakublipinski, Founder and CEO of @SolidStamp at #Web3Summit next week in Berlin to talk about smart contract audits and auditors.",
+            "username": "SolidStamp",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1050659097731723264": {
+            "id": "1050659097731723264",
+            "text": "Welcome Sigma Prime (@sigp_io) to SolidStamp. Thank you posting your audit reports of @havven_io, @FantomFDN, @HorizonState and @playskrilla. See the full Sigma Prime profile at https://www.solidstamp.com/auditor/0x38DAA56511eb40C9761383e6Cc398B89b682bFCC\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1049694797122953220": {
+            "id": "1049694797122953220",
+            "text": "\u201cI think we need to figure out how we are going to come up with (at least) a process for dealing with malicious users and applications\u201d - we couldn\u2019t agree more with @VladZamfir It\u2019s why we build SolidStamp.https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1049541961206693888": {
+            "id": "1049541961206693888",
+            "text": "\u201eIt was our decision to forego a security audit for the payment channel contract.\u201dhttps://medium.com/spankchain/we-got-spanked-what-we-know-so-far-d5ed3a0f38fe\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047421594556145669": {
+            "id": "1047421594556145669",
+            "text": "The audit is obviously uploaded to IPFS and stamped at SolidStamp already: https://www.solidstamp.com/auditor/0x8bfb0a6848a402d9931ba22797f82781c6e1711f\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047421592182149120": {
+            "id": "1047421592182149120",
+            "text": "SolidStamp smart contracts have been audited by @matthewdif as a part of the ZK Labs Community Audits! Thank you @zklabs for the initiative.https://twitter.com/matthewdif/status/1044851829807468545\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1047121883223724032": {
+            "id": "1047121883223724032",
+            "text": "3. We allow auditors to upload their reports and their metadata to SolidStamp. The data is cryptographically signed and the reports are stored on IPFS. Anyone can confirm the authenticity of an audit and read its content even if it is not available at its original location.",
+            "username": "SolidStamp",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1047121881499865089": {
+            "id": "1047121881499865089",
+            "text": "2. We allow regular users to find all the contracts they interact with to see which are audited and stamped and who audited them: https://www.solidstamp.com/account/\u00a0",
+            "username": "SolidStamp",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1047121880203890688": {
+            "id": "1047121880203890688",
+            "text": "1. Starting today, auditors can stamp the audited contract and signal that the deployed code has fixed any critical issues from the audits. These stamps are stored on-chain, connecting the auditor, the contract and the audit report (through the IPFS hash) forever.",
+            "username": "SolidStamp",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1047121878501007360": {
+            "id": "1047121878501007360",
+            "text": "It\u2019s been 3 months since SolidStamp launched! Thank you for all your feedback. Today we\u2019re unveiling 3 new features. Read more at https://www.solidstamp.com/blog/solidstamp-a-flight-recorder-for-the-ethereum-ecosystem\u00a0\u2026 \n\nTL;DR ",
+            "username": "SolidStamp",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1046909638158028801": {
+            "id": "1046909638158028801",
+            "text": "SolidStamp is back online after some maintenance work. We'll share more info about all the newly released features tomorrow.",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1046785123201503232": {
+            "id": "1046785123201503232",
+            "text": "We are undergoing scheduled maintenance. We will let you know when we are back online",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037975424884768768": {
+            "id": "1037975424884768768",
+            "text": "Thanks @mr_ligi for the note. It was great discussing the stamping process and seeing all the different perspectives. We'll continue our work on the safer Ethereum ecosystemhttps://twitter.com/mr_ligi/status/1037803883618295809\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037063839966277632": {
+            "id": "1037063839966277632",
+            "text": "Meet SolidStamp CEO @jakublipinski at the Security Unconf (https://ethereum-magicians.org/t/wiki-gathering-of-security-community/433\u00a0\u2026) and @ETHBerlin hackathon during the  #berlinblockchainweek. Let\u2019s build a safer Ethereum ecosystem together.",
+            "username": "SolidStamp",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1022164010228011008": {
+            "id": "1022164010228011008",
+            "text": "Our CEO & Founder @jakublipinski is in San Francisco for meetings and #DWebSUMMIT 2018. Ping him if you want to chat.",
+            "username": "SolidStamp",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1018063908085620738": {
+            "id": "1018063908085620738",
+            "text": "Read the full report at: https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1018063680343281665": {
+            "id": "1018063680343281665",
+            "text": "Our Smart Contract Auditor Report is featured in the latest \"Week in Ethereum\" newsletter. Thank you @evan_van_ness https://twitter.com/evan_van_ness/status/1017884417971380225\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1016709107196231680": {
+            "id": "1016709107196231680",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Zeppelin (@ZeppelinOrg) include: @kik (2,970,000 Eth, $1,309,996,555), @golemproject (1,501,286 Eth, $662,181,646), @brave (982,507 Eth, $433,360,534) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1016709105266905090": {
+            "id": "1016709105266905090",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Zeppelin (@ZeppelinOrg) audited 38 smart contracts worth 8,627,098 Eth ($3,805,208,305) and used by 658,647 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709103400386560": {
+            "id": "1016709103400386560",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by ZKLabs (@zklabs) include: @zilliqa (2,006,392 Eth, $884,971,922), @BCShop_io (253,982 Eth, $112,025,436), @singularity_net (239,380 Eth, $105,584,840) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709101429121029": {
+            "id": "1016709101429121029",
+            "text": "According to the SolidStamp Smart Contract Auditor Report ZKLabs (@zklabs) audited 18 smart contracts worth 3,472,835 Eth ($1,531,785,147) and used by 196,238 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709099659161600": {
+            "id": "1016709099659161600",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Solidified (@SolidifiedHQ) include: @polymathnetwork (771,823 Eth, $340,432,818),@MyBit_DApp (321,480 Eth, $141,797,202), @dadi (29,786 Eth, $13,137,898) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1016709097855516681": {
+            "id": "1016709097855516681",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Solidified (@SolidifiedHQ) audited 21 smart contracts worth 1,169,116 Eth ($515,669,337) and used by 45,908 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709096073056256": {
+            "id": "1016709096073056256",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by SmartDec (@SmartDecTeam) include: @bitpopulous (820,570 Eth, $361,933,964), Joyso Token (83,062 Eth, $36,636,678), @hive_power (45,595 Eth, $20,110,873) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709093908762624": {
+            "id": "1016709093908762624",
+            "text": "According to the SolidStamp Smart Contract Auditor Report SmartDec (@SmartDecTeam) audited 22 smart contracts worth 998,154 Eth ($440,262,054) and used by 81,204 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709091773870081": {
+            "id": "1016709091773870081",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Sigma Prime (@sigp_io) include: @horizonstate (410,961 Eth, $181,265,149), @havven_io (55,452 Eth, $24,458,561), @FantomFDN (5,431 Eth, $2,395,485) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709090171609090": {
+            "id": "1016709090171609090",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Sigma Prime (@sigp_io) audited 4 smart contracts worth 472,869 Eth ($208,571,300) and used by 11,531 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709088393220098": {
+            "id": "1016709088393220098",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by New Alchemy (@newalchemy) include: @theabyss (53,180 Eth, $23,456,436), @LuckchemyLtd (37 Eth, $16,319) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709086090596352": {
+            "id": "1016709086090596352",
+            "text": "According to the SolidStamp Smart Contract Auditor Report New Alchemy (@newalchemy) audited 7 smart contracts worth 53,217 Eth ($23,472,756) and used by 8,634 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709084299620359": {
+            "id": "1016709084299620359",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Iosiro (@iosiro_security) include: @amoblockchain (3,990 Eth, $1,759,894), @wawllet (495 Eth, $218,332) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1016709082395406338": {
+            "id": "1016709082395406338",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Iosiro (@iosiro_security) audited 5 smart contracts worth 4,485 Eth ($1,978,227) and used by 1,542 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1016709080650481665": {
+            "id": "1016709080650481665",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Hosho (@hoshogroup) include: @moxy_one (2,611 Eth, $1,151,650) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709078826078210": {
+            "id": "1016709078826078210",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Hosho (@hoshogroup) audited 4 smart contracts worth 2,611 Eth ($1,151,650) and used by 4,895 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709077097963522": {
+            "id": "1016709077097963522",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by Consensys Diligence (@ConsenSys) include: @0xproject (1,889,015 Eth, $833,199,711) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709074950422528": {
+            "id": "1016709074950422528",
+            "text": "According to the SolidStamp Smart Contract Auditor Report Consensys Diligence (@ConsenSys) audited 3 smart contracts worth 1,889,015 Eth ($833,199,711) and used by 97,452 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1016709072974962688": {
+            "id": "1016709072974962688",
+            "text": "According to the SolidStamp Smart Contract Auditor Report the most valuable smart contracts audited by CoinFabrik (@coinfabrik) include: @thetatoken (299,193 Eth, $131,966,935), @RCN_token (101,614 Eth, $44,819,525), @real_token (37,048 Eth, $16,340,994) https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1016709071154622464": {
+            "id": "1016709071154622464",
+            "text": "According to the SolidStamp Smart Contract Auditor Report CoinFabrik (@coinfabrik) audited 21 smart contracts worth 522,566 Eth ($230,491,468) and used by 65,749 addresses https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1016709069388775424": {
+            "id": "1016709069388775424",
+            "text": "We analyzed 13 companies, 149 audits and 188 addresses. Our report methodology and raw data is available at https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026. Any feedback or suggestions? Let us know how we can improve the next edition of our report.",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1016709065181974531": {
+            "id": "1016709065181974531",
+            "text": "The first SolidStamp Smart Contract Auditor Report is out! Check out the companies behind the audits of the most valuable Ethereum smart contracts https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018\u00a0\u2026 #ethereum #smartcontracts #BUIDL #Auditpic.twitter.com/en6S33QRWj",
+            "username": "SolidStamp",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1014964624842739712": {
+            "id": "1014964624842739712",
+            "text": "Thank you @p_e for the shout out!https://twitter.com/p_e/status/1014621560987103232\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1012719272982994944": {
+            "id": "1012719272982994944",
+            "text": "There is never too many ideas on how to make smart contracts more secure. We're keeping our fingers crossed @SolidifiedHQhttps://twitter.com/SolidifiedHQ/status/1012698178808770562\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1012367490117259264": {
+            "id": "1012367490117259264",
+            "text": "Thank you @evan_van_ness for featuring SolidStamp in your weekly newsletter. Let\u2019s build a safer Ethereum ecosystem together\nhttps://twitter.com/evan_van_ness/status/1012366426726944768\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1008633360984440832": {
+            "id": "1008633360984440832",
+            "text": "We are happy to announce the launch of SolidStamp @SolidStamp - an on-chain registry of Ethereum smart contract audits. We connect smart contract users and security auditors to ensure the safety of their ethers and tokens. #BUIDL https://www.solidstamp.com/blog/solidstamp-putting-skin-in-the-blockchain-game\u00a0\u2026",
+            "username": "SolidStamp",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "HRitzdorf": 1,
+        "muellerberndt": 1,
+        "jakublipinski": 5,
+        "ptsankov": 2,
+        "DeanEigenmann": 1,
+        "SolidifiedHQ": 1,
+        "DappVolume": 1,
+        "captnseagraves": 1,
+        "gakonst": 1,
+        "matthewdif": 1,
+        "dylancm4": 1,
+        "robbiebent1": 1,
+        "peter_szilagyi": 1,
+        "polidea": 1,
+        "chainsulting": 1,
+        "ethchris": 1,
+        "MaciejOczko": 1,
+        "chriswaclawek": 1,
+        "MaciekLaskus": 1
+    },
+    "users_retweeted": [
+        "jakublipinski",
+        "ptsankov",
+        "HRitzdorf",
+        "muellerberndt",
+        "DeanEigenmann",
+        "SolidifiedHQ",
+        "DappVolume",
+        "captnseagraves",
+        "gakonst",
+        "matthewdif",
+        "dylancm4",
+        "robbiebent1",
+        "peter_szilagyi",
+        "polidea",
+        "chainsulting",
+        "ethchris",
+        "MaciejOczko",
+        "chriswaclawek",
+        "MaciekLaskus"
+    ]
+}

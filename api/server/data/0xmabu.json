@@ -1,0 +1,38 @@
+{
+    "is_complete": true,
+    "username": "0xmabu",
+    "retweeted": {
+        "501061368389582848": {
+            "id": "501061368389582848",
+            "text": "Wrote a new blog post; Hacking iClass Elite with proxmark3 http://martin.swende.se/blog/Elite-Hacking.html\u00a0\u2026",
+            "username": "mhswende",
+            "num_likes": 7,
+            "num_retweets": 12,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "822036775669559296": {
+            "id": "822036775669559296",
+            "text": "Verifying myself: I am 0xmabu on Keybase.io. 5HUCdIzBRI5O1DKfqvlp-Vv_A3MQ3K6WfqDa / https://keybase.io/0xmabu/sigs/5HUCdIzBRI5O1DKfqvlp-Vv_A3MQ3K6WfqDa\u00a0\u2026",
+            "username": "0xmabu",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "612296754340438016": {
+            "id": "612296754340438016",
+            "text": "After a year of newbie coding, meet the NME:https://github.com/0xmabu/NME\u00a0",
+            "username": "0xmabu",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "mhswende": 1
+    },
+    "users_retweeted": [
+        "mhswende"
+    ]
+}

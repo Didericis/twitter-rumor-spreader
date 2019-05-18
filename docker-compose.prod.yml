@@ -1,0 +1,20 @@
+
+version: '3.5'
+
+services:
+  api:
+    build: './api'
+    ports:
+      - 3000:3000
+    command: gunicorn -w 4 -b 0.0.0.0:3000 server:application
+
+  ui:
+    build: ./ui
+    ports:
+      - 80:80
+    links:
+      - api
+    depends_on:
+      - api
+    environment:
+      - REACT_APP_API_PORT=3000

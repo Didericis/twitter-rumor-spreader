@@ -1,0 +1,1732 @@
+{
+    "is_complete": true,
+    "username": "ricmoo",
+    "retweeted": {
+        "1125447707974303745": {
+            "id": "1125447707974303745",
+            "text": "More clicked\n* @ConsenSys Eth dev portal\n* @MakerDAO stability fee now 19.5%\n* @ensdomains permanent registrar launched\n* @LamarkazLab gasless noncustodial Dai mobile wallet\n* @dydxprotocol v2 is live\n* @azure Eth dev kit\n* @ricmoo updatable offchain contract wallets with CREATE2https://twitter.com/evan_van_ness/status/1124777669923569666\u00a0\u2026",
+            "username": "evan_van_ness",
+            "num_likes": 46,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1115002123127787520": {
+            "id": "1115002123127787520",
+            "text": "It's a bit last minute announcement but I will be talking about upcoming @ensdomains permanent registrar and short name auction at #ethldn @ETHLDN this coming Wednesday. https://www.meetup.com/ethereum/events/260427892/\u00a0\u2026 Come along!",
+            "username": "makoto_inoue",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1111651892097150978": {
+            "id": "1111651892097150978",
+            "text": "Smart move, especially for Tokyo Olympics 2020https://www.investinblockchain.com/japan-largest-railway-company-jr-east-considers-accepting-crypto-whole-nation/\u00a0\u2026",
+            "username": "mi_ayako",
+            "num_likes": 105,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1111488927238508546": {
+            "id": "1111488927238508546",
+            "text": "You will have 1 year to migrate to the permanent registrar once it is launched May the 4th (be with you). Your first year will be free, but after that you'll need to pay a small fee as yearly rent.https://link.medium.com/qBJkbb1wrV\u00a0",
+            "username": "ensdomains",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "1111122952798388224": {
+            "id": "1111122952798388224",
+            "text": "I'm thrilled about this, we are extending libp2p with WebRTC support and compilation to WebAssembly. You will be able to run a full node in a browser tab! No need to install software!\n\nFULL NODES IN THE BROWSER!\n\nThis is something I've wanted since before the bitcoin whitepaper.https://twitter.com/0xProject/status/1110979207708856320\u00a0\u2026",
+            "username": "recmo",
+            "num_likes": 387,
+            "num_retweets": 87,
+            "num_replies": 17
+        },
+        "1110593544572538882": {
+            "id": "1110593544572538882",
+            "text": "[BUG] #Solidity Optimizer and ABIEncoderV2 Bug Announcement Blog Posthttps://goo.gl/nJHvHh\u00a0",
+            "username": "ethereum",
+            "num_likes": 130,
+            "num_retweets": 61,
+            "num_replies": 7
+        },
+        "1109475516506140673": {
+            "id": "1109475516506140673",
+            "text": "Three levels of economic learning:\n1) Wow, markets are surprisingly effective and productive! \n2) Economic models are a little oversimplified, and market failures do exist\n3) Every item in my grocery store is a direct example of market failure ",
+            "username": "technocrypto",
+            "num_likes": 40,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1108588284870053888": {
+            "id": "1108588284870053888",
+            "text": "Short reminder that INFURA is deprecating their old URLs and now have a new v3 scheme. Please make sure you have updated to ethers v4.0.22 or later by Wednesday, March 27, 2019 if you use \"InfuraProvider\" or \"getDefaultProvider\". The latest version is v4.0.27.",
+            "username": "ethersproject",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1105909839350374400": {
+            "id": "1105909839350374400",
+            "text": "#kaizenpic.twitter.com/8RBurxyySr",
+            "username": "mi_ayako",
+            "num_likes": 278,
+            "num_retweets": 63,
+            "num_replies": 11
+        },
+        "1100145330429911040": {
+            "id": "1100145330429911040",
+            "text": "Big news! \"ENS Root Change Will Allow Easy Integration of More Than 1300 DNS TLDs\" ---> https://medium.com/the-ethereum-name-service/upcoming-changes-to-the-ens-root-a1b78fd52b38\u00a0\u2026 #ethereum #WeWantENS",
+            "username": "ensdomains",
+            "num_likes": 149,
+            "num_retweets": 56,
+            "num_replies": 4
+        },
+        "1083597616011591680": {
+            "id": "1083597616011591680",
+            "text": "Dog barked at every car that passed, as loud as he could.\n\nHe had to warn them.\n\nAll those poor people going to the vet. They had no idea.",
+            "username": "ASmallFiction",
+            "num_likes": 8103,
+            "num_retweets": 1639,
+            "num_replies": 16
+        },
+        "1065893377693179904": {
+            "id": "1065893377693179904",
+            "text": "pic.twitter.com/M4Kz1k9nUq",
+            "username": "willroche16",
+            "num_likes": 1770,
+            "num_retweets": 275,
+            "num_replies": 23
+        },
+        "1057657174745378819": {
+            "id": "1057657174745378819",
+            "text": "Me, @nicksdjohnson, @ricmoo and @matthewdif are hosting Live Smart Contract Hacking tomorrow at 12:30 at #Devcon4. Submit (tweet/dm/mail) your code for review, so we have something to look at :) #livehack",
+            "username": "mhswende",
+            "num_likes": 17,
+            "num_retweets": 10,
+            "num_replies": 9
+        },
+        "1042960439951253504": {
+            "id": "1042960439951253504",
+            "text": "\"So what's new?\"\n\n\"I recently built a robot.\"\n\n\"Why?\"\n\n\"For the company, mostly.\"\n\n\"How'd it turn out?\"\n\n\"Good. You're doing quite well.\"",
+            "username": "ASmallFiction",
+            "num_likes": 16479,
+            "num_retweets": 3345,
+            "num_replies": 49
+        },
+        "1039246042896769024": {
+            "id": "1039246042896769024",
+            "text": "Excited to announce the new Dev Boards are ready and working! We will update the repo soon with the PCB and the v1 pairing firmware. The BLECast driver now adheres to real-time constraints too, so listening is more responsive and any animations are nice and smooth... :)pic.twitter.com/KFEIsaRSRd",
+            "username": "hi_firefly",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1036569587754647553": {
+            "id": "1036569587754647553",
+            "text": "Just published \"#enshack winnders interview - the joint 3rd place (@ensdomains girls)\" featuring @edit_olah @B17Anselmi and Quynh Tran-Thanhhttps://medium.com/the-ethereum-name-service/hackathon-winners-interview-the-joint-3nd-place-ens-girls-17693090195a\u00a0\u2026",
+            "username": "makoto_inoue",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1034077109449383936": {
+            "id": "1034077109449383936",
+            "text": "Just published \"#enshack winners interview - 2nd place with @ricmoo and @yuetloo\" https://medium.com/the-ethereum-name-service/ens-hackathon-winners-interview-2nd-place-79d7831e2212\u00a0\u2026 @ensdomains",
+            "username": "makoto_inoue",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1030080426726043648": {
+            "id": "1030080426726043648",
+            "text": "So many people are buzzing about how cool it was to see live BTZ transactions at the food trucks and vendor tables. \n\nThank you @bunzofficial team for your relentless work, and community engagement!https://twitter.com/templecrash/status/1029819081598423046\u00a0\u2026",
+            "username": "OutlierCanada",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1019606263032963073": {
+            "id": "1019606263032963073",
+            "text": "Look at Hillary meeting with a Russian asset in 2016pic.twitter.com/eAth6Xa8Zo",
+            "username": "theterrorverse",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1012212389830201344": {
+            "id": "1012212389830201344",
+            "text": "When we abolished currency, the wealthy were devastated.\n\n\"Now we don't know our worth,\" they cried.\n\n\"Now you finally will,\" the rest said.",
+            "username": "ASmallFiction",
+            "num_likes": 8291,
+            "num_retweets": 2337,
+            "num_replies": 26
+        },
+        "1010731016456003584": {
+            "id": "1010731016456003584",
+            "text": "OK since I got asked this twice today, and multiple times the last few weeks, here is Sarah's Saturday Night guide to telling a bad cryptocurrency whitepaper from a maybe-OK one, with the help of real, awful papers.\n\nReady? Let's begin.pic.twitter.com/NCzsKjyP5G",
+            "username": "SarahJamieLewis",
+            "num_likes": 304,
+            "num_retweets": 140,
+            "num_replies": 8
+        },
+        "997599379954384898": {
+            "id": "997599379954384898",
+            "text": "\u201cIn 10 years, I think it\u2019s going to be worth millions.\u201d\n\nthank you @nytimes @Elisa_Mala for a star-studded highlight on @CryptoKitties featuring @novogratz @barinov @guilegaspar @ricmoo https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html\u00a0\u2026",
+            "username": "rohamg",
+            "num_likes": 125,
+            "num_retweets": 30,
+            "num_replies": 6
+        },
+        "995438965267218432": {
+            "id": "995438965267218432",
+            "text": "The live auction for Celestial Cyber Dimension is starting. This 1 of 1 Exclusive CryptoKitty features a physical statuette that spans the divide between analog and digital art. Designed by @guilegaspar & @ricmoo.\nLive stream: https://www.facebook.com/EtherealSummit/videos/595909267435021/\u00a0\u2026\nBid: https://www.liveauctioneers.com/item/61826539_cryptokitty\u00a0\u2026pic.twitter.com/w4S110o54L",
+            "username": "CryptoKitties",
+            "num_likes": 51,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "986101615835807745": {
+            "id": "986101615835807745",
+            "text": "He worked for years to invent an engine that ran on ambient disappointment.\n\nBut at the unveiling, it wouldn't work.\n\nThen it did.\n\nBriefly.",
+            "username": "ASmallFiction",
+            "num_likes": 6303,
+            "num_retweets": 1570,
+            "num_replies": 20
+        },
+        "983003767619534848": {
+            "id": "983003767619534848",
+            "text": "Nice non-fungible vs. fungible example: a 1st edition printed copy of Alice in Wonderland (one copy with a unique value) vs. an e-book version (all downloads are equal value)\n\n#erc721 #erc20 #ethereum #cryptochicks @crypto_chickspic.twitter.com/EB317rnaya",
+            "username": "MissBriannaM",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "983183179539398658": {
+            "id": "983183179539398658",
+            "text": "This is a chart of ethereum hashrate divided by 100-day EMA of dollar value of block rewards paid.\n\n(100-day EMA because price changes take time to propagate to hashrate due to hardware sunk costs)\n\nWe're still well within historical norms.pic.twitter.com/LURYuloLKz",
+            "username": "VitalikButerin",
+            "num_likes": 715,
+            "num_retweets": 189,
+            "num_replies": 53
+        },
+        "964634044708384768": {
+            "id": "964634044708384768",
+            "text": "@CryptoKitties @0xProject @decentraland @toshi @hi_firefly @ZeppelinOrg @cre8bidio @cryptocelebspic.twitter.com/VnZK0WAlNr",
+            "username": "arthur_camara",
+            "num_likes": 119,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "958141835398000640": {
+            "id": "958141835398000640",
+            "text": "thanks for the code droppic.twitter.com/EsH9acU2aH",
+            "username": "vgrade",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "956200044906139648": {
+            "id": "956200044906139648",
+            "text": "Ahoy! The source code is now available along with a breadboard diagram to quickly prototype your very own Firefly Hardware Wallet. We will be releasing some how-to videos over the next few days to help out too.https://www.reddit.com/r/ethereum/comments/7snulz/firefly_source_released_httpsfireflycity/\u00a0\u2026",
+            "username": "hi_firefly",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "937393954022150144": {
+            "id": "937393954022150144",
+            "text": "So here's the deal: If this tweet is retweeted 500 times, @jeffehh will buy my @CryptoKitties https://www.cryptokitties.co/kitty/101\u00a0, and I'll donate 100% of the proceeds to @Worldbuilders_. That's anywhere up to $92k.\n\nHelp us do this? Please?pic.twitter.com/OyD2W1eDz6",
+            "username": "nicksdjohnson",
+            "num_likes": 333,
+            "num_retweets": 579,
+            "num_replies": 19
+        },
+        "913503155794665472": {
+            "id": "913503155794665472",
+            "text": "The parts for 150 Firefly DIY kits have arrived! Early Bird rewards will be ready soon; some kits will be available for sale at @ETHWaterloopic.twitter.com/FZf5p0IA4L",
+            "username": "hi_firefly",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "877241689269776388": {
+            "id": "877241689269776388",
+            "text": "@ethstatus will you precommit to refund innocent #ENS users who are missing their bid/reveal windows right now b/c of your bad #ICO design?",
+            "username": "technocrypto",
+            "num_likes": 23,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "39181197837996032": {
+            "id": "39181197837996032",
+            "text": "Drinks and Cocktails featured on Mashable - http://v0d.ca/mashable_drinks",
+            "username": "geneticmistakes",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "13991674511": {
+            "id": "13991674511",
+            "text": "\"Paint your toenails to look like talons, so when you pick up mice you can pretend you're an eagle\" @AetherBottle",
+            "username": "AetherBottle",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1123240624189263879": {
+            "id": "1123240624189263879",
+            "text": "Hey all! I\u2019ve just put together a quick article on our @ETHCapeTown hackathon project, a Contract Wallet which retains no on-chain bytecode. Wisp Contracts: The Magical World of Create2. All feedback is welcome. :)https://blog.ricmoo.com/wisps-the-magical-world-of-create2-5c2177027604\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 189,
+            "num_retweets": 43,
+            "num_replies": 33
+        },
+        "1119549627353714688": {
+            "id": "1119549627353714688",
+            "text": "Lots of ethers.js love at @ETHCapeTown... Thanks!! :)https://twitter.com/ManiacsZone/status/1119536671656116225\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 20,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118915512052924417": {
+            "id": "1118915512052924417",
+            "text": "Just as a quick note to anyone that\u2019s been thinking of contributing to an @gitcoin grant, tomorrow is the last day for the $50k matching CLR. And if you are bored, and looking for a shameless plug of a project to fund, here is a link to ethers. :)https://gitcoin.co/grants/13/ethersjs-complete-simple-and-tiny-2\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1105701472744935424": {
+            "id": "1105701472744935424",
+            "text": "If you have a 2 column database, with \"word\" and \"definition\", and a row for each word in the English language, this is a valid \u201cfull dictionary\u201d. By adding an index to \"word\" it becomes an \u201carchive dictionary\u201d, which isn\u2019t \u201cfuller\u201d, it\u2019s just a lot faster for certain operations.",
+            "username": "ricmoo",
+            "num_likes": 54,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1104116510061027328": {
+            "id": "1104116510061027328",
+            "text": "Awesome!! I\u2019ve been looking forward to this and G\u00f6rli has now been added to the InfuraProvider in ethers.js (@ethersproject). With `ethers.getDefaultProvider(\"goerli\")` you now connect to Etherscan *and* INFURA. :)https://twitter.com/infura_io/status/1103417769381507074\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1100414751069425664": {
+            "id": "1100414751069425664",
+            "text": "Ahoy! I\u2019ve finally posted my latest article! An example recovery technique to rescue the Ethereum user-base in the aftermath of a catastrophic post-quantum-computer Earth. With code. Feedback please. :)https://blog.ricmoo.com/ethereum-post-quantum-recovery-dffc9ab0ca3e\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 108,
+            "num_retweets": 34,
+            "num_replies": 8
+        },
+        "1095435817189810176": {
+            "id": "1095435817189810176",
+            "text": "Just a quick reminder that there is one week left. Any contributions to any Gitcoin Grants project will be matched by their CLR fund, and there are lots of interesting projects. Also, my shameless plug for ethers.js:https://gitcoin.co/grants/13/ethersjs-complete-simple-and-tiny-2\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1093987460126625794": {
+            "id": "1093987460126625794",
+            "text": "Verifying anti-Sybil metric for G\u00f6rli testnet faucet (https://faucet.goerli.mudit.blog\u00a0): 0x58Bb4221245461E1d4cf886f18a01E3Df40Bd359",
+            "username": "ricmoo",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090700373181038592": {
+            "id": "1090700373181038592",
+            "text": "The newest addition to the Salad Fingers saga does not disappoint.https://youtu.be/qeE-J-GjAyQ\u00a0",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1085991220730621954": {
+            "id": "1085991220730621954",
+            "text": "Award for best response goes to...https://twitter.com/avsa/status/1085569717899874304\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082659360491405312": {
+            "id": "1082659360491405312",
+            "text": "A list of the double-spends during the 51% attack on ETC.https://twitter.com/el33th4xor/status/1082558163264643072\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1071166285399109633": {
+            "id": "1071166285399109633",
+            "text": "Verifying my identity on http://Peepeth.com\u00a0 0x8ba1f109551bd432803012645ac136ddd64dba72",
+            "username": "ricmoo",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060571718689964032": {
+            "id": "1060571718689964032",
+            "text": "It was an amazing Hackathon; great food, beautiful city and exceptional people. Thanks from team Meeseeks: @ricmoo @yuetloohttps://twitter.com/cryptowanderer/status/1060563046710603777\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060232782582996992": {
+            "id": "1060232782582996992",
+            "text": "Huge thanks to @ethstatus for the #cryptolife Hackathon last week! We\u2019ve had some time to sleep and refactor/rewrite our project (19MB down to 5kb) and it is ready to safely serve IPFS content with cross-origin policies intact, optionally with @ensdomains. https://meeseeks.app\u00a0",
+            "username": "ricmoo",
+            "num_likes": 65,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1058904170449829889": {
+            "id": "1058904170449829889",
+            "text": "#DevCon4 was the absolute bees knees! So great to see and meet everyone I saw and met! Ginormous thanks to all the volunteers, speakers, fellow developers and #ethereum enthusiasts. [earworm alert: continue reading at your own risk]  B - U - I - B - U - I - B - U - I - D - L ",
+            "username": "ricmoo",
+            "num_likes": 50,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1052222840165023746": {
+            "id": "1052222840165023746",
+            "text": "Amazing!! You rock, Billy!https://twitter.com/billyrennekamp/status/1052191146397569024\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1051913587369893891": {
+            "id": "1051913587369893891",
+            "text": "Just a quick announcement about the release of ethers.js v4; now in TypeScript and lots of new great little features here and there. :)https://blog.ricmoo.com/ethers-v4-released-6db6e08d523d\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 30,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1030870865397927937": {
+            "id": "1030870865397927937",
+            "text": "This IS brilliant!https://twitter.com/nicksdjohnson/status/1030830279487709185\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1027891862596509697": {
+            "id": "1027891862596509697",
+            "text": "Love our new ENS Hackathon t-shirts with our custom ENS names on them! Go team @hi_firefly! #enshackpic.twitter.com/ZLVLuwKeYE",
+            "username": "ricmoo",
+            "num_likes": 37,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1027476927773388800": {
+            "id": "1027476927773388800",
+            "text": "There is very little economic incentive for an external actor to make your plane or elevator crash, but large economic (and social) incentive for engineers to make sure they don\u2019t. The econmic incentives are flipped for controlling an election\u2019s outcome.  https://xkcd.com/2030/\u00a0",
+            "username": "ricmoo",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1013813879066054656": {
+            "id": "1013813879066054656",
+            "text": "The most insane part of @HyszSkies solutions for @nicksdjohnson\u2019s Solidity golf coding contest is that his standard (no asm) made the wild leader board. :) https://g.solidity.cc\u00a0",
+            "username": "ricmoo",
+            "num_likes": 20,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1004770408510509056": {
+            "id": "1004770408510509056",
+            "text": "Hey all! Just posted a new article to demonstrate how to make your Contract ABI human-readable by using the function and event signatures from your Solidity source. Any feedback is appreciated. :)https://blog.ricmoo.com/human-readable-contract-abis-in-ethers-js-141902f4d917\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "996499423424401409": {
+            "id": "996499423424401409",
+            "text": "And for anyone who missed the adorable animations that really brought the kitty to life on the 0.96\u201d screen...pic.twitter.com/VQfksB0RMG",
+            "username": "ricmoo",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "996494524422770688": {
+            "id": "996494524422770688",
+            "text": "Absolutely honoured to have been part of the @CryptoKitties project at #EtherealNY and work with such a talented artist @guilegaspar to auction off Kitty 127 on a custom @hi_firefly Hardware Wallet raising $140k for charity. @ChristiesInc @EvanKeast @CodexProtocolpic.twitter.com/eXljtu9dgV",
+            "username": "ricmoo",
+            "num_likes": 67,
+            "num_retweets": 18,
+            "num_replies": 5
+        },
+        "996461868335226881": {
+            "id": "996461868335226881",
+            "text": "Working from the Starbucks on 52nd between fifth and sixth today (Tuesday) if anyone visiting #Consensus2018 wants to drop by and chat about ethers.js, the @hi_firefly open source Hardware Wallet or really anything Ethereum. :)",
+            "username": "ricmoo",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "995409467574337536": {
+            "id": "995409467574337536",
+            "text": "\u201cEep! How Should Ethereum Be Governed?\u201dpic.twitter.com/xuLgN8IGKG",
+            "username": "ricmoo",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "995364904482754560": {
+            "id": "995364904482754560",
+            "text": "#EtherealNYpic.twitter.com/elFljaALuC",
+            "username": "ricmoo",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "993012990763937792": {
+            "id": "993012990763937792",
+            "text": "Sing Sing Turtle update: the turtle walks amongst us... Also in need of caffeine #tojam #tojam13pic.twitter.com/yxpzY2Ss9m",
+            "username": "ricmoo",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "992678856514355201": {
+            "id": "992678856514355201",
+            "text": "My Sing Sing Turtle game is coming along at the #TOJAM hackathon this weekend... Sing the dragon to sleep to attack while avoiding its fireballs. Game and Watch inspired with a few LEDs and some hot glue gun action and you can build your own. :)pic.twitter.com/6BLDobcA4r",
+            "username": "ricmoo",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "992116246693920768": {
+            "id": "992116246693920768",
+            "text": "Decided to work from the Bay and Dundas (TEC) Starbucks today (Thursday), in case anyone from #EDCON felt like wandering down during a break and chatting about ethers.js, @hi_firefly or anything else Ethereum. I\u2019m the guy wearing an ETHWaterloo shirt. :)",
+            "username": "ricmoo",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "991811983887527937": {
+            "id": "991811983887527937",
+            "text": "Today was a good day to drop by the office...pic.twitter.com/HutteWwlAS",
+            "username": "ricmoo",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "986258533577506819": {
+            "id": "986258533577506819",
+            "text": "Hey all! Just published another article, if you are interesting in signing message strings in JavaScript and verifying them in Solidity. Any feedback in welcome. Thanks! :)https://blog.ricmoo.com/verifying-messages-in-solidity-50a94f82b2ca\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "983563760106426368": {
+            "id": "983563760106426368",
+            "text": "Absolutely amazing @crypto_chicks #hackathon! It was a wonderful honour to be a mentor and speaker to such an incredible collection of talent and see so many great projects. Huge congrats to @ananyachdh; G-nome is awesome. Thank you!pic.twitter.com/tyCBOwDxxT",
+            "username": "ricmoo",
+            "num_likes": 37,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "976866703505264642": {
+            "id": "976866703505264642",
+            "text": "Hey all! I have just posted a new article on how Ethereum contract addresses are assigned and some fun things we can do with them. Any feedback in welcome. :)https://blog.ricmoo.com/contract-addresses-549074919ec8\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "974311820004675584": {
+            "id": "974311820004675584",
+            "text": "Hey all! I\u2019ve just posted an article on Merkle Air-Drops; using Merkle-proofs for efficient and wide token distribution without congesting the Ethereum network. Thoughts? :)https://blog.ricmoo.com/merkle-air-drops-e6406945584d\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "973079226164432896": {
+            "id": "973079226164432896",
+            "text": "McTrapDoorFunction: it is easy to transform an arbitrary chicken into a Chicken McNugget; but very difficult to transform a Chicken McNugget into a [viable] chicken. <3 @iamjohnoliver #craefulgang",
+            "username": "ricmoo",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "971892632371675136": {
+            "id": "971892632371675136",
+            "text": "Huge thanks to the #Ethereum Foundation for their DevEx Grant toward the ethers.js library; we have lots of exciting new features, articles and tutorials coming soon which we can now focus on full time. :) @ethereumproject https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 29,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "970717609879572482": {
+            "id": "970717609879572482",
+            "text": "Hey all! I just posted a quick article on how to use ethers.js with the the new Solidity ABIv2 coder; let me know if you have any questions. :)https://blog.ricmoo.com/solidity-abiv2-a-foray-into-the-experimental-a6afd3d47185\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "968543780180779010": {
+            "id": "968543780180779010",
+            "text": "Hey all! We have just posted a short demo of our #ETHDenver hackathon project; an Arduino + 2.4GHz radio with a private key which issues Geocache-inspired ERC-721 tokens offline and off-chain to nearby players. @yuetloo @EthereumDenverhttps://youtu.be/ciaj_vLmHMQ\u00a0",
+            "username": "ricmoo",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "965747280266612736": {
+            "id": "965747280266612736",
+            "text": "As I sit here teaching CSS to a colleague, I realize it is an interesting language in the sense that almost every token is a keyword...",
+            "username": "ricmoo",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "944233433676570630": {
+            "id": "944233433676570630",
+            "text": "Just released the latest Ethers Wallet (iOS) with iPhone X, iOS 11 and most importantly @CryptoKitties support. Now you can buy and sell on the go. Also added Rinkeby, Kovan and installing Dapps for devs.https://www.reddit.com/r/ethereum/comments/7li5nx/ethers_wallet_ios_v04_cryptokitties_iphone_x_ios/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "938337268430929920": {
+            "id": "938337268430929920",
+            "text": "Agreed! Adorable, non-obviously [at first] destructive, resource hungry, everyone\u2019s favourite episode and scourge of the Klingon Empire.https://twitter.com/iurimatias/status/938147213062082561\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "937058228000690177": {
+            "id": "937058228000690177",
+            "text": "Feeling too distracted by the stunningly gorgeous and simple-to-use @CryptoKitties interface? Miss the cold, cryptic comfort of a blinking cursor in a terminal? Try out my new command-line interfacehttps://github.com/ricmoo/ethers-meow\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "935606900594479106": {
+            "id": "935606900594479106",
+            "text": "While \u201cawesome\u201d isn\u2019t inaccurate, I think a better way to describe @CryptoKitties would be \u201caddictive\u201d or perhaps just simply \u201cabsolutely and unbearably life consuming\u201d.  <3",
+            "username": "ricmoo",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "926865868553949184": {
+            "id": "926865868553949184",
+            "text": "Do you remember when you joined Twitter? I don\u2019t actually... #MyTwitterAnniversarypic.twitter.com/e26uPs63g3",
+            "username": "ricmoo",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "911060573038792705": {
+            "id": "911060573038792705",
+            "text": "Awesome possum! Second place in the Underhanded Solidity Coding Contest; Lunch in Lyon, France. #Ethereum @iEx_ec :)https://medium.com/@weka/announcing-the-winners-of-the-first-underhanded-solidity-coding-contest-282563a87079\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "909171995266437121": {
+            "id": "909171995266437121",
+            "text": "Ethers Wallet v0.2 is live; better gas UI, #ENS, error-recovery, max-spendable, comma-locales, @hi_firefly refactorshttps://github.com/ethers-io/EthersWallet-ios/releases/tag/v0.2.3\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "849736345044094976": {
+            "id": "849736345044094976",
+            "text": "Hey all! The Ethereum ethers.js v2.0 now available. :)https://www.reddit.com/r/ethereum/comments/63ok6a/latest_version_of_ethersjs_available_ethersio/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "844295068269907971": {
+            "id": "844295068269907971",
+            "text": "Posted a quick video of my Ethereum Gum Ball Machine I presented at @BlockchainCAN in October;https://www.reddit.com/r/ethereum/comments/60pvec/ethereum_gum_ball_machine/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "829420866844950534": {
+            "id": "829420866844950534",
+            "text": "Ethers Wallet is now on iOS! Send, receive and manage your ether and Ethereum Dapps anywhere from your iPhone. :)https://www.reddit.com/r/ethereum/comments/5sv0ch/ethers_wallet_for_ios_ethersio/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "781938300848398337": {
+            "id": "781938300848398337",
+            "text": "ethers.io (my Ethereum wallet and app browser) is now ready for mild usage...  Enjoy. :)https://www.reddit.com/r/ethereum/comments/55993f/feedback_and_suggestions_ethersio_wallet_and_app/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "762728061838118912": {
+            "id": "762728061838118912",
+            "text": "I just released ethers-wallet, a complete Ethereum wallet JavaScript library in ~100KB #ethereumhttps://www.reddit.com/r/ethereum/comments/4wruiu/javascript_ethereum_library_release_etherswallet/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "759134380824506368": {
+            "id": "759134380824506368",
+            "text": "Splitting ETH/ETC woes? Safely chop up your ether using my new tool (use at your own risk); https://ethers-io.github.io/ethers-wallet/examples/splitter/\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "688299282055720960": {
+            "id": "688299282055720960",
+            "text": "I found a recipe for Level Up Mega Seed in #PocketMortys. http://hyperurl.co/zrn5s4\u00a0pic.twitter.com/ZGMhZOKciD",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "601243610642788352": {
+            "id": "601243610642788352",
+            "text": "Verifying myself: I am ricmoo on Keybase.io. 0VXI-RkVdF_DmOjE5oG1UcKv5AsKf4Ceuiwj / https://keybase.io/ricmoo/sigs/0VXI-RkVdF_DmOjE5oG1UcKv5AsKf4Ceuiwj\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "596496567831429120": {
+            "id": "596496567831429120",
+            "text": "I won swag! Last thee hex digits of the genesis (bitcoin) block are obviously 26f... Big endian...pic.twitter.com/hlbmE9lqsO",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "556182576617234432": {
+            "id": "556182576617234432",
+            "text": "Officially Launched! My new Kickstarter campaign! Word-less text adventure games...https://www.kickstarter.com/projects/ricmoo/glyfiction-wordless-text-adventure-games\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "497425037532463104": {
+            "id": "497425037532463104",
+            "text": "Verifying myself: My Bitcoin username is +ricmoo. https://onename.io/ricmoo\u00a0 #bitcoin",
+            "username": "ricmoo",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "121743079299489794": {
+            "id": "121743079299489794",
+            "text": "\"How to live before you die.\" ~Steve Jobs RIP",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "115178487010181120": {
+            "id": "115178487010181120",
+            "text": "@lauriesantos Excellent talk! Any plans on running your economics experiments on non-primates (dolphins, octopus)? re: http://www.ted.com/talks/laurie_santos.html\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "92135302629572609": {
+            "id": "92135302629572609",
+            "text": "@Dichenlachman is in the new #torchwood series!! =) I didn't really need another reason to watch it, but one more never hurts...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "76389784003682305": {
+            "id": "76389784003682305",
+            "text": "@aliciatweet because the wireless router relies on wall power :(",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "76152607827181568": {
+            "id": "76152607827181568",
+            "text": "Power outage in SF. Boo. My wants me internets back!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "51734557187256320": {
+            "id": "51734557187256320",
+            "text": "Waiting in line for iPad 2 all yesterday afternoon and they still have stock today! Oh geez...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "38781655451836416": {
+            "id": "38781655451836416",
+            "text": "@jenlai That's awesome! What was the question?",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "38766045196070913": {
+            "id": "38766045196070913",
+            "text": "Deciding on a taxation structure is quite non-trivial. Fed vs. prov? To Incorporate or not? Anyone know a good accountant for start-ups? :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "35472924685250560": {
+            "id": "35472924685250560",
+            "text": "The CIA should go into making children's toys! Help cut down that deficit - 1970's gas engine flying insect - http://v0d.ca/cia_insect",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3584283671273472": {
+            "id": "3584283671273472",
+            "text": "My latest iPhone app is available, Flag Atlas. Please download it and leave a review :) http://v0d.ca/flags",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "19926715929": {
+            "id": "19926715929",
+            "text": "<3 iPhone 4... Totally worth lining up at midnight. RicMoo loves Apple and Apple loves RicMoo. Tea and iPhone 4 cupcakes courtesy of Apple.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "19892566391": {
+            "id": "19892566391",
+            "text": "@iPhoneinCanada iPhone 4 ftw! @jenlai & I are on our way! We come bearing day old Krispy Kreme donuts! #yvr #pacificcentre #iphone4",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "19892327360": {
+            "id": "19892327360",
+            "text": "http://www.schmap.it/U0Guqo << I'll be there! ( thanks @iPhoneinCanada ) #iphone4 #yvr #pacificcentre",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14607132192": {
+            "id": "14607132192",
+            "text": "Lost... Was... Epic! An amazing ending to a wonderful tale. Again they fooled us, such a great use of misdirection as a plot device. <3 Lost",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14380811082": {
+            "id": "14380811082",
+            "text": "RT ([sic] implied): \"I am to weird to live and to rare to die\" @AetherBottle",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14054895897": {
+            "id": "14054895897",
+            "text": "Steam gave my Mac the elusive \"transparent darkened screen in many languages\" of death. Third time I've ever seen it on my Macs. Boo Steam!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14010308534": {
+            "id": "14010308534",
+            "text": "Just sold my projector! One less thing cluttering my place...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11849170469": {
+            "id": "11849170469",
+            "text": "Wow... Sent my push notifications from my EC2 host. 129K push notifications in 167 seconds. My desktop only did 60K in 42 minutes.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11843649888": {
+            "id": "11843649888",
+            "text": "Multitasking in iPhone OS 4!! http://v0d.ca/os4-features",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11575860211": {
+            "id": "11575860211",
+            "text": "My first tweet from my iPad... Still getting used to typing... Might've been selective, but the apps seem like a higher calibre...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11299035412": {
+            "id": "11299035412",
+            "text": "My iPad has shipped!!!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11116676223": {
+            "id": "11116676223",
+            "text": "42 minutes... Interesting.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "11115889281": {
+            "id": "11115889281",
+            "text": "Pushing 61,022 notifications to users of Drinks & Cocktails. Wonder how long this will take...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "10633753415": {
+            "id": "10633753415",
+            "text": "@bitmask You know you want one... Or an iPad :D",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "10625408787": {
+            "id": "10625408787",
+            "text": "Looking for beta testers, both iPod/iPhone owners and developers. Get paid for honest reviews: http://AppsOnTrees.com",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "10404068710": {
+            "id": "10404068710",
+            "text": "Pre-ordered my iPad! April 3rd, I'll be in Seattle... =D",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "9491411418": {
+            "id": "9491411418",
+            "text": "Switched to an EBS AMI from instance-store. Farewell my old EC2 host: 14:42:42 up 413 days, 23:13,  2 users,  load average: 0.00, 0.00, 0.08",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "7545530272": {
+            "id": "7545530272",
+            "text": "Precious precious Lost is at stake! Please Retweet! #NoStateofUnionFeb2 http://v0d.ca/NoStateofUnionFeb2",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6705689549": {
+            "id": "6705689549",
+            "text": "Skytrain to the airport is awesome! Free internet at airports is awesome! Travelling on a Tuesday is awesome #YVR",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6528489432": {
+            "id": "6528489432",
+            "text": "@khosrow Totally trivial... I didn't have any torx screwdrivers, but a small flathead fit fine enough :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6527886779": {
+            "id": "6527886779",
+            "text": "@jamesprovost OMG! Yes!!! Regular expressions should be taught along side the alphabet in kindergarden...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6517787861": {
+            "id": "6517787861",
+            "text": "OMGzors! OCZ Vertex Mac Edition SSD is AMAZING! Switching application is so snappy, even Photoshop! Launching apps is instantaneous... Mm...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6450182647": {
+            "id": "6450182647",
+            "text": "My new app is up! LOL Wing! Ratings and Reviews welcome! Positive preferred, but honest appreciated :) http://geneticmistakes.com/lolwing/",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "6383622812": {
+            "id": "6383622812",
+            "text": "O... M... G!!! T... R... O... N... Is... BACK!!! http://www.apple.com/trailers/disney/tronlegacy/hd/ #tronlegacy",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6296872832": {
+            "id": "6296872832",
+            "text": "Just bought a new 120GB OCZ Vertex SSD!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6097499924": {
+            "id": "6097499924",
+            "text": "#whistlertweetup on the shoulders of giants",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6097179213": {
+            "id": "6097179213",
+            "text": "#whistlertweetup  http://twitpic.com/r3cxb",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6096881494": {
+            "id": "6096881494",
+            "text": "#whistlertweetup 14 cm",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6096195459": {
+            "id": "6096195459",
+            "text": "#whistlertweetup  http://twitpic.com/r34oa",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6095818897": {
+            "id": "6095818897",
+            "text": "#whistlertweetup ticket 912. So close, except not. :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "5057011190": {
+            "id": "5057011190",
+            "text": "Finally back working on my iPhone app...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "4878779505": {
+            "id": "4878779505",
+            "text": "In south surrey, excited for some IHOP :) (who on Earth would volunteerly live here?!)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "4691277497": {
+            "id": "4691277497",
+            "text": "Dollhouse season 2 kinda sucks... Low budget camera work, cheap audio quality... Feels like a terrible daytime soap opera... *sigh*",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "4668129096": {
+            "id": "4668129096",
+            "text": "Ebisu was delicious... Now to get cracking on iPhone dev...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "4464236473": {
+            "id": "4464236473",
+            "text": "Living in Burnaby for the week taking care of a friend's dog... Burnaby sucks...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3766567585": {
+            "id": "3766567585",
+            "text": "My newest version of Drinks is available for your iPhone! Please install and rate it\u2026 5-stars is nice, but be honest :) http://v0d.ca/drinks",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3659450256": {
+            "id": "3659450256",
+            "text": "\"He hates humans, and he keeps me in a bubble!\"",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3516590055": {
+            "id": "3516590055",
+            "text": "@aliciatweet Indeed! Just had a shower... I should be good w/o sleep for the rest of the day now :) I cheated time and gained a night!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3516060046": {
+            "id": "3516060046",
+            "text": "My new plan of not sleeping Sundays is starting to feel like a bad idea... And it's only 10 in the morning...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3414619515": {
+            "id": "3414619515",
+            "text": "@jamesmcn I would think digital kitty litter would be simpler to clean up... You should ask @Ceiling_Cat though. In @Ceiling_Cat wez truzt.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3412570812": {
+            "id": "3412570812",
+            "text": "I had forgotten how amazingly powerful (and terribly frightening) cpp marcos were...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3400143929": {
+            "id": "3400143929",
+            "text": "Yay! Sold one of my foosball tables! Now I have room for my couch when it comes... In 2-4 weeks... :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3377923689": {
+            "id": "3377923689",
+            "text": "My honey wheat bread is done! With Almond slices on top :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3292337641": {
+            "id": "3292337641",
+            "text": "@mickeyl Same here... It's actually a really clever idea for marketing... TapTapTap has 4K followers, how many will they have by the draw?",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3292306726": {
+            "id": "3292306726",
+            "text": "#winMBP @taptaptap is giving away a $5999 ColorWare STEALTH MacBook Pro to celebrate launching Convert for iPhone! http://taptaptap.com/+BX3",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3273063319": {
+            "id": "3273063319",
+            "text": "Just watched Planet Earth on his new TV... Stellar!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3269826448": {
+            "id": "3269826448",
+            "text": "Waiting for my TV to be delivered... Anyone up for Planet Earth sans couches?",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2771048792": {
+            "id": "2771048792",
+            "text": "@j62lee No. I'm never getting leather again. It's cold in the morning, and terrible if you sweat and isn't soft. Microsuede ftw.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2770854396": {
+            "id": "2770854396",
+            "text": "Stereo system is all set up! Having walls the same color as masking tape makes hiding cables easy\u2026",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2767006602": {
+            "id": "2767006602",
+            "text": "@jamesprovost I am! We should meet up. Another friend or two are coming too...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2766981493": {
+            "id": "2766981493",
+            "text": "@j62lee Both!! :D",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2766309415": {
+            "id": "2766309415",
+            "text": "4 hours walking. 17 furniture stores. $1051. 6-8 weeks for delivery. 1 couch of awesome!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2743708960": {
+            "id": "2743708960",
+            "text": "I have internets!!!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2697082957": {
+            "id": "2697082957",
+            "text": "@IAmAru I believe you are correct :) thx.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2677830207": {
+            "id": "2677830207",
+            "text": "@jdlacey @Iamaru Ha ha! Wow... Soooo long ago... Those were good times :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2641592182": {
+            "id": "2641592182",
+            "text": "Now officially unemployed!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2636517196": {
+            "id": "2636517196",
+            "text": "Can penguins get avian flu?",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2488785357": {
+            "id": "2488785357",
+            "text": "Enjoyed his \"The Day America Abandoned Great Britain\" anniversary celebrations...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2452315430": {
+            "id": "2452315430",
+            "text": "RT @aliciatweet http://www.lolcatbible.com r0X0rs! Finally written in a language that makes sense...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2425585304": {
+            "id": "2425585304",
+            "text": "Happy Canada Day, Canada! Enjoy your day off, slackers! :p",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2411529461": {
+            "id": "2411529461",
+            "text": "My official two weeks notice are in! :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2410997011": {
+            "id": "2410997011",
+            "text": "You can always trade correctness for speed.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2396095684": {
+            "id": "2396095684",
+            "text": "Anyone need anything from REI? Is the sale still on?",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2365689718": {
+            "id": "2365689718",
+            "text": "iPhone tethering is AWESOME! My Canadian plan is way better than my USA plan... MMS, free tethering, 6GB, $55/mo. New number: 1-778-882-6125",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2336755709": {
+            "id": "2336755709",
+            "text": "Wow... I don't think I'd have ever been as quickly informed about Michael Jackson's death if not for twitter and wikipedia.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2299257668": {
+            "id": "2299257668",
+            "text": "All done... I am no longer wise... :(",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2297142699": {
+            "id": "2297142699",
+            "text": "Getting his wisdom teeth pulled. Looking forward to being knocked out for the next hour :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2259862107": {
+            "id": "2259862107",
+            "text": "My derailer crumpled... is that normal? It took the chain out along with it...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2244013624": {
+            "id": "2244013624",
+            "text": "@jenlai $100 to scrap data plan + $199 16GB 3GS?? btw... iPhone-less is not a valid option... :p",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2242316314": {
+            "id": "2242316314",
+            "text": "@jamesprovost Happy bday to you too!! I'll be there mid-July... Living at Denmann & Haro... We'll go for drinks :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2190111021": {
+            "id": "2190111021",
+            "text": "Meandering with and mangling the mandelbrot...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2160065326": {
+            "id": "2160065326",
+            "text": "Free until June 14th. Like Inconvenient Truth, except with actual research and not just scare tactics. http://www.youtube.com/homeproject",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2158808008": {
+            "id": "2158808008",
+            "text": "Accidentally got off 6 stops early but found a baskin robins.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2063689270": {
+            "id": "2063689270",
+            "text": "One day early this week due to being out of town: http://0x2121.com",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2059640301": {
+            "id": "2059640301",
+            "text": "@aliciatweet Well... \"The Link\"... It's train-esque :) Opening for us to use soon!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2059634728": {
+            "id": "2059634728",
+            "text": "@shineisdead ha ha... Enjoy might be too strong a word. But yes, I recently discovered my copy of Jim's nice shewtin tex...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2057756849": {
+            "id": "2057756849",
+            "text": "Congrats Cody, on a party of perfect epic-ness...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2000507824": {
+            "id": "2000507824",
+            "text": "Loves (and was shocked) that the transit tunnel is open until 1am.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1989177233": {
+            "id": "1989177233",
+            "text": "posted another strip: http://0x2121.com/",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1983843387": {
+            "id": "1983843387",
+            "text": "@aliciatweet apparently I only have the bottom two... But both of them need to go... :s",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1979225824": {
+            "id": "1979225824",
+            "text": "Saw Star Trek again! Sylar... err... Spock is awesome! I needs to find me some of that red matter...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1957731321": {
+            "id": "1957731321",
+            "text": "needs his wisdom teeth removed...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1933587181": {
+            "id": "1933587181",
+            "text": "McAfee resorts to fear tactics in their latest commercials. If this were a movie trailer, I'd prolly see it... http://stophcommerce.com",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1909969051": {
+            "id": "1909969051",
+            "text": "Bangbang is back! And twice as lame as ever! http://0x2121.com/",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1888797959": {
+            "id": "1888797959",
+            "text": "Surrounded by drying laundry...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1880107749": {
+            "id": "1880107749",
+            "text": "@chiamonkey You have a bear?? Office at home? Or at work? I really hope there aren't bats in the office... They get frightened indoors.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1868996142": {
+            "id": "1868996142",
+            "text": "Matt & Kim at Neumos was awesome!",
+            "username": "ricmoo",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1854018795": {
+            "id": "1854018795",
+            "text": "Helping a friend set up pyMVPA... And convincing her to get twitter...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1844235500": {
+            "id": "1844235500",
+            "text": "For everyone who's been to Zeitgeist and wondered what it is... http://v0d.ca/typeset",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1840694652": {
+            "id": "1840694652",
+            "text": "@NotTinaFey Happy 29th-ish Birthday!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1799388968": {
+            "id": "1799388968",
+            "text": "Recursion: http://alturl.com/6him",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1797620808": {
+            "id": "1797620808",
+            "text": "Woke up early to check out Matthew Williams at H&M... Meh...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1719000321": {
+            "id": "1719000321",
+            "text": "Is tired. Up at 6 to launch kindle dx. www.amazon.com/kindledx",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1656096176": {
+            "id": "1656096176",
+            "text": "At ignite too!!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1654534842": {
+            "id": "1654534842",
+            "text": "@jennylee781 Yupp! We're getting dinner at Gordon Biersch at 6:30 :)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1653464539": {
+            "id": "1653464539",
+            "text": "Come tonight! It's free 5 minutes seminars: www.igniteseattle.com",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1653451400": {
+            "id": "1653451400",
+            "text": "@jamesprovost Each of them less than 140 characters long... :p (are emoticons kosher in tweets? I don't see them often)",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1652570950": {
+            "id": "1652570950",
+            "text": "Doesn't understand twitter-speak...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1153576584": {
+            "id": "1153576584",
+            "text": "Wasting 46 characters of twitter space text...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "997107079": {
+            "id": "997107079",
+            "text": "Watching Neceonomicon at Open Circle.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "945869448": {
+            "id": "945869448",
+            "text": "Half a power hour. Sigh.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943046227": {
+            "id": "943046227",
+            "text": "Contemplating whether to sleep tonight or not.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "942902217": {
+            "id": "942902217",
+            "text": "At Havana. Come!",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "920611244": {
+            "id": "920611244",
+            "text": "New H&M in U District r0X0rs...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "843521577": {
+            "id": "843521577",
+            "text": "...wishing the blue screens would stop.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "802017699": {
+            "id": "802017699",
+            "text": "I am awake... It sucks.",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "388008502": {
+            "id": "388008502",
+            "text": "nothing much...",
+            "username": "ricmoo",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "evan_van_ness": 1,
+        "makoto_inoue": 3,
+        "mi_ayako": 2,
+        "ensdomains": 2,
+        "recmo": 1,
+        "ethereum": 1,
+        "technocrypto": 2,
+        "ethersproject": 1,
+        "ASmallFiction": 4,
+        "willroche16": 1,
+        "mhswende": 1,
+        "hi_firefly": 3,
+        "OutlierCanada": 1,
+        "theterrorverse": 1,
+        "SarahJamieLewis": 1,
+        "rohamg": 1,
+        "CryptoKitties": 1,
+        "MissBriannaM": 1,
+        "VitalikButerin": 1,
+        "arthur_camara": 1,
+        "vgrade": 1,
+        "nicksdjohnson": 1,
+        "geneticmistakes": 1,
+        "AetherBottle": 1
+    },
+    "users_retweeted": [
+        "ASmallFiction",
+        "makoto_inoue",
+        "hi_firefly",
+        "mi_ayako",
+        "ensdomains",
+        "technocrypto",
+        "evan_van_ness",
+        "recmo",
+        "ethereum",
+        "ethersproject",
+        "willroche16",
+        "mhswende",
+        "OutlierCanada",
+        "theterrorverse",
+        "SarahJamieLewis",
+        "rohamg",
+        "CryptoKitties",
+        "MissBriannaM",
+        "VitalikButerin",
+        "arthur_camara",
+        "vgrade",
+        "nicksdjohnson",
+        "geneticmistakes",
+        "AetherBottle"
+    ]
+}

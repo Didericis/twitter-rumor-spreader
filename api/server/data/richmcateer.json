@@ -1,0 +1,102 @@
+{
+    "is_complete": true,
+    "username": "richmcateer",
+    "retweeted": {
+        "1115763828057235456": {
+            "id": "1115763828057235456",
+            "text": "Check out how Polaris has tracked the market since its launch here: https://marbleprotocol.github.io/polaris-graph/\u00a0pic.twitter.com/ShWOs8hRLy",
+            "username": "marbleprotocol",
+            "num_likes": 28,
+            "num_retweets": 4,
+            "num_replies": 3
+        }
+    },
+    "tweeted": {
+        "1110922644201721856": {
+            "id": "1110922644201721856",
+            "text": "We\u2019re excited to gather feedback and test Polaris on the Ethereum mainnet before any live systems depend on it. If you\u2019re building a protocol that could use a trustless on-chain oracle, please let us know!",
+            "username": "richmcateer",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1110922643434168320": {
+            "id": "1110922643434168320",
+            "text": "The challenge is to balance competing priorities of an ideal oracle system: a live price, low work costs, and high resistance to price manipulation. Future versions of Polaris can improve on each of these.",
+            "username": "richmcateer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1110922642809192448": {
+            "id": "1110922642809192448",
+            "text": "Polaris attempts to solve the price manipulation problem. To do this, it creates a market between protocols who pay to have access to an accurate price and workers who pay to checkpoint the price on Uniswap over time, making an attack difficult and costly.",
+            "username": "richmcateer",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1110922642188455941": {
+            "id": "1110922642188455941",
+            "text": "We chose Uniswap as a starting point because it always has an on-chain price, it\u2019s an open protocol, and it\u2019s quickly adding liquidity because it has incentives for market makers.",
+            "username": "richmcateer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1110922641546702849": {
+            "id": "1110922641546702849",
+            "text": "We looked into existing solutions. Most are centralized. Augur and DutchX are potentially good, but too slow. Several on-chain exchanges have accurate prices but are easy to manipulate.",
+            "username": "richmcateer",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1110922640980508673": {
+            "id": "1110922640980508673",
+            "text": "There are lots of use cases for a fair on-chain price oracle: lending, derivatives, synthetic assets, portfolio management. @marbleprotocol needs one for lending.",
+            "username": "richmcateer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1110922640401678337": {
+            "id": "1110922640401678337",
+            "text": "We just released Polaris, a trustless price oracle built on @UniswapExchange:https://medium.com/@mykelp/introducing-polaris-ced195dd798e\u00a0\u2026",
+            "username": "richmcateer",
+            "num_likes": 72,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "1082441073249546241": {
+            "id": "1082441073249546241",
+            "text": "I just published \"Compound's Self-Liquidation Bug\" about the issue discovered in @compoundfinance a few weeks ago. https://medium.com/@richmcateer_93513/compounds-self-liquidation-bug-829d6571c2df\u00a0\u2026",
+            "username": "richmcateer",
+            "num_likes": 65,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1037851354172018688": {
+            "id": "1037851354172018688",
+            "text": "This is a good primer on token curated registries. The only use cases I can think of for TCRs that might be valuable today are ones in which the list is used by smart contracts: identity, token tickers, 0x asset proxies, for example.https://multicoin.capital/2018/09/05/tcrs-features-and-tradeoffs/\u00a0\u2026",
+            "username": "richmcateer",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1018992800430358528": {
+            "id": "1018992800430358528",
+            "text": "Excited to announce a new project:https://medium.com/marbleorg/introducing-marble-a-smart-contract-bank-c9c438a12890\u00a0\u2026",
+            "username": "richmcateer",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "marbleprotocol": 1
+    },
+    "users_retweeted": [
+        "marbleprotocol"
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "is_complete": true,
+    "username": "GuidoVranken",
+    "retweeted": {
+        "1114217545941147648": {
+            "id": "1114217545941147648",
+            "text": "I wrote a follow-up blog post on secure C++ software development at @Ripple.\n\nThis time, I focus more on bug bounty programs & our engagement with independent security researchers like the amazingly talented @GuidoVranken!\n\nDon\u2019t delay, read today:\n\nhttps://developers.ripple.com/blog/2019/secure-development-practices.html\u00a0\u2026",
+            "username": "nbougalis",
+            "num_likes": 149,
+            "num_retweets": 43,
+            "num_replies": 4
+        },
+        "1101271328030519296": {
+            "id": "1101271328030519296",
+            "text": "oss-fuzz: #golang supporthttps://github.com/google/oss-fuzz/pull/2188\u00a0\u2026",
+            "username": "dgryski",
+            "num_likes": 30,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1057705414220046337": {
+            "id": "1057705414220046337",
+            "text": "At dinner tonight, @DeanEigenmann, @matthewdif and I got this receipt with an SSL error and some kind of base64 blob on it. The base64 data appears to be binary. Anyone know what it might be?pic.twitter.com/MVkfkTHZtc",
+            "username": "nicksdjohnson",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 7
+        }
+    },
+    "tweeted": {
+        "1082642178755751938": {
+            "id": "1082642178755751938",
+            "text": "Full disclosure -- ZeroMQ libzmq remote code execution exploithttps://github.com/zeromq/libzmq/issues/3351\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 172,
+            "num_retweets": 105,
+            "num_replies": 2
+        },
+        "1119016753303044102": {
+            "id": "1119016753303044102",
+            "text": "\u25d5_\u25d5pic.twitter.com/44lhbVkAzY",
+            "username": "GuidoVranken",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1117589776213979137": {
+            "id": "1117589776213979137",
+            "text": "Steadily finding more cryptography implementation bugs.\n\nhttps://github.com/guidovranken/cryptofuzz\u00a0\u2026pic.twitter.com/49bKbspH8V",
+            "username": "GuidoVranken",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1114881639061041154": {
+            "id": "1114881639061041154",
+            "text": "Having taken a quick glance at the NodeJS source code I think it might be affected by the chunked chacha20-poly1305 bug, but not sure.",
+            "username": "GuidoVranken",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114880715450212353": {
+            "id": "1114880715450212353",
+            "text": "So this thing is finally running now. Still work in progress, but it has found a bunch of bugs in OpenSSL and LibreSSL API's which may or may not affect you. Feel free to join in and add support for your crypto library. #fuzzing #crypto\nhttps://github.com/guidovranken/cryptofuzz\u00a0\u2026https://twitter.com/GuidoVranken/status/1026509714123890688\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 20,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1114623729915576322": {
+            "id": "1114623729915576322",
+            "text": "I had so much fun auditing rippled. The code is neatly formatted and organized, minimal use of memcpy, smart pointers everywhere, extensive use of the battle-tested Boost libraries, use of Protobufs, no excessive resource consumption.. ",
+            "username": "GuidoVranken",
+            "num_likes": 218,
+            "num_retweets": 62,
+            "num_replies": 3
+        },
+        "1086733417553760257": {
+            "id": "1086733417553760257",
+            "text": "Is the Clang static analyzer really this bad? pic.twitter.com/w8VigX9Qqy",
+            "username": "GuidoVranken",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1082654117569400841": {
+            "id": "1082654117569400841",
+            "text": "If you can defeat ASLR, you'll have a Bitcoin Core (and clones) RCE\n\nhttps://github.com/bitcoin/bitcoin/tree/master/src/zmq\u00a0\u2026https://twitter.com/GuidoVranken/status/1082642178755751938\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 13,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1075799586353090566": {
+            "id": "1075799586353090566",
+            "text": "Why I'll never touch (USB) Yubikey and similar. The supply chain vector is so obvious and high ROI.https://twitter.com/Zerodium/status/1075737332777533441\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1070850498150977536": {
+            "id": "1070850498150977536",
+            "text": "Solve equations with a fuzzing algorithm. Not sure about its efficiency compared to brute force for smallish numbers but interesting to see either way.\n\nhttps://github.com/guidovranken/equation-fuzzer\u00a0\u2026pic.twitter.com/uuBt038wxD",
+            "username": "GuidoVranken",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1067432541878009857": {
+            "id": "1067432541878009857",
+            "text": "CVE-2018-19591: GNU C library DoS (resource exhaustion) via crafted hostname resolution https://sourceware.org/bugzilla/show_bug.cgi?id=23927\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1057240027070111744": {
+            "id": "1057240027070111744",
+            "text": "Le Lambo #devcon4pic.twitter.com/72JaBRWKgg",
+            "username": "GuidoVranken",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057007555115933696": {
+            "id": "1057007555115933696",
+            "text": "#devcon4pic.twitter.com/JpGlsaD7lc",
+            "username": "GuidoVranken",
+            "num_likes": 16,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039639753233231872": {
+            "id": "1039639753233231872",
+            "text": "btcd script execution DoShttps://github.com/btcsuite/btcd/issues/1287\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1035965042003517441": {
+            "id": "1035965042003517441",
+            "text": "Stellar Horizon server remote DoS\n\nLesson learned: don't do math.big.Rat.SetString() with untrusted inputhttps://github.com/stellar/go/commit/5bf53ca1550b70f00e6294589d4fcb2497264b31\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1035963672491905033": {
+            "id": "1035963672491905033",
+            "text": "FreeBSD bsnmp OOB read in its ASN1 decoder. Reported on April 26 2017 to secteam@freebsd.org but apparently never fixed. Exploitability unclear. Patchhttps://gist.github.com/guidovranken/3ca4ce4c56f0b50d7b6e0094a6a2c1a6\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033499050199400450": {
+            "id": "1033499050199400450",
+            "text": "Found a remote crash bug in btcd (Bitcoin client written in Go)https://github.com/btcsuite/btcd/commit/7a657ffa2e186e88cac16b56a161512ee64afe05\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1031146435482411008": {
+            "id": "1031146435482411008",
+            "text": "I did an nginx HTTP Basic auth username enumeration some years ago https://guidovranken.com/2014/08/01/a-timing-attack-on-nginx-http-auth-basic-module/\u00a0\u2026https://twitter.com/cynicalsecurity/status/1030069559850688512\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1026509714123890688": {
+            "id": "1026509714123890688",
+            "text": "OpenSSL mega crypto fuzzer: all (15) digests + all (144) sym. ciphers encryption+decryption (via EVP and BIO), HMAC + all digests, CMAC + all sym. ciphers, KDFs (SCRYPT + HKDF + TLS1 PRF) and then some. Project goal is mega crypto differential fuzzing @ Google oss-fuzz.pic.twitter.com/abtMXY3NFU",
+            "username": "GuidoVranken",
+            "num_likes": 26,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1022995538210418689": {
+            "id": "1022995538210418689",
+            "text": "Some time ago I reported a remote memory corruption vulnerability (max. 1 byte OOB) to Ripple. Bounty $10K.https://github.com/ripple/rippled/commit/0439dcfa7a5215cc74a8e254a28eadace6a524b7\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 38,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1021534350997946369": {
+            "id": "1021534350997946369",
+            "text": "This is what I have so far https://github.com/guidovranken/emufuzz\u00a0\u2026https://twitter.com/GuidoVranken/status/1021391238514257921\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 17,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1021391238514257921": {
+            "id": "1021391238514257921",
+            "text": "Multi-arch instruction-level differential fuzzing with libFuzzer, Unicorn and Capstone. Also detects use of uninitialized memory. I want to subject OpenSSL's multiple implementations of the same functions (in C, optimized asm across multiple archs) to this.pic.twitter.com/h2oyUF1yOO",
+            "username": "GuidoVranken",
+            "num_likes": 61,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1018514788815695872": {
+            "id": "1018514788815695872",
+            "text": "It's very easy to find slow inputs with my Java fuzzer. Just run it with --intensity -timeout=5 and kick back.\n\nhttp://bouncy-castle.1462172.n4.nabble.com/ASN1-parsing-denial-of-service-td4659386.html\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1015338823017009154": {
+            "id": "1015338823017009154",
+            "text": "I've open sourced my libFuzzer-based Java fuzzer. Have fun.https://github.com/guidovranken/libfuzzer-java\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 85,
+            "num_retweets": 43,
+            "num_replies": 1
+        },
+        "1015269721292398592": {
+            "id": "1015269721292398592",
+            "text": "Fuzzing a popular file format and need a good seed corpus? Get some @archiveteam URL lists -> select files by extension (eg. grep -ia \"\\.JPG$\") -> download files with wget/aria2 -i urls.txt -> fuzz\n\nhttps://archive.org/search.php?query=subject:terroroftinytown&sort=-publicdate\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1015052221019512832": {
+            "id": "1015052221019512832",
+            "text": "VrankenFuzz \u2013 a multi-sensor, multi-generator mutational fuzz testing engine\n\nhttps://guidovranken.files.wordpress.com/2018/07/vrankenfuzz.pdf\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 68,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "1010143846553018370": {
+            "id": "1010143846553018370",
+            "text": "Fast in-memory libFuzzer-based Java fuzzingpic.twitter.com/tvMjmj4pJP",
+            "username": "GuidoVranken",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1009133438325182465": {
+            "id": "1009133438325182465",
+            "text": "I found one more bug in EOS the other day but apparently the dev team found it before me, so no bounty. You win some, you lose some..",
+            "username": "GuidoVranken",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1007017289009582080": {
+            "id": "1007017289009582080",
+            "text": "This is one EOS bug I found. Unbounded recursion in Binaryen WASM parsing https://github.com/EOSIO/eos/pull/4036\u00a0\u2026 (GDB backtrace: https://gist.github.com/guidovranken/47ec955aca61a17dd0465ba293ac9b46\u00a0\u2026 )",
+            "username": "GuidoVranken",
+            "num_likes": 53,
+            "num_retweets": 9,
+            "num_replies": 7
+        },
+        "1006504045614333954": {
+            "id": "1006504045614333954",
+            "text": "It is likely that CVE-2018-0732 can be exploited by a MitM. You can probably take and modify my MitM exploit for CVE-2017-3730 (another OpenSSL DoS I found) to exploit CVE-2018-0732 on the fly:https://github.com/guidovranken/CVE-2017-3730\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1006493631727845376": {
+            "id": "1006493631727845376",
+            "text": "I don't really mind, I just hope nobody is easily vulnerable to it without being able to update.",
+            "username": "GuidoVranken",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006493426332946432": {
+            "id": "1006493426332946432",
+            "text": "Issue is considered \"LOW\" severity. I don't agree. It's closer to \"crashes in client applications\" than \"openssl command line utility, unlikely configurations, or hard to exploit timing (side channel) attacks\".pic.twitter.com/aof5GEHQVf",
+            "username": "GuidoVranken",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1006492827344363521": {
+            "id": "1006492827344363521",
+            "text": "Proof of concept:https://gist.github.com/guidovranken/c258310f4203825419d05ce71dc76bb1\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1006492485605093376": {
+            "id": "1006492485605093376",
+            "text": "OpenSSL CVE-2018-0732: client denial-of-service via excessively large DH prime: https://www.openssl.org/news/secadv/20180612.txt\u00a0\u2026",
+            "username": "GuidoVranken",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1004074181007495169": {
+            "id": "1004074181007495169",
+            "text": "OpenSSL CVE-2018-0732 TBA",
+            "username": "GuidoVranken",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1003810617768185856": {
+            "id": "1003810617768185856",
+            "text": "A new remote OpenSSL vulnerability has been reported. It will probably be considered \"medium\" severity by the devs.",
+            "username": "GuidoVranken",
+            "num_likes": 21,
+            "num_retweets": 0,
+            "num_replies": 2
+        }
+    },
+    "num_retweets_by_originator": {
+        "nbougalis": 1,
+        "dgryski": 1,
+        "nicksdjohnson": 1
+    },
+    "users_retweeted": [
+        "nbougalis",
+        "dgryski",
+        "nicksdjohnson"
+    ]
+}

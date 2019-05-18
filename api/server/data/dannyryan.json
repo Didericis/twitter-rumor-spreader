@@ -1,0 +1,2760 @@
+{
+    "is_complete": true,
+    "username": "dannyryan",
+    "retweeted": {
+        "1125769038666375170": {
+            "id": "1125769038666375170",
+            "text": " Prysm Phase 0 Testnet is here! https://link.medium.com/KVdUo22VuW\u00a0",
+            "username": "prylabs",
+            "num_likes": 195,
+            "num_retweets": 62,
+            "num_replies": 5
+        },
+        "1123806204696891393": {
+            "id": "1123806204696891393",
+            "text": "The latest #lighthouse update is out!\n\nAchievements:\n- Re-licensed to Apache 2.0\n- Passing state-transition tests.\n- 25x faster merkle-roots.\n- Assisting with BLS standardization.\n\nUpcoming:\n- Spec v0.6.x\n- Discv5\n- Progress towards multi-client testnet.https://lighthouse.sigmaprime.io/update-10.html\u00a0",
+            "username": "sigp_io",
+            "num_likes": 80,
+            "num_retweets": 36,
+            "num_replies": 4
+        },
+        "1123406615573458944": {
+            "id": "1123406615573458944",
+            "text": "We're proud to be collaborating with @drakefjustin, @ChiaNetworkInc, @Algorand to produce a cross-chain BLS signature standard. We've been implementing experimental hashing algos in @rustlang, providing feedback to researchers.https://github.com/pairingwg/bls_standard/blob/master/minutes/spec-v1.md\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 43,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1123281505344741377": {
+            "id": "1123281505344741377",
+            "text": "Welcome to the beginning of a new http://ethereum.org\u00a0. Built by the community, for the community.https://blog.ethereum.org/2019/04/30/beginning-a-new-ethereum-org/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 792,
+            "num_retweets": 257,
+            "num_replies": 53
+        },
+        "1123247914317504514": {
+            "id": "1123247914317504514",
+            "text": "I just published Future Vision for Lodestarhttps://link.medium.com/LltmQG9njW\u00a0",
+            "username": "gregthegreek",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1122932796941639681": {
+            "id": "1122932796941639681",
+            "text": "AGENDA IS LIVE.\n\nSchedule for @EtherealSummit is finalized and will be a nonstop #blockchain blitz. Must-see sessions? Day 1: @mi_ayako with what's next for the @Ethereum Foundation. Day 2: @novogratz is still certain the institutional herd is coming.https://etherealsummit.com/events/ethereal-ny/\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 69,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "1122414282564673536": {
+            "id": "1122414282564673536",
+            "text": "Newest dev update is out. Apart from Byzantium in #Ethereum 1.0, we now also support Whisper and the build works on Windows. Grandiose plans for @EFDevcon too https://our.status.im/nimbus-dev-update-byzantium/\u00a0\u2026",
+            "username": "ethnimbus",
+            "num_likes": 159,
+            "num_retweets": 53,
+            "num_replies": 17
+        },
+        "1121452709394169858": {
+            "id": "1121452709394169858",
+            "text": "I just published Ethereum 2.0 Development Update #26\u200a\u2014\u200aPrysmatic Labs https://link.medium.com/IuA6sHnabW\u00a0 #Ethereum @prylabs",
+            "username": "raulitojordan",
+            "num_likes": 68,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1121242198929027073": {
+            "id": "1121242198929027073",
+            "text": "Please RT for awareness - @realLedgerwatch is looking for someone to lead the Finality Gadget working group.\n\nFunding likely available \n@econoar @VitalikButerin @drakefjustin @dannyryan @IslandHunting @iamDCinvestor @sassal0x @gluk64https://ethereum-magicians.org/t/finality-gadget-for-ethereum1x-working-group/3177/13?u=tvanepps\u00a0\u2026",
+            "username": "trent_vanepps",
+            "num_likes": 40,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "1121040905954312192": {
+            "id": "1121040905954312192",
+            "text": " This week, we chat w @drakefjustin about the need for randomness in blockchain, how it's created and what adversarial models exist. We also cover random beacons & how randomness is used in various ways in ETH2.0 https://www.zeroknowledge.fm/74\u00a0 cc: @ethereum @fredhrson @AnnaRRose #eth2",
+            "username": "zeroknowledgefm",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1120768393899118592": {
+            "id": "1120768393899118592",
+            "text": "We are trying to get the Finality Gadget for Ethereum 1x working group formed. Please come discuss and check in:https://ethereum-magicians.org/t/finality-gadget-for-ethereum1x-working-group/3177\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 56,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1118893732584202240": {
+            "id": "1118893732584202240",
+            "text": "@realLedgerwatch kicking off a \u201c1x finalization by ETH 2.0\u201d working group #coredevsberlinpic.twitter.com/VTlTwCbP9v",
+            "username": "trent_vanepps",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1117179301227634688": {
+            "id": "1117179301227634688",
+            "text": "Latest Week in Ethereum News is out! https://weekinethereumnews.com/april-12-2019/\u00a0",
+            "username": "evan_van_ness",
+            "num_likes": 70,
+            "num_retweets": 29,
+            "num_replies": 4
+        },
+        "1115749558175391745": {
+            "id": "1115749558175391745",
+            "text": "@JonnyRhea from @PegaSysEng justifying and finalizing blocks across multiple Artemis #Ethereum 2.0 nodes.pic.twitter.com/vCdrFEMqz1",
+            "username": "josephdelong",
+            "num_likes": 93,
+            "num_retweets": 28,
+            "num_replies": 2
+        },
+        "1115688217355915264": {
+            "id": "1115688217355915264",
+            "text": "New week, new testnet!\n\n* rebooted with fixes to several community-reported issues\n* increasing size to 1000 validators and 16 shards: https://github.com/status-im/nim-beacon-chain/blob/ba48fcd165bc27eeff02a76bf9a55f813b7278a6/scripts/testnet0.env\u00a0\u2026\n* using devp2p networking stack, libp2p coming soon\u2122\n\nJoin here:https://our.status.im/the-nimbus-mvp-testnet-is-here/\u00a0\u2026",
+            "username": "jcksie",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1114629839007432704": {
+            "id": "1114629839007432704",
+            "text": "The latest Week in Ethereum News:  https://weekinethereumnews.com/april-5-2019/\u00a0",
+            "username": "evan_van_ness",
+            "num_likes": 66,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "1113459974355660806": {
+            "id": "1113459974355660806",
+            "text": "Tweetstorm about #eth2 development\n\n\"The ETH 2.0 testing saga\"\n\nIn context of some of my traveling\n    \n#ethereum #serenity\n\nRead\n",
+            "username": "protolambda",
+            "num_likes": 153,
+            "num_retweets": 46,
+            "num_replies": 5
+        },
+        "1113410824553385989": {
+            "id": "1113410824553385989",
+            "text": "Artemis, @PegaSysEng's #Ethereum 2 client, is the first client to implement the Hobbits wire protocol. Here's a demo of 4 nodes sync'd and running multiple validators. Thanks fellow Illumunati @_tmio, @whiteblock, @ChainSafeth, @DeanEigenmann et al. for the work on Hobbits.pic.twitter.com/CrEn96Noim",
+            "username": "JonnyRhea",
+            "num_likes": 96,
+            "num_retweets": 36,
+            "num_replies": 3
+        },
+        "1112605017196756992": {
+            "id": "1112605017196756992",
+            "text": "8 #lighthouse nodes syncing with block and attestation production from our validator client. Networked with rust-libp2p gossipsub, via an AWS server!  #eth2 @sigp_io @AgeManning @sproulM_ @spble @ethZedpic.twitter.com/KRZq0hqbtN",
+            "username": "paulhauner",
+            "num_likes": 256,
+            "num_retweets": 59,
+            "num_replies": 25
+        },
+        "1112853101969498112": {
+            "id": "1112853101969498112",
+            "text": "Checkout the latest #Lighthouse development update! \n\nhttps://lighthouse.sigmaprime.io/update-09.html\u00a0\n\nOur rusty beacon node and multi-threaded validator client can now produce a functional, short-lived, single-client testnet!\n\n#Ethereum #Serenity",
+            "username": "sigp_io",
+            "num_likes": 87,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "1111759000893341697": {
+            "id": "1111759000893341697",
+            "text": "The Nimbus MVP testnet is here! \n\nYes, it's open to the public and yes you can join us in pretending to be a validator!https://our.status.im/the-nimbus-mvp-testnet-is-here/\u00a0\u2026",
+            "username": "ethnimbus",
+            "num_likes": 309,
+            "num_retweets": 118,
+            "num_replies": 12
+        },
+        "1111780404007186432": {
+            "id": "1111780404007186432",
+            "text": "In today's edition of What's New in Eth2, we indulge in a little stock taking after the first nine months of the #Ethereum 2 adventure. What a whirlwind!\n\nhttps://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190329.html\u00a0\u2026\nhttp://peepeth.com/p/iTK\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 86,
+            "num_retweets": 38,
+            "num_replies": 2
+        },
+        "1111367036649656320": {
+            "id": "1111367036649656320",
+            "text": "The latest development update is out! We are getting very close to a Prysm test net! https://medium.com/prysmatic-labs/ethereum-2-0-serenity-testnet-update-closer-than-ever-259cace9a1b1\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 302,
+            "num_retweets": 94,
+            "num_replies": 8
+        },
+        "1111329152928485377": {
+            "id": "1111329152928485377",
+            "text": "Oh this? Nothing much, just an @ethereum 2.0 beacon node validating on a remote testnet from a http://blockandmortar.io\u00a0 NanoPC-T4 (ARM). #Ethereum #serenitypic.twitter.com/ugwraepfwG",
+            "username": "bitfalls",
+            "num_likes": 211,
+            "num_retweets": 49,
+            "num_replies": 10
+        },
+        "1108078148602650624": {
+            "id": "1108078148602650624",
+            "text": "the blockchain community has always been about making progress in a decentralized voluntary manner; we need tools to scale progress and structure the right incentives; I'm excited to introduce CryptoUnlocked - Proof of Impact fundraising\nhttps://blog.wetrust.io/introducing-cryptounlocked-703419a8e219\u00a0\u2026pic.twitter.com/EB1R1eXElp",
+            "username": "gliinbox",
+            "num_likes": 102,
+            "num_retweets": 42,
+            "num_replies": 3
+        },
+        "1107301742025338883": {
+            "id": "1107301742025338883",
+            "text": "Interested in helping us test Nimbus and improve docs and software? Apply here and RT for reach. Let's #buidl this thing https://our.status.im/nimbus-test-pilots-wanted/\u00a0\u2026",
+            "username": "ethnimbus",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1106256176881328128": {
+            "id": "1106256176881328128",
+            "text": "Update time: here's what we've been up to in the past two weeks!https://our.status.im/nimbus-development-update-03/\u00a0\u2026",
+            "username": "ethnimbus",
+            "num_likes": 42,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1106588034613444608": {
+            "id": "1106588034613444608",
+            "text": "Taipei Meetup slides - Life of an Ethereum beacon chain validator - spec v0.5.0 \n\nThanks to @eth_taipei @ethfans @VitalikButerin @dannyryan @protolambda @ChihChengLiang! https://docs.google.com/presentation/d/1JlQ8fVZUvt7ywRcI7mj1ExmPxcNII2xKT4lkgnkq7gU/edit?usp=sharing\u00a0\u2026",
+            "username": "icebearhww",
+            "num_likes": 135,
+            "num_retweets": 40,
+            "num_replies": 7
+        },
+        "1106514596251213825": {
+            "id": "1106514596251213825",
+            "text": "Yay - What's new in Eth2 is back! \n\nGet your latest #Ethereum 2.0 news here \nhttps://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190315.html\u00a0\u2026\nhttp://peepeth.com/p/ip5\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 133,
+            "num_retweets": 49,
+            "num_replies": 0
+        },
+        "1106255441082937345": {
+            "id": "1106255441082937345",
+            "text": "So what does an #eth2 beacon node actually do, in practice? Well, here's a tweet storm to find out. We'll follow the logs of a node backwards, just like following a block chain that effectively is a singly linked list going back in time. Reverse engineering, like :)",
+            "username": "jcksie",
+            "num_likes": 192,
+            "num_retweets": 59,
+            "num_replies": 5
+        },
+        "1106267212392878080": {
+            "id": "1106267212392878080",
+            "text": "I just published yeeth updates #2https://medium.com/yeeth/yeeth-updates-2-52f564b53d00\u00a0\u2026",
+            "username": "yeethaf",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1106265568720490496": {
+            "id": "1106265568720490496",
+            "text": "Happyday from @prylabs! Check out our dev update #24 on ETH2.0. The latest activities on:\nBeacon node + validator run time\nMulti beacon node syncing\nLMD Ghost fork choice framework & benchmarks\nSparse Merkle trie tools\nEnd-2-end testing\nWe have a new team member!",
+            "username": "terencechain",
+            "num_likes": 109,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "1106223638695469058": {
+            "id": "1106223638695469058",
+            "text": "We've published benchmarks from #Lighthouse for 16k, 300k and 4M validators.\n\nThey're testing the functional Ethereum 2.0 state transition components, with parallelization.\n\nRead the results or run them yourself:https://github.com/sigp/serenity-benches\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 95,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "1105951401069428736": {
+            "id": "1105951401069428736",
+            "text": "Eth2.0 phase 0 workshop starting now\u2014come ask questions :)https://twitter.com/Linktimetech/status/1105047691472457728\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1105800847190122497": {
+            "id": "1105800847190122497",
+            "text": "Beacon node simulation with 768 validators and 75 nodes chugging along...\n\n#serenity #ethereumpic.twitter.com/zZR6IyFCZ8",
+            "username": "ethnimbus",
+            "num_likes": 387,
+            "num_retweets": 83,
+            "num_replies": 11
+        },
+        "1102916908326797312": {
+            "id": "1102916908326797312",
+            "text": "EthCC slides on the Eth2 phase 0 spechttps://docs.google.com/presentation/d/1YdrJPGRLTK2FQLy9zS-8DRHFtPbVBwX1EhrDzXnULTY/edit?usp=sharing\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 80,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "1101238689789890560": {
+            "id": "1101238689789890560",
+            "text": "I just posted \"ETH2.0 - ChainSafe Systems Bi-Weekly Dev Update!\" on Reddithttps://www.reddit.com/r/ethereum/comments/avwkom/eth20_chainsafe_systems_biweekly_dev_update/?utm_content=post&utm_medium=twitter&utm_source=share&utm_name=submit&utm_term=t3_avwkom\u00a0\u2026",
+            "username": "gregthegreek",
+            "num_likes": 60,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "1101580118286389248": {
+            "id": "1101580118286389248",
+            "text": "A tweet storm about the first 64 epochs in the life of the #eth beacon chain state, in a rosy world where nothing but love flows from the validators...",
+            "username": "jcksie",
+            "num_likes": 115,
+            "num_retweets": 38,
+            "num_replies": 6
+        },
+        "1101529764161040385": {
+            "id": "1101529764161040385",
+            "text": "I just wrote up a rough transcript of the latest @zeroknowledgefm w/ @dannyryan. Twas a great episode, wanted to document my takeaways re: the ongoing ETH 2.0 effort.\n\nCheers to @AnnaRRose and @fredhrson! (make sure you listen to the full episode)https://medium.com/@trenton.v/zero-knowledge-x-danny-ryan-e3526cf61210?source=friends_link&sk=af56d7ebde0c3781ffc72643d1e82d6b\u00a0\u2026",
+            "username": "trent_vanepps",
+            "num_likes": 64,
+            "num_retweets": 24,
+            "num_replies": 6
+        },
+        "1101217695557652480": {
+            "id": "1101217695557652480",
+            "text": "I just published Ethereum 2.0 Development Update #23\u200a\u2014\u200aPrysmatic Labs https://link.medium.com/JrkW1qquGU\u00a0 #Ethereum @prylabs happy fork day!",
+            "username": "raulitojordan",
+            "num_likes": 194,
+            "num_retweets": 57,
+            "num_replies": 5
+        },
+        "1100601731208134656": {
+            "id": "1100601731208134656",
+            "text": "Latest #Lighthouse update is out! Lots of progress was made over the last fortnight #Ethereum #Serenityhttps://lighthouse.sigmaprime.io/update-08.html\u00a0",
+            "username": "ethZed",
+            "num_likes": 71,
+            "num_retweets": 22,
+            "num_replies": 4
+        },
+        "1098616562938834946": {
+            "id": "1098616562938834946",
+            "text": "Announcing the first round of Ethereum Foundation grantees in 2019!https://blog.ethereum.org/2019/02/21/ethereum-foundation-grants-program-wave-5/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 421,
+            "num_retweets": 134,
+            "num_replies": 22
+        },
+        "1098631371256487939": {
+            "id": "1098631371256487939",
+            "text": "The @Ethereum Foundation has announced a Wave 5 grant to the talented student team hacking on py-libp2p!\n\nhttps://blog.ethereum.org/2019/02/21/ethereum-foundation-grants-program-wave-5/\u00a0\u2026\n\nFollow their work, and get involved: https://github.com/libp2p/py-libp2p\u00a0\u2026\n\nThis has only just started!  \n\n(here we were bootstrapping them in #devcon4 )pic.twitter.com/0vZiE24Svc",
+            "username": "raulvk",
+            "num_likes": 33,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1096123849458905088": {
+            "id": "1096123849458905088",
+            "text": "Stay up to date on ETH2 development with the latest @prylabs update:\nBeacon chain running w/ 8 validators locally\nDeploying and testing deposit contract on Goerli testnet\nReconstructing proposer/attester code\nAligning chain processing w/ spec v0.2https://medium.com/prysmatic-labs/ethereum-2-0-development-update-22-prysmatic-labs-b5b88ace0441\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 77,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1095046888074723328": {
+            "id": "1095046888074723328",
+            "text": "Prompted by the Eth2.0 AMA to make BETH liquid in phases 0 and 1: a mechanism (to be removed in phase 2) for validators to transfer their balance on the beacon chain.https://github.com/ethereum/eth2.0-specs/pull/601\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 62,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1093964025493372928": {
+            "id": "1093964025493372928",
+            "text": "What's New in #Ethereum 2.0 - The Slightly Ranty Edition\n\nI get a bit opinionated in this one :-) Come and find out what's got my goat.\n\nhttps://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190208.html\u00a0\u2026\nhttp://peepeth.com/p/hz7\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 50,
+            "num_retweets": 20,
+            "num_replies": 4
+        },
+        "1093758044725342209": {
+            "id": "1093758044725342209",
+            "text": "The phrase \"Q1 2019 Beacon Chain Testnet\" has been thrown around lately.\n\nA testnet can have multiple different qualities and we seek to explore what to expect in Q1. 1/nhttps://twitter.com/sigp_io/status/1093750944590778368\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 63,
+            "num_retweets": 26,
+            "num_replies": 17
+        },
+        "1093750944590778368": {
+            "id": "1093750944590778368",
+            "text": "The latest #Lighthouse update is live! \n\nAlongside dev updates, we seek to help set public expectations around the Q1 Beacon Chain testnet.https://lighthouse.sigmaprime.io/update-07.html\u00a0",
+            "username": "sigp_io",
+            "num_likes": 29,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1093550638825381896": {
+            "id": "1093550638825381896",
+            "text": "hey twitter - helping put together a resource aimed at devs who are *not* deep into protocol research, but wondering how ETH 2.0 will (or won't!) affect their work.\n\n What are your *most basic* questions about ETH 2.0? \n\nIdeal questions are (1) ultra simple and (2) pragmatic",
+            "username": "0xstark",
+            "num_likes": 190,
+            "num_retweets": 52,
+            "num_replies": 41
+        },
+        "1093482827981750272": {
+            "id": "1093482827981750272",
+            "text": "Yeeth Updates #1https://medium.com/yeeth/yeeth-updates-1-5474eb78c319\u00a0\u2026",
+            "username": "yeethaf",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1091428614107774976": {
+            "id": "1091428614107774976",
+            "text": "Tweet, tweet - it's your latest What's New in Eth2 \n\nThis week marks the first release of the #Ethereum 2.0 beacon chain specification. It's happening!!!https://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190201.html\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 61,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1091063552994029568": {
+            "id": "1091063552994029568",
+            "text": "Hello World! Over the past few months, we built a suite of tools to enable you to easily deploy your own plasma chain. Read our launch post to learn more:https://medium.com/plasma-group/deployplasma-dd1cf0b2ab55\u00a0\u2026",
+            "username": "plasma_group",
+            "num_likes": 350,
+            "num_retweets": 126,
+            "num_replies": 20
+        },
+        "1089799378645147648": {
+            "id": "1089799378645147648",
+            "text": "Bench-marking an Eth2 network with 300k validators.\n\nThere's something oddly satisfying about maxing out a hex-core i7. I think it's the programmers equivalent of a burnout.pic.twitter.com/2Cb2NfsSqd",
+            "username": "paulhauner",
+            "num_likes": 440,
+            "num_retweets": 115,
+            "num_replies": 18
+        },
+        "1089135919528099840": {
+            "id": "1089135919528099840",
+            "text": "Nimbus Ethereum 2.0 client simulation testnet progress: https://our.status.im/nimbus-testnet-simulation/\u00a0\u2026\n\nCome help out with it and earn some NFT swag, Nimbus Kudos badges ",
+            "username": "bitfalls",
+            "num_likes": 46,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1088882732137095168": {
+            "id": "1088882732137095168",
+            "text": "Come and read my ramblings about the future of #Ethereum's PoW Mainnet in the latest edition of What's New in Eth2. There's some good stuff in there as well \nhttps://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190125.html\u00a0\u2026\nhttp://peepeth.com/p/hbU\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 36,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1088500996282691589": {
+            "id": "1088500996282691589",
+            "text": "I just published Announcing yeethhttps://medium.com/p/announcing-yeeth-e2b358836a34\u00a0\u2026",
+            "username": "DeanEigenmann",
+            "num_likes": 189,
+            "num_retweets": 49,
+            "num_replies": 25
+        },
+        "1086337989989597184": {
+            "id": "1086337989989597184",
+            "text": "What's New in Eth2 is up \n\nNever mind ConstantiNOPEle, there's plenty going on here \nhttps://notes.ethereum.org/c/Sk8Zs--CQ\u00a0\nhttp://peepeth.com/p/h1R\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 47,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1085985279473643521": {
+            "id": "1085985279473643521",
+            "text": "Another bi-weekly update from the #Lodestar team.https://medium.com/chainsafe-systems/lodestar-bi-weekly-update-1-61926ddfcdb1\u00a0\u2026",
+            "username": "badcryptobitch",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1085982895380951040": {
+            "id": "1085982895380951040",
+            "text": "bi-weekly dev update from @prylabs:\n\nEpoch processing routines \nPoW deposit contract listener and trie \nBeacon block processing E2E tests \nLMD GHOST fork choice benchmarking \nValidator deposits E2E tests \nRefactor validator client https://medium.com/prysmatic-labs/ethereum-2-0-development-update-20-prysmatic-labs-e42724a2ba44\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 37,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "1085957680727031808": {
+            "id": "1085957680727031808",
+            "text": "I wrote an article.https://media.consensys.net/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 64,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "1085550161265348608": {
+            "id": "1085550161265348608",
+            "text": "a long, in-depth look at the last year in ethereumhttps://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276\u00a0\u2026",
+            "username": "0xstark",
+            "num_likes": 243,
+            "num_retweets": 101,
+            "num_replies": 9
+        },
+        "1085291959390998534": {
+            "id": "1085291959390998534",
+            "text": "[SECURITY ALERT] #Constantinople upgrade is temporarily postponed out of caution following a consensus decision by #Ethereum developers, security professionals and other community members. More information and instructions are below.https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 1562,
+            "num_retweets": 1006,
+            "num_replies": 224
+        },
+        "1084735350537211909": {
+            "id": "1084735350537211909",
+            "text": "Sorry Twitter , I've been quiet about #Lighthouse recently. Updates:\n\n- Notes + video from lighthouse call #0: https://bit.ly/2squTlN\u00a0\n- Text update (notes are better, IMO): https://bit.ly/2Fvs5LX\u00a0\n\nMost interestingly, we've started the validator client. Yay!  More... 1/10",
+            "username": "paulhauner",
+            "num_likes": 37,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1083817420614180868": {
+            "id": "1083817420614180868",
+            "text": "What's new in Eth2 - the Psychedelic and Hallucinogenic Edition \n\nSeems a little shorter than usual, but still took all day to prepare - I just keep falling down fascinating rabbit holes with this stuff \n\nGood weekend, all!https://notes.ethereum.org/c/Sk8Zs--CQ\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 51,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1083858421802139648": {
+            "id": "1083858421802139648",
+            "text": "Designing validator workflow and talking to @dannyryan clarified a few crucial ETH2.0 concepts for me. I thought I'd share.\nIn ETH2.0, each validator gets assigned to two types of committees. 1.) crosslink (or shard) committee  2.) persistent committees",
+            "username": "terencechain",
+            "num_likes": 69,
+            "num_retweets": 24,
+            "num_replies": 4
+        },
+        "1083789405427589120": {
+            "id": "1083789405427589120",
+            "text": "Ethereum's Constantinople network upgrade is less than a week away! Click this post for more info and what you need to do to prepare. #Constantinople #Ethereumhttps://goo.gl/aF6Zi6\u00a0",
+            "username": "ethereum",
+            "num_likes": 1486,
+            "num_retweets": 634,
+            "num_replies": 87
+        },
+        "1082986561304702976": {
+            "id": "1082986561304702976",
+            "text": "Rinkeby #Ethereum testnet successfully forked over to Constantinople! All signers, bootnodes, faucet online and working well. Clean split between new and non-upgraded nodes (please update!). pic.twitter.com/o4hlHHEjss",
+            "username": "peter_szilagyi",
+            "num_likes": 711,
+            "num_retweets": 236,
+            "num_replies": 17
+        },
+        "1081224750427443201": {
+            "id": "1081224750427443201",
+            "text": "Happy New Year, everybody! \n\nYour first 2019 \"What's New in Eth2\" is ready for you: The To (the far side of) the Moon  Edition\n\nhttps://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190104.html\u00a0\u2026\nhttp://peepeth.com/p/gIC\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 33,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1076186494212071424": {
+            "id": "1076186494212071424",
+            "text": "OFFICIAL ANNOUNCEMENT! \n\nPlease LOCK April 8-14, 2019 on your CALENDAR for EDCON2019!!! \n\nHope to see you in Sydney, Australia!  \n\n#EDCON #EDCON2019 #EDCONSydney #Edconpic.twitter.com/qYP5YCWcpc",
+            "username": "Linktimetech",
+            "num_likes": 27,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1080874155095011328": {
+            "id": "1080874155095011328",
+            "text": "I just published Ethereum 2.0 Development Update #19\u200a\u2014\u200aPrysmatic Labs by @raulitojordan https://link.medium.com/BJYCt5CjbT\u00a0 @prylabs #Ethereum",
+            "username": "raulitojordan",
+            "num_likes": 111,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1079085816209649664": {
+            "id": "1079085816209649664",
+            "text": "All ETH 2.0 block operations including casper slashings, attestation processing, deposit handling, and RANDAO done with 100% test coverage according to the latest spec :) - 2019 will be great #Ethereum @prylabspic.twitter.com/uTS46zCknR",
+            "username": "raulitojordan",
+            "num_likes": 1284,
+            "num_retweets": 409,
+            "num_replies": 41
+        },
+        "1078706671877271552": {
+            "id": "1078706671877271552",
+            "text": "Your What's New in Eth2,  Happy New Year  edition! https://notes.ethereum.org/c/Sk8Zs--CQ\u00a0\n\nIf 2019 proves to be as exciting as 2018 in world of #Ethereum 2.0, its going to be a happy year indeed \nhttp://peepeth.com/p/gzm\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 62,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1076802584688709632": {
+            "id": "1076802584688709632",
+            "text": "Quiet but very visible progress on short-term scalability from @peter_szilagyi and co:\n\n* Blocks getting processed fast\n* Uncle rates dropping to ~8%, their lowest levels since before 2017-era gas limit increases, despite gas usage still being at ~80% of peakpic.twitter.com/BeQoP5871m",
+            "username": "VitalikButerin",
+            "num_likes": 1139,
+            "num_retweets": 292,
+            "num_replies": 83
+        },
+        "1076397923963817984": {
+            "id": "1076397923963817984",
+            "text": "Doing a survey of platforms using #Wasm for #Ewasm. Besides the most obvious (@ethereum, @polkadotnetwork, @Truebitprotocol, @dfinity etc.) what's on your radar? Who is doing interesting things with #WebAssembly? Blockchain or not!",
+            "username": "lrettig",
+            "num_likes": 34,
+            "num_retweets": 7,
+            "num_replies": 19
+        },
+        "1075460563126374400": {
+            "id": "1075460563126374400",
+            "text": "The Ethereum Foundation is surveying projects and dApps already using #Ethereum to solve real-world issues. We're interested in hearing about apps at all stages of development, and we'd love to hear about your work! Click to take part: https://blog.ethereum.org/2018/12/19/call-for-submissions-dapps-solving-real-world-issues/\u00a0\u2026 #BUIDL",
+            "username": "ethereum",
+            "num_likes": 685,
+            "num_retweets": 268,
+            "num_replies": 82
+        },
+        "1075417608810364928": {
+            "id": "1075417608810364928",
+            "text": "Your latest update on What's New in #Eth2. This week, the \"Artemis Edition\". #Ethereumhttps://notes.ethereum.org/c/Sk8Zs--CQ\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 38,
+            "num_retweets": 14,
+            "num_replies": 5
+        },
+        "1074897674929823744": {
+            "id": "1074897674929823744",
+            "text": "We're going to start processing applications in the next couple of days, so now's a good time to apply if you've been considering it! https://twitter.com/paulhauner/status/1072023255882452992\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1073327705578328064": {
+            "id": "1073327705578328064",
+            "text": "Just released a new alpha of the Trinity client with support for Constantinople and genesis files https://github.com/ethereum/py-evm/releases/tag/trinity-v0.1.0-alpha.20\u00a0\u2026 #Ethereum #BUIDL",
+            "username": "jasoncarver",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1058367550247956481": {
+            "id": "1058367550247956481",
+            "text": "*Good first issue* is the best route to join open source project.  - @dannyryanpic.twitter.com/GH8VvYugOX",
+            "username": "icebearhww",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1072869692019159041": {
+            "id": "1072869692019159041",
+            "text": "My discussion with @preston_vanloon and @raulitojordan from @prylabs is now live on https://podcast.ethhub.io\u00a0\n\nThis marks the 2nd episode in our 5 part series on scaling. We discuss their work on Eth 2.0, sharding, proof of stake, Serenity phases and much more!",
+            "username": "econoar",
+            "num_likes": 61,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "1072595028961320960": {
+            "id": "1072595028961320960",
+            "text": "This report on @rv_inc's verification of RANDAO's possible randomness bias under worst-case adversarial conditions using statistical model checking is one of the most underrated new papers in cryptocurrency security/modeling, IMO.https://github.com/runtimeverification/rdao-smc/blob/master/report/rdao-analysis.pdf\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1072521084442943488": {
+            "id": "1072521084442943488",
+            "text": "Another biweekly update from @prylabs. Check out the latest research updates, open issues, merged code and more! https://medium.com/prysmatic-labs/ethereum-2-0-development-update-18-prysmatic-labs-e5aeea75464d\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1072288420704210945": {
+            "id": "1072288420704210945",
+            "text": "[Blog] Devcon4 Videos and Pictures Released! https://goo.gl/FnwpwG\u00a0 #ethereum #Devcon4",
+            "username": "ethereum",
+            "num_likes": 242,
+            "num_retweets": 115,
+            "num_replies": 35
+        },
+        "1072145149365551109": {
+            "id": "1072145149365551109",
+            "text": "Get your weekly dose of #Ethereum 2.0 goodness here: What's New in #Eth2!\n\nhttps://notes.ethereum.org/c/Sk8Zs--CQ\u00a0\n\n[This week brought to you CryptoTwitterers via @peepethApp, if this bridge thingummy works...]\n\nhttp://peepeth.com/p/g7o\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 32,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1072023255882452992": {
+            "id": "1072023255882452992",
+            "text": "#SigmaPrime is still in the process of hiring a new Rust developer . We've had some great applicants but we'd love to see some more. If you want to build and contribute to the security of Ethereum, you should apply: https://bit.ly/2QmGLnl\u00a0 2/12",
+            "username": "paulhauner",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1072023254322176000": {
+            "id": "1072023254322176000",
+            "text": "This #Lighthouse update will be in tweet-storm form!  This is an experiment in gaining more input from the community. If it's easier for y'all to comment, maybe we'll hear more from you!\n\nFYI, Lighthouse is a security-first Ethereum 2.0: Serenity client in @rustlang! 1/12",
+            "username": "paulhauner",
+            "num_likes": 103,
+            "num_retweets": 31,
+            "num_replies": 4
+        },
+        "1070409974365519872": {
+            "id": "1070409974365519872",
+            "text": "Check out the latest development update about Nimbus - our stab at Serenity / Eth2.0 :) Lots of good news in there, specially if you're curious about the latest spec updates or on the lookout for high-quality @nim_lang libraries..https://our.status.im/nimbus-development-update/\u00a0\u2026",
+            "username": "jcksie",
+            "num_likes": 30,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1070014937450332166": {
+            "id": "1070014937450332166",
+            "text": "As part of our @ethereum security grant, @rv_inc just completed the initial formal specification and verification of Casper & Randao.  Check out our blog post below as an entry point to review the engagement's technical reports.  Enjoy!  https://bit.ly/2ASKEWs\u00a0",
+            "username": "rv_inc",
+            "num_likes": 23,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1070012238797438976": {
+            "id": "1070012238797438976",
+            "text": "As part of the first Ethereum security grant, @rv_inc completed the initial formal specification and verification (both deductive proofs and statistical model checking) of Casper and Randao.  Comments and suggestionsfor next steps are welcome.  https://runtimeverification.com/blog/runtime-verification-completes-formal-verification-of-ethereum-casper-protocol/\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 46,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1067715715342483456": {
+            "id": "1067715715342483456",
+            "text": "Finally got to publish this. @EthMagicians council of Prague Ethereum 2.0 Q&A with @dannyryan @lrettig @paulhauner @VitalikButerin @jcksie and morehttps://link.medium.com/7mJ4Bk72cS\u00a0",
+            "username": "MPtherealMVP",
+            "num_likes": 31,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "1067767889342681088": {
+            "id": "1067767889342681088",
+            "text": "Geth v1.8.19 (No Nick) just released, packing a 30% speed improvement on in-sync block processing (15% faster full sync)! Take it for a spin, tell us what you think! #golang #Ethereumhttps://github.com/ethereum/go-ethereum/releases/tag/v1.8.19\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 422,
+            "num_retweets": 110,
+            "num_replies": 15
+        },
+        "1067754798928330752": {
+            "id": "1067754798928330752",
+            "text": "If you are still confused about why Ethereum wants to develop VDF (verifiable delay function) ASIC, I recommend watching this @epicenterbtc interview with @drakefjustin: https://epicenter.tv/episode/263/\u00a0, starting from around 41:00",
+            "username": "realLedgerwatch",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1067530866316861440": {
+            "id": "1067530866316861440",
+            "text": " \nETH2.0 dev update from @prylabs https://medium.com/prysmatic-labs/ethereum-2-0-development-update-17-prysmatic-labs-ed5bcf82ec00\u00a0\u2026 \u2026",
+            "username": "terencechain",
+            "num_likes": 37,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1067473971560542209": {
+            "id": "1067473971560542209",
+            "text": "I discuss Ethereum 2.0 and VDFs on the @epicenterbtc showhttps://www.youtube.com/watch?v=QDwaAnhSJk8\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 63,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1067170316768632839": {
+            "id": "1067170316768632839",
+            "text": "Are you interested in\n\n- Rust \n- PoS systems\n- Being a core ETH 2.0 dev\n- Infosec and exploiting software\n\nWe're hiring in a bear market as we built our business on hard work and core services (and modesty, of course). \n\nSydney-based preferred. Apply: https://goo.gl/Z4tXDR\u00a0 ",
+            "username": "paulhauner",
+            "num_likes": 82,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "1067119935464329216": {
+            "id": "1067119935464329216",
+            "text": "What's new in Eth2 hot off the press: https://benjaminion.xyz/newineth2/20181126.html\u00a0\u2026\n@coindesk missed a #ethereum 1.x scoop because they weren't paying attention to this: don't make the same mistake! ",
+            "username": "benjaminion_xyz",
+            "num_likes": 28,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1066506895353999360": {
+            "id": "1066506895353999360",
+            "text": "New lighthouse update! Quiet on the technology side, but news on the team side! @ralexstokes has joined as a regular contributor and we've posted an listing for a Rust dev! Check out the listing here: https://goo.gl/BTVVuN\u00a0\n\nThe blog post lives here:https://goo.gl/AesNc9\u00a0",
+            "username": "paulhauner",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1064994528610983937": {
+            "id": "1064994528610983937",
+            "text": "We've just released a brand new Trinity client v0.1.0-alpha.17 aka \"Ruth Bader Ginsburg\"\n\nhttps://github.com/ethereum/py-evm/releases/tag/trinity-v0.1.0-alpha.17\u00a0\u2026\n\nFocus is on:\n\nSyncing performance and reliability\nPlugin Support (including docs! https://py-evm.readthedocs.io/en/latest/guides/trinity/writing_plugins.html\u00a0\u2026)\n\nGet it while it's hot! ",
+            "username": "cburgdorf",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1064631774540693504": {
+            "id": "1064631774540693504",
+            "text": "This week's What's New in Eth2 is out!\nhttp://benjaminion.xyz/newineth2/20181119.html\u00a0\u2026\n\nI've gone old-school and done it all in hand-crafted HTML. No more Google docs! I have, however, inflicted analytics on you, but only so I know when ppl stop reading it so I can stop writing it  \n\nLMK any problems.",
+            "username": "benjaminion_xyz",
+            "num_likes": 36,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1063082636351078400": {
+            "id": "1063082636351078400",
+            "text": "The landing page of the #ewasm testnet: http://ewasm.ethereum.org\u00a0.\n\nWell done @cdetrio @j_wasinger @hugo_dc for the countless hours on dreaded devops. Special thanks to Alicia-isa for open source contributions.pic.twitter.com/A2Gbs6DVly",
+            "username": "alexberegszaszi",
+            "num_likes": 70,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1062435516103225345": {
+            "id": "1062435516103225345",
+            "text": "Finally! There's this super hot #Solidity 0.5.0 release: https://github.com/ethereum/solidity/releases/tag/v0.5.0\u00a0\u2026\n\nWe still need to push to npm.\n\nTime to hide from bug reports ",
+            "username": "alexberegszaszi",
+            "num_likes": 283,
+            "num_retweets": 98,
+            "num_replies": 11
+        },
+        "1062096142601801728": {
+            "id": "1062096142601801728",
+            "text": "What's New in Eth2 - Serenity edition is out! Get your #Ethereum 2.0 fix here.\n\nhttps://drive.google.com/open?id=1oMi-0ZbCD5SdBtMxtHC5gaiflX8MnXGF1_Nk-_gGIUI\u00a0\u2026\n\n[Aka the sick-bed edition. Blergh. ]",
+            "username": "benjaminion_xyz",
+            "num_likes": 55,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1061011879504490496": {
+            "id": "1061011879504490496",
+            "text": "rinkeby eth plz 0x143adE538Ee58e144a7e1fb6aef406C5AD0ee01c",
+            "username": "ralexstokes",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1060188770790559744": {
+            "id": "1060188770790559744",
+            "text": "New lighthouse update, thanks to @spble!\n\n#Devcon4 was a great chance to communicate with the other parties working on Serenity. It was nice to put some faces to Github handles. Although it was fun, I'm keen to get back to producing software.https://lighthouse.sigmaprime.io/update-03.html\u00a0",
+            "username": "paulhauner",
+            "num_likes": 31,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1059465163135434752": {
+            "id": "1059465163135434752",
+            "text": "Requesting faucet funds into 0x2df74ac2807df1edfe361795acf444e3dec13bcb on the #Rinkeby #Ethereum test network.",
+            "username": "tipsysquid",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058712044277510144": {
+            "id": "1058712044277510144",
+            "text": "Excited to see the buzz and vibrant community around @libp2p at #devcon4. Once started by @protocollabs, this modular, open P2P networking stack has become an asset and public good for decentralised infrastructure.\n\nEthereum, let\u2019s #buidl the future of P2P networks together pic.twitter.com/PCaMbJZK3s",
+            "username": "raulvk",
+            "num_likes": 57,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1058400386682368000": {
+            "id": "1058400386682368000",
+            "text": "Presentation of Turbo-Geth at devcon4:https://github.com/AlexeyAkhunov/papers/blob/master/TurboGeth-Devcon4.pdf\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 83,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "1057981173555781632": {
+            "id": "1057981173555781632",
+            "text": "http://VDFresearch.org\u00a0 is up! And I will speak about Ethereum 2.0 randomness and VDFs at 16:20 Prague time in the Spectrum auditorium.",
+            "username": "drakefjustin",
+            "num_likes": 76,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1057021376438198273": {
+            "id": "1057021376438198273",
+            "text": "I managed to get another \"What's New in #Eth2\" out just about on time. This one is a special #Ethereum 2.0 Prague Workshop illustrated edition https://drive.google.com/open?id=1d6iydDo3P8aLXiDiTlM73VWO_w0Fx9M6u5NAhvEshjk\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1056469966634053633": {
+            "id": "1056469966634053633",
+            "text": "The EVMC (EVM API) version 6.0.0 has been released.https://github.com/ethereum/evmc/releases/tag/v6.0.0\u00a0\u2026",
+            "username": "chfast",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1055887235495747585": {
+            "id": "1055887235495747585",
+            "text": "My latest #Ethereum 2.0 blog post is up @ConsenSys Media - get up to speed with the Beacon Chain.\n\nNext stop, Prague https://media.consensys.net/state-of-ethereum-protocol-2-the-beacon-chain-c6b6a9a69129\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 66,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1055332504620711942": {
+            "id": "1055332504620711942",
+            "text": "[Blog] How the Ethereum Foundation grants program makes decisions #ethereum #grants #EFGrantshttps://goo.gl/Co7A1T\u00a0",
+            "username": "ethereum",
+            "num_likes": 214,
+            "num_retweets": 74,
+            "num_replies": 45
+        },
+        "1054392638252744704": {
+            "id": "1054392638252744704",
+            "text": "Whoa, it's been nearly a month already! Find out what's new in Eth2 this week.https://drive.google.com/open?id=1rCKtLXlqddOeroUnAFU63LZ1EPIGZEyCmIZDRCwED8o\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1053965060979060739": {
+            "id": "1053965060979060739",
+            "text": "We've just released a new blog post on security considerations for lighthouse, our eth2.0 client: https://lighthouse.sigmaprime.io/fuzzing-lighthouse.html\u00a0\u2026 #Ethereum #infosec #shasper #fuzzing",
+            "username": "ethZed",
+            "num_likes": 26,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1053376523699449856": {
+            "id": "1053376523699449856",
+            "text": "Wrote this a while ago, finally publishing... a CryptoKitties-sacrifice-powered Brainfuck interpreter for Ethereumhttps://github.com/kfichter/mind-breed\u00a0\u2026",
+            "username": "kelvinfichter",
+            "num_likes": 188,
+            "num_retweets": 39,
+            "num_replies": 15
+        },
+        "1052530073612443648": {
+            "id": "1052530073612443648",
+            "text": "How secure is 256-bit security? Impressive explanation!https://www.youtube.com/watch?v=S9JGmA5_unY\u00a0\u2026",
+            "username": "cburgdorf",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1052360845609422848": {
+            "id": "1052360845609422848",
+            "text": "I'll be giving a workshop exploring my decentralized governance research next Monday at @web3foundation 's web3 summit first thing that morning! Coffee and token voting awaits!",
+            "username": "ralexstokes",
+            "num_likes": 20,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1052233487703396352": {
+            "id": "1052233487703396352",
+            "text": "Latest development update! Made progresses on RANDAO, validator rotation, BLS signature aggregation and more!https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-15-prysmatic-labs-1a806881c02c\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 50,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1052086415205502976": {
+            "id": "1052086415205502976",
+            "text": "Interested in being the n'th contributor to an open-source Eth 2.0 client where n < 10? Look no further: Lighthouse is producing good_first_issues for those who wish to help! Thank you! \nhttps://goo.gl/FqVKQs\u00a0",
+            "username": "paulhauner",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1051886425753436166": {
+            "id": "1051886425753436166",
+            "text": "[Blog] Ethereum Foundation Grants Update - Wave IV #ethereum #grants https://goo.gl/4bzKyD\u00a0pic.twitter.com/gu0csjFlNk",
+            "username": "ethereum",
+            "num_likes": 281,
+            "num_retweets": 102,
+            "num_replies": 34
+        },
+        "1051794267256102917": {
+            "id": "1051794267256102917",
+            "text": "Hungry for news of #Ethereum 2.0? Issue 3 of \"What's new in Eth2\" is out :-)https://drive.google.com/open?id=13BH90w402T4bO4CtOzLXxKfv9B3ux8OuWGpUjxUCB1U\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 23,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1050746816487145472": {
+            "id": "1050746816487145472",
+            "text": "[LIVE] Ethereum Core Devs Meeting #48 [10/12/18]https://goo.gl/2kM79o\u00a0",
+            "username": "ethereum",
+            "num_likes": 127,
+            "num_retweets": 55,
+            "num_replies": 26
+        },
+        "1050482459484160000": {
+            "id": "1050482459484160000",
+            "text": "\nWanna contribute to ETH2.0? We got new bounties for Y'all. Thanks, @GetGitcoin, and @ethereumecf\nhttps://github.com/prysmaticlabs/prysm/issues/569\u00a0\u2026https://github.com/prysmaticlabs/prysm/issues/543\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 25,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1049989062315134979": {
+            "id": "1049989062315134979",
+            "text": "Lahja 0.9.0 is finally out https://pypi.org/project/lahja/0.9.0/\u00a0\u2026\n\n- proper handling of cancellations for all APIs\n- internal events (within one process)\n- async + sync connect() APIs\n- several bug fixes\n\n#EventBus #Python #multiprocess #asyncio",
+            "username": "cburgdorf",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1049760553860616192": {
+            "id": "1049760553860616192",
+            "text": "TDD in crypto: theft-driven development",
+            "username": "ralexstokes",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1049025276343197696": {
+            "id": "1049025276343197696",
+            "text": "Latest edition of \"What's new in Eth2\" is out a day early! #ethereumhttps://drive.google.com/open?id=1yDoXocazwE0LRDTQbm2yGz_3MkIL0f32xQVRt1nTKig\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1048598284250435589": {
+            "id": "1048598284250435589",
+            "text": "1. Casper/sharding spec roughly finished, now in refinement stages\n2. 4+ implementations of the spec well underway\n3. Many implementations of plasma well underway\n4. ZK-SNARK-based layer 2 scaling and privacy well underway\n\nIt's a night-and-day difference from 2017.",
+            "username": "VitalikButerin",
+            "num_likes": 502,
+            "num_retweets": 188,
+            "num_replies": 26
+        },
+        "1048052979465510912": {
+            "id": "1048052979465510912",
+            "text": "We just published an update on our Eth 2.0 progress! Achievements this fortnight:\n\n- BLS aggregate signature verification\n- Block pre-processing & benchmarks\n- SimpleSerialize implementation and draft spec\n\nhttps://lighthouse.sigmaprime.io/update-01.html\u00a0\n@ethZed @AgeManning @_chrisnatoli",
+            "username": "paulhauner",
+            "num_likes": 178,
+            "num_retweets": 44,
+            "num_replies": 14
+        },
+        "1047550506539909120": {
+            "id": "1047550506539909120",
+            "text": "I just published \u201cEthereum 2.0 Prysm Demo Release v0.0.0\u201d https://medium.com/prysmatic-labs/ethereum-2-0-prysm-demo-release-v0-0-0-78d33e9cdbdf\u00a0\u2026 First Shasper client release! #ethereum #blockchain @prylabs",
+            "username": "raulitojordan",
+            "num_likes": 153,
+            "num_retweets": 47,
+            "num_replies": 8
+        },
+        "1047175098099228674": {
+            "id": "1047175098099228674",
+            "text": "I just published \u201cEthereum 2.0 Casper+Sharding Development Update #14 \u2014 Prysmatic Labs\u201d https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-14-prysmatic-labs-349a97a8c627\u00a0\u2026 #ethereum @prylabs",
+            "username": "raulitojordan",
+            "num_likes": 70,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "1046766052187811840": {
+            "id": "1046766052187811840",
+            "text": "First edition of \"What's new in Eth2\" is out!https://docs.google.com/document/d/1kKYBVda4pHNa3nQqVHv6RfZqQuRZNRdTCG9Us_uvR54/edit?usp=sharing\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 46,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1046306722715860992": {
+            "id": "1046306722715860992",
+            "text": "I wasn't aware we were using the wrong circle constant till I read your tweet. I was sceptical at first but this article got me convinced.https://tauday.com/tau-manifesto#fig-angle_fractions\u00a0\u2026",
+            "username": "vsr",
+            "num_likes": 44,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1045673367066546176": {
+            "id": "1045673367066546176",
+            "text": "[LIVE] Ethereum Core Devs Meeting #47 [09/28/18] #ethereumhttps://goo.gl/2M29Zt\u00a0",
+            "username": "ethereum",
+            "num_likes": 193,
+            "num_retweets": 76,
+            "num_replies": 61
+        },
+        "1045323427387707392": {
+            "id": "1045323427387707392",
+            "text": ".@cdetrio just dropped this dope (open source!) visualization of the #ETH2 Beacon chain with shards and finalization. Sometimes a WebGL viz is worth 1000 http://ethresear.ch\u00a0 posts  https://beta.observablehq.com/@cdetrio/shasper-viz-0-4\u00a0\u2026pic.twitter.com/5ZVJfnDIXt",
+            "username": "lrettig",
+            "num_likes": 61,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "1044212351682138112": {
+            "id": "1044212351682138112",
+            "text": "Geth v1.8.16 (#Budapest) just out! Rinkeby fixes, Clique fixes, Constantinople finalization, uncle inclusion polishes and other niceties! Take it for a spin, tell us what you think! #golang #Ethereumhttps://github.com/ethereum/go-ethereum/releases/tag/v1.8.16\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 82,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "1043459218597203968": {
+            "id": "1043459218597203968",
+            "text": "Actually, what I propose does not have data availability issues. Here's a quick writeup:https://ethresear.ch/t/on-chain-scaling-through-mass-tx-validation/3477\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 71,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "1042046648443121666": {
+            "id": "1042046648443121666",
+            "text": "Check out our latest biweekly update! We have...\n Implemented proposer & attester responsibilities, RPC validator interactions and minimal beacon chain processing & fork choice\n Benchmarked various DBs\n Watch implementer call #3 if you haven't!https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-13-prysmatic-labs-2ef6593ea22f\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 63,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1041597854731493376": {
+            "id": "1041597854731493376",
+            "text": "We're excited to announce a brand-new Ethereum 2.0 implementation in Rust! We've been working on this publicly for a couple of months now but we're making it official with a blog post. Watch this space, we'll keep you posted with regular updates. @sigp_iohttps://lighthouse.sigmaprime.io/update-00.html\u00a0",
+            "username": "paulhauner",
+            "num_likes": 135,
+            "num_retweets": 41,
+            "num_replies": 5
+        },
+        "1040374687166066689": {
+            "id": "1040374687166066689",
+            "text": "Realized this probably needed to be published somewhere:\n\nWhat's a Sparse Merkle Tree?https://medium.com/@kelvinfichter/whats-a-sparse-merkle-tree-acda70aeb837\u00a0\u2026",
+            "username": "kelvinfichter",
+            "num_likes": 96,
+            "num_retweets": 32,
+            "num_replies": 3
+        },
+        "1040234150727278592": {
+            "id": "1040234150727278592",
+            "text": "Live in 20 mins! \nEthereum 2.0 implementers call: https://youtu.be/cp0LxJiyV3I\u00a0\nAgenda:https://github.com/ethresearch/eth2.0-pm/issues/5\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1039283950529568768": {
+            "id": "1039283950529568768",
+            "text": "T-minus 14 minutes...",
+            "username": "EFDevcon",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1037940716016558080": {
+            "id": "1037940716016558080",
+            "text": "Ethereum 2.0: Who's building it?https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 3343,
+            "num_retweets": 1260,
+            "num_replies": 271
+        },
+        "1037570071328043008": {
+            "id": "1037570071328043008",
+            "text": "Mark your calendars!!\n\nWAVE 3 Ticket Sale Details: MON September 10 at 4pm PT \n\n(which is TUE September 11 at 12am London, 1am Berlin, 7am Beijing, 8am Japan, 9am Sydney, just to name a few)",
+            "username": "EFDevcon",
+            "num_likes": 67,
+            "num_retweets": 13,
+            "num_replies": 5
+        },
+        "1034761323765264384": {
+            "id": "1034761323765264384",
+            "text": "My first blog post for @ConsenSys @PegasysEng :-)\n\nhttps://media.consensys.net/state-of-ethereum-protocol-1-d3211dd0f6\u00a0\u2026\n\nThis one is just a warm-up. We'll get down to nuts and bolts in the next - maybe on the Beacon Chain. Meanwhile, look out for Kevin Zhang with the latest on Layer 2 scalability. #ethereum",
+            "username": "benjaminion_xyz",
+            "num_likes": 77,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "1030837344666939392": {
+            "id": "1030837344666939392",
+            "text": "Awesome write up by @VitalikButerin. Learned a lot by studying the bandwidth requirement for Casper FFG light client.https://ethresear.ch/t/casper-ffg-and-light-clients/2957\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1030821545294233600": {
+            "id": "1030821545294233600",
+            "text": "Disagree here of course :)\n\nThe last post basically admitted that Ouroboros's security is synchronous, not partially synchronous, and has no guarantees of safety under asynchrony.",
+            "username": "VitalikButerin",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1030768720392609792": {
+            "id": "1030768720392609792",
+            "text": "Guide for JP devs to get involved with @Ethereum Dev community by Danny\n\u4e45\u3057\u3076\u308a\u306e\u30d6\u30ed\u30b0\u66f4\u65b0\u3002\u3002Ethereum Foundation\u30b3\u30a2\u958b\u767a\u8005\u306e@dannyryan \u304c\u6559\u3048\u3066\u304f\u308c\u305f\u3001\u65e5\u672c\u306e\u958b\u767a\u8005\u304c\u4e16\u754c\u306e\u30b3\u30a2Dev\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u3067\u6d3b\u8e8d\u3059\u308b\u305f\u3081\u306e6\u3064\u306e\u3059\u3059\u3081\u3001\u3067\u3059\u3002 \n\nhttps://medium.com/cryptoage/ethdev-how-to-contribute-b8448c0726f0\u00a0\u2026 #CryptoAge",
+            "username": "obnty",
+            "num_likes": 32,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1030658564803575808": {
+            "id": "1030658564803575808",
+            "text": "Wave 3 of EF grants announced! With stats and updates of our grants program this year!https://twitter.com/ethereum/status/1030562766963318785\u00a0\u2026",
+            "username": "mi_ayako",
+            "num_likes": 64,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1030110573630042112": {
+            "id": "1030110573630042112",
+            "text": "Ethereum 2.0 client implementer call #1 https://www.youtube.com/watch?v=8F9NPGIv9vI\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1030091529380093952": {
+            "id": "1030091529380093952",
+            "text": "Ethereum 2.0 Implementers Call #1 livestream kicks off momentarily! https://www.youtube.com/watch?v=8F9NPGIv9vI\u00a0\u2026. Hear from @dannyryan and the research team on #sharding and a bunch of other cool topics. @EthereumLive #EthereumLive",
+            "username": "lrettig",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1029851668760940544": {
+            "id": "1029851668760940544",
+            "text": "Ethereum 2.0 Beacon Node+Client. Validators shuffled and assigned as proposers/attesters correctly after a crystallized state transition. Active state transitions working also well. Following the spec from https://notes.ethereum.org/SCIg8AH5SA-O4C1G1LYZHQ?view\u00a0\u2026 @VitalikButerin and @dannyryan @prylabs #Ethereumpic.twitter.com/ZWOKwqQeaX",
+            "username": "raulitojordan",
+            "num_likes": 348,
+            "num_retweets": 104,
+            "num_replies": 14
+        },
+        "1029900695925706753": {
+            "id": "1029900695925706753",
+            "text": "1. Today I am going to make a tweet storm explaining the history and state of Ethereum's Casper research, including the FFG vs CBC wars, the hybrid => full switch, the role of randomness, mechanism design issues, and more.",
+            "username": "VitalikButerin",
+            "num_likes": 3735,
+            "num_retweets": 1257,
+            "num_replies": 165
+        },
+        "1029292582172426240": {
+            "id": "1029292582172426240",
+            "text": "Reminder: @EFDevcon stops accepting applications on August 19 at 11:59 PDT.pic.twitter.com/fqp3wgWNxh",
+            "username": "icebearhww",
+            "num_likes": 16,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1028106558670925825": {
+            "id": "1028106558670925825",
+            "text": "Threw together an ultra-minimal website with the latest Ethereum opcode/precompile gas prices https://ethgastable.info/\u00a0",
+            "username": "kelvinfichter",
+            "num_likes": 30,
+            "num_retweets": 5,
+            "num_replies": 5
+        },
+        "1022733874491584512": {
+            "id": "1022733874491584512",
+            "text": "Rocket Pools V1 Beta release began a week ago and has been maxed out with users for the entire week! We've now enabled email alerts for users who wish to jump in and do some Casper staking when spots open up. https://beta.rocketpool.net\u00a0 #rocketpool #ETHEREUM #Blockchain #staking",
+            "username": "Rocket_Pool",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1026815334764957696": {
+            "id": "1026815334764957696",
+            "text": "ECDC Day 2 talks here https://bit.ly/2M8xQTq\u00a0\n@realLedgerwatch: Optimising Ethereum clients\nJacques Wagener: The Features and Future of Vyper\n@alexberegszaszi: eWASM\n@phildaian: Rent Roundtable\n@VitalikButerin & @drakefjustin: Phase II: Future\n@dannyryan: Eth1.0->2.0 Round Table",
+            "username": "ethstatus",
+            "num_likes": 31,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1026823126221434881": {
+            "id": "1026823126221434881",
+            "text": "Wave 2 Ticket Sales will start in less than 2 hours - 8:00am Pacific Daylight Time. http://devcon4.ethereum.org\u00a0.  If you have trouble seeing the ticket purchase option, do a hard refresh of the site!",
+            "username": "EFDevcon",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1026625306289991680": {
+            "id": "1026625306289991680",
+            "text": "Neither is it 1993 - friends send friends markdown.https://twitter.com/iam_preethi/status/1026265853120008192\u00a0\u2026",
+            "username": "jcksie",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1025527704634974208": {
+            "id": "1025527704634974208",
+            "text": "Proof of custody video explanation and discussion complementing EthResearch https://ethresear.ch/t/1-bit-aggregation-friendly-custody-bonds/2236\u00a0\u2026https://www.youtube.com/watch?v=jRcS9D_gw_o\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1025099648778887168": {
+            "id": "1025099648778887168",
+            "text": "Verifiable Delay Function (VDF) reading list https://notes.ethereum.org/52JZtwErThe9KmN6TNd1lg\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 34,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1025042239251050496": {
+            "id": "1025042239251050496",
+            "text": "When life gives you O(c), make shardonnay.",
+            "username": "paulhauner",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1022042157526536192": {
+            "id": "1022042157526536192",
+            "text": "Yesterday we got our second Trinity release \"Grace Hopper\" out the door https://github.com/ethereum/py-evm/releases/tag/trinity-v0.1.0-alpha.12\u00a0\u2026\nAlso, our website is now officially live! http://trinity.ethereum.org\u00a0 #Ethereum #Trinity",
+            "username": "cburgdorf",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1020124725316550656": {
+            "id": "1020124725316550656",
+            "text": "Devcon4 applications for discounts, scholarships, and sponsorships close Tuesday July 24th! Visit https://goo.gl/1B35n5\u00a0 to apply! Read more about the deadline in this blog post:https://blog.ethereum.org/2018/07/19/devcon4-application-deadlines-coming-soon/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 198,
+            "num_retweets": 61,
+            "num_replies": 36
+        },
+        "1019137430845157376": {
+            "id": "1019137430845157376",
+            "text": "Our Rust implementation of the Ethereum Beacon Chain spec is now 99% on-par with the reference impl. We're missing a few BLS features and a couple of integration tests.\n\nIt's called \"Lighthouse\" -- another form of rusty beacon. You can find it here:https://github.com/sigp/lighthouse\u00a0",
+            "username": "paulhauner",
+            "num_likes": 88,
+            "num_retweets": 24,
+            "num_replies": 8
+        },
+        "1018945763307470849": {
+            "id": "1018945763307470849",
+            "text": "@ethereum sharding meeting day #2 - Berlin \nVideos and slides resources: https://notes.ethereum.org/s/B1-7aivmX\u00a0\n\n(order by the agenda) with @nkeywal Leonardo Bautista-Gomez (@BSC_CNS) @VitalikButerin @drakefjustin; @StarkWareLtd: @EliBenSasson, Uri Kolodny, @avihu28 ... (acknowledgments)",
+            "username": "icebearhww",
+            "num_likes": 50,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1013875840889884674": {
+            "id": "1013875840889884674",
+            "text": "Just published: \"On-Chain Vote Buying and the Rise of Dark DAOs\"\n... on new mechanisms for influencing coin voting, on-chain governance, and blockchain security.http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 325,
+            "num_retweets": 128,
+            "num_replies": 21
+        },
+        "1009982855697649664": {
+            "id": "1009982855697649664",
+            "text": "[Blog] Announcing Swarm Proof-of-Concept Release 3 #swarm https://goo.gl/6V9ohL\u00a0pic.twitter.com/OcMPSbHiCG",
+            "username": "ethereum",
+            "num_likes": 329,
+            "num_retweets": 132,
+            "num_replies": 52
+        },
+        "1009055151305437184": {
+            "id": "1009055151305437184",
+            "text": "Comprehensive list of Solidity attack vectors and anti-patterns by @AgeOfEth. It\u2019s a big read, but necessary if you\u2019re developing smart contracts.https://blog.sigmaprime.io/solidity-security.html\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1005129050212458496": {
+            "id": "1005129050212458496",
+            "text": "Proud to announce that I just tagged the first beta release of Vyper! https://github.com/ethereum/vyper/releases/tag/v0.1.0-beta.1\u00a0\u2026",
+            "username": "nuclearjoker",
+            "num_likes": 73,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "1001753206865752067": {
+            "id": "1001753206865752067",
+            "text": "Parity Casper testnet is live! Now testing: networking and txpool propagation. Experiment with us: https://github.com/paritytech/parity/pull/8654\u00a0\u2026https://twitter.com/sorpaas/status/1001715125689245696\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 129,
+            "num_retweets": 42,
+            "num_replies": 1
+        },
+        "999311312030261250": {
+            "id": "999311312030261250",
+            "text": "I\u2019m pleased to announce the launch of the first Solidity Gas Golfing Contest: https://g.solidity.cc/\u00a0\n\nWrite the most gas-efficient Solidity code to do a variety of tasks and win the approbation of your peers! Entries are open from now until July 31st.",
+            "username": "nicksdjohnson",
+            "num_likes": 114,
+            "num_retweets": 41,
+            "num_replies": 7
+        },
+        "994950871652978688": {
+            "id": "994950871652978688",
+            "text": "[Blog] Devcon4 Announcement. Join us in Prague Oct 30 - Nov 2! https://goo.gl/KoNDfq\u00a0 #ethereum #devcon4",
+            "username": "ethereum",
+            "num_likes": 613,
+            "num_retweets": 239,
+            "num_replies": 48
+        },
+        "993967223713730561": {
+            "id": "993967223713730561",
+            "text": "The Gitcoin + @MakerDAO partnership is excited to posted four bounties on the @ethereum Casper FFG repo! \n\nCheck out http://gitcoin.co/explorer\u00a0  and dive in to help #BUIDL the future of Ethereum's consensus protocol with @dannyryan and team. \n\nhttps://github.com/ethereum/casper/issues\u00a0\u2026 \u2026",
+            "username": "gitcoin",
+            "num_likes": 77,
+            "num_retweets": 26,
+            "num_replies": 3
+        },
+        "992759085366960130": {
+            "id": "992759085366960130",
+            "text": "It is likely all the shards will have the same EVM as a homogeneous base. Custom execution engines at the application layer can create custom shard-specific rules.",
+            "username": "drakefjustin",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "991722106210549761": {
+            "id": "991722106210549761",
+            "text": "We\u2019re excited to announce the May 2018 cohort of @Ethereum Foundation grants! We funded 22 recipients for a total of $2.84M. Congratulations!!!https://blog.ethereum.org/2018/05/02/announcing-may-2018-cohort-ef-grants/\u00a0\u2026",
+            "username": "jon_choi_",
+            "num_likes": 246,
+            "num_retweets": 79,
+            "num_replies": 8
+        },
+        "991768430876471297": {
+            "id": "991768430876471297",
+            "text": "ENS just got a major grant!https://twitter.com/jon_choi_/status/991722106210549761\u00a0\u2026",
+            "username": "nicksdjohnson",
+            "num_likes": 111,
+            "num_retweets": 23,
+            "num_replies": 11
+        },
+        "991021062811930624": {
+            "id": "991021062811930624",
+            "text": "Sharding is coming.\n\nhttps://github.com/ethereum/research/tree/master/sharding_fork_choice_poc\u00a0\u2026pic.twitter.com/FXEQeiKGDr",
+            "username": "VitalikButerin",
+            "num_likes": 4473,
+            "num_retweets": 1602,
+            "num_replies": 226
+        },
+        "987330122930769920": {
+            "id": "987330122930769920",
+            "text": "In addition, thanks to Dani\u00ebl Reijsbergen and @jon_choi_  for the help on economics variable. And thanks to Dmitry S. for previous work on client implementaion, which later helped improvement in vote processing.https://twitter.com/dannyryan/status/987315545140686848\u00a0\u2026",
+            "username": "ChihChengLiang",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "985908081023270913": {
+            "id": "985908081023270913",
+            "text": "Ethereum researcher Vlad Zamfir introduces the argument for why the Ethereum blockchain should charge rent. cc @VladZamfirpic.twitter.com/SyS5rNMFOo",
+            "username": "Cyrus",
+            "num_likes": 183,
+            "num_retweets": 59,
+            "num_replies": 18
+        },
+        "982083932144525312": {
+            "id": "982083932144525312",
+            "text": "11.5 hours until Ethereum Core Developer Meeting #36! Lots of interesting agenda items. Tune in live! #ethereumhttps://goo.gl/YqLrNP\u00a0",
+            "username": "ethereum",
+            "num_likes": 510,
+            "num_retweets": 189,
+            "num_replies": 35
+        },
+        "979544553236545537": {
+            "id": "979544553236545537",
+            "text": "I just published \"Governance, Part 2: Plutocracy Is Still Bad\": https://vitalik.ca/general/2018/03/28/plutocracy.html\u00a0\u2026\n@VladZamfir @dannyryan",
+            "username": "VitalikButerin",
+            "num_likes": 746,
+            "num_retweets": 240,
+            "num_replies": 66
+        },
+        "949662885222998018": {
+            "id": "949662885222998018",
+            "text": "Happy to place the #ethereum Yellow Paper under the Creative Commons Free Culture Licence CC-BY-SA.https://github.com/ethereum/yellowpaper/pull/402\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 772,
+            "num_retweets": 193,
+            "num_replies": 40
+        },
+        "947498262780461056": {
+            "id": "947498262780461056",
+            "text": "Alpha Casper Testnet  \nhttp://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view\u00a0\u2026\n\nHappy New Year Everyone!!",
+            "username": "karl_dot_tech",
+            "num_likes": 1404,
+            "num_retweets": 477,
+            "num_replies": 80
+        },
+        "943598155903275008": {
+            "id": "943598155903275008",
+            "text": "PSA: EtherDelta has had DNS hijacked. \nDo not go there.\nDo not unlock your wallet there. \nBuy a hardware wallet now.https://www.reddit.com/r/ethereum/comments/7l49xd/the_etherdelta_domain_was_hijacked_please_do_not/\u00a0\u2026",
+            "username": "myetherwallet",
+            "num_likes": 191,
+            "num_retweets": 205,
+            "num_replies": 21
+        },
+        "942768764717637633": {
+            "id": "942768764717637633",
+            "text": "\"DPOS is an exercise in corrupt politics\" - @dannyryan [a DPOS expert with first hand experience]https://twitter.com/VitalikButerin/status/942636887801348096\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "942636887801348096": {
+            "id": "942636887801348096",
+            "text": "Formal on-chain blockchain governance is not a panacea, and it's not even clear that it's an improvement.\n\nNew article from me: http://vitalik.ca/general/2017/12/17/voting.html\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 1012,
+            "num_retweets": 380,
+            "num_replies": 65
+        },
+        "940787053696036865": {
+            "id": "940787053696036865",
+            "text": "Check out this draft paper, in which I show how to do asynchronously safe bft consensus with the same network overhead as Bitcoin, if you haven't already!https://github.com/ethereum/research/blob/master/papers/CasperTFG/CasperTFG.pdf\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 138,
+            "num_retweets": 28,
+            "num_replies": 6
+        },
+        "940277160824229889": {
+            "id": "940277160824229889",
+            "text": "I just published \u201cOn Parity\u2019s proposed changes to SELFDESTRUCT behaviour\u201dhttps://medium.com/p/on-paritys-proposed-changes-to-selfdestruct-behaviour-c3f0e5bc0f49\u00a0\u2026",
+            "username": "nicksdjohnson",
+            "num_likes": 67,
+            "num_retweets": 29,
+            "num_replies": 7
+        },
+        "937444644740198400": {
+            "id": "937444644740198400",
+            "text": " Due to network congestion, we are increasing the birthing fee from 0.001 ETH to 0.002 ETH. This will ensure your kittens are born on time! The extra is needed to incentivize miners to add birthing txs to the chain. Long-term solution will be explored very soon! ",
+            "username": "CryptoKitties",
+            "num_likes": 468,
+            "num_retweets": 121,
+            "num_replies": 47
+        },
+        "937451538359861248": {
+            "id": "937451538359861248",
+            "text": "Putting it out there: any entity building state channel tech on #Ethereum should reach out to @CryptoKitties for some integration assistance. \n\nThis is your chance for near instantaneous adoption + serious kudos from the community!",
+            "username": "GeorgeAHallam",
+            "num_likes": 85,
+            "num_retweets": 18,
+            "num_replies": 6
+        },
+        "937393954022150144": {
+            "id": "937393954022150144",
+            "text": "So here's the deal: If this tweet is retweeted 500 times, @jeffehh will buy my @CryptoKitties https://www.cryptokitties.co/kitty/101\u00a0, and I'll donate 100% of the proceeds to @Worldbuilders_. That's anywhere up to $92k.\n\nHelp us do this? Please?pic.twitter.com/OyD2W1eDz6",
+            "username": "nicksdjohnson",
+            "num_likes": 333,
+            "num_retweets": 579,
+            "num_replies": 19
+        },
+        "936399786973962240": {
+            "id": "936399786973962240",
+            "text": "Cryptoeconomics & programmable incentives sets the stage for radical societal change. Let's make sure it's for the better! Here's my Devcon3 intro to what I think is the most critical subject in crypto:https://youtu.be/-alrVUv6E24\u00a0",
+            "username": "karl_dot_tech",
+            "num_likes": 129,
+            "num_retweets": 41,
+            "num_replies": 3
+        },
+        "927908750207406081": {
+            "id": "927908750207406081",
+            "text": "i accidentally killed it\n--devops199pic.twitter.com/hwyfrfrvFk",
+            "username": "socrates1024",
+            "num_likes": 216,
+            "num_retweets": 76,
+            "num_replies": 10
+        },
+        "927676276030296065": {
+            "id": "927676276030296065",
+            "text": "I just published \u201cWhat the fork? A tale of many chains.\u201dhttps://medium.com/p/what-the-fork-a-tale-of-many-chains-72ba11ee8987\u00a0\u2026",
+            "username": "ralexstokes",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "926216419670478848": {
+            "id": "926216419670478848",
+            "text": "#devcon3 takeaway #Ethereum has blockchain powered robots and instant subdomain registration. Bitcoin has SegWit. \u201cThis is good for Bitcoin\u201d",
+            "username": "cyber_hokie",
+            "num_likes": 37,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "925900656703131649": {
+            "id": "925900656703131649",
+            "text": "Thanks to @dannyryan and @naterush1997 for their awesome work in getting this repo ready, over the last few months!https://twitter.com/VladZamfir/status/925897486157348866\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "925897486157348866": {
+            "id": "925897486157348866",
+            "text": "Published PoC of the \"correct-by-construction\" Casper consensus protocols, today! Feat. efficient asynch bft safety!\nhttps://github.com/ethereum/cbc-casper\u00a0\u2026pic.twitter.com/tgd9EwPJ8T",
+            "username": "VladZamfir",
+            "num_likes": 128,
+            "num_retweets": 44,
+            "num_replies": 8
+        },
+        "925884277648113664": {
+            "id": "925884277648113664",
+            "text": "! my first public draft spec of Casper the Friendly Ghost a \"correct-by-construction\" blockchain consensus protocolhttps://github.com/ethereum/research/tree/master/papers/CasperTFG\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 646,
+            "num_retweets": 232,
+            "num_replies": 30
+        },
+        "925885560513708033": {
+            "id": "925885560513708033",
+            "text": "Also this (very!) early draft beginning to give a correct-by-construction process for generating consensus protocolshttps://github.com/ethereum/research/tree/master/papers/cbc-consensus\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 33,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "925192814866116608": {
+            "id": "925192814866116608",
+            "text": "I just published \u201cETH Gas Station Metropolis Release: Pending Tx Reports, a smarter calculator, and the Nonce\u2026\u201dhttps://medium.com/p/eth-gas-station-metropolis-release-pending-tx-reports-a-smarter-calculator-and-the-nonce-3754d4d55e11\u00a0\u2026",
+            "username": "ETHGasStation",
+            "num_likes": 24,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "925126333570699265": {
+            "id": "925126333570699265",
+            "text": "Teaser .gif for my devcon talk :)pic.twitter.com/HRzjlQKt8K",
+            "username": "VladZamfir",
+            "num_likes": 285,
+            "num_retweets": 59,
+            "num_replies": 23
+        },
+        "925011554931761153": {
+            "id": "925011554931761153",
+            "text": "Greater accountability in proof of stake vs proof of work b/c assets sit within protocol rather than off chain w/proof of stake @VladZamfirpic.twitter.com/31xbbAa9VI",
+            "username": "Fennie_Wang",
+            "num_likes": 43,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "923608954986307584": {
+            "id": "923608954986307584",
+            "text": "OH: \"I like my adversaries efficiently simulable\"",
+            "username": "VladZamfir",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "923694165698928640": {
+            "id": "923694165698928640",
+            "text": "how do we make actual progress in tech? by following the ideas and spirit of this post:https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11\u00a0\u2026",
+            "username": "ralexstokes",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "922158700034273280": {
+            "id": "922158700034273280",
+            "text": "On Proof of Stake & Ethereum Casper: design principles, foundational concepts, challenges, and why it all matters.https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0\u00a0\u2026",
+            "username": "jon_choi_",
+            "num_likes": 510,
+            "num_retweets": 272,
+            "num_replies": 21
+        },
+        "920316139980324865": {
+            "id": "920316139980324865",
+            "text": "Unexpected Byzantium bonus - f2pool started accepting <0.1 gwei gas price - not sure how long it will last but huge boost for low cost tx",
+            "username": "ETHGasStation",
+            "num_likes": 61,
+            "num_retweets": 28,
+            "num_replies": 4
+        },
+        "919777515140415493": {
+            "id": "919777515140415493",
+            "text": "I made a Venn diagram of the overlap between \u201cblockchain experts\u201d on LinkedIn and actual experts on #blockchain technology. \n\n#OhWaitpic.twitter.com/AhvohysuR1",
+            "username": "Disruptepreneur",
+            "num_likes": 361,
+            "num_retweets": 78,
+            "num_replies": 20
+        },
+        "919526972530876416": {
+            "id": "919526972530876416",
+            "text": "[URGENT] Update your Ethereum clients! Less than 24 hours until the Byzantium hard fork.https://goo.gl/V9NCv8\u00a0",
+            "username": "ethereum",
+            "num_likes": 678,
+            "num_retweets": 480,
+            "num_replies": 93
+        },
+        "916920867807944705": {
+            "id": "916920867807944705",
+            "text": "I think the https://etherdelta.com/\u00a0 model for developers getting paid is underrated.https://www.reddit.com/r/EtherDelta/comments/6hrvwl/how_fees_work/\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 370,
+            "num_retweets": 105,
+            "num_replies": 35
+        },
+        "914272859479928833": {
+            "id": "914272859479928833",
+            "text": "Casper FFG: now down to one message type and one slashing condition http://ethereumresearch.trydiscourse.com/t/casper-ffg-with-one-message-type-and-simpler-fork-choice-rule/103\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 498,
+            "num_retweets": 199,
+            "num_replies": 24
+        },
+        "912676954184323073": {
+            "id": "912676954184323073",
+            "text": "I just published \u201cWhy I find Iota deeply alarming\u201dhttps://medium.com/p/why-i-find-iota-deeply-alarming-934f1908194b\u00a0\u2026",
+            "username": "nicksdjohnson",
+            "num_likes": 205,
+            "num_retweets": 75,
+            "num_replies": 48
+        },
+        "911986337997295617": {
+            "id": "911986337997295617",
+            "text": "EFF is resigning from the W3C. It should not approve standards that deny users control over their own browsers.https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership\u00a0\u2026",
+            "username": "EFF",
+            "num_likes": 497,
+            "num_retweets": 392,
+            "num_replies": 10
+        }
+    },
+    "tweeted": {
+        "1121143693166043138": {
+            "id": "1121143693166043138",
+            "text": "v0.6.0 \u2014 Spring Cleaning \u2014 released!\nhttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.6.0\u00a0\u2026\n\nThank you to all the spec contributors and client teams for the incredible work!",
+            "username": "dannyryan",
+            "num_likes": 255,
+            "num_retweets": 98,
+            "num_replies": 13
+        },
+        "1118896043113033728": {
+            "id": "1118896043113033728",
+            "text": "eth2.0 call #16\nhttps://www.youtube.com/watch?v=eN_O8bSaS5Q\u00a0\u2026\n\nThanks everyone!",
+            "username": "dannyryan",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1111310594617933824": {
+            "id": "1111310594617933824",
+            "text": "eth2.0 implementers call #15\nhttps://www.youtube.com/watch?v=bC4v_a-gcrs\u00a0\u2026\n\nThanks everyone!",
+            "username": "dannyryan",
+            "num_likes": 86,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "1106555033565294592": {
+            "id": "1106555033565294592",
+            "text": "yay!https://twitter.com/benjaminion_xyz/status/1106514596251213825\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 15,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1106313018588065792": {
+            "id": "1106313018588065792",
+            "text": "eth2.0 spec v0.5.0 -- `exec beacon_chain`\nhttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.5.0\u00a0\u2026\n\nThank you everyone who contributed!",
+            "username": "dannyryan",
+            "num_likes": 141,
+            "num_retweets": 44,
+            "num_replies": 0
+        },
+        "1101275749774843906": {
+            "id": "1101275749774843906",
+            "text": "eth2.0 implementer call 13 https://www.youtube.com/watch?v=0ZWG8hMbxes\u00a0\u2026\n\nNotes to follow",
+            "username": "dannyryan",
+            "num_likes": 50,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1100868444486942720": {
+            "id": "1100868444486942720",
+            "text": "I was on @zeroknowledgefm to chat about the current progress of Eth2.0. Thanks @AnnaRRose and @fredhrson! I had a blast :)https://www.zeroknowledge.fm/66\u00a0",
+            "username": "dannyryan",
+            "num_likes": 101,
+            "num_retweets": 26,
+            "num_replies": 5
+        },
+        "1100110856400949248": {
+            "id": "1100110856400949248",
+            "text": "Eth2.0 spec release v0.4.0 -- Clean Signinghttps://github.com/ethereum/eth2.0-specs/releases/tag/0.4.0\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 120,
+            "num_retweets": 40,
+            "num_replies": 5
+        },
+        "1100080503695142927": {
+            "id": "1100080503695142927",
+            "text": "eth2.0 call 12 notes\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_012.md\u00a0\u2026\n\nThanks Peter!",
+            "username": "dannyryan",
+            "num_likes": 39,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1098233853402144770": {
+            "id": "1098233853402144770",
+            "text": "Would you suggest I pull it down for a try?https://twitter.com/jcksie/status/1098039509030178817\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1096460447266496512": {
+            "id": "1096460447266496512",
+            "text": "Eth2.0 spec release v0.3.0 \u2014 Let There Be Liquidity\nhttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.3.0\u00a0\u2026\n\nThank you everyone for all the bug fixes, clarifications, and feedback that went into this release!",
+            "username": "dannyryan",
+            "num_likes": 210,
+            "num_retweets": 70,
+            "num_replies": 3
+        },
+        "1096098609450254337": {
+            "id": "1096098609450254337",
+            "text": "eth2 call #12 https://www.youtube.com/watch?v=p1qHM2B8cGc\u00a0\u2026\n\nNotes to follow",
+            "username": "dannyryan",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1094796265026551809": {
+            "id": "1094796265026551809",
+            "text": "7/ People have rightly noted that I, too, am a leader in this process, but I am one of many. Decentralization in Ethereum is not leaderless. In fact it is the opposite, and through this I expect we thrive.",
+            "username": "dannyryan",
+            "num_likes": 69,
+            "num_retweets": 4,
+            "num_replies": 5
+        },
+        "1094796264128966656": {
+            "id": "1094796264128966656",
+            "text": "6/ Beyond the research and development, our community never ceases to astound. Independent projects like @ethhub_io, @GetGitcoin, and Moloch DAO provide incredible resources, analysis, and funding for eth2.0. We share a vision- an ethos- and we all drive this forward.",
+            "username": "dannyryan",
+            "num_likes": 41,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1094796263311036416": {
+            "id": "1094796263311036416",
+            "text": "5/ Many world class teams have formed over the past 6 months each with a different background and set of expertise. Each of these 2.0 teams has its own leadership. Although we are unified in vision and protocol, each team follows their own path in shipping their client",
+            "username": "dannyryan",
+            "num_likes": 38,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1094796262409289728": {
+            "id": "1094796262409289728",
+            "text": "4/ @icebearhww leads py-evm/trinity eth2.0 engineering. She is maybe the most productive engineer I have met and at the same time a master steward of the spec. She is a brilliant architect and has an attention to detail like no other.",
+            "username": "dannyryan",
+            "num_likes": 52,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1094796261549518849": {
+            "id": "1094796261549518849",
+            "text": "3/ @drakefjustin makes sure the protocol is the best it can be. He is constantly innovating, refining, and ensuring that eth2.0 not only works but is optimal and elegant. He is not afraid to travel down uncharted paths and the protocol is better for it.",
+            "username": "dannyryan",
+            "num_likes": 49,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1094796260614189056": {
+            "id": "1094796260614189056",
+            "text": "2/ @VitalikButerin is a brilliant computer scientist, mathematician, and economist. He leads the cutting edge research that has sculpted eth2.0 into a beautiful protocol. He is more dedicated to Ethereum than humanly seems possible and constantly drives it forward.",
+            "username": "dannyryan",
+            "num_likes": 62,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1094796259762700288": {
+            "id": "1094796259762700288",
+            "text": "1/ There has been a lot of discussion around \"leadership\" in Ethereum 2.0 this past week, much around the lack of it. I tend to see it the other way. Ethereum is strong because of abundant, world-class leadership.",
+            "username": "dannyryan",
+            "num_likes": 238,
+            "num_retweets": 62,
+            "num_replies": 15
+        },
+        "1094018956266954753": {
+            "id": "1094018956266954753",
+            "text": "Eth2.0 spec release -- Steady Progress\n\nSee changelog herehttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.2.0\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 260,
+            "num_retweets": 82,
+            "num_replies": 10
+        },
+        "1093240647769776128": {
+            "id": "1093240647769776128",
+            "text": "eth2.0 implementer call #11 notes\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_011.md\u00a0\u2026\n\nThanks @_padpad_",
+            "username": "dannyryan",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090994813690757120": {
+            "id": "1090994813690757120",
+            "text": "Eth2.0 implementers call 11\nVideo: https://www.youtube.com/watch?v=wS3sOB_hfgk\u00a0\u2026\n\nNotes to follow",
+            "username": "dannyryan",
+            "num_likes": 23,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1090301407998095360": {
+            "id": "1090301407998095360",
+            "text": "Wow! I haven't fully reviewed this yet, but regardless it's awesomehttps://twitter.com/protolambda/status/1090272649421508609\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 16,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088855094315999232": {
+            "id": "1088855094315999232",
+            "text": "Notes from Eth2.0 Implementers Call #10\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_010.md\u00a0\u2026\n\nThank you @_padpad_ for the excellent notes as usual :)",
+            "username": "dannyryan",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1088481199104946178": {
+            "id": "1088481199104946178",
+            "text": "So many great questions! Eth2.0 researchers AMA ongoing here:https://www.reddit.com/r/ethereum/comments/ajc9ip/ama_we_are_the_eth_20_research_team/\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1087938532444909569": {
+            "id": "1087938532444909569",
+            "text": "We're doing an Eth2.0 researcher AMA this Thursday! Send in your questions here:https://www.reddit.com/r/ethereum/comments/aivyyj/eth_20_researchers_ama_send_in_your_questions/\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 112,
+            "num_retweets": 47,
+            "num_replies": 12
+        },
+        "1086824066714165248": {
+            "id": "1086824066714165248",
+            "text": "This implementation has very swiftly materialized...https://twitter.com/DeanEigenmann/status/1086784959027789825\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1085922217798627333": {
+            "id": "1085922217798627333",
+            "text": "eth2 call 10!\nhttps://www.youtube.com/watch?v=KZ9fms_PrQU\u00a0\u2026\nSuper exciting to see all the progress :)\n\n(notes to follow)",
+            "username": "dannyryan",
+            "num_likes": 28,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1083426433358352390": {
+            "id": "1083426433358352390",
+            "text": "If no, why not?",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1083422235115819011": {
+            "id": "1083422235115819011",
+            "text": "Is bitcoin a DAO?",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1081956934251507712": {
+            "id": "1081956934251507712",
+            "text": "Eth2.0 Implementers Call 9 notes\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_009.md\u00a0\u2026\n\nThanks Peter!",
+            "username": "dannyryan",
+            "num_likes": 50,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1080844738968735747": {
+            "id": "1080844738968735747",
+            "text": "Eth2.0 call #9\nhttps://www.youtube.com/watch?v=6trA-5rjZUQ\u00a0\u2026\n\nNotes to follow",
+            "username": "dannyryan",
+            "num_likes": 33,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1078284598503718918": {
+            "id": "1078284598503718918",
+            "text": "Super impressed with all the progress!\n\nalso, it turns out Nim is a fun language :)https://twitter.com/jcksie/status/1078277760525717504\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1075497287265202178": {
+            "id": "1075497287265202178",
+            "text": "Notes from eth2.0 call #8\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_008.md\u00a0\u2026\n\nThanks peter!",
+            "username": "dannyryan",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1073236520138608640": {
+            "id": "1073236520138608640",
+            "text": "Eth2.0 implementers call #8!\nhttps://www.youtube.com/watch?v=NO9UlkpFKA0\u00a0\u2026\n\nNotes to follow",
+            "username": "dannyryan",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1070700187251818497": {
+            "id": "1070700187251818497",
+            "text": "Notes from eth2.0 implementers call #7https://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_007.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1068166055334461441": {
+            "id": "1068166055334461441",
+            "text": "Thanks everyone for joining the Eth2.0 (serenity?) call today! https://www.youtube.com/watch?v=Zl-yusB8oqY\u00a0\u2026\n\nNotes to follow this weekend",
+            "username": "dannyryan",
+            "num_likes": 31,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1066424443709329408": {
+            "id": "1066424443709329408",
+            "text": "Eth2.0 Implementer Call 6 notes! My fault they are delayed.\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_006.md\u00a0\u2026\n\n Thanks Peter!",
+            "username": "dannyryan",
+            "num_likes": 51,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1063094012960096256": {
+            "id": "1063094012960096256",
+            "text": "Forks are fun :)\n",
+            "username": "dannyryan",
+            "num_likes": 16,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1059442019792236544": {
+            "id": "1059442019792236544",
+            "text": "Help Vlad while you educate yourself! Be an active reader -- submit PRs for spelling, mismatched variables, formatting, etc.https://twitter.com/VladZamfir/status/1059440312270110720\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 50,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1052648788194660352": {
+            "id": "1052648788194660352",
+            "text": "Eth2.0 Implementers Call #5 notes\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_005.md\u00a0\u2026\n\nSpecial thanks to Peter Gallagher.",
+            "username": "dannyryan",
+            "num_likes": 36,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1050409510811131904": {
+            "id": "1050409510811131904",
+            "text": "Eth2.0 Implementers Call #5. Stream failed, here is a local recording.https://www.youtube.com/watch?v=cNLO3vyod-E\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1050406473443004416": {
+            "id": "1050406473443004416",
+            "text": "Sorry about the technical difficulties today on the eth2.0 call. I'll be uploading a local recording of the video shortly.",
+            "username": "dannyryan",
+            "num_likes": 16,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1046430522480775168": {
+            "id": "1046430522480775168",
+            "text": "Notes from Eth2.0 Implementers Call 4. Now with timestamps!\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_004.md\u00a0\u2026\n\n[Special thanks to Peter for putting these together]",
+            "username": "dannyryan",
+            "num_likes": 39,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1045337751330197508": {
+            "id": "1045337751330197508",
+            "text": "Eth2.0 Implementers Call #4 https://www.youtube.com/watch?v=SvcqFEwyZo0\u00a0\u2026\n\nNotes to follow",
+            "username": "dannyryan",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1045114895228973057": {
+            "id": "1045114895228973057",
+            "text": "Curious about the potential use of VDFs in eth2.0?\n\n@drakefjustin published an in-depth explanation, analysis, and discussion of the technique herehttps://ethresear.ch/t/minimal-vdf-randomness-beacon/3566\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 41,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1044634073099120640": {
+            "id": "1044634073099120640",
+            "text": "Want to get involved with an Eth2.0 client implementation?\n\nLighthouse (a beacon chain in Rust led by @paulhauner ) has an open issue for refactoring some bitfield utilities. Looks like a great way to get started with their project and Eth2.0 in general.https://github.com/sigp/lighthouse/issues/22\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1042157604397608960": {
+            "id": "1042157604397608960",
+            "text": "Notes from eth2.0 Implementers Call #3https://github.com/ethresearch/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_003.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 35,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1041724560805175296": {
+            "id": "1041724560805175296",
+            "text": "If you've been wondering about what's going on with eth2.0, I highly recommend giving this a listen. I had a long conversation on @HashingItOutPod discussing the motivations, design, and roadmap of eth2.0.https://thebitcoinpodcast.com/hashing-it-out-22/\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 77,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1040296874585022465": {
+            "id": "1040296874585022465",
+            "text": "Really enjoyed chatting with the guys at Hashing It Out about eth2.0. Talked about the motivations, got into the nitty gritty of the details of the spec, and discussed what is in store for the future!https://twitter.com/HashingItOutPod/status/1040293358143516672\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1040261462701350913": {
+            "id": "1040261462701350913",
+            "text": "Thanks everyone who made it to the Eth2.0 Implementers call today https://www.youtube.com/watch?v=cp0LxJiyV3I\u00a0\u2026\n\nNotes to follow",
+            "username": "dannyryan",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1038812446616678405": {
+            "id": "1038812446616678405",
+            "text": "Huge fan of \"good first issue\" tag. Its one of the best ways to get new contributors to your repo but also to open source in general!https://twitter.com/terencechain/status/1038811985297567744\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1037132155284021253": {
+            "id": "1037132155284021253",
+            "text": "Will be tuning in!https://twitter.com/ETHBerlin/status/1037131231379566592\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1036991595479007232": {
+            "id": "1036991595479007232",
+            "text": "Notes from the last Eth2.0 Implementers Callhttps://github.com/ethresearch/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_002.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 35,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1035195788853436417": {
+            "id": "1035195788853436417",
+            "text": "Latest Eth2.0 Implementers Call. \nNotes to follow in a bithttps://www.youtube.com/watch?v=66SFMJC0RQo\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1033480211055169536": {
+            "id": "1033480211055169536",
+            "text": "Better late than never! Eth2.0 Implementers Call #1 notes/links/etc:https://github.com/ethresearch/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_001.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 47,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1030944427433373696": {
+            "id": "1030944427433373696",
+            "text": "Applications to present, lead a workshop, or organize a breakout room at Devcon4 are due by the end of tomorrow (Sunday, August 19th)!\n\nhttps://devcon4.ethereum.org/call-for-participation\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1027191286087016448": {
+            "id": "1027191286087016448",
+            "text": "PSA: the Fomo3D web interface appears hacked. https is broken and there is a pepe meme snorting something embedded at the bottom of the page. See this reddit post for relevant screenshotshttps://www.reddit.com/r/ethereum/comments/95m6mb/fomo3d_web_interface_looks_hacked/\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1026840794785828871": {
+            "id": "1026840794785828871",
+            "text": "devcon4 wave 2 ticket sales in 18 minutes!\nhttps://devcon4.ethereum.org/\u00a0",
+            "username": "dannyryan",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1025368642832265217": {
+            "id": "1025368642832265217",
+            "text": "Discussion notes and links:\nhttps://notes.ethereum.org/s/r1wW6TZrQ\u00a0",
+            "username": "dannyryan",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1025367291171688449": {
+            "id": "1025367291171688449",
+            "text": "Ethereum Sharding Implementers Call #0 discussion notes and links:\nhttps://notes.ethereum.org/s/r1wW6TZrQ\u00a0",
+            "username": "dannyryan",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1025367063236411392": {
+            "id": "1025367063236411392",
+            "text": "Ethereum Sharding Implementers Call #0\nhttps://www.youtube.com/watch?v=Ynqrka5DQOI&feature=youtu.be\u00a0\u2026\n\nThank you everyone for coming! Excited to get together in another two weeks",
+            "username": "dannyryan",
+            "num_likes": 124,
+            "num_retweets": 38,
+            "num_replies": 10
+        },
+        "1021405766987796480": {
+            "id": "1021405766987796480",
+            "text": "\"VDFs are not Proof of Work -- At least not in the ways you were worried about\"https://medium.com/@djrtwo/vdfs-are-not-proof-of-work-91ba3bec2bf4\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1017401288471011328": {
+            "id": "1017401288471011328",
+            "text": "I'm excited for the day when I check the gas guzzlers on ethgasstation and it's not filled with shitcoins.https://ethgasstation.info/gasguzzlers.php\u00a0",
+            "username": "dannyryan",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1015735045133426688": {
+            "id": "1015735045133426688",
+            "text": "Vyper to take over the smart contract world by 2020https://twitter.com/ralexstokes/status/1015681152252690432\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1011938902377189377": {
+            "id": "1011938902377189377",
+            "text": "Excited to see another casper+sharding beacon chain implementation in the works!https://twitter.com/prylabs/status/1011739782039289857\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1010941151174713344": {
+            "id": "1010941151174713344",
+            "text": "The gas market looks healthy",
+            "username": "dannyryan",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1007670522124087296": {
+            "id": "1007670522124087296",
+            "text": "Casper and sharding are coming together https://medium.com/@djrtwo/casper-%EF%B8%8F-sharding-28a90077f121\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 153,
+            "num_retweets": 54,
+            "num_replies": 6
+        },
+        "1005692012308205568": {
+            "id": "1005692012308205568",
+            "text": "I rolled a 20, so I can get the same target epoch.\n\nHmmmhttps://twitter.com/DungeonFacts/status/1005437964795678720\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1004370303814946816": {
+            "id": "1004370303814946816",
+            "text": "No slashing would occur. When the parity validators installed the patch, they would follow the G finalized chain and begin to vote again. They would have suffered some non-voting losses in the meantime.https://twitter.com/dannyryan/status/1004369863723376642\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1001846521812410368": {
+            "id": "1001846521812410368",
+            "text": "I admit, I don't know a ton about EOS's dPoS system so my question might be uninformed or even malformed. Happy to be educated...",
+            "username": "dannyryan",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1001846245365899265": {
+            "id": "1001846245365899265",
+            "text": "I submit a question about dPoS in EOS, but it's not getting any love in r/eos. Are there any EOS/dPoS experts that can chime in with an answer?\nhttps://www.reddit.com/r/eos/comments/8n8ygn/monitoring_the_bps/\u00a0\u2026\n\ncc: @bytemaster7, @EOS_io",
+            "username": "dannyryan",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "996594673408864257": {
+            "id": "996594673408864257",
+            "text": "Thank you to everyone that has proofed the EIP and contributed to the repo!",
+            "username": "dannyryan",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "996594590269431808": {
+            "id": "996594590269431808",
+            "text": "Also released some corresponding updates to EIP 1011 \u2014 http://eips.ethereum.org/EIPS/eip-1011\u00a0. See this issue for the EIP changelog \u2014 https://github.com/djrtwo/EIPs/issues/5\u00a0\u2026.",
+            "username": "dannyryan",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "996594517921882112": {
+            "id": "996594517921882112",
+            "text": "Just released Casper FFG v0.2.0 \u2014 Partial Slashing and Friendshttps://github.com/ethereum/casper/releases/tag/v0.2.0\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 229,
+            "num_retweets": 84,
+            "num_replies": 23
+        },
+        "992917841874599936": {
+            "id": "992917841874599936",
+            "text": "Bummed I couldn't make it to EDCON this year. Sitting in Tokyo buidling instead. \n\nJust released some updates to EIP 1011. Checkout the changelog and EIP discussion athttps://github.com/djrtwo/EIPs/issues/5\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 25,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "988607696046772224": {
+            "id": "988607696046772224",
+            "text": "EIP 1011 suggests PoW reward be reduced from 3 ETH to 0.6 ETH. Here we dig deeper into this proposed change.https://gist.github.com/djrtwo/bc864c0d0a275170183803814b207b9a\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 148,
+            "num_retweets": 56,
+            "num_replies": 9
+        },
+        "987340710658506752": {
+            "id": "987340710658506752",
+            "text": "I am not giving any ETH away. The below comments are scammers.",
+            "username": "dannyryan",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "987325700569903105": {
+            "id": "987325700569903105",
+            "text": "Better EIP 1011 link here:http://eips.ethereum.org/EIPS/eip-1011\u00a0",
+            "username": "dannyryan",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "986793378355359744": {
+            "id": "986793378355359744",
+            "text": "The easiest way to start contributing to open source is to fix typos and broken documentation when you're using a new library/codebase.\n\nStart small. It quickly becomes addictive.",
+            "username": "dannyryan",
+            "num_likes": 95,
+            "num_retweets": 21,
+            "num_replies": 2
+        },
+        "961739695418900480": {
+            "id": "961739695418900480",
+            "text": "John Perry Barlow's \"Declaration of the Independence of Cyberspace\" is just as important today as it was in 1996. Rest in Peacehttps://www.eff.org/cyberspace-independence\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "948297770045198337": {
+            "id": "948297770045198337",
+            "text": "scrap that last addr... 0x6e808d1c1476779c42ac67c0cebeda51d3143654 if anyone has FFG testnet ether",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "948293896769101824": {
+            "id": "948293896769101824",
+            "text": "Last finalized epoch: 46\nCurrent epoch: 69\n\nNeed some more validators on this network. I'm mining but it's going to take a while to get my 1500 ETH... anyone want to send me some FFG testnet eth?\n0xc652b0aa16697844dfed54788db4a9f54c3848db\n\nplease and thank you!",
+            "username": "dannyryan",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "948214471100649472": {
+            "id": "948214471100649472",
+            "text": "Node stopped syncing after block 3499. Anyone know if the testnet is still running? I guess I'll start mining...",
+            "username": "dannyryan",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "948212672302080002": {
+            "id": "948212672302080002",
+            "text": "After a bit of a head-scratching delay, my docker node is syncing the testnet :)pic.twitter.com/h2nhfHgaJe",
+            "username": "dannyryan",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "948207463609917440": {
+            "id": "948207463609917440",
+            "text": "Today's goals: setup an FFG testnet node.\n@karl_dot_tech",
+            "username": "dannyryan",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "941054586546216961": {
+            "id": "941054586546216961",
+            "text": "Excellent overview and Q&A about Casper FFG. Thanks @karl_dot_tech for inviting me to participate https://twitter.com/karl_dot_tech/status/940999963529662466\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "934831627779362816": {
+            "id": "934831627779362816",
+            "text": "I just published \u201cNothing at Stake, a dialogue\u201dhttps://medium.com/p/nothing-at-stake-a-dialogue-2ded91318cb9\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "925453321741262848": {
+            "id": "925453321741262848",
+            "text": "Just under 24 hours to go... having a ghost filled halloween.",
+            "username": "dannyryan",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "923933482723823616": {
+            "id": "923933482723823616",
+            "text": "I'm possessed by a GHOST! Good thing he's friendly. Exciting stuff coming for #Devcon3",
+            "username": "dannyryan",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "919800959328436224": {
+            "id": "919800959328436224",
+            "text": "Excellent work to everyone involved in Ethereum core development!",
+            "username": "dannyryan",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "919729393634701313": {
+            "id": "919729393634701313",
+            "text": "I get so excited before blockchain forks. It feels like christmas!",
+            "username": "dannyryan",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "913100671670472704": {
+            "id": "913100671670472704",
+            "text": "I just published \u201cMotivating Proof of Stake, a dialogue\u201dhttps://medium.com/p/motivating-proof-of-stake-a-dialogue-3a6d76bd08d\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "908668658251063297": {
+            "id": "908668658251063297",
+            "text": "Slack simply allows too much fraud.https://twitter.com/SlackSucks/status/908404308596719616\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "905459441184768003": {
+            "id": "905459441184768003",
+            "text": "Just published an EVM OPCODE table on github https://github.com/djrtwo/evm-opcode-gas-costs\u00a0\u2026. Adding Metropolis updates as they are released!",
+            "username": "dannyryan",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "895752394629419009": {
+            "id": "895752394629419009",
+            "text": "I just published \u201cCosts of a Real World Ethereum Contract\u201dhttps://medium.com/p/costs-of-a-real-world-ethereum-contract-2033511b3214\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "880133413885366273": {
+            "id": "880133413885366273",
+            "text": "Ether's Purchase Power https://medium.com/@djrtwo/ether-purchase-power-df40a38c5a2f\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "869017043521208321": {
+            "id": "869017043521208321",
+            "text": "I just published \u201cEthereum in a Sentence\u201dhttps://medium.com/@djrtwo/ethereum-in-a-sentence-ba2db11c6bec\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "863608217015771137": {
+            "id": "863608217015771137",
+            "text": "A little late but it was awesome meeting the guys at @ExpanseOfficial at #CollisionConfpic.twitter.com/JwXdNUQanG",
+            "username": "dannyryan",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "577511913002676224": {
+            "id": "577511913002676224",
+            "text": "I just backed Sneaky Pickle on @Kickstarterhttp://kck.st/1EOnhtJ\u00a0",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "427981673968308224": {
+            "id": "427981673968308224",
+            "text": "Making progress on the new Chimes beer game.",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "192735718844547072": {
+            "id": "192735718844547072",
+            "text": "about to do a sushi amrap with neverwarepic.twitter.com/5k8Arz4n",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "190845508019957760": {
+            "id": "190845508019957760",
+            "text": "These shoes look badass.  I just backed FORSAKE: Waterproof Outdoor Sneakers on @Kickstarterhttp://kck.st/HgJGkf\u00a0",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "190843714648813568": {
+            "id": "190843714648813568",
+            "text": "Very excited about going to my first Passover seder tonight.",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "20570469957": {
+            "id": "20570469957",
+            "text": "Jam session with jeff http://yfrog.com/jkosbzj",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "20147141959": {
+            "id": "20147141959",
+            "text": "Today is the big day",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "20016184614": {
+            "id": "20016184614",
+            "text": "I don't like snowballs but Ninja Snowballs ice is amazing in this heat. \n http://yfrog.com/nf3uttj",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "20016138480": {
+            "id": "20016138480",
+            "text": "Cd",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3895078126": {
+            "id": "3895078126",
+            "text": "Train to Princeton.",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3782928137": {
+            "id": "3782928137",
+            "text": "Discussing http://giraphicapparel.com with mr ford.",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1180567286": {
+            "id": "1180567286",
+            "text": "Writing a mission statement.",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1180459928": {
+            "id": "1180459928",
+            "text": "talking about twitter",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1180036194": {
+            "id": "1180036194",
+            "text": "frantically finishing a business plan and getting pumped for the Sympoh show tonight.",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "996862025": {
+            "id": "996862025",
+            "text": "Dinner soon, please.",
+            "username": "dannyryan",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "prylabs": 4,
+        "sigp_io": 5,
+        "ethereum": 15,
+        "gregthegreek": 2,
+        "ethereumJoseph": 1,
+        "ethnimbus": 5,
+        "raulitojordan": 7,
+        "trent_vanepps": 3,
+        "zeroknowledgefm": 1,
+        "realLedgerwatch": 3,
+        "evan_van_ness": 2,
+        "josephdelong": 1,
+        "jcksie": 5,
+        "protolambda": 1,
+        "JonnyRhea": 1,
+        "paulhauner": 16,
+        "benjaminion_xyz": 22,
+        "bitfalls": 2,
+        "gliinbox": 1,
+        "icebearhww": 4,
+        "yeethaf": 2,
+        "terencechain": 10,
+        "drakefjustin": 8,
+        "ethZed": 2,
+        "raulvk": 2,
+        "0xstark": 2,
+        "plasma_group": 1,
+        "DeanEigenmann": 1,
+        "badcryptobitch": 1,
+        "peter_szilagyi": 3,
+        "Linktimetech": 1,
+        "VitalikButerin": 11,
+        "lrettig": 3,
+        "jasoncarver": 1,
+        "econoar": 1,
+        "phildaian": 2,
+        "rv_inc": 1,
+        "RosuGrigore": 1,
+        "MPtherealMVP": 1,
+        "cburgdorf": 4,
+        "alexberegszaszi": 2,
+        "ralexstokes": 5,
+        "tipsysquid": 1,
+        "chfast": 1,
+        "kelvinfichter": 3,
+        "vsr": 1,
+        "EFDevcon": 3,
+        "obnty": 1,
+        "mi_ayako": 1,
+        "Rocket_Pool": 1,
+        "ethstatus": 1,
+        "nuclearjoker": 1,
+        "ParityTech": 1,
+        "nicksdjohnson": 5,
+        "gitcoin": 1,
+        "jon_choi_": 2,
+        "ChihChengLiang": 1,
+        "Cyrus": 1,
+        "gavofyork": 1,
+        "karl_dot_tech": 3,
+        "myetherwallet": 1,
+        "VladZamfir": 7,
+        "CryptoKitties": 1,
+        "GeorgeAHallam": 1,
+        "socrates1024": 1,
+        "cyber_hokie": 1,
+        "ETHGasStation": 2,
+        "Fennie_Wang": 1,
+        "Disruptepreneur": 1,
+        "EFF": 1
+    },
+    "users_retweeted": [
+        "benjaminion_xyz",
+        "paulhauner",
+        "ethereum",
+        "VitalikButerin",
+        "terencechain",
+        "drakefjustin",
+        "raulitojordan",
+        "VladZamfir",
+        "sigp_io",
+        "ethnimbus",
+        "jcksie",
+        "ralexstokes",
+        "nicksdjohnson",
+        "prylabs",
+        "icebearhww",
+        "cburgdorf",
+        "trent_vanepps",
+        "realLedgerwatch",
+        "peter_szilagyi",
+        "lrettig",
+        "kelvinfichter",
+        "EFDevcon",
+        "karl_dot_tech",
+        "gregthegreek",
+        "evan_van_ness",
+        "bitfalls",
+        "yeethaf",
+        "ethZed",
+        "raulvk",
+        "0xstark",
+        "phildaian",
+        "alexberegszaszi",
+        "jon_choi_",
+        "ETHGasStation",
+        "ethereumJoseph",
+        "zeroknowledgefm",
+        "josephdelong",
+        "protolambda",
+        "JonnyRhea",
+        "gliinbox",
+        "plasma_group",
+        "DeanEigenmann",
+        "badcryptobitch",
+        "Linktimetech",
+        "jasoncarver",
+        "econoar",
+        "rv_inc",
+        "RosuGrigore",
+        "MPtherealMVP",
+        "tipsysquid",
+        "chfast",
+        "vsr",
+        "obnty",
+        "mi_ayako",
+        "Rocket_Pool",
+        "ethstatus",
+        "nuclearjoker",
+        "ParityTech",
+        "gitcoin",
+        "ChihChengLiang",
+        "Cyrus",
+        "gavofyork",
+        "myetherwallet",
+        "CryptoKitties",
+        "GeorgeAHallam",
+        "socrates1024",
+        "cyber_hokie",
+        "Fennie_Wang",
+        "Disruptepreneur",
+        "EFF"
+    ]
+}

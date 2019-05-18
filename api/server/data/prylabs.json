@@ -1,0 +1,870 @@
+{
+    "is_complete": true,
+    "username": "prylabs",
+    "retweeted": {
+        "1126247024108511233": {
+            "id": "1126247024108511233",
+            "text": "Thanks to all the first validators for participating in @prylabs testnet. As we constantly improve and fix bugs that arise, great experiment like this enables as to identify critical edge cases before taking things further. Here's list of notes I compiled",
+            "username": "terencechain",
+            "num_likes": 41,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1123328404705517568": {
+            "id": "1123328404705517568",
+            "text": "we @prylabs are updating our  state transition  functions to spec v0.6. If anyone wanna help out & write Go - check out this tracking issue. Happy to onboard anyone!https://github.com/prysmaticlabs/prysm/issues/2307\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 40,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1118036481375784960": {
+            "id": "1118036481375784960",
+            "text": "Hell yeah! Looks like im the first non Eth2.0-dev to sync with @prylabs testnet. pic.twitter.com/EUqH7H9gNd",
+            "username": "albymatapo",
+            "num_likes": 161,
+            "num_retweets": 35,
+            "num_replies": 29
+        },
+        "1116740042070872065": {
+            "id": "1116740042070872065",
+            "text": "I just published Ethereum 2.0 Development Update #25\u200a\u2014\u200aPrysmatic Labs https://link.medium.com/R9Zv9zaAPV\u00a0 @prylabs #Ethereum",
+            "username": "raulitojordan",
+            "num_likes": 160,
+            "num_retweets": 57,
+            "num_replies": 3
+        },
+        "1116597091298471936": {
+            "id": "1116597091298471936",
+            "text": "@preston_vanloon on stage giving a talk on our latest eth2 development, production-ready deployment, and when testnetGreat work @prylabs team! pic.twitter.com/xQolSuGxYN \u2013 at Pyrmont Theatre",
+            "username": "terencechain",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1116083027740725248": {
+            "id": "1116083027740725248",
+            "text": "sneak peak of @preston_vanloon's \"How to Build a production-ready eth2 client\" talk at Edcon. This replays the progression of 3 beacon nodes w/ 32 validators working from slots 15-100, finalizing epochs and gaining rewards@prylabs @Linktimetechpic.twitter.com/c93Y6oVmtL",
+            "username": "terencechain",
+            "num_likes": 139,
+            "num_retweets": 36,
+            "num_replies": 5
+        },
+        "1115057048511758337": {
+            "id": "1115057048511758337",
+            "text": "48 of our ETH2.0 validators showing their latest block votes in real time in our @prylabs Prysm testnet! Props to @terenc3t for the graph and excited to have more visuals that showcase the power of the ETH2 fork-choice rule #Ethereumpic.twitter.com/ltd7lRmcQF",
+            "username": "raulitojordan",
+            "num_likes": 140,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "1107528374090715137": {
+            "id": "1107528374090715137",
+            "text": "Feels great to have all 8 of my eth2 validators putting in work and proposing/attesting to blocks on the @prylabs beacon chain  #Ethereumpic.twitter.com/veis2v9rUw",
+            "username": "raulitojordan",
+            "num_likes": 133,
+            "num_retweets": 26,
+            "num_replies": 6
+        },
+        "1106265568720490496": {
+            "id": "1106265568720490496",
+            "text": "Happyday from @prylabs! Check out our dev update #24 on ETH2.0. The latest activities on:\nBeacon node + validator run time\nMulti beacon node syncing\nLMD Ghost fork choice framework & benchmarks\nSparse Merkle trie tools\nEnd-2-end testing\nWe have a new team member!",
+            "username": "terencechain",
+            "num_likes": 109,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "1098291954146820098": {
+            "id": "1098291954146820098",
+            "text": "Here are the results from our fifteen day CLR grants matching initiative. At the top, @prylabs, @MolochDAO and @UniswapExchange. #GrowOpenSourcepic.twitter.com/Hsn7FZ00lP",
+            "username": "gitcoin",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1096123849458905088": {
+            "id": "1096123849458905088",
+            "text": "Stay up to date on ETH2 development with the latest @prylabs update:\nBeacon chain running w/ 8 validators locally\nDeploying and testing deposit contract on Goerli testnet\nReconstructing proposer/attester code\nAligning chain processing w/ spec v0.2https://medium.com/prysmatic-labs/ethereum-2-0-development-update-22-prysmatic-labs-b5b88ace0441\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 77,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1091381759156019200": {
+            "id": "1091381759156019200",
+            "text": " Biweekly updates from @prylabs team \n Aracon/Goerilcon updates\n New validator work flow\n Align beacon chain core functions w/ v0.1 spec \n New simulated backend and more!https://medium.com/prysmatic-labs/ethereum-2-0-development-update-21-prysmatic-labs-1a32fac4b6d7\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1090539076804063232": {
+            "id": "1090539076804063232",
+            "text": "At #AraCon2019 with most of @prylabs team (missing @n1shantd).\nCome find us! We'll be on our laptops in the hall, casually building ETH2.0.pic.twitter.com/MD7qeGKlsU",
+            "username": "preston_vanloon",
+            "num_likes": 63,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1090237348254752769": {
+            "id": "1090237348254752769",
+            "text": "Now on stage @preston_vanloon from @prylabs gave everyone a run down of ETH2.0 and Prysm. #AraCon2019pic.twitter.com/VHJdHOwWHE",
+            "username": "terencechain",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1088799046830047232": {
+            "id": "1088799046830047232",
+            "text": "Today is my last day at @Google. \n\nI couldn\u2019t be more excited to focus all of my time on @prylabs and @ethereum 2.0! ",
+            "username": "preston_vanloon",
+            "num_likes": 1098,
+            "num_retweets": 78,
+            "num_replies": 66
+        },
+        "1085982895380951040": {
+            "id": "1085982895380951040",
+            "text": "bi-weekly dev update from @prylabs:\n\nEpoch processing routines \nPoW deposit contract listener and trie \nBeacon block processing E2E tests \nLMD GHOST fork choice benchmarking \nValidator deposits E2E tests \nRefactor validator client https://medium.com/prysmatic-labs/ethereum-2-0-development-update-20-prysmatic-labs-e42724a2ba44\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 37,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "1083858421802139648": {
+            "id": "1083858421802139648",
+            "text": "Designing validator workflow and talking to @dannyryan clarified a few crucial ETH2.0 concepts for me. I thought I'd share.\nIn ETH2.0, each validator gets assigned to two types of committees. 1.) crosslink (or shard) committee  2.) persistent committees",
+            "username": "terencechain",
+            "num_likes": 69,
+            "num_retweets": 24,
+            "num_replies": 4
+        },
+        "1080874155095011328": {
+            "id": "1080874155095011328",
+            "text": "I just published Ethereum 2.0 Development Update #19\u200a\u2014\u200aPrysmatic Labs by @raulitojordan https://link.medium.com/BJYCt5CjbT\u00a0 @prylabs #Ethereum",
+            "username": "raulitojordan",
+            "num_likes": 111,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1080467846696562691": {
+            "id": "1080467846696562691",
+            "text": "Happy new year friends! we just added @prylabs to the @GetGitcoin grants program, setting up a recurring subscription to donate has gotten easier. Lodestar by @ChainSafeth is also there, please donate to us for ETH2.0 development. https://gitcoin.co/grants/24/prysm-by-prysmatic-labs\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 50,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1079085816209649664": {
+            "id": "1079085816209649664",
+            "text": "All ETH 2.0 block operations including casper slashings, attestation processing, deposit handling, and RANDAO done with 100% test coverage according to the latest spec :) - 2019 will be great #Ethereum @prylabspic.twitter.com/uTS46zCknR",
+            "username": "raulitojordan",
+            "num_likes": 1284,
+            "num_retweets": 409,
+            "num_replies": 41
+        },
+        "1078780913603960832": {
+            "id": "1078780913603960832",
+            "text": "If your new year resolution is to contribute more on open source or ETH2.0. We just opened 4 `good first issues` for Prysm. Thanks for contributing!https://github.com/prysmaticlabs/prysm/issues\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 81,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "1072869692019159041": {
+            "id": "1072869692019159041",
+            "text": "My discussion with @preston_vanloon and @raulitojordan from @prylabs is now live on https://podcast.ethhub.io\u00a0\n\nThis marks the 2nd episode in our 5 part series on scaling. We discuss their work on Eth 2.0, sharding, proof of stake, Serenity phases and much more!",
+            "username": "econoar",
+            "num_likes": 61,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "1072521084442943488": {
+            "id": "1072521084442943488",
+            "text": "Another biweekly update from @prylabs. Check out the latest research updates, open issues, merged code and more! https://medium.com/prysmatic-labs/ethereum-2-0-development-update-18-prysmatic-labs-e5aeea75464d\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1064353495170506753": {
+            "id": "1064353495170506753",
+            "text": "Now #NodeTokyo: panel on user adoption/accessibility for blockchain with @BennyGiang @larrysalibra mod by @rawfalafel from @prylabs \n\u30d6\u30ed\u30c3\u30af\u30c1\u30a7\u30fc\u30f3\u3092\u30de\u30b9\u306b\u5c4a\u3051\u308b\u306b\u306f\u30d1\u30cd\u30eb\u3067\u68ee\u304f\u3093\u304c\u30e2\u30c7\u30ec\u30fc\u30bf\u30fc\u3067CryptoKitties\u3068Blockstack\u304c\u30d1\u30cd\u30eb\u306bpic.twitter.com/viroo4QMRz",
+            "username": "obnty",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1062079352018395136": {
+            "id": "1062079352018395136",
+            "text": "Yay! It's out! Serenity implementation updates by @icebearhww and @raulitojordan #devconivhttps://slideslive.com/38911682/sharding-implementation-updates-4q2018-implementing-ethereum-20-today\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 47,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1058349203494240256": {
+            "id": "1058349203494240256",
+            "text": "Man, we've came a long away. Excited for what's to come. Great job awesome team! @prylabs #devconivpic.twitter.com/b6w1m2uhCu",
+            "username": "terencechain",
+            "num_likes": 42,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1058361193356840960": {
+            "id": "1058361193356840960",
+            "text": "In case you missed it, @raulitojordan just announced @prylabs plans for public testnet in Q1.",
+            "username": "preston_vanloon",
+            "num_likes": 60,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1058279463534911488": {
+            "id": "1058279463534911488",
+            "text": "Come check out @icebearhww & @raulitojordan present sharding implementation updates & @prylabs: implementing Ethereum 2\u0336.\u03360\u0336 Serenity today! Main stage/Spectrum at 2:00pm #devconiv",
+            "username": "terencechain",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1057234169883959298": {
+            "id": "1057234169883959298",
+            "text": "We have arrived at @EFDevcon. Come find us to talk about #ETH2 sharding & Casper! Where is @ShasperS?pic.twitter.com/YZz2j8BNBH \u2013 at Kongresov\u00e9 centrum Praha | Prague Congress Centre",
+            "username": "terencechain",
+            "num_likes": 22,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1055332504620711942": {
+            "id": "1055332504620711942",
+            "text": "[Blog] How the Ethereum Foundation grants program makes decisions #ethereum #grants #EFGrantshttps://goo.gl/Co7A1T\u00a0",
+            "username": "ethereum",
+            "num_likes": 214,
+            "num_retweets": 74,
+            "num_replies": 45
+        },
+        "1050482459484160000": {
+            "id": "1050482459484160000",
+            "text": "\nWanna contribute to ETH2.0? We got new bounties for Y'all. Thanks, @GetGitcoin, and @ethereumecf\nhttps://github.com/prysmaticlabs/prysm/issues/569\u00a0\u2026https://github.com/prysmaticlabs/prysm/issues/543\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 25,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1050067018978873344": {
+            "id": "1050067018978873344",
+            "text": "In this latest Nest Team Interview, we talk with @prylabs about their project and the new #Ethereum 2.0 sharding and Casper compatible client that they're building.https://blog.aragon.org/nest-team-interviews-prysmatic-labs\u00a0\u2026",
+            "username": "AragonProject",
+            "num_likes": 46,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1049578959698948096": {
+            "id": "1049578959698948096",
+            "text": "\u660e\u65e5\u306eSharding\u306e\u52c9\u5f37\u4f1a, \u5b66\u751f\u67a0\u306f\u307e\u3060\u307e\u3060\u7a7a\u3044\u3066\u308b\u306e\u3067\u53c2\u52a0\u767b\u9332\u304a\u5f85\u3061\u3057\u3066\u307e\u3059\u30fc\nEthereum2.0\u306b\u304a\u3051\u308bShasper\u306e\u8a71\u3092\u4e2d\u5fc3\u306b\u3044\u308d\u3044\u308d\u8a71\u3057\u307e\u3059https://sharding-jp.connpass.com/event/101128/\u00a0",
+            "username": "kei_0811",
+            "num_likes": 21,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1046755966300172288": {
+            "id": "1046755966300172288",
+            "text": "@GetGitcoin is badasshttps://twitter.com/terencechain/status/1046749832960913408\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1046749832960913408": {
+            "id": "1046749832960913408",
+            "text": "Looking for a side project this week? Come help revamp @prylabs' site and get paid https://github.com/prysmaticlabs/website/issues/24\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1043162734722932737": {
+            "id": "1043162734722932737",
+            "text": "Was watching IC3-ETH Bootcamp videos for ZKP and I stumbled upon this sharding presentation by @VitalikButerin. Sharing is caring!https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1040234150727278592": {
+            "id": "1040234150727278592",
+            "text": "Live in 20 mins! \nEthereum 2.0 implementers call: https://youtu.be/cp0LxJiyV3I\u00a0\nAgenda:https://github.com/ethresearch/eth2.0-pm/issues/5\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1039961761238138880": {
+            "id": "1039961761238138880",
+            "text": "Scaling Today produces a podcast focusing on scaling #Ethereum. Check out 'Episode #0' w/ @raulitojordan on how to onboard developers for scaling and lessons learned building the Prysm client implementationhttps://soundcloud.com/scaling-today/episode-0-raul-jordan-prysm-sharding-implementation?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter\u00a0\u2026",
+            "username": "scale_ethereum",
+            "num_likes": 21,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1038811985297567744": {
+            "id": "1038811985297567744",
+            "text": "Interested in contributing to eth 2.0? Check out all these `Good First Issues` from @prylabs #BUIDL https://github.com/prysmaticlabs/prysm/labels/Good%20First%20Issue\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 31,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1038290203192909826": {
+            "id": "1038290203192909826",
+            "text": "Just watched latest #shasper talk by @drakefjustin at @TechCrunch. Loved how Justin expressed complex Ideas Into simple concepts.\nWhat I didn't know:\n\u2022 One more actor notary for proof of custody\n\u2022 Cross link contains more than just shard check pointshttps://www.youtube.com/watch?v=J6xO7DH20Js\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1037940716016558080": {
+            "id": "1037940716016558080",
+            "text": "Ethereum 2.0: Who's building it?https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 3344,
+            "num_retweets": 1261,
+            "num_replies": 271
+        },
+        "1037129415845502976": {
+            "id": "1037129415845502976",
+            "text": "Found out there's live stream for @ETHBerlin. My teammate @raulitojordan from @prylabs is going to give an awesome talk on sharding research & implementation. I hope everyone gets to see it!pic.twitter.com/EceeSwT0iq",
+            "username": "terencechain",
+            "num_likes": 30,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1035204123245694976": {
+            "id": "1035204123245694976",
+            "text": "ethereum 2.0 client implementer call #2 good call guys!https://www.youtube.com/watch?v=66SFMJC0RQo\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1034761323765264384": {
+            "id": "1034761323765264384",
+            "text": "My first blog post for @ConsenSys @PegasysEng :-)\n\nhttps://media.consensys.net/state-of-ethereum-protocol-1-d3211dd0f6\u00a0\u2026\n\nThis one is just a warm-up. We'll get down to nuts and bolts in the next - maybe on the Beacon Chain. Meanwhile, look out for Kevin Zhang with the latest on Layer 2 scalability. #ethereum",
+            "username": "benjaminion_xyz",
+            "num_likes": 77,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "1032325579943669761": {
+            "id": "1032325579943669761",
+            "text": "It's time to hear from the astonishing Aragon Nest teams and their updates!\n\nThat Planning Suite & @ryhopenetwork on incentivization apps, @mattgcondon on an optimistic UI, @frame_eth, OS-level signing provider & @prylabs on #Ethereum 2.0 sharding clienthttps://blog.aragon.org/aragon-nest-updates-from-the-teams-q2-2018/\u00a0\u2026",
+            "username": "AragonProject",
+            "num_likes": 53,
+            "num_retweets": 27,
+            "num_replies": 4
+        },
+        "1030110573630042112": {
+            "id": "1030110573630042112",
+            "text": "Ethereum 2.0 client implementer call #1 https://www.youtube.com/watch?v=8F9NPGIv9vI\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1029851668760940544": {
+            "id": "1029851668760940544",
+            "text": "Ethereum 2.0 Beacon Node+Client. Validators shuffled and assigned as proposers/attesters correctly after a crystallized state transition. Active state transitions working also well. Following the spec from https://notes.ethereum.org/SCIg8AH5SA-O4C1G1LYZHQ?view\u00a0\u2026 @VitalikButerin and @dannyryan @prylabs #Ethereumpic.twitter.com/ZWOKwqQeaX",
+            "username": "raulitojordan",
+            "num_likes": 348,
+            "num_retweets": 104,
+            "num_replies": 14
+        },
+        "1028378380062797824": {
+            "id": "1028378380062797824",
+            "text": "Come join @prylabs's #discord server to find out more on sharding, casper and all ethereum 2.0 fun stuff!https://discord.gg/KSA7rPr\u00a0",
+            "username": "terencechain",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1027192671176220673": {
+            "id": "1027192671176220673",
+            "text": "Sharding update in this week's episode! @raulitojordan and @preston_vanloon of @prylabs give us a look at the evolution of the spec, Ethereum 2.0, what happens to a side chain during a #hardfork, & whats next in #sharding http://www.zeroknowledge.fm/37\u00a0 #scaling @fredhrson @AnnaRRose",
+            "username": "zeroknowledgefm",
+            "num_likes": 30,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1026837877466886145": {
+            "id": "1026837877466886145",
+            "text": "Check out latest shasper research on @ethereum and merged code on @prylabs. Always looking for contributors. Let's #buidl ethereum 2.0 together!https://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-10-prysmatic-labs-ea068d86c54a\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1026511680082071553": {
+            "id": "1026511680082071553",
+            "text": "Many great talks from #ECDC on eth 2.0's scalability and privacy. The overview of STARKs is my favorite! https://twitter.com/ethstatus/status/1026476802926145537\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1025087334323109889": {
+            "id": "1025087334323109889",
+            "text": "Outline on the new v2.1 sharding + casper spec:\n\nhttps://notes.ethereum.org/SCIg8AH5SA-O4C1G1LYZHQ\u00a0\u2026",
+            "username": "PegaSysEng",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1023259387291480064": {
+            "id": "1023259387291480064",
+            "text": "Check out @prylabs\u2019s co-founder @raulitojordan talk about sharding at ETH Berlin!https://twitter.com/ETHBerlin/status/1021767131019575297\u00a0\u2026",
+            "username": "preston_vanloon",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1022877839597551617": {
+            "id": "1022877839597551617",
+            "text": "sharding + casper v2.1 spec by @dannyryan is ready for review and discussion. Go Shasper! https://notes.ethereum.org/SCIg8AH5SA-O4C1G1LYZHQ#\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 46,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1021395866731597824": {
+            "id": "1021395866731597824",
+            "text": "It's a privilege to be even a small part of #Ethereum. Huge kudos to @Mitch_Kosowski @robbiebent1 @sinahab @Parker_Place and all the other wonderful people behind this @MPtherealMVP @0xstark.\n\nOver 100 interviews with best developers, open sourced: https://ethreport.info/\u00a0",
+            "username": "cryptowanderer",
+            "num_likes": 94,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "1019600190829834240": {
+            "id": "1019600190829834240",
+            "text": "Want to get involved in building sharding and ethereum 2.0? Check out our new bounty! @prylabs @GetGitcoinhttps://gitcoin.co/issue/prysmaticlabs/geth-sharding/272/820\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1017775692069494785": {
+            "id": "1017775692069494785",
+            "text": "Latest @prylabs team discussion reviewing beacon chain design  https://www.youtube.com/watch?v=GB2VrfZ9Ois\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1017185646979543041": {
+            "id": "1017185646979543041",
+            "text": "Glad to get the chance to hear @preston_vanloon of @prylabs presenting on #Ethereum Scaling during my brief trip to NYC.pic.twitter.com/r9Wut13yYM",
+            "username": "benjaminion_xyz",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1017444513550221312": {
+            "id": "1017444513550221312",
+            "text": "Here are the sharding slides I used at @TechCrunch in Zug and @ConsenSysIndia in Delhi. Also expect more tweets from me about sharding as the design matures :) https://ipfs.io/ipfs/QmSPZxh52unTy6aFHdKck3xyycsBLcuxvmZg2N2sr1Qmm7\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 35,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1016869484030808064": {
+            "id": "1016869484030808064",
+            "text": "Come to @galvanize in SoHo tomorrow night to hear about the bleeding edge of #Ethereum scaling research with @prylabs and @preston_vanloon https://ethereum.nyc\u00a0 https://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-8-prysmatic-labs-820d89625cbd\u00a0\u2026",
+            "username": "wuehler",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1014247869279113216": {
+            "id": "1014247869279113216",
+            "text": "Getting excited for Devcon4! Join me in Prague October 30 - November 2.",
+            "username": "EFDevcon",
+            "num_likes": 42,
+            "num_retweets": 10,
+            "num_replies": 5
+        },
+        "1009126931340709889": {
+            "id": "1009126931340709889",
+            "text": "Looking forward to sharing what we\u2019re working on at @prylabs at the next NYC Ethereum meetup!http://meetu.ps/e/Fq8MM/sZv2d/a\u00a0",
+            "username": "preston_vanloon",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1007670522124087296": {
+            "id": "1007670522124087296",
+            "text": "Casper and sharding are coming together https://medium.com/@djrtwo/casper-%EF%B8%8F-sharding-28a90077f121\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 153,
+            "num_retweets": 54,
+            "num_replies": 6
+        },
+        "1007658017335234561": {
+            "id": "1007658017335234561",
+            "text": "Gitcoin Livestream today at 5PM ET! \n\nWe welcome @preston_vanloon from @prylabs to discuss Geth Sharding! Additionally, we'll be discussing the highlights of this week's 'Week in Ethereum' courtesy of @evan_van_ness \n\nJoin us at: http://gitcoin.co/livestream\u00a0 ",
+            "username": "gitcoin",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1007251596777058305": {
+            "id": "1007251596777058305",
+            "text": "Yup. That's @thegrifft: no Community without Hugs. A good overview on the evolution from the #DAO to #DACs within the Giveth DApp, \u00e0nd our many decentralized governance & social coding experiments. \n\nTake a break, get some Griff and join the movement!\n\nhttps://www.youtube.com/watch?v=YaddK-FbvsA&feature=youtu.be\u00a0\u2026https://twitter.com/ChronoLogicETH/status/992377714559496193\u00a0\u2026",
+            "username": "Givethio",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "999731761822265345": {
+            "id": "999731761822265345",
+            "text": "http://TheImpactSummit.org\u00a0 is hosting a Blockchain for Social Good hackathon this June 1st at Hunter College in NYC! Engineers/speakers from @bloqboard @LivepeerOrg @Dharmaprotocol @prylabs @zkcapital and more! Reshape the future with us! Register at http://theimpactsummit.typeform.com/to/opvxiy\u00a0\"",
+            "username": "lmrankhan",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "994255466816565248": {
+            "id": "994255466816565248",
+            "text": "We're happy to introduce the first five teams awarded\u00a0funding by the Aragon Nest grants program!\n\nThe Nest program was created to provide funding to those who wish to step up and help #buidl common goods for either the #Ethereum or Aragon ecosystems.https://buff.ly/2KOQQTG\u00a0",
+            "username": "AragonProject",
+            "num_likes": 129,
+            "num_retweets": 31,
+            "num_replies": 5
+        },
+        "993550921073340416": {
+            "id": "993550921073340416",
+            "text": "Sharding gives devs a unique opportunity to improve upon the Ethereum tech stack as it will not be a backwards compatible change. We can make better design choices on state db's, account systems, and peer-to-peer networking #ethereum.",
+            "username": "raulitojordan",
+            "num_likes": 46,
+            "num_retweets": 12,
+            "num_replies": 4
+        },
+        "993499294043987968": {
+            "id": "993499294043987968",
+            "text": "The first of hopefully many Gitcoin bounties on the @prylabs geth sharding repo! \n\nGreat work by the bounty hunter Connor Christie, @raulitojordan, and @preston_vanloon. Excited for more from the Prysmatic team. #BUIDL #Web3https://twitter.com/GitcoinFeed/status/993495682383167488\u00a0\u2026",
+            "username": "gitcoin",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "992876271100219392": {
+            "id": "992876271100219392",
+            "text": "Prysmatic \"@prylabs\" Labs core meeting #4 #ethereum #sharding https://youtu.be/aHkDOHa3uoM\u00a0",
+            "username": "magicking_",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "988190490129457152": {
+            "id": "988190490129457152",
+            "text": "Also @raulitojordan co-lead developer at @prylabs will give a short talk about sharding!https://twitter.com/zkcapital/status/988149753467686912\u00a0\u2026",
+            "username": "zkCapital",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "985572454973235200": {
+            "id": "985572454973235200",
+            "text": "Quick sharding update:\n Teams are brainstorming how to use libp2p as a networking layer, creating effective shard discovery without bootnodes for each shard (risk of DoS)\n  Researching local state storage for shards in the network (modified Merkle tree)\n  More to come soon",
+            "username": "raulitojordan",
+            "num_likes": 51,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "984673949907857408": {
+            "id": "984673949907857408",
+            "text": "We are happy to support @prylabs on their work on quadratic sharding, a Layer 1 scaling solution, via @ethereumecf https://twitter.com/ethereumecf/status/984661164347944962\u00a0\u2026",
+            "username": "golemproject",
+            "num_likes": 75,
+            "num_retweets": 23,
+            "num_replies": 3
+        }
+    },
+    "tweeted": {
+        "1125769038666375170": {
+            "id": "1125769038666375170",
+            "text": " Prysm Phase 0 Testnet is here! https://link.medium.com/KVdUo22VuW\u00a0",
+            "username": "prylabs",
+            "num_likes": 209,
+            "num_retweets": 68,
+            "num_replies": 5
+        },
+        "1121453741784174592": {
+            "id": "1121453741784174592",
+            "text": "New week, new development updates! This week:\nMassive bug fixes & efficiency improvements\nOptimize LMD GHOST fork choice rule\nNew benchmark numbers\nSimple Serialize Caching\nIntegrating spec v0.6 to run time, and more!https://medium.com/prysmatic-labs/ethereum-2-0-development-update-26-prysmatic-labs-c32fb28c403f\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 183,
+            "num_retweets": 55,
+            "num_replies": 19
+        },
+        "1111367036649656320": {
+            "id": "1111367036649656320",
+            "text": "The latest development update is out! We are getting very close to a Prysm test net! https://medium.com/prysmatic-labs/ethereum-2-0-serenity-testnet-update-closer-than-ever-259cace9a1b1\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 301,
+            "num_retweets": 94,
+            "num_replies": 8
+        },
+        "1081939483573010434": {
+            "id": "1081939483573010434",
+            "text": "Amazing work by @gitcoin bounty hunter @apples13 to build a newly updated http://prysmaticlabs.com\u00a0 team site!pic.twitter.com/Iuk0oRFErU",
+            "username": "prylabs",
+            "num_likes": 31,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1052233487703396352": {
+            "id": "1052233487703396352",
+            "text": "Latest development update! Made progresses on RANDAO, validator rotation, BLS signature aggregation and more!https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-15-prysmatic-labs-1a806881c02c\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 50,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1047564137201512449": {
+            "id": "1047564137201512449",
+            "text": "Our first release including a local demo of Ethereum 2.0 so far, is live! https://medium.com/prysmatic-labs/ethereum-2-0-prysm-demo-release-v0-0-0-78d33e9cdbdf\u00a0\u2026\n\nCome check out the following:\n Spin up a beacon chain node from a genesis config\n Connect a validator to the beacon node\n Validator gets shuffled into a shard and slot",
+            "username": "prylabs",
+            "num_likes": 72,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "1047185047470497792": {
+            "id": "1047185047470497792",
+            "text": " \nbi-weekly update #14 is out! come check out latest research and development!https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-14-prysmatic-labs-349a97a8c627\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1042046648443121666": {
+            "id": "1042046648443121666",
+            "text": "Check out our latest biweekly update! We have...\n Implemented proposer & attester responsibilities, RPC validator interactions and minimal beacon chain processing & fork choice\n Benchmarked various DBs\n Watch implementer call #3 if you haven't!https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-13-prysmatic-labs-2ef6593ea22f\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 63,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1031911539974930432": {
+            "id": "1031911539974930432",
+            "text": " bi-weekly update is out! In this update we went over:\n Latest merged code, pull requests, and issues\n Future work\n Eth2.0 client implementers call #1https://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-11-prysmatic-labs-db1c0e80d2d9\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 171,
+            "num_retweets": 48,
+            "num_replies": 5
+        },
+        "1026839089088147456": {
+            "id": "1026839089088147456",
+            "text": "Hey everyone! The latest development update is out!\n Latest research on sharding + casper 2.1 and p2p msg serialization standard\n Merged code, pull requests and issues\n Upcoming workhttps://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-10-prysmatic-labs-ea068d86c54a\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 35,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1021756572970582017": {
+            "id": "1021756572970582017",
+            "text": "Latest sharding update is out!\n Rebranding as an ethereum 2.0 team, renaming from geth-sharding to Prysm\n Latest merged code, pull requests, and issues\n Discussion on upcoming work \n New grant from Wanxiang Blockchain Labs @WXblockchainhttps://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-9-prysmatic-labs-f2b1ad55e825\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 188,
+            "num_retweets": 57,
+            "num_replies": 4
+        },
+        "1016705214210977792": {
+            "id": "1016705214210977792",
+            "text": "New dev updates! lots on beacon chain and geth-sharding repo!\n\nResearch notes leading up to the beacon chain\nRemoving go-ethereum codebase & introducing bazel\nIntegrating the beacon chain with the geth-sharding repo\nLibp2p work for ruby releasehttps://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-8-prysmatic-labs-820d89625cbd\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 45,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "1011739782039289857": {
+            "id": "1011739782039289857",
+            "text": "Time for a bi-weekly development update!\nSharding and Casper Being Merged Through a Full PoS, Random Beacon Chain\nSimulator and Sync Services\nHandling Collation Data Requests Between Nodes\nValidator Registration Contract for Beacon Chainhttps://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-7-prysmatic-labs-efeb916e8db3\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 48,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "1006560752826642433": {
+            "id": "1006560752826642433",
+            "text": "June development update. Enjoy!\nLatest sharding research on registrations, shard count, and shuffling\nGithub updates\nCheck out our New \u201cGood First\u201d Github issues. Looking for awesome contributors to get Involved! https://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-6-prysmatic-labs-2747bc55636c\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 23,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1003390917615804417": {
+            "id": "1003390917615804417",
+            "text": "Prysmatic Labs Core Meeting #5 https://youtu.be/w0wwHaXt_tA\u00a0 via @YouTube",
+            "username": "prylabs",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1001937082871267329": {
+            "id": "1001937082871267329",
+            "text": "Hey guys! we just updated our contribution guidelines, required readings, and responsibilities for hobby contributors and core contributors! Join us and #buidl https://github.com/prysmaticlabs/geth-sharding/blob/master/sharding/CONTRIBUTING.md\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1001509239867637760": {
+            "id": "1001509239867637760",
+            "text": "End of May development update. Enjoy!\nLatest sharding research on cross links, deposit size and random beacons\nMerged Code, pull requests, and latest issues\nCurrent & upcoming workhttps://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-5-prysmatic-labs-4d9d19fbd722\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "996391036753666050": {
+            "id": "996391036753666050",
+            "text": "May Development Updates:\nLatest research on proof of custody and safety notary pool size\nMerged Code, pull requests, and issues\nFirst Bounty Closed with @GetGitcoin on a sharded blockchain explorer\nAccepted into the @AragonProject grant programhttps://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-4-prysmatic-labs-87287a93848e\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 37,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "991430179791585280": {
+            "id": "991430179791585280",
+            "text": "May Development Updates:\nOur latest research topics\nNew development on Sharding Manager Contract\n@raulitojordan's presentation at the Chiciago Ethereum Meetup\n@FynnEnrique's new published paper on partitioning blockchains\nNew Website!https://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-3-prysmatic-labs-fdf07b6400a2\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "989639080764846081": {
+            "id": "989639080764846081",
+            "text": "Our own @raulitojordan speaking on the latest sharding research! Lots of valuable information was delivered. Great job! https://www.pscp.tv/w/1eaJbpOQneoKX\u00a0",
+            "username": "prylabs",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "988878705853284353": {
+            "id": "988878705853284353",
+            "text": "Come check out @raulitojordan's talk on Sharding and Scaling blockchains. It'll be a good one! #sharding #buidlhttps://www.meetup.com/Chicago-Ethereum-Meetup/events/248697926/\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "987017051167322112": {
+            "id": "987017051167322112",
+            "text": "Here is our first bounty through @GetGitcoin! Looking for a brave individual to come up with a design spec for a web front-end that visualizes a sharded blockchain. https://github.com/prysmaticlabs/geth-sharding/issues/94\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "986977637615788032": {
+            "id": "986977637615788032",
+            "text": "Listen to @raulitojordan and @terenc3t talk about sharding and Prysmatic Labs from ECF Tokyo on #ECFPodcast with @evan_van_ness! https://twitter.com/ethereumecf/status/986970049297747968\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "986232877665812480": {
+            "id": "986232877665812480",
+            "text": "April Development Updates:\nNew sharding phase 1.1 spec\nNew proposals on sharded P2P network, collation body serialization and local state storage\nA special thanks to @SpankChain for the donations!https://medium.com/prysmatic-labs/biweekly-development-update-2-d29d0c91e7d0\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 44,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "981561719569854464": {
+            "id": "981561719569854464",
+            "text": "Thanks again @district0x for your support! We are grateful.https://twitter.com/district0x/status/981554805318434816\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "981347471262547968": {
+            "id": "981347471262547968",
+            "text": "April Development Updates:\nNew sharding phase 1 spec\nUpdates on prysmatic labs documentation\nNews on community & latest Research\nBig thanks to all the donors!https://medium.com/prysmatic-labs/ethereum-sharding-biweekly-development-update-1-prysmatic-labs-939ff0ed4b65\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "981307015757676544": {
+            "id": "981307015757676544",
+            "text": "Thank you @ethereumecf for your support! We are honored and moved to be the first wave of selected grantees. Thank you everyone that organized this! https://twitter.com/ethereumecf/status/979232851592855552\u00a0\u2026",
+            "username": "prylabs",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "981305392532619265": {
+            "id": "981305392532619265",
+            "text": "Hello Twitter! We are a strong team of developers, with a passion to tackle the big, scalability problem the Ethereum protocol faces.  #myfirstTweet",
+            "username": "prylabs",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "terencechain": 32,
+        "albymatapo": 1,
+        "raulitojordan": 8,
+        "gitcoin": 3,
+        "preston_vanloon": 5,
+        "econoar": 1,
+        "obnty": 1,
+        "ethereum": 1,
+        "AragonProject": 3,
+        "kei_0811": 1,
+        "dannyryan": 2,
+        "scale_ethereum": 1,
+        "VitalikButerin": 1,
+        "benjaminion_xyz": 2,
+        "zeroknowledgefm": 1,
+        "PegaSysEng": 1,
+        "cryptowanderer": 1,
+        "drakefjustin": 1,
+        "wuehler": 1,
+        "EFDevcon": 1,
+        "Givethio": 1,
+        "lmrankhan": 1,
+        "magicking_": 1,
+        "zkCapital": 1,
+        "golemproject": 1
+    },
+    "users_retweeted": [
+        "terencechain",
+        "raulitojordan",
+        "preston_vanloon",
+        "gitcoin",
+        "AragonProject",
+        "dannyryan",
+        "benjaminion_xyz",
+        "albymatapo",
+        "econoar",
+        "obnty",
+        "ethereum",
+        "kei_0811",
+        "scale_ethereum",
+        "VitalikButerin",
+        "zeroknowledgefm",
+        "PegaSysEng",
+        "cryptowanderer",
+        "drakefjustin",
+        "wuehler",
+        "EFDevcon",
+        "Givethio",
+        "lmrankhan",
+        "magicking_",
+        "zkCapital",
+        "golemproject"
+    ]
+}

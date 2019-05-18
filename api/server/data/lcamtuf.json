@@ -1,0 +1,1924 @@
+{
+    "is_complete": true,
+    "username": "lcamtuf",
+    "retweeted": {
+        "1030424909460189184": {
+            "id": "1030424909460189184",
+            "text": "Best explanation of Bitcoin so far:https://twitter.com/Theophite/status/1030225104234373121\u00a0\u2026",
+            "username": "nblr",
+            "num_likes": 6222,
+            "num_retweets": 2501,
+            "num_replies": 23
+        },
+        "990343633588047872": {
+            "id": "990343633588047872",
+            "text": "Looks like it's primary season again in California.pic.twitter.com/lq4WVkAHsv",
+            "username": "glasser",
+            "num_likes": 2148,
+            "num_retweets": 592,
+            "num_replies": 53
+        },
+        "914838916045271041": {
+            "id": "914838916045271041",
+            "text": "1/2 If you run Linux somewhere (desktop, routers, IoT, \u2026) and use #dnsmasq check out these vulnerabilities (3 RCE, 1 info leak and 3 DoS) we discovered. Exploitable through DNS and DHCP.https://security.googleblog.com/2017/10/behind-masq-yet-more-dns-and-dhcp.html\u00a0\u2026",
+            "username": "fjserna",
+            "num_likes": 446,
+            "num_retweets": 505,
+            "num_replies": 6
+        },
+        "854899738046365696": {
+            "id": "854899738046365696",
+            "text": "Learn how #CSP is done @Google, the tools we released and the current state of CSP:https://speakerdeck.com/mikispag/so-we-broke-all-csps-dot-dot-dot-you-wont-guess-what-happened-next-michele-spagnuolo-and-lukas-weichselbaum#\u00a0\u2026",
+            "username": "we1x",
+            "num_likes": 123,
+            "num_retweets": 81,
+            "num_replies": 4
+        },
+        "831150665401503745": {
+            "id": "831150665401503745",
+            "text": "Fuzzing network tools with #AFL, revisiting tcpdump, so far 324 unique crashes, read/write access violations etc... #NeedMoreCoresPlspic.twitter.com/jEumP6cf5R",
+            "username": "APT1337",
+            "num_likes": 261,
+            "num_retweets": 148,
+            "num_replies": 16
+        },
+        "621344244150571009": {
+            "id": "621344244150571009",
+            "text": "Step by step: fuzzing, triaging, and partially exploiting a cool vuln in some widely deployed opensource software: https://blog.skullsecurity.org/2015/how-i-nearly-almost-saved-the-internet-starring-afl-fuzz-and-dnsmasq\u00a0\u2026",
+            "username": "iagox86",
+            "num_likes": 110,
+            "num_retweets": 96,
+            "num_replies": 1
+        },
+        "585433347695976448": {
+            "id": "585433347695976448",
+            "text": "My contribution to 1 year Heartbleed: Experiment how Heartbleed could've been found with fuzzing https://blog.hboeck.de/archives/868-How-Heartbleed-couldve-been-found.html\u00a0\u2026 /cc @lcamtuf",
+            "username": "hanno",
+            "num_likes": 57,
+            "num_retweets": 65,
+            "num_replies": 4
+        },
+        "565207183860568064": {
+            "id": "565207183860568064",
+            "text": "Apple libc shells out to Perl for wordexp() https://github.com/Apple-FOSS-Mirror/Libc/blob/2ca2ae74647714acfc18674c3114b1a5d3325d7d/gen/wordexp.c#L192\u00a0\u2026 ... this is some sort of record for Rube Goldberg style code",
+            "username": "kurtseifried",
+            "num_likes": 29,
+            "num_retweets": 42,
+            "num_replies": 6
+        },
+        "503592287939862530": {
+            "id": "503592287939862530",
+            "text": "Meadowbrook Lane in Napa: Skaters find upside to quake damage. Video: http://nbcbay.com/QuJe0HC\u00a0 (Pic by Jeremy Carroll)pic.twitter.com/rWyZWV5IEV",
+            "username": "nbcbayarea",
+            "num_likes": 548,
+            "num_retweets": 849,
+            "num_replies": 37
+        },
+        "447117847668740096": {
+            "id": "447117847668740096",
+            "text": "RPO or rXSS http://www.thespanner.co.uk/2014/03/21/rpo/\u00a0 my greatest ever find. Lovely design flaw.",
+            "username": "garethheyes",
+            "num_likes": 68,
+            "num_retweets": 50,
+            "num_replies": 9
+        },
+        "377902670457352192": {
+            "id": "377902670457352192",
+            "text": "Breaking: NSA covertly worked with RJ Reynolds to weaken the structural integrity of tin foil\u2014rendering it useless in antisurveillance hats.",
+            "username": "xor",
+            "num_likes": 218,
+            "num_retweets": 671,
+            "num_replies": 28
+        },
+        "369880489710325760": {
+            "id": "369880489710325760",
+            "text": "I have now seen evil\n\n#define if(x) if ((x) && (rand() < RAND_MAX * 0.99))\n\nFromhttps://gist.github.com/aras-p/6224951\u00a0",
+            "username": "jpgoldberg",
+            "num_likes": 87,
+            "num_retweets": 214,
+            "num_replies": 13
+        }
+    },
+    "tweeted": {
+        "687798148081692672": {
+            "id": "687798148081692672",
+            "text": "Doomsday planning for less crazy folk: http://lcamtuf.coredump.cx/prep/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 253,
+            "num_retweets": 107,
+            "num_replies": 19
+        },
+        "1124854312138448897": {
+            "id": "1124854312138448897",
+            "text": "Well, that's a first: I ordered a $1,000 item from @Amazon available in Prime, and received a $90 fake instead. I'm sending it back and I'm sure they will issue a refund, but I can't find a proper way to report fakes as a buyer.",
+            "username": "lcamtuf",
+            "num_likes": 41,
+            "num_retweets": 3,
+            "num_replies": 8
+        },
+        "1122644509135740928": {
+            "id": "1122644509135740928",
+            "text": "Woodworking Weekends at Simple Rick'spic.twitter.com/y6YbnAALQ1",
+            "username": "lcamtuf",
+            "num_likes": 38,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1118930195317051392": {
+            "id": "1118930195317051392",
+            "text": "I'd strongly encourage folks to read the real thing. The legal decisions and the surrounding political commentary are not going to change anyone's mind, but the now largely public operational details should be very interesting to the folks in our industry.",
+            "username": "lcamtuf",
+            "num_likes": 88,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1118929383736037376": {
+            "id": "1118929383736037376",
+            "text": "Not here for the politics (yeah right), but the first 50 pages of the Mueller report contain a really nice treasure trove of details about the compromise, data exfil, and comms tactics of a state-sponsored adversary.",
+            "username": "lcamtuf",
+            "num_likes": 280,
+            "num_retweets": 78,
+            "num_replies": 3
+        },
+        "1115024834596036610": {
+            "id": "1115024834596036610",
+            "text": "Aaand done.pic.twitter.com/lZEI53rUbe",
+            "username": "lcamtuf",
+            "num_likes": 1953,
+            "num_retweets": 225,
+            "num_replies": 51
+        },
+        "1114769661323702272": {
+            "id": "1114769661323702272",
+            "text": "Some progress to report.pic.twitter.com/BBoiOnZZce",
+            "username": "lcamtuf",
+            "num_likes": 148,
+            "num_retweets": 2,
+            "num_replies": 10
+        },
+        "1114689211385278464": {
+            "id": "1114689211385278464",
+            "text": "Weekend project: building a clockpic.twitter.com/22BRM7ae0J",
+            "username": "lcamtuf",
+            "num_likes": 551,
+            "num_retweets": 32,
+            "num_replies": 20
+        },
+        "1099369442675314689": {
+            "id": "1099369442675314689",
+            "text": "Solving it requires finesse that regulators usually lack. But you know: I am fairly tranquil about my \"cyber\" risk. I am far more unsettled about the privacy practices in the industry - in part because they remain shielded from view and have not been properly \"priced in\". (5/5)",
+            "username": "lcamtuf",
+            "num_likes": 36,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1099369442025197574": {
+            "id": "1099369442025197574",
+            "text": "Where we fail as an industry is helping people with unique security or privacy needs. If some facet of your online presence is more valuable than the \"society average\", we don't have an end-to-end solution for you - and not many companies are seriously investing in that. (4/5)",
+            "username": "lcamtuf",
+            "num_likes": 21,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1099369441345716224": {
+            "id": "1099369441345716224",
+            "text": "To abuse an analogy: when most of us don't mind that our front locks can be picked with a bent paperclip, yet we call for government action after every breach, I can't help but think that we sound a bit like the overeager door lock salesmen of infosec. (3/5)",
+            "username": "lcamtuf",
+            "num_likes": 24,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1099369440708255744": {
+            "id": "1099369440708255744",
+            "text": "In that sense, I suspect the market has actually arrived at a pretty good infosec equilibrium that balances tech progress with social costs. Sure, this equilibrium rubs many pros the wrong way - but that's hardly an argument for intervention. (2/5)",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1099369439928020992": {
+            "id": "1099369439928020992",
+            "text": "I think that's a pessimistic view. Over the past two decades, we've gotten dramatically better with most aspects of infosec. Sure, high-profile breaches happen - but despite alarmism, their lasting impact on most people is not merely \"externalized\"; it's pretty nil. (1/5)https://twitter.com/NielsProvos/status/1099136820539940864\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 67,
+            "num_retweets": 15,
+            "num_replies": 5
+        },
+        "1091177373695803393": {
+            "id": "1091177373695803393",
+            "text": "I mean, they weren't exactly subtlepic.twitter.com/ZYMXC2l8ya",
+            "username": "lcamtuf",
+            "num_likes": 125,
+            "num_retweets": 15,
+            "num_replies": 8
+        },
+        "1088936934863384576": {
+            "id": "1088936934863384576",
+            "text": "And a video of the talk: https://www.youtube.com/watch?v=9xePC0Tyeuc#t=1h15m50s\u00a0\u2026https://twitter.com/lcamtuf/status/1083056717171019777\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1083056717171019777": {
+            "id": "1083056717171019777",
+            "text": "Did we mention that we had end-to-end encryption of 1-1 Snaps for quite some time now? If you're at Real World Crypto in San Jose today, be sure to check out the 10:05 talk by Subhash Sankuratripati!",
+            "username": "lcamtuf",
+            "num_likes": 73,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "1078738819120123904": {
+            "id": "1078738819120123904",
+            "text": "Ultimately, I believe that the moral compass must come mostly from within. If you are not explicitly trying to be radically different in how you approach privacy, security, and content policing on your platform, you are destined to end up the same as everybody else. (9/9)",
+            "username": "lcamtuf",
+            "num_likes": 233,
+            "num_retweets": 34,
+            "num_replies": 13
+        },
+        "1078738818361057280": {
+            "id": "1078738818361057280",
+            "text": "A natural instinct for many of us is to demand regulatory solutions - but in my experience, regulatory involvement in this area severely lacks thoughtfulness and long-term insight. It is also often exacerbated by poorly-researched or misleading journalistic exposes. (8/9)",
+            "username": "lcamtuf",
+            "num_likes": 154,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1078738817379557377": {
+            "id": "1078738817379557377",
+            "text": "With intense political pressure, not doing it is not an option. But doing it well is an impossibility - not at the scale they operate, not without collateral damage, not without their own politics tainting the outcome. Or, as @alexstamos puts it: https://twitter.com/alexstamos/status/1078677650414006272\u00a0\u2026 (7/9)",
+            "username": "lcamtuf",
+            "num_likes": 98,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1078738816624558080": {
+            "id": "1078738816624558080",
+            "text": "The final problem is inherent to building platforms that serve as a conduit for communications and commerce on an unprecedented scale. Willing or not, this makes the companies the arbiters of all human conduct, from acceptable political speech to the sale of fireworks. (6/9)",
+            "username": "lcamtuf",
+            "num_likes": 109,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1078738815609581569": {
+            "id": "1078738815609581569",
+            "text": "They are ultimately building a world that doesn't forget and doesn't forgive - and where dirt can be dug up on any opponent - by a government, by a hacker, by a spouse. On a very human level, this page still creeps me out: https://myaccount.google.com/purchases\u00a0 (5/9)",
+            "username": "lcamtuf",
+            "num_likes": 462,
+            "num_retweets": 159,
+            "num_replies": 24
+        },
+        "1078738814753943552": {
+            "id": "1078738814753943552",
+            "text": "The other vice I see is the inherent hazard of tying your long-term strategy to knowing everything there is to know about your users' lives. The companies do it for good if self-serving reasons - and of all possible actors in that role, I trust them the most. But... (4/9)",
+            "username": "lcamtuf",
+            "num_likes": 103,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1078738814007312384": {
+            "id": "1078738814007312384",
+            "text": "In essence: if you don't write a set of immutable principles ahead of the time, if you don't draw some clear lines in the sand - you will wake up one day in a very different business and not know why. (3/9)",
+            "username": "lcamtuf",
+            "num_likes": 232,
+            "num_retweets": 48,
+            "num_replies": 7
+        },
+        "1078738813256531969": {
+            "id": "1078738813256531969",
+            "text": "At the same time, they succumb to three vices. The first is incrementalism: every month, there is an intense competitive pressure to make small compromises on how you approach security and privacy; such individually unimportant tweaks add up to profound shifts over time. (2/9)",
+            "username": "lcamtuf",
+            "num_likes": 159,
+            "num_retweets": 21,
+            "num_replies": 4
+        },
+        "1078738812543455232": {
+            "id": "1078738812543455232",
+            "text": "Thread: there are countless urban legends and misconceptions about the practices of tech companies such as Google and Facebook. In my experience, they take extremely good care of your data; they guard it with zeal that's unmatched by most other players in the industry. (1/9)",
+            "username": "lcamtuf",
+            "num_likes": 959,
+            "num_retweets": 386,
+            "num_replies": 39
+        },
+        "1071928717516001280": {
+            "id": "1071928717516001280",
+            "text": "Done! Curly poplar wood. Heart shape machined in the bottom of the log, then filled with two-part epoxy resin tinted turquoise and with some pearlescent pigment mixed in. Then turned, finished with shellac and friction polish.pic.twitter.com/lOf4Lf7Y2T",
+            "username": "lcamtuf",
+            "num_likes": 72,
+            "num_retweets": 0,
+            "num_replies": 6
+        },
+        "1066025725218549760": {
+            "id": "1066025725218549760",
+            "text": "There is a piece of proposed legislation in NY that would allow the state to investigate your search history. It includes this passage: \"For the purposes of this subdivision, [...] 'search  engine' shall  only  include Google, Yahoo and Bing.\"\n\nhttps://nyassembly.gov/leg/?default_fld=&leg_video=&bn=S09191&term=2017&Summary=Y&Actions=Y&Text=Y\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 107,
+            "num_retweets": 43,
+            "num_replies": 13
+        },
+        "1052016890975907840": {
+            "id": "1052016890975907840",
+            "text": "Lost in the wilderness, day 3. Running low on marshmallows.pic.twitter.com/piRmc2SUs3",
+            "username": "lcamtuf",
+            "num_likes": 70,
+            "num_retweets": 0,
+            "num_replies": 8
+        },
+        "1048359333824614400": {
+            "id": "1048359333824614400",
+            "text": "One of the best rules to live by is: be especially suspicious of claims that align with your views, for they dull your critical facilities. And seek out the best arguments of the other side, rather than ridiculing their worst.",
+            "username": "lcamtuf",
+            "num_likes": 174,
+            "num_retweets": 67,
+            "num_replies": 3
+        },
+        "1047874245944963073": {
+            "id": "1047874245944963073",
+            "text": "There is probably a component of truth to the Bloomberg story, and probably some legit intelligence findings underpinning it, but I have serious doubts that the reporting is substantially accurate.",
+            "username": "lcamtuf",
+            "num_likes": 81,
+            "num_retweets": 34,
+            "num_replies": 10
+        },
+        "1047873928838836225": {
+            "id": "1047873928838836225",
+            "text": "Of particular note: the unambiguous denials from the security teams of the companies named in the article, the unclear access path,, the seemingly unnecessary burning of a very sophisticated tool on a seemingly non-targeted attack against a boring platform.",
+            "username": "lcamtuf",
+            "num_likes": 102,
+            "num_retweets": 37,
+            "num_replies": 6
+        },
+        "1047872914316439552": {
+            "id": "1047872914316439552",
+            "text": "Right. I have no special knowledge here, but given the exceptional claims made by Bloomberg and having seen several other cases of spectacularly inaccurate reporting cast in a very similar mold, I'd advise a lot of caution. Still prudent to worry about hw supply chains.",
+            "username": "lcamtuf",
+            "num_likes": 191,
+            "num_retweets": 81,
+            "num_replies": 3
+        },
+        "1044386058652155904": {
+            "id": "1044386058652155904",
+            "text": "Good news! More cat-plates!pic.twitter.com/z9fMGfbZDz",
+            "username": "lcamtuf",
+            "num_likes": 72,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "1044051072145285120": {
+            "id": "1044051072145285120",
+            "text": "Made this today. Can't claim credit for the design - found it online and \"borrowed\" the idea - but for about 4 hours of work, it came out reasonably nice.pic.twitter.com/PpAxRjW9yy",
+            "username": "lcamtuf",
+            "num_likes": 93,
+            "num_retweets": 2,
+            "num_replies": 9
+        },
+        "1041470491867832321": {
+            "id": "1041470491867832321",
+            "text": "A better photo of that pear sugar bowl thing (lid coming later).pic.twitter.com/vUvQniQRdS",
+            "username": "lcamtuf",
+            "num_likes": 36,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "1041395009600184320": {
+            "id": "1041395009600184320",
+            "text": "pic.twitter.com/lPFCD7uuvM",
+            "username": "lcamtuf",
+            "num_likes": 98,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1028465490715238401": {
+            "id": "1028465490715238401",
+            "text": "Eh, not my finest.pic.twitter.com/JuLgqTQ7px",
+            "username": "lcamtuf",
+            "num_likes": 45,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "1027404491740467200": {
+            "id": "1027404491740467200",
+            "text": "Neat!pic.twitter.com/ESWEJMpHhy",
+            "username": "lcamtuf",
+            "num_likes": 255,
+            "num_retweets": 21,
+            "num_replies": 22
+        },
+        "1021537430682263553": {
+            "id": "1021537430682263553",
+            "text": "Today: hacking in a more literal sensepic.twitter.com/r6eumzQXeb",
+            "username": "lcamtuf",
+            "num_likes": 51,
+            "num_retweets": 1,
+            "num_replies": 5
+        },
+        "1012183636139900928": {
+            "id": "1012183636139900928",
+            "text": "Bowl / urn / chamber pot (TBD). Beetle / fungus infested maple.pic.twitter.com/jdG2dre5W0",
+            "username": "lcamtuf",
+            "num_likes": 60,
+            "num_retweets": 1,
+            "num_replies": 8
+        },
+        "1010979057096257538": {
+            "id": "1010979057096257538",
+            "text": "Another segmented bowl.pic.twitter.com/m4A6nOxDbF",
+            "username": "lcamtuf",
+            "num_likes": 56,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "1010910571284189184": {
+            "id": "1010910571284189184",
+            "text": "Some nice engineering for stress-testing compilers: http://www.vegardno.net/2018/06/compiler-fuzzing.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 115,
+            "num_retweets": 51,
+            "num_replies": 1
+        },
+        "1010696450727030784": {
+            "id": "1010696450727030784",
+            "text": "Carved surface finish experiment. Maple + walnut.pic.twitter.com/FMtj7TVJFP",
+            "username": "lcamtuf",
+            "num_likes": 79,
+            "num_retweets": 1,
+            "num_replies": 7
+        },
+        "1008537092048089088": {
+            "id": "1008537092048089088",
+            "text": "Made a frame for a painting. Cherry + acrylic glass.pic.twitter.com/1vXMGCJA3f",
+            "username": "lcamtuf",
+            "num_likes": 41,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1005947829968240640": {
+            "id": "1005947829968240640",
+            "text": "Bowl #19383. Beetle-infested maple.pic.twitter.com/tWVLfxtwEv",
+            "username": "lcamtuf",
+            "num_likes": 82,
+            "num_retweets": 2,
+            "num_replies": 8
+        },
+        "1003385545660043264": {
+            "id": "1003385545660043264",
+            "text": "BOWL TIME. Cherry + tzalam.pic.twitter.com/E8emyC0DIl",
+            "username": "lcamtuf",
+            "num_likes": 46,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1003119637431660544": {
+            "id": "1003119637431660544",
+            "text": "I keep forgetting that I'm in California...pic.twitter.com/QlOZRnGrlQ",
+            "username": "lcamtuf",
+            "num_likes": 54,
+            "num_retweets": 6,
+            "num_replies": 11
+        },
+        "1001998483723816961": {
+            "id": "1001998483723816961",
+            "text": "Small (~4\") bowl, cherry with maple.pic.twitter.com/w61LN6Lrl6",
+            "username": "lcamtuf",
+            "num_likes": 75,
+            "num_retweets": 2,
+            "num_replies": 7
+        },
+        "1001213205450932225": {
+            "id": "1001213205450932225",
+            "text": "A wild cup appears! Maple + tzalam.pic.twitter.com/AZfOTi005x",
+            "username": "lcamtuf",
+            "num_likes": 77,
+            "num_retweets": 1,
+            "num_replies": 8
+        },
+        "990619919623438341": {
+            "id": "990619919623438341",
+            "text": "When the Unicode Supplementary Multilingual Plane and politics clash.pic.twitter.com/lYzYsnuutU",
+            "username": "lcamtuf",
+            "num_likes": 2871,
+            "num_retweets": 1259,
+            "num_replies": 93
+        },
+        "990370814921924609": {
+            "id": "990370814921924609",
+            "text": "Last weekend, this weekend. Seems like an improvement!pic.twitter.com/kSO4vT5yJq",
+            "username": "lcamtuf",
+            "num_likes": 339,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "983142483025526784": {
+            "id": "983142483025526784",
+            "text": "*Really* struggled to have fun when I visited this park in LA today.pic.twitter.com/2vLvrxFgGn",
+            "username": "lcamtuf",
+            "num_likes": 91,
+            "num_retweets": 11,
+            "num_replies": 14
+        },
+        "979513601189863424": {
+            "id": "979513601189863424",
+            "text": "A goodbye gift from Google securitypic.twitter.com/3rwrWHbciq",
+            "username": "lcamtuf",
+            "num_likes": 1067,
+            "num_retweets": 69,
+            "num_replies": 58
+        },
+        "978026841033162752": {
+            "id": "978026841033162752",
+            "text": "Toy chest, finished. Maple + sirari.pic.twitter.com/ua9de4HZKl",
+            "username": "lcamtuf",
+            "num_likes": 60,
+            "num_retweets": 0,
+            "num_replies": 5
+        },
+        "977206859206615041": {
+            "id": "977206859206615041",
+            "text": "In the spirit of goodbyes... our community infosec library at Google.pic.twitter.com/lG2E3nLXdz",
+            "username": "lcamtuf",
+            "num_likes": 262,
+            "num_retweets": 29,
+            "num_replies": 25
+        },
+        "976307141177884672": {
+            "id": "976307141177884672",
+            "text": "So, after almost 11 years, I'm gonna be leaving Google by the end of the month. It's been a fun ride.",
+            "username": "lcamtuf",
+            "num_likes": 876,
+            "num_retweets": 92,
+            "num_replies": 116
+        },
+        "973408963134816256": {
+            "id": "973408963134816256",
+            "text": "And here's what happens to the bits that don't make it into any furniturepic.twitter.com/B680uwKiOZ",
+            "username": "lcamtuf",
+            "num_likes": 146,
+            "num_retweets": 6,
+            "num_replies": 9
+        },
+        "972692586480545792": {
+            "id": "972692586480545792",
+            "text": "Another weekend project. THERE IS NO DANA, ONLY STOOL.pic.twitter.com/DDVAgmbHWF",
+            "username": "lcamtuf",
+            "num_likes": 107,
+            "num_retweets": 3,
+            "num_replies": 14
+        },
+        "970121050548662273": {
+            "id": "970121050548662273",
+            "text": "My weird path to #infosec:\n\n1) Be born\n2) Full communism\n\nThe rest here:\nhttps://lcamtuf.blogspot.com/2015/03/on-journeys.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 389,
+            "num_retweets": 72,
+            "num_replies": 17
+        },
+        "970009640774770688": {
+            "id": "970009640774770688",
+            "text": "Another existential post - setting up bug bounties for success: https://lcamtuf.blogspot.com/2018/03/setting-up-bug-bounties-for-success.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 146,
+            "num_retweets": 74,
+            "num_replies": 5
+        },
+        "967798005846884354": {
+            "id": "967798005846884354",
+            "text": "Like most of you, I joined the NRA to save 5% on Symantec products but now I'm shocked to find out about all the gun shenanigans",
+            "username": "lcamtuf",
+            "num_likes": 509,
+            "num_retweets": 102,
+            "num_replies": 14
+        },
+        "967604280101298176": {
+            "id": "967604280101298176",
+            "text": "Some thoughts on getting product security engineering programs right: https://lcamtuf.blogspot.com/2018/02/getting-product-security-engineering.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 348,
+            "num_retweets": 199,
+            "num_replies": 6
+        },
+        "964656147369111552": {
+            "id": "964656147369111552",
+            "text": "pic.twitter.com/Ye8nNOYjai",
+            "username": "lcamtuf",
+            "num_likes": 163,
+            "num_retweets": 44,
+            "num_replies": 2
+        },
+        "962556544331034624": {
+            "id": "962556544331034624",
+            "text": "Oops, I did it again. Another weekend, another stool. Curupay with curly maple segments, scrap maple legs.pic.twitter.com/b1MYWfauiZ",
+            "username": "lcamtuf",
+            "num_likes": 114,
+            "num_retweets": 3,
+            "num_replies": 12
+        },
+        "960702174295605248": {
+            "id": "960702174295605248",
+            "text": "So anywayhttps://twitter.com/officialmcafee/status/938938539282190337\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 312,
+            "num_retweets": 100,
+            "num_replies": 9
+        },
+        "959565567400136705": {
+            "id": "959565567400136705",
+            "text": "Some folks have asked me about this on Twitter and elsewhere, so last night, I scribbled some notes about progressing from tech to leadership: https://lcamtuf.blogspot.com/2018/02/on-leadership.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 844,
+            "num_retweets": 291,
+            "num_replies": 26
+        },
+        "958938361166667777": {
+            "id": "958938361166667777",
+            "text": "This is a pretty thorough intro deck about fuzzing: https://sec-consult.com/wp-content/uploads/files/vulnlab/the_art_of_fuzzing_slides.pdf\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 143,
+            "num_retweets": 44,
+            "num_replies": 0
+        },
+        "958922752542392320": {
+            "id": "958922752542392320",
+            "text": "In which @taviso finds a way to expense and play computer games on company's dimehttps://twitter.com/taviso/status/955540562131656704\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 246,
+            "num_retweets": 23,
+            "num_replies": 8
+        },
+        "957472019301335047": {
+            "id": "957472019301335047",
+            "text": "In general, I think that <marquee> is one of the least appreciated HTML tags. You could write an entire trippy demo in it: http://lcamtuf.coredump.cx/marquee.html\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 145,
+            "num_retweets": 34,
+            "num_replies": 7
+        },
+        "954831946185564160": {
+            "id": "954831946185564160",
+            "text": "Hmm...pic.twitter.com/HlT7nEMOfK",
+            "username": "lcamtuf",
+            "num_likes": 488,
+            "num_retweets": 216,
+            "num_replies": 25
+        },
+        "952267912366014464": {
+            "id": "952267912366014464",
+            "text": "Lastly, I have a chapter summarizing the NWSS book and some other points toward the end of http://lcamtuf.coredump.cx/prep/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 27,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "952267239595507713": {
+            "id": "952267239595507713",
+            "text": "Plus, of course, we stopped worrying after the end of the Cold War. And that's probably fine, because the risk of a nuclear confrontation is a lot lower than it was back then. Cuban Missile Crisis is hard to top.",
+            "username": "lcamtuf",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "952266794940620801": {
+            "id": "952266794940620801",
+            "text": "Oh: the reason why you don't know that is because nuclear disarmament activists had vested interest in exaggerating the already-awful effects of nuclear attacks and instilling a sense of hopelessness to advance (noble) goals. Mocking duck-and-cover was a part of that.",
+            "username": "lcamtuf",
+            "num_likes": 34,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "952266142533300224": {
+            "id": "952266142533300224",
+            "text": "By far the most significant risk is the shockwave and the thermal radiation from the burst, and shelter - any shelter - can keep you alive. Now back to playing Fallout...",
+            "username": "lcamtuf",
+            "num_likes": 26,
+            "num_retweets": 6,
+            "num_replies": 4
+        },
+        "952265873145831424": {
+            "id": "952265873145831424",
+            "text": "In short, ducking and taking cover is actually a pretty good strategy, fallout from air bursts is relatively modest and decays very quickly to reasonably safe levels (days to weeks, versus centuries), clean water and food can be sourced in the aftermath.",
+            "username": "lcamtuf",
+            "num_likes": 27,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "952265416289632256": {
+            "id": "952265416289632256",
+            "text": "For folks who are interested in the real consequences of a nuclear attack and the odds of survival, this is a surprisingly good science-based book from the 1960s that cuts through most of the Hollywood-perpetuated myths: http://www.madisoncountyema.com/nwss.pdf\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 183,
+            "num_retweets": 77,
+            "num_replies": 3
+        },
+        "947297582715322368": {
+            "id": "947297582715322368",
+            "text": "Your Bitcoin adventurepic.twitter.com/AxfZm82rxQ",
+            "username": "lcamtuf",
+            "num_likes": 228,
+            "num_retweets": 70,
+            "num_replies": 4
+        },
+        "946275314228871169": {
+            "id": "946275314228871169",
+            "text": "I applaud many of the bold infosec visionaries on Twitter who are predicting that breaches are going to continue and perhaps even grow in 2018.",
+            "username": "lcamtuf",
+            "num_likes": 486,
+            "num_retweets": 109,
+            "num_replies": 16
+        },
+        "945750507997368320": {
+            "id": "945750507997368320",
+            "text": "Well this took a whilepic.twitter.com/kU5uHR1o4D",
+            "username": "lcamtuf",
+            "num_likes": 72,
+            "num_retweets": 0,
+            "num_replies": 6
+        },
+        "943653278981558273": {
+            "id": "943653278981558273",
+            "text": "Believe it or not, but back in the 90s, we had to fiddle with all kinds of different connectors to hook up peripherals to our machines... PS/2, Centronics, RS232C, oh my! Of course today, thanks to the wonders of standardization, it's a thing of the past.pic.twitter.com/LUapF26p0z",
+            "username": "lcamtuf",
+            "num_likes": 4155,
+            "num_retweets": 2212,
+            "num_replies": 137
+        },
+        "941200714054770688": {
+            "id": "941200714054770688",
+            "text": "The deal with Bitcoin: https://lcamtuf.blogspot.com/2017/12/the-deal-with-bitcoin.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 121,
+            "num_retweets": 46,
+            "num_replies": 9
+        },
+        "940013858348875777": {
+            "id": "940013858348875777",
+            "text": "OK. Looks like I accidentally made a bench.pic.twitter.com/WqAFjIcHiu",
+            "username": "lcamtuf",
+            "num_likes": 80,
+            "num_retweets": 3,
+            "num_replies": 10
+        },
+        "939668596430475264": {
+            "id": "939668596430475264",
+            "text": "For what it's worth... having interviewed 300+ people over the past ~20 years, I feel that past modest threshold, industry visibility correlates negatively with skill demonstrated in job interviews. Ownership of OSS projects feels like a far more reliable predictor of talent.",
+            "username": "lcamtuf",
+            "num_likes": 319,
+            "num_retweets": 75,
+            "num_replies": 5
+        },
+        "938801886211194880": {
+            "id": "938801886211194880",
+            "text": "You knew about BTC in 2010, 2012, 2015. You probably didn't buy because you couldn't convincingly reason about its value. If the only new variable today is intense remorse and a desire not to miss out, you're not gonna make a smart decision - at best, a lucky one.",
+            "username": "lcamtuf",
+            "num_likes": 381,
+            "num_retweets": 157,
+            "num_replies": 17
+        },
+        "937584637924098049": {
+            "id": "937584637924098049",
+            "text": "Pencil case, take 2: tzalam + birdseye maple.\n(Previous take: https://twitter.com/lcamtuf/status/937236211554435072\u00a0\u2026)\n\nEver-supportive wife: \"cool, looks like a coffin!\"pic.twitter.com/oL7QeRABva",
+            "username": "lcamtuf",
+            "num_likes": 44,
+            "num_retweets": 0,
+            "num_replies": 9
+        },
+        "935409174510411776": {
+            "id": "935409174510411776",
+            "text": "Basically, just because we have published something in a privately circulated memoir of the Slovenian Philological Society, we don't get to blame the developer for not knowing about a risk, or not knowing how to check.",
+            "username": "lcamtuf",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "935408343929184256": {
+            "id": "935408343929184256",
+            "text": "That can be a lot more about clever UX and API design, seamless resource provisioning, integration with bug trackers and continuous build systems, and powerful test case minimization and diagnostics tools.",
+            "username": "lcamtuf",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "935405892937310213": {
+            "id": "935405892937310213",
+            "text": "One of the most important OSS security efforts of this decade is the one you have not heard about: https://github.com/google/oss-fuzz/\u00a0\u2026. Check out the trophy list. Research is fun, but making it dead simple for non-sec folks to continuously stress-test code is how you actually leave a mark.",
+            "username": "lcamtuf",
+            "num_likes": 306,
+            "num_retweets": 135,
+            "num_replies": 3
+        },
+        "933887263959744512": {
+            "id": "933887263959744512",
+            "text": "So, our kids.pic.twitter.com/CGWymSAHzW",
+            "username": "lcamtuf",
+            "num_likes": 211,
+            "num_retweets": 30,
+            "num_replies": 6
+        },
+        "933757982436835329": {
+            "id": "933757982436835329",
+            "text": "Bonus: my kids did a woodworking project, too. It's for cats.pic.twitter.com/cPKOZ7IyTD",
+            "username": "lcamtuf",
+            "num_likes": 36,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "929950398646960128": {
+            "id": "929950398646960128",
+            "text": "\u201cThe point of modern propaganda isn\u2019t to misinform or push an agenda. It is to exhaust your critical thinking, to annihilate truth.\u201d - Abraham Lincoln",
+            "username": "lcamtuf",
+            "num_likes": 156,
+            "num_retweets": 72,
+            "num_replies": 5
+        },
+        "928382364941615104": {
+            "id": "928382364941615104",
+            "text": "Neat:https://medium.com/@njvoss299/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 124,
+            "num_retweets": 65,
+            "num_replies": 1
+        },
+        "927003373324218370": {
+            "id": "927003373324218370",
+            "text": "In non-dining-table-related news, AFL 2.52b is out, includes integration with qemu 2.10.0 (props to Andrew).",
+            "username": "lcamtuf",
+            "num_likes": 53,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "926839290956414977": {
+            "id": "926839290956414977",
+            "text": "Added daytime photos to the album. I think it turned out nice. Project build log still at https://imgur.com/a/aw7O1\u00a0pic.twitter.com/Zc4KtIHD9g",
+            "username": "lcamtuf",
+            "num_likes": 35,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "926530328486821888": {
+            "id": "926530328486821888",
+            "text": "I'm starting to suspect that I might be a Russian troll account",
+            "username": "lcamtuf",
+            "num_likes": 121,
+            "num_retweets": 7,
+            "num_replies": 11
+        },
+        "918336030549295104": {
+            "id": "918336030549295104",
+            "text": "New cutting board. Walnut + sirari + curly maple.pic.twitter.com/yW550RGjoO",
+            "username": "lcamtuf",
+            "num_likes": 93,
+            "num_retweets": 1,
+            "num_replies": 14
+        },
+        "916861962037764096": {
+            "id": "916861962037764096",
+            "text": "Third and final sauce bowl. Segmented mahogany, rubbed poly finish.pic.twitter.com/0bKkYr2YjU",
+            "username": "lcamtuf",
+            "num_likes": 52,
+            "num_retweets": 1,
+            "num_replies": 6
+        },
+        "916464111239675904": {
+            "id": "916464111239675904",
+            "text": "My life in the Silicon Valley: https://i.redditmedia.com/CSepPjV6L6xlGcF_ewLm3PQ-ui4fcqK9Hrv2tlpIWdI.jpg?w=1024&s=c34dadcb23d1ecea9aa3f365c6aa55bf\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 117,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "911756921559851008": {
+            "id": "911756921559851008",
+            "text": "Work in progress - pixel artpic.twitter.com/SOzbxx7kw5",
+            "username": "lcamtuf",
+            "num_likes": 74,
+            "num_retweets": 4,
+            "num_replies": 7
+        },
+        "909130573007904768": {
+            "id": "909130573007904768",
+            "text": "Gotta say, the joyful bashing of the Equifax CISO for having the wrong degree is the ugliest thing I've seen in our industry in a while",
+            "username": "lcamtuf",
+            "num_likes": 1015,
+            "num_retweets": 303,
+            "num_replies": 52
+        },
+        "896805912714686464": {
+            "id": "896805912714686464",
+            "text": "Never a dull day on the farm. Speaking of which, how's the infosec industry?pic.twitter.com/vXsalS6XIg",
+            "username": "lcamtuf",
+            "num_likes": 122,
+            "num_retweets": 0,
+            "num_replies": 9
+        },
+        "890247868329508864": {
+            "id": "890247868329508864",
+            "text": "Your daily metaphor for the infosec industry.pic.twitter.com/SOPRPl04pl",
+            "username": "lcamtuf",
+            "num_likes": 3446,
+            "num_retweets": 1931,
+            "num_replies": 34
+        },
+        "870752829140418560": {
+            "id": "870752829140418560",
+            "text": "Capture the Flag!https://security.googleblog.com/2017/06/announcing-google-capture-flag-2017.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 227,
+            "num_retweets": 203,
+            "num_replies": 2
+        },
+        "863088434981724160": {
+            "id": "863088434981724160",
+            "text": "Device can be hacked to kill people by dispensing 2 lbs of salt per serving. Black Hat talk coming, pls don't steal.http://time.com/4773835/smalt-salt-shaker-bluetooth/\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 157,
+            "num_retweets": 71,
+            "num_replies": 15
+        },
+        "861027173401899009": {
+            "id": "861027173401899009",
+            "text": "And if you're feeding user input to ImageMagick, ffmpeg, Ghostscript, etc w/o sandboxing, you're gonna get hurt.https://twitter.com/robertswiecki/status/860915149372362753\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 221,
+            "num_retweets": 102,
+            "num_replies": 1
+        },
+        "859996620602998785": {
+            "id": "859996620602998785",
+            "text": "pic.twitter.com/IYvCYODNMV",
+            "username": "lcamtuf",
+            "num_likes": 148,
+            "num_retweets": 76,
+            "num_replies": 10
+        },
+        "855917419629494272": {
+            "id": "855917419629494272",
+            "text": "Pointless AFL experiments: please eat your brotli. https://lcamtuf.blogspot.com/2017/04/afl-experiments-or-please-eat-your.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 93,
+            "num_retweets": 51,
+            "num_replies": 2
+        },
+        "853146379946012673": {
+            "id": "853146379946012673",
+            "text": "Shadow Brokers, or the hottest security product to buy in 2018: http://lcamtuf.blogspot.ch/2017/04/shadow-brokers-or-hottest-security.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 135,
+            "num_retweets": 101,
+            "num_replies": 3
+        },
+        "841089306785529856": {
+            "id": "841089306785529856",
+            "text": "Another weekend well-spent: http://lcamtuf.coredump.cx/geiger/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 105,
+            "num_retweets": 31,
+            "num_replies": 6
+        },
+        "826938930649931776": {
+            "id": "826938930649931776",
+            "text": "...or, how I learned not to be a jerk in short 20 years: https://lcamtuf.blogspot.com/2017/02/or-how-i-learned-not-to-be-jerk-in-20.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 126,
+            "num_retweets": 37,
+            "num_replies": 15
+        },
+        "826295414026416128": {
+            "id": "826295414026416128",
+            "text": "Today, our kids seem to be in a contemplative mood.pic.twitter.com/9khY5TNZjN",
+            "username": "lcamtuf",
+            "num_likes": 41,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "824324637878145024": {
+            "id": "824324637878145024",
+            "text": "Phrack paper on DARPA CGC, I can't say I was ever expecting to see that :-) http://phrack.org/papers/cyber_grand_shellphish.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 79,
+            "num_retweets": 61,
+            "num_replies": 0
+        },
+        "812112073131839488": {
+            "id": "812112073131839488",
+            "text": "The end is still nigh, but in the meantime, this is an interesting take on AI: http://idlewords.com/talks/superintelligence.htm\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 82,
+            "num_retweets": 47,
+            "num_replies": 6
+        },
+        "810893255541948416": {
+            "id": "810893255541948416",
+            "text": "Some really cool work coming from our team:https://security.googleblog.com/2016/12/project-wycheproof.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 220,
+            "num_retweets": 156,
+            "num_replies": 0
+        },
+        "804373757573771264": {
+            "id": "804373757573771264",
+            "text": "OSS-Fuzz:https://testing.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 116,
+            "num_retweets": 128,
+            "num_replies": 0
+        },
+        "801549074918801408": {
+            "id": "801549074918801408",
+            "text": "Robots stealing CTF jobs:http://blog.psych0tik.net/2016/11/pwning-bin2json/\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 81,
+            "num_retweets": 48,
+            "num_replies": 2
+        },
+        "799375554386403328": {
+            "id": "799375554386403328",
+            "text": "Pretty cool, especially the \"shell script\" and \"hypercall\" slides:https://github.com/nccgroup/TriforceAFL/blob/master/slides/ToorCon16_TriforceAFL.pdf\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 95,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "771713824021811200": {
+            "id": "771713824021811200",
+            "text": "This is one of the most important web sec papers in recent history: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45542.pdf\u00a0\u2026 (section 3.4 is where the juicy bits are)",
+            "username": "lcamtuf",
+            "num_likes": 217,
+            "num_retweets": 108,
+            "num_replies": 3
+        },
+        "769399096771739648": {
+            "id": "769399096771739648",
+            "text": "So you want to work in security, but are too lazy to read @laparisa's excellent essay: https://lcamtuf.blogspot.com/2016/08/so-you-want-to-work-in-security-but-are.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 372,
+            "num_retweets": 211,
+            "num_replies": 10
+        },
+        "765292293184114688": {
+            "id": "765292293184114688",
+            "text": "Very cool:https://lafintel.wordpress.com/2016/08/15/circumventing-fuzzing-roadblocks-with-compiler-transformations/\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 145,
+            "num_retweets": 120,
+            "num_replies": 5
+        },
+        "763598968110534657": {
+            "id": "763598968110534657",
+            "text": "You can try working on things you think are clever or complicated, but it's always http://lcamtuf.coredump.cx/squirrel/\u00a0 that makes it to #1 on HN.",
+            "username": "lcamtuf",
+            "num_likes": 107,
+            "num_retweets": 42,
+            "num_replies": 8
+        },
+        "761236302092054528": {
+            "id": "761236302092054528",
+            "text": "CSS mix-blend-mode is bad for your browsing history (aka, patience is a virtue): https://lcamtuf.blogspot.com/2016/08/css-mix-blend-mode-is-bad-for-keeping.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 53,
+            "num_retweets": 58,
+            "num_replies": 4
+        },
+        "760618854552776705": {
+            "id": "760618854552776705",
+            "text": "New in AFL 2.24b: libdislocator, an abusive fuzzing allocator -https://groups.google.com/forum/#!topic/afl-users/RW4RF6x9aBc\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 71,
+            "num_retweets": 74,
+            "num_replies": 3
+        },
+        "759928584974708736": {
+            "id": "759928584974708736",
+            "text": "Another day, another cutting board made.pic.twitter.com/NsLRViv9AV",
+            "username": "lcamtuf",
+            "num_likes": 42,
+            "num_retweets": 1,
+            "num_replies": 8
+        },
+        "759608820863606784": {
+            "id": "759608820863606784",
+            "text": "Made a cutting board. It was fun.pic.twitter.com/Q2CTj7HhmA",
+            "username": "lcamtuf",
+            "num_likes": 79,
+            "num_retweets": 0,
+            "num_replies": 12
+        },
+        "759097400560488449": {
+            "id": "759097400560488449",
+            "text": "HSTS on http://www.google.com\u00a0:https://security.googleblog.com/2016/07/bringing-hsts-to-wwwgooglecom.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 77,
+            "num_retweets": 48,
+            "num_replies": 0
+        },
+        "753757015902556160": {
+            "id": "753757015902556160",
+            "text": "Fuzzing OpenBSD syscalls: http://www.openwall.com/lists/oss-security/2016/07/14/5\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 65,
+            "num_retweets": 41,
+            "num_replies": 1
+        },
+        "748416836799127555": {
+            "id": "748416836799127555",
+            "text": "You folks really need to stop tweeting about the Australian Football League and the American Federation of Labor, messes up my saved search.",
+            "username": "lcamtuf",
+            "num_likes": 51,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "747512366745563136": {
+            "id": "747512366745563136",
+            "text": "AFL on everything, nice: https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/june/project-triforce-run-afl-on-everything/\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 63,
+            "num_retweets": 47,
+            "num_replies": 1
+        },
+        "733321749874368513": {
+            "id": "733321749874368513",
+            "text": "Nice research on fingerprinting via new APIs: https://webtransparency.cs.princeton.edu/webcensus/index.html\u00a0\u2026; I'm obliged to dust off our earlier work: https://www.chromium.org/Home/chromium-security/client-identification-mechanisms\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 74,
+            "num_retweets": 49,
+            "num_replies": 0
+        },
+        "730446317793640449": {
+            "id": "730446317793640449",
+            "text": "Eh... clearing up some misconceptions around ImageTragick: https://lcamtuf.blogspot.com/2016/05/clearing-up-some-misconceptions-around.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 87,
+            "num_retweets": 109,
+            "num_replies": 2
+        },
+        "697159875957100545": {
+            "id": "697159875957100545",
+            "text": "Automatically inferring file syntax with afl-analyze: https://lcamtuf.blogspot.com/2016/02/say-hello-to-afl-analyze.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 104,
+            "num_retweets": 108,
+            "num_replies": 1
+        },
+        "696054737976762369": {
+            "id": "696054737976762369",
+            "text": "Not bad, @rantyben on the \"joys\" of fuzzing on MacOS X: https://reverse.put.as/wp-content/uploads/2015/11/OSXScale.pdf\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 75,
+            "num_retweets": 55,
+            "num_replies": 1
+        },
+        "692735075088076801": {
+            "id": "692735075088076801",
+            "text": "What! XML?! http://man7.org/linux/man-pages/man3/malloc_info.3.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 28,
+            "num_retweets": 19,
+            "num_replies": 5
+        },
+        "665248250648129536": {
+            "id": "665248250648129536",
+            "text": "Using AFL to lazily solve CTFs: http://www.mathyvanhoef.com/2015/09/csaw-ctf-solving-reversing-wyvern-500.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 107,
+            "num_retweets": 79,
+            "num_replies": 0
+        },
+        "663033699278061568": {
+            "id": "663033699278061568",
+            "text": "AFL vs PuTTY: http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ech-overflow.html\u00a0\u2026 and http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ecdsa-newkey.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 83,
+            "num_retweets": 64,
+            "num_replies": 3
+        },
+        "645421961225633792": {
+            "id": "645421961225633792",
+            "text": "Never attribute to conspiracy that which is adequately explained by groupthink.",
+            "username": "lcamtuf",
+            "num_likes": 53,
+            "num_retweets": 40,
+            "num_replies": 3
+        },
+        "638605007785295872": {
+            "id": "638605007785295872",
+            "text": "Surveying vuln research: http://lcamtuf.blogspot.com/2015/08/understanding-process-of-finding.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 112,
+            "num_retweets": 128,
+            "num_replies": 9
+        },
+        "632251703086186496": {
+            "id": "632251703086186496",
+            "text": "Btw, some interesting prior work on Stagefright (not particularly well-publicized IIRC): http://events.linuxfoundation.org/sites/events/files/slides/ABS2015.pdf\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 38,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "623593580842610689": {
+            "id": "623593580842610689",
+            "text": "Using persistent mode and afl to fuzz DNS servers: https://www.fastly.com/blog/how-to-fuzz-server-american-fuzzy-lop\u00a0\u2026 (via @jfoote_)",
+            "username": "lcamtuf",
+            "num_likes": 65,
+            "num_retweets": 60,
+            "num_replies": 0
+        },
+        "621444576021229568": {
+            "id": "621444576021229568",
+            "text": "This is how I spent most of my parental leave; it's been a fun ride: http://lcamtuf.blogspot.com/2015/07/poland-and-united-states-wrapping-up.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "595149324285186050": {
+            "id": "595149324285186050",
+            "text": "This is... something: https://news.ycombinator.com/item?id=9484757\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 49,
+            "num_retweets": 100,
+            "num_replies": 17
+        },
+        "593974302086565888": {
+            "id": "593974302086565888",
+            "text": "Fed up with C? AFL-derived tools now offer explicit support for Java, Go, Rust, and Python: http://lcamtuf.coredump.cx/afl/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 49,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "592180302035845122": {
+            "id": "592180302035845122",
+            "text": "RIP, ELF parsing: http://marc.info/?l=openbsd-cvs&m=142989483913635&w=2\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 31,
+            "num_retweets": 26,
+            "num_replies": 3
+        },
+        "589513510083690497": {
+            "id": "589513510083690497",
+            "text": "noooooooohttps://chrome.google.com/webstore/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe?hl=en-US\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 27,
+            "num_retweets": 23,
+            "num_replies": 6
+        },
+        "588047303782502400": {
+            "id": "588047303782502400",
+            "text": "Finding bugs in SQLite, the easy way: http://lcamtuf.blogspot.com/2015/04/finding-bugs-in-sqlite-easy-way.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 118,
+            "num_retweets": 140,
+            "num_replies": 5
+        },
+        "586035088644648961": {
+            "id": "586035088644648961",
+            "text": "AFL 1.60b ships with LLVM mode, meaning up to 2x perf gains and support for non-x86 CPUs: http://lcamtuf.coredump.cx/afl/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 67,
+            "num_retweets": 72,
+            "num_replies": 6
+        },
+        "582478298367709184": {
+            "id": "582478298367709184",
+            "text": "In retrospective mood: http://lcamtuf.blogspot.com/2015/03/on-journeys.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 49,
+            "num_retweets": 44,
+            "num_replies": 9
+        },
+        "581859756110942209": {
+            "id": "581859756110942209",
+            "text": "A heartwarming phishing success story:http://www.bbc.co.uk/news/uk-england-london-32095189\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 13,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "575163892541714433": {
+            "id": "575163892541714433",
+            "text": "Late in the day, but it's one of the more interesting pieces of work I've seen in the past few years: http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 28,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "571477625224347648": {
+            "id": "571477625224347648",
+            "text": "Finally gotten around to making a logo for AFL: http://lcamtuf.coredump.cx/afl/rabbit.gif\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 71,
+            "num_retweets": 43,
+            "num_replies": 12
+        },
+        "566305731146969088": {
+            "id": "566305731146969088",
+            "text": "Some hard data on disclosure deadlines: http://googleprojectzero.blogspot.com/2015/02/feedback-and-data-driven-updates-to.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 17,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "565222560690737154": {
+            "id": "565222560690737154",
+            "text": "Bi-level TIFFs and the tale of the unexpectedly early patch: http://lcamtuf.blogspot.com/2015/02/bi-level-tiffs-and-tale-of-unexpectedly.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 18,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "564131541907808256": {
+            "id": "564131541907808256",
+            "text": "A pretty cool presentation about some sort of a fuzzing tool: https://www.fabiankeil.de/talks/fuzzing-on-freebsd/index.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 76,
+            "num_retweets": 43,
+            "num_replies": 2
+        },
+        "563163694436069376": {
+            "id": "563163694436069376",
+            "text": "Symbolic execution & vuln research: http://goo.gl/xo0hu1\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 90,
+            "num_retweets": 82,
+            "num_replies": 4
+        },
+        "560610673319616513": {
+            "id": "560610673319616513",
+            "text": "AFL 1.33b supports instrumentation-guided fuzzing of black-box binaries. Which is kinda major. http://lcamtuf.coredump.cx/afl/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 89,
+            "num_retweets": 98,
+            "num_replies": 9
+        },
+        "560159017494786048": {
+            "id": "560159017494786048",
+            "text": "Technical analysis of Qualys' GHOST: http://lcamtuf.blogspot.com/2015/01/technical-analysis-of-qualys-ghost.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 167,
+            "num_retweets": 259,
+            "num_replies": 28
+        },
+        "558173020414435328": {
+            "id": "558173020414435328",
+            "text": "\"Splint is a tool for statically checking C programs for security vulnerabilities and coding mistakes.\" - oops http://goo.gl/UuReHl\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 88,
+            "num_retweets": 80,
+            "num_replies": 7
+        },
+        "539178824496205824": {
+            "id": "539178824496205824",
+            "text": "Nobody expects CDATA: http://lcamtuf.blogspot.com/2014/11/afl-fuzz-nobody-expects-cdata-sections.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 55,
+            "num_retweets": 69,
+            "num_replies": 6
+        },
+        "537123825792458753": {
+            "id": "537123825792458753",
+            "text": "I think this is pretty cool - crash exploration mode: http://lcamtuf.blogspot.com/2014/11/afl-fuzz-crash-exploration-mode.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 69,
+            "num_retweets": 75,
+            "num_replies": 7
+        },
+        "536452283718836224": {
+            "id": "536452283718836224",
+            "text": "OK, the 'less' quiz is over: http://seclists.org/oss-sec/2014/q4/769\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 39,
+            "num_retweets": 61,
+            "num_replies": 4
+        },
+        "536439612726460417": {
+            "id": "536439612726460417",
+            "text": "Quick quiz: would you run 'less' on an untrusted file?",
+            "username": "lcamtuf",
+            "num_likes": 28,
+            "num_retweets": 52,
+            "num_replies": 30
+        },
+        "531872348668837888": {
+            "id": "531872348668837888",
+            "text": "Check out our Bughunter University: http://g.co/bughunteruniversity\u00a0\u2026 (bonus: a spiffy video by @sirdarckcat). Props to @kkotowicz.",
+            "username": "lcamtuf",
+            "num_likes": 14,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "530642426642186241": {
+            "id": "530642426642186241",
+            "text": "Pulling JPEGs out of thin air: http://lcamtuf.blogspot.com/2014/11/pulling-jpegs-out-of-thin-air.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 177,
+            "num_retweets": 246,
+            "num_replies": 16
+        },
+        "525872006164541441": {
+            "id": "525872006164541441",
+            "text": "OK, PSA: just don't run 'strings' on untrusted files: http://goo.gl/a9rFs9\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 140,
+            "num_retweets": 300,
+            "num_replies": 15
+        },
+        "524213424373243905": {
+            "id": "524213424373243905",
+            "text": "Quick quiz: would you ever run strings on an untrusted file?",
+            "username": "lcamtuf",
+            "num_likes": 24,
+            "num_retweets": 35,
+            "num_replies": 24
+        },
+        "522222823431884801": {
+            "id": "522222823431884801",
+            "text": "Believe it or not, at some point in my life, I ended up writing this: http://lcamtuf.coredump.cx/facefuzz/\u00a0 (for a work-related reason, too!)",
+            "username": "lcamtuf",
+            "num_likes": 12,
+            "num_retweets": 13,
+            "num_replies": 5
+        },
+        "522102618391187456": {
+            "id": "522102618391187456",
+            "text": "Two more browser memory disclosure bugs: http://lcamtuf.blogspot.com/2014/10/two-more-browser-memory-disclosure-bugs.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 27,
+            "num_retweets": 37,
+            "num_replies": 2
+        },
+        "521594232419520512": {
+            "id": "521594232419520512",
+            "text": "Whimsical investigation of the day - fuzzing on Edison: http://lcamtuf.coredump.cx/edison_fuzz/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 45,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "517320273670840321": {
+            "id": "517320273670840321",
+            "text": "The other two bash RCEs, or how we chipped away at the original fix: http://goo.gl/X7QFqb\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 76,
+            "num_retweets": 138,
+            "num_replies": 5
+        },
+        "516297412579581952": {
+            "id": "516297412579581952",
+            "text": "Found 6th and most serious issue in bash, equiv to the original RCE. If you're using just the first patch, you'll be in trouble soon.",
+            "username": "lcamtuf",
+            "num_likes": 93,
+            "num_retweets": 338,
+            "num_replies": 18
+        },
+        "515931273135542272": {
+            "id": "515931273135542272",
+            "text": "So anyway, more bugs, apply Florian's bash patch *now*, here's more if you need convincing: http://goo.gl/y3BMbV\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 84,
+            "num_retweets": 132,
+            "num_replies": 4
+        },
+        "515755449203687425": {
+            "id": "515755449203687425",
+            "text": "Fuzz function parsing and you shall receive: bash[8252]: segfault at dfdfdfdf ip 0052842b",
+            "username": "lcamtuf",
+            "num_likes": 51,
+            "num_retweets": 80,
+            "num_replies": 1
+        },
+        "515036599512358912": {
+            "id": "515036599512358912",
+            "text": "Some practical notes about the bash bug: http://goo.gl/AbhflP\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 110,
+            "num_retweets": 255,
+            "num_replies": 6
+        },
+        "506975638222159872": {
+            "id": "506975638222159872",
+            "text": "Uninit memory disclosure fixed in Firefox: http://lcamtuf.blogspot.com/2014/09/cve-2014-1564-uninitialized-memory-when.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 14,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "506887642160455680": {
+            "id": "506887642160455680",
+            "text": "Artur and I put together a nice write-up about web tracking: https://sites.google.com/a/chromium.org/dev/Home/chromium-security/client-identification-mechanisms\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 66,
+            "num_retweets": 71,
+            "num_replies": 3
+        },
+        "497832351833923585": {
+            "id": "497832351833923585",
+            "text": "Some notes on binary fuzzing strategies: http://lcamtuf.blogspot.com/2014/08/binary-fuzzing-strategies-what-works.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 69,
+            "num_retweets": 43,
+            "num_replies": 3
+        },
+        "496472511014764546": {
+            "id": "496472511014764546",
+            "text": "A bit more about american fuzzy lop: http://lcamtuf.blogspot.com/2014/08/a-bit-more-about-american-fuzzy-lop.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 37,
+            "num_retweets": 34,
+            "num_replies": 2
+        },
+        "486229420340809728": {
+            "id": "486229420340809728",
+            "text": "We explicitly added code refactorings to the list of qualifying security improvements: http://www.google.com/about/appsecurity/patch-rewards/\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "480599458564947969": {
+            "id": "480599458564947969",
+            "text": "I think I just wasted several hours: http://lcamtuf.coredump.cx/css_algebra/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 47,
+            "num_retweets": 37,
+            "num_replies": 2
+        },
+        "478235959960424449": {
+            "id": "478235959960424449",
+            "text": "\"International Whistleblowers Conference\" (https://globaleaks.org/whistleblowersconference/index.html\u00a0\u2026) sounds awfully like a trap",
+            "username": "lcamtuf",
+            "num_likes": 18,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "467896214017421312": {
+            "id": "467896214017421312",
+            "text": "Fun weekend project: http://lcamtuf.coredump.cx/water/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 5
+        },
+        "448632049029480448": {
+            "id": "448632049029480448",
+            "text": "Fyodor put together a new version of F-D: http://insecure.org/news/fulldisclosure/\u00a0\u2026. Hop in.",
+            "username": "lcamtuf",
+            "num_likes": 17,
+            "num_retweets": 56,
+            "num_replies": 2
+        },
+        "446730525466558465": {
+            "id": "446730525466558465",
+            "text": "Messing around with <a download>: http://goo.gl/0S6wPW\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 23,
+            "num_retweets": 34,
+            "num_replies": 4
+        },
+        "400327026793398272": {
+            "id": "400327026793398272",
+            "text": "Bugs in IJG jpeg6b and libjpeg-turbo: http://seclists.org/fulldisclosure/2013/Nov/83\u00a0\u2026 (plus a new fuzzing tool: https://code.google.com/p/american-fuzzy-lop/\u00a0\u2026)",
+            "username": "lcamtuf",
+            "num_likes": 31,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "394632233077592064": {
+            "id": "394632233077592064",
+            "text": "Halloween costume ideas, #12931: http://i.imgur.com/naIOh6l.jpg\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 33,
+            "num_replies": 3
+        },
+        "388028720214069248": {
+            "id": "388028720214069248",
+            "text": "Going beyond vulnerability rewards:http://goo.gl/pVzYgf\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 35,
+            "num_retweets": 91,
+            "num_replies": 6
+        },
+        "345201838821371904": {
+            "id": "345201838821371904",
+            "text": "The saga continues: http://blog.makezine.com/2013/06/13/prototypes-that-last-simple-tips-for-making-durable-parts-part-2/\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "342778046597697536": {
+            "id": "342778046597697536",
+            "text": "We're now paying between $3,133.7 and $7,500 for XSS in most services: http://goo.gl/Xnx5E\u00a0 - enjoy!",
+            "username": "lcamtuf",
+            "num_likes": 11,
+            "num_retweets": 39,
+            "num_replies": 1
+        },
+        "330857459705077762": {
+            "id": "330857459705077762",
+            "text": "And an explanation, I guess: http://lcamtuf.blogspot.com/2013/05/some-harmless-old-fashioned-fun-with-css.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "330840028358000642": {
+            "id": "330840028358000642",
+            "text": "Some old-fashioned, harmless CSS fun: http://lcamtuf.coredump.cx/yahh/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "304321438519791617": {
+            "id": "304321438519791617",
+            "text": "A somewhat nice Firefox bug fixed today: http://lcamtuf.blogspot.com/2013/02/firefox-https-and-response-code-407.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 5,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "302117360461049856": {
+            "id": "302117360461049856",
+            "text": "My article on 3D printing: http://blog.makezine.com/2013/02/14/3d-printing-revolution-the-complex-reality/\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 14,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "295379911860973569": {
+            "id": "295379911860973569",
+            "text": "For the super-curious, here's another project I'm working on: http://lcamtuf.coredump.cx/omni2/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "255867957849255939": {
+            "id": "255867957849255939",
+            "text": "http://lcamtuf.coredump.cx/gcnc/\u00a0 - 350 kB of text, 60 illustrations. Epic new content, fully modularized. Enjoy!",
+            "username": "lcamtuf",
+            "num_likes": 20,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "253894053601619968": {
+            "id": "253894053601619968",
+            "text": "So, if you want to grab \"The Tangled Web\", the e-book version seems to be 50% off on http://oreilly.com\u00a0 (today only I think).",
+            "username": "lcamtuf",
+            "num_likes": 1,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "207888676762566656": {
+            "id": "207888676762566656",
+            "text": "Yes, you can have fun with downloads: http://goo.gl/88g8K\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 17,
+            "num_retweets": 45,
+            "num_replies": 3
+        },
+        "196795454040702976": {
+            "id": "196795454040702976",
+            "text": "Sweet: http://www.brendangregg.com/Specials/pam_happy_hour.c\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 5,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "189263848509939712": {
+            "id": "189263848509939712",
+            "text": "My adventures in home manufacturing: http://lcamtuf.coredump.cx/rstory/\u00a0 (also check out http://lcamtuf.coredump.cx/omni/\u00a0 and http://lcamtuf.coredump.cx/cycloid/\u00a0).",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "167669768818663425": {
+            "id": "167669768818663425",
+            "text": "Some stats / notes on web vulnerability bounties:http://googleonlinesecurity.blogspot.com/2012/02/celebrating-one-year-of-web.html\u00a0\u2026",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "156645853988270080": {
+            "id": "156645853988270080",
+            "text": "And here it is, p0f version 3! Plenty of new tricks, needs your help: http://goo.gl/CDAjn\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 16,
+            "num_retweets": 68,
+            "num_replies": 4
+        },
+        "149187693132251136": {
+            "id": "149187693132251136",
+            "text": "Rough notes on living in the post-XSS world: http://goo.gl/DqZB2\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 12,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "136490869523091457": {
+            "id": "136490869523091457",
+            "text": "\"The Tangled Web\" is out. Instantly downloadable PDF with print copies. Use code TANGLEDWEB to get 40% off: http://goo.gl/a7vw6\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 17,
+            "num_retweets": 56,
+            "num_replies": 5
+        },
+        "116606340138401792": {
+            "id": "116606340138401792",
+            "text": "Discuss: http://goo.gl/DpDcF\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 9,
+            "num_retweets": 26,
+            "num_replies": 18
+        },
+        "107322764137996288": {
+            "id": "107322764137996288",
+            "text": "The subtle / deadly problem with CSP: http://goo.gl/1ndtT\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 12,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "106296091389075457": {
+            "id": "106296091389075457",
+            "text": "http://goo.gl/96ThZ\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 77,
+            "num_replies": 6
+        },
+        "105763855451426816": {
+            "id": "105763855451426816",
+            "text": "Table of Contents posted online: http://lcamtuf.coredump.cx/tangled/\u00a0",
+            "username": "lcamtuf",
+            "num_likes": 9,
+            "num_retweets": 30,
+            "num_replies": 5
+        },
+        "60109413821849600": {
+            "id": "60109413821849600",
+            "text": "Thank you, Unicode 6.0! 1F638: GRINNING CAT FACE WITH SMILING EYES. 1F639: CAT FACE WITH TEARS OF JOY. http://goo.gl/rYBSa",
+            "username": "lcamtuf",
+            "num_likes": 17,
+            "num_retweets": 70,
+            "num_replies": 0
+        },
+        "56936527078498304": {
+            "id": "56936527078498304",
+            "text": "Using \"View > Encoding\" can kill you (well, in a manner of speaking): http://goo.gl/vMBLo",
+            "username": "lcamtuf",
+            "num_likes": 1,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "46706244731416576": {
+            "id": "46706244731416576",
+            "text": "Pwn2own considered (somewhat) harmful: http://goo.gl/Cxeoi",
+            "username": "lcamtuf",
+            "num_likes": 8,
+            "num_retweets": 44,
+            "num_replies": 0
+        },
+        "46333040754044928": {
+            "id": "46333040754044928",
+            "text": "We are seeing targeted, possibly politically motivated exploitation of an unpatched UXSS vuln in IE: http://goo.gl/kXQ9n",
+            "username": "lcamtuf",
+            "num_likes": 8,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "44625336037679104": {
+            "id": "44625336037679104",
+            "text": "Hi Flash developers, beware ExternalInterface.call() - and not for the reason you think you should: http://goo.gl/r5LU7",
+            "username": "lcamtuf",
+            "num_likes": 7,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "44522547131322368": {
+            "id": "44522547131322368",
+            "text": "Hi webmasters, allowing videos or Flash movies from user-specified sources is unsafe: http://goo.gl/KtRmL",
+            "username": "lcamtuf",
+            "num_likes": 6,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "38667736376807424": {
+            "id": "38667736376807424",
+            "text": "Possibly the most fascinating HTML parser behavior ever: http://goo.gl/5x8Xb",
+            "username": "lcamtuf",
+            "num_likes": 12,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "25325608561025024": {
+            "id": "25325608561025024",
+            "text": "We finally came up with a bullet-proof clickjacking defense and will be rolling it out in a couple of days: http://goo.gl/oyaiU",
+            "username": "lcamtuf",
+            "num_likes": 9,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "21144455885103104": {
+            "id": "21144455885103104",
+            "text": "Announcement as promised: cross_fuzz mayhem + a potential 0-day vuln info in circulation - http://goo.gl/nMuGy (read all)",
+            "username": "lcamtuf",
+            "num_likes": 24,
+            "num_retweets": 73,
+            "num_replies": 0
+        },
+        "10864524005474304": {
+            "id": "10864524005474304",
+            "text": "Yay, DHS threat level indicator done: http://goo.gl/69zNi (includes photos and video)",
+            "username": "lcamtuf",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "2882226245079040": {
+            "id": "2882226245079040",
+            "text": "Over $20k in web vuln rewards so far: http://goo.gl/SpTke + some clarification on criteria: http://goo.gl/UTGkT",
+            "username": "lcamtuf",
+            "num_likes": 2,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "29399754824": {
+            "id": "29399754824",
+            "text": "Bounty program for web vulns in Google services: http://goo.gl/WJXh",
+            "username": "lcamtuf",
+            "num_likes": 4,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "29076226602": {
+            "id": "29076226602",
+            "text": "HTTP cookies, or how not to design protocols: http://goo.gl/Z8qF (probably interesting)",
+            "username": "lcamtuf",
+            "num_likes": 19,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "26497897872": {
+            "id": "26497897872",
+            "text": "Okay, Electronics for Geeks now wrapped up, complete with a primer on digital circuits: http://bit.ly/aLd6g5. Woot!",
+            "username": "lcamtuf",
+            "num_likes": 10,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "20606360099": {
+            "id": "20606360099",
+            "text": "Weekend distractions: Shannon's Ultimate Machine, take 2: http://bit.ly/c6M7S1 && http://bit.ly/9PFOsL (yeah, deja vu)",
+            "username": "lcamtuf",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "19022526109": {
+            "id": "19022526109",
+            "text": "Rebooting responsible disclosure! http://bit.ly/dywXv2",
+            "username": "lcamtuf",
+            "num_likes": 4,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "3110608506": {
+            "id": "3110608506",
+            "text": "is not using Twitter. Thank you, come again.",
+            "username": "lcamtuf",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "nblr": 1,
+        "glasser": 1,
+        "fjserna": 1,
+        "we1x": 1,
+        "APT1337": 1,
+        "iagox86": 1,
+        "hanno": 1,
+        "kurtseifried": 1,
+        "nbcbayarea": 1,
+        "garethheyes": 1,
+        "xor": 1,
+        "jpgoldberg": 1
+    },
+    "users_retweeted": [
+        "nblr",
+        "glasser",
+        "fjserna",
+        "we1x",
+        "APT1337",
+        "iagox86",
+        "hanno",
+        "kurtseifried",
+        "nbcbayarea",
+        "garethheyes",
+        "xor",
+        "jpgoldberg"
+    ]
+}

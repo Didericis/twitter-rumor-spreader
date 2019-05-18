@@ -1,0 +1,670 @@
+{
+    "is_complete": true,
+    "username": "thegostep",
+    "retweeted": {
+        "1122962377769615360": {
+            "id": "1122962377769615360",
+            "text": "Should be an interesting debate!https://twitter.com/PolymathNetwork/status/1122938341488513024\u00a0\u2026",
+            "username": "AdamAID",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1120129007108939777": {
+            "id": "1120129007108939777",
+            "text": "my summary: 1) Eth 1.x needs more \"resources\" / devs. Even straightforward todos such as chain data pruning don't have an active WG because existing client teams already too busy (let alone more ambitious todos like Vitalik's tx fee proposal).https://twitter.com/TaylorGerring/status/1120091031318487040?s=19\u00a0\u2026",
+            "username": "cdetrio",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1116372624534319105": {
+            "id": "1116372624534319105",
+            "text": "Blockstack token Reg A+ offering. This is probably the most well developed offering of a \"native token\" as a security that is publicly available: https://www.sec.gov/Archives/edgar/data/1719379/000110465919020748/a18-15736_1partiiandiii.htm\u00a0\u2026",
+            "username": "lex_node",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1115618087330623488": {
+            "id": "1115618087330623488",
+            "text": "Join the discussion about #SecurityToken standards and the future of #blockchain in the STN interview with Stephane Gosselin @thegostep at @numerai! http://link.coinlaw.io/a212928?&utm_source=Twitter\u00a0\u2026 #STN #DigitalSecurities #DigitalAssetspic.twitter.com/ltBNyU9CK5",
+            "username": "coinlaw_io",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108789694379122688": {
+            "id": "1108789694379122688",
+            "text": "Numerai just raised $11million from Placeholder and Paradigmhttps://www.coindesk.com/numerai-token-sale-raises-11-million-from-vc-firms-paradigm-placeholder\u00a0\u2026",
+            "username": "numerai",
+            "num_likes": 179,
+            "num_retweets": 49,
+            "num_replies": 8
+        },
+        "1108468180438212608": {
+            "id": "1108468180438212608",
+            "text": "Gotta learn to earn baby- Equity\u00a0Tokens vs Security Tokens https://www.securities.io/equity-tokens-vs-security-tokens/\u00a0\u2026 @PolymathNetwork @Securitize @harbor @thegostep @TheMediaShower #securitytokens @blockventures #cryptocurrency #bitcoin #blockchain #equitytokens #cryptolife #HODL",
+            "username": "cryptodactyle",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1106321500016201730": {
+            "id": "1106321500016201730",
+            "text": "In my new article in TD research, I explored the P/L of the @UniswapExchange market making. The most unique feature of Uniswap as a DEX is that all the trading fees go to MMs, not to the exchange and not to the team.\nhttps://www.tokendaily.co/blog/pnl-analysis-of-uniswap-market-making\u00a0\u2026pic.twitter.com/csm8HURyXU",
+            "username": "MohamedFFouda",
+            "num_likes": 43,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1106230340492951552": {
+            "id": "1106230340492951552",
+            "text": "My #EthCC talk about LibSubmarine, an open-source smart contract library that defends against front-running on Ethereum, is now available on YouTube:https://www.youtube.com/watch?v=ZGDL8aHHAow\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1105492899674968064": {
+            "id": "1105492899674968064",
+            "text": "So great to see ERC1400 Security Token Standards get built on top of #erc1066 FISSION codes.https://twitter.com/thegostep/status/1105277887651827713\u00a0\u2026",
+            "username": "FISSIONcodes",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1105388915853352962": {
+            "id": "1105388915853352962",
+            "text": "Fantastic overview of #SecurityTokens's by @thegostep. Definitely worth a watch! Code > Processes > Legislation @PolymathNetwork #ERC1400https://twitter.com/thegostep/status/1105277887651827713\u00a0\u2026",
+            "username": "SecTokenNetwork",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1103253589890355200": {
+            "id": "1103253589890355200",
+            "text": "Very interesting - @thegostep on ERC-1400 digital securities. This is the future, my dudespic.twitter.com/eeQqhl9OFD",
+            "username": "benjamistan",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1103231080751079424": {
+            "id": "1103231080751079424",
+            "text": "Sadly, slide 13 is so true...pic.twitter.com/TQmYsK6KAi",
+            "username": "ethchris",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1102959945396506624": {
+            "id": "1102959945396506624",
+            "text": "Back with another exploration of gas optimization, this time for storage:https://medium.com/@0age/on-efficient-ethereum-storage-c76869591add\u00a0\u2026",
+            "username": "z0age",
+            "num_likes": 16,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1100678566075756545": {
+            "id": "1100678566075756545",
+            "text": "Crypto is spawning a generation of programmers that understand the fundamentals of game theory, finance, and governance.",
+            "username": "naval",
+            "num_likes": 4292,
+            "num_retweets": 903,
+            "num_replies": 138
+        },
+        "1099318869460742145": {
+            "id": "1099318869460742145",
+            "text": "With the rise of #DeFi the idea of decentralized digital credit scoring is getting more attention. The following is my 201-level reading list on decentralized ID and reputation for those interested in the idea.\n\nGrab your Saturday morning coffee and get ready to open some tabs...",
+            "username": "_jillruth",
+            "num_likes": 405,
+            "num_retweets": 104,
+            "num_replies": 21
+        },
+        "1097189097704120321": {
+            "id": "1097189097704120321",
+            "text": "Say hello to our judging crew at @EthereumDenver! @thegrifft @Radotzki @benhmorris @thegosteppic.twitter.com/ptlxsmN8zB",
+            "username": "amer__ameen",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1095055061468631040": {
+            "id": "1095055061468631040",
+            "text": "Record breaking number of stakes on @numerai three weeks in a row. ",
+            "username": "richardcraib",
+            "num_likes": 103,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1093980120807657472": {
+            "id": "1093980120807657472",
+            "text": ".@thegostep, Protocol Architect at Numerai, presents LibSubmarine\u200b by @initc3org\u200b at Stanford Blockchain Conference last weekhttps://youtu.be/sQOfnsW6PTY?t=12660\u00a0\u2026",
+            "username": "numerai",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1089956320806084608": {
+            "id": "1089956320806084608",
+            "text": "Learn about IC3's amazing LibSubmarine from this short video: https://www.youtube.com/watch?v=N8PDKoptmPs\u00a0\u2026 \u2026\nhttps://libsubmarine.org/\u00a0. Perhaps the only practical way for continuous-time DEXes to prevent bots from frontrunning users.",
+            "username": "initc3org",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1089929081024593922": {
+            "id": "1089929081024593922",
+            "text": "Submarine sends provide a new library for defeating front-runners on Ethereum!  See our video overview for more information on why/how.\n\nhttps://www.youtube.com/watch?v=N8PDKoptmPs\u00a0\u2026\nhttps://libsubmarine.org/\u00a0",
+            "username": "phildaian",
+            "num_likes": 32,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1083879746822393856": {
+            "id": "1083879746822393856",
+            "text": "\u201cNew digital security milestone achieved: first secondary trade on a regulated custodial exchange\u201d by @jserna @securitize_iohttps://link.medium.com/Sno2Aq74oT\u00a0",
+            "username": "notjk",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1083724778698141696": {
+            "id": "1083724778698141696",
+            "text": "ERC1400 is picking up steam. Here is @ConsenSys' implementation:https://github.com/ConsenSys/ERC1400\u00a0\u2026",
+            "username": "PolymathNetwork",
+            "num_likes": 180,
+            "num_retweets": 71,
+            "num_replies": 4
+        },
+        "1078346928377671681": {
+            "id": "1078346928377671681",
+            "text": "What are the best examples of decentralized reputation systems? Any helpful reading material? It doesn't have to involve crypto/blockchain - I'm more interested in the social phenomenon itself.",
+            "username": "ameensol",
+            "num_likes": 74,
+            "num_retweets": 8,
+            "num_replies": 23
+        },
+        "1075181710730506240": {
+            "id": "1075181710730506240",
+            "text": "Just sent 1000 eth. Yolo.\n\nhttps://etherscan.io/tx/0x5c46e971d712752de929123a54e282ea3e5c5ec2a2c6aa709efec5cd9d8a2544\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 1575,
+            "num_retweets": 270,
+            "num_replies": 212
+        },
+        "1068933996778799105": {
+            "id": "1068933996778799105",
+            "text": "UI gets friendlier and more beautiful by the day. Mobile is here.\n\n-@CoinbaseWallet\n-@MessariCrypto token research\n-Rimble design system from @ConsensysDesign\n-@AlethioEthstats analytics suite\n-@numerai Erasure data marketplace\n-@CasaHODL multisig wallets \n-@MyCrypto\n-@etherscan",
+            "username": "ethereumJoseph",
+            "num_likes": 207,
+            "num_retweets": 29,
+            "num_replies": 8
+        },
+        "1062435977703100416": {
+            "id": "1062435977703100416",
+            "text": "Solidity 0.5.0 is out!https://twitter.com/alexberegszaszi/status/1062435516103225345\u00a0\u2026",
+            "username": "leonardoalt",
+            "num_likes": 20,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1059829289888051201": {
+            "id": "1059829289888051201",
+            "text": "What kind of rumors?  https://twitter.com/evan_van_ness/status/1059712383332089856\u00a0\u2026",
+            "username": "WilliamShatner",
+            "num_likes": 48,
+            "num_retweets": 5,
+            "num_replies": 10
+        },
+        "1059798184262799362": {
+            "id": "1059798184262799362",
+            "text": "It was really amazing discussing tokenization of corporate capital stock & my article with @simplyianm and @thegostep at DevCon--two awesome devs who grok legal. 3 takeaways: (1) tokenized certs approach is similar to some current efforts (e.g. ERC1410) but there are challenges;",
+            "username": "lex_node",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1058390112646651907": {
+            "id": "1058390112646651907",
+            "text": "Biggest takeaway from @EFDevcon was the message that tech is never the only thing that matters. We have to also help support and build social institutions that uphold the power of tech for good of all. Voice AND exit. ",
+            "username": "simondlr",
+            "num_likes": 68,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1058025385856847874": {
+            "id": "1058025385856847874",
+            "text": "Interesting work by the LibSubmarine team to temporarily hide transactions on Ethereum. This can be useful for things like preventing front running on decentralized exchanges, on chain voting, and sealed-bid auctions. No token or fees. https://libsubmarine.org/\u00a0pic.twitter.com/xzx8G2TEjE",
+            "username": "ljxie",
+            "num_likes": 63,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1058027008658169865": {
+            "id": "1058027008658169865",
+            "text": "@thegostep rocking the stage explaining how to include LibSubmarine (http://libsubmarine.org\u00a0) in your smart contracts #DevConIV.pic.twitter.com/AQmgIIAzJv",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1044386501218508800": {
+            "id": "1044386501218508800",
+            "text": "#ERC1410 - Partially Fungible Token Standard - in \"Week in Ethereum\" news!\n\nCongrats @AdamAID @feindura @pabloruiz55 @thegostephttp://www.weekinethereum.com/post/178351920908/september-21-2018\u00a0\u2026",
+            "username": "PolymathNetwork",
+            "num_likes": 29,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1041311387845373953": {
+            "id": "1041311387845373953",
+            "text": "\"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.\" - Antoine de Saint-Exup\u00e9ry",
+            "username": "lopp",
+            "num_likes": 1595,
+            "num_retweets": 439,
+            "num_replies": 26
+        },
+        "1040319759512989696": {
+            "id": "1040319759512989696",
+            "text": "When ico?",
+            "username": "ETHBerlin",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1039990231435563009": {
+            "id": "1039990231435563009",
+            "text": "Announcing the draft submission of The Aion Token Standard (ATS) to the AIP process. The proposal provides comprehensive functionality for fungible token developers & \u200aintroduces native cross-chain methods. Authored by @SamPajotPhipps, Yao Sun & @theGoStephttps://blog.aion.network/aip-proposal-aion-fungible-token-standard-53c501aec970\u00a0\u2026",
+            "username": "Aion_Network",
+            "num_likes": 101,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "1039216655144902656": {
+            "id": "1039216655144902656",
+            "text": "Super great to see people adopting #erc1066. This is a security token standard #erc1400. https://twitter.com/feindura/status/1039175491763281920\u00a0\u2026pic.twitter.com/ryGp6PGXvs",
+            "username": "bmann",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1026540482942230531": {
+            "id": "1026540482942230531",
+            "text": "The thing that's really subversive about cryptocurrencies is they're the first form of money not backed by force. \n\nWhen you realize how much military power is necessary for sovereign monetary policy, you appreciate cryptography is a much better way to secure your money.",
+            "username": "hosseeb",
+            "num_likes": 141,
+            "num_retweets": 32,
+            "num_replies": 4
+        },
+        "967566652194697216": {
+            "id": "967566652194697216",
+            "text": "Rewriting the #Ethereum yellow paper for a broader audience is such a great idea. Instead of writing more \u201cwhat is Ethereum\u201d guides, we should organize around one definition\u2014 the one specified in the Yellow paper.https://github.com/chronaeon/beigepaper/\u00a0\u2026",
+            "username": "MarkBeylin",
+            "num_likes": 105,
+            "num_retweets": 36,
+            "num_replies": 1
+        },
+        "956453801094868993": {
+            "id": "956453801094868993",
+            "text": "I slowly drifted back into the traditional financial system",
+            "username": "icowid",
+            "num_likes": 1399,
+            "num_retweets": 389,
+            "num_replies": 14
+        },
+        "955236774065917952": {
+            "id": "955236774065917952",
+            "text": "6\\ But what if, beyond intellectual recognition, there were *direct* monetary rewards in doing original physics? If you could make $100M if the world \"bought into\" your crank theory, how many more cranks would there be? I submit to you this is the situation in #cryptocurrency !",
+            "username": "dhruvbansal",
+            "num_likes": 179,
+            "num_retweets": 41,
+            "num_replies": 4
+        },
+        "955502545618653184": {
+            "id": "955502545618653184",
+            "text": "Woah\n\n\"[Bitcoin's] mere existence is an insurance policy that will remind governments that the last object establishment could control, namely, the currency, is no longer their monopoly. This gives us, the crowd, an insurance policy against an Orwellian future\" -@nntaleb",
+            "username": "CremeDeLaCrypto",
+            "num_likes": 1424,
+            "num_retweets": 507,
+            "num_replies": 45
+        },
+        "949177008986013696": {
+            "id": "949177008986013696",
+            "text": "You\u2019re never going to get rich renting out your time.",
+            "username": "naval",
+            "num_likes": 7427,
+            "num_retweets": 2252,
+            "num_replies": 206
+        }
+    },
+    "tweeted": {
+        "1116828885771935744": {
+            "id": "1116828885771935744",
+            "text": "\"Evolutionary models and empirical evidence indicate that such altruistic punishment has been a decisive force in the evolution of human cooperation.\"https://twitter.com/richardcraib/status/1116745404995915776\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116171514116628481": {
+            "id": "1116171514116628481",
+            "text": "Verifying myself: I am thegostep on http://Keybase.io\u00a0. 1zRJd0TDMgHd4PHzm06fhT_O1jh9O6pdEYf1 / https://keybase.io/thegostep/sigs/1zRJd0TDMgHd4PHzm06fhT_O1jh9O6pdEYf1\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113246919235477504": {
+            "id": "1113246919235477504",
+            "text": "Thanks for having me on! Research on standards is a huge opportunity for teams to differentiate their offering given the emerging industry structure.https://twitter.com/SecTokenNetwork/status/1113077101362581504\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1105277887651827713": {
+            "id": "1105277887651827713",
+            "text": "ERC-1400 is about much more than code. Standards provide the confidence business need before making the critical investments required to grow the ecosystem. Check out my talk on the #ERC1400 family of standardshttps://www.youtube.com/watch?v=-zPP9jUv6SA\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1103280233220923392": {
+            "id": "1103280233220923392",
+            "text": "Thanks #EthCC2019 for listening to my talk on Digital Securities and ERC1400 !pic.twitter.com/rBeoFj2D0R",
+            "username": "thegostep",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101580775198142464": {
+            "id": "1101580775198142464",
+            "text": "Requesting faucet funds into 0xf984b123ea200751869db53bd7b2a829ea1163f4 on the #Goerli #Ethereum test network.",
+            "username": "thegostep",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096514896542486528": {
+            "id": "1096514896542486528",
+            "text": "Come hangout with @fubuloubu and me at the mentor desk if you need some #buidl advice or just to take a break from the @EthereumDenver action!pic.twitter.com/Q4zvbw46AL",
+            "username": "thegostep",
+            "num_likes": 48,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1095812472135737344": {
+            "id": "1095812472135737344",
+            "text": "Come find me to get a Numerai T-shirt https://twitter.com/numerai/status/1095790323681263616\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1095380101540196353": {
+            "id": "1095380101540196353",
+            "text": "Solidity 0.5.4 with ABIEncoderV2 https://github.com/ethereum/solidity/releases/tag/v0.5.4\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1074838170913533957": {
+            "id": "1074838170913533957",
+            "text": "An other great article by @garyste22056486 about the ERC-1400 updates and decomposition into a family of standards.https://thetokenist.io/erc-1400-undergoes-numerous-updates-in-attempt-to-reach-a-sensible-security-token-standard/\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1072391348546883584": {
+            "id": "1072391348546883584",
+            "text": "Here are the links you need to join the discussion:\nERC-1400 issue on github: https://github.com/ethereum/EIPs/issues/1411\u00a0\u2026\nERC-1400 telegram discussion: https://t.me/joinchat/FVjP7kY7D6EUX6GYsCEi1w\u00a0\u2026\nERC-1400 alliance website: http://erc1400.org\u00a0",
+            "username": "thegostep",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1072390289841643520": {
+            "id": "1072390289841643520",
+            "text": "Here is a side by side of all proposed standards for Security Tokens. Basic rule of thumb: a perfect standard would address all the requirements in a single category and allow other standards to address other categories. (Thanks to @Adrianoguerrera)https://docs.google.com/spreadsheets/d/1MM5j22WmeK9Lywu_9fRIWsEY18W7qDbcxx5wOBZUZ_k/edit?usp=sharing\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1072387588466663424": {
+            "id": "1072387588466663424",
+            "text": "Shoutout to the @ZeppelinOrg TPL team for their work on ERC-1616 and active contributions to the standards process on github, telegram, and @EthMagicians.https://github.com/ethereum/EIPs/issues/1616\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1072386837610749952": {
+            "id": "1072386837610749952",
+            "text": "Standards are critical for the success of Security Tokens as an industry. I encourage anyone who is tackling the many unsolved challenges to share their approach as new ERC's. Here are the components currently addressed and some ideas for new contributions !pic.twitter.com/PhEo3kGEog",
+            "username": "thegostep",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1072377909803925504": {
+            "id": "1072377909803925504",
+            "text": "Shoutout to the teams involved in the discussion: @securitize_io @fluidityio @circlepay @harbor @neufundorg @MeridioRE @ConsensysDS @SetProtocol @0xProject @AbacusProtocol @Securrency @ZeppelinOrg @sendwyre @BitGo @sharespost @brickblock_io @OpenFinanceIO and many others!",
+            "username": "thegostep",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1072374269412343810": {
+            "id": "1072374269412343810",
+            "text": "Reflections and improvements on ERC-1400 . Great work by the @PolymathNetwork team taking feedback from teams across the industry.https://blog.polymath.network/erc-1400-evolution-of-a-security-token-standard-1e25d12b9261\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 30,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1071380903643930625": {
+            "id": "1071380903643930625",
+            "text": "Great overview !https://twitter.com/olakazmina/status/1070619252267409408\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1066687473911119873": {
+            "id": "1066687473911119873",
+            "text": "Nice to see ERC-1616 Attribute Registry Standard in this week\u2019s WIE ! https://twitter.com/evan_van_ness/status/1066499629540392960\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1066222746957307904": {
+            "id": "1066222746957307904",
+            "text": "Attribute Registry Standard for identity abstraction on ERC-735 & ERC-780. Allows for a trusted certificate authority to curate an identity registry much like SSL/TLS certificates. By @z0age from @ZeppelinOrghttps://github.com/ethereum/EIPs/issues/1616\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1064990330758418432": {
+            "id": "1064990330758418432",
+            "text": "Thrilled to be working on this exciting projecthttps://twitter.com/numerai/status/1064989195842674693\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1062904322826981376": {
+            "id": "1062904322826981376",
+            "text": "Soon to be many https://twitter.com/naddison/status/1062903976432099329\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059116605790212101": {
+            "id": "1059116605790212101",
+            "text": "Individual asset sovereignty is the unique selling point of tokenized securities on public blockchains - \u2066by @lex_node\u2069https://gabrielshapiro.wordpress.com/2018/10/28/2/\u00a0",
+            "username": "thegostep",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058829415646486528": {
+            "id": "1058829415646486528",
+            "text": "Standards for tokenized securities provide compatibility, not compliance.",
+            "username": "thegostep",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058321577782185984": {
+            "id": "1058321577782185984",
+            "text": "The costumes brought the crowds!\u2066 Take a look at http://libsubmarine.org\u00a0 to learn how to prevent reordering attacks and reduce on chain signalling. By @ethlorenz\u2069 & \u2066@relyt29\u2069pic.twitter.com/sKYtgbIxYj",
+            "username": "thegostep",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056763565510672384": {
+            "id": "1056763565510672384",
+            "text": "Where I purchased bitcoin for the first time and learned to make a flat white! A must see in Prague.https://twitter.com/hudsonjameson/status/1056406599131152385\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039176604600201219": {
+            "id": "1039176604600201219",
+            "text": "Looking forward to working with the community to standardize Security Tokens on Ethereum!https://twitter.com/feindura/status/1039175491763281920\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1035621280924553218": {
+            "id": "1035621280924553218",
+            "text": "LibSubmarine made it to Week in Ethereum  Thanks for the feature @evan_van_ness  https://twitter.com/evan_van_ness/status/1035565131823022083\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1034406316603654144": {
+            "id": "1034406316603654144",
+            "text": "\u201cLibSubmarine: Temporarily hide transactions on ethereum (cheaply!)\u201d by @thegostep, \u2066@relyt29\u2069 , \u2066@sbetamc\u2069 , and \u2066@ethlorenz\u2069https://hackernoon.com/libsubmarine-temporarily-hide-transactions-on-ethereum-cheaply-6910191f46f2?source=twitterShare-1aa2e52b3196-1535456579\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 27,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1034210518741872640": {
+            "id": "1034210518741872640",
+            "text": "There\u2019s no point in trying to allocate responsibility to people who aren\u2019t going to alter their actions.",
+            "username": "thegostep",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1029838620796977152": {
+            "id": "1029838620796977152",
+            "text": "Hesitation is always easy, rarely useful.",
+            "username": "thegostep",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1028467601960099843": {
+            "id": "1028467601960099843",
+            "text": "I just published \u201cA weekend\u2019s take on gas optimization\u201dhttps://medium.com/@thegostep/a-weekends-take-on-gas-optimization-74b4c6961ff1\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "AdamAID": 1,
+        "cdetrio": 1,
+        "lex_node": 2,
+        "coinlaw_io": 1,
+        "numerai": 2,
+        "cryptodactyle": 1,
+        "MohamedFFouda": 1,
+        "ethlorenz": 2,
+        "FISSIONcodes": 1,
+        "SecTokenNetwork": 1,
+        "benjamistan": 1,
+        "ethchris": 1,
+        "z0age": 1,
+        "naval": 2,
+        "_jillruth": 1,
+        "amer__ameen": 1,
+        "richardcraib": 1,
+        "initc3org": 1,
+        "phildaian": 1,
+        "notjk": 1,
+        "PolymathNetwork": 2,
+        "ameensol": 1,
+        "VitalikButerin": 1,
+        "ethereumJoseph": 1,
+        "leonardoalt": 1,
+        "WilliamShatner": 1,
+        "simondlr": 1,
+        "ljxie": 1,
+        "lopp": 1,
+        "ETHBerlin": 1,
+        "Aion_Network": 1,
+        "bmann": 1,
+        "hosseeb": 1,
+        "MarkBeylin": 1,
+        "icowid": 1,
+        "dhruvbansal": 1,
+        "CremeDeLaCrypto": 1
+    },
+    "users_retweeted": [
+        "lex_node",
+        "numerai",
+        "ethlorenz",
+        "naval",
+        "PolymathNetwork",
+        "AdamAID",
+        "cdetrio",
+        "coinlaw_io",
+        "cryptodactyle",
+        "MohamedFFouda",
+        "FISSIONcodes",
+        "SecTokenNetwork",
+        "benjamistan",
+        "ethchris",
+        "z0age",
+        "_jillruth",
+        "amer__ameen",
+        "richardcraib",
+        "initc3org",
+        "phildaian",
+        "notjk",
+        "ameensol",
+        "VitalikButerin",
+        "ethereumJoseph",
+        "leonardoalt",
+        "WilliamShatner",
+        "simondlr",
+        "ljxie",
+        "lopp",
+        "ETHBerlin",
+        "Aion_Network",
+        "bmann",
+        "hosseeb",
+        "MarkBeylin",
+        "icowid",
+        "dhruvbansal",
+        "CremeDeLaCrypto"
+    ]
+}

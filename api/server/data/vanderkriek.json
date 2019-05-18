@@ -1,0 +1,2736 @@
+{
+    "is_complete": true,
+    "username": "vanderkriek",
+    "retweeted": {
+        "1118252236394647553": {
+            "id": "1118252236394647553",
+            "text": "So, who is coming to @ETHCapeTown and wants to play around with SNARKs? We're on our way there to help!  #zksnarks #ethereum #buidl @ETHGlobalpic.twitter.com/AYHZuZ3DTr",
+            "username": "zokratesproject",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1117083303561928705": {
+            "id": "1117083303561928705",
+            "text": "Elon Musk: *Is CEO of SpaceX, Tesla*\nPeople: \"Elon made electric cars! Elon's taking us to Mars! Elon, Elon, Elon!\"\nKatie Bouman: *Invents an algorithm to see black holes, leads the team that executes it*\nPeople: \"hold up I mean it was a team effort, why does she get the praise?\"",
+            "username": "backslash",
+            "num_likes": 55708,
+            "num_retweets": 17299,
+            "num_replies": 314
+        },
+        "1116815101242302464": {
+            "id": "1116815101242302464",
+            "text": "We just released ZoKrates 0.4.4, and it features an elliptic curve! Read more here on what becomes possible:https://medium.com/zokrates/building-identity-linked-zksnarks-with-zokrates-a36085cdd40\u00a0\u2026",
+            "username": "zokratesproject",
+            "num_likes": 247,
+            "num_retweets": 96,
+            "num_replies": 6
+        },
+        "1105494215381913601": {
+            "id": "1105494215381913601",
+            "text": "Praet: As a central bank, we can create money to buy assets #AskECBhttps://twitter.com/Gianluca844/status/1104031370869907456\u00a0\u2026",
+            "username": "ecb",
+            "num_likes": 1815,
+            "num_retweets": 1338,
+            "num_replies": 749
+        },
+        "1103593584987639808": {
+            "id": "1103593584987639808",
+            "text": "Details about the inner workings of the new #Yul optimizer in #Solidity: https://github.com/ethereum/solidity/blob/d4346fbc7a3f8eb208a1588f6058f32cab8482f0/libyul/optimiser/README.md\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1102303415168831496": {
+            "id": "1102303415168831496",
+            "text": "A @Google Pixel 3 mobile phone is over 400 *thousand* times more powerful than the Apollo guidance module that landed on the moon. When you ask it to turn on your bedroom light, do you think it needs Google's AI to process that? No, it doesn't. Google's AI needs *you* to evolve!",
+            "username": "peter_szilagyi",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1097476449097998339": {
+            "id": "1097476449097998339",
+            "text": "https://medium.com/@gballet/ewasm-1-x-precompiles-part-1-66ee7e7345d1\u00a0\u2026",
+            "username": "gballet",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1092547649239240706": {
+            "id": "1092547649239240706",
+            "text": "ZoKrates is a toolbox to enable developers to use zkSNARKs and verify them on a blockchain. Zero-knowledge proofs (ZKP) are an exciting mechanism to enhance both privacy and scalability of today\u2019s blockchain networks.https://gitcoin.co/grants/29/zokrates\u00a0\u2026",
+            "username": "gitcoin",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1091120278736760832": {
+            "id": "1091120278736760832",
+            "text": "I'm happy to announce Sonic, a new zero-knowledge SNARK developed in collaboration with Mary Maller, Markulf Kohlweiss and Sarah Meiklejohn. https://ia.cr/2019/099\u00a0",
+            "username": "ebfull",
+            "num_likes": 426,
+            "num_retweets": 158,
+            "num_replies": 10
+        },
+        "1087397304154365952": {
+            "id": "1087397304154365952",
+            "text": "Annonce officielle de la Community Blockchain Week ! Une semaine enti\u00e8re d\u2019\u00e9v\u00e9nements communautaires (lire : de qualit\u00e9 et peu chers / gratuits) d\u00e9di\u00e9s \u00e0 la blockchain du 4 au 10 mars 2019. Rendez-vous sur http://blockchainweek.fr\u00a0 pour les d\u00e9tails.https://twitter.com/ComBlockWeek/status/1087394450802913282\u00a0\u2026",
+            "username": "Ethereum_France",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1086273153117040640": {
+            "id": "1086273153117040640",
+            "text": "DeFi works because it is faster than the banking industry. Transactions take minutes instead of days.\n\nWeb 3 is tough because it is slower than the Internet. Applications take minutes instead of milliseconds.",
+            "username": "ricburton",
+            "num_likes": 182,
+            "num_retweets": 37,
+            "num_replies": 7
+        },
+        "1085291959390998534": {
+            "id": "1085291959390998534",
+            "text": "[SECURITY ALERT] #Constantinople upgrade is temporarily postponed out of caution following a consensus decision by #Ethereum developers, security professionals and other community members. More information and instructions are below.https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 1561,
+            "num_retweets": 1006,
+            "num_replies": 223
+        },
+        "1085282750897229825": {
+            "id": "1085282750897229825",
+            "text": "Emergency Geth release v1.8.21 out to postpone the Constantinople #Ethereum hard fork! See release notes for details!https://github.com/ethereum/go-ethereum/releases/tag/v1.8.21\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 192,
+            "num_retweets": 103,
+            "num_replies": 11
+        },
+        "221966225771741184": {
+            "id": "221966225771741184",
+            "text": "\"Your data isn\u2019t even in the picture. We are simply not interested in any of it.\" http://blog.whatsapp.com/?p=245\u00a0 /ht @zooko",
+            "username": "msimoni",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1059609680006144000": {
+            "id": "1059609680006144000",
+            "text": "To sort a vector, you would ordinarily have to\n\nlet mut v: Vec<T> = Iterator::collect();\nv.sort();\nlet v = v; // freeze\n\nBut tap lets you do\n\nlet v: Vec<T> = Iterator::collect().tap(|v| v.sort());\n\nno temporary binding needed",
+            "username": "myrrlyn",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1058341371000614912": {
+            "id": "1058341371000614912",
+            "text": ".@leanthebean - SNARKS Starks bulletproofs explained in rapid speed by Elena Nadolinski using ZoKrates.\n#devcon4 #devconpic.twitter.com/vbujqvLP9p",
+            "username": "riat_at",
+            "num_likes": 61,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1047873843023548417": {
+            "id": "1047873843023548417",
+            "text": "Via community decision, we've delayed the #Ethereum Ropsten testnet Constantinople hard fork by 1 epoch to block #4230000 (+5 days) to allow clients to implement, test and release an update to CREATE2, countering a recently found EVM DoS attack vector.https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1014.md#gas-cost\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 235,
+            "num_retweets": 107,
+            "num_replies": 41
+        },
+        "1043463341337989122": {
+            "id": "1043463341337989122",
+            "text": "POC of offchain BTC header validation using zk-SNARKshttps://github.com/BromleyLabs/BTCSnarkRelay\u00a0\u2026",
+            "username": "ZugZwang0",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1029450005663240197": {
+            "id": "1029450005663240197",
+            "text": "10/The core problem here is that most people just don't think in terms of disembodies ideas. \n\nThey attach ideas to people, to groups, to tribes, to movements.",
+            "username": "Noahpinion",
+            "num_likes": 125,
+            "num_retweets": 17,
+            "num_replies": 5
+        },
+        "1027264939931721728": {
+            "id": "1027264939931721728",
+            "text": "A self-hosted zero knowledge proof compiler that proves in zero knowledge that it was compiled with a previous version of the same compiler",
+            "username": "bascule",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1026979337613058053": {
+            "id": "1026979337613058053",
+            "text": "Finally published the libsnark zk-SNARK tutorial I wrote in collaboration with Sam Mayo! Take a look! https://github.com/christianlundkvist/libsnark-tutorial\u00a0\u2026",
+            "username": "ChrisLundkvist",
+            "num_likes": 74,
+            "num_retweets": 24,
+            "num_replies": 5
+        },
+        "1025454322866442241": {
+            "id": "1025454322866442241",
+            "text": "You can say whatever you want about cryptocurrencies, but the number of amazing pairing-based crypto libraries they\u2019ve inspired basically makes it all worthwhile.",
+            "username": "matthew_d_green",
+            "num_likes": 150,
+            "num_retweets": 32,
+            "num_replies": 8
+        },
+        "1025574205205532673": {
+            "id": "1025574205205532673",
+            "text": "https://github.com/barryWhiteHat/baby_jubjub\u00a0\u2026 candidate jubjub curve for altbn128. Will allow elliptic curve cryptography inside a zksnark on ethereum. Plz review",
+            "username": "barrywhitehat",
+            "num_likes": 106,
+            "num_retweets": 25,
+            "num_replies": 7
+        },
+        "1020316577928015872": {
+            "id": "1020316577928015872",
+            "text": "@lucasvo of #Centrifuge on using a P2P privacy layer, Merkle tree precise proofs, and zkSnarks to protect users as  Dapps scale towards mass adoption. #dappconpic.twitter.com/StDqGXZDZc",
+            "username": "dappcon_berlin",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1019946478628982784": {
+            "id": "1019946478628982784",
+            "text": "#ePrint DIZK: A Distributed Zero Knowledge Proof System: H Wu, W Zheng, A Chiesa, RA Popa, I Stoica https://ia.cr/2018/691\u00a0",
+            "username": "IACR_News",
+            "num_likes": 45,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1019240915641294849": {
+            "id": "1019240915641294849",
+            "text": "Right now, instant finality + network multicast + propose/evaluate would be easy. PoW or VDF based consensus will be hard. In Polkadot PoC-3 we're moving to something much better for finality and that should open up more opportunities in substrate as well.",
+            "username": "rphmeier",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1015557355742916608": {
+            "id": "1015557355742916608",
+            "text": "Better late than never, on June 26th, I went to Montreal to geek out for a week on snarks and all things privacy. @ZcashFoundation put on a great conference! https://medium.com/@lucasvo/the-state-of-zapps-first-edition-zcon0-conference-notes-51b53ac52a88\u00a0\u2026 #zcon0",
+            "username": "lucasvo",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1014189019264151554": {
+            "id": "1014189019264151554",
+            "text": "There are definitely ways to make it more difficult to do some things technologically (eg. Zcash privacy means you can't selectively censor). But there are limits, eg. it will always be possible to make a soft fork that bans any messages not signed with a gov-approved public key.",
+            "username": "VitalikButerin",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1013766386861125632": {
+            "id": "1013766386861125632",
+            "text": "If everyone else gives talks which only demonstrate that the speaker knows more than the audience and other speakers, there is immense pressure to conform to that or feel like an imposter. But if we don't inform people in talks, the field cannot grow, progress, or advance.",
+            "username": "secparam",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1011635862650662912": {
+            "id": "1011635862650662912",
+            "text": "Props to #Zcon0 for back to back women-led sessions on the state of @zcashco real-world UX (LINDA Naeun Lee) and analysis of systemic anonymity in practice (Mary Miller, UCL). Very actionable conclusions for community improvement. pic.twitter.com/hlSFO701dx",
+            "username": "AmberBaldet",
+            "num_likes": 80,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "1010223449707462656": {
+            "id": "1010223449707462656",
+            "text": "I hate \"debate\". Debate is how to transform the positive-sum game of collaborative thinking into a zero-sum game.",
+            "username": "zooko",
+            "num_likes": 1220,
+            "num_retweets": 220,
+            "num_replies": 65
+        },
+        "1009408938071207937": {
+            "id": "1009408938071207937",
+            "text": "DAPP: UX & Adoption unconf is happening in Prague @InstituteCrypto, on June 30! \n BUIDLERs onboard\n Venue rented\n Food ordered\nSee the event details: https://www.eventbrite.com/e/dapp-dapps-adoption-paralelni-polis-tickets-45977833939\u00a0\u2026\n\nOpening additional 25 slots for more #BUIDL -ers via @noblocknoparty",
+            "username": "JosefJelacic",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1004471335488122880": {
+            "id": "1004471335488122880",
+            "text": "Blockchain world can learn a lot from p2p file sharing era\n\n Incentive issues (most shared NOTHING, tons of fake files + viruses)\n Lots of attempted market mechanisms (from game theory to tokens) to fix incentives\n Monetization lessons\n Forking vs governance\n\nThread ",
+            "username": "backus",
+            "num_likes": 567,
+            "num_retweets": 201,
+            "num_replies": 21
+        },
+        "999936081708703744": {
+            "id": "999936081708703744",
+            "text": "Hello @TwitterSupport\nYou have shut down @AssethFR because \"you don't have the legal age to consent to GDPR\"\nAsseth is a non profit organization, not an individual\nCan you help?\n#GDPRpic.twitter.com/H5nIiCO5qh",
+            "username": "jdetychey",
+            "num_likes": 33,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "996464619962224641": {
+            "id": "996464619962224641",
+            "text": "Way to miss the entire point #Consensus2018pic.twitter.com/iCbhalmvER \u2013 at New York Hilton Midtown",
+            "username": "danrobinson",
+            "num_likes": 629,
+            "num_retweets": 89,
+            "num_replies": 29
+        },
+        "989184815340535808": {
+            "id": "989184815340535808",
+            "text": "decentralize",
+            "username": "kanyewest",
+            "num_likes": 38491,
+            "num_retweets": 9742,
+            "num_replies": 1424
+        },
+        "989122808658702341": {
+            "id": "989122808658702341",
+            "text": "We're even going a step further: we are not going to write contracts unless we really have to and just stick to building core tech.",
+            "username": "MaciejHirsz",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "984838030862311425": {
+            "id": "984838030862311425",
+            "text": "Mmh, that Franck V... Maybe a close relative of yours @GuyKawasaki ? Great use of stock images btw @bnbsitter #fail ;)pic.twitter.com/ytsApWRf1o",
+            "username": "Loreleithinks",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "981086748087173120": {
+            "id": "981086748087173120",
+            "text": "34. \"If you solve lightning, you also solve the discrete log problem\". My bulls*** meter is spinning so fast that figuring out the next time it will hit zero *is* a hard discrete log problem.",
+            "username": "VitalikButerin",
+            "num_likes": 484,
+            "num_retweets": 62,
+            "num_replies": 7
+        },
+        "955899282229358597": {
+            "id": "955899282229358597",
+            "text": "The future is an ocean of fluid, modular, interoperable, relationships spontaneously forming and disintegrating between human and nonhuman parties without any gatekeepers. It is fractalized autonomous trust.",
+            "username": "malloc8",
+            "num_likes": 258,
+            "num_retweets": 89,
+            "num_replies": 13
+        },
+        "975014755122458624": {
+            "id": "975014755122458624",
+            "text": "Alg\u00f6rithms, IKEA style: https://idea-instructions.com/\u00a0",
+            "username": "pmylund",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "974291778139549696": {
+            "id": "974291778139549696",
+            "text": "The meme of the #blockchain century arrived secretly to our inbox. Pure gold.pic.twitter.com/fXO0gRUh64",
+            "username": "polkadotnetwork",
+            "num_likes": 533,
+            "num_retweets": 138,
+            "num_replies": 43
+        },
+        "968099345580154880": {
+            "id": "968099345580154880",
+            "text": "J-10 avant l\u2019 #EthCC, LA conf\u00e9rence Ethereum fran\u00e7aise ! https://www.ethereum-france.com/j-10-avant-lethcc-la-conference-ethereum-francaise/\u00a0\u2026pic.twitter.com/lV2L2gtFX7",
+            "username": "Ethereum_France",
+            "num_likes": 26,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "956314804456755201": {
+            "id": "956314804456755201",
+            "text": "L'Histoire retiendra que la 1re fois qu'un Pr\u00e9sident fran\u00e7ais a parl\u00e9 publiquement des monnaies virtuelles, c'\u00e9tait pour les d\u00e9noncer comme \"les acteurs les plus d\u00e9r\u00e9gul\u00e9s et d\u00e9r\u00e9gulateurs de tout le syst\u00e8me, les plus agressifs sur les march\u00e9s financiers\"https://twitter.com/bfmbusiness/status/956218338035884034\u00a0\u2026",
+            "username": "Clemnt_Jeanneau",
+            "num_likes": 81,
+            "num_retweets": 56,
+            "num_replies": 21
+        },
+        "954995968713388032": {
+            "id": "954995968713388032",
+            "text": "Common misconception, really. \n\nFinality actually allows for much smaller budget for security than assets being traded on the chain",
+            "username": "VladZamfir",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "949719330681507840": {
+            "id": "949719330681507840",
+            "text": "@floatdrop Hi, from the looks of it some of your npm packages are no longer on npm (create-error-class, duplexer3, etc.). firebase-tools are depending on them and it would be great if they were re-uploaded.",
+            "username": "OlssonHenriks",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "948706387491786752": {
+            "id": "948706387491786752",
+            "text": "Using #Meltdown to steal passwords in real time  #intelbug #kaiser #kpti /cc @mlqxyz @lavados @StefanMangard @yuvalyarom https://meltdownattack.com/\u00a0pic.twitter.com/JbEvQSQraP",
+            "username": "misc0110",
+            "num_likes": 9262,
+            "num_retweets": 9959,
+            "num_replies": 134
+        },
+        "948516848445902848": {
+            "id": "948516848445902848",
+            "text": "Listening to @zooko share his view on \"Why Privacy Matters\" #PrivacyForEveryone @LeastAuthority @zcashco @DekryptCapitalpic.twitter.com/PFx1alWRIt",
+            "username": "1HowardWu",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "945330540940374016": {
+            "id": "945330540940374016",
+            "text": "I can contrive to plug that hole by replacing >5 with \"nonempty digit subsets of 27\", where I define \"digit subset\" as \"number that uses a subset of the digits of the number in their proper places\", eg. digit subsets of 125 are 0, 100, 20, 5, 120, 105, 25, 125. Only 7, 20, 27 fit",
+            "username": "VitalikButerin",
+            "num_likes": 101,
+            "num_retweets": 15,
+            "num_replies": 43
+        },
+        "942306684822867968": {
+            "id": "942306684822867968",
+            "text": "For most interesting engineering problems there are no solutions, just trade offs (e.g. CAP theorem). Nice to see a more mature #blockchain discussion.",
+            "username": "danielselman",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "935881302812844032": {
+            "id": "935881302812844032",
+            "text": "Bullish news for Ethereum: I just got layoff from my dayjob.",
+            "username": "iurimatias",
+            "num_likes": 75,
+            "num_retweets": 3,
+            "num_replies": 11
+        },
+        "933154006397882369": {
+            "id": "933154006397882369",
+            "text": "Yes, please tell my boss that you would like me to transition from social media intern to dir. of platform engineering.  I keep asking but he goes on about \"security\" and other \"qualifications\", whatever that means.",
+            "username": "krakenfx",
+            "num_likes": 832,
+            "num_retweets": 128,
+            "num_replies": 41
+        },
+        "931109851698167808": {
+            "id": "931109851698167808",
+            "text": "Though it's important to structure the trolling so bystanders see the full context and don't accidentally think you said something that you didn't actually intend to say. That was my epic fail 2 days ago.\n\nIn any case congrats on getting on the same pedestal as Satya and Sundar!",
+            "username": "VitalikButerin",
+            "num_likes": 45,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "930114282544685056": {
+            "id": "930114282544685056",
+            "text": "It takes all my effort to try to think about blockchain stuff objectively. I probably fail.https://twitter.com/mmay3r/status/930109405286109184\u00a0\u2026",
+            "username": "maurelian_",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "928244319760220160": {
+            "id": "928244319760220160",
+            "text": "8 immutable arrays operations you should know  #javascript #es6pic.twitter.com/DdheeX23Mt",
+            "username": "lukejacksonn",
+            "num_likes": 2714,
+            "num_retweets": 1154,
+            "num_replies": 37
+        },
+        "927916291498835970": {
+            "id": "927916291498835970",
+            "text": "Sorry.",
+            "username": "devops199",
+            "num_likes": 146,
+            "num_retweets": 45,
+            "num_replies": 10
+        },
+        "926874443980460033": {
+            "id": "926874443980460033",
+            "text": "3/ \"Therefore, we store reputation generally off-chain, then do pair-wise merkle hashes to get a 32-bit reputation root.\" #Devcon3",
+            "username": "RhysLindmark",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "925893395691769856": {
+            "id": "925893395691769856",
+            "text": "crytoeconomics:\n1st rule in crypto: don't roll your own\n1st rule in econ: don't try to predict market behaviour\n#ethereum #devcon3 #PoS",
+            "username": "jdetychey",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "920614153622048768": {
+            "id": "920614153622048768",
+            "text": "We\u2019re excited to be going to #Devcon3  @ethereumproject, our fourth one! Will you be there? Let us know! #blockchain #blockchainforgood",
+            "username": "ProvenanceTech",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "919889936370864128": {
+            "id": "919889936370864128",
+            "text": "ZoKrates - a #zkSNARK toolbox for #ethereum Jacob Eberhardt\nhttps://www.youtube.com/watch?v=_QyXreu64kQ&index=12&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi\u00a0\u2026 #byzantium",
+            "username": "ethchris",
+            "num_likes": 22,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "910538108982013952": {
+            "id": "910538108982013952",
+            "text": "I've been offered as much as 1 BTC per tweet to promote questionable ICOs. Something to keep in mind when you see folks pumping such ICOs.",
+            "username": "lopp",
+            "num_likes": 1724,
+            "num_retweets": 489,
+            "num_replies": 105
+        },
+        "899690881518907393": {
+            "id": "899690881518907393",
+            "text": "Wow, someone caught the #SolarEclipse2017 mid flight! Breathtaking. pic.twitter.com/gzNCNiaWVR",
+            "username": "TheRickyDavila",
+            "num_likes": 417362,
+            "num_retweets": 224380,
+            "num_replies": 1852
+        },
+        "887416898325032961": {
+            "id": "887416898325032961",
+            "text": "Shutterstock has a whole series of videos depicting a cryptocurrency trader watching and reacting the market in his boxerspic.twitter.com/HxlO1TxnXs",
+            "username": "NeerajKA",
+            "num_likes": 1528,
+            "num_retweets": 528,
+            "num_replies": 45
+        },
+        "886936799695818752": {
+            "id": "886936799695818752",
+            "text": "Website has been hacked.",
+            "username": "Blox_Official",
+            "num_likes": 529,
+            "num_retweets": 739,
+            "num_replies": 166
+        },
+        "886997735911546880": {
+            "id": "886997735911546880",
+            "text": "1/ Alright Crappy Token Creators listen up. I am 100% out of patience. It's 10am. I haven't slept. And you are going to get to hear me rant.",
+            "username": "myetherwallet",
+            "num_likes": 708,
+            "num_retweets": 303,
+            "num_replies": 47
+        },
+        "885004925817716736": {
+            "id": "885004925817716736",
+            "text": "C is awesome because it defers problems to runtime, at which point people might not be able to find me",
+            "username": "johnregehr",
+            "num_likes": 1093,
+            "num_retweets": 524,
+            "num_replies": 11
+        },
+        "885129213686276096": {
+            "id": "885129213686276096",
+            "text": "What\n\nif\n\n the\n\n Internet\n\n was\n\n so\n\n slow\n\n it\n\n loaded\n\n one\n\n word\n\n at\n\n a\n\n time?\n\n Battle for #NetNeutrality http://battleforthenet.com\u00a0",
+            "username": "internetofshit",
+            "num_likes": 2399,
+            "num_retweets": 2216,
+            "num_replies": 57
+        },
+        "884664978208436224": {
+            "id": "884664978208436224",
+            "text": "UK blockchain startup @ProvenanceHQ closes $800k Seed http://bit.ly/2u6OxFM\u00a0pic.twitter.com/jnUWpCQYzb",
+            "username": "UKTNofficial",
+            "num_likes": 16,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "871842008771567618": {
+            "id": "871842008771567618",
+            "text": "Russia takes the worst excesses of capitalism to the extreme, so here's a vending machine in a mall for buying Likes for your Instagram picspic.twitter.com/ZZt189opgd",
+            "username": "Alexey__Kovalev",
+            "num_likes": 7419,
+            "num_retweets": 5168,
+            "num_replies": 190
+        },
+        "874109233867968512": {
+            "id": "874109233867968512",
+            "text": "\"We don't do politics.\" is politics. \"There's no governance mechanism.\" is a governance mechanism. \"No decisions are made.\" is a decision.",
+            "username": "zooko",
+            "num_likes": 1256,
+            "num_retweets": 552,
+            "num_replies": 22
+        },
+        "871494761860939776": {
+            "id": "871494761860939776",
+            "text": "The amount of fake outrage over a deliberate misreading of this comment astounds me.https://twitter.com/vitalikbuterin/status/871263595593572353\u00a0\u2026",
+            "username": "nicksdjohnson",
+            "num_likes": 38,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "863031118924271616": {
+            "id": "863031118924271616",
+            "text": "Discover the story behind the first #blockchain tracked garments, a beautiful film by @FIALondon: https://youtu.be/2mkxiZ1Q9t4\u00a0 #supplychain",
+            "username": "ProvenanceHQ",
+            "num_likes": 22,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "862626062865494020": {
+            "id": "862626062865494020",
+            "text": "The future of brand trust: fighting opacity in supply chains using blockchain for transparency & traceability. @ProvenanceHQ #EUBlockchainpic.twitter.com/4cbbrHMnCt",
+            "username": "marcusodair",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "862576799959724032": {
+            "id": "862576799959724032",
+            "text": "Launch day! Fashion tracked on the #blockchain w/ @JarlgaardLondon @NelianFuenmayor @FIALondon @LCFLondon:https://www.forbes.com/sites/rachelarthur/2017/05/10/garment-blockchain-fashion-transparency/\u00a0\u2026",
+            "username": "ProvenanceHQ",
+            "num_likes": 30,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "862620153657397248": {
+            "id": "862620153657397248",
+            "text": "This afternoons panel at #EUBlockchain with @EvaKaili , @BlokurPhil , @ploum , @SonnetFrancois , @vanderkriek , @blocktav and @heikohees !pic.twitter.com/njsJjQVGol",
+            "username": "DavidGSmits",
+            "num_likes": 8,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "849884804485132288": {
+            "id": "849884804485132288",
+            "text": "@FINYEAR. L.Leloup s'autoproclame expert #blockchain  ET mentionne #ONECOIN sans le d\u00e9noncer comme SCAM ? Dangereux & Inacceptable ! https://twitter.com/CryptoFR/status/849874706534715392\u00a0\u2026",
+            "username": "Saj_JZ",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "845268178565521408": {
+            "id": "845268178565521408",
+            "text": "Happy Friday! The @ProvenanceHQ gang is seeking a new office in London, anyone got a home for us? Looking for 8-10 desks.",
+            "username": "jessibaker",
+            "num_likes": 8,
+            "num_retweets": 14,
+            "num_replies": 7
+        },
+        "836637716334903296": {
+            "id": "836637716334903296",
+            "text": "Amazon S3 currently making the case for the need of decentralized platforms such as ethereum's swarm",
+            "username": "iurimatias",
+            "num_likes": 44,
+            "num_retweets": 28,
+            "num_replies": 6
+        },
+        "834713067476938752": {
+            "id": "834713067476938752",
+            "text": "Researchers exfiltrate data by blinking the LEDs on the hard driveshttp://securityaffairs.co/wordpress/56583/breaking-news/data-exfiltration-hdd-leds.html\u00a0\u2026",
+            "username": "Dinosn",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "812261682332450816": {
+            "id": "812261682332450816",
+            "text": "Happy Holidays from all of us at Provenance! Thank you for an amazing year!pic.twitter.com/LHW6FPVVHt",
+            "username": "ProvenanceHQ",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "796752858880348160": {
+            "id": "796752858880348160",
+            "text": "Want to help build a brighter future? Provenance is raising a round of investment #socent #startuphttps://www.provenance.org/news/us/join-us-in-building-transparent-future/\u00a0\u2026",
+            "username": "ProvenanceHQ",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "795663593689808896": {
+            "id": "795663593689808896",
+            "text": "Our @pollsterpolls model gives @HillaryClinton a 98.1% chance of winning the presidency http://elections.huffingtonpost.com/2016/forecast/president\u00a0\u2026pic.twitter.com/RcNnoTqdke",
+            "username": "HuffPost",
+            "num_likes": 10394,
+            "num_retweets": 11703,
+            "num_replies": 3099
+        },
+        "794611733520351232": {
+            "id": "794611733520351232",
+            "text": "The Dublin Blockchain Hackathon is about to start! #blockchain #chainhackpic.twitter.com/d5lw6FOErP",
+            "username": "ProvenanceTech",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "791480088931946496": {
+            "id": "791480088931946496",
+            "text": "We also got a Ledger as a wedding gift bc they're now available in Amazon. The message is what makes it  @LedgerHQ #ethereum #thatgeekshitpic.twitter.com/7fnt4S1TSd",
+            "username": "myetherwallet",
+            "num_likes": 27,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "791015949285613568": {
+            "id": "791015949285613568",
+            "text": "Le Mauve Paper #ethereum 2.0 de @VitalikButerin traduit int\u00e9gralement en fran\u00e7ais par @jeanzundel !https://www.ethereum-france.com/%EF%BB%BFethereum-2-0-mauve-paper-traduction-francaise/\u00a0\u2026",
+            "username": "Ethereum_France",
+            "num_likes": 15,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "785532307805470720": {
+            "id": "785532307805470720",
+            "text": "\"La #blockchain peut rendre la #supplychain de la mode plus transparente\" Thibaut Schaeffer @vanderkriek @ProvenanceHQ (#FTWeek @NUMAparis)",
+            "username": "IfmParis",
+            "num_likes": 13,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "783674573174796289": {
+            "id": "783674573174796289",
+            "text": "Provenance in Shanghai with @vanderkriek and the #ethereum community #devcon2https://www.provenance.org/news/technology/provenance-blockchain-update-devcon2/\u00a0\u2026",
+            "username": "ProvenanceTech",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "780686439298306052": {
+            "id": "780686439298306052",
+            "text": "NEW! State of #Ethereum @MeherRoy is back from DevCon and brought back his impressions from the conferencehttp://youtu.be/fZEgDubXtpU\u00a0",
+            "username": "epicenterbtc",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "779157239470972932": {
+            "id": "779157239470972932",
+            "text": "The lecture on Zero-Knowledge was a great success! At the end, the students knew nothing more than when class began. #obligatory",
+            "username": "socrates1024",
+            "num_likes": 70,
+            "num_retweets": 26,
+            "num_replies": 5
+        },
+        "779046558218190848": {
+            "id": "779046558218190848",
+            "text": "On Ethereum EXTCODESIZE attack: \"What Doesn\u2019t Kill You ... \". Recall Bitcoin in 2013 was also vulnerable to slow disk access (CVE-2013-2293)",
+            "username": "SDLerner",
+            "num_likes": 43,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "776429255349665792": {
+            "id": "776429255349665792",
+            "text": "We\u2019re working with @ProvenanceHQ to see if we can use blockchain tech to track our products from supplier to shophttp://coop.uk/2cqljv5\u00a0",
+            "username": "CoopDigital",
+            "num_likes": 60,
+            "num_retweets": 32,
+            "num_replies": 2
+        },
+        "775010289511178240": {
+            "id": "775010289511178240",
+            "text": "Team RideETH - creating safe driving incentives in car sharing! #hackETHon #ethereumpic.twitter.com/jhG535xCqc",
+            "username": "GeorgeAHallam",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "770012108788469761": {
+            "id": "770012108788469761",
+            "text": "\"USE YOUR BRAIN, GUYS!\" - @leashlesspic.twitter.com/WMedMI10wo",
+            "username": "fluffypony",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "767760434900369409": {
+            "id": "767760434900369409",
+            "text": "\u201cThe Death of Cash means the Rise of Something Else\u201d http://thelongandshort.org/society/war-on-cash\u00a0\u2026 Brilliant commentary by @Suitpossum",
+            "username": "TebeoTeo",
+            "num_likes": 8,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "760435431943053312": {
+            "id": "760435431943053312",
+            "text": "Wonder how much @McDonalds paid someone to copy my video. I didn't even get paid to make the originalpic.twitter.com/XGWjHQq0j6",
+            "username": "cyriakharris",
+            "num_likes": 31045,
+            "num_retweets": 15945,
+            "num_replies": 774
+        },
+        "760084943397683200": {
+            "id": "760084943397683200",
+            "text": "Designer looking for a new adventure? We\u2019re hiring a design intern! Digital nomads welcome: http://buff.ly/2abK9w6\u00a0 #designjobs #internship",
+            "username": "ProvenanceHQ",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "758762006149226496": {
+            "id": "758762006149226496",
+            "text": "Zcashers contribute \"Zerocash-on-Ethereum\" prototype to the world's open source code:https://z.cash/blog/zksnarks-in-ethereum.html\u00a0\u2026",
+            "username": "zooko",
+            "num_likes": 122,
+            "num_retweets": 85,
+            "num_replies": 4
+        },
+        "753126057973342208": {
+            "id": "753126057973342208",
+            "text": "A Wartortle just showed up on Santa Monica Pier and HUNDREDS of people ran for it. Absolutely insane #PokemonGOpic.twitter.com/ySfjWMaNYh",
+            "username": "Strippin",
+            "num_likes": 25020,
+            "num_retweets": 11738,
+            "num_replies": 409
+        },
+        "747941168726454274": {
+            "id": "747941168726454274",
+            "text": "Confirmed, meetup/community talks, open to the public:\n\nParis Oct 11\nZurich Oct 26\n\nMore details soon",
+            "username": "aantonop",
+            "num_likes": 13,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "744911944558215168": {
+            "id": "744911944558215168",
+            "text": "Asked cat for his actual opinion on EU & he thinks we should repeatedly ask to leave, then when the door opens just sit there & stare at it",
+            "username": "Cavalorn",
+            "num_likes": 6429,
+            "num_retweets": 5516,
+            "num_replies": 92
+        },
+        "748453815599374336": {
+            "id": "748453815599374336",
+            "text": "We're at #FutureShop2016 showing #blockchain tracked tuna and our #transparency tools for #brands! Come say hello!pic.twitter.com/NgKPwlwort",
+            "username": "ProvenanceHQ",
+            "num_likes": 16,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "746335561942704129": {
+            "id": "746335561942704129",
+            "text": "Retour d'exp\u00e9rience #LeBlockFest: un festival p\u00e9dagogique sur Bitcoin, Ethereum et Hyperledger. http://www.youtube.com/watch?v=6MI8V-Nj7v0&sns=tw\u00a0\u2026 via @youtube",
+            "username": "lucacomparini",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "744983051353133057": {
+            "id": "744983051353133057",
+            "text": "In other happy #ethereum non-#dao news. @zsfelfoldi told me we can probably start doing Light Client test later this week",
+            "username": "jeffehh",
+            "num_likes": 83,
+            "num_retweets": 41,
+            "num_replies": 5
+        },
+        "744828783786496000": {
+            "id": "744828783786496000",
+            "text": "\"La supply chain transparente\" sur la #blockchain #ethereum par @vanderkriek, @ProvenanceHQ #blockchaindaypic.twitter.com/mpLHCo6Hok",
+            "username": "lachaintech",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "743921230286360576": {
+            "id": "743921230286360576",
+            "text": "We've created a multi-billion dollar industry without putting any money/effort in basic blockchain research.https://twitter.com/el33th4xor/status/743883826976395265\u00a0\u2026",
+            "username": "muneeb",
+            "num_likes": 32,
+            "num_retweets": 14,
+            "num_replies": 5
+        },
+        "736942877486555136": {
+            "id": "736942877486555136",
+            "text": "deja vu is just a hash collision on insertion to your life experience store",
+            "username": "fioroco",
+            "num_likes": 577,
+            "num_retweets": 420,
+            "num_replies": 6
+        },
+        "734955252240158720": {
+            "id": "734955252240158720",
+            "text": "We're back in Indonesia! Testing #blockchain based #traceability on pole and line and hand line caught tuna #techpic.twitter.com/VwoJVMdCOd",
+            "username": "ProvenanceHQ",
+            "num_likes": 37,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "730375464590684160": {
+            "id": "730375464590684160",
+            "text": "@manuelvalls Democracy is so overrated. #LoiTravail #49al3pic.twitter.com/yadC6ODoVO",
+            "username": "HouseofCards",
+            "num_likes": 16052,
+            "num_retweets": 22394,
+            "num_replies": 381
+        },
+        "726364684949975041": {
+            "id": "726364684949975041",
+            "text": "D\u00e9ploiement du projet The #DAO, \"m\u00e8re de toutes les DAO\" #ethereum #blockchain http://www.ethereum-france.com/deploiement-du-projet-the-dao-mere-de-toutes-les-dao/\u00a0\u2026pic.twitter.com/m1fNGXO1i2",
+            "username": "Ethereum_France",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "724177329052876800": {
+            "id": "724177329052876800",
+            "text": "Fashion brands! Use our #transparency tools for free for 3 mths with code FASHREV2016. Expires in 72hrs! http://buff.ly/1YLjlBq\u00a0 #fashrev",
+            "username": "ProvenanceHQ",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "718105074778517504": {
+            "id": "718105074778517504",
+            "text": "Les monnaies locales, une alternative contre la mauvaise #finance ? http://bit.ly/1TnbGdc\u00a0 #Replay\n#VoxPop @ARTEfrpic.twitter.com/I8SSvKITBo",
+            "username": "VoxPop_ARTE",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "714139076593655808": {
+            "id": "714139076593655808",
+            "text": "Une note parlementaire pour 500M\u20ac \u00e0 investir via le Programme d'Investissements d'Avenir (#PIA) dans la #Blockchainpic.twitter.com/SuZaA9CNaR",
+            "username": "FDorleans",
+            "num_likes": 13,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "710037904186331137": {
+            "id": "710037904186331137",
+            "text": "L\u2019@Europe donne son feu vert r\u00e9glementaire au coavionnage ! Pour plus d'informations : http://bit.ly/1XuuB4G\u00a0pic.twitter.com/jY92SOcEKJ",
+            "username": "Wingly_FR",
+            "num_likes": 9,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "709434094342504448": {
+            "id": "709434094342504448",
+            "text": "Captain\u00a0Train et @thetrainline montent dans le m\u00eame wagon : https://blog.captaintrain.com/11386-captain-train-trainline\u00a0\u2026.pic.twitter.com/iWt7QMk66R",
+            "username": "trainline_fr",
+            "num_likes": 94,
+            "num_retweets": 231,
+            "num_replies": 23
+        },
+        "708097850912186369": {
+            "id": "708097850912186369",
+            "text": "#meetup #ethereum #atelier2 #Democracy @vanderkriek @HCharlanes @CryptoFRpic.twitter.com/t8On4qQfrc",
+            "username": "gregore2112",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "706764101976985600": {
+            "id": "706764101976985600",
+            "text": "[#SaveTheDate] 09/03 - @LaRe_cyclerie \u2014 \"Passez \u00e0 la monnaie locale\" http://www.larecyclerie.com/passez-a-la-monnaie-locale/\u00a0\u2026",
+            "username": "NicolasLoubet",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "703328676583235584": {
+            "id": "703328676583235584",
+            "text": "DEMAIN, r\u00e9alis\u00e9 par Cyril Dion, M\u00e9lanie Laurent, #C\u00e9sar2016 du Meilleur Film Documentairepic.twitter.com/OyubCsNyvF",
+            "username": "Les_Cesar",
+            "num_likes": 149,
+            "num_retweets": 155,
+            "num_replies": 4
+        },
+        "702180445170098176": {
+            "id": "702180445170098176",
+            "text": "And the winner for the #4YFN Awards #IoT is.... @slockitproject Well done guys!!pic.twitter.com/jj0oo2H93T",
+            "username": "4YFN_MWC",
+            "num_likes": 31,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "697738742354874368": {
+            "id": "697738742354874368",
+            "text": "Ethereum C++ Version 1.1.3 Released (crash fix) https://github.com/ethereum/webthree-umbrella/releases/tag/v1.1.3\u00a0\u2026\u00a0#blockchain #CPP",
+            "username": "ethereum",
+            "num_likes": 15,
+            "num_retweets": 43,
+            "num_replies": 2
+        },
+        "697541922718617601": {
+            "id": "697541922718617601",
+            "text": "Atelier #ethereum avec @CryptoFR . \u00c7a code s\u00e9v\u00e8rement!pic.twitter.com/bMqb0veeCu",
+            "username": "FabienChampigny",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "697546659413229568": {
+            "id": "697546659413229568",
+            "text": "Personne ne semble vouloir partir avant d'avoir finalis\u00e9 ce contrat \u00abDemocracy\u00bb. Bon premier meetup #atelierethereumpic.twitter.com/mEEO6c4Bej",
+            "username": "CryptoFR",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "695572342068666369": {
+            "id": "695572342068666369",
+            "text": "@BlockchainFra et @CryptoFR, avec @vanderkriek @HCharlanes, organisent le 10/02 #meetup #ethereum #d\u00e9mocratiehttp://www.meetup.com/fr-FR/blockchains/events/228612405/\u00a0\u2026",
+            "username": "BlockchainFra",
+            "num_likes": 4,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "668529523613372416": {
+            "id": "668529523613372416",
+            "text": "Doge is E-God spelled backwards.",
+            "username": "VitalikButerin",
+            "num_likes": 106,
+            "num_retweets": 27,
+            "num_replies": 7
+        },
+        "651190714198454276": {
+            "id": "651190714198454276",
+            "text": "It's game week! #GoBears #BeatUtahpic.twitter.com/LbR3xrz6KH",
+            "username": "CalFootball",
+            "num_likes": 38,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "647698198128128001": {
+            "id": "647698198128128001",
+            "text": "sup little bro @justinbieber",
+            "username": "BAMBOUNOU",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "646800017127161856": {
+            "id": "646800017127161856",
+            "text": ".@L2LBerkeley alums @Feet_Me and @prynt met with French President @Polytechnique http://www.polytechnique.edu/fr/content/francois-hollande-rencontre-les-entrepreneurs-de-polytechnique\u00a0\u2026",
+            "username": "BerkeleyITS",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "624896977386500097": {
+            "id": "624896977386500097",
+            "text": "What would you dream to do with your time if you didn't have to work? Interesting talk on #basicincome at #sensecamppic.twitter.com/yWmhl1cFLP",
+            "username": "Loreleithinks",
+            "num_likes": 10,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "604211323946340352": {
+            "id": "604211323946340352",
+            "text": "Unsere #Energiegr\u00fcnder der Woche: @sunridewithus bietet Software f\u00fcrdezentrale Stromversorgung http://bit.ly/1J537z6\u00a0",
+            "username": "RKW_Experten",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "589164738870960128": {
+            "id": "589164738870960128",
+            "text": "HOW TO REPLACE A MACBOOK PRO HDDpic.twitter.com/T59E58H39Z",
+            "username": "Kirtaner",
+            "num_likes": 2197,
+            "num_retweets": 3743,
+            "num_replies": 65
+        },
+        "588837237313273857": {
+            "id": "588837237313273857",
+            "text": "Hanging out with new friends in Berlin. Great way to end an amazing week in Germany. Prost!pic.twitter.com/XcjR9gwflW",
+            "username": "MitchWainer",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "580387623891574785": {
+            "id": "580387623891574785",
+            "text": "Smart green startup @sunridewithus is nominated for Ecosummit Award 2015. Check their startup profile: http://market.ecosummit.net/c/Sunride\u00a0",
+            "username": "ecosummit",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "543480950739308544": {
+            "id": "543480950739308544",
+            "text": "Apparently, a sufficient number of puppies can explain any computer science concept. Here we have multithreading:pic.twitter.com/R08OZ08a7k",
+            "username": "rundavidrun",
+            "num_likes": 6894,
+            "num_retweets": 10682,
+            "num_replies": 164
+        },
+        "520615762969772032": {
+            "id": "520615762969772032",
+            "text": "Peeps are getting ready for #SWXpic.twitter.com/tcS0NRvGEZ",
+            "username": "TheDamfr",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1115281685321527297": {
+            "id": "1115281685321527297",
+            "text": "Yes, @zokratesproject is the official ZoKrates Twitter :) cc @jacobeberhardt",
+            "username": "vanderkriek",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1114513210626007041": {
+            "id": "1114513210626007041",
+            "text": "Summer came early. Thanks @8bar_bikes for the ride!pic.twitter.com/i9eWxs5QGq",
+            "username": "vanderkriek",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1100883773787394049": {
+            "id": "1100883773787394049",
+            "text": "I really loved this episode.https://twitter.com/dannyryan/status/1100868444486942720\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056829163028516864": {
+            "id": "1056829163028516864",
+            "text": "https://twitter.com/zcashco/status/1056732371322572800\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052122389516115968": {
+            "id": "1052122389516115968",
+            "text": "qnarkshttps://www.quantamagazine.org/graduate-student-solves-quantum-verification-problem-20181008/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1051191246033756160": {
+            "id": "1051191246033756160",
+            "text": "Nicely put :)https://oleganza.com/all/renaissance-of-cryptography/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1043098869402415104": {
+            "id": "1043098869402415104",
+            "text": "If you're interested in all things snarks and verifiable computation and want to understand both internals and applications, this playlist is a great way to start. I'm surprised some of the videos only have a couple 100 views so thought I'd sharehttps://www.youtube.com/playlist?list=PLXF_IJaFk-9ADeshgHXrSfuwPyEMa5qS7\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 49,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1012550929395212290": {
+            "id": "1012550929395212290",
+            "text": "Is this a joke?pic.twitter.com/Vc3uXops2f",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1011979027031175168": {
+            "id": "1011979027031175168",
+            "text": "Yes, it's verbose. It will get better :)https://twitter.com/VitalikButerin/status/1011973697895325697\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1011632812837961728": {
+            "id": "1011632812837961728",
+            "text": "Great writeup, and nice to see people using ZoKrates to experiment with snarks on Ethereum!https://twitter.com/qeditzkp/status/1011240679345934336\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1010559581641236481": {
+            "id": "1010559581641236481",
+            "text": "Is anyone coming to #zcon0 and staying in Montreal a couple more days? Would love to hack :) @barrywhitehat @lucasvo @iurimatias @o1_labs",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "999999853487894528": {
+            "id": "999999853487894528",
+            "text": "If it's the latter, then we have 800000 gas every 4 seconds spamming the network.",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "999999079659827200": {
+            "id": "999999079659827200",
+            "text": "What's bothering me is not validators, but rather Kovan users who don't seem to be doing anything. Do you even care? Or did everyone stop using Kovan?",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "999998728122589185": {
+            "id": "999998728122589185",
+            "text": "Unless I'm missing something, the obvious fix would be for validators to increase their gas price floor, maybe keeping one or two at 0 to slowly bring the tx pool to normal as it's now full of 0 fee txs",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "999998319488307201": {
+            "id": "999998319488307201",
+            "text": "So Kovan has been mining 0 fee transactions for 24 hours now, and now the suggested gas price is 0. Blocks are full, spamming is free except the @melonport validator which doesn't accept 0 fee.",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "999958932629151744": {
+            "id": "999958932629151744",
+            "text": "Hey @ETHBerlin can we have Berliner Buidl at the hackathon?pic.twitter.com/jBxpvwdyE3",
+            "username": "vanderkriek",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "999957605371076608": {
+            "id": "999957605371076608",
+            "text": "Hey @melonport you're running a Kovan validator, and currently it seems you're the only one refusing 0 fee transactions. Any idea why others accept them? The suggested gasPrice is now 0 :/ cc @reto_trinkler",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "990916950934073344": {
+            "id": "990916950934073344",
+            "text": "Hey @VitalikButerin your http://vitalik.ca\u00a0 certificate just expired ",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "977210646596149248": {
+            "id": "977210646596149248",
+            "text": "This is still to date the most bizarre blockchain project http://offline.computer/hermicity/\u00a0 #ZK0x01 @jutta_steiner @AnnaRRose",
+            "username": "vanderkriek",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 5
+        },
+        "948818006863417344": {
+            "id": "948818006863417344",
+            "text": "Did you know? Researchers involved in discovering #meltdown had recently demonstrated a side-channel attack on #Intel SGX TEE at a #Bitcoin security conferencehttps://www.youtube.com/watch?v=ARZJPVeI1kE\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "948544303864930304": {
+            "id": "948544303864930304",
+            "text": ".@5chdn thanks for the coke!pic.twitter.com/7syx6NURlJ",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "935821495963738113": {
+            "id": "935821495963738113",
+            "text": "such hackpic.twitter.com/t4t8VpXT2s",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "935068630366158848": {
+            "id": "935068630366158848",
+            "text": "I'd love to see more of this approach. https://twitter.com/brian_armstrong/status/934563254101164033\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "933710871708225536": {
+            "id": "933710871708225536",
+            "text": "Does anyone use @dropbox Paper? I think it's underrated UX-wise. The best of @hackpad, and fun to use. Refreshing for @googledocs users. http://dropbox.com/paper\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "927961358020300800": {
+            "id": "927961358020300800",
+            "text": "What if library-oriented code becomes a best practice as the benefits of easy, self contained hard forks outweigh SPOF? #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "927909463008464901": {
+            "id": "927909463008464901",
+            "text": "Things that happened by accident today:\n- Take ownership and kill Ethereum library\n- Put most affected account twice in funds locked estim",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "927888987980750848": {
+            "id": "927888987980750848",
+            "text": "My estimate is $92M belonging to @polkadotnetwork and ~$50M in other accounts including @hedgetoken",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "927886539870408704": {
+            "id": "927886539870408704",
+            "text": "First thoughts: why was the library stateful? Why is there a way to kill it at all?",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "927885393160220673": {
+            "id": "927885393160220673",
+            "text": "Ok, this is hugehttps://twitter.com/polkadotnetwork/status/927880762053021702\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "926536912751427584": {
+            "id": "926536912751427584",
+            "text": "Cancun is really an amazing snarkeling destination. Great deep dive. #devcon3 #cryptography #Zcash #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "926512189556559872": {
+            "id": "926512189556559872",
+            "text": "\"For each Zapp you need a SNARK\" - @socrates1024 #devcon3pic.twitter.com/A8LAhNDrxL",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "926104032002936833": {
+            "id": "926104032002936833",
+            "text": "What are your main motivation to work on public blockchains rather than permissioned ones? #devcon3 #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "926173850706104320": {
+            "id": "926173850706104320",
+            "text": "Cc @phildaian",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "925803782503567365": {
+            "id": "925803782503567365",
+            "text": "Cc @karl_dot_tech",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "925794008668033031": {
+            "id": "925794008668033031",
+            "text": ".@el33th4xor you nailed this. Your current take on limitations of rationality in game theoretic proofs? i.e biases? Is that the next step?",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "925734514621665281": {
+            "id": "925734514621665281",
+            "text": "Anyone at #devcon3: our 7am beach yoga session is now growing exponentially. See you there tomorrow!pic.twitter.com/bLiUXQGDxE",
+            "username": "vanderkriek",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "923153332436373505": {
+            "id": "923153332436373505",
+            "text": "Formal verification was huge last year. Less this year with 3 sessions, 2 of them led by @pirapira. Was it a post-theDAO bubble?",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "923151485260705798": {
+            "id": "923151485260705798",
+            "text": "Glad to see #Devcon3 has 6 sessions on zero knowledge proofs. Such a fascinating concept, even beyond privacy.",
+            "username": "vanderkriek",
+            "num_likes": 25,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "923148129251282944": {
+            "id": "923148129251282944",
+            "text": "Who's coming to #Devcon3 ? I'll be there with @ProvenanceHQ and hope to meet you! Also, expect stickers",
+            "username": "vanderkriek",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "918453784040394752": {
+            "id": "918453784040394752",
+            "text": "We live in the world we buy into. Let's support open honest businesses this #OpenOctober with Provenance!http://thndr.me/x88BEm\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "894993904289947649": {
+            "id": "894993904289947649",
+            "text": " https://twitter.com/ryanxcharles/status/894959204959744000\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "834713954022744064": {
+            "id": "834713954022744064",
+            "text": "Join us as we welcome @AFDudley0 to discuss Proof of Stake tonight at @LaMaisonDuBTC @AssethFR #ethereumhttps://www.meetup.com/blockchains/events/237903965/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "807256648242839552": {
+            "id": "807256648242839552",
+            "text": "Can anyone help with this? cc @IPFSbot @nicksdjohnsonpic.twitter.com/GJlB0MdEmA",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "803999348321296385": {
+            "id": "803999348321296385",
+            "text": "Is there a way to use bullet points that makes it clear what's a list (A and B) and what's a list of options (A or B)? #productivity",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "786630583942348800": {
+            "id": "786630583942348800",
+            "text": "Can't wait to watch @MegacitiesDocs selection for 2016!pic.twitter.com/vbquJXXAum",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "783239653541289984": {
+            "id": "783239653541289984",
+            "text": "Coucou au stagiaire de @lemondefr!pic.twitter.com/kFTIAbuPmV",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "782145931261116417": {
+            "id": "782145931261116417",
+            "text": "Help!pic.twitter.com/97IlDeU64P",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "779921984398381062": {
+            "id": "779921984398381062",
+            "text": "EN DIRECT sur #Periscope : top of the shanghai tower!https://www.pscp.tv/w/arYMjzFlVmpZZGFyeFBCS0x8MXlOeGFuQk9ZV1dLaoIkGcJ8QRzhdr1-AbLok_UbIHaInQjp0iQdm8MRqAs6\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "779921368271859713": {
+            "id": "779921368271859713",
+            "text": "EN DIRECT sur #Periscope : top of the shanghai tower!\n https://www.pscp.tv/w/arYL_jFlVmpZZGFyeFBCS0x8MU1ueG5uZE5sUGp4T7Kkp2jezOW6Eu_f5EGsYyVrP-arhTAKOLpxnSV3cZO-\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "779027133599363072": {
+            "id": "779027133599363072",
+            "text": "Final answer to why parity helps: implem is the same so advantage is better db + rust. Wondering if it's a big difference though",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "779005565640908800": {
+            "id": "779005565640908800",
+            "text": "In solidity it looks like EXTCODESIZE checks if an address has code to avoid calling a nonexisting contract. Prevents useless calls maybe",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "778998431398244352": {
+            "id": "778998431398244352",
+            "text": "Seems like extcode isnt implemented Parity's evmbin, while the jit does. If the former is in prod, is it what could save the day? #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "778995199330574336": {
+            "id": "778995199330574336",
+            "text": "l := big.NewInt(int64(len(env.Db().GetCode(addr))))\n\nis this the line of code that the attacker is exploiting? #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "778831535730401280": {
+            "id": "778831535730401280",
+            "text": "Let me know what talks from #blockchainlabs #demoday you'd like to see, I can make more live streams #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "778489457024524288": {
+            "id": "778489457024524288",
+            "text": "Anyone at #devcon2 wondering what we've been up to at @ProvenanceHQ? Check out http://provenance.org/tuna\u00a0 More stuff to come! #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "778452069992701952": {
+            "id": "778452069992701952",
+            "text": "EN DIRECT sur #Periscope : uport demo #devcon2!https://www.pscp.tv/w/arCzmjFlVmpZZGFyeFBCS0x8MVprSnpXQXdxd0x4dn6KZ_fIkeJQlaT1CAWgYLX-o-cOHGCjJnlL8Cd3vswD\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 13,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "778451983686438912": {
+            "id": "778451983686438912",
+            "text": "User friendly identity on ethereum by @uport_me !pic.twitter.com/xNsQnfl0Pl",
+            "username": "vanderkriek",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "778417482549690368": {
+            "id": "778417482549690368",
+            "text": "I'm dreaming of tx.onFinality(99%, () => ...) callbacks @feindura @metamask_io #devcon2 #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "778415060783734784": {
+            "id": "778415060783734784",
+            "text": "Nice to see you @ChrJentzschpic.twitter.com/w1qr9b9xb7",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "778413162081034241": {
+            "id": "778413162081034241",
+            "text": "Forget about requests, embrace sockets! Can't wait for the new web3 #ethereum #devcon2pic.twitter.com/h7uxYZWyXf",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "778127049223499777": {
+            "id": "778127049223499777",
+            "text": "EN DIRECT sur #Periscope : truffle talk at #devcon2 #ethereumhttps://www.pscp.tv/w/aq-E5jFlVmpZZGFyeFBCS0x8MXZBR1JMV05WYkR4bHHENuLLdPH5EMKhF8yR0njnOAA6cf8OhQKGlbIKERu_\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "778124805010812928": {
+            "id": "778124805010812928",
+            "text": "EN DIRECT sur #Periscope : (2) embark talk at #devcon2 #ethereumhttps://www.pscp.tv/w/aq-CzzFlVmpZZGFyeFBCS0x8MXlwSmRvdmxyWHFHVxbzwOzSMOGyWEDL7r0DGGbE2oTSJIFe_Dvoxu5LmxAl\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "778122506796490753": {
+            "id": "778122506796490753",
+            "text": "EN DIRECT sur #Periscope : embark talk at devcon2 #ethereumhttps://www.pscp.tv/w/aq-AqjFlVmpZZGFyeFBCS0x8MXlvSk1yRXBEcmp4UeB8mONcKrOR3NBAyS8BsLkP-jCLc4hzq-Mmw1vBHJia\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "778122076335050752": {
+            "id": "778122076335050752",
+            "text": "EN DIRECT sur #Periscope : (3) future of solidity talk at devcon2 #ethereumhttps://www.pscp.tv/w/aq-ARjFlVmpZZGFyeFBCS0x8MWdxeHZkVk9kTmVHQsxOB9Zj-lywYDplPd3B7KPrjg_0D1N72vdJLi7kwQtG\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "778121185578127360": {
+            "id": "778121185578127360",
+            "text": "EN DIRECT sur #Periscope : (2) future of solidity talk at devcon2 #ethereumhttps://www.pscp.tv/w/aq9_bTFlVmpZZGFyeFBCS0x8MUJSS2pSdnlrWGdLd-CDhrXnzkYg--807rtfMATbEQzXYuuXSitGXfCnTyfJ\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "778119990826373122": {
+            "id": "778119990826373122",
+            "text": "EN DIRECT sur #Periscope : future of solidity talk at devcon2 #ethereumhttps://www.pscp.tv/w/aq9-UzFlVmpZZGFyeFBCS0x8MVlwS2tldm1wckVKaj9cYfxVLkWxw6A9be_cO-F4IyMGpljTVWtwgekUpRBX\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "778082254929158146": {
+            "id": "778082254929158146",
+            "text": "EN DIRECT sur #Periscope : more metamask stuff #ethereumhttps://www.pscp.tv/w/aq9bLjFlVmpZZGFyeFBCS0x8MWRSSlpybUFqYUFKQqW2D1yOP7s6dIYnDf4uMZS8rfxDK4U338gqn-WE8D_e\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "778081445092945920": {
+            "id": "778081445092945920",
+            "text": "EN DIRECT sur #Periscope : metamask presentation at devcon2 #ethereumhttps://www.pscp.tv/w/aq9abDFlVmpZZGFyeFBCS0x8MUJSS2pSdld6cHZLd0D4BMvyMhGstYggPt1PMHko_ZAxiDrst_Ghw1_3HB3U\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "778080408231489540": {
+            "id": "778080408231489540",
+            "text": "EN DIRECT sur #Periscope : metamask presentation at devcon2 #ethereumhttps://www.pscp.tv/w/aq9ZdjFlVmpZZGFyeFBCS0x8MXZPeHdScVlYZG1KQk6srwWtdnXeNqNtexJIUXHZtOh3OckHy20hEElpPLEa\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "777775707401232384": {
+            "id": "777775707401232384",
+            "text": "The long awaited Casper talk by @VladZamfir #ethereum #pospic.twitter.com/mNQtaBioyd",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "777678779267153920": {
+            "id": "777678779267153920",
+            "text": "EN DIRECT sur #Periscope : devcon2 room is almost full! #ethereum @provenancetechhttps://www.pscp.tv/w/aq3jajFlVmpZZGFyeFBCS0x8MWRqR1hZT2xnQlJKWiZzy3_l8Py1FaD-J2vAmedJSythhYI00milad5Gikix\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "777674314292207616": {
+            "id": "777674314292207616",
+            "text": "EN DIRECT sur #Periscope : devcon2 about to start! #ethereum #blockchainhttps://www.pscp.tv/w/aq3fQzFlVmpZZGFyeFBCS0x8MXZBeFJMeWtBWmFHbFdg4OTQzOR-wZ95kjCRdwMqEvSqyTyXd0DlsBNPFBJu\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "776732521140785152": {
+            "id": "776732521140785152",
+            "text": "So proud to be flying to @ethereumproject devcon2 for @ProvenanceHQ! See you in Shanghai!",
+            "username": "vanderkriek",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "774275270643679232": {
+            "id": "774275270643679232",
+            "text": "Getting ready for the @thomsonreuters #hackathon in London! #ethereum cc @HCharlanespic.twitter.com/vtzXXFaLCc",
+            "username": "vanderkriek",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "771970104754049024": {
+            "id": "771970104754049024",
+            "text": "Ok donc @ouigoSNCF c'est juste pour faire regretter les trains normaux c'est \u00e7a @SNCF? Bien jou\u00e9 du coup!pic.twitter.com/PyRPDpr2BX",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "770547802921377793": {
+            "id": "770547802921377793",
+            "text": "Certains l'aiment chaudpic.twitter.com/saI8gcCmuY",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "770195492915519488": {
+            "id": "770195492915519488",
+            "text": "Wow mon fr\u00e8re @christopheimbs est en studio avec @VictoiresduJazz @AnnePaceo! ->  http://fr.ulule.com/imbs\u00a0https://twitter.com/christopheimbs/status/770193428197969922\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "768883479027253248": {
+            "id": "768883479027253248",
+            "text": "EN DIRECT sur #Periscope : paris sky https://www.pscp.tv/w/ao3kKDFlVmpZZGFyeFBCS0x8MVprS3pXQmVRd2dHdrxAMPEmCrlzAYpHb2iNkGsImnVbiyLrbbpYBT4ZYJ5B\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "768827899860361216": {
+            "id": "768827899860361216",
+            "text": "The adventure of the #ethereum game designer. We need more of this! http://www.cointagion.com/2016/08/24/part-i/\u00a0\u2026pic.twitter.com/u3mcQEeX7H",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "768100435790004224": {
+            "id": "768100435790004224",
+            "text": "\"Il n\u2019a, bien s\u00fbr, jamais \u00e9t\u00e9 question de remettre en cause le principe du chiffrement des \u00e9changes\". WUT?\nhttp://www.lemonde.fr/pixels/article/2016/08/23/terrorisme-pour-contourner-le-chiffrement-des-messages-bernard-cazeneuve-en-appelle-a-l-europe_4986897_4408996.html\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "767246764969697280": {
+            "id": "767246764969697280",
+            "text": "https://jerclifton.com/2016/08/17/what-reality-are-trump-people-living-in/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "763657749918023680": {
+            "id": "763657749918023680",
+            "text": "Verifying myself: I am schaeff on Keybase.io. hdYlwSx-8kexikkkFbuNtiWTksUuD7fFZzzu / https://keybase.io/schaeff/sigs/hdYlwSx-8kexikkkFbuNtiWTksUuD7fFZzzu\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "760795210507051008": {
+            "id": "760795210507051008",
+            "text": "Amen, thanks @avsa https://medium.com/@avsa/the-truth-about-the-fork-fd040c7ca955#.mbpssjuc7\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "760023168337735680": {
+            "id": "760023168337735680",
+            "text": ".@OneCoinCrypto may be a scam, but at least they know how to throw a ceremony. Love the flamethrowers! https://youtu.be/638_Jpp2Rq8\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "758991316495630340": {
+            "id": "758991316495630340",
+            "text": "http://blog.velocity.technology/smart-contract-hardware/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "755727624677236737": {
+            "id": "755727624677236737",
+            "text": "I don't know why these are ALWAYS lying and at this point I'm too afraid to ask @LinkedIn @Microsoft #reactive #UXpic.twitter.com/eQuWBseIXf",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "755410251520811009": {
+            "id": "755410251520811009",
+            "text": "http://etherchain.org\u00a0 just switched to @ethcoreproject Parity client! #ethereumpic.twitter.com/arZw3LCr5J",
+            "username": "vanderkriek",
+            "num_likes": 15,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "755133666666381312": {
+            "id": "755133666666381312",
+            "text": "Shout out to @timothyjcoulter for releasing Truffle 2.0!  https://github.com/ConsenSys/truffle/releases\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "754963561512828928": {
+            "id": "754963561512828928",
+            "text": "All packets are created equal. Sign or you might regret it https://savetheinternet.eu/en/#send-a-message\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "753556274403545088": {
+            "id": "753556274403545088",
+            "text": "Oh, @awscloud just bought @Cloud9IDE!",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "753548802523627520": {
+            "id": "753548802523627520",
+            "text": "Steals menu from @berghain => Sells it on eBay => Gets letter from police about stollen menu => Sells letter on eBaypic.twitter.com/ix8xqgah20",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "752475824448761856": {
+            "id": "752475824448761856",
+            "text": "Nice self ownage #facebookpic.twitter.com/11F7Px8rcN",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "751410539419541504": {
+            "id": "751410539419541504",
+            "text": "Marrant de voir l'ami @gaetanczaja en doublure de Yann Barthes \u00e0 la mi temps! Chapeau!http://www.ozap.com/actu/yann-barthes-tf1-tease-son-arrivee-pendant-allemagne-france/502505\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "749903385655119876": {
+            "id": "749903385655119876",
+            "text": "Shocking Hit And Run by @BorisJohnson and @Nigel_Farage. This is shameless political guerrilla. http://www.theguardian.com/politics/2016/jul/04/nigel-farage-resigns-as-ukip-leader\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "749715185741553665": {
+            "id": "749715185741553665",
+            "text": "Not sure if you could possibly tell more bullshit http://www.moneyinternational.com/currency/bitcoin-plunges-value-hackers-spook-market/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "748149473113743360": {
+            "id": "748149473113743360",
+            "text": "You get a hard fork, you get a hard fork, everybody gets a hard fork! #ethereum #brexit #consensus https://www.theguardian.com/commentisfree/2016/jun/27/stop-brexit-mp-vote-referendum-members-parliament-act-europe\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "746632167724359680": {
+            "id": "746632167724359680",
+            "text": "Just Trump being Trump in pro-EU Scotland...https://twitter.com/realDonaldTrump/status/746272130992644096\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "746485612073590785": {
+            "id": "746485612073590785",
+            "text": "Very balanced remarks from @SDLerner on the state of #ethereum. Great read thx @BTChip http://www.rootstock.io/blog/lessons-from-the-dao-incident\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "746372709920145409": {
+            "id": "746372709920145409",
+            "text": "Between a rock and a hard fork #TheDaoHack #TheDAO #ethereumpic.twitter.com/TLYLHA7VLZ",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "745995517109342208": {
+            "id": "745995517109342208",
+            "text": "If you're new to #bitcoin #blockchain #ethereum, keep your money and watch this! https://youtu.be/6uXAbJQoZlE\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "745294640308490240": {
+            "id": "745294640308490240",
+            "text": "Reading comments on @ChrJentzsch apologies for #theDAO hack really feels like https://www.youtube.com/watch?v=ee925OTFBCA\u00a0\u2026 #ethereum",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "745232548196945920": {
+            "id": "745232548196945920",
+            "text": "Hard Fork is the new Brexit #ethereum #theDAO",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "745214523573940224": {
+            "id": "745214523573940224",
+            "text": "Despite calls for more client diversity 98% are still running Geth #ethereum @ethcoreproject https://www.ethernodes.org/network/1\u00a0pic.twitter.com/3KYEdtZbNu",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "745178532108656642": {
+            "id": "745178532108656642",
+            "text": "Heureux d'\u00eatre membre de @lachaintech qui se lance aujourd'hui! http://www.chaintech.fr/association\u00a0pic.twitter.com/SqsAz2NMWB",
+            "username": "vanderkriek",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "744624901198319616": {
+            "id": "744624901198319616",
+            "text": "Ok donc 50 minutes de jeu, 2 maillots d\u00e9chir\u00e9s, 1 ballon crev\u00e9. Bravo @adidasFR @pumafootball #FRASUI",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "743435593280069632": {
+            "id": "743435593280069632",
+            "text": "Funny how @VitalikButerin blames EmbraceExtendAndExtinguish that refers to Microsoft, which sponsors... Devcon2!https://www.youtube.com/watch?v=dlENbnbqkr8&feature=youtu.be&t=18m47s\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "743106430962700289": {
+            "id": "743106430962700289",
+            "text": "Just bought these 7 volumes of #Powerpoint transitions (with sound). Only $59 each! #retro http://www.crystalgraphics.com/presentations/transitions.main.asp?p=pslmtran\u00a0\u2026pic.twitter.com/xTXsbuZI8X",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "742034795878879232": {
+            "id": "742034795878879232",
+            "text": "Bravo \u00e0 tous les pionniers de la premi\u00e8re \u00e9dition du #LeBlockFest! Mention sp\u00e9ciale au projet Cryptopress :)pic.twitter.com/RYp5ngRSnA",
+            "username": "vanderkriek",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "741736098028769280": {
+            "id": "741736098028769280",
+            "text": "DAO1901 par @AssethFR : on y est presque! #LeBlockFest #ethereum #todo #daopic.twitter.com/Nmd0JU4zm4",
+            "username": "vanderkriek",
+            "num_likes": 13,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "741591266421538816": {
+            "id": "741591266421538816",
+            "text": "Le monde de la blockchain par @MarcoBitcoin #LeBlockFestpic.twitter.com/QJjlVo4GVT",
+            "username": "vanderkriek",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "740242458697732098": {
+            "id": "740242458697732098",
+            "text": "#NUMADDayS8 @HelloZackFR @NUMAparis periscope? :)",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "737565139671486464": {
+            "id": "737565139671486464",
+            "text": "Le guerre des bus sur @AdWordsFR, @OUIBUS vs @FlixBus_FRpic.twitter.com/Przj4OH46H",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "737534823191871488": {
+            "id": "737534823191871488",
+            "text": "The key is to make it modular. Exciting news @ethcoreproject @jutta_steiner https://blog.ethcore.io/parity-stepping-up-the-security-model-1-a-modular-approach-to-transaction-signing/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "736573206581088256": {
+            "id": "736573206581088256",
+            "text": "Ethereum makes it to iOS! Congrats @jaxx_io https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1084514516&mt=8\u00a0\u2026pic.twitter.com/6LUHQuZzVk",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "736490243721953280": {
+            "id": "736490243721953280",
+            "text": "Can you make it into Berghain? Now you know.\nhttps://berghaintrainer.com/\u00a0pic.twitter.com/lcPPFrBnvG",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "735840969464160256": {
+            "id": "735840969464160256",
+            "text": "Juste le site de la #CGT de mon canton. #UI\nhttp://cgt.selestat.free.fr/\u00a0pic.twitter.com/ls9W9WvHLV",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "735098292606996481": {
+            "id": "735098292606996481",
+            "text": "Compression, bringing mankind from 2 TV channels to hundreds... until it starts snowing! Awesome video by @tomscott https://youtu.be/r6Rp-uo6HmI\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "733403803240660992": {
+            "id": "733403803240660992",
+            "text": "Et voil\u00e0 la deuxi\u00e8me partie de l'interview en fran\u00e7ais de @VitalikButerin par les amis @Ethereum_France!https://www.ethereum-france.com/interview-de-vitalik-buterin-createur-dethereum-et-president-de-la-fondation-partie-2-sur-2/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "732945461410181121": {
+            "id": "732945461410181121",
+            "text": "Javascript be like\nhttps://www.youtube.com/watch?v=wzMrK-aGCug\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "732820955060375552": {
+            "id": "732820955060375552",
+            "text": "Oh Hi @ethereumproject, how are you today?pic.twitter.com/2ZYp4faxom",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "729947204929105920": {
+            "id": "729947204929105920",
+            "text": "Love working at a caf\u00e9 but can't afford \u20ac5 double gingerbread latte? I've got your back! https://coffitivity.com/#home\u00a0 thanks @kpopper",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "729076180930994176": {
+            "id": "729076180930994176",
+            "text": "#theDAO 3rd crowdfunded project, #2 is @ElioMotors. Doesn't it look similar to @slockitproject partner @mobotiq?pic.twitter.com/BqEHGIsnZ3",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "729067864305569794": {
+            "id": "729067864305569794",
+            "text": "Finally a new @radiohead album tomorrow! Thought I would share this awesome gem again https://www.youtube.com/watch?v=cfOa1a8hYP8\u00a0\u2026pic.twitter.com/lM7qzo07fI",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "728631931676561408": {
+            "id": "728631931676561408",
+            "text": "Just 2 websites from the same group (Wanxiang Group and Wanxiang Blockchain Labs) #UI #blockchainpic.twitter.com/zjiEz7EqDG",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "728515257619066880": {
+            "id": "728515257619066880",
+            "text": "WTF is theDAO? #AtelierEthereum \u00e9pisode 4 chez @YnovCampus le 12 mai! #blockchain #Ethereumhttp://www.meetup.com/blockchains/events/230920986/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 8,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "728344716534816768": {
+            "id": "728344716534816768",
+            "text": "Great session, totally recommend ithttps://twitter.com/slockitproject/status/728281028624830466\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "727400018039214081": {
+            "id": "727400018039214081",
+            "text": "Never look for that tab again. Neat #OSX plugin to control ANY media player with media keys! http://beardedspice.github.io\u00a0pic.twitter.com/0ySg6JBOo5",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "727230717864894464": {
+            "id": "727230717864894464",
+            "text": "Si j'avais su que je partagerais une prise de position d'@CaronAymericoff http://www.canalplus.fr/c-emissions/le-grand-journal/pid5411-le-grand-journal.html?vid=1386079\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "727169280173821952": {
+            "id": "727169280173821952",
+            "text": "If only we had an unstoppable banking system...pic.twitter.com/NcfOjWmoYy",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "727148835684925442": {
+            "id": "727148835684925442",
+            "text": "Super interview de @VitalikButerin par les amis de @EthereumFrance https://www.ethereum-france.com/interview-de-vitalik-buterin-createur-dethereum-et-president-de-la-fondation-partie-1-sur-2/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "722505869775265795": {
+            "id": "722505869775265795",
+            "text": ".@VitalikButerin : \"software that's finished is software that's dead\" #Ethereum meetup #london",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "722505473841328128": {
+            "id": "722505473841328128",
+            "text": ".@VitalikButerin \"#PoS is virtual mining: instead of buying rigs, you purchase #ether to acquire virtual rigs that don't hurt the planet\"",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "722504687061221376": {
+            "id": "722504687061221376",
+            "text": ".@VitalikButerin on #blockchain #security at the London #Ethereum meetup!pic.twitter.com/QkDkT174Kv",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "722503695246696453": {
+            "id": "722503695246696453",
+            "text": ".@VitalikButerin  \"the goal is to improve the VM to make it possible to run complex cryptographic algorithms\" #Ethereum",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "721688212683538433": {
+            "id": "721688212683538433",
+            "text": ".@CrousParis SHA1 c'est un peu l\u00e9ger, pas tr\u00e8s s\u00e9rieux tout \u00e7a :( https://en.wikipedia.org/wiki/SHA-1\u00a0pic.twitter.com/RFpO96uXhM",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "719440937265532928": {
+            "id": "719440937265532928",
+            "text": "De l'illusion d'une \u00e9conomie #p2p orchestr\u00e9e par des acteurs centralis\u00e9s. La #DAO au secours de la #sharingeconomy?https://twitter.com/babgi/status/719426446968647680\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "719437118360154112": {
+            "id": "719437118360154112",
+            "text": "What if we upgraded #HTTP to #HTTP2? It would look like this https://http2.golang.org/gophertiles?latency=200\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "718395787844198400": {
+            "id": "718395787844198400",
+            "text": "\"The more people learn about #bitcoin,the more they will realize it\u2019s friendlier to cops than it is to criminals\"http://www.coindesk.com/bitcoin-cops-criminals/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "717867275794182148": {
+            "id": "717867275794182148",
+            "text": "Back to basics (because many have been asking): why some people think there's more to #Ethereum than ColoredCoinshttps://youtu.be/l9dpjN3Mwps?t=8m14s\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "717779358157574145": {
+            "id": "717779358157574145",
+            "text": "C'est parti pour #AtelierEthereum \u00e9pisode 3 chez @ynov ! @CryptoFR @BlockchainFrapic.twitter.com/xDB8X173a4",
+            "username": "vanderkriek",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "716903169171857408": {
+            "id": "716903169171857408",
+            "text": "Nice tax evasion game released by @ICIJorg, can you survive tax authorities?\nhttps://panamapapers.icij.org/stairway_tax_heaven_game/\u00a0\u2026pic.twitter.com/eh3WSwheai",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "715524972907794436": {
+            "id": "715524972907794436",
+            "text": "Plus que 10 places pour l'Atelier #ethereum @CryptoFR! Novices avec bases de javascript bienvenu(e)s @HCharlaneshttp://www.meetup.com/blockchains/events/229991966/?eventId=229991966\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "712732732875476993": {
+            "id": "712732732875476993",
+            "text": ".@slockitproject, #DAO maker today, #DAO certifier tomorrow?",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "712717051991891968": {
+            "id": "712717051991891968",
+            "text": "Did you know? @mozilla is entering the #IoT game!\nLet's hope it's not too late #innovation\nhttps://wiki.mozilla.org/WebOfThings\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "711873095112462336": {
+            "id": "711873095112462336",
+            "text": "Il faut adresser le probl\u00e8me des gens qui disent \"fournir un travail qualitatif\" #grammarnazi",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "710909519161901057": {
+            "id": "710909519161901057",
+            "text": "\"#SocialBusiness is about creating the world of your dreams\" Prof. Yunus #Nobel #Peace prize winner @danonecommunitypic.twitter.com/ne63foupmu",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "710596685261627392": {
+            "id": "710596685261627392",
+            "text": "Great show from @epicenterbtc with @socrates1024 about gas, #economics, PoS and general design in #ethereumhttps://www.youtube.com/watch?v=91UekwMAXJs\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "709697037432987648": {
+            "id": "709697037432987648",
+            "text": ".@captaintrain @thetrainline Beh. What is this? #UI #UX #frenchtech #captaintrainpic.twitter.com/GfP6IT3od6",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "709487826811953153": {
+            "id": "709487826811953153",
+            "text": "\"La bulle, c'est quand ma m\u00e8re se met \u00e0 jouer en bourse\". Documentaire passionnant sur la #bulle #internet de 2000http://dai.ly/xqighv\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "708340429993996289": {
+            "id": "708340429993996289",
+            "text": ".@ConsenSysLLC develops FarmShare for #blockchain agriculture, this was my first Google result @ethereumprojectpic.twitter.com/Sc3tQdIN9Q",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "707340168517324801": {
+            "id": "707340168517324801",
+            "text": "En fait pendant une #greve de #RATP #SNCF, soit ils reconduisent, soit ils reconduisent. #greve9mars #GreveSNCF",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "706976342491983873": {
+            "id": "706976342491983873",
+            "text": ".@LaSMEREP Il fait quoi ce type sur la page de login? #WTFpic.twitter.com/4ZdRjcPp8B",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "706914666753216512": {
+            "id": "706914666753216512",
+            "text": "#ethereum just got a brand new website, check it out at http://ethereum.org\u00a0 #blockchainpic.twitter.com/XUm1dsM6yH",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "706872532977242113": {
+            "id": "706872532977242113",
+            "text": "Why @BernieSanders tawks that way https://youtu.be/waeXBCUkuL8\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "705511688871788545": {
+            "id": "705511688871788545",
+            "text": "To anyone wondering HOW the h*** #bitcoin #blockchain works, I give you this gem https://www.youtube.com/watch?v=Lx9zgZCMqXE\u00a0\u2026 cc @N_Marchais @florian_cochard",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "705114513771765760": {
+            "id": "705114513771765760",
+            "text": "Sexy dashboard about #Estonia @e_Residents #transparency\nhttps://app.cyfe.com/dashboards/195223/5587fe4e52036102283711615553\u00a0\u2026pic.twitter.com/gNO3nso4sC",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "705099955128565760": {
+            "id": "705099955128565760",
+            "text": ".@RonanKerVadec cite @Wingly_FR comme exemple des d\u00e9fis juridiques de l'\u00e9conomie collaborative #ConfCollESCP",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "705085483781648385": {
+            "id": "705085483781648385",
+            "text": "Comment inspirer la confiance dans l'\u00e9conomie collaborative? Avec @Cariboo_app @_LiveMentor @Comuneat #ConfCollESCPpic.twitter.com/Fy1uhkbE7d",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "704831934304788480": {
+            "id": "704831934304788480",
+            "text": "Great podcast from @TheDailyDecrypt about #bitcoin #sidechains with @EricRSammonshttps://twitter.com/TheDailyDecrypt/status/704818315114455041\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "704346880759750656": {
+            "id": "704346880759750656",
+            "text": "C'est juste chez moi que @CryptoFR est 1er r\u00e9sultat sur @Google France pour @ethereumproject #homestead?pic.twitter.com/GIcjwmKsqE",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "704074553052557313": {
+            "id": "704074553052557313",
+            "text": ".@stephantual from @slockitproject on why you should take #blockchain seriously. @LIFTconference http://youtube.com/watch?v=CnUdwxZsyXc\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "702876575126126592": {
+            "id": "702876575126126592",
+            "text": "Forget about @GuyKawasaki 10-20-30, you CAN do better with @philpresents. Great session at @Polytechniquehttps://twitter.com/philpresents/status/702762665291227136\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "702041462851158016": {
+            "id": "702041462851158016",
+            "text": "Boost VC wanting to embrace #Ethereumhttps://twitter.com/HCharlanes/status/701941807941292032\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "701435369544425473": {
+            "id": "701435369544425473",
+            "text": "On my way to the million #ethereum #RaspberryPi #slowpic.twitter.com/zk1Q5EC9Up",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "700991689947803648": {
+            "id": "700991689947803648",
+            "text": "Popularity of #blockchain on @GoogleTrendspic.twitter.com/yHVPyHorMb",
+            "username": "vanderkriek",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "699662666764259329": {
+            "id": "699662666764259329",
+            "text": "Nice try @bfmbusiness @ALarigaudrieBFM, mais c'est plein de conneries http://bfmbusiness.bfmtv.com/bourse/cette-monnaie-virtuelle-qui-veut-enterrer-le-bitcoin-951999.html\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "699206330263937025": {
+            "id": "699206330263937025",
+            "text": "Interesting view on #Blockchain #ethics and #politics by @UNRISD http://www.unrisd.org/brett-scott\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "699009622041108480": {
+            "id": "699009622041108480",
+            "text": "Le train par @googlemaps: peut mieux faire...pic.twitter.com/vb0gl8ekoj",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "698178019031130112": {
+            "id": "698178019031130112",
+            "text": "Plus de tra\u00e7abilit\u00e9 dans la consommation. #blockchainhttps://twitter.com/ProvenanceHQ/status/698164154625093632\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "698143541705494528": {
+            "id": "698143541705494528",
+            "text": "L'Ukraine veut voter sur la blockchain, et \u00e7a se passe sur Ethereum. http://forklog.net/elections-in-ukraine-may-run-on-ethereums-blockchain/\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "697898499443200000": {
+            "id": "697898499443200000",
+            "text": "Un replay peut \u00eatre? :) #switchcollective #workasweknowisdead @Swiiitch",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "697377289126936577": {
+            "id": "697377289126936577",
+            "text": "\"la certitude d'un futur qui te plait pas est beaucoup plus anxiog\u00e8ne que l'incertitude d'un futur ouvert\" @fbourdoncle",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "696991151585411073": {
+            "id": "696991151585411073",
+            "text": "Try it at https://github.com/ethereum/webthree-umbrella/releases\u00a0\u2026https://twitter.com/ethereumproject/status/696985448737021952\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "692638716880359424": {
+            "id": "692638716880359424",
+            "text": "\"Le marketing, c'est faire le deuil de ce que vous avez fait pour savoir comment le client le per\u00e7oit\" #mindblown #hec #marketing #engineer",
+            "username": "vanderkriek",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "692456523977641985": {
+            "id": "692456523977641985",
+            "text": "#murica http://youtube.com/watch?v=8_GHUz_v5R0\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "691587430076514304": {
+            "id": "691587430076514304",
+            "text": "Epic proposal for #France on @docker #github: a version for the #French #OS http://bit.ly/1PvEVUo\u00a0",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "687721950664331266": {
+            "id": "687721950664331266",
+            "text": "\"C'est dans la mobilit\u00e9 qu'il y a le plus de mouvement\" @welkaim #ConfBlck",
+            "username": "vanderkriek",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "648730692382101505": {
+            "id": "648730692382101505",
+            "text": "There's no such status as \"unemployed\". Just \"working\" and \"between jobs\" #usa #bayarea #optimism",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "644573411579064320": {
+            "id": "644573411579064320",
+            "text": "Lolhttps://twitter.com/tracysdarby/status/644573126320332800\u00a0\u2026",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "564863722263674880": {
+            "id": "564863722263674880",
+            "text": "#pitchvibe Super Twelve, mais comment passer le cap des premiers matchs impr\u00e9cis avant que l'algo converge?",
+            "username": "vanderkriek",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "564853464422182913": {
+            "id": "564853464422182913",
+            "text": "#pitchvibe on meurt de chaaaaaaaud! :)",
+            "username": "vanderkriek",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 2
+        }
+    },
+    "num_retweets_by_originator": {
+        "zokratesproject": 2,
+        "backslash": 1,
+        "ecb": 1,
+        "ethchris": 2,
+        "peter_szilagyi": 3,
+        "gballet": 1,
+        "gitcoin": 1,
+        "ebfull": 1,
+        "Ethereum_France": 4,
+        "ricburton": 1,
+        "ethereum": 2,
+        "msimoni": 1,
+        "myrrlyn": 1,
+        "riat_at": 1,
+        "ZugZwang0": 1,
+        "Noahpinion": 1,
+        "bascule": 1,
+        "ChrisLundkvist": 1,
+        "matthew_d_green": 1,
+        "barrywhitehat": 1,
+        "dappcon_berlin": 1,
+        "IACR_News": 1,
+        "rphmeier": 1,
+        "lucasvo": 1,
+        "VitalikButerin": 5,
+        "secparam": 1,
+        "AmberBaldet": 1,
+        "zooko": 3,
+        "JosefJelacic": 1,
+        "backus": 1,
+        "jdetychey": 2,
+        "danrobinson": 1,
+        "kanyewest": 1,
+        "MaciejHirsz": 1,
+        "Loreleithinks": 2,
+        "malloc8": 1,
+        "pmylund": 1,
+        "polkadotnetwork": 1,
+        "Clemnt_Jeanneau": 1,
+        "VladZamfir": 1,
+        "OlssonHenriks": 1,
+        "misc0110": 1,
+        "1HowardWu": 1,
+        "danielselman": 1,
+        "iurimatias": 2,
+        "krakenfx": 1,
+        "maurelian_": 1,
+        "lukejacksonn": 1,
+        "devops199": 1,
+        "RhysLindmark": 1,
+        "ProvenanceTech": 3,
+        "lopp": 1,
+        "TheRickyDavila": 1,
+        "NeerajKA": 1,
+        "Blox_Official": 1,
+        "myetherwallet": 2,
+        "johnregehr": 1,
+        "internetofshit": 1,
+        "UKTNofficial": 1,
+        "Alexey__Kovalev": 1,
+        "nicksdjohnson": 1,
+        "ProvenanceHQ": 8,
+        "marcusodair": 1,
+        "DavidGSmits": 1,
+        "Saj_JZ": 1,
+        "jessibaker": 1,
+        "Dinosn": 1,
+        "HuffPost": 1,
+        "IfmParis": 1,
+        "epicenterbtc": 1,
+        "socrates1024": 1,
+        "SDLerner": 1,
+        "CoopDigital": 1,
+        "GeorgeAHallam": 1,
+        "fluffypony": 1,
+        "TebeoTeo": 1,
+        "cyriakharris": 1,
+        "Strippin": 1,
+        "aantonop": 1,
+        "Cavalorn": 1,
+        "lucacomparini": 1,
+        "jeffehh": 1,
+        "lachaintech": 1,
+        "muneeb": 1,
+        "fioroco": 1,
+        "HouseofCards": 1,
+        "VoxPop_ARTE": 1,
+        "FDorleans": 1,
+        "Wingly_FR": 1,
+        "trainline_fr": 1,
+        "gregore2112": 1,
+        "NicolasLoubet": 1,
+        "Les_Cesar": 1,
+        "4YFN_MWC": 1,
+        "FabienChampigny": 1,
+        "CryptoFR": 1,
+        "BlockchainFra": 1,
+        "CalFootball": 1,
+        "BAMBOUNOU": 1,
+        "BerkeleyITS": 1,
+        "RKW_Experten": 1,
+        "Kirtaner": 1,
+        "MitchWainer": 1,
+        "ecosummit": 1,
+        "rundavidrun": 1,
+        "TheDamfr": 1
+    },
+    "users_retweeted": [
+        "ProvenanceHQ",
+        "VitalikButerin",
+        "Ethereum_France",
+        "peter_szilagyi",
+        "zooko",
+        "ProvenanceTech",
+        "zokratesproject",
+        "ethchris",
+        "ethereum",
+        "jdetychey",
+        "Loreleithinks",
+        "iurimatias",
+        "myetherwallet",
+        "backslash",
+        "ecb",
+        "gballet",
+        "gitcoin",
+        "ebfull",
+        "ricburton",
+        "msimoni",
+        "myrrlyn",
+        "riat_at",
+        "ZugZwang0",
+        "Noahpinion",
+        "bascule",
+        "ChrisLundkvist",
+        "matthew_d_green",
+        "barrywhitehat",
+        "dappcon_berlin",
+        "IACR_News",
+        "rphmeier",
+        "lucasvo",
+        "secparam",
+        "AmberBaldet",
+        "JosefJelacic",
+        "backus",
+        "danrobinson",
+        "kanyewest",
+        "MaciejHirsz",
+        "malloc8",
+        "pmylund",
+        "polkadotnetwork",
+        "Clemnt_Jeanneau",
+        "VladZamfir",
+        "OlssonHenriks",
+        "misc0110",
+        "1HowardWu",
+        "danielselman",
+        "krakenfx",
+        "maurelian_",
+        "lukejacksonn",
+        "devops199",
+        "RhysLindmark",
+        "lopp",
+        "TheRickyDavila",
+        "NeerajKA",
+        "Blox_Official",
+        "johnregehr",
+        "internetofshit",
+        "UKTNofficial",
+        "Alexey__Kovalev",
+        "nicksdjohnson",
+        "marcusodair",
+        "DavidGSmits",
+        "Saj_JZ",
+        "jessibaker",
+        "Dinosn",
+        "HuffPost",
+        "IfmParis",
+        "epicenterbtc",
+        "socrates1024",
+        "SDLerner",
+        "CoopDigital",
+        "GeorgeAHallam",
+        "fluffypony",
+        "TebeoTeo",
+        "cyriakharris",
+        "Strippin",
+        "aantonop",
+        "Cavalorn",
+        "lucacomparini",
+        "jeffehh",
+        "lachaintech",
+        "muneeb",
+        "fioroco",
+        "HouseofCards",
+        "VoxPop_ARTE",
+        "FDorleans",
+        "Wingly_FR",
+        "trainline_fr",
+        "gregore2112",
+        "NicolasLoubet",
+        "Les_Cesar",
+        "4YFN_MWC",
+        "FabienChampigny",
+        "CryptoFR",
+        "BlockchainFra",
+        "CalFootball",
+        "BAMBOUNOU",
+        "BerkeleyITS",
+        "RKW_Experten",
+        "Kirtaner",
+        "MitchWainer",
+        "ecosummit",
+        "rundavidrun",
+        "TheDamfr"
+    ]
+}

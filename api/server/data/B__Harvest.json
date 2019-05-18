@@ -1,0 +1,504 @@
+{
+    "is_complete": true,
+    "username": "B__Harvest",
+    "retweeted": {
+        "1122424740180742144": {
+            "id": "1122424740180742144",
+            "text": "Here is a project that refused to even talk to an exchange about listing (and we have a good relationship with their tech guys), but we list it anyway. \n\nGood tech wins!https://support.binance.com/hc/en-us/articles/360027707351\u00a0\u2026",
+            "username": "cz_binance",
+            "num_likes": 1669,
+            "num_retweets": 327,
+            "num_replies": 373
+        },
+        "1110981997378207745": {
+            "id": "1110981997378207745",
+            "text": "A major governance proposal was made to enable Atom transfers not long ago. Here's what AiB recommends for specifying the network upgrade process:https://link.medium.com/dlNjhzCcpV\u00a0",
+            "username": "tendermint_team",
+            "num_likes": 55,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "1110896101014437888": {
+            "id": "1110896101014437888",
+            "text": "[52 Week Cosmos] Week 13, 2019 \nhttps://medium.com/lunamint-atlas/52-week-cosmos-week-13-2019-fc6a3d09e482\u00a0\u2026\n IBC discussions have begun\n Fighting for decentralization of voting power\n Cosmos Hub proposals ongoing votes\n Discussions on Cosmos Hub software upgrades",
+            "username": "LunamintVC",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1108564874572034048": {
+            "id": "1108564874572034048",
+            "text": "The ICF is slowly starting to delegate its ATOMs to select Game of Stakes winners. Read about it here:https://github.com/interchainio/delegation\u00a0\u2026",
+            "username": "interchain_io",
+            "num_likes": 71,
+            "num_retweets": 12,
+            "num_replies": 5
+        },
+        "1108503766297276416": {
+            "id": "1108503766297276416",
+            "text": " New easy and secure way to delegate \nhttps://stargazer.certus.one/\u00a0\nDelegate from Ledger\nTo any validator\nFrom browser\nIn less than 30 seconds \nNo installation & No CLI needed \n\nWatch the simple video guide here:https://www.loom.com/share/5761d8ae78c24a62a290ee6e9ddf1716\u00a0\u2026",
+            "username": "cosmosvalidator",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1106932742976163840": {
+            "id": "1106932742976163840",
+            "text": "Good question from https://bharvest.io/en/\u00a0\n\n\u201cWhy go through such lengths for a decentralized launch of cosmoshub-1 when the upgrade to cosmoshub-2 will be far more concentrated?\u201d\n\nThe decentralized launch ensured that more concentrated validator set was authentically chosen",
+            "username": "zmanian",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1126148429137059840": {
+            "id": "1126148429137059840",
+            "text": "Very high quality wallet app for cosmos community! It is so surprising that we have such great devs around cosmos community! And open source!!\nhttps://github.com/Lunagram/Lunagram-android-public\u00a0\u2026\nRespect!https://twitter.com/cosmosvalidator/status/1126083863913086978\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1124250290918584320": {
+            "id": "1124250290918584320",
+            "text": "We delegated to measure the realtime reward rate of each validator. But what a beautiful rephrase \n\nActually we delegated 100 atoms to each independent Korean validators(IZ*ONE,cryptogoose,ATOMI). Supporting Korean validators!https://twitter.com/cryptomira1/status/1124217231301173250\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1123108567270039552": {
+            "id": "1123108567270039552",
+            "text": "little bit of statistics(Sorry for wrong number few hours ago! We fixed it!)pic.twitter.com/W0RJodVI5I",
+            "username": "B__Harvest",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121809946759188481": {
+            "id": "1121809946759188481",
+            "text": "Another good option for delegators arrived.\n\nVery looking forward to ledger X compatibility! It will be so cool!https://twitter.com/imTokenOfficial/status/1121753431733968896\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1120396742044868608": {
+            "id": "1120396742044868608",
+            "text": "B-Harvest is all done on upgrading to cosmoshub-2, validating and website!\n\nPlease keep eyes on http://bharvest.io/wallet_en\u00a0 for breaking changes of token distribution in post-send-enabled era.",
+            "username": "B__Harvest",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120345489109438464": {
+            "id": "1120345489109438464",
+            "text": "https://github.com/b-harvest/cosmos-gaiacli-manual/blob/master/compare_result.json\u00a0\u2026\n\nB-Harvest confirmed that ALL delegation information from cosmoshub-1 are correctly exported to new genesis.json for cosmoshub-2.\n\n#donottrustverify",
+            "username": "B__Harvest",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1120307775282663424": {
+            "id": "1120307775282663424",
+            "text": "B-Harvest encourages Cosmos Hub community to engage more in the discussion of proposal 4(https://forum.cosmos.network/t/proposal-for-enabling-issuance-of-fungible-tokens-on-the-cosmos-hub/1825\u00a0\u2026)\n\nConsistency / Risk-Minimize / Pure-IBC-Role (Disagreement)\nvs\nInclusiveness / Enriching Ecosystem / Wider Use-case (Agreement)",
+            "username": "B__Harvest",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1119099207007096833": {
+            "id": "1119099207007096833",
+            "text": "[Gov] Proposal 5!\nhttps://www.mintscan.io/proposals/5\u00a0\n\nExpected halt of cosmoshub-1 : height 500k, around 2019-04-22 14 UTC \nGenesis Time of cosmoshub-2 : 2019-04-22 17 UTC\n\nWe voted \"yes\" on proposal 5.\nVoting is immenent! \nBecause only about 80 hours left to pass the proposal before 500k!",
+            "username": "B__Harvest",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1118444238713176064": {
+            "id": "1118444238713176064",
+            "text": "We think E-money(by @validator_net) in the hub looks promising in many ways\n\n1. Transparency : Collateralization of fiat currency with good proof of fund plan\n2. Benefit to Users : Interests distributed to token holders\n3. Legal : Anti Money Laundering",
+            "username": "B__Harvest",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118442566389653504": {
+            "id": "1118442566389653504",
+            "text": "Opinion on proposal 4(https://hubble.figment.network/chains/cosmoshub-1/governance/proposals/4\u00a0\u2026)\n\nB-Harvest agree on proposal 4!\n\n1. Good way to promote prudent stable-coin issuance in the hub\n2. Possible fundraiser scheme of projects which will build a zone in cosmos hub\n3. Enrichment of cosmos network use-case and transactions",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1117802468476252160": {
+            "id": "1117802468476252160",
+            "text": "Send enable is coming!!!\nLet's test validators!!https://twitter.com/jack_zampolin/status/1117798562350477314\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115878303964045312": {
+            "id": "1115878303964045312",
+            "text": "this chart is available in http://bharvest.io/wallet_en\u00a0 in real-time bases.",
+            "username": "B__Harvest",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115875351379480576": {
+            "id": "1115875351379480576",
+            "text": "x-axis = log10(total asset amount)\ny-axis = average of staking ratio\n\nVERY CLEAR correlation between asset scale and staking ratio.pic.twitter.com/4C3V9xcqIE",
+            "username": "B__Harvest",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1115861195867738112": {
+            "id": "1115861195867738112",
+            "text": "Quick REALITY stat check on staking ratio of Cosmos!\n\nWe are seeing quite impressive staking ratio.\nIf we exclude AiB&ICF holdings, the staking ratio reaches 60%!\n\nBut if we see the staking ratio excluding whales(top 50 holders),\nthe staking ratio is only \"38.3%\"!pic.twitter.com/vD1OMg7qQ1",
+            "username": "B__Harvest",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1115582070292529157": {
+            "id": "1115582070292529157",
+            "text": "It is our validator's duty to dilligently  participate on upgrade candidate software testing. It is OUR software to use!!! #validatordutyhttps://twitter.com/jack_zampolin/status/1115385535466475525\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1115245726471036929": {
+            "id": "1115245726471036929",
+            "text": "B-Harvest launched a bot for query basic information on Cosmos and user asset.\n\nWe will further improve the bot to alert users on various signals on the blockchain.https://t.me/bharvest_bot\u00a0",
+            "username": "B__Harvest",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115082233839140864": {
+            "id": "1115082233839140864",
+            "text": "B-Harvest voted \"Yes\" on proposal #3.\nBut! We want to emphasize on the risk of expedited rule on proposal #4.\nPlease visit our medium post below to read detailed reasoning on it.https://link.medium.com/U9r2wUiZHV\u00a0",
+            "username": "B__Harvest",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1114444769000808449": {
+            "id": "1114444769000808449",
+            "text": "New statistics from B-Harvest again.\n\nBig Stake Changes in recent 7days!\n\nThis statistics show ALL stake changes in recent 7days\nwhose changed amount exceed 10k Atoms.\n\nFind \"STAKECHANGE\" menu in http://bharvest.io/wallet_en\u00a0pic.twitter.com/JIfCIC5Bl3",
+            "username": "B__Harvest",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1114414191475974144": {
+            "id": "1114414191475974144",
+            "text": "http://bharvest.io/wallet_en\u00a0pic.twitter.com/jelHJWLe7i",
+            "username": "B__Harvest",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114399054404841472": {
+            "id": "1114399054404841472",
+            "text": "We added another stats about fullnode distribution : ISP!!\nhttp://bharvest.io/wallet_en\u00a0\n\nIt is amazing to see that our Cosmos Network has really decentralized ISP of fullnodes!pic.twitter.com/x7efEjh9Gt",
+            "username": "B__Harvest",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1114352842507046913": {
+            "id": "1114352842507046913",
+            "text": "Blocktime is decreasing!\n\nThanks to the know-how provided by @validator_net , and many validators spending time and effort to decrease their blocktime!\n\nThese effort does not have been drawn by monetary incentives, which is an amazing thing!\n\nLet's make it 6.5sec!!!pic.twitter.com/u56vwc06VW",
+            "username": "B__Harvest",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1114350637452423168": {
+            "id": "1114350637452423168",
+            "text": "Another related statistics about total asset of top 50 delegators.\n\nFrom http://bharvest.io/wallet_en\u00a0pic.twitter.com/el9aTEhsJm",
+            "username": "B__Harvest",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1114175838482604032": {
+            "id": "1114175838482604032",
+            "text": "See detail data from our website.\nhttp://bharvest.io/wallet_en\u00a0",
+            "username": "B__Harvest",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1114174549602394114": {
+            "id": "1114174549602394114",
+            "text": "New statistics from B-Harvest!\nStat about why we need better application&education on Cosmos applications, inspired by @cryptomira1\nThe chart explains the accumulated staked Atom percentage of top 50 delegators.\n10:57%\n20:70%\n30:78%\n40:84%\n50:87% \nMost staked Atoms are from rich.pic.twitter.com/34LGbOh819",
+            "username": "B__Harvest",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1112529378401910784": {
+            "id": "1112529378401910784",
+            "text": "High power yet-non-voter :\n\nPolychain\nSikka\nCryptium\nStaked\nTezos capital\nBlock power\nBoubounode\nF4rm\nHyperblockspro\nGenhashtower\n...\n\nIt is not about result, but about responsible governance participation of validators for the network!\n\nVote!!!",
+            "username": "B__Harvest",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1112528292806967299": {
+            "id": "1112528292806967299",
+            "text": "73.55% without any incentives. B-Harvest will share all the validators who didn't vote on proposal 1. Only 2 days left. Hurry up validators!!!pic.twitter.com/JjWKzPa9e0",
+            "username": "B__Harvest",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1111832718642298881": {
+            "id": "1111832718642298881",
+            "text": "We had our first chance to introduce B-Harvest to public, thanks to @LunamintVC @MichaelAteam \n\nWhy B-Harvest is value asset for cosmos community?\n\n1. GoS 4th place winner\n2. Deep knowledge on codebase(bugbounty&github)\n3. Ability to analyze bigdata stat\n4. Governance enthusiastpic.twitter.com/MY8jASadlp",
+            "username": "B__Harvest",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1111524471687413760": {
+            "id": "1111524471687413760",
+            "text": "Detailed governance voting status updated on http://bharvest.io/wallet_en\u00a0\n\nIt shows voting status of \"overwriting\" votes of EACH validator's delegators . This is crucial for governance participation of delegators!\n\nAlso check difference between a validator's and its delegators' votes.pic.twitter.com/GqGHJjeWZE",
+            "username": "B__Harvest",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111189031662960640": {
+            "id": "1111189031662960640",
+            "text": "B-Harvest voted \"no\" to the second governance proposal(using chorus-one website and ledger) about send enabling upgrade.\n\nWe agree on the risk of huge change in blocksize and also proper procedure of governance to include the hash of 0.34 SDK.\n\nThank AiB for pointing those out!",
+            "username": "B__Harvest",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1111179565068476417": {
+            "id": "1111179565068476417",
+            "text": "pic.twitter.com/ysd9ZyMQbE",
+            "username": "B__Harvest",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111179409443061765": {
+            "id": "1111179409443061765",
+            "text": "pic.twitter.com/ZkEuYvJXmf",
+            "username": "B__Harvest",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111176292974485504": {
+            "id": "1111176292974485504",
+            "text": "Another additional statistics on current unbonding.\n\nhttps://bharvest.io/wallet_en\u00a0\n\nWe display it by 2 ways.\n1. by each unbonding\n2. by each date\n\nThis information is crucial for detecting huge amount of unbonding, which might cause big impact on network or atom price.\n\nEnjoy!",
+            "username": "B__Harvest",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1111138739802116096": {
+            "id": "1111138739802116096",
+            "text": "Today's new feature on https://bharvest.io/wallet_en\u00a0 !\n\"Voting Status\" under Governance.\n\nDelegators and validators can check each validator's voting status.\n\nB-Harvest adds transparency step by step.\nWe have tons of more statistics to come!\n\nSupport B-Harvest by delegating to US!",
+            "username": "B__Harvest",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1110406510998257664": {
+            "id": "1110406510998257664",
+            "text": "B-Harvest add \"Public Fullnode Distribution\" table in our page.\nIt is an important measure of geological distribution of the network.\n\nhttps://bharvest.io/wallet_en\u00a0\n\nB-Harvest will keep adding important numbers and statistics on our page.\nEventually we will open an informative websitepic.twitter.com/6G5grhPIWr",
+            "username": "B__Harvest",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1110341193072668672": {
+            "id": "1110341193072668672",
+            "text": "(ICF +AIB) / totalsupply = 20%\nTurnout = 50%\nStaking ratio = 60%\nGovernance dominance of (ICF+AIB) = 20% / (50%\u00d760%) = 66.67%\nHow do you think about this gentlemen?\n\nhttps://twitter.com/B__Harvest/status/1110036071536967680?s=19\u00a0\u2026\n#NoVoteFromICF",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1110204867400732673": {
+            "id": "1110204867400732673",
+            "text": "This fatfinger prevention utility issue has been closed due to oppositions of many core devs from the team.\n\nThank you all(including devs) for your precious opinions!",
+            "username": "B__Harvest",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1110036071536967680": {
+            "id": "1110036071536967680",
+            "text": "B-Harvest suggested 2 important criteria on ICF delegation to achieve better decentralization.\n\n1. add gov vote restriction of ICF\n2. add a condition of validators whom ICF delegates to\n\nCheck out at github and please share opinions!https://github.com/interchainio/delegation/pull/7\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1109990228108828672": {
+            "id": "1109990228108828672",
+            "text": "New feature from B-Harvest homepage : average blocktime by validators\n\nBottom of this page : https://bharvest.io/wallet_en\u00a0\n\nLonger average blocktime by a validator means it drags the network's blocktime longer, result in less inflation rewards for delegators.\n\nCheck it out!!",
+            "username": "B__Harvest",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1109036396918956033": {
+            "id": "1109036396918956033",
+            "text": "A suggestion of fatfinger fees prevention methodology from B-Harvest.\n\nPlease feel free to discuss on this important topic for delegators and users.https://github.com/cosmos/cosmos-sdk/issues/3963\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1108918483184607234": {
+            "id": "1108918483184607234",
+            "text": "B-Harvest will use the median commission rate of total validators as a monthly commission rate and update every month. \n\nOur rate is being adjusted to 10%(median, complete tomorrow)\n\nWe transparently provide the commission status and median realtime.\n\nhttps://bharvest.io/wallet_en\u00a0pic.twitter.com/0FYh1REaxX",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1108544739622572032": {
+            "id": "1108544739622572032",
+            "text": "The proposal about blocks_per_year entered into voting period!\nIt was a super fast deposit with 6 valuable contributor,\nincluding 4 delegators and 2 validators(Simply-VC-Validator, Chorus One)\nThank you for your support on the proposal!\nNow let's vote!!!\n\nhttps://hubble.figment.network/chains/cosmoshub-1/governance/proposals/1\u00a0\u2026pic.twitter.com/Mz1AkMOCmL",
+            "username": "B__Harvest",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1108381764727107584": {
+            "id": "1108381764727107584",
+            "text": "Cli manual including Gov commands\n\nhttps://github.com/b-harvest/cosmos-gaiacli-manual/blob/master/README_en.md\u00a0\u2026\n\nDeposit command example: \n\ngaiacli tx gov deposit 1 [amount]uatom --fees [feeamount]uatom --from [keyname] --chain-id cosmoshub-1 --node tcp://18.194.218.14:26657",
+            "username": "B__Harvest",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108260945329979393": {
+            "id": "1108260945329979393",
+            "text": "https://www.mintscan.io/proposals/1\u00a0\nThe first proposal on Cosmos Network is up!!!\n\nThe deposit period for the proposal will be 2 weeks from now.\n\nPlease support the deposit if you support the proposal.https://forum.cosmos.network/t/governance-adjustment-of-blocks-per-year-to-come-aligned-with-actual-block-time/1682\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1107977885095063552": {
+            "id": "1107977885095063552",
+            "text": "9. Theoretical reward rate = inflation rate / staking ratio\n= 7% / 32.40% = 21.60%\n10. Actual reward rate = actual inflation rate /staking ratio\n= 5.18% / 32.40% = 15.98%(5.61% less than 21.60%)",
+            "username": "B__Harvest",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107977883606089729": {
+            "id": "1107977883606089729",
+            "text": "6. actual block per year = seconds in 1y / actual blocktime\n= 365.25 * 24 * 60 * 60 / 6.75 = 4,675,200 blocks\n7. actual total inflation atom in 1y = 2.62 atom * 4,675,200 = 12,249,024 atom\n8. actual yearly inflation rate = 12,249,024 / 236,382,221 = 5.18%(1.82p% less than 7%)",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1107977882222026754": {
+            "id": "1107977882222026754",
+            "text": "Derivation of \"actual\" inflation\n\n1. Total atom supply = 236,382,221 atom\n2. inflation = 7%\n3. inflation atom per year = 236,382,221 * 7% = 16,546,755 atom\n4. block per year = 6,311,520(defined in genesis)\n5. inflation atom per block = 16,546,755 atom / 6,311,520 = 2.62 atom",
+            "username": "B__Harvest",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1107707055421288449": {
+            "id": "1107707055421288449",
+            "text": "Added some statistics to reason the new parameter value.https://forum.cosmos.network/t/governance-fix-blocks-per-year-to-come-align-with-actual-block-time/1682\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1107578885397340160": {
+            "id": "1107578885397340160",
+            "text": "Today's Cosmos Network statistics!\nAverage blocktime distribution of each proposer validator\n\nIt shows variety of average blocktime.\nSome propose blocks faster, others slower.\n\nDo we need incentive for shorter blocktime?\nAt least shorter than certain period of time?\nThoughts?pic.twitter.com/ZbiMb9RZEG",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1105295595697106944": {
+            "id": "1105295595697106944",
+            "text": "B-Harvest provides detail procedure how to recover ico participation key and to delegate via docker environment. The manual is written in both English and Korean. Anyone can ask question about procedure via telegram/kakaotalk which is commented onhttps://bit.ly/2XQu3gO\u00a0",
+            "username": "B__Harvest",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1107440049363259392": {
+            "id": "1107440049363259392",
+            "text": "Delegators, want to know which frequency is optimal to withdraw and delegate?\n\nTry this sheet with your staking amount!\n\nhttps://docs.google.com/spreadsheets/d/1XLdoaQPwTDXJo7wgXSPrP-Xy9kJZhdcZPNju7kz44VQ/edit?usp=drivesdk\u00a0\u2026pic.twitter.com/qlNjb70zDJ",
+            "username": "B__Harvest",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1107299111240253441": {
+            "id": "1107299111240253441",
+            "text": "Thank you for cosmostation's effort to spread our validator and other under-valued ones!https://twitter.com/CosmostationVD/status/1107289153169813505\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107138457543938048": {
+            "id": "1107138457543938048",
+            "text": "B-Harvest will propose a first cosmos governance on inflation rewards parameter.\nPlease feel free to show your own opinion in forum or tweeter.\nB-Harvest will keep \"skin in\" the governance of cosmos network for betterness of delegator community!https://forum.cosmos.network/t/governance-fix-blocks-per-year-to-come-align-with-actual-block-time/1682\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 5
+        },
+        "1106000204497477632": {
+            "id": "1106000204497477632",
+            "text": "Verifying myself: I am bharvest on http://Keybase.io\u00a0. Jf2wSFBMVjpc6XHAzenag5iRqHoVPZCCYZ_3 / https://keybase.io/bharvest/sigs/Jf2wSFBMVjpc6XHAzenag5iRqHoVPZCCYZ_3\u00a0\u2026",
+            "username": "B__Harvest",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105295351693565953": {
+            "id": "1105295351693565953",
+            "text": "https://bharvest.io/en/\u00a0",
+            "username": "B__Harvest",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "cz_binance": 1,
+        "tendermint_team": 1,
+        "LunamintVC": 1,
+        "interchain_io": 1,
+        "cosmosvalidator": 1,
+        "zmanian": 1
+    },
+    "users_retweeted": [
+        "cz_binance",
+        "tendermint_team",
+        "LunamintVC",
+        "interchain_io",
+        "cosmosvalidator",
+        "zmanian"
+    ]
+}

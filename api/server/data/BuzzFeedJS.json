@@ -1,0 +1,3001 @@
+{
+    "is_complete": true,
+    "username": "BuzzFeedJS",
+    "retweeted": {},
+    "tweeted": {
+        "713399297560219648": {
+            "id": "713399297560219648",
+            "text": "This Child's Reaction When She Finally Gets Webpack To Run Will Melt Your Heart",
+            "username": "BuzzFeedJS",
+            "num_likes": 488,
+            "num_retweets": 268,
+            "num_replies": 5
+        },
+        "933383271873839104": {
+            "id": "933383271873839104",
+            "text": "Sorry Pal, I Won't Be Using React Until They Put The Patents Clause Back",
+            "username": "BuzzFeedJS",
+            "num_likes": 32,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "888867305832275968": {
+            "id": "888867305832275968",
+            "text": "Does React Really Have An API Tho?",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "888067354420183040": {
+            "id": "888067354420183040",
+            "text": "WebComponents? Not If I Have Anything To Do With It",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "884215438619684868": {
+            "id": "884215438619684868",
+            "text": "Ask Not What The Platform Can Do For You, But What You Can Do For The Platform",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "881226419921182721": {
+            "id": "881226419921182721",
+            "text": "I Was Building An App And Forgot To Post To This Account But Don't Worry I Had Nothing Funny To Say Anyway",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "860515128453869576": {
+            "id": "860515128453869576",
+            "text": "Should Designers Learn To Code So I Don't Have To Make A New Diff Every God Damn Time Chris Tweaks The Spacing On This Video Player?",
+            "username": "BuzzFeedJS",
+            "num_likes": 33,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "859452675208904704": {
+            "id": "859452675208904704",
+            "text": "How YouTube Hacked View-Source To Convince People They Were Using Polymer",
+            "username": "BuzzFeedJS",
+            "num_likes": 37,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "854053702335856641": {
+            "id": "854053702335856641",
+            "text": "QUIZ: Which Version Of Vue.js Are You?",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "852650628023300097": {
+            "id": "852650628023300097",
+            "text": "This Man Was Fired For Not Using a Semicolon And You Won't Believe What Happened Next",
+            "username": "BuzzFeedJS",
+            "num_likes": 57,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "849645413137362944": {
+            "id": "849645413137362944",
+            "text": "Why CSS Grid Is So Yesterday",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "846770022655627267": {
+            "id": "846770022655627267",
+            "text": "10 Startups That Launched While The EmberConf Livestream Was Down",
+            "username": "BuzzFeedJS",
+            "num_likes": 39,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "842735224668721154": {
+            "id": "842735224668721154",
+            "text": "I Used React's SetState And Had To Shut Down My Startup",
+            "username": "BuzzFeedJS",
+            "num_likes": 207,
+            "num_retweets": 61,
+            "num_replies": 2
+        },
+        "839901111364567041": {
+            "id": "839901111364567041",
+            "text": "Ember, Not Just For Cool People Anymore",
+            "username": "BuzzFeedJS",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "836667923280375808": {
+            "id": "836667923280375808",
+            "text": "How One React Unit Test Accidentally DDOSed AWS And Brought Down Half The Internet",
+            "username": "BuzzFeedJS",
+            "num_likes": 145,
+            "num_retweets": 69,
+            "num_replies": 3
+        },
+        "834811252929077251": {
+            "id": "834811252929077251",
+            "text": "Why One Of The Best JavaScript Developers In The World Hasn't Written A Line Of Code All Week",
+            "username": "BuzzFeedJS",
+            "num_likes": 54,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "828654442127966208": {
+            "id": "828654442127966208",
+            "text": "Should We Cancel Open-Source?",
+            "username": "BuzzFeedJS",
+            "num_likes": 39,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "826142512326795265": {
+            "id": "826142512326795265",
+            "text": "Is Babel Even Cool?",
+            "username": "BuzzFeedJS",
+            "num_likes": 38,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "823577856873734144": {
+            "id": "823577856873734144",
+            "text": "Npm Hasn't Been Down In Like 2 Years. Here Are The Three Developers Grateful For This Uptime.",
+            "username": "BuzzFeedJS",
+            "num_likes": 85,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "819942608965353472": {
+            "id": "819942608965353472",
+            "text": "GitHub Isn't Down You Just Got Fired And We Didn't Know How To Tell You",
+            "username": "BuzzFeedJS",
+            "num_likes": 286,
+            "num_retweets": 183,
+            "num_replies": 3
+        },
+        "819643558512754688": {
+            "id": "819643558512754688",
+            "text": "It Took Just One Hour For This Developer To Learn Vue.js. Here's How They're Wasting The Rest Of Their Workday.",
+            "username": "BuzzFeedJS",
+            "num_likes": 66,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "818870048362205188": {
+            "id": "818870048362205188",
+            "text": "The Unexpected Place To Get Great JavaScript Advice",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "817066140686028800": {
+            "id": "817066140686028800",
+            "text": "Is A Faster Web Really What We Want?",
+            "username": "BuzzFeedJS",
+            "num_likes": 40,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "816314704540868609": {
+            "id": "816314704540868609",
+            "text": "Our Selenium Tests Have Not Broken In All Of 2017, Here's How We Did It",
+            "username": "BuzzFeedJS",
+            "num_likes": 55,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "812408624354095104": {
+            "id": "812408624354095104",
+            "text": "May Your Holidays Be Filled With Laughter, Cheer, And Reproducible JavaScript Builds",
+            "username": "BuzzFeedJS",
+            "num_likes": 46,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "811285181239848960": {
+            "id": "811285181239848960",
+            "text": "How One Viral Tweet Nearly Made Facebook Delete React's Entire Codebase",
+            "username": "BuzzFeedJS",
+            "num_likes": 43,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "809791908948090880": {
+            "id": "809791908948090880",
+            "text": "Happy Holidays Stop Telling Me My Website Is Slow",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "809066981123047429": {
+            "id": "809066981123047429",
+            "text": "You Might Not Need jQuery, But I Do Because Calculating Offsets Manually Is Awful",
+            "username": "BuzzFeedJS",
+            "num_likes": 68,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "808714964387188736": {
+            "id": "808714964387188736",
+            "text": "12 Incredibly Awful Holiday Gifts For Your Favorite Open Source Maintainers",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "807311729206116354": {
+            "id": "807311729206116354",
+            "text": "Wait Can I Still Have An Award",
+            "username": "BuzzFeedJS",
+            "num_likes": 27,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "806905012291010560": {
+            "id": "806905012291010560",
+            "text": "This Developer Accidentally Put HTML In Their JavaScript And Then Invented JSX To Save Face During Code Review",
+            "username": "BuzzFeedJS",
+            "num_likes": 324,
+            "num_retweets": 172,
+            "num_replies": 0
+        },
+        "806540751173808128": {
+            "id": "806540751173808128",
+            "text": "How a Vegetable Juice Company Raised The Bar For JavaScript Engine Performance",
+            "username": "BuzzFeedJS",
+            "num_likes": 33,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "805142169694728192": {
+            "id": "805142169694728192",
+            "text": "Does Your Website Work Without Electricity? The Answer May Shock You",
+            "username": "BuzzFeedJS",
+            "num_likes": 53,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "804042060970000390": {
+            "id": "804042060970000390",
+            "text": "Scare Away Your Best Front-end Candidates With This One Weird Interview Question",
+            "username": "BuzzFeedJS",
+            "num_likes": 85,
+            "num_retweets": 36,
+            "num_replies": 0
+        },
+        "801441248104083456": {
+            "id": "801441248104083456",
+            "text": "12 Controversial JavaScript Topics You Should Definitely Avoid Bringing Up At The Thanksgiving Dinner Table",
+            "username": "BuzzFeedJS",
+            "num_likes": 80,
+            "num_retweets": 38,
+            "num_replies": 5
+        },
+        "800792294974623744": {
+            "id": "800792294974623744",
+            "text": "Is HTML Just A Fad?",
+            "username": "BuzzFeedJS",
+            "num_likes": 46,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "799025494792409088": {
+            "id": "799025494792409088",
+            "text": "An Inside Look At The Secret Meeting Between Polymer And Ember Core",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "797535933419487232": {
+            "id": "797535933419487232",
+            "text": "This Teenager Set Up A Website To Raise Money For A Local Animal Shelter So We Audited Its Paint Performance",
+            "username": "BuzzFeedJS",
+            "num_likes": 224,
+            "num_retweets": 68,
+            "num_replies": 1
+        },
+        "795681923175743488": {
+            "id": "795681923175743488",
+            "text": "When Heading To The Polls Tomorrow, Be Sure To Keep In Mind These 7 Flexbox Bugs",
+            "username": "BuzzFeedJS",
+            "num_likes": 45,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "793573751061377028": {
+            "id": "793573751061377028",
+            "text": "The Shocking Email That May End GraphQL's Chances Once And For All",
+            "username": "BuzzFeedJS",
+            "num_likes": 29,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "791734155348439040": {
+            "id": "791734155348439040",
+            "text": "CSS vs TypeScript: The Final Showdown",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "790972555419090946": {
+            "id": "790972555419090946",
+            "text": "Meet The React Replacement That Fits In A Tweet",
+            "username": "BuzzFeedJS",
+            "num_likes": 45,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "790590629713674240": {
+            "id": "790590629713674240",
+            "text": "The Original Yarn Core Team: Where Are They Now?",
+            "username": "BuzzFeedJS",
+            "num_likes": 64,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "789198173348573184": {
+            "id": "789198173348573184",
+            "text": "What Is The Shadow DOM Hiding From?",
+            "username": "BuzzFeedJS",
+            "num_likes": 56,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "788069276263542784": {
+            "id": "788069276263542784",
+            "text": "[SLIDESHOW] 10 Disney Princesses Reimagined As JavaScript Frameworks",
+            "username": "BuzzFeedJS",
+            "num_likes": 53,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "787033497995182080": {
+            "id": "787033497995182080",
+            "text": "JavaScript's War With CSS And How We're All Losing",
+            "username": "BuzzFeedJS",
+            "num_likes": 33,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "785869261696819200": {
+            "id": "785869261696819200",
+            "text": "12 Of Our Favorite Anti-Yarn Blog Posts Since It Was Released Like An Hour Ago",
+            "username": "BuzzFeedJS",
+            "num_likes": 193,
+            "num_retweets": 90,
+            "num_replies": 1
+        },
+        "783736469378727936": {
+            "id": "783736469378727936",
+            "text": "Whatever Happened To Just Using A <Script> Tag And Throwing On Some  Smash Mouth And Rockin' Out?",
+            "username": "BuzzFeedJS",
+            "num_likes": 55,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "783322356865523717": {
+            "id": "783322356865523717",
+            "text": "Meet The Developer Who Got Webpack Up And Running And Didn't Even Blog About It",
+            "username": "BuzzFeedJS",
+            "num_likes": 116,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "783124388539498496": {
+            "id": "783124388539498496",
+            "text": "I Filled Out A Survey Of The JavaScript Libraries I Use And Was Told I Have Two Months To Live",
+            "username": "BuzzFeedJS",
+            "num_likes": 60,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "782970754195398656": {
+            "id": "782970754195398656",
+            "text": "What's Hiding In React's Tax Returns? The Answer May Surprise You",
+            "username": "BuzzFeedJS",
+            "num_likes": 41,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "781202814802493440": {
+            "id": "781202814802493440",
+            "text": "We Looked Into The Cities Which React's 50,000 Stars Came From And What We Found Will Shock You",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "776514201867214848": {
+            "id": "776514201867214848",
+            "text": "Why Replacing Your CSS With <Table>s Is The New Hottest Trend In Web Development",
+            "username": "BuzzFeedJS",
+            "num_likes": 51,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "775368585875259393": {
+            "id": "775368585875259393",
+            "text": "We Checked Out The JavaScript For Each Presidential Candidate's Website And Didn't Really Find Anything",
+            "username": "BuzzFeedJS",
+            "num_likes": 38,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "773548241438859266": {
+            "id": "773548241438859266",
+            "text": "If Your JavaScript Isn't On Npm Then Did You Really Ever Write It?",
+            "username": "BuzzFeedJS",
+            "num_likes": 40,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "770993518521290753": {
+            "id": "770993518521290753",
+            "text": "How One Tcl Developer Got Food Poisoning For A Week And We Ended Up With JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "770284095171616768": {
+            "id": "770284095171616768",
+            "text": "The Unlikely Friendship Between React and jQuery That Killed My Startup",
+            "username": "BuzzFeedJS",
+            "num_likes": 32,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "767743036516425728": {
+            "id": "767743036516425728",
+            "text": "Ever Wish CSS Could Write Itself? Well, Keep On Wishing",
+            "username": "BuzzFeedJS",
+            "num_likes": 38,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "766758776196173825": {
+            "id": "766758776196173825",
+            "text": "We Took A Look At The Top 18 React State Management Libraries And Almost Died",
+            "username": "BuzzFeedJS",
+            "num_likes": 33,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "765558833825611776": {
+            "id": "765558833825611776",
+            "text": "Why The React Patent Clause May Mean You Work For Facebook Now",
+            "username": "BuzzFeedJS",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "765208481112662016": {
+            "id": "765208481112662016",
+            "text": "7 Webpack Errors That Will Ruin Your Week Before It's Even Tuesday",
+            "username": "BuzzFeedJS",
+            "num_likes": 29,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "763765585197010944": {
+            "id": "763765585197010944",
+            "text": "The One JavaScript Tool You Should Hope You Never Have To Use",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "763392557569245184": {
+            "id": "763392557569245184",
+            "text": "This Heartwarming Video Shows A Deaf Child Hearing A JavaScript Ecosystem Rant For The First Time",
+            "username": "BuzzFeedJS",
+            "num_likes": 57,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "761218288030511104": {
+            "id": "761218288030511104",
+            "text": "Why CSS Is Having The Last Laugh",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "760857571360141315": {
+            "id": "760857571360141315",
+            "text": "12 Fun And Creative Uses For Z-Index That Will Make Your Coworkers Take Sabbatical",
+            "username": "BuzzFeedJS",
+            "num_likes": 45,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "760133408886550528": {
+            "id": "760133408886550528",
+            "text": "You Won\u2019t Believe Which Company Is Behind The Popular React.js Framework",
+            "username": "BuzzFeedJS",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "759125141582479360": {
+            "id": "759125141582479360",
+            "text": "Thinking Of Using Vertical-Align: Middle; This Weekend? Think Again",
+            "username": "BuzzFeedJS",
+            "num_likes": 63,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "758323409692557312": {
+            "id": "758323409692557312",
+            "text": "8 JavaScript Thinkpieces That Tricked Us Into Buying Something",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "757597754910793729": {
+            "id": "757597754910793729",
+            "text": "A Look Back At 12 Startups That Were Killed By Ember-Cli",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "756555649270607873": {
+            "id": "756555649270607873",
+            "text": "We Took A Peek Inside The React CLI Source Code And What We Found Will Disturb You",
+            "username": "BuzzFeedJS",
+            "num_likes": 20,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "756222418469982209": {
+            "id": "756222418469982209",
+            "text": "The Strange Reason Why The Newest Version Of Ember Needs Access To Your Webcam",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "755784417591828480": {
+            "id": "755784417591828480",
+            "text": "Incredible! This Soldier Surprised Her Daughter At Graduation With A React 15 Codemod",
+            "username": "BuzzFeedJS",
+            "num_likes": 52,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "755409770379608064": {
+            "id": "755409770379608064",
+            "text": "An Inside Look At The Small European Village Where VBScript Still Reigns Supreme",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "755063588855906304": {
+            "id": "755063588855906304",
+            "text": "This Feature Quietly Snuck Its Way Into The ES2015 Spec And The Reason May Shock You",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "754744605166465024": {
+            "id": "754744605166465024",
+            "text": "She Tried To Save Us From CSS And You Won\u2019t Believe What Happened Next",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "753287920283480064": {
+            "id": "753287920283480064",
+            "text": "Great, Now Mixins Are Bad And I Have To Shut Down My Startup",
+            "username": "BuzzFeedJS",
+            "num_likes": 128,
+            "num_retweets": 41,
+            "num_replies": 3
+        },
+        "752885259558150144": {
+            "id": "752885259558150144",
+            "text": "The Shocking Truth Behind Most JavaScript Benchmark Results",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "751454153021460480": {
+            "id": "751454153021460480",
+            "text": "Can Bugs Actually Speed Up Your Website? This Man Seems To Think So",
+            "username": "BuzzFeedJS",
+            "num_likes": 24,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "751081889432231936": {
+            "id": "751081889432231936",
+            "text": "Scientists Have Uncovered a Secret React API That Facebook Is Keeping All For Themselves",
+            "username": "BuzzFeedJS",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "750358679598276608": {
+            "id": "750358679598276608",
+            "text": "23 Incredibly Clever CSS Tricks That You Should Absolutely 100% Never Use",
+            "username": "BuzzFeedJS",
+            "num_likes": 54,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "748525663745875968": {
+            "id": "748525663745875968",
+            "text": "How The Google Calendar Outage Derailed The Node.js Roadmap",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "748211018392813568": {
+            "id": "748211018392813568",
+            "text": "11 Of Our Favorite JavaScript Dads",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "748160462957723648": {
+            "id": "748160462957723648",
+            "text": "The Incredible Story Of How One Web Development Shop Prevailed Without Ever Testing In Firefox",
+            "username": "BuzzFeedJS",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "747818815455625216": {
+            "id": "747818815455625216",
+            "text": "Why Blaming Jenkins Is The Hottest Trend In Frontend Web Development",
+            "username": "BuzzFeedJS",
+            "num_likes": 34,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "747448444105728000": {
+            "id": "747448444105728000",
+            "text": "10 Weird Photos Showing React And Ember Developers Hanging Out Even Though They're Supposed To Be Enemies",
+            "username": "BuzzFeedJS",
+            "num_likes": 25,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "746429995111747584": {
+            "id": "746429995111747584",
+            "text": "What The UK Can Learn From Lodash And Io.js",
+            "username": "BuzzFeedJS",
+            "num_likes": 68,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "745264185815212032": {
+            "id": "745264185815212032",
+            "text": "10 Weird Things We Learned From Rewriting Our Website In React Four Times",
+            "username": "BuzzFeedJS",
+            "num_likes": 41,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "744905572458332160": {
+            "id": "744905572458332160",
+            "text": "You Should Be Thankful That Tech Is Not A Meritocracy Because You're All Terrible At Building Websites",
+            "username": "BuzzFeedJS",
+            "num_likes": 46,
+            "num_retweets": 37,
+            "num_replies": 0
+        },
+        "743494202848350208": {
+            "id": "743494202848350208",
+            "text": "You're Not A Real Programmer Unless You Follow These 4 Simple, Surprising, Arbitrary Rules",
+            "username": "BuzzFeedJS",
+            "num_likes": 40,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "743447976232759297": {
+            "id": "743447976232759297",
+            "text": "Only Real Programmers Know This One Weird CSS Trick",
+            "username": "BuzzFeedJS",
+            "num_likes": 29,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "743159449674780672": {
+            "id": "743159449674780672",
+            "text": "Meet The Man Who Decided Not To Use Webpack And Didn't Blog About It",
+            "username": "BuzzFeedJS",
+            "num_likes": 56,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "742378503392395264": {
+            "id": "742378503392395264",
+            "text": "Does This JavaScript Error On http://Apple.com\u00a0 Suggest A React-Killer Unveiling At #WWDC?",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "741327340224057344": {
+            "id": "741327340224057344",
+            "text": "How An Upgrade To React v15 Brought Down Slack",
+            "username": "BuzzFeedJS",
+            "num_likes": 22,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "740600922514984960": {
+            "id": "740600922514984960",
+            "text": "How A Misunderstanding Of The \"This\" Keyword Led To The Development Of Angular.js",
+            "username": "BuzzFeedJS",
+            "num_likes": 70,
+            "num_retweets": 48,
+            "num_replies": 3
+        },
+        "739929907086532608": {
+            "id": "739929907086532608",
+            "text": "She Blinked And Her Webpack Config Was Out Of Date, Wait Until You Hear Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 38,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "739517749332873219": {
+            "id": "739517749332873219",
+            "text": "12 Amazing DevTools Tricks, #5 Will Make You Wish You Could Take Back What You Said To Your Ex-Best Friend But You Can't So Let's Move On",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "738867834571227136": {
+            "id": "738867834571227136",
+            "text": "Think CSS Matters? Think Again",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "738507786540056577": {
+            "id": "738507786540056577",
+            "text": "This One Weird Trick Will Guarantee You A Seat At The JavaScript Cool Table",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "738399579385647104": {
+            "id": "738399579385647104",
+            "text": "No, Making Fun Of Safari Won't Help You Escape Your Demons",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "738050067320315904": {
+            "id": "738050067320315904",
+            "text": "What The Space Race Can Teach Us About JavaScript Fatigue, Except Way More People Will Die This Time",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "737642460499857409": {
+            "id": "737642460499857409",
+            "text": "I Typed Npm Install And Then The Bernie Bros Came",
+            "username": "BuzzFeedJS",
+            "num_likes": 30,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "735147058605228032": {
+            "id": "735147058605228032",
+            "text": "Watch This Man DESTROY His Mother When She Mixes Up Java And JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 40,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "734474362116509696": {
+            "id": "734474362116509696",
+            "text": "Isolated From The Rest Of The World For The Past 20 Years, Meet The Man Still Quietly Updating His Prototype.js Pull Request",
+            "username": "BuzzFeedJS",
+            "num_likes": 44,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "733723080703520768": {
+            "id": "733723080703520768",
+            "text": "How A Closed-Door TC39 Discussion Sped Up Babel By 40 Percent",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "731235495833948164": {
+            "id": "731235495833948164",
+            "text": "Npm Hasn't Been Down In Like Eighteen Months, Could This Commit Explain Why?",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "728632211902058496": {
+            "id": "728632211902058496",
+            "text": "10 JavaScript Modules That Probably Won't Bring Her Back",
+            "username": "BuzzFeedJS",
+            "num_likes": 45,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "727964823091224576": {
+            "id": "727964823091224576",
+            "text": "If You Love Pure Functions So Much Then Why Don't You Marry Them?",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "727242133774569473": {
+            "id": "727242133774569473",
+            "text": "This Man Recommends Teaching Redux In Every High School In America, Wait Until You Hear Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "725043208032505857": {
+            "id": "725043208032505857",
+            "text": "How 2016 Became The Year We Finally Stopped Caring About Users With Slow Connections",
+            "username": "BuzzFeedJS",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "724658519069319168": {
+            "id": "724658519069319168",
+            "text": "Why ES9 Might Just Be Ruby",
+            "username": "BuzzFeedJS",
+            "num_likes": 45,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "723253584457043970": {
+            "id": "723253584457043970",
+            "text": "The Bizarre Startup That's Still Pushing CSS To Production",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "720674672581484544": {
+            "id": "720674672581484544",
+            "text": "This 12th Century Arabic Manuscript Predicted The Winner Of The JavaScript Framework Wars And You Won't Believe Who They Picked",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "719566108219543553": {
+            "id": "719566108219543553",
+            "text": "The One Weird JavaScript Quirk That Made Lodash Possible",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "718564305789169664": {
+            "id": "718564305789169664",
+            "text": "The Stray Console.Log That Nearly Sabotaged The SpaceX Dragon Landing",
+            "username": "BuzzFeedJS",
+            "num_likes": 32,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "718166682569740288": {
+            "id": "718166682569740288",
+            "text": "10 Reasons We Still Find CSS Jokes Funny",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "717770941623836673": {
+            "id": "717770941623836673",
+            "text": "We Had 5 JavaScript Developers Write C++ And The Results Were Hysterical",
+            "username": "BuzzFeedJS",
+            "num_likes": 34,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "717435197596131328": {
+            "id": "717435197596131328",
+            "text": "How Web Components Are Shaping The Future Of The Web For Like Three People",
+            "username": "BuzzFeedJS",
+            "num_likes": 42,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "717024150305509376": {
+            "id": "717024150305509376",
+            "text": "Anyone Can Propose Changes To ES7, Except Him. Wait Until You Hear Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "715940393666420736": {
+            "id": "715940393666420736",
+            "text": "Is Ember Just An Elaborate April Fools Prank?",
+            "username": "BuzzFeedJS",
+            "num_likes": 38,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "714928099192864768": {
+            "id": "714928099192864768",
+            "text": "Does Ember Fastboot Use Flash Under The Hood?",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "714847865613512707": {
+            "id": "714847865613512707",
+            "text": "He Wandered Into The Woods As A Child And Was Raised By Ember Developers. Here's How He Turned Out",
+            "username": "BuzzFeedJS",
+            "num_likes": 25,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "713091067659292674": {
+            "id": "713091067659292674",
+            "text": "Why Lines Of Code Is The World's Most Important Metric Again",
+            "username": "BuzzFeedJS",
+            "num_likes": 25,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "712728090313670656": {
+            "id": "712728090313670656",
+            "text": "This Developer Pulled His Modules From Maven And Nobody Noticed",
+            "username": "BuzzFeedJS",
+            "num_likes": 57,
+            "num_retweets": 54,
+            "num_replies": 0
+        },
+        "712423397821702144": {
+            "id": "712423397821702144",
+            "text": "I Mean Do We Really Need To Left-Pad Our Strings?",
+            "username": "BuzzFeedJS",
+            "num_likes": 77,
+            "num_retweets": 48,
+            "num_replies": 1
+        },
+        "711948759001907200": {
+            "id": "711948759001907200",
+            "text": "She Added A Semicolon And Nothing Seemed Out Of The Ordinary, Then This Happened",
+            "username": "BuzzFeedJS",
+            "num_likes": 35,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "710921484731064320": {
+            "id": "710921484731064320",
+            "text": "He Claims An Ember-React Merge Is Inevitable And The Reason Will Shock You",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "710205882781585408": {
+            "id": "710205882781585408",
+            "text": "How \"Just Use Npm Scripts\" Killed My Startup",
+            "username": "BuzzFeedJS",
+            "num_likes": 65,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "709406387701465088": {
+            "id": "709406387701465088",
+            "text": "Here's Why You Probably Don't Need jQuery To Estimate Pi",
+            "username": "BuzzFeedJS",
+            "num_likes": 32,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "707628387980984321": {
+            "id": "707628387980984321",
+            "text": "6 Tips To Prevent CSS From Entering Your Codebase",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "707293363238785025": {
+            "id": "707293363238785025",
+            "text": "Watch Neil DeGrasse Tyson DESTROY This ES6 Skeptic",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "706919192533012481": {
+            "id": "706919192533012481",
+            "text": "Is Ember Writing A Check It Can't Cache?",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "705891586975113216": {
+            "id": "705891586975113216",
+            "text": "There's A New React Algorithm In Town, Wait Until You Hear What Facebook's Doing With The Old One",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "705485472215244800": {
+            "id": "705485472215244800",
+            "text": "It's Okay, CSS Is Hard",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "704720448576229376": {
+            "id": "704720448576229376",
+            "text": "We Checked And Virtual DOM Jokes Are Still Funny",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "704381648805167104": {
+            "id": "704381648805167104",
+            "text": "I Tried Redux For Twenty Minutes And Here's Everything That's Wrong With It",
+            "username": "BuzzFeedJS",
+            "num_likes": 30,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "703004310834016257": {
+            "id": "703004310834016257",
+            "text": "We Had A Class Of First Graders Write A React Guide And The Results Are Adorable",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "701932907489693696": {
+            "id": "701932907489693696",
+            "text": "\"Ember Has Had That For Years\" And Other Stupid Things We've Heard At #ReactConf",
+            "username": "BuzzFeedJS",
+            "num_likes": 22,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "701491811332698112": {
+            "id": "701491811332698112",
+            "text": "She Was Ashamed Of Her Pro-CSS Father, Until He Said This",
+            "username": "BuzzFeedJS",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "700785058463031296": {
+            "id": "700785058463031296",
+            "text": "You Won't Believe The Real Reason React Skipped v1.0",
+            "username": "BuzzFeedJS",
+            "num_likes": 53,
+            "num_retweets": 33,
+            "num_replies": 0
+        },
+        "700067255372156928": {
+            "id": "700067255372156928",
+            "text": "Yes React Is Fast, But At What Cost?",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "699630745913069568": {
+            "id": "699630745913069568",
+            "text": "The Surprising Behavior Behind Const That MDN Won't Tell You About",
+            "username": "BuzzFeedJS",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "698210911350296577": {
+            "id": "698210911350296577",
+            "text": "The One JavaScript Proposal That Left TC39 Speechless",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "697457481371553792": {
+            "id": "697457481371553792",
+            "text": "Leaked Document Shows How Many Servers Npm Runs On And The Number Will Shock You",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "697149627938775040": {
+            "id": "697149627938775040",
+            "text": "You Shouldn't Be Proud Of Ignoring Frontend Libraries When Your Homepage Takes 4 Minutes To Load On My Phone",
+            "username": "BuzzFeedJS",
+            "num_likes": 22,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "696823061232951296": {
+            "id": "696823061232951296",
+            "text": "6 Weird Things You Can Do Today To Protect Yourself From ES6 Classes",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "695648936229531648": {
+            "id": "695648936229531648",
+            "text": "The One Tag React Refuses To Render, Wait Until You Hear Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "694996434169520128": {
+            "id": "694996434169520128",
+            "text": "10 Of The Slowest CSS Class Names You're Probably Using RIGHT NOW",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "694566909157756930": {
+            "id": "694566909157756930",
+            "text": "Here's What's Tearing The JavaScript Community Apart This Week",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "694229018619596801": {
+            "id": "694229018619596801",
+            "text": "Meet The Man Who Knows Far Too Much About The DOM API",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "693521690907770880": {
+            "id": "693521690907770880",
+            "text": "This Developer Peeked Into The Shadow DOM And What They Found Will Leave You Speechless",
+            "username": "BuzzFeedJS",
+            "num_likes": 27,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "692760397150076929": {
+            "id": "692760397150076929",
+            "text": "What 'Making A Murderer' Can Teach Us About TC39",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "692447636457197568": {
+            "id": "692447636457197568",
+            "text": "How JavaScript Is Reinventing The Wheel Of Developers Endlessly Criticizing Design Patterns Without Proof",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "692021167905988608": {
+            "id": "692021167905988608",
+            "text": "You Probably Thought Noisy Assholes Couldn't Be Abstracted Away, But This One Framework Promises To Do Just That",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "691783487515398146": {
+            "id": "691783487515398146",
+            "text": "He Extended A Class One Too Many Times And You Won't Believe What Happened Next",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "690602121578860544": {
+            "id": "690602121578860544",
+            "text": "Why Meteor Is Too Easy To Use To Ever Be Successful",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "690235064504991744": {
+            "id": "690235064504991744",
+            "text": "Why A $2.5bn Valuation Can't Make The Damn Back Button Work Correctly",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "689861720802729984": {
+            "id": "689861720802729984",
+            "text": "Introducing Another Browser You Can Lie And Say You Test In",
+            "username": "BuzzFeedJS",
+            "num_likes": 42,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "689529172776112132": {
+            "id": "689529172776112132",
+            "text": "The Untold Story Of How Rails Nearly Became A JavaScript Framework",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "688083823192576001": {
+            "id": "688083823192576001",
+            "text": "If Everything In JavaScript Seems So Terrible Maybe It's Time To Look In The Mirror",
+            "username": "BuzzFeedJS",
+            "num_likes": 67,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "687737806932865027": {
+            "id": "687737806932865027",
+            "text": "How To Convince Your VP Of Engineering That MooTools Is Pretty Old",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "687396001863327745": {
+            "id": "687396001863327745",
+            "text": "He Broke Her Back Button, You Won't Believe What Happened Next",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "686990964037169153": {
+            "id": "686990964037169153",
+            "text": "Npm Works Fine On My Computer",
+            "username": "BuzzFeedJS",
+            "num_likes": 30,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "686593919296081920": {
+            "id": "686593919296081920",
+            "text": "Here's Why 2016 Is The Year For Ember Developers To Make A Comeback",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "684842865038618624": {
+            "id": "684842865038618624",
+            "text": "I'm Just Glad No One's Arguing Over Semicolons Anymore",
+            "username": "BuzzFeedJS",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "684117408001462272": {
+            "id": "684117408001462272",
+            "text": "Here's Why 2016 Is Going To Be A Terrible Year For JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "683023597569478657": {
+            "id": "683023597569478657",
+            "text": "Here Are Some JavaScript Frameworks We Probably Left In 2015",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "682666754724728832": {
+            "id": "682666754724728832",
+            "text": "13 Node Modules That Will Probably Break At Midnight",
+            "username": "BuzzFeedJS",
+            "num_likes": 36,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "681602734433415168": {
+            "id": "681602734433415168",
+            "text": "Was Ruby On Rails Right All Along?",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "681181020851429376": {
+            "id": "681181020851429376",
+            "text": "12 Webpack Configs We Can't Believe Made It To Production",
+            "username": "BuzzFeedJS",
+            "num_likes": 78,
+            "num_retweets": 37,
+            "num_replies": 0
+        },
+        "679737337543278592": {
+            "id": "679737337543278592",
+            "text": "\"Actually I Do Know JS,\" Claims This Developer - Wait Until You Hear Who It Is",
+            "username": "BuzzFeedJS",
+            "num_likes": 24,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "679704350097281024": {
+            "id": "679704350097281024",
+            "text": "The Shocking Reason Why Australians Are So Good At JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "679004611173314561": {
+            "id": "679004611173314561",
+            "text": "This Popular Library Has No Unit Tests And You Won't Believe Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 32,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "675075029948866560": {
+            "id": "675075029948866560",
+            "text": "Here's Why JavaScript \"Experts\" Don't Actually Exist",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "674707122727337985": {
+            "id": "674707122727337985",
+            "text": "Why Real Developers Don't Care About Type Safety",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "673955605535682560": {
+            "id": "673955605535682560",
+            "text": "How Microlibraries Nearly Sabotaged The Moon Landing",
+            "username": "BuzzFeedJS",
+            "num_likes": 61,
+            "num_retweets": 33,
+            "num_replies": 2
+        },
+        "672519327015444480": {
+            "id": "672519327015444480",
+            "text": "Move Over React, It's Swift's Turn",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "671812026281369602": {
+            "id": "671812026281369602",
+            "text": "Mark Zuckerberg Pledges $45B To Charity, Wait Until You See How Much Of That Will Be Going To Ember Startups",
+            "username": "BuzzFeedJS",
+            "num_likes": 26,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "671029233079230464": {
+            "id": "671029233079230464",
+            "text": "We Get It, You Hate Classes. Relax.",
+            "username": "BuzzFeedJS",
+            "num_likes": 44,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "670667913477660672": {
+            "id": "670667913477660672",
+            "text": "An Ancient Gruntfile Was Just Uncovered At Yahoo And You Won't Believe What It Contains",
+            "username": "BuzzFeedJS",
+            "num_likes": 37,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "669667800718450689": {
+            "id": "669667800718450689",
+            "text": "Every Framework Has Kinda Won If You Really Think About It",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "669275933833101312": {
+            "id": "669275933833101312",
+            "text": "Wait Until You Hear Who Just Hit A 2-Year GitHub Streak And Is Making Me Look Terrible To My Boss",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "668884601490812930": {
+            "id": "668884601490812930",
+            "text": "What Do Millennials Have Against Ember?",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "667780535100555264": {
+            "id": "667780535100555264",
+            "text": "You Better Believe It: 75% Of All Promises Are Broken In Angular 2",
+            "username": "BuzzFeedJS",
+            "num_likes": 32,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "667433882124427265": {
+            "id": "667433882124427265",
+            "text": "Is Brooklyn Getting Worse At JavaScript?",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "667397760002433024": {
+            "id": "667397760002433024",
+            "text": "25 JavaScript Friendships That Will Melt Your Heart",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "666673497977024512": {
+            "id": "666673497977024512",
+            "text": "I Thought The Shadow DOM Was A Good Idea Until I Discovered This One Terrifying Secret",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "665241780296765444": {
+            "id": "665241780296765444",
+            "text": "This Man Tried To Clean Up His CSS And You Won't Believe",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "664913037153947648": {
+            "id": "664913037153947648",
+            "text": "I Just Got Back From Vacation, Why Are People Writing CSS In JavaScript?",
+            "username": "BuzzFeedJS",
+            "num_likes": 52,
+            "num_retweets": 30,
+            "num_replies": 1
+        },
+        "664480696304574464": {
+            "id": "664480696304574464",
+            "text": "Did Starbucks Just Remove jQuery From Their Coffee Cups?",
+            "username": "BuzzFeedJS",
+            "num_likes": 92,
+            "num_retweets": 53,
+            "num_replies": 0
+        },
+        "662718518845026312": {
+            "id": "662718518845026312",
+            "text": "She Thought 60 Frames On The Web Was Impossible Until She Discovered This One Weird Trick",
+            "username": "BuzzFeedJS",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "659108031876214784": {
+            "id": "659108031876214784",
+            "text": "You Won't Believe What Glimmer Is Intentionally Hiding From Your DOM",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "658768006466654208": {
+            "id": "658768006466654208",
+            "text": "If React Is So Fast Then Why Don't They Write React In It Instead Of JavaScript?",
+            "username": "BuzzFeedJS",
+            "num_likes": 62,
+            "num_retweets": 51,
+            "num_replies": 0
+        },
+        "658373112040443905": {
+            "id": "658373112040443905",
+            "text": "Stay Warm With These 12 Parallax Scrolling Libraries That Will Turn Your MacBook Into An Actual Space Heater",
+            "username": "BuzzFeedJS",
+            "num_likes": 122,
+            "num_retweets": 91,
+            "num_replies": 1
+        },
+        "657314995118690305": {
+            "id": "657314995118690305",
+            "text": "18 JavaScript Edge Cases To Prepare You For Your Next Conference Talk Q&A",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "656497728969666560": {
+            "id": "656497728969666560",
+            "text": "Here's Why Managing Application State Is Still In Flux Right Now",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "655486725620375552": {
+            "id": "655486725620375552",
+            "text": "Wait Until You Hear What Donald Trump Has To Say About React This Time",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "655048987188305921": {
+            "id": "655048987188305921",
+            "text": "Why 9 out of 10 VCs Recommend Ember",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "654409914689941505": {
+            "id": "654409914689941505",
+            "text": "This One Weird Trick Will Get Google To Finally Index Your Dumb Pointless Website",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "653965342402809856": {
+            "id": "653965342402809856",
+            "text": "12 Spooky Techniques For Creating Multiline Strings In JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "653648748824895489": {
+            "id": "653648748824895489",
+            "text": "Wait Until You See What Babel Is Trying To Sneak Into Your Minified Code",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "652571649791926272": {
+            "id": "652571649791926272",
+            "text": "How An Article On JavaScript Interviewing Finally Brought Us All Together",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "652491970686898181": {
+            "id": "652491970686898181",
+            "text": "This Video Of A Man Trying To Explain React To His Grandparents Will Make Your Day",
+            "username": "BuzzFeedJS",
+            "num_likes": 25,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "648583448735694848": {
+            "id": "648583448735694848",
+            "text": "7 React Components That Brought Down Facebook",
+            "username": "BuzzFeedJS",
+            "num_likes": 65,
+            "num_retweets": 58,
+            "num_replies": 0
+        },
+        "647814027570216960": {
+            "id": "647814027570216960",
+            "text": "I Thought CSS Was Over Until I Saw This",
+            "username": "BuzzFeedJS",
+            "num_likes": 47,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "646882156522962944": {
+            "id": "646882156522962944",
+            "text": "Here's Why React Is Declaring War On Accessibility",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "645980980327641088": {
+            "id": "645980980327641088",
+            "text": "10 Great JavaScript Haircuts to Kick Off The Fall Season",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "644593534700515330": {
+            "id": "644593534700515330",
+            "text": "Wait Until You See This Valid Line Of JavaScript That Has Facebook Scratching Their Heads",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "644174882964697088": {
+            "id": "644174882964697088",
+            "text": "How A Syntax Highlighting Bug Led To The Development Of JSX",
+            "username": "BuzzFeedJS",
+            "num_likes": 48,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "643450076757667840": {
+            "id": "643450076757667840",
+            "text": "Here's How Ember Is Killing Off Middle Management",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "641702858342166528": {
+            "id": "641702858342166528",
+            "text": "Do These Five Developers' Pregnancies Line Up With The Recent Npm Outage?",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "639581572291760129": {
+            "id": "639581572291760129",
+            "text": "Meet The Hot New JavaScript Library That The React Team Doesn't Want You To Hear About",
+            "username": "BuzzFeedJS",
+            "num_likes": 33,
+            "num_retweets": 33,
+            "num_replies": 1
+        },
+        "639180723400929280": {
+            "id": "639180723400929280",
+            "text": "Here's How IE6 Got The Box Model Right And You All Fucked It Up",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "638776315219476481": {
+            "id": "638776315219476481",
+            "text": "How CSS Nearly Ruined Google's New Logo",
+            "username": "BuzzFeedJS",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "638409494679171072": {
+            "id": "638409494679171072",
+            "text": "JavaScript's Equality Operator Actually Makes Perfect Sense, Wait Until You Hear Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "636584170958012416": {
+            "id": "636584170958012416",
+            "text": "This Man Says You Don't Need React, Use These 3000 Lines Instead",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "635932543166996480": {
+            "id": "635932543166996480",
+            "text": "This Man Has The Audacity To Claim That JavaScript Is Beautiful",
+            "username": "BuzzFeedJS",
+            "num_likes": 7,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "634811610721157120": {
+            "id": "634811610721157120",
+            "text": "Watch What Happens When This Man Realizes The Technology He Works With Every Day Was Built To Help Scientists Share Research Papers",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "634464457494765568": {
+            "id": "634464457494765568",
+            "text": "This DevTools Author Still Relies On Console.log For All His Debugging",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "634029478327504896": {
+            "id": "634029478327504896",
+            "text": "We Interviewed The Moms Of 10 Famous JavaScript Developers And Here's What They Had To Say",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "633309418587865088": {
+            "id": "633309418587865088",
+            "text": "Maybe jQuery Isn't The Problem. Maybe You're The Problem. Here's Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 25,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "631195852980232192": {
+            "id": "631195852980232192",
+            "text": "Relay Has Been Out For Less Than One Hour But This Hacker News Commenter Has Already Read Its Entire Source Code",
+            "username": "BuzzFeedJS",
+            "num_likes": 56,
+            "num_retweets": 41,
+            "num_replies": 1
+        },
+        "629348096024121344": {
+            "id": "629348096024121344",
+            "text": "This Man Took A Picture Of His JavaScript Every Day For Two Years",
+            "username": "BuzzFeedJS",
+            "num_likes": 50,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "628967934166106113": {
+            "id": "628967934166106113",
+            "text": "I'm Scared Of JSX Too, But We'll Get Through This",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "628617945699102720": {
+            "id": "628617945699102720",
+            "text": "This Man Looked Deep Into Ember's Commit History And You Won't Believe What He Found",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "628258422060744705": {
+            "id": "628258422060744705",
+            "text": "How CSS Nearly Bankrupt Facebook",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "627913190223974400": {
+            "id": "627913190223974400",
+            "text": "Listen To This Woman's Heart-Warming Tale Of Software Development Before The Age Of JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "627618928131313664": {
+            "id": "627618928131313664",
+            "text": "This Design Pattern Will Make You Forget You're Writing JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "625700161356959744": {
+            "id": "625700161356959744",
+            "text": "I Had No Idea You Could Do This With CSS, But Should You?",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "623603606919327744": {
+            "id": "623603606919327744",
+            "text": "12 Websites Built With Ember That The Core Team Doesn't Want You To Know About",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "623154104777334784": {
+            "id": "623154104777334784",
+            "text": "Why Putting Markup In Your JavaScript Is Officially Cool Now",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "621789727574749184": {
+            "id": "621789727574749184",
+            "text": "It's Okay, We're All Bad At JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 38,
+            "num_retweets": 41,
+            "num_replies": 0
+        },
+        "621353449469284352": {
+            "id": "621353449469284352",
+            "text": "Wait Until You Hear How Ember Powered The Historic Pluto Fly-By",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "619207316282474497": {
+            "id": "619207316282474497",
+            "text": "Did This 90s Sitcom Predict The Death Of The Virtual DOM?",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "618842671503638529": {
+            "id": "618842671503638529",
+            "text": "5 Secret Tips For Getting Your CSS In Shape This Summer",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "618156315370651648": {
+            "id": "618156315370651648",
+            "text": "How ES6 Is Inspiring The Next Generation Of Terrible JavaScript Code",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "615644871928344576": {
+            "id": "615644871928344576",
+            "text": "This Man's Life Depended On Node.js Stable. Wait Until You Hear How He Died",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "613767690705051649": {
+            "id": "613767690705051649",
+            "text": "Why Making Fun Of jQuery Won't Get You A Seat At The Cool Table For Much Longer",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "613105937134522368": {
+            "id": "613105937134522368",
+            "text": "Why Does This Man Hate CSS So Much?",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "611244418042097664": {
+            "id": "611244418042097664",
+            "text": "ES7 Proposals Are Rolling In And Yes They're All Terrible",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "606241346869981184": {
+            "id": "606241346869981184",
+            "text": "Here's What Separates Npm From WordPress",
+            "username": "BuzzFeedJS",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "603619590229368832": {
+            "id": "603619590229368832",
+            "text": "Is React Really Faster Than JavaScript?",
+            "username": "BuzzFeedJS",
+            "num_likes": 48,
+            "num_retweets": 30,
+            "num_replies": 2
+        },
+        "601866772732575744": {
+            "id": "601866772732575744",
+            "text": "Underscore And Lodash Are In Talks To Merge, But Could This One Pull Request Tear It All Down?",
+            "username": "BuzzFeedJS",
+            "num_likes": 25,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "601419449128853504": {
+            "id": "601419449128853504",
+            "text": "Meet The Man Who Claims To Be \"Good\" At CSS",
+            "username": "BuzzFeedJS",
+            "num_likes": 51,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "601100301035253760": {
+            "id": "601100301035253760",
+            "text": "Wait Until You See What The Cast Of MooTools Is Up To Now",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "600723156177952768": {
+            "id": "600723156177952768",
+            "text": "Here's Why JSX Couldn't Have Come At A Worse Time",
+            "username": "BuzzFeedJS",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "600327239083888640": {
+            "id": "600327239083888640",
+            "text": "Node And Io.js Are Reportedly Back Together But Is There Already Trouble In Paradise?",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "599269378484523009": {
+            "id": "599269378484523009",
+            "text": "Don't Like JavaScript? Well Then Write Your Own Language And We'll Make Fun Of That One Too",
+            "username": "BuzzFeedJS",
+            "num_likes": 40,
+            "num_retweets": 30,
+            "num_replies": 1
+        },
+        "597577242382901248": {
+            "id": "597577242382901248",
+            "text": "This One Weird Diet Trick Keeps The React Team Running",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "597148826168913920": {
+            "id": "597148826168913920",
+            "text": "20 Great JavaScript Pranks That Turned Into Frameworks",
+            "username": "BuzzFeedJS",
+            "num_likes": 70,
+            "num_retweets": 57,
+            "num_replies": 0
+        },
+        "595632290958548992": {
+            "id": "595632290958548992",
+            "text": "Ember's Actually Really Fast Until You Use It",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "591307101135368192": {
+            "id": "591307101135368192",
+            "text": "Why Avoiding JQuery Doesn't Make You Interesting",
+            "username": "BuzzFeedJS",
+            "num_likes": 41,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "587668933580173313": {
+            "id": "587668933580173313",
+            "text": "7 ES6 Features That We Really Just Don't Need",
+            "username": "BuzzFeedJS",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "586267414452637697": {
+            "id": "586267414452637697",
+            "text": "With Glimmer The Only Bottleneck Is Your Imagination",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "585614564110270466": {
+            "id": "585614564110270466",
+            "text": "You'll Never Guess Who Just Annotated JQuery's Original Source Code",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "585114263057899520": {
+            "id": "585114263057899520",
+            "text": "React's Patent Clause Actually Makes Perfect Sense And Here's Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "582584774058844160": {
+            "id": "582584774058844160",
+            "text": "Yeah You Can Kinda Use Flexbox Here",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "581630283218219008": {
+            "id": "581630283218219008",
+            "text": "10 Telltale Signs You're Working With A JavaScript Codebase",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "580767310274654208": {
+            "id": "580767310274654208",
+            "text": "While Everyone Else Has Moved On, This Man Still Commits To Bower",
+            "username": "BuzzFeedJS",
+            "num_likes": 41,
+            "num_retweets": 33,
+            "num_replies": 0
+        },
+        "580481407920766977": {
+            "id": "580481407920766977",
+            "text": "That's Strange, It Looks Fine In My Browser",
+            "username": "BuzzFeedJS",
+            "num_likes": 31,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "579399995629015040": {
+            "id": "579399995629015040",
+            "text": "7 Influential JavaScript Developers You Probably Shouldn't Follow On Twitter",
+            "username": "BuzzFeedJS",
+            "num_likes": 50,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "577505580169895936": {
+            "id": "577505580169895936",
+            "text": "Did The Ancient Greeks Accidentally Invent JavaScript?",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "575436342294790144": {
+            "id": "575436342294790144",
+            "text": "How React Unexpectedly Saved Facebook From Bankruptcy",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "574005030145032192": {
+            "id": "574005030145032192",
+            "text": "Maybe We Should Get ES5 Right First?",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "573538662949908481": {
+            "id": "573538662949908481",
+            "text": "Is Angular Shaking Hands With The Devil?",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "572922070029352961": {
+            "id": "572922070029352961",
+            "text": "Here's Why Ember Looks Suspiciously Like JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "572605920393355265": {
+            "id": "572605920393355265",
+            "text": "Here's Why You Shouldn't Bother Worrying About JavaScript Performance",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "572452321923239937": {
+            "id": "572452321923239937",
+            "text": "Is Console.log Really Enough?",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "570630606012289024": {
+            "id": "570630606012289024",
+            "text": "Did A Secret Deal With Google Just Make React Ten Times Faster?",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "568095706021376001": {
+            "id": "568095706021376001",
+            "text": "Undefined Might Actually Be A Function And You'll Never Guess Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 80,
+            "num_retweets": 98,
+            "num_replies": 1
+        },
+        "567734794981629953": {
+            "id": "567734794981629953",
+            "text": "The Worst Thing You Can Do Right Now Is CSS",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "566285441150636033": {
+            "id": "566285441150636033",
+            "text": "If JQuery Is Written In JavaScript Then Why Don't You Just Write The JavaScript Yourself?",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "565927590523719681": {
+            "id": "565927590523719681",
+            "text": "Io.js Hasn't Killed Anyone Yet - Is It Only A Matter Of Time?",
+            "username": "BuzzFeedJS",
+            "num_likes": 4,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "565715798896181248": {
+            "id": "565715798896181248",
+            "text": "10 Indentation Styles You Have To See To Believe",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "564480601084792833": {
+            "id": "564480601084792833",
+            "text": "JavaScript May Have Been Written In 10 Days, But Wait Until You Hear How Much Time We've Spent Fixing It",
+            "username": "BuzzFeedJS",
+            "num_likes": 86,
+            "num_retweets": 79,
+            "num_replies": 2
+        },
+        "563826478727454720": {
+            "id": "563826478727454720",
+            "text": "The Top 1% Of Node Developers Control Over 50% Of Modules And Wait Until You Hear Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "563798671322386432": {
+            "id": "563798671322386432",
+            "text": "It's Far Too Late For TypeScript To Save Us Now",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "563035937400451074": {
+            "id": "563035937400451074",
+            "text": "You Won't Believe What Joyent Is Doing To Save Node.js",
+            "username": "BuzzFeedJS",
+            "num_likes": 7,
+            "num_retweets": 13,
+            "num_replies": 7
+        },
+        "562296975895187456": {
+            "id": "562296975895187456",
+            "text": "Wait Until You See What Else They've Managed To Cram Into A React Component",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "560655411708039168": {
+            "id": "560655411708039168",
+            "text": "Fuck, JavaScript Is Winning",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "555212648699019265": {
+            "id": "555212648699019265",
+            "text": "Io.js Is Here And You Better Watch The Fuck Out",
+            "username": "BuzzFeedJS",
+            "num_likes": 21,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "552875954532405248": {
+            "id": "552875954532405248",
+            "text": "You Won't Believe Who's Complaining About Node Now",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "548244800433324033": {
+            "id": "548244800433324033",
+            "text": "Not Even The Holidays Can Distract Us From The Nightmare That Is Grunt",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "545656558525247488": {
+            "id": "545656558525247488",
+            "text": "How A Drunken Rant Went On To Become The Virtual DOM",
+            "username": "BuzzFeedJS",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "545419807558885377": {
+            "id": "545419807558885377",
+            "text": "I Blame Npm For My Loneliness",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "542148844788518912": {
+            "id": "542148844788518912",
+            "text": "What Can We Learn From President Obama's JavaScript?",
+            "username": "BuzzFeedJS",
+            "num_likes": 22,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "541986714613325824": {
+            "id": "541986714613325824",
+            "text": "87% Of JavaScript Developers Couldn't Predict The Behavior Of \"this\" - Can You?",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "540558197614850048": {
+            "id": "540558197614850048",
+            "text": "Wait Until You See What JavaScript Looked Like In The 90s",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "540206849862426625": {
+            "id": "540206849862426625",
+            "text": "An Entire Class Of Problems Disappears When You Stop Writing CSS",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "537759146708598784": {
+            "id": "537759146708598784",
+            "text": "12 Juicy JavaScript Dramas To Gobble About Over Thanksgiving Dinner",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "536935632271314945": {
+            "id": "536935632271314945",
+            "text": "You Won't Believe Who Just Reached a 1-Year GitHub Streak",
+            "username": "BuzzFeedJS",
+            "num_likes": 39,
+            "num_retweets": 14,
+            "num_replies": 5
+        },
+        "536215414024716288": {
+            "id": "536215414024716288",
+            "text": "People Are Finally Realizing That Node Is Pretty Terrible",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "534401404392050689": {
+            "id": "534401404392050689",
+            "text": "I Can't Stop Smiling At This Man's Reaction To The Shadow DOM",
+            "username": "BuzzFeedJS",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "532978518851067905": {
+            "id": "532978518851067905",
+            "text": "A Virtual DOM Is This Man's Last Hope",
+            "username": "BuzzFeedJS",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "531917343489019905": {
+            "id": "531917343489019905",
+            "text": "Think Package Managers Are Simple? This Email Thread Will Blow You Away",
+            "username": "BuzzFeedJS",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "531276850668896258": {
+            "id": "531276850668896258",
+            "text": "Do You Have A Few Minutes To Talk About React?",
+            "username": "BuzzFeedJS",
+            "num_likes": 5,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "531226368948711424": {
+            "id": "531226368948711424",
+            "text": "You May Have Thought Vertically Centering Items With CSS Was Impossible, But Turns Out It's Just Really Fucking Dumb",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "529476272687042560": {
+            "id": "529476272687042560",
+            "text": "Sometimes You Try And Do The Right Thing And A Lot Of People Get Hurt - That's JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 36,
+            "num_retweets": 39,
+            "num_replies": 0
+        },
+        "529428912104042496": {
+            "id": "529428912104042496",
+            "text": "Nothing Can Stop Angular. Nothing.",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "528358234684289024": {
+            "id": "528358234684289024",
+            "text": "You Won't Believe Which US Senator Just Published Her First Node Module",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "528230404118306818": {
+            "id": "528230404118306818",
+            "text": "5 Babies Dressed As Tomster That Will Make Your Ovaries Pop [sponsored]",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "527946287254372354": {
+            "id": "527946287254372354",
+            "text": "Why Ember CLI Is The Father You Never Had",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "527514267008761856": {
+            "id": "527514267008761856",
+            "text": "12 Developers Who Think Upgrading Angular Is Worse Than Childbirth",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "526894116551270400": {
+            "id": "526894116551270400",
+            "text": "Ember Is Slow And It's All His Fault",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "525377743928950787": {
+            "id": "525377743928950787",
+            "text": "You Won't Believe Who Just Slept Their Way To The Node Advisory Board",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "525324236458852352": {
+            "id": "525324236458852352",
+            "text": "10 Great Webapps You Can't Use Because Google's An Asshole",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "524972133043019776": {
+            "id": "524972133043019776",
+            "text": "Meet The Monster Who Decided On The Capitalization Of XMLHttpRequest",
+            "username": "BuzzFeedJS",
+            "num_likes": 29,
+            "num_retweets": 47,
+            "num_replies": 0
+        },
+        "524375052444110848": {
+            "id": "524375052444110848",
+            "text": "12 Forks Of Node You Better Keep An Eye On This Holiday Season",
+            "username": "BuzzFeedJS",
+            "num_likes": 5,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "522795695229517824": {
+            "id": "522795695229517824",
+            "text": "This Man Had To Choose Between Two Evils And Here's Why He Went With EmberJS",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "522615253809373185": {
+            "id": "522615253809373185",
+            "text": "Best Practices For Using JavaScript In The Bedroom",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "522481562160726016": {
+            "id": "522481562160726016",
+            "text": "14 Gulp Plugins You Can Take Home To Meet Mom",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "522073734971023361": {
+            "id": "522073734971023361",
+            "text": "Meet The Person Fudging NPM's Numbers",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "521364881446948864": {
+            "id": "521364881446948864",
+            "text": "Here Are 12 ES6 Features That Make This Language Fucking Bearable Finally",
+            "username": "BuzzFeedJS",
+            "num_likes": 30,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "520758262803623936": {
+            "id": "520758262803623936",
+            "text": "This Man Looks Like Your Ordinary Firefighter, Wait Until You Hear How He's Using Node.js",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "520384649323745282": {
+            "id": "520384649323745282",
+            "text": "6 Essential Tips For Getting Over Your Ex-Framework",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "520276364306309120": {
+            "id": "520276364306309120",
+            "text": "Watch How This Man Reacts When He Finds His Long Lost Child In The DOM",
+            "username": "BuzzFeedJS",
+            "num_likes": 19,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "519903175495933952": {
+            "id": "519903175495933952",
+            "text": "90% Of Node Developers Couldn't Find The Missing Semicolon In This Picture",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "519673518070308864": {
+            "id": "519673518070308864",
+            "text": "We Should Have Never Made ParseInt And 12 Other Things @BrendanEich Is Sorry About",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "519307240688603138": {
+            "id": "519307240688603138",
+            "text": "Here's Why You Should Start Taking @Horse_JS Seriously",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "519166050668412928": {
+            "id": "519166050668412928",
+            "text": "31 Breaking Changes That Landed In Underscore Yesterday",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "517530123793620992": {
+            "id": "517530123793620992",
+            "text": "12 ES6 Features That Will Spice Up Your Love Life",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "516404079325880320": {
+            "id": "516404079325880320",
+            "text": "These 8 Women Ran NPM Install And What Happened Next Was Something Amazing",
+            "username": "BuzzFeedJS",
+            "num_likes": 28,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "515181195077091328": {
+            "id": "515181195077091328",
+            "text": "Here Are Some Of The Key Differences Between EmberJS and Hadoop",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "514593066704175104": {
+            "id": "514593066704175104",
+            "text": "12 Racist Variable Names On http://Facebook.com\u00a0",
+            "username": "BuzzFeedJS",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "513903552247242752": {
+            "id": "513903552247242752",
+            "text": "$ and _ Had Their Fun, Just Wait Until You See The Next Character To Go",
+            "username": "BuzzFeedJS",
+            "num_likes": 15,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "512704698025902082": {
+            "id": "512704698025902082",
+            "text": "Components Are A Great Idea And Nobody Knows Why",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "512432243416244224": {
+            "id": "512432243416244224",
+            "text": "This Hacker News Comment About Ember Will Change Your View About Nothing",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "512107929416126464": {
+            "id": "512107929416126464",
+            "text": "Why Hating JavaScript Is So Hot Right Now",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "511931120607567872": {
+            "id": "511931120607567872",
+            "text": "Meet The Man Who Thought CSS Was A Good Idea",
+            "username": "BuzzFeedJS",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "510535168617365504": {
+            "id": "510535168617365504",
+            "text": "Yahoos Fork Of Ember Will Leave You In Tears",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "510109800454447104": {
+            "id": "510109800454447104",
+            "text": "Is NPM Just An Elaborate Ruse?",
+            "username": "BuzzFeedJS",
+            "num_likes": 25,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "509845631570296832": {
+            "id": "509845631570296832",
+            "text": "An Exclusive Look At Playboy's New Front-End Package Manager",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "509476209097318400": {
+            "id": "509476209097318400",
+            "text": "Is This The End Of CouchDB As We Know It?",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "509396770493702144": {
+            "id": "509396770493702144",
+            "text": "Did MongoDB Bring Down The Apple Live Stream?",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "507940020322586624": {
+            "id": "507940020322586624",
+            "text": "Is JQuery Just One Big Memory Leak?",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "507564507330539520": {
+            "id": "507564507330539520",
+            "text": "Just Wait Until You Hear What This Ex-Google Employee Had To Say About AngularJS",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "507346266070994945": {
+            "id": "507346266070994945",
+            "text": "Why The Event Loop May Not Have Been A Very Good Idea At All",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "507215615275585536": {
+            "id": "507215615275585536",
+            "text": "You Don't Know Horror Until You've Seen This Function From Underscore's Source Code",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "506599510064115712": {
+            "id": "506599510064115712",
+            "text": "Is The Financial Sector Producing The Most Innovative JavaScript? No",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "505479681773031424": {
+            "id": "505479681773031424",
+            "text": "YUI Is Dead, Here Are 16 Other Frameworks That Might Be Next",
+            "username": "BuzzFeedJS",
+            "num_likes": 40,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "505034393421770752": {
+            "id": "505034393421770752",
+            "text": "This CoffeeScript Roadmap Will Leave You Speechless",
+            "username": "BuzzFeedJS",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "504450224400920577": {
+            "id": "504450224400920577",
+            "text": "He Wanted To Fix JSLint. What Happened Next Will Shock You",
+            "username": "BuzzFeedJS",
+            "num_likes": 35,
+            "num_retweets": 34,
+            "num_replies": 4
+        },
+        "503953908910538754": {
+            "id": "503953908910538754",
+            "text": "13 Of Our Favorite Passive Aggressive Commit Messages From Last Week",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "503639973887623169": {
+            "id": "503639973887623169",
+            "text": "11 JavaScript Developers Who Are Just Like Really Mad All The Time",
+            "username": "BuzzFeedJS",
+            "num_likes": 35,
+            "num_retweets": 33,
+            "num_replies": 2
+        },
+        "503502683479613440": {
+            "id": "503502683479613440",
+            "text": "6 Angular Tips To Help You Prepare For The Next Earthquake",
+            "username": "BuzzFeedJS",
+            "num_likes": 1,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "502979736650653696": {
+            "id": "502979736650653696",
+            "text": "12 Of Our Favorite Package Managers That Came Out Last Week",
+            "username": "BuzzFeedJS",
+            "num_likes": 24,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "502521485467353088": {
+            "id": "502521485467353088",
+            "text": "10 Top Secret Chrome DevTools Features Google Doesn't Want You To Know About",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "502128191394566146": {
+            "id": "502128191394566146",
+            "text": "This JSDoc Horror Story Will Make You Think Twice About Ever Commenting Your Code Again",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "501974426150117376": {
+            "id": "501974426150117376",
+            "text": "6 Fun And Easy Tricks For Uninstalling JSLint",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "501972932776583168": {
+            "id": "501972932776583168",
+            "text": "12 Node Developers Who Are Not Funny Enough To Run A Parody Account",
+            "username": "BuzzFeedJS",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "501519376580112384": {
+            "id": "501519376580112384",
+            "text": "16 Clever Ways To Avoid Using If Statements",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "499774459918966784": {
+            "id": "499774459918966784",
+            "text": "Should You Really Trust Facebook With Your DOM?",
+            "username": "BuzzFeedJS",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "499601314410946560": {
+            "id": "499601314410946560",
+            "text": "31 CoffeeScript Tricks You Should Never Use",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "498565179156606976": {
+            "id": "498565179156606976",
+            "text": "This One Weird V8 Trick Might Actually Fix JavaScript",
+            "username": "BuzzFeedJS",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "497916635333001216": {
+            "id": "497916635333001216",
+            "text": "Have We Finally Solved The Hardest Problem In Computer Science? Meet Require()",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "497836803756687360": {
+            "id": "497836803756687360",
+            "text": "How One Man Risked It All By Switching To Grunt",
+            "username": "BuzzFeedJS",
+            "num_likes": 3,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "497772418216513537": {
+            "id": "497772418216513537",
+            "text": "7 Node Developers Who Told You To Move To Oakland This Week",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "497601066511638528": {
+            "id": "497601066511638528",
+            "text": "12 NPM Error Messages That Will Trigger Violent Emotions From You",
+            "username": "BuzzFeedJS",
+            "num_likes": 18,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "497059630036832256": {
+            "id": "497059630036832256",
+            "text": "Oh Look Someone Made Another Style Guide",
+            "username": "BuzzFeedJS",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "496079702340018177": {
+            "id": "496079702340018177",
+            "text": "We Got The TC39 Board Drunk And Here's What They Had To Say",
+            "username": "BuzzFeedJS",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "495610509660393472": {
+            "id": "495610509660393472",
+            "text": "This Couple's GitHub Contributions Graph Is Solid Green And Here's How They Did It",
+            "username": "BuzzFeedJS",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "495375016133795840": {
+            "id": "495375016133795840",
+            "text": "Thinking About Using Coffeescript? Think Again",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "494978011935309825": {
+            "id": "494978011935309825",
+            "text": "4 More JavaScript Frameworks Are Now Up For Sale And Here's What They'll Set You Back",
+            "username": "BuzzFeedJS",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "494909544703614978": {
+            "id": "494909544703614978",
+            "text": "7 Node Developers Who Are Way Overdue For A Twitter Meltdown",
+            "username": "BuzzFeedJS",
+            "num_likes": 23,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "494657868985946112": {
+            "id": "494657868985946112",
+            "text": "I Thought JQuery Was My Friend Until This Happened",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "494357288434425856": {
+            "id": "494357288434425856",
+            "text": "Who's Left Node This Week?",
+            "username": "BuzzFeedJS",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "494357194691723265": {
+            "id": "494357194691723265",
+            "text": "5 Reasons LESS is More",
+            "username": "BuzzFeedJS",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "493077954063126529": {
+            "id": "493077954063126529",
+            "text": "12 Of Our Favorite Reaction GIFs To Object.observe",
+            "username": "BuzzFeedJS",
+            "num_likes": 7,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "491437279626674176": {
+            "id": "491437279626674176",
+            "text": "This Video Will Make You Think Twice About Ever Writing A Semicolon Again",
+            "username": "BuzzFeedJS",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "491249042463420417": {
+            "id": "491249042463420417",
+            "text": "Think You Know CSS? Wait Until You See This One Weird Trick",
+            "username": "BuzzFeedJS",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "491008825571680256": {
+            "id": "491008825571680256",
+            "text": "We Taught A Kindergarten Classroom Ember.js And This Is What We Found",
+            "username": "BuzzFeedJS",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "490579823970906112": {
+            "id": "490579823970906112",
+            "text": "23 Angular Snippets That Will Restore Your Faith In Humanity",
+            "username": "BuzzFeedJS",
+            "num_likes": 8,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "490338816230981634": {
+            "id": "490338816230981634",
+            "text": "29 Unbearable Callback Indentations You Have To See To Believe",
+            "username": "BuzzFeedJS",
+            "num_likes": 41,
+            "num_retweets": 48,
+            "num_replies": 0
+        },
+        "490228197079142400": {
+            "id": "490228197079142400",
+            "text": "You Will Not Believe The Comments On This Angular Pull Request",
+            "username": "BuzzFeedJS",
+            "num_likes": 12,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "490175652675735552": {
+            "id": "490175652675735552",
+            "text": "[QUIZ] Which Ember.js Core Member Are You?",
+            "username": "BuzzFeedJS",
+            "num_likes": 16,
+            "num_retweets": 14,
+            "num_replies": 5
+        }
+    },
+    "num_retweets_by_originator": {},
+    "users_retweeted": []
+}

@@ -1,0 +1,293 @@
+{
+    "is_complete": true,
+    "username": "WhinfreyChris",
+    "retweeted": {
+        "1123033196642201600": {
+            "id": "1123033196642201600",
+            "text": "Ethereum",
+            "username": "elonmusk",
+            "num_likes": 108574,
+            "num_retweets": 9320,
+            "num_replies": 4840
+        },
+        "1122580246853763072": {
+            "id": "1122580246853763072",
+            "text": "You can be in the right place at the right time only a limited number of times in your life. The time to #BUIDL is now.",
+            "username": "ethmarek",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1120326389482180608": {
+            "id": "1120326389482180608",
+            "text": "Thanks to @paulinablaszk, @WhinfreyChris, @realphillorenzo, @jaureguino, @scammi and @ianbrtt for making the Zeppelin community what it is :)https://forum.zeppelin.solutions/t/community-recognition-hall/537\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1113879241387593728": {
+            "id": "1113879241387593728",
+            "text": "Will ZK Rollup have a bunch of different iterations with weird names like Plasma does?\n\nGiving this brilliance away for free..\n\nZK Fruit Rollup\nZK Sleeve Rollup\nZK Rollup ToDaClub\nZK YogaMat Rollup\nZK Rollyourown\nZK Blunt Rollup\nZK Carpet Rollup\nZK Cheesey Rollup from Tacobell",
+            "username": "0x_____________",
+            "num_likes": 41,
+            "num_retweets": 6,
+            "num_replies": 4
+        },
+        "1107112226089910272": {
+            "id": "1107112226089910272",
+            "text": "Open finance has put ETH in the lead as money in the crypto space.",
+            "username": "econoar",
+            "num_likes": 226,
+            "num_retweets": 41,
+            "num_replies": 16
+        },
+        "1106317063071694849": {
+            "id": "1106317063071694849",
+            "text": "We've just released OpenZeppelin v2.2.0! \n\nYou will find the usual improvements and these new things:\n- an ERC20 with snapshots (like MiniMe Token!),\n- easy support for ERC20s with no ret values in SafeERC20.\n\nCome take a look and share your thoughts! https://forum.zeppelin.solutions/t/openzeppelin-2-2-0/408\u00a0\u2026",
+            "username": "mrnventuro",
+            "num_likes": 97,
+            "num_retweets": 49,
+            "num_replies": 1
+        },
+        "1105127155229433857": {
+            "id": "1105127155229433857",
+            "text": "We developed a new prediction market framework. It allows very gas efficient markets and can combine multiple prediction markets to create conditional tokens. I explained at #ethCC how they can be used:https://www.youtube.com/watch?v=brFdf7pIYag\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1105599410648637441": {
+            "id": "1105599410648637441",
+            "text": "Some quick #DaiCard stats, ~6 hours after launch:\n\nTotal Open Channels: 120\nTotal Payments Made: 61\nAverage Payment Size: $0.84\n\n",
+            "username": "ConnextNetwork",
+            "num_likes": 41,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1104087781964464128": {
+            "id": "1104087781964464128",
+            "text": "Arguably the most interesting use case of s[nt]arks is no privacy but scalability. between 500 and 33000 tps depending upon data availability guarantees. No exit games, No state channels. https://hackmd.io/BKVuB2j4Sw2KcA8nWHGbrg?view\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 103,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "1103986212380073985": {
+            "id": "1103986212380073985",
+            "text": "We would like to take #Solidity's ABIEncoderV2 out of experimental soon. For that, we need more real-world tests of the new #Yul optimizer. Please activate it in your project and tell us about your experiences! @ethereum",
+            "username": "ethchris",
+            "num_likes": 72,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "1103826969580453888": {
+            "id": "1103826969580453888",
+            "text": "just got a request from my MetaMask plugin to consent to providing analytics. User analytics are valuable, but I'd suggest that the @metamask_io team also start conducting live user experience testing and user interviews if you're not already!",
+            "username": "MikeCalvanese",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1103172755657240578": {
+            "id": "1103172755657240578",
+            "text": "A very important research question for plasma variants:pic.twitter.com/WtnDznvXd6",
+            "username": "ben_chain",
+            "num_likes": 113,
+            "num_retweets": 16,
+            "num_replies": 9
+        },
+        "1102931320471150593": {
+            "id": "1102931320471150593",
+            "text": "Really excited to announce the Gas Station Alliance: A partnership between Zeppelin & TabooKey to push MetaTx forward https://blog.zeppelinos.org/gas-station-network-alliance/\u00a0\u2026 thanks to @austingriffith @meta_cartel @yoavw @ZeppelinOrg @TabooKeyNet",
+            "username": "ramonrecuero",
+            "num_likes": 57,
+            "num_retweets": 21,
+            "num_replies": 5
+        },
+        "1102091204043321344": {
+            "id": "1102091204043321344",
+            "text": "Ethereum L2 state channels will usher in a period of UNPs (universal native payments). Be ready for interoperable financial instruments of all types utilizing non-custodial state channel hubs. \n\nWe\u2019ve barely scratched the surface of what\u2019s to come @ConnextNetwork",
+            "username": "Steven_McKie",
+            "num_likes": 45,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1101699427293519872": {
+            "id": "1101699427293519872",
+            "text": "Some interesting research discussions on zero knowledge payments on Ethereum here :) With @barrywhitehat's recent work and @statechannels, the best part is that these kind of ideas can be built at hackathons now.https://ethresear.ch/t/zk-channels-private-layer-2-payments-on-ethereum/5069\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 108,
+            "num_retweets": 40,
+            "num_replies": 5
+        },
+        "1101613173063536640": {
+            "id": "1101613173063536640",
+            "text": "FWIW, we usually ask @NomicLabs or @levelk_io when we need our own code externally audited",
+            "username": "smpalladino",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1100533784108253185": {
+            "id": "1100533784108253185",
+            "text": "Check out how much #DeFi has grown in <2 months as we built @defipulse\n\n#1 Dec 28 Mockups\n#2 Feb 14 Prototype Screenshot\n#3 Feb 26 Launch Leaderboard.\n\n@UniswapExchange up 250% in 12 days.\n@DharmaProtocol up 69%, literally in 1 day.\n@MakerDAO up 95% in 2 months\n\npic.twitter.com/xhfygcuLLG",
+            "username": "defipulse",
+            "num_likes": 84,
+            "num_retweets": 22,
+            "num_replies": 11
+        },
+        "1100445200772665345": {
+            "id": "1100445200772665345",
+            "text": "Proposal for CREATE2 factory supporting meta-transactions:  https://github.com/OpenZeppelin/openzeppelin-solidity/issues/1651\u00a0\u2026\nProposed implementation by @WhinfreyChris",
+            "username": "ethmarek",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1085291959390998534": {
+            "id": "1085291959390998534",
+            "text": "[SECURITY ALERT] #Constantinople upgrade is temporarily postponed out of caution following a consensus decision by #Ethereum developers, security professionals and other community members. More information and instructions are below.https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 1562,
+            "num_retweets": 1006,
+            "num_replies": 224
+        },
+        "1081311506418094081": {
+            "id": "1081311506418094081",
+            "text": "OpenZeppelin 2.1 is finally out! Ready to fulfil all your Solidity 0.5 needs. \n\nnpm install openzeppelin-solidityhttps://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v2.1.1\u00a0\u2026",
+            "username": "frangio_",
+            "num_likes": 95,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "1072537699628789761": {
+            "id": "1072537699628789761",
+            "text": "Excited to announce registry-builder, a modular registry library for Ethereum, also built as an EVM package for @zeppelin_os!https://medium.com/level-k/registry-builder-a-modular-registry-library-for-ethereum-65be70425b1b\u00a0\u2026",
+            "username": "levelk_io",
+            "num_likes": 37,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1065319272619130881": {
+            "id": "1065319272619130881",
+            "text": "Here's an ELI5 for the exchange vulnerability I Tweeted about last night, discovered by @levelk_io.\n\nBasically, when an exchange processes a withdrawal to an Ethereum address, that address might be a smart contract. That smart contract might have a default function that uses gas.",
+            "username": "phildaian",
+            "num_likes": 139,
+            "num_retweets": 56,
+            "num_replies": 2
+        },
+        "1065310068718088192": {
+            "id": "1065310068718088192",
+            "text": "The disclosure is now public: https://medium.com/level-k/public-disclosure-malicious-gastoken-minting-236b2f8ace38\u00a0\u2026 We appreciate the patience while affected parties were notified.",
+            "username": "levelk_io",
+            "num_likes": 69,
+            "num_retweets": 39,
+            "num_replies": 5
+        },
+        "1062694960502312960": {
+            "id": "1062694960502312960",
+            "text": "Checkout Tidbid, an EVM Package for oracles developed by @levelk_io\nhttps://github.com/levelkdev/tidbit/tree/tidbit-zos\u00a0\u2026https://github.com/levelkdev/tidbit-example\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1060936542028480513": {
+            "id": "1060936542028480513",
+            "text": "We will shortly disclose a security issue that could potentially cause exchanges a loss of funds. In order to receive advance notice prior to disclosure, please add your name to the following list via pull request, or by DM\u2019ing @trailofbits or @levelk_io:https://github.com/trailofbits/blockchain-security-contacts\u00a0\u2026",
+            "username": "levelk_io",
+            "num_likes": 89,
+            "num_retweets": 54,
+            "num_replies": 10
+        },
+        "1058379916767645696": {
+            "id": "1058379916767645696",
+            "text": "Zeppelin as the only ones winning the escape room at Devcon ! Well done guys\n@hellhound_ethpic.twitter.com/id6FuWYRub",
+            "username": "solenefeuillu",
+            "num_likes": 57,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1055499254364585984": {
+            "id": "1055499254364585984",
+            "text": "Level K is super excited that @AragonProject selected us for a Nest Grant!!https://twitter.com/AragonProject/status/1055495947386609666\u00a0\u2026",
+            "username": "levelk_io",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1049042840095842306": {
+            "id": "1049042840095842306",
+            "text": "Radical Pixels is a runner up! And Harberger Ads a finalist! Whoop. Radical Markets up in here at @ETHSanFrancisco.",
+            "username": "simondlr",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1048379684545748992": {
+            "id": "1048379684545748992",
+            "text": "Hello Twitter!",
+            "username": "WhinfreyChris",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "not_retweeted": {},
+    "num_retweets_by_originator": {
+        "elonmusk": 1,
+        "ethmarek": 2,
+        "ZeppelinOrg": 1,
+        "0x_____________": 1,
+        "econoar": 1,
+        "mrnventuro": 1,
+        "StefanDGeorge": 1,
+        "ConnextNetwork": 1,
+        "barrywhitehat": 1,
+        "ethchris": 1,
+        "MikeCalvanese": 1,
+        "ben_chain": 1,
+        "ramonrecuero": 1,
+        "Steven_McKie": 1,
+        "liamihorne": 1,
+        "smpalladino": 1,
+        "defipulse": 1,
+        "ethereum": 1,
+        "frangio_": 1,
+        "levelk_io": 4,
+        "phildaian": 1,
+        "zeppelin_os": 1,
+        "solenefeuillu": 1,
+        "simondlr": 1
+    },
+    "users_retweeted": [
+        "levelk_io",
+        "ethmarek",
+        "elonmusk",
+        "ZeppelinOrg",
+        "0x_____________",
+        "econoar",
+        "mrnventuro",
+        "StefanDGeorge",
+        "ConnextNetwork",
+        "barrywhitehat",
+        "ethchris",
+        "MikeCalvanese",
+        "ben_chain",
+        "ramonrecuero",
+        "Steven_McKie",
+        "liamihorne",
+        "smpalladino",
+        "defipulse",
+        "ethereum",
+        "frangio_",
+        "phildaian",
+        "zeppelin_os",
+        "solenefeuillu",
+        "simondlr"
+    ]
+}

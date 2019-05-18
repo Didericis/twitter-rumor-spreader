@@ -1,0 +1,516 @@
+{
+    "is_complete": true,
+    "username": "schroedingerdev",
+    "retweeted": {
+        "1123285001615958016": {
+            "id": "1123285001615958016",
+            "text": "Pleased to announce that the #Ethereum 2.0 workshop \"Road to #Interop\" will be hosted @BushXGenerator.\n \nWelcoming all Eth 2.0 researchers and implementers.https://www.eventbrite.com/e/road-to-interop-tickets-60384211803\u00a0\u2026",
+            "username": "josephdelong",
+            "num_likes": 58,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "1116890931876130816": {
+            "id": "1116890931876130816",
+            "text": "Greg from @ChainSafeth says tribalism is counterproductive and makes the lives of developers harder. We should collaborate more closely with other chains to develop critical base layer infrastructure such as #libp2p. He cites the G\u00f6rli testnet and @etclabs contribution. #EDCONpic.twitter.com/aFCxjZQ29O",
+            "username": "lrettig",
+            "num_likes": 90,
+            "num_retweets": 16,
+            "num_replies": 6
+        },
+        "1115352744913723399": {
+            "id": "1115352744913723399",
+            "text": "Going to #EDCON this week? Join members of the @PegaSysEng team in attending @ConsenSysAUS' International Panel \"The Future of #Ethereum in Asia and Beyond\" happening day 3 of #SydneyBlockchainWeek!http://bit.ly/2UlvvcO\u00a0",
+            "username": "PegaSysEng",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1115034857212502016": {
+            "id": "1115034857212502016",
+            "text": "Talking about bootstrap discovery on distributed networks over here:https://discourse.deltap2p.com/t/bootstrap-access-to-the-distributed-network/43\u00a0\u2026",
+            "username": "_tmio",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1113410824553385989": {
+            "id": "1113410824553385989",
+            "text": "Artemis, @PegaSysEng's #Ethereum 2 client, is the first client to implement the Hobbits wire protocol. Here's a demo of 4 nodes sync'd and running multiple validators. Thanks fellow Illumunati @_tmio, @whiteblock, @ChainSafeth, @DeanEigenmann et al. for the work on Hobbits.pic.twitter.com/CrEn96Noim",
+            "username": "JonnyRhea",
+            "num_likes": 96,
+            "num_retweets": 36,
+            "num_replies": 3
+        },
+        "1093281333944770562": {
+            "id": "1093281333944770562",
+            "text": "#Ethereum 2.0 development. Can confirm that it continues to be a hell of a journey. But by far the the best part is having the *incredible* @PegaSysEng Eth2 team (11 of us now) along for the ride https://twitter.com/dannyryan/status/1092992118728024064\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 55,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1092573520184233984": {
+            "id": "1092573520184233984",
+            "text": "Here are the takeaways from the #Eth222 workshop: \n\nVideo:\nhttps://youtu.be/3_ZFdQHivJQ\u00a0\n\nNotes: https://hackmd.io/8Wka34uPT2unwJoYvkRYew?view\u00a0\u2026\n\nBig thanks to all the speakers, attendees, and to @dannyryan for being \n\nAttn: @prylabs, @ChainSafeth, @PegaSysEng, @sigp_io, @ParityTech, @ethstatus",
+            "username": "JonnyRhea",
+            "num_likes": 15,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1090613603630239744": {
+            "id": "1090613603630239744",
+            "text": "We are one week away from our Pantheon De-Mystified webinar! Don't forget to register! We can't wait to show you how you can contribute to Pantheon. https://pegasys.tech/pantheon-de-mystified-understanding-and-contributing-to-a-clients-codebase/\u00a0\u2026",
+            "username": "PegaSysEng",
+            "num_likes": 26,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1090399936938532864": {
+            "id": "1090399936938532864",
+            "text": "1/ Here comes a thread to give a high-level overview of Ethereum 2.0, and its first phase, the Beacon Chain.\n#ethereum #eth2 #beaconchain",
+            "username": "cemozer_",
+            "num_likes": 228,
+            "num_retweets": 92,
+            "num_replies": 10
+        },
+        "1088987202334412800": {
+            "id": "1088987202334412800",
+            "text": "#ETH222 Update: This is where the magic will happen. \nSession leads: @akhilasraju, @cemozer_ , @badcryptobitch, @ameensol, @0xzak, @_tmio, and the py-libp2p team.\n\nhttp://peepeth.com/p/hce\u00a0pic.twitter.com/SiDLMlfi0o",
+            "username": "JonnyRhea",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1088882732137095168": {
+            "id": "1088882732137095168",
+            "text": "Come and read my ramblings about the future of #Ethereum's PoW Mainnet in the latest edition of What's New in Eth2. There's some good stuff in there as well \nhttps://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190125.html\u00a0\u2026\nhttp://peepeth.com/p/hbU\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 36,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1088615046039498752": {
+            "id": "1088615046039498752",
+            "text": "#ETH222: \nLet's talk about how we get our #ethereum 2 clients to talk.\nRegistration is limited, but we will livestream!",
+            "username": "JonnyRhea",
+            "num_likes": 13,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1087479663180611590": {
+            "id": "1087479663180611590",
+            "text": "#Eth222 Update:\n\nLatest sesh leads:\n - Preparing for TestNet: @0xzak of @whiteblock. We know he's got skillz\n - Wire Protocol: @_tmio of @ConsenSys. The force is strong with guy. Trust me.\n\nContact me, @josephdelong, @schroedingerdev, or @akhilasraju if you wanna lead a sesh.",
+            "username": "JonnyRhea",
+            "num_likes": 16,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1085769958003490820": {
+            "id": "1085769958003490820",
+            "text": "Want to be an #ethereum core dev?  Don't make me beg.  We want you.  Check out our help wanted issues on GitHub:  \nhttps://github.com/PegaSysEng/artemis/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted+%F0%9F%86%98%22\u00a0\u2026\n\nCome chat with us on Gitter: \nhttps://gitter.im/PegaSysEng/artemis\u00a0\u2026pic.twitter.com/Hf2gYwdBgc",
+            "username": "JonnyRhea",
+            "num_likes": 31,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1085645798346346497": {
+            "id": "1085645798346346497",
+            "text": "Hats off to @0xstark, @evan_van_ness, and @danielzak for this rockstar piece. A totally exhaustive summary of all things #Ethereum in 2018, from DeFi to Layer 2 and everything in between. I can already see myself referring back to this for months to come.https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 138,
+            "num_retweets": 40,
+            "num_replies": 4
+        },
+        "1083869998056120321": {
+            "id": "1083869998056120321",
+            "text": "Is unequal wealth ( or #ETH ) distribution more of a centralizing force in Proof of Stake than Mining Pools are in Proof of Work? #Serenity Now",
+            "username": "JonnyRhea",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1081546863617208321": {
+            "id": "1081546863617208321",
+            "text": "This week in crypto:\n\n1. Overstock using BTC to pay taxes\n2. Consensys & AMD build cloud computing\n3. DX Exchange launching tokenized stocks\n4. Thai government digitizing voting onchain\n5. Bakkt raised $182 million\n6. Fortnite store accepts Monero\n\nNo one can stop the progress!",
+            "username": "APompliano",
+            "num_likes": 3867,
+            "num_retweets": 1120,
+            "num_replies": 132
+        },
+        "1081224750427443201": {
+            "id": "1081224750427443201",
+            "text": "Happy New Year, everybody! \n\nYour first 2019 \"What's New in Eth2\" is ready for you: The To (the far side of) the Moon  Edition\n\nhttps://notes.ethereum.org/c/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20190104.html\u00a0\u2026\nhttp://peepeth.com/p/gIC\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 33,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1080926345436323840": {
+            "id": "1080926345436323840",
+            "text": "Shout out to @misticlabs for his recent contributions to the @PegaSysEng #artemis #ethereum beaconchain implementation. So cool to meet people that are passionate and want to get involved. Don't be afraid to reach out to us and see how you can help:https://github.com/PegaSysEng/artemis\u00a0\u2026",
+            "username": "JonnyRhea",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1077432663684931584": {
+            "id": "1077432663684931584",
+            "text": "Shout out to @cemozer_ for submitting his first PR to @PegaSysEng's #Ethereum BeaconChain repo on Christmas Eve!!!  A big thanks from the Artemis team: @benjaminion_xyz, @akhilasraju, @schroedingerdev, @josephdelong, and myself.",
+            "username": "JonnyRhea",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1075411613287677952": {
+            "id": "1075411613287677952",
+            "text": "@PegaSysEng #ETH2 R&D team just open sourced our beacon chain client. We will be posting tons of issues for people to resolve. It's still early in development and we want to build a strong community.  Now is the time to get involved!https://github.com/PegaSysEng/artemis\u00a0\u2026",
+            "username": "JonnyRhea",
+            "num_likes": 126,
+            "num_retweets": 39,
+            "num_replies": 2
+        },
+        "1075417608810364928": {
+            "id": "1075417608810364928",
+            "text": "Your latest update on What's New in #Eth2. This week, the \"Artemis Edition\". #Ethereumhttps://notes.ethereum.org/c/Sk8Zs--CQ\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 38,
+            "num_retweets": 14,
+            "num_replies": 5
+        },
+        "1076155696784248835": {
+            "id": "1076155696784248835",
+            "text": "Good news - #web3j @Android 4.1 is now out of beta just in time for Christmas!https://medium.com/blk-io/christmas-has-come-early-for-web3j-android-developers-27425534272b\u00a0\u2026",
+            "username": "conors10",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1073244716819537922": {
+            "id": "1073244716819537922",
+            "text": "So @opera gets it! Really excited to see them doubling down on #Web3. Having a native #crypto wallet in the browser gives everyday users an easy way to explore dApps like @airswap or @CryptoKitties.https://www.youtube.com/watch?v=YszeFIyJIcI\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 270,
+            "num_retweets": 65,
+            "num_replies": 13
+        },
+        "1072868073726570498": {
+            "id": "1072868073726570498",
+            "text": "Here is a link to a topic I started in http://ethresear.ch\u00a0 :\n\nhttps://ethresear.ch/t/exploring-worst-case-scenarios-in-eth-2/4566\u00a0\u2026\n\nIt is my attempt to start a public discussion to explore scenarios where #Ethereum #Serenity safety guarantees could realistically be compromised (intentionally or otherwise).",
+            "username": "JonnyRhea",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1071447173651402753": {
+            "id": "1071447173651402753",
+            "text": "We just released 1.0.0-beta.37 to fix two critical issues, improving the documentation and extending the options object of the HttpProvider. Thanks to the @trufflesuite team for fixing the issues!\n\nhttps://github.com/ethereum/web3.js/releases/tag/1.0.0-beta.37\u00a0\u2026pic.twitter.com/Tzy2SQHjAg",
+            "username": "web3_js",
+            "num_likes": 49,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1059524670838456326": {
+            "id": "1059524670838456326",
+            "text": "Had a great time in #prague with @schroedingerdev, @josephdelong, @_tmio, @ino_murko, & @JonnyRhea. Excited to work with this team on core projects for #Ethereum! #consensys #protocoldevs #eth2 #mana #quorum #plasma #werehiring #needsomefemaleteammembersnowpic.twitter.com/zvjbUEpwoO",
+            "username": "cleishm",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1058427963077726209": {
+            "id": "1058427963077726209",
+            "text": "Me and @schroedingerdev chilling that the @ConsenSys Tower Party after #devcon4pic.twitter.com/4ezKpPhch4",
+            "username": "josephdelong",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1116921239337967617": {
+            "id": "1116921239337967617",
+            "text": "@robsaltini of @PegaSysEng enlightening all of us at #edcon2019 about the work that went in to developing the IBFT 2.0 spec. It\u2019s awesome to have the opportunity with such skilled researchers as we have in PegaSys R&D.pic.twitter.com/eG16Gv7ZmV",
+            "username": "schroedingerdev",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1116556034158424064": {
+            "id": "1116556034158424064",
+            "text": "Shout out to @0xzak from @whiteblock talking about network simulation for #Eth2 at #edcon2019. Special thanks to @JonnyRhea for the hard work to get @PegaSysEng\u2019s #Artemis client running within the Whiteblock framework. Let\u2019s make Eth2 enterprise scale and production ready.pic.twitter.com/Wlt2WIT5l7",
+            "username": "schroedingerdev",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1116147643564953601": {
+            "id": "1116147643564953601",
+            "text": "It wouldn\u2019t be an #Ethereum development conference if it didn\u2019t open with @VitalikButerin rapping. Now the question is how is @PegaSysEng going to keep up the momentum for #Artemis and #Pantheon releases? I nominate @benjaminion_xyz to help us drop some sick beats. #edcon2019pic.twitter.com/Wcy6x1TZbD",
+            "username": "schroedingerdev",
+            "num_likes": 31,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1115172209117421568": {
+            "id": "1115172209117421568",
+            "text": "EDCON Day 1/-3 Update: Super tired, since sleeping on planes == lolno. Hotel had room available early. Napped. (Too long.) Walked to ICC Sydney. People dressed too professionally. Looked up hack venue and gave up. Coded in hotel, will try again tomorrow. Got an awesome pic tho.pic.twitter.com/JA0EiEyaDd",
+            "username": "schroedingerdev",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105554743919853568": {
+            "id": "1105554743919853568",
+            "text": "Artemis is coming along nicely.https://twitter.com/JonnyRhea/status/1105550631530582016\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094086806495285249": {
+            "id": "1094086806495285249",
+            "text": "Who doesn\u2019t fancy an opinionated discussion about bits and bytes and unsigned types as part of their evening reading? Maybe some 2s complement arithmetic too. Probably the best What\u2019s New in #Ethereum 2.0 yet. Also check out @PegaSysEng\u2019s Artemis #Eth2 client. It\u2019s pretty cool.https://twitter.com/benjaminion_xyz/status/1093964025493372928\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093415306276622336": {
+            "id": "1093415306276622336",
+            "text": "Definitely an article worth the read. #Blockchain development boom is unlike many previous technologies because liquidity came early. The important thing now is to focus on building infrastructure. Build the decentralized future! #buidl #Ethereum #Eth2https://twitter.com/benjaminion_xyz/status/1093116222915440646\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092174082274148352": {
+            "id": "1092174082274148352",
+            "text": "Don\u2019t get phished. If you have to click on a link in an email (i.e. email verification) only do so from messages you\u2019re expecting. Otherwise always always just type out the URL you know, and look for the org name you\u2019re expecting in the EVSSL cert info.https://twitter.com/SwiftOnSecurity/status/1091933620749721601\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1091449788531335169": {
+            "id": "1091449788531335169",
+            "text": "Check out what\u2019s new in #Eth2. Beacon Chain (Phase 0) spec had its first versioned release. Thanks @benjaminion_xyz for taking the time to write this every week.https://twitter.com/benjaminion_xyz/status/1091428614107774976\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1089031073571442688": {
+            "id": "1089031073571442688",
+            "text": "Truer words haven\u2019t been spoken. Or maybe they have. I honestly don\u2019t know.  But for real, knowledge is power. Admitting you\u2019re wrong or don\u2019t know is how you build strength, not a sign of weakness. May we all aspire to be so honest with ourselves and learn from each other.https://twitter.com/JonnyRhea/status/1088681801005101058\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1087910585273106433": {
+            "id": "1087910585273106433",
+            "text": "Hey #Ethereum community and #cryptotwitter, join me and the Artemis team from @PegaSys as we discuss #Eth2 on Feb 2 after Stanford Blockchain Conference. We\u2019re getting the brightest minds in crypto together to discuss how to accelerate ETH 2 development. #Eth222 is gonna be epic.https://twitter.com/JonnyRhea/status/1087906846667694080\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1083838229265166342": {
+            "id": "1083838229265166342",
+            "text": "Thanks @benjaminion_xyz for the work you put in to this newsletter every week. It's as entertaining as it is educational. Now back to #BUIDL-ing #Eth2 beacon chain with @PegaSysEng and the Artemis team.https://twitter.com/benjaminion_xyz/status/1083817420614180868\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1081821410509635584": {
+            "id": "1081821410509635584",
+            "text": "After spending the majority of my Saturday putting off housework by refactoring gradle configs, I've decided that Java project config is the type of thing people do once and never look at again.\n\nAlas, PegaSys's #Eth2 Artemis configs are a bit better.https://github.com/PegaSysEng/artemis\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075448756206755841": {
+            "id": "1075448756206755841",
+            "text": "Verifying my identity on http://Peepeth.com\u00a0  0xd8e818a8cb104ecb3b91c37c3265e5f8c8614db1",
+            "username": "schroedingerdev",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1073477851188420608": {
+            "id": "1073477851188420608",
+            "text": "Why it seemed like a good idea to take a picture in the dark theater before a Cirque du Soleil show is probably better left unpondered, but I very much appreciate being able to call @midnightmusic13 (and of course @alias58) my friends for the last 5ish years. Y\u2019all are awesome.pic.twitter.com/YbToM1UGXl",
+            "username": "schroedingerdev",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1073470812106022913": {
+            "id": "1073470812106022913",
+            "text": "Also thanks to @midnightmusic13, we have an exclusive behind the scenes look at the making of this year\u2019s Christmas card.pic.twitter.com/ehMd7WTBUF",
+            "username": "schroedingerdev",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1073469843867721728": {
+            "id": "1073469843867721728",
+            "text": "Last night in Vegas. Figured I\u2019d take care of the Christmas photo obligation.pic.twitter.com/58rKfz4B9c",
+            "username": "schroedingerdev",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1073098156529700865": {
+            "id": "1073098156529700865",
+            "text": "Thanks @midnightmusic13 for taking the picture, despite the tie. Oh, the tie also sings a wonderful rendition of Rudolf the Red-nosed Reindeer.",
+            "username": "schroedingerdev",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1073097574985297921": {
+            "id": "1073097574985297921",
+            "text": "At #HellsKitchen in Las Vegas. Shoutout to @hudsonjameson for letting me borrow the killer tie.pic.twitter.com/ftQLvpXw2H",
+            "username": "schroedingerdev",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1059822658131578880": {
+            "id": "1059822658131578880",
+            "text": "Familiarity often wins. Also there is a beauty for millions of people living under oppressive regimes to have the plausible deniability of saying \u201cI forgot\u201d. It\u2019s easy for someone to get a face or thumbprint, but getting a password out of a determined party is hard.https://twitter.com/troyhunt/status/1059367454038614018\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058711565073928192": {
+            "id": "1058711565073928192",
+            "text": "Sitting on a bench inside an old fort on a rainy day in the Czech Republic. The scenery is truly something to see.pic.twitter.com/HCWcFuZMZN",
+            "username": "schroedingerdev",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058409198936047616": {
+            "id": "1058409198936047616",
+            "text": "Great #Devcon4. Thanks to the folks at @ethereum for all the work they put in organizing. Big thanks to @hudsonjameson who got me in to the space back in the presale days. It\u2019s been a fun ride.pic.twitter.com/huz4FM9JzI",
+            "username": "schroedingerdev",
+            "num_likes": 34,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1057957403277344769": {
+            "id": "1057957403277344769",
+            "text": "Graphic explaining why Zcash is using SNARKs. tl;dr STARKs would require too much data per block, and the Powers of Tau signing ceremony, in which @hudsonjameson and I participated (http://github.com/ZcashFoundatio\u00a0\u2026), does a very good job handling the \u201ctoxic waste\u201d. #Devcon4 #Zcashpic.twitter.com/cJwhV8k4AV",
+            "username": "schroedingerdev",
+            "num_likes": 46,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "1057939314276007937": {
+            "id": "1057939314276007937",
+            "text": "Zooko with ZCash working hard on increasing privacy and adoption of zero knowledge protocols in the crypto ecosystem. #Devcon4 #ZCash #privacypic.twitter.com/M01afneYz9",
+            "username": "schroedingerdev",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1057928991519244291": {
+            "id": "1057928991519244291",
+            "text": "In order to build for the future you need to understand the past.\n\u201cWe will take a more proactive stance in testing our assumptions...As we continue to grow, it becomes increasingly difficult to capture and transfer the historical context of trade-offs and decisions...\u201dhttps://twitter.com/github/status/1057379591365394432\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057910747454496768": {
+            "id": "1057910747454496768",
+            "text": "Great to meet @BobSummerwill in person. Looking forward to continuing fighting the good fight to aid global Ethereum adoption. #Devcon4https://twitter.com/BobSummerwill/status/1057689917554417665\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057614389757534209": {
+            "id": "1057614389757534209",
+            "text": "The more more client options people have, the more diverse the Ethereum community becomes. #Devcon4https://twitter.com/ConsenSys/status/1057612566380404737\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057608925288124418": {
+            "id": "1057608925288124418",
+            "text": "Years of pitching crazy (yet cool) research projects in the corporate world has taught me a couple of things. One is that UI/UX is critical to adoption. #Devcon4pic.twitter.com/faFTC33p5P",
+            "username": "schroedingerdev",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057584269097234432": {
+            "id": "1057584269097234432",
+            "text": "Listening to Vitalik give a high level roadmap for Ethereum 2.0. #Devcon4\n@JonnyRhea @josephdelongpic.twitter.com/nd14gVJZnL",
+            "username": "schroedingerdev",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054773096941420544": {
+            "id": "1054773096941420544",
+            "text": "This is just funny. I actually believe this tweet had good intentions, demonstrating that sharing passwords is really bad, but...c'mon it's the NSA. They don't exactly have the best reputation in upholding privacy.https://twitter.com/x0rz/status/1052580671452012544\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054582216989147136": {
+            "id": "1054582216989147136",
+            "text": "Tech is my passion, but it\u2019s important to take time to recharge out in the real world. Enjoying the peace and quiet out in the New Mexico desert. #camping #jeeppic.twitter.com/FMuD2tVps9",
+            "username": "schroedingerdev",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054493863073734656": {
+            "id": "1054493863073734656",
+            "text": "Verifying myself: I am schroedingercode on http://Keybase.io\u00a0. MgijO3-tbx-AO4OZVh-vBToFlsvw7ef0oeCY / https://keybase.io/schroedingercode/sigs/MgijO3-tbx-AO4OZVh-vBToFlsvw7ef0oeCY\u00a0\u2026",
+            "username": "schroedingerdev",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "josephdelong": 2,
+        "lrettig": 1,
+        "PegaSysEng": 2,
+        "_tmio": 1,
+        "JonnyRhea": 11,
+        "benjaminion_xyz": 4,
+        "cemozer_": 1,
+        "ethereumJoseph": 2,
+        "APompliano": 1,
+        "conors10": 1,
+        "web3_js": 1,
+        "cleishm": 1
+    },
+    "users_retweeted": [
+        "JonnyRhea",
+        "benjaminion_xyz",
+        "josephdelong",
+        "PegaSysEng",
+        "ethereumJoseph",
+        "lrettig",
+        "_tmio",
+        "cemozer_",
+        "APompliano",
+        "conors10",
+        "web3_js",
+        "cleishm"
+    ]
+}

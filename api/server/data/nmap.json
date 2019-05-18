@@ -1,0 +1,1400 @@
+{
+    "is_complete": true,
+    "username": "nmap",
+    "retweeted": {
+        "903624286266572801": {
+            "id": "903624286266572801",
+            "text": "1997: Nmap was first released as a simple port scanner via an article in Phrack magazine (Volume 7, Issue 51) which included source code.pic.twitter.com/nPkxvRa906",
+            "username": "todayininfosec",
+            "num_likes": 980,
+            "num_retweets": 693,
+            "num_replies": 19
+        },
+        "872473117989498881": {
+            "id": "872473117989498881",
+            "text": "Folks, the 2nd edition of Nmap: Network Exploration and Security Auditing Cookbook is available on Amazon! http://calderonpale.com/nmap-network-exploration-and-security-auditing-cookbook-2nd-edition-is-now-available/\u00a0\u2026 #infosecpic.twitter.com/2KCkvN0q0K",
+            "username": "calderpwn",
+            "num_likes": 411,
+            "num_retweets": 208,
+            "num_replies": 11
+        },
+        "804486187423559680": {
+            "id": "804486187423559680",
+            "text": " What do @nmap users want for Christmas? Please RT #infosecq #Poll",
+            "username": "bonsaiviking",
+            "num_likes": 30,
+            "num_retweets": 85,
+            "num_replies": 13
+        },
+        "771475388379770881": {
+            "id": "771475388379770881",
+            "text": "Happy 19th birthday to Nmap! Eye cake by my amazing wife, @chaiamillerpic.twitter.com/x6dbNvXMxi",
+            "username": "bonsaiviking",
+            "num_likes": 170,
+            "num_retweets": 63,
+            "num_replies": 3
+        },
+        "625342397887717376": {
+            "id": "625342397887717376",
+            "text": "Check our own particular 0-day Clothing tribute to the great Nmap scanner. @nmap tees & hoodies for BH/Defcon/Bsides https://www.zerodayclothing.com/nmap_store.php\u00a0",
+            "username": "zerodayclothing",
+            "num_likes": 22,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "568866120414793728": {
+            "id": "568866120414793728",
+            "text": "My new #book about #nmap scripting engine development has been published! More news to come! http://www.amazon.com/Mastering-Scripting-Engine-Paulino-Calderon/dp/1782168311/\u00a0\u2026pic.twitter.com/wJZamsV6mf",
+            "username": "calderpwn",
+            "num_likes": 98,
+            "num_retweets": 97,
+            "num_replies": 7
+        },
+        "453710320167821313": {
+            "id": "453710320167821313",
+            "text": "#nse script ssl-heartbleed.nse committed to #nmap as rev 32798. Thanks everyone for helping out testing.",
+            "username": "nevdull77",
+            "num_likes": 45,
+            "num_retweets": 104,
+            "num_replies": 9
+        },
+        "153808606058385408": {
+            "id": "153808606058385408",
+            "text": "Just committed a bunch of new #Nmap scripts for natpmp, riak, memcached, redis, socks, http-proxy and vmware http://bit.ly/swJ3Tk\u00a0",
+            "username": "nevdull77",
+            "num_likes": 12,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1409846956007424": {
+            "id": "1409846956007424",
+            "text": "Fathom 0.97 released, full suite (nmap scanning, data query & maint).  http://bit.ly/d03EqH Would love to hear feedback!",
+            "username": "TomSellers",
+            "num_likes": 5,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "20637197568": {
+            "id": "20637197568",
+            "text": "15 new #nmap scripts including scripts for Informix, Oracle, VNC, Lotus Domino and GIOP. Pleas help me test them http://is.gd/e8NO0",
+            "username": "nevdull77",
+            "num_likes": 7,
+            "num_retweets": 14,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1101220884558180353": {
+            "id": "1101220884558180353",
+            "text": "Congratulations to @WiresharkNews on shipping Wireshark 3 today! It is also now powered by our Npcap Windows packet capturing driver. Happy sniffing!https://twitter.com/WiresharkNews/status/1101209252293558272\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 380,
+            "num_retweets": 158,
+            "num_replies": 1
+        },
+        "1054060631433797632": {
+            "id": "1054060631433797632",
+            "text": "Thanks @ISSAINTL for this award! And also for presenting Nmap Project founder Gordon \"Fyodor\" Lyon your 2018 Hall of Fame lifetime achievement award!https://twitter.com/ISSAINTL/status/1053358118019653633\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 118,
+            "num_retweets": 29,
+            "num_replies": 6
+        },
+        "1043233236384501761": {
+            "id": "1043233236384501761",
+            "text": "Thanks @NetworkWorld for the kind words and the great Nmap introduction for newer users!https://twitter.com/NetworkWorld/status/1030439186355113985\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 59,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1012790593485848576": {
+            "id": "1012790593485848576",
+            "text": "Nmap is a movie star (again)!  Rihanna uses it for a diamond heist in the new Ocean's 8 film. Pics and video: https://nmap.org/movies/#oceans8\u00a0",
+            "username": "nmap",
+            "num_likes": 1296,
+            "num_retweets": 465,
+            "num_replies": 21
+        },
+        "976164600390369280": {
+            "id": "976164600390369280",
+            "text": "We're delighted to make our first release of the year. Enjoy Nmap 7.70! http://seclists.org/nmap-announce/2018/0\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 488,
+            "num_retweets": 292,
+            "num_replies": 11
+        },
+        "917850214903328768": {
+            "id": "917850214903328768",
+            "text": "Congratulations to our @gsoc (Google Summer of Code) students accomplishing so much this summer! All four passed: http://seclists.org/nmap-announce/2017/5\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 100,
+            "num_retweets": 40,
+            "num_replies": 7
+        },
+        "892515288167497728": {
+            "id": "892515288167497728",
+            "text": "We've recuperated enough from Defcon to release Nmap 7.60 with SSH support, SMB2/3, 14 new scripts, and more! http://seclists.org/nmap-announce/2017/4\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 585,
+            "num_retweets": 473,
+            "num_replies": 8
+        },
+        "874733000180744192": {
+            "id": "874733000180744192",
+            "text": "We just released Nmap 7.50 with hundreds of improvements, in time for the summer security conferences. Enjoy! http://seclists.org/nmap-announce/2017/3\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 992,
+            "num_retweets": 936,
+            "num_replies": 17
+        },
+        "865370510472785920": {
+            "id": "865370510472785920",
+            "text": "We're proud to announce the 2017 Nmap/Google Summer of Code team! Our focus this year is NSE and pen-testing: http://seclists.org/nmap-announce/2017/2\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 90,
+            "num_retweets": 65,
+            "num_replies": 1
+        },
+        "846417470671929345": {
+            "id": "846417470671929345",
+            "text": "Students: Want to gain experience and earn up to US$6,600 this summer writing open source Nmap code? See https://nmap.org/soc/\u00a0",
+            "username": "nmap",
+            "num_likes": 67,
+            "num_retweets": 94,
+            "num_replies": 0
+        },
+        "829416153478885377": {
+            "id": "829416153478885377",
+            "text": "Congrats to our 5 #GSoC 2016 student interns! They all succeeded in their Nmap improvement projects: http://seclists.org/nmap-announce/2017/0\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 23,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "825859958017122304": {
+            "id": "825859958017122304",
+            "text": "The Nmap Project is only where we are because of so much help from all over the world. One of our favorite stories:https://opensource.googleblog.com/2016/02/coming-to-america-how-google-summer-of.html\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 114,
+            "num_retweets": 72,
+            "num_replies": 1
+        },
+        "811326506030886912": {
+            "id": "811326506030886912",
+            "text": "Happy holidays from the Nmap project! We're celebrating with a new release: http://seclists.org/nmap-announce/2016/7\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 144,
+            "num_retweets": 162,
+            "num_replies": 2
+        },
+        "809151668314980352": {
+            "id": "809151668314980352",
+            "text": "In the latest issue of @usenix ;login: magazine, editor Rik Farrow interviews Nmap author Fyodor: https://www.usenix.org/system/files/login/articles/login_winter16_08_lyon.pdf\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 25,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "794257755372601344": {
+            "id": "794257755372601344",
+            "text": "In new Oliver Stone film, Edward Snowden uses Nmap to win 8-hour CIA training challenge in just 38 mins! Details: https://nmap.org/movies/#snowden\u00a0",
+            "username": "nmap",
+            "num_likes": 102,
+            "num_retweets": 95,
+            "num_replies": 4
+        },
+        "793193666512883712": {
+            "id": "793193666512883712",
+            "text": "Watch out for the Enemy With No Face! US Army features Nmap (not in great way) in ad played during World Series:https://youtu.be/0LZnOorfS_Q\u00a0",
+            "username": "nmap",
+            "num_likes": 73,
+            "num_retweets": 53,
+            "num_replies": 3
+        },
+        "789609750581219328": {
+            "id": "789609750581219328",
+            "text": "Bugfix releases may sound boring, but not to those annoyed by the bugs. So enjoy your weekend & this new Nmap 7.31: http://seclists.org/nmap-announce/2016/6\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 52,
+            "num_retweets": 53,
+            "num_replies": 1
+        },
+        "781590364620599298": {
+            "id": "781590364620599298",
+            "text": "We just released Nmap 7.30, our first stable (non-beta) release in 6 months! Details: http://seclists.org/nmap-announce/2016/5\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 155,
+            "num_retweets": 177,
+            "num_replies": 1
+        },
+        "771489406448312320": {
+            "id": "771489406448312320",
+            "text": "Today is Nmap's 19th birthday and, instead of cake, we're celebrating open source style with a new release! http://seclists.org/nmap-announce/2016/4\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 363,
+            "num_retweets": 384,
+            "num_replies": 4
+        },
+        "755491648629387265": {
+            "id": "755491648629387265",
+            "text": "Nmap 7.25BETA1 released with new Npcap driver, 6 new NSE scripts, better OS detection, and more! http://seclists.org/nmap-announce/2016/3\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 142,
+            "num_retweets": 188,
+            "num_replies": 0
+        },
+        "755313041520988160": {
+            "id": "755313041520988160",
+            "text": "This will be a great workshop by Nmap devs @calderpwn and @TomSellers!https://twitter.com/defcon/status/755186817301745664\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 49,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "729875170697994240": {
+            "id": "729875170697994240",
+            "text": "We're proud to announce the 2016 Nmap/Google Summer of Code team! Performance, IPv6, OS X & more! http://seclists.org/nmap-announce/2016/2\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 45,
+            "num_retweets": 42,
+            "num_replies": 0
+        },
+        "711654218407411712": {
+            "id": "711654218407411712",
+            "text": "Congrats to Hobbit's Netcat turning 20 today! It was inspirational for Nmap & of course our Ncat reimplemtation: https://nmap.org/ncat/\u00a0",
+            "username": "nmap",
+            "num_likes": 109,
+            "num_retweets": 114,
+            "num_replies": 3
+        },
+        "710556816917155840": {
+            "id": "710556816917155840",
+            "text": "We just made our first release of the year and it's a big one! Nmap 7.10: http://seclists.org/nmap-announce/2016/1\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 172,
+            "num_retweets": 280,
+            "num_replies": 0
+        },
+        "707377755244011521": {
+            "id": "707377755244011521",
+            "text": "Google published a fantastic & inspirational story by one of our Summer of Code alumni. Way to go, Weilin! http://google-opensource.blogspot.com/2016/02/coming-to-america-how-google-summer-of.html\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 35,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "704450259406049281": {
+            "id": "704450259406049281",
+            "text": "Students: Want to gain experience and earn US$5,500 this summer writing open source Nmap code? See https://nmap.org/soc/\u00a0",
+            "username": "nmap",
+            "num_likes": 54,
+            "num_retweets": 77,
+            "num_replies": 1
+        },
+        "678329362324676608": {
+            "id": "678329362324676608",
+            "text": "Anyone want a paid internship improving or re-inventing Nmap OS detection? Full details: http://seclists.org/nmap-dev/2015/q4/259\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 75,
+            "num_retweets": 140,
+            "num_replies": 3
+        },
+        "667440730261049344": {
+            "id": "667440730261049344",
+            "text": "Nmap 7 released! https://nmap.org/7\u00a0",
+            "username": "nmap",
+            "num_likes": 572,
+            "num_retweets": 886,
+            "num_replies": 18
+        },
+        "661665580617826304": {
+            "id": "661665580617826304",
+            "text": "Nmap 6.49BETA6 released with 10 new NSE scripts, hundreds of OS/version detection sigs, and more. Enjoy! http://seclists.org/nmap-announce/2015/5\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 88,
+            "num_retweets": 148,
+            "num_replies": 0
+        },
+        "656630162449039360": {
+            "id": "656630162449039360",
+            "text": "Nmap is used to compromise FBI systems in the game Payday 2. You don't need the game to view in browser: http://fbi.overkillsoftware.com/\u00a0",
+            "username": "nmap",
+            "num_likes": 41,
+            "num_retweets": 43,
+            "num_replies": 2
+        },
+        "656246995900764160": {
+            "id": "656246995900764160",
+            "text": "All 5 Nmap @gsoc (Summer of Code) students passed this year and accomplished great things! Details: http://seclists.org/nmap-announce/2015/4\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 23,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "647500618588753920": {
+            "id": "647500618588753920",
+            "text": "Nmap celebrates its 18th birthday with 6.49BETA5 release! http://seclists.org/nmap-announce/2015/3\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 45,
+            "num_retweets": 98,
+            "num_replies": 0
+        },
+        "634626014757302273": {
+            "id": "634626014757302273",
+            "text": "Good news: Kate Mara uses Nmap in the new Fantastic Four movie. Bad news: We had to watch it: http://nmap.org/movies/#fantastic4\u00a0\u2026pic.twitter.com/Kb8vHloPbb",
+            "username": "nmap",
+            "num_likes": 147,
+            "num_retweets": 156,
+            "num_replies": 5
+        },
+        "634269222999187457": {
+            "id": "634269222999187457",
+            "text": "Nmap stars in its 18th movie! It was found in German cyber-thriller Who Am I: No System is Safe: http://nmap.org/movies/#whoami\u00a0",
+            "username": "nmap",
+            "num_likes": 35,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "633035288760053760": {
+            "id": "633035288760053760",
+            "text": "My favorite part of Defcon is meeting Nmap developers from all over the world!pic.twitter.com/DYnwJjoiGo",
+            "username": "nmap",
+            "num_likes": 91,
+            "num_retweets": 45,
+            "num_replies": 8
+        },
+        "628745495087812609": {
+            "id": "628745495087812609",
+            "text": "Nmap's Defcon Party Suite just received 14 shirts to give out to developers. Thanks @zerodayclothing!pic.twitter.com/CeantcMFfT",
+            "username": "nmap",
+            "num_likes": 67,
+            "num_retweets": 38,
+            "num_replies": 14
+        },
+        "611765016065257472": {
+            "id": "611765016065257472",
+            "text": "We won! @sourceforge removes fake Nmap download page: http://seclists.org/nmap-dev/2015/q2/304\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 79,
+            "num_retweets": 113,
+            "num_replies": 8
+        },
+        "611294826580082688": {
+            "id": "611294826580082688",
+            "text": "Nmap 6.49BETA2 released with important bug fixes as we march toward the next big stable release: http://seclists.org/nmap-dev/2015/q2/289\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 19,
+            "num_retweets": 58,
+            "num_replies": 0
+        },
+        "608418994236891137": {
+            "id": "608418994236891137",
+            "text": "Warning: @sourceforge is STILL distributing spyware from their fake Nmap page: http://seclists.org/nmap-dev/2015/q2/248\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 87,
+            "num_retweets": 451,
+            "num_replies": 11
+        },
+        "606339134949441538": {
+            "id": "606339134949441538",
+            "text": "Nmap 6.49BETA1 released. More scripts, more signatures, more ASCII art! http://seclists.org/nmap-announce/2015/2\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 70,
+            "num_retweets": 153,
+            "num_replies": 3
+        },
+        "606015851632795648": {
+            "id": "606015851632795648",
+            "text": "Dying project hosting site @sourceforge hijacks the Nmap account there: http://seclists.org/nmap-dev/2015/q2/194\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 70,
+            "num_retweets": 271,
+            "num_replies": 2
+        },
+        "596454241457217537": {
+            "id": "596454241457217537",
+            "text": "We're proud to introduce the 2015 Nmap/Google Summer of Code Team! http://seclists.org/nmap-announce/2015/1\u00a0\u2026pic.twitter.com/SplhIyfvzs",
+            "username": "nmap",
+            "num_likes": 18,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "580828888416325633": {
+            "id": "580828888416325633",
+            "text": "Students: Only two more days to apply for Nmap/Google Summer of Code! https://nmap.org/soc\u00a0",
+            "username": "nmap",
+            "num_likes": 17,
+            "num_retweets": 32,
+            "num_replies": 3
+        },
+        "572830622303068161": {
+            "id": "572830622303068161",
+            "text": "Students: Want to gain experience and earn US$5,500 this summer writing open source Nmap code? See https://nmap.org/soc\u00a0",
+            "username": "nmap",
+            "num_likes": 23,
+            "num_retweets": 79,
+            "num_replies": 2
+        },
+        "544561170376843266": {
+            "id": "544561170376843266",
+            "text": "Ryan Dewhurst (@ethicalhack3r) explains how he won a $7,500 Facebook bug bounty \"by just using Nmap\": http://blog.dewhurstsecurity.com/2014/12/09/how-i-hacked-facebook.html\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 90,
+            "num_retweets": 121,
+            "num_replies": 5
+        },
+        "526967710379290624": {
+            "id": "526967710379290624",
+            "text": "Congratulations to our successful Google Summer of Code students! Project details: http://seclists.org/nmap-dev/2014/q4/108\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 23,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "520143939429343232": {
+            "id": "520143939429343232",
+            "text": "Want a paid internship working on Nmap IPv6 in the Netherlands? Fox IT is hiring: http://seclists.org/nmap-dev/2014/q4/13\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 7,
+            "num_retweets": 59,
+            "num_replies": 0
+        },
+        "488836293317492736": {
+            "id": "488836293317492736",
+            "text": "New Snowden leak describes classified program to enhance Nmap for stealthier scanning through Tor: http://seclists.org/nmap-dev/2014/q3/79\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 57,
+            "num_retweets": 107,
+            "num_replies": 5
+        },
+        "451126215001128960": {
+            "id": "451126215001128960",
+            "text": "I'm sorry but I can't take this anymore. New Full Disclosure list closed! http://seclists.org/fulldisclosure/2014/Apr/14\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 31,
+            "num_retweets": 56,
+            "num_replies": 9
+        },
+        "448632859574538240": {
+            "id": "448632859574538240",
+            "text": "We're rebooting the Full Disclosure list! Join now: http://insecure.org/news/fulldisclosure/\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 89,
+            "num_retweets": 367,
+            "num_replies": 12
+        },
+        "446796071792943104": {
+            "id": "446796071792943104",
+            "text": "Students: Want to gain experience & earn $5,500 writing open source Nmap code? Applications due tomorrow: http://nmap.org/soc\u00a0",
+            "username": "nmap",
+            "num_likes": 21,
+            "num_retweets": 49,
+            "num_replies": 3
+        },
+        "423578333557690368": {
+            "id": "423578333557690368",
+            "text": "Last call for Favicon posters! We're not planning a 2nd printing:http://www.kickstarter.com/projects/305251342/icons-of-the-web-poster\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 2,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "413739586410401792": {
+            "id": "413739586410401792",
+            "text": "Want an Icons of the Web wall poster? We're only planning one print run, but you can still sign up:http://kck.st/19y1ffH\u00a0",
+            "username": "nmap",
+            "num_likes": 8,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "413395399877984256": {
+            "id": "413395399877984256",
+            "text": "Just released Icons of the Web 2013, a 5-gigapixel interactive collage of the top million websites! http://nmap.org/favicon/\u00a0",
+            "username": "nmap",
+            "num_likes": 16,
+            "num_retweets": 58,
+            "num_replies": 3
+        },
+        "396149678393159681": {
+            "id": "396149678393159681",
+            "text": "All our Google Summer of Code students passed this year and added great features to Nmap, Ncat & WinPcap! http://seclists.org/nmap-dev/2013/q4/108\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 14,
+            "num_retweets": 31,
+            "num_replies": 0
+        },
+        "393893455853658112": {
+            "id": "393893455853658112",
+            "text": "Hot on the heels of Elysium, Nmap used to launch nuclear missiles in G.I. Joe: Retaliation movie! http://nmap.org/movies/#gijoe\u00a0",
+            "username": "nmap",
+            "num_likes": 8,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "393489146548719616": {
+            "id": "393489146548719616",
+            "text": "Nmap is back in the movies! It was used to port scan Matt Damon's brain in Elysium: http://nmap.org/movies/#elysium\u00a0",
+            "username": "nmap",
+            "num_likes": 35,
+            "num_retweets": 127,
+            "num_replies": 3
+        },
+        "374345507159539713": {
+            "id": "374345507159539713",
+            "text": "Today is Nmap's 16th birthday! There's no sweet sixteen party, but Nmap does prints a special banner with -v.",
+            "username": "nmap",
+            "num_likes": 33,
+            "num_retweets": 199,
+            "num_replies": 8
+        },
+        "369582220203130881": {
+            "id": "369582220203130881",
+            "text": "We're delighted to release Nmap 6.40 with dozens of new scripts & features, plus a speed boost! http://seclists.org/nmap-announce/2013/1\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 23,
+            "num_retweets": 159,
+            "num_replies": 2
+        },
+        "342386305411477504": {
+            "id": "342386305411477504",
+            "text": "We're delighted to introduce the 2013 Nmap/Google Summer of Code Team! http://seclists.org/nmap-dev/2013/q2/404\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 5,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "327610990256615424": {
+            "id": "327610990256615424",
+            "text": "Students: Want to gain valuable experience this summer writing open source Nmap code & earn $5,000? See http://nmap.org/soc\u00a0",
+            "username": "nmap",
+            "num_likes": 15,
+            "num_retweets": 109,
+            "num_replies": 4
+        },
+        "274315964252835840": {
+            "id": "274315964252835840",
+            "text": "Ho ho ho! We just released Nmap 6.25 for the holiday season with hundreds of improvements: http://seclists.org/nmap-hackers/2012/4\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 34,
+            "num_retweets": 188,
+            "num_replies": 1
+        },
+        "254298235793969152": {
+            "id": "254298235793969152",
+            "text": "The Register wrote a great article summarizing the Hakin9 fiasco:http://www.theregister.co.uk/2012/10/05/hakin9_silliness/\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 17,
+            "num_retweets": 78,
+            "num_replies": 2
+        },
+        "253630873767907329": {
+            "id": "253630873767907329",
+            "text": "Hakin9 Magazine demands that we remove DICKS: http://seclists.org/nmap-dev/2012/q4/18\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 32,
+            "num_retweets": 158,
+            "num_replies": 9
+        },
+        "251781796759478273": {
+            "id": "251781796759478273",
+            "text": "Hakin9 Magazine's Nmap issue successfully trolled by security researchers! http://seclists.org/nmap-dev/2012/q3/1050\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 67,
+            "num_retweets": 255,
+            "num_replies": 3
+        },
+        "226458678860079104": {
+            "id": "226458678860079104",
+            "text": "Nmap saves the day on the TV show Rizzoli and Isles!http://youtu.be/rzRKNkP9CZo\u00a0",
+            "username": "nmap",
+            "num_likes": 9,
+            "num_retweets": 30,
+            "num_replies": 4
+        },
+        "225141174304907264": {
+            "id": "225141174304907264",
+            "text": "Everyone knows Nmap can scan ports, but did you think it could do this? http://pauldotcom.com/2012/07/using-nmap-to-screenshot-web-s.html\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 47,
+            "num_retweets": 41,
+            "num_replies": 0
+        },
+        "218841231088816128": {
+            "id": "218841231088816128",
+            "text": "Nmap stars in another movie! Trailer & screenshots: http://nmap.org/movies/#dredd\u00a0",
+            "username": "nmap",
+            "num_likes": 10,
+            "num_retweets": 45,
+            "num_replies": 4
+        },
+        "216316854833135616": {
+            "id": "216316854833135616",
+            "text": "Nmap 6 was a huge success, but did uncover a few bugs. Fixed now in 6.01! Release notes: http://seclists.org/nmap-hackers/2012/3\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 16,
+            "num_retweets": 94,
+            "num_replies": 0
+        },
+        "204646738559123457": {
+            "id": "204646738559123457",
+            "text": "Nmap 6 released! http://nmap.org/6\u00a0",
+            "username": "nmap",
+            "num_likes": 52,
+            "num_retweets": 593,
+            "num_replies": 9
+        },
+        "195255744306741248": {
+            "id": "195255744306741248",
+            "text": "We're delighted to introduce the 2012 Nmap/Google Summer of Code Team! http://seclists.org/nmap-dev/2012/q2/204\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 7,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "185479791149973504": {
+            "id": "185479791149973504",
+            "text": "Students: Want to gain valuable experience this summer writing real Nmap code & earn a $5,000 stipend? See http://nmap.org/soc\u00a0",
+            "username": "nmap",
+            "num_likes": 10,
+            "num_retweets": 51,
+            "num_replies": 1
+        },
+        "178231218582728705": {
+            "id": "178231218582728705",
+            "text": "Nmap 5.61TEST5 is out and I hope your passwords are secure! See http://seclists.org/nmap-hackers/2012/0\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 30,
+            "num_retweets": 107,
+            "num_replies": 2
+        },
+        "157962899107741696": {
+            "id": "157962899107741696",
+            "text": "What new capabilities would you like for Nmap? We're seeking NSE script ideas & new authors: http://seclists.org/nmap-dev/2011/q4/575\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 26,
+            "num_replies": 3
+        },
+        "153952243895373824": {
+            "id": "153952243895373824",
+            "text": "Happy New Year from the Nmap Project! Enjoy this new release: http://seclists.org/nmap-dev/2012/q1/23\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 12,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "144272369333178368": {
+            "id": "144272369333178368",
+            "text": "Important updates on CNET DownloadDotCom caught adding malware to Nmap: http://seclists.org/nmap-hackers/2011/6\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 7,
+            "num_retweets": 95,
+            "num_replies": 3
+        },
+        "143828427051511808": {
+            "id": "143828427051511808",
+            "text": "WARNING: CNet http://Download.Com\u00a0 is distributing Microsoft-sponsored trojan installers for Nmap, VLC, etc: http://seclists.org/nmap-hackers/2011/5\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 30,
+            "num_retweets": 562,
+            "num_replies": 7
+        },
+        "132575529411944450": {
+            "id": "132575529411944450",
+            "text": "Do you know all 49 new tools in the relaunched http://SecTools.Org\u00a0? Here they are: http://sectools.org/tag/new/\u00a0",
+            "username": "nmap",
+            "num_likes": 55,
+            "num_retweets": 90,
+            "num_replies": 2
+        },
+        "132567339911741440": {
+            "id": "132567339911741440",
+            "text": "The security community has spoken! 3,000 of you shared favorite security tools for relaunched http://SecTools.Org\u00a0",
+            "username": "nmap",
+            "num_likes": 30,
+            "num_retweets": 83,
+            "num_replies": 2
+        },
+        "86577231626895360": {
+            "id": "86577231626895360",
+            "text": "Released Nmap 5.59BETA1 with 40 new NSE scripts, improved IPv6, and much more. Happy hacking! http://seclists.org/nmap-hackers/2011/3\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 27,
+            "num_retweets": 120,
+            "num_replies": 4
+        },
+        "78546712406401024": {
+            "id": "78546712406401024",
+            "text": "Happy World IPv6 Day! We're celebrating with a commemorative Nmap release and IPv6 site updates: http://bit.ly/nmapv6",
+            "username": "nmap",
+            "num_likes": 9,
+            "num_retweets": 73,
+            "num_replies": 2
+        },
+        "68845553479458816": {
+            "id": "68845553479458816",
+            "text": "Tired of all the typing & remembering so many Nmap options? Try this Bash command completion script: http://bit.ly/nmapbash",
+            "username": "nmap",
+            "num_likes": 38,
+            "num_retweets": 66,
+            "num_replies": 0
+        },
+        "65584311419682816": {
+            "id": "65584311419682816",
+            "text": "Great article: advanced Nmap tips (including Ncat, Nping, & Ncrack) from Security Aegis: http://bit.ly/nmapaeg",
+            "username": "nmap",
+            "num_likes": 66,
+            "num_retweets": 61,
+            "num_replies": 0
+        },
+        "65583605707051009": {
+            "id": "65583605707051009",
+            "text": "Nmap used to hack police cruiser: http://bit.ly/cophax",
+            "username": "nmap",
+            "num_likes": 25,
+            "num_retweets": 58,
+            "num_replies": 0
+        },
+        "62643245938786304": {
+            "id": "62643245938786304",
+            "text": "We're delighted to introduce the 2011 Nmap/Google Summer of Code Team! http://bit.ly/nmapsoc11",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "55697495187132416": {
+            "id": "55697495187132416",
+            "text": "Nmap usage considered and rejected for Tron: Legacy movie, but at least Linux & Emacs made it: http://bit.ly/nmaptron",
+            "username": "nmap",
+            "num_likes": 12,
+            "num_retweets": 51,
+            "num_replies": 0
+        },
+        "55362785630109696": {
+            "id": "55362785630109696",
+            "text": "@sawaba I hope ppl get the HBGary ref (http://bit.ly/nmapballs) & don't think we're soliciting coeds for non-programming favors!",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "55347251677110272": {
+            "id": "55347251677110272",
+            "text": "We're seeking students talented enough to blow our balls off, but the deadline is Friday! Earn $5,000! http://nmap.org/soc",
+            "username": "nmap",
+            "num_likes": 4,
+            "num_retweets": 39,
+            "num_replies": 0
+        },
+        "46375173867311104": {
+            "id": "46375173867311104",
+            "text": "Thanks for the support, everyone! Nmap's balls are now safe from HBGary: http://bit.ly/nmapsafe",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 33,
+            "num_replies": 0
+        },
+        "46328998648745984": {
+            "id": "46328998648745984",
+            "text": "HBGary planned to BLOW THE BALLS OFF OF NMAP! http://bit.ly/nmapballs",
+            "username": "nmap",
+            "num_likes": 12,
+            "num_retweets": 110,
+            "num_replies": 0
+        },
+        "45244764194484224": {
+            "id": "45244764194484224",
+            "text": "Video posted: Mak Kolybabi's (@mogigoma) Intro to Nmap talk at @SkullSpaceWpg event: http://vimeo.com/20718383",
+            "username": "nmap",
+            "num_likes": 17,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "36225691779342336": {
+            "id": "36225691779342336",
+            "text": "Our last stable release took a year, so we're pleased to release Nmap 5.51 after just two weeks! http://bit.ly/nmap551",
+            "username": "nmap",
+            "num_likes": 15,
+            "num_retweets": 77,
+            "num_replies": 0
+        },
+        "31076325917724672": {
+            "id": "31076325917724672",
+            "text": "Nmap 5.50 released: now with Gopher protocol support! http://bit.ly/nmap55",
+            "username": "nmap",
+            "num_likes": 9,
+            "num_retweets": 108,
+            "num_replies": 0
+        },
+        "27063027407": {
+            "id": "27063027407",
+            "text": "Miss Defcon? Fyodor and David's fun presentation on the Nmap Scripting Engine was just posted at http://bit.ly/nmapdc",
+            "username": "nmap",
+            "num_likes": 11,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "25073949725": {
+            "id": "25073949725",
+            "text": "Need to crack an MS RDP or SMB password? Ncrack 0.3ALPHA to the rescue! Visit http://nmap.org/ncrack and thank @ithilgore!",
+            "username": "nmap",
+            "num_likes": 14,
+            "num_retweets": 44,
+            "num_replies": 0
+        },
+        "21547841188": {
+            "id": "21547841188",
+            "text": "Ron Bowes (@iagox86) appearing tomorrow on @pauldotcom to discuss the Nmap Scripting Engine, pw cracking & Facebook. 7:30PM EDT",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "21435953335": {
+            "id": "21435953335",
+            "text": "Icons of the Web: explore favicons for the top million web sites with our new poster and online viewer at http://nmap.org/favicon",
+            "username": "nmap",
+            "num_likes": 8,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "19632372523": {
+            "id": "19632372523",
+            "text": "Facebook claims to care about privacy, but gigs of data posted by Nmap dev @iagox86 suggest otherwise: http://bit.ly/fb-data",
+            "username": "nmap",
+            "num_likes": 14,
+            "num_retweets": 37,
+            "num_replies": 0
+        },
+        "18705103428": {
+            "id": "18705103428",
+            "text": "Nmap 5.35DC1 (Defcon edition) released! 17 new NSE scripts and much more: http://bit.ly/535DC1",
+            "username": "nmap",
+            "num_likes": 7,
+            "num_retweets": 55,
+            "num_replies": 0
+        },
+        "18625081329": {
+            "id": "18625081329",
+            "text": "Fyodor & David Fifield are presenting on Nmap at Defcon and Black Hat! Details: http://bit.ly/nmap-dc",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "16038873984": {
+            "id": "16038873984",
+            "text": "Always practice safe software--a lesson from Unreal IRCd: http://bit.ly/safesw",
+            "username": "nmap",
+            "num_likes": 5,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "15721285499": {
+            "id": "15721285499",
+            "text": "Changed how SYN scan detects open ports based on this split-handshake paper: http://bit.ly/tcp-sh. Details: http://bit.ly/sh-disc",
+            "username": "nmap",
+            "num_likes": 18,
+            "num_retweets": 49,
+            "num_replies": 0
+        },
+        "12901208939": {
+            "id": "12901208939",
+            "text": "Introducing the 2010 Nmap/Google Summer of Code Team: http://seclists.org/nmap-dev/2010/q2/285",
+            "username": "nmap",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "12716071680": {
+            "id": "12716071680",
+            "text": "Good article at Dark Reading: \"Nmap Does Much More than Network Discovery\" http://bit.ly/drnmap",
+            "username": "nmap",
+            "num_likes": 10,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "12236259237": {
+            "id": "12236259237",
+            "text": "Thanks to the 1,732 of you who have taken the 2010 Nmap/Sectools survey! Help us reach our goal of 3,000 at http://nmap.org/survey",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "11787351857": {
+            "id": "11787351857",
+            "text": "Please take our quick user survey, and in return we'll build you a better Nmap and a new SecTools.Org: http://nmap.org/survey/",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 37,
+            "num_replies": 0
+        },
+        "11659432987": {
+            "id": "11659432987",
+            "text": "Students: Want to gain valuable experience this summer writing real Nmap code & earn a $5,000 stipend? See http://nmap.org/soc",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "11272112901": {
+            "id": "11272112901",
+            "text": "Nmap 5.30BETA1 released with 37 new scripts (including AFP exploit), alpha version of Nping tool, and more! http://bit.ly/nmap53",
+            "username": "nmap",
+            "num_likes": 5,
+            "num_retweets": 39,
+            "num_replies": 0
+        },
+        "11261840868": {
+            "id": "11261840868",
+            "text": "Nmap dev Patrik Karlsson found a major remote vuln in Mac OS X! Exploit & detection script now in Nmap: http://bit.ly/nmapafp",
+            "username": "nmap",
+            "num_likes": 7,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "11052619169": {
+            "id": "11052619169",
+            "text": "Google SoC is funding full-time Nmap developers this Summer! What new features would you like to see? More: http://bit.ly/nsoc10",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "8601522954": {
+            "id": "8601522954",
+            "text": "SANS ISC demonstrates better UDP scanning with Nmap's new protocol payload system in this short article: http://bit.ly/npayld",
+            "username": "nmap",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "8565314250": {
+            "id": "8565314250",
+            "text": "@mroesch Then maybe Snort should add a scanner. For alerts, users could choose [ignore], [block], or [fight back] :)",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "8558355873": {
+            "id": "8558355873",
+            "text": "Nmap stars in another movie: Girl With the Dragon Tattoo! Pics & trailer: http://nmap.org/movies.html#gwtdt",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "8294263024": {
+            "id": "8294263024",
+            "text": "Nmap 5.21 released with zero exciting new features! But this bugfix-only release should be extra stable. http://bit.ly/nmap521",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "8043468598": {
+            "id": "8043468598",
+            "text": "Acorn Co. released a Korean edition of Nmap Network Scanning (\uc5d4\ub9f5 \ub124\ud2b8\uc6cc\ud06c \uc2a4\uce90\ub2dd). Lang #4 toward world domination! http://nmap.org/book",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "7994986721": {
+            "id": "7994986721",
+            "text": "Released Nmap 5.20, our first stable since last July! Better performance, 31 new NSE scripts, and more. http://bit.ly/nmap520",
+            "username": "nmap",
+            "num_likes": 4,
+            "num_retweets": 48,
+            "num_replies": 0
+        },
+        "7014455932": {
+            "id": "7014455932",
+            "text": "In lieu of a Christmas card, we're giving you a new Nmap release - 5.10BETA2! Xmas scan is -sX. http://bit.ly/nmapxmas",
+            "username": "nmap",
+            "num_likes": 7,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "5984662403": {
+            "id": "5984662403",
+            "text": "Version 5.10BETA1 released with 100+ improvements, including 14 new NSE scripts and better UDP scan! http://bit.ly/510B1",
+            "username": "nmap",
+            "num_likes": 4,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "5182940435": {
+            "id": "5182940435",
+            "text": "We won't stop tweeting, but you can now get Nmap news on Facebook too! http://nmap.org/fb",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "5105974077": {
+            "id": "5105974077",
+            "text": "For the first year ever, all of our Google Summer of Code students passed! Wrap-up report: http://bit.ly/nmapsoc09",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "5055354139": {
+            "id": "5055354139",
+            "text": "Congratulations to @metasploit and @hdmoore on joining @rapid7! My take: http://bit.ly/msploit",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "4872365257": {
+            "id": "4872365257",
+            "text": "Just relaunched http://seclists.org with new features, 8 new lists, & picture of @daveaitel! http://bit.ly/newseclists",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3825547383": {
+            "id": "3825547383",
+            "text": "Yay, we're back online! Just in time for a lazy Labor Day afternoon of BBQ and port scanning.",
+            "username": "nmap",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3808846928": {
+            "id": "3808846928",
+            "text": "Sorry for the down time. We suffered a hard drive failure on our main server and are working on recovery+upgrade now.",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2920242262": {
+            "id": "2920242262",
+            "text": "If zf05.txt didn't scare you into choosing strong SSH passwords, this might: http://bit.ly/ncrack-ssh",
+            "username": "nmap",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2918273514": {
+            "id": "2918273514",
+            "text": "Can't wait for #Defcon! We're having a developer meet-up, and also a book signing Friday: http://bit.ly/nns-dc",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2675109777": {
+            "id": "2675109777",
+            "text": "I'm glad UCSD is mirroring this release on gigabit link, as Nmap 5 just made Slashdot: http://bit.ly/nmap5-sd",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2674926755": {
+            "id": "2674926755",
+            "text": "Nmap5 news/reviews are starting to roll in: http://nmap.org/5/#articles",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2671912942": {
+            "id": "2671912942",
+            "text": "Just made our biggest release since 1997! Nmap 5.00: http://nmap.org/5/",
+            "username": "nmap",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2333998470": {
+            "id": "2333998470",
+            "text": "Planning 1st stable release in 9 months. Just posted release candidate 4.90RC1. Please help test! http://nmap.org/download.html",
+            "username": "nmap",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2124071375": {
+            "id": "2124071375",
+            "text": "@donicer aww, thanks!",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2123996455": {
+            "id": "2123996455",
+            "text": "We're seeking help translating Nmap and its documentation to your favorite language: http://bit.ly/xlate",
+            "username": "nmap",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2123991696": {
+            "id": "2123991696",
+            "text": "After months of hard work, Open Source Press just published a German translation of Nmap Network Scanning: http://bit.ly/nns-de",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2123978780": {
+            "id": "2123978780",
+            "text": "Just added German and Indonesian translations of the Nmap Reference Guide. Choose from 16 languages at http://nmap.org/docs.html",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1888566330": {
+            "id": "1888566330",
+            "text": "@Viss - thanks! It gets even better if you use -A instead of --script. I also add -T4 for speed and sometimes -v too.",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1888118380": {
+            "id": "1888118380",
+            "text": "Added a great NSE script in SVN for detecting the IIS WebDAV vuln. See http://tinyurl.com/hack-iis & http://tinyurl.com/sksec",
+            "username": "nmap",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1789195485": {
+            "id": "1789195485",
+            "text": "@geekgrrl Good idea! We're updating & expanding http://sectools.org this year, and I've added that to the feature list.",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1788153914": {
+            "id": "1788153914",
+            "text": "Nmap 4.85BETA9 released with dozens of improvements: http://tinyurl.com/485beta9",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1720885575": {
+            "id": "1720885575",
+            "text": "Introducing the 2009 Nmap/Google Summer of Code Team: http://tinyurl.com/nmapgsoc09",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1662332038": {
+            "id": "1662332038",
+            "text": "We helped contain the Conficker virus last month and are now working on an NSE script to detect swine flu :)",
+            "username": "nmap",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1643078442": {
+            "id": "1643078442",
+            "text": "@daveaitel So do you think we should write Ncrack in Python like Canvas (and Zenmap) rather than C?",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1642796010": {
+            "id": "1642796010",
+            "text": "We're writing a high-speed network authentication cracker! Ncrack: http://tinyurl.com/dzjxav",
+            "username": "nmap",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1579105267": {
+            "id": "1579105267",
+            "text": "Version 4.85BETA8 just released with dozens of improvements: http://tinyurl.com/485BETA8",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1579091680": {
+            "id": "1579091680",
+            "text": "Latest Conficker (D/E) variant blocks nmap.* and insecure.* sites. We take that as a compliment--our work pissed them off!",
+            "username": "nmap",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1449412883": {
+            "id": "1449412883",
+            "text": "Nmap 4.85BETA7, the third release in a very busy week, is now available & survived 2 days of testing. http://bit.ly/cYz6Y",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1449352894": {
+            "id": "1449352894",
+            "text": "Prereg for @toorcamp extended until Sunday and wow it looks fun! Like Defcon and Burning Man combined at a missile silo. http://toorcamp.org",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1428155873": {
+            "id": "1428155873",
+            "text": "4.85BETA6 released and graciously hosted by UCSD. Details at http://insecure.org.",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1427479032": {
+            "id": "1427479032",
+            "text": "Booted off Dreamhost \"unlimited bandwidth\" plan for using too much bandwidth. Nmap available again on diff server,but 4.85BETA6 coming soon.",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1422882163": {
+            "id": "1422882163",
+            "text": "@hdmoore You mean MS08-067 check? We disable it by default too. Conficker check is simple & unlikely to crash, but no guarantees w/Windows!",
+            "username": "nmap",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1420425735": {
+            "id": "1420425735",
+            "text": "Nmap project accepted for fifth year of Summer of Code. Seeking talented college/grad students! Paid by Google. See http://nmap.org/soc/",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1420404053": {
+            "id": "1420404053",
+            "text": "Nmap 4.85BETA5 released with Conficker worm detection ability!  http://insecure.org/#conficker",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1308561971": {
+            "id": "1308561971",
+            "text": "Nmap discovered in 8th movie! Russian teenager hacks Microsoft.com, so MS sends sexy hacker girl after him. http://nmap.org/movies.html",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1308539491": {
+            "id": "1308539491",
+            "text": "Nmap wins LQ Network Security App of the Year Award\u2014for sixth year in a row! http://tinyurl.com/at36p9",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1308535278": {
+            "id": "1308535278",
+            "text": "The old Twitter \"nmap\" account was apparently renamed or deleted, so I pounced on it! @nmapster is no more.",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1163266242": {
+            "id": "1163266242",
+            "text": "Contracts signed for NNS translations to German, Korean, and Portuguese: http://nmap.org/book/#translations. More on the way, I hope.",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1163265203": {
+            "id": "1163265203",
+            "text": "My CanSecWest talk on Ninja Scanning was accepted. I love that con and attended/presented all 9 previous years. http://cansecwest.com",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1163254008": {
+            "id": "1163254008",
+            "text": "Yay, NNS launch was a success! #1 selling computer book on Amazon (briefly). Took screenshot: http://tinyurl.com/nns-top",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047898597": {
+            "id": "1047898597",
+            "text": "I just released my new book, Nmap Network Scanning! Reviews and sample chapters: http://nmap.org/book/. Amazon: http://tinyurl.com/nnsbook",
+            "username": "nmap",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "962945193": {
+            "id": "962945193",
+            "text": "Congratulations to six Nmap/Google Summer of Code students!  http://tinyurl.com/4b6v8p",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943092337": {
+            "id": "943092337",
+            "text": "Defcon presentation posted: http://insecure.org/presentations/",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943089976": {
+            "id": "943089976",
+            "text": "Nmap 4.75 and 4.76 can now draw pretty network graphs: http://tinyurl.com/5bqt4m",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "909012768": {
+            "id": "909012768",
+            "text": "I don't tweet much. For updates, see my sites instead: http://insecure.org, http://nmap.org, http://seclists.org, http://sectools.org",
+            "username": "nmap",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "todayininfosec": 1,
+        "calderpwn": 2,
+        "bonsaiviking": 2,
+        "zerodayclothing": 1,
+        "nevdull77": 3,
+        "TomSellers": 1
+    },
+    "users_retweeted": [
+        "nevdull77",
+        "calderpwn",
+        "bonsaiviking",
+        "todayininfosec",
+        "zerodayclothing",
+        "TomSellers"
+    ]
+}

@@ -1,0 +1,4108 @@
+{
+    "is_complete": true,
+    "username": "avlidienbrunn",
+    "retweeted": {
+        "1120634633383706624": {
+            "id": "1120634633383706624",
+            "text": "Do not miss the annual @SEC_T_org spring pub. Bring a friend and geek out on security. Beers, talks, and fellow security hacker peeps https://www.sec-t.org/spring-pub-2019/\u00a0\u2026pic.twitter.com/NDj4sR8QXO",
+            "username": "skjortan",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1107807962242781185": {
+            "id": "1107807962242781185",
+            "text": "Something @avlidienbrunn and I worked on some time ago.  Fun bug.https://twitter.com/assetnote/status/1107807521014595584\u00a0\u2026",
+            "username": "infosec_au",
+            "num_likes": 59,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1103263963347771392": {
+            "id": "1103263963347771392",
+            "text": "If you are a high school student in Sweden or know one, check out this #CTF we are organizing: https://sakerhetssm.se\u00a0 It's a great entry level competition for anyone wanting to try out CTF!",
+            "username": "ZetaTwo",
+            "num_likes": 22,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1094255584810012672": {
+            "id": "1094255584810012672",
+            "text": "Pwny Race starting now!https://www.youtube.com/watch?v=L_ZqbkCQs1s\u00a0\u2026",
+            "username": "OwariDa",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1089582241188143106": {
+            "id": "1089582241188143106",
+            "text": "After a fierce 24 hour of #CTF hacking and a nail biting-finish where we dropped several positions we still manage to take 7th place and qualify to the #Codegate 2019 finals in Korea. Well played team. See you all in Seoul in March.pic.twitter.com/575JcYxfgE",
+            "username": "HackingForSoju",
+            "num_likes": 34,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1071295551696646144": {
+            "id": "1071295551696646144",
+            "text": "pic.twitter.com/9piHRqX5EU",
+            "username": "infosec_au",
+            "num_likes": 428,
+            "num_retweets": 92,
+            "num_replies": 12
+        },
+        "1056973369931849728": {
+            "id": "1056973369931849728",
+            "text": "I've done a few pentests and personal research on VPN extensions, and concluded that they are not for privacy. https://blog.innerht.ml/vpn-extensions-are-not-for-privacy/\u00a0\u2026 A new blog post explaining that :)",
+            "username": "filedescriptor",
+            "num_likes": 381,
+            "num_retweets": 191,
+            "num_replies": 4
+        },
+        "1059523023466909697": {
+            "id": "1059523023466909697",
+            "text": "Reminder: Privacy is a basic human right. \n\nWe believe everyone should have private access to an open web where they can express themselves, share information, and learn without being tracked, surveilled, or censored. https://www.un.org/en/universal-declaration-human-rights/\u00a0\u2026\n#humanrights #privacy #surveillancepic.twitter.com/zdmKV0QXwJ",
+            "username": "torproject",
+            "num_likes": 824,
+            "num_retweets": 494,
+            "num_replies": 16
+        },
+        "1050858832619102210": {
+            "id": "1050858832619102210",
+            "text": "Did you miss OWASP Sthlm \"Eliminating False Assumptions in Bug Bounties\"? Check out the recordings of @fransrosen and @avlidienbrunnhttps://www.youtube.com/channel/UC3pn_ccQdc22_L63d6MN1QA/videos\u00a0\u2026",
+            "username": "emeliewidegren",
+            "num_likes": 53,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "1049658888654659584": {
+            "id": "1049658888654659584",
+            "text": "Didn't know double frees are back. Turns out new versions of Ubuntu use tcache, which means there's a fast path for malloc/free without any safety checks. Pretty cool and trivially exploitable in many cases.pic.twitter.com/x5MOB4VNiV",
+            "username": "AmarSaar",
+            "num_likes": 169,
+            "num_retweets": 56,
+            "num_replies": 5
+        },
+        "1043536963196923910": {
+            "id": "1043536963196923910",
+            "text": "The winners of the event! TEAMSWEDEN! Congratulations to the winners! The score was tight and the last bug decided the winners! #hackday #tampere #bugbounty g to @fransrosen and @avlidienbrunnpic.twitter.com/eAiXiVQPtz",
+            "username": "JoakimTauren",
+            "num_likes": 28,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1042318311093096448": {
+            "id": "1042318311093096448",
+            "text": "\"There is no reason to do bug bounties. All bugs are already found and the competition is too hard\" \n\u2013 said someone that should watch me and @avlidienbrunn speak at OWASP Stockholm the 2nd of October \u2013 \"Eliminating False Assumptions in Bug Bounties\"https://www.eventbrite.com/e/owasp-stockholm-bug-bounty-theme-tickets-50414001636\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 185,
+            "num_retweets": 47,
+            "num_replies": 2
+        },
+        "1039886678813536256": {
+            "id": "1039886678813536256",
+            "text": "Wow. This is seriously messed up.https://twitter.com/shhnjk/status/1039836438043480065\u00a0\u2026",
+            "username": "kkotowicz",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1031967246749523968": {
+            "id": "1031967246749523968",
+            "text": "A patch for one of #teamsweden's bugs from H1-702 is out, update your GitHub Enterprise instance:https://enterprise.github.com/releases/2.11.23/notes\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 73,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1028941934826381312": {
+            "id": "1028941934826381312",
+            "text": "Congrats @securinti for the MVH! Now all of Vegas knows!pic.twitter.com/TsTUBUeELR",
+            "username": "fransrosen",
+            "num_likes": 135,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1026739955115208710": {
+            "id": "1026739955115208710",
+            "text": "On my way to #h1702 in Vegas, representing Team Sweden !\nAlso, thanks @securinti for rooting for us even back in 2015 (check the first link below).  https://twitter.com/securinti/status/674318300910919680\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 101,
+            "num_retweets": 7,
+            "num_replies": 6
+        },
+        "1013179721738326017": {
+            "id": "1013179721738326017",
+            "text": "Just published my write-up for the @Hacker0x01 #h1702 #CTF https://zeta-two.com/ctf/2018/06/30/h1702-writeup.html\u00a0\u2026 for your reading and commenting pleasure.",
+            "username": "ZetaTwo",
+            "num_likes": 131,
+            "num_retweets": 55,
+            "num_replies": 5
+        },
+        "1002823815137652736": {
+            "id": "1002823815137652736",
+            "text": "Just uploaded PoC code for SecurityFest CTF - Excess Ess 2 https://gistpreview.github.io/?6f0aaca8caf0ff8375673f09607d7fec/test.html\u00a0\u2026",
+            "username": "jinmo123",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1002221140201193474": {
+            "id": "1002221140201193474",
+            "text": "And here it is! My favorite blog post yet:https://medium.com/@d0nut/why-building-a-sandbox-in-pure-javascript-is-a-fools-errand-d425b77b2899\u00a0\u2026",
+            "username": "d0nutptr",
+            "num_likes": 19,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1000459811765420032": {
+            "id": "1000459811765420032",
+            "text": "If the mime type is wrong would you call it an inPOSTer",
+            "username": "nnwakelam",
+            "num_likes": 30,
+            "num_retweets": 6,
+            "num_replies": 4
+        },
+        "999669436457111552": {
+            "id": "999669436457111552",
+            "text": "On our way to Amsterdam for @Hacker0x01's #h13120! Let's show #TeamSweden who's the boss! GO #TeamBelgium! pic.twitter.com/pEtw9bFKrd",
+            "username": "securinti",
+            "num_likes": 120,
+            "num_retweets": 7,
+            "num_replies": 11
+        },
+        "990592249577725952": {
+            "id": "990592249577725952",
+            "text": "XSS in the era of *.js - JS \u30e9\u30a4\u30d6\u30e9\u30ea\u6642\u4ee3\u306e XSS (\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u5165\u9580\u52c9\u5f37\u4f1a #15) // Speaker Deck https://speakerdeck.com/lmt_swallow/xss-in-the-era-of-star-dot-js-js-raiburarishi-dai-false-xss-zerokarashi-merusekiyuriteiru-men-mian-qiang-hui-number-15\u00a0\u2026 / \u3044\u307e\u3069\u304d\u306eXSS\u306b\u3064\u3044\u3066\u3088\u304f\u307e\u3068\u307e\u3063\u3066\u308b\u3002",
+            "username": "hasegawayosuke",
+            "num_likes": 83,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "986111129234489344": {
+            "id": "986111129234489344",
+            "text": "Much group. Very 1337. WOW. @caseyjohnellis @fransrosen @yaworsk @avlidienbrunn @nnwakelamhttps://twitter.com/caseyjohnellis/status/986053913123078144\u00a0\u2026",
+            "username": "Jhaddix",
+            "num_likes": 32,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "985589867605196800": {
+            "id": "985589867605196800",
+            "text": "And winner of our first-ever country team competition, is none other than #teamSweden. Congrats @fransrosen and @avlidienbrunn! $48K in bounties and over 80 reports submitted. https://hackerone.com/hackathons/h1415_2018_teams/live\u00a0\u2026 #h1415pic.twitter.com/h0DFdbWneg",
+            "username": "Hacker0x01",
+            "num_likes": 139,
+            "num_retweets": 20,
+            "num_replies": 7
+        },
+        "978109757520162816": {
+            "id": "978109757520162816",
+            "text": "Maybe the highlight of my bug bounty career. So much passion from @avlidienbrunn and @fransrosenpic.twitter.com/ptsWziU1vc",
+            "username": "yaworsk",
+            "num_likes": 83,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "968494888571559936": {
+            "id": "968494888571559936",
+            "text": "SEC-T Spring Pub 2018 annoucement! April 19:th at 17.00 Hope to see all you lovely people there! More information here: https://www.sec-t.org/2018/02/27/spring-pub-2018/\u00a0\u2026",
+            "username": "SEC_T_org",
+            "num_likes": 31,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "963222895018229760": {
+            "id": "963222895018229760",
+            "text": "\u3064\u3044\u306bAppCache\u304cSecure Context\u306e\u307f\u306b\u3002\nhttps://blog.mozilla.org/security/2018/02/12/restricting-appcache-secure-contexts/\u00a0\u2026",
+            "username": "kinugawamasato",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "951796139166191616": {
+            "id": "951796139166191616",
+            "text": "is that you @avlidienbrunn lol",
+            "username": "zseano",
+            "num_likes": 21,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "945592063399260160": {
+            "id": "945592063399260160",
+            "text": "So this guy didn't believe me that his Ethereum lottery has a vulnerability https://github.com/slotthereum/source/issues/1\u00a0\u2026pic.twitter.com/YJw0bahFEz",
+            "username": "theRaz0r",
+            "num_likes": 176,
+            "num_retweets": 95,
+            "num_replies": 5
+        },
+        "940954427195670529": {
+            "id": "940954427195670529",
+            "text": "#shibuyaxss \u306e\u8cc7\u6599\u516c\u958b\u3057\u307e\u3057\u305f\u3002 / 5\u6587\u5b57\u3067\u66f8\u304fJavaScripthttps://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-10\u00a0\u2026",
+            "username": "kinugawamasato",
+            "num_likes": 189,
+            "num_retweets": 88,
+            "num_replies": 2
+        },
+        "939614679411896325": {
+            "id": "939614679411896325",
+            "text": "The #HacksOn here in NYC and @usairforce is in the building. #hacktheairforce 2.0 is happening right. now. #h1212pic.twitter.com/1btAedGBSb",
+            "username": "Hacker0x01",
+            "num_likes": 136,
+            "num_retweets": 32,
+            "num_replies": 5
+        },
+        "891345754563989505": {
+            "id": "891345754563989505",
+            "text": "@smiegles @avlidienbrunn pretty sleep time to wake up pic.twitter.com/ViKuUfcaK5",
+            "username": "Mahmoud0x00",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "880298091722588161": {
+            "id": "880298091722588161",
+            "text": "Bug Hunters. Let's create our own \"BBP Report\" to give a vendor neutral perspective. If interested, RT, will hit u all up in a few days",
+            "username": "BugBountyHQ",
+            "num_likes": 58,
+            "num_retweets": 55,
+            "num_replies": 5
+        },
+        "875466927325544451": {
+            "id": "875466927325544451",
+            "text": "#bountydash is now released! BountyDash - A local bug bounty statistics dashboard https://labs.detectify.com/2017/06/15/bountydash-a-local-bug-bounty-statistics-dashboard/\u00a0\u2026pic.twitter.com/TfgAj886ze",
+            "username": "fransrosen",
+            "num_likes": 95,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "871800595912564736": {
+            "id": "871800595912564736",
+            "text": "Lots of great talks @SecurityFest but I liked \"Self XSS we're not so different you and I\" by @avlidienbrunn the mosthttps://youtu.be/l3yThCIF7e4\u00a0",
+            "username": "peterjaric",
+            "num_likes": 42,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "865946380006830080": {
+            "id": "865946380006830080",
+            "text": "Mid-way point of #h13120. Time to hydrate.\n | \n#thatbugbountylife\n#hackerswagger\n#ihackinthedark\n#bluesbrotherspic.twitter.com/RIvGyhZcLN",
+            "username": "Hacker0x01",
+            "num_likes": 76,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "832970780505837569": {
+            "id": "832970780505837569",
+            "text": "This is the demo for CVE-2016-7239, which is one of my favorite findings in 2016. I'll post details later :Dhttps://www.youtube.com/watch?v=IMDWjKFbsJE\u00a0\u2026",
+            "username": "kinugawamasato",
+            "num_likes": 146,
+            "num_retweets": 85,
+            "num_replies": 1
+        },
+        "849725269950685184": {
+            "id": "849725269950685184",
+            "text": "Here's the very first AMA with @avlidienbrunn from the Bug Bounty Forum AMA series. More AMA's coming soon! https://bugbountyforum.com/blog/ama/avlidienbrunn/\u00a0\u2026pic.twitter.com/j1COl9aXqH",
+            "username": "bugbountyforum",
+            "num_likes": 72,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "848982561657430016": {
+            "id": "848982561657430016",
+            "text": "For my next talk at #HITB2017AMS I made a SOME Playground! With a lot of new tools you can learn from! https://www.someattack.com/Playground/\u00a0\n#SOMEAttack",
+            "username": "BenHayak",
+            "num_likes": 50,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "842205051082821632": {
+            "id": "842205051082821632",
+            "text": "Wrote a quick exploit for another LastPass vulnerability. Only affects version on http://addons.mozilla.org\u00a0 (3.3.2), report on way. \u00af\\_(\u30c4)_/\u00afpic.twitter.com/AgjASiQMfJ",
+            "username": "taviso",
+            "num_likes": 650,
+            "num_retweets": 486,
+            "num_replies": 21
+        },
+        "841625677564645377": {
+            "id": "841625677564645377",
+            "text": "We're very excited to confirm two new speakers for SecurityFest 2017 - Welcome @ZetaTwo and @avlidienbrunn! https://securityfest.com/speakers-2017/\u00a0",
+            "username": "securityfest",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "839556424707395584": {
+            "id": "839556424707395584",
+            "text": "When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into 8 Vulnerabilities on @Airbnb w/@bbuerhaus https://buer.haus/?p=307\u00a0",
+            "username": "NahamSec",
+            "num_likes": 278,
+            "num_retweets": 192,
+            "num_replies": 8
+        },
+        "834751716432166913": {
+            "id": "834751716432166913",
+            "text": "Fun times. Congrats to all involved :-) https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html\u00a0\u2026",
+            "username": "tiraniddo",
+            "num_likes": 80,
+            "num_retweets": 91,
+            "num_replies": 2
+        },
+        "831879495565049858": {
+            "id": "831879495565049858",
+            "text": "[LABS] New write-up by @avlidienbrunn: SQLi in INSERT worse than SELECT https://labs.detectify.com/2017/02/14/sqli-in-insert-worse-than-select/\u00a0\u2026 #infosecpic.twitter.com/pizPf188yt",
+            "username": "detectify",
+            "num_likes": 45,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "830675916707672064": {
+            "id": "830675916707672064",
+            "text": "Congrats @avlidienbrunn for winning the @Hacker0x01 MVH belt during #h1415, you are amazing!",
+            "username": "jobertabma",
+            "num_likes": 57,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "829650868765151232": {
+            "id": "829650868765151232",
+            "text": "Cure53 XSSMas 2016 Challenge Write-Up: https://github.com/cure53/XSSChallengeWiki/wiki/XSSMas-Challenge-2016\u00a0\u2026 Enjoy :)",
+            "username": "cure53berlin",
+            "num_likes": 167,
+            "num_retweets": 131,
+            "num_replies": 4
+        },
+        "821763273909534720": {
+            "id": "821763273909534720",
+            "text": "PSA: Current state of the XSSMas Challenge 2016 leader-board\n\n@AvlidienBrunn & @ZetaTwo 650 bytes\n@cgvwzq 792 bytes\n@BenHayak 811 bytes",
+            "username": "cure53berlin",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "819563365404184576": {
+            "id": "819563365404184576",
+            "text": "[LABS] New write-up by @avlidienbrunn: CSP Flaws: cookie fixation http://labs.detectify.com/2017/01/12/csp-flaws-cookie-fixation/\u00a0\u2026pic.twitter.com/OQqzNr5mGh",
+            "username": "detectify",
+            "num_likes": 62,
+            "num_retweets": 53,
+            "num_replies": 0
+        },
+        "809736664218304517": {
+            "id": "809736664218304517",
+            "text": "Security Fest will return in 2017! The CFP is now open!https://securityfest.com\u00a0",
+            "username": "JohanRMoller",
+            "num_likes": 8,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "809360335119458304": {
+            "id": "809360335119458304",
+            "text": "[LABS] \"postMessage XSS on a million sites\" by @avlidienbrunn: https://labs.detectify.com/2016/12/15/postmessage-xss-on-a-million-sites/\u00a0\u2026pic.twitter.com/6VMJYMqJdm",
+            "username": "detectify",
+            "num_likes": 87,
+            "num_retweets": 61,
+            "num_replies": 2
+        },
+        "806786732062429185": {
+            "id": "806786732062429185",
+            "text": "\"The pitfalls of postMessage\" by @avlidienbrunn https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage/\u00a0\u2026\nThere are some really fun bugs due to these common mistakes.",
+            "username": "fransrosen",
+            "num_likes": 47,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "806080079356891136": {
+            "id": "806080079356891136",
+            "text": "My short write about Firefox SVG cookie vulnerability: https://insert-script.blogspot.co.at/2016/12/firefox-svg-cross-domain-cookie.html\u00a0\u2026",
+            "username": "insertScript",
+            "num_likes": 126,
+            "num_retweets": 132,
+            "num_replies": 9
+        },
+        "802090677358227456": {
+            "id": "802090677358227456",
+            "text": "JSON hijacking for the modern webhttp://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html\u00a0\u2026",
+            "username": "garethheyes",
+            "num_likes": 225,
+            "num_retweets": 187,
+            "num_replies": 8
+        },
+        "790549945606664192": {
+            "id": "790549945606664192",
+            "text": "\"Combining host header injection and lax host parsing serving malicious data\" by @fransrosen and @avlidienbrunn: http://labs.detectify.com/2016/10/24/combining-host-header-injection-and-lax-host-parsing-serving-malicious-data\u00a0\u2026pic.twitter.com/Kb212dixDF",
+            "username": "detectify",
+            "num_likes": 70,
+            "num_retweets": 68,
+            "num_replies": 0
+        },
+        "783660849210744832": {
+            "id": "783660849210744832",
+            "text": "New post is out: The story of EV-SSL, AWS and trailing dot domainshttps://labs.detectify.com/2016/10/05/the-story-of-ev-ssl-aws-and-trailing-dot-domains/\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 84,
+            "num_retweets": 69,
+            "num_replies": 4
+        },
+        "778821671457214464": {
+            "id": "778821671457214464",
+            "text": "Any know why Yemen's zone transfer result is borked like this? https://github.com/mandatoryprogrammer/TLDR/blob/master/archives/ye/ns2.yemen.net.ye.zone#L8\u00a0\u2026 Is that a ...comment.... in the zone?",
+            "username": "IAmMandatory",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "774293505183055872": {
+            "id": "774293505183055872",
+            "text": "Bypassing path restriction on whitelisted CDNs to circumvent #CSP protections - @SEC_T_org #CTF Web 400 writeup http://goo.gl/NDMNOe\u00a0 #xss",
+            "username": "0daylabs",
+            "num_likes": 49,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "771173573998194690": {
+            "id": "771173573998194690",
+            "text": "Using Chrome's web-custom-data UTI to inject a stored XSS in Slackhttps://labs.detectify.com/2016/09/01/using-chromes-web-custom-data-uti-to-inject-a-stored-xss-in-slack/\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 115,
+            "num_retweets": 66,
+            "num_replies": 6
+        },
+        "769515425117777920": {
+            "id": "769515425117777920",
+            "text": "A simple UI redress vulnerability in @keepersecurity exposes all passwords to websites. https://bugs.chromium.org/p/project-zero/issues/detail?id=917\u00a0\u2026",
+            "username": "taviso",
+            "num_likes": 148,
+            "num_retweets": 159,
+            "num_replies": 7
+        },
+        "767039352660697088": {
+            "id": "767039352660697088",
+            "text": "Looking for someone with decent knowledge of Swedish IP law. Spec. w/ regards to hardware/software and reimplementing APIs.",
+            "username": "ZetaTwo",
+            "num_likes": 5,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "765839105368461312": {
+            "id": "765839105368461312",
+            "text": "It's like every defense sucks, but how many defensive products/technology did you create? ;-)",
+            "username": "osxreverser",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "760705480641638400": {
+            "id": "760705480641638400",
+            "text": "#securityjerks at the @bugcrowd vip event. special appearance from @jobertabma and @michielprinspic.twitter.com/f10AUkZMBO",
+            "username": "caseyjohnellis",
+            "num_likes": 27,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "759053308711403521": {
+            "id": "759053308711403521",
+            "text": "I found 120 bugs in 120 days within bug bounties and wrote a transparent blog post about it: https://shubs.io/high-frequency-security-bug-hunting-120-days-120-bugs/\u00a0\u2026 #bugbounty",
+            "username": "infosec_au",
+            "num_likes": 278,
+            "num_retweets": 199,
+            "num_replies": 21
+        },
+        "756836372636372992": {
+            "id": "756836372636372992",
+            "text": "Fuzzing Unserialize https://www.evonide.com/fuzzing-unserialize/\u00a0\u2026",
+            "username": "evonide",
+            "num_likes": 60,
+            "num_retweets": 46,
+            "num_replies": 0
+        },
+        "753262391228526593": {
+            "id": "753262391228526593",
+            "text": "Today is another day of people, who will never work for bug bounties, telling us their opinion on bug bounties...",
+            "username": "i0n1c",
+            "num_likes": 24,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "738765867001909248": {
+            "id": "738765867001909248",
+            "text": "How to instantly exploit 2000 binaries with Binary Ninja http://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja\u00a0\u2026pic.twitter.com/z64erJvfo5",
+            "username": "trailofbits",
+            "num_likes": 315,
+            "num_retweets": 215,
+            "num_replies": 1
+        },
+        "732880642736676864": {
+            "id": "732880642736676864",
+            "text": "Blogged! / XSS Auditor bypass using Flash and base tag\nhttp://masatokinugawa.l0.cm/2016/05/xss8.html\u00a0\u2026 (\u65e5\u672c\u8a9e)\nhttp://mksben.l0.cm/2016/05/xssauditor-bypass-flash-basetag.html\u00a0\u2026 (English)",
+            "username": "kinugawamasato",
+            "num_likes": 75,
+            "num_retweets": 58,
+            "num_replies": 1
+        },
+        "725639985379041280": {
+            "id": "725639985379041280",
+            "text": "Slack bot token leakage exposing business critical information - The @detectify team explains howhttps://labs.detectify.com/2016/04/28/slack-bot-token-leakage-exposing-business-critical-information/\u00a0\u2026",
+            "username": "detectify",
+            "num_likes": 36,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "724590315613609984": {
+            "id": "724590315613609984",
+            "text": "Adapting AngularJS Payloads to Exploit Real World Applicationshttp://blog.portswigger.net/2016/04/adapting-angularjs-payloads-to-exploit.html\u00a0\u2026",
+            "username": "garethheyes",
+            "num_likes": 43,
+            "num_retweets": 43,
+            "num_replies": 1
+        },
+        "717643400984584192": {
+            "id": "717643400984584192",
+            "text": "New write-up by @avlidienbrunn: CSP: bypassing form-action with reflected XSS http://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/\u00a0\u2026pic.twitter.com/lW4uKFgc4E",
+            "username": "detectify",
+            "num_likes": 55,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "714767998700093440": {
+            "id": "714767998700093440",
+            "text": "Shibuya.XSS\u306e\u8cc7\u6599\u516c\u958b\u3057\u307e\u3057\u305f\uff01\u30d1\u30b9\u90e8\u5206\u3067XSS\u3059\u308b\u65b9\u6cd5\u306b\u3064\u3044\u3066\u3067\u3059\u3002 XSS Challenge\u306ewriteup\u3082\u3042\u308a\u307e\u3059\u3002\u8074\u3044\u3066\u9802\u3044\u305f\u65b9\u3001\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002 https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-7\u00a0\u2026 #shibuyaxss",
+            "username": "kinugawamasato",
+            "num_likes": 91,
+            "num_retweets": 53,
+            "num_replies": 0
+        },
+        "712377776381165569": {
+            "id": "712377776381165569",
+            "text": "Uber Bug Bounty: Turning Self-XSS into Good-XSS - https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/\u00a0\u2026 #bugbounty #xss #uber",
+            "username": "fin1te",
+            "num_likes": 152,
+            "num_retweets": 108,
+            "num_replies": 10
+        },
+        "709172883424063488": {
+            "id": "709172883424063488",
+            "text": "Infosec researchers: there is a reason academic research projects always begin with a review of existing literature",
+            "username": "liamosaur",
+            "num_likes": 21,
+            "num_retweets": 17,
+            "num_replies": 6
+        },
+        "709044512761507840": {
+            "id": "709044512761507840",
+            "text": "Looks like we are going to the Codegate finals this year. ;) @CODEGATE_GLOBAL #codegate2016 #HackingForSojupic.twitter.com/KftiCZjOzs",
+            "username": "OwariDa",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "707962987479441408": {
+            "id": "707962987479441408",
+            "text": "@avlidienbrunn @0x6D6172696F @irsdl @fransrosen @tunnelshade_ done in FF, but I think I cheated. Load the swf via the jar: protocol",
+            "username": "insertScript",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "702122579386089473": {
+            "id": "702122579386089473",
+            "text": "Disabling EMET protection by calling EMET unload func. Triggered by calling emet.dll's DllMain w/DLL_PROCESS_DETACHhttps://www.fireeye.com/blog/threat-research/2016/02/using_emet_to_disabl.html\u00a0\u2026",
+            "username": "KyleHanslovan",
+            "num_likes": 54,
+            "num_retweets": 60,
+            "num_replies": 2
+        },
+        "699886612440870912": {
+            "id": "699886612440870912",
+            "text": "Apple must be applauded for taking such a strong stance on an incredibly important issue: https://www.apple.com/customer-letter/\u00a0\u2026",
+            "username": "Scott_Helme",
+            "num_likes": 30,
+            "num_retweets": 59,
+            "num_replies": 3
+        },
+        "697312538611077120": {
+            "id": "697312538611077120",
+            "text": "Write-up of CVE-2015-1287 and CVE-2015-5826: Data exfiltration abusing CSS + UTF-16, one of my greatest findings! http://blog.innerht.ml/cross-origin-css-attacks-revisited-feat-utf-16/\u00a0\u2026",
+            "username": "filedescriptor",
+            "num_likes": 160,
+            "num_retweets": 112,
+            "num_replies": 6
+        },
+        "692296022513565696": {
+            "id": "692296022513565696",
+            "text": "Finally my AngularJS bypasses blog post is releasedhttp://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html\u00a0\u2026",
+            "username": "garethheyes",
+            "num_likes": 74,
+            "num_retweets": 73,
+            "num_replies": 6
+        },
+        "682245512444178432": {
+            "id": "682245512444178432",
+            "text": "HackerOne disclosed a bug submitted by @avlidienbrunn: https://hackerone.com/reports/103787\u00a0 - Bounty: $2,500 #hackeronepic.twitter.com/vG5nwrSlrP",
+            "username": "disclosedh1",
+            "num_likes": 25,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "677652250706247680": {
+            "id": "677652250706247680",
+            "text": "The Bug Bounty Problem: Perspectives \nby Justin Calmus CSO @Zenefitshttps://www.linkedin.com/pulse/bug-bounty-problem-perspectives-justin-calmus\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "677199969187700737": {
+            "id": "677199969187700737",
+            "text": "Blogged! XSS\u30d5\u30a3\u30eb\u30bf\u30fc\u3092\u5229\u7528\u3057\u305fXSS(CVE-2015-6144 / CVE-2015-6176)\u306e\u4ef6\u3067\u3059\u3002 \nhttp://masatokinugawa.l0.cm/2015/12/xxn.html\u00a0\u2026 (\u65e5\u672c\u8a9e)\nhttp://mksben.l0.cm/2015/12/xxn.html\u00a0\u2026 (English)",
+            "username": "kinugawamasato",
+            "num_likes": 66,
+            "num_retweets": 55,
+            "num_replies": 0
+        },
+        "675591406103232512": {
+            "id": "675591406103232512",
+            "text": "jPlayer still haven't fixed SOME. \nIssue: 1 char wrong in regex pattern. https://github.com/happyworm/jPlayer/issues/327\u00a0\u2026 \ncc @BenHayak @avlidienbrunn",
+            "username": "fransrosen",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "668556963257692161": {
+            "id": "668556963257692161",
+            "text": "Just published write-ups for the D-CTF qualifiers: https://zeta-two.com/ctf/2015/11/22/dctf-qual-writeup.html\u00a0\u2026 #CTF",
+            "username": "ZetaTwo",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "664817130030788608": {
+            "id": "664817130030788608",
+            "text": "Congrats to @avlidienbrunn for solving the Angular Expression Injection challenge!\n\nGive it a shot if you haven\u2019t:http://ryhanson.com/angular-expression-injection-vulnerability/\u00a0\u2026",
+            "username": "ryHanson",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "664108612269318144": {
+            "id": "664108612269318144",
+            "text": "Chrome extension for cookie CSRF https://chloe.re/2015/11/09/csrf-blocker-block-csrf-attacks-the-right-way/\u00a0\u2026 [\"if !GET FROM $current_domain to !$current_domain -> strip_cookie_from_header()]",
+            "username": "daniel_bilar",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "664085863454908417": {
+            "id": "664085863454908417",
+            "text": "x=document.cloneNode();o=x.domain;try{while(f=x.domain,d=x.domain.split('.'),d.shift(),x.domain=d.join('.'));}catch(e){}console.log(f);",
+            "username": "fransrosen",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "662787571110445056": {
+            "id": "662787571110445056",
+            "text": "If you remove \"normal\" scrolling from your website and re-add it with JavaScript, then you're a idiot.",
+            "username": "TheColonial",
+            "num_likes": 19,
+            "num_retweets": 8,
+            "num_replies": 5
+        },
+        "657583411096190976": {
+            "id": "657583411096190976",
+            "text": "Blogged! / CSS based Attack: Abusing unicode-range of @font-face \nhttp://masatokinugawa.l0.cm/2015/10/css-based-attack-abusing-unicode-range.html\u00a0\u2026 (\u65e5\u672c\u8a9e)\nhttp://mksben.l0.cm/2015/10/css-based-attack-abusing-unicode-range.html\u00a0\u2026 (English)",
+            "username": "kinugawamasato",
+            "num_likes": 70,
+            "num_retweets": 62,
+            "num_replies": 1
+        },
+        "650943631822467072": {
+            "id": "650943631822467072",
+            "text": "We placed 4:th in the D-CTF quals, just a single pt. behind #3. Time to go to Romania and win.\n\nAlso: First post!pic.twitter.com/gdnj4PTgob",
+            "username": "HackingForSoju",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "649937652251275264": {
+            "id": "649937652251275264",
+            "text": "How Patreon got hacked \u2013 Publicly exposed Werkzeug Debuggerhttp://labs.detectify.com/post/130332638391/how-patreon-got-hacked-publicly-exposed-werkzeug\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 14,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "635936729040592896": {
+            "id": "635936729040592896",
+            "text": "Less than 4 weeks left to SEC-T 2015 and there are still tickets available.\n\nThe #0x08sect speaker list includes:http://0x08.sec-t.org/schedule/exploiting-out-of-order-execution\u00a0\u2026",
+            "username": "SEC_T_org",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "635658336306761728": {
+            "id": "635658336306761728",
+            "text": "New blog post: creating security vulnerabilities using javascript minifiers. https://zyan.scripts.mit.edu/blog/backdooring-js/\u00a0\u2026",
+            "username": "bcrypt",
+            "num_likes": 784,
+            "num_retweets": 667,
+            "num_replies": 24
+        },
+        "633348823645974528": {
+            "id": "633348823645974528",
+            "text": "Join us on the Bugcrowd Forum for our AMA with @avlidienbrunn and podcast interview from #DEFCON -http://bgcd.co/1PhHXgx\u00a0",
+            "username": "Bugcrowd",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "626076327133577216": {
+            "id": "626076327133577216",
+            "text": "how to remember tar flags \n\ntar -xzf  eXtract Ze Files!\ntar -czf  Compress Ze Files!",
+            "username": "_tessr",
+            "num_likes": 3235,
+            "num_retweets": 2736,
+            "num_replies": 138
+        },
+        "630183218671587328": {
+            "id": "630183218671587328",
+            "text": "Some neat post Message discussion with @avlidienbrunn. And some @Bugcrowd swag.pic.twitter.com/XXdAQDXyaw \u2013 at DEF CON 23",
+            "username": "skeptic_fx",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "629938425777496064": {
+            "id": "629938425777496064",
+            "text": "Bug bounty team assemble! #FBDEFCONParty2015pic.twitter.com/FJ2xvE6Yeh",
+            "username": "fin1te",
+            "num_likes": 43,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "628567239042555904": {
+            "id": "628567239042555904",
+            "text": "Forget hacking cars, hackers can take over electric skateboards and toss riders -http://wrd.cm/1HnIbwQ\u00a0",
+            "username": "KimZetter",
+            "num_likes": 93,
+            "num_retweets": 102,
+            "num_replies": 15
+        },
+        "623226330092544000": {
+            "id": "623226330092544000",
+            "text": "The bug wasn't ours. It was in an open source project we use, but do not fund or contribute to in any way.",
+            "username": "vendorexcuses",
+            "num_likes": 756,
+            "num_retweets": 1065,
+            "num_replies": 12
+        },
+        "622675552420392960": {
+            "id": "622675552420392960",
+            "text": "Dagens artikel featuring @avlidienbrunn, @_zulln och @Kym_Possible f\u00f6rresten.http://www.dn.se/kultur-noje/nyheter/handeln-med-buggar-omsatter-miljoner-de-ar-natets-prisjagare/\u00a0\u2026",
+            "username": "LinusLarsson",
+            "num_likes": 4,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "620178552642797568": {
+            "id": "620178552642797568",
+            "text": "HackingForSoju claims second place in PoliCTF and advances to 12th on @CTFtime! Great work guys! #ctf #hackingpic.twitter.com/ddoDUga0Nl",
+            "username": "ZetaTwo",
+            "num_likes": 5,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "619431258330763265": {
+            "id": "619431258330763265",
+            "text": "How you can execute JS through CSS in IE11: http://blog.innerht.ml/cascading-style-scripting/\u00a0\u2026\nAfter reading this you should be able to solve puzzle5 ;)",
+            "username": "filedescriptor",
+            "num_likes": 56,
+            "num_retweets": 36,
+            "num_replies": 2
+        },
+        "618685719792455680": {
+            "id": "618685719792455680",
+            "text": "I've just published the write up for my JSON hijacking minichallenge: http://vwzq.net/challenge/jsonhijack.html\u00a0\u2026 :)",
+            "username": "cgvwzq",
+            "num_likes": 23,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "614070374741999616": {
+            "id": "614070374741999616",
+            "text": "New Research: AngularJS Expression Security Internals via @_wirepair -http://vera.cd/angjssecurity\u00a0",
+            "username": "Veracode",
+            "num_likes": 18,
+            "num_retweets": 32,
+            "num_replies": 2
+        },
+        "613460161097633792": {
+            "id": "613460161097633792",
+            "text": "Project Zero blog: beautiful ESET AV exploit by @taviso --  \"unpacker\" opcodes execute on virtual then _real_ CPU! http://goo.gl/iuA4zS\u00a0",
+            "username": "scarybeasts",
+            "num_likes": 130,
+            "num_retweets": 192,
+            "num_replies": 1
+        },
+        "612980259709849603": {
+            "id": "612980259709849603",
+            "text": "Want to help me distribute this survey on starting a BSidesSweden chapter? http://bsidessweden.polldaddy.com/s/bsidessweden-startup\u00a0\u2026 @eset #bsides #bsideslv #bsidesldn2015",
+            "username": "BEWNIAC",
+            "num_likes": 1,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "608425875026128897": {
+            "id": "608425875026128897",
+            "text": "#s03xsspuzzle writeup, thanks participants @kinugawamasato, @Paul_Axe, @OrenHafif, @SecurityMB https://www.linkedin.com/pulse/s03-xss-puzzle-writeup-roman-x-shafigullin\u00a0\u2026",
+            "username": "shafigullin",
+            "num_likes": 35,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "603823113768402944": {
+            "id": "603823113768402944",
+            "text": "Building an XSS polyglot through SWF and CSPhttp://labs.detectify.com/post/120088174539/building-an-xss-polyglot-through-swf-and-csp\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 89,
+            "num_retweets": 72,
+            "num_replies": 7
+        },
+        "603163071335530496": {
+            "id": "603163071335530496",
+            "text": "Short blog post about my pdf talk with a link to presentation. I will upload working examples asa Adobe patched them http://insert-script.blogspot.co.at/2015/05/pdf-mess-with-web.html\u00a0\u2026",
+            "username": "insertScript",
+            "num_likes": 28,
+            "num_retweets": 32,
+            "num_replies": 3
+        },
+        "601760786038525952": {
+            "id": "601760786038525952",
+            "text": "Great talk!https://twitter.com/appseceu/status/601745809319862273\u00a0\u2026",
+            "username": "Agarri_FR",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "598797282692243458": {
+            "id": "598797282692243458",
+            "text": "Hacking for Soju. Vinnare av pubquizen p\u00e5 #sakfest15pic.twitter.com/1q4thuLiNn",
+            "username": "trebbelito",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "596322982768877568": {
+            "id": "596322982768877568",
+            "text": "I reported the DOM based XSS in JetPack and TwentyFifteen eleven months ago to them, they did patch it on their own website..",
+            "username": "smiegles",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "595477817565028352": {
+            "id": "595477817565028352",
+            "text": "Blog\u66f8\u3044\u305f\uff01 / connection.swf + XSS \u306b\u3088\u308b\u30af\u30ed\u30b9\u30aa\u30ea\u30b8\u30f3\u306e\u60c5\u5831\u596a\u53d6 http://masatokinugawa.l0.cm/2015/05/yui-connectionswf-xss.html\u00a0\u2026",
+            "username": "kinugawamasato",
+            "num_likes": 35,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "580600098092105728": {
+            "id": "580600098092105728",
+            "text": "It doesn't get oldpic.twitter.com/F3t3uub8fT",
+            "username": "matalaz",
+            "num_likes": 786,
+            "num_retweets": 555,
+            "num_replies": 25
+        },
+        "580735992203730944": {
+            "id": "580735992203730944",
+            "text": "New labs post: Stealing files from web servers by exploiting a popular PDF generatorhttp://labs.detectify.com/post/114572572966/stealing-files-from-web-servers-by-exploiting-a\u00a0\u2026",
+            "username": "detectify",
+            "num_likes": 22,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "577453808558702592": {
+            "id": "577453808558702592",
+            "text": "A pentester walks into a bar. Orders a beer. Then -1 beers. Then 1073741824 beers. Then %00 beers. Then AAAAAAAAAAA beers. Then ';-- beers.",
+            "username": "stevelord",
+            "num_likes": 248,
+            "num_retweets": 471,
+            "num_replies": 15
+        },
+        "574934681881219075": {
+            "id": "574934681881219075",
+            "text": "New experimental challenge! Let's see how well you know contexts and polyglots :) http://polyglot.innerht.ml/\u00a0",
+            "username": "filedescriptor",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "562922970633760769": {
+            "id": "562922970633760769",
+            "text": "My quick analysis on the recent IE's UXSS: http://innerht.ml/blog/ie-uxss.html\u00a0\u2026\nNo user interaction is needed.",
+            "username": "filedescriptor",
+            "num_likes": 34,
+            "num_retweets": 69,
+            "num_replies": 6
+        },
+        "562665598380175361": {
+            "id": "562665598380175361",
+            "text": "How I found (and reported) the first severe XSS vulnerability in HackerOne itselfhttp://danlec.com/blog/hackerones-first-xss\u00a0\u2026",
+            "username": "d_lec",
+            "num_likes": 59,
+            "num_retweets": 51,
+            "num_replies": 5
+        },
+        "561483591721295872": {
+            "id": "561483591721295872",
+            "text": "Cure53 XSSMas Challenge '14 Write-Up https://github.com/cure53/xss-challenge-wiki/wiki/XSSMas-Challenge-2014\u00a0\u2026 (still a WIP)",
+            "username": "cure53berlin",
+            "num_likes": 29,
+            "num_retweets": 43,
+            "num_replies": 3
+        },
+        "560366535114784768": {
+            "id": "560366535114784768",
+            "text": "PHP disable_functions bypass via procfs: https://rdot.org/forum/showthread.php?t=3309\u00a0\u2026 [RU]",
+            "username": "ahack_ru",
+            "num_likes": 17,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "558396936404094976": {
+            "id": "558396936404094976",
+            "text": "This is an awesome bug from @avlidienbrunn - cool trick with redirects to send X-Requested-With header cross domain.https://hackerone.com/reports/44146\u00a0",
+            "username": "fin1te",
+            "num_likes": 42,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "554913430378123264": {
+            "id": "554913430378123264",
+            "text": "Registration for #OWASP #AppSecEU2015 is now open! Check at http://2015.appsec.eu/registration/\u00a0 Register now for early bird rate!",
+            "username": "AppSecEU",
+            "num_likes": 5,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "552905383073689600": {
+            "id": "552905383073689600",
+            "text": "Adobe strikes again: A Rosetta Flash style attack using PDF. https://bounty.github.com/researchers/avlidienbrunn.html\u00a0\u2026 @avlidienbrunn",
+            "username": "mastahyeti",
+            "num_likes": 10,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "552835213852938240": {
+            "id": "552835213852938240",
+            "text": "http://goo.gl/tpwJsM\u00a0 - new blogpost 'bout http://yammer.com\u00a0 Same-Origin Method Execution #bugbounty #security #some /cc @BenHayak",
+            "username": "zoczus",
+            "num_likes": 26,
+            "num_retweets": 21,
+            "num_replies": 4
+        },
+        "476548047501918210": {
+            "id": "476548047501918210",
+            "text": "Fucking ownedpic.twitter.com/qk68oRjzlZ",
+            "username": "AaronCMark",
+            "num_likes": 1146,
+            "num_retweets": 1940,
+            "num_replies": 49
+        },
+        "545871631990931456": {
+            "id": "545871631990931456",
+            "text": "So where the hell are this \"Misfortune Cookie\" details? ..or is it just \"hot, empty, air\"? #fuffa",
+            "username": "WisecWisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "542807352081416192": {
+            "id": "542807352081416192",
+            "text": "Really good write-up on a Flash/crossdomain.xml issue on Yahoo http://blog.saynotolinux.com/blog/2014/12/09/seizing-control-of-yahoo-mail-cross-origin-again/\u00a0\u2026 #bugbounty",
+            "username": "fin1te",
+            "num_likes": 23,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "537755674147815424": {
+            "id": "537755674147815424",
+            "text": "If you've played a CTF this year, nominate some stuff for a Golden Flag!http://goo.gl/forms/rVKYPtcsTn\u00a0\u2026",
+            "username": "psifertex",
+            "num_likes": 3,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "532199702822154240": {
+            "id": "532199702822154240",
+            "text": " numeric IDs ",
+            "username": "fransrosen",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "533024751275769856": {
+            "id": "533024751275769856",
+            "text": "I just wrote about \"Using window.onerror to Brute-force Cross Domain Data\" http://javahacker.com/using-window-onerror-to-brute-force-cross-domain-data/\u00a0\u2026 @avlidienbrunn @filedescriptor",
+            "username": "peterjaric",
+            "num_likes": 27,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "531128923544121345": {
+            "id": "531128923544121345",
+            "text": "Writeup on my @angularjs template expression sandbox escape fixed in 1.3.2 released yesterday: https://gist.github.com/molnarg/5348cd4254cabc1d4f7b\u00a0\u2026 /cc @avlidienbrunn",
+            "username": "molnar_g",
+            "num_likes": 15,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "528130337251930114": {
+            "id": "528130337251930114",
+            "text": "@avlidienbrunn http://cdn.meme.am/instances/500x/55817482.jpg\u00a0\u2026",
+            "username": "Almroot",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "527739298888425472": {
+            "id": "527739298888425472",
+            "text": "XSS Puzzle 4: The Final Chapter. http://kcal.pw/puzzle4.html\u00a0 . Please re-tweet :)",
+            "username": "filedescriptor",
+            "num_likes": 20,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "526749741515018240": {
+            "id": "526749741515018240",
+            "text": "Slides for the Insecure Direct Object Reference talk at the PHP Conference. http://www.slideshare.net/fransrosen/how-to-steal-and-modify-data-using-business-logic-flaws-insecure-direct-object-references\u00a0\u2026 @Bitquark @aboul3la :)",
+            "username": "fransrosen",
+            "num_likes": 49,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "523900480754573312": {
+            "id": "523900480754573312",
+            "text": "Harvey Specter has some surprisingly good advice:pic.twitter.com/e8NTnetCBS",
+            "username": "JesperBylund",
+            "num_likes": 12,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "522416079679660032": {
+            "id": "522416079679660032",
+            "text": "Write-up for mini-puzzle: http://kcal.pw/mini-solution.txt\u00a0\u2026\nRemember to add this neat trick to your XSS cheatsheet!",
+            "username": "filedescriptor",
+            "num_likes": 12,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "521712695444529153": {
+            "id": "521712695444529153",
+            "text": "Nytt avsnitt: Intervjuavsnitt #12 @avlidienbrunn pratar hipsterprogrammeringss\u00e4kerhet generellt och Angular specifikt http://sakerhetspodcasten.se/pods/intervjuavsnitt-12-mathias-avlidienbrunn-karlsson/\u00a0\u2026",
+            "username": "sakpodcasten",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "517891989371514880": {
+            "id": "517891989371514880",
+            "text": "w00t ICANN RT \"@QaraKoyunlu: reminder that http://rebecca.blackfriday\u00a0  is a real working url\"",
+            "username": "SwiftOnSecurity",
+            "num_likes": 19,
+            "num_retweets": 41,
+            "num_replies": 1
+        },
+        "517598721362509824": {
+            "id": "517598721362509824",
+            "text": "Blog\u66f8\u3044\u305f\u3088\u30fc\uff01\uff01 / \u30d6\u30e9\u30a6\u30b6\u306eXSS\u4fdd\u8b77\u6a5f\u80fd\u3092\u30d0\u30a4\u30d1\u30b9\u3059\u308b(5)\u3000http://masatokinugawa.l0.cm/2014/10/xss5.html\u00a0\u2026",
+            "username": "kinugawamasato",
+            "num_likes": 28,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "516503572369113088": {
+            "id": "516503572369113088",
+            "text": "Unique Opportunity: Mentorship for a Select Few (and maybe a new team?) - Vulnerability Research, Exploit Development http://www.clevcode.org/mentorship/\u00a0",
+            "username": "OwariDa",
+            "num_likes": 9,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "515216348687781888": {
+            "id": "515216348687781888",
+            "text": "Javascript is like the universe, once you get deep enough you find out it's just strings held together by forces no one understands",
+            "username": "GonzoHacker",
+            "num_likes": 426,
+            "num_retweets": 734,
+            "num_replies": 7
+        },
+        "513782709479804928": {
+            "id": "513782709479804928",
+            "text": "This years @SEC_T_org talks are now edited and available online!http://goo.gl/kVFw0z\u00a0",
+            "username": "plastfolie",
+            "num_likes": 10,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "512211229276782592": {
+            "id": "512211229276782592",
+            "text": "RT @0x6D6172696F  \"XSS Challenge Wiki\" http://bit.ly/1ygr15R\u00a0   < it's a WIP and many helped. Get in touch if you want to contribute.\"",
+            "username": "filedescriptor",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "511187158174937088": {
+            "id": "511187158174937088",
+            "text": "XSS Jigsaw is back: http://kcal.pw/mini-puzzle.php\u00a0. A mini challenge with @avlidienbrunn sponsoring the trick :D",
+            "username": "filedescriptor",
+            "num_likes": 11,
+            "num_retweets": 17,
+            "num_replies": 5
+        },
+        "509670860119367681": {
+            "id": "509670860119367681",
+            "text": "If you care 'bout your sandboxes, you might want to upgrade to Angular 1.2.24 / 1.3.0-rc1 https://github.com/angular/angular.js/blob/master/CHANGELOG.md\u00a0\u2026 #justsaying",
+            "username": "kkotowicz",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "498702495724486657": {
+            "id": "498702495724486657",
+            "text": "Monday XSS challenge (or puzzle): http://kcal.pw/puzzle.php\u00a0 Please RT ;)",
+            "username": "filedescriptor",
+            "num_likes": 10,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "498198647486418945": {
+            "id": "498198647486418945",
+            "text": "Okay, got my Tamagotchi to work with my Defcon badge. My life is now complete",
+            "username": "natashenka",
+            "num_likes": 30,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "497994539790254082": {
+            "id": "497994539790254082",
+            "text": "we found alcohole. mission acohlompilshed. @norsec0de @avlidienbrunn @TheColonialpic.twitter.com/i1hZh9zkJE",
+            "username": "fransrosen",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "497545607335411712": {
+            "id": "497545607335411712",
+            "text": "Awesome England vs Sweden table football match with @Bitquark @fransrosen @avlidienbrunn . As expected, England lost.",
+            "username": "fin1te",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "497604204240703488": {
+            "id": "497604204240703488",
+            "text": "It was great meeting our epic Bugcrowd researchers! @fransrosen @avlidienbrunn @Bitquark and many more! #jointhehuntpic.twitter.com/xhjdsJOfox",
+            "username": "Bugcrowd",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "487211667907153921": {
+            "id": "487211667907153921",
+            "text": "DEFCON \u2013 see you there?",
+            "username": "fransrosen",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "486883113336057856": {
+            "id": "486883113336057856",
+            "text": "Month til DEFCON. So what bug bounty meetup/parties are happening? @Bugcrowd @Hacker0x01 @CrowdCurity @synack @caseyjohnellis @codesoda",
+            "username": "fin1te",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "486831978017456128": {
+            "id": "486831978017456128",
+            "text": "So.. I just got my new domain todayhttp://rebecca.blackfriday/\u00a0",
+            "username": "norrskal",
+            "num_likes": 8,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "486478971119616000": {
+            "id": "486478971119616000",
+            "text": "Presenting #RosettaFlash, a tool for manipulating SWF files in order to abuse JSONP endpoints \u2014 http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/\u00a0\u2026",
+            "username": "mikispag",
+            "num_likes": 73,
+            "num_retweets": 91,
+            "num_replies": 17
+        },
+        "485054956828127232": {
+            "id": "485054956828127232",
+            "text": "Stealing SSL private keys with PHP's phpinfo() functionhttps://www.sektioneins.de/en/blog/14-07-04-phpinfo-infoleak.html\u00a0\u2026",
+            "username": "i0n1c",
+            "num_likes": 255,
+            "num_retweets": 412,
+            "num_replies": 9
+        },
+        "483465611041726465": {
+            "id": "483465611041726465",
+            "text": "\u6708\u520aXSS 6\u6708\u53f7\u3067\u3059\u3002 Referrer\u6587\u5b57\u5217\u306b\u3088\u308bXSS part2 http://masatokinugawa.l0.cm/2014/06/referrer-xss-part2.html\u00a0\u2026",
+            "username": "kinugawamasato",
+            "num_likes": 39,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "482475925247123456": {
+            "id": "482475925247123456",
+            "text": "\"Junior devs think they know everything. Experienced devs think they know nothing. Senior devs hate computers.\" via @savagematt @darrenhobbs",
+            "username": "lunivore",
+            "num_likes": 278,
+            "num_retweets": 533,
+            "num_replies": 16
+        },
+        "482594148240064512": {
+            "id": "482594148240064512",
+            "text": "Looks like @wxs is the first to mirror pocorgtfo04.pdf.  http://atarininja.org/~wxs/pocorgtfo/\u00a0 Be a good Merchant of Death and start your own mirror!",
+            "username": "travisgoodspeed",
+            "num_likes": 6,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "476429313785737216": {
+            "id": "476429313785737216",
+            "text": "Eight days left for the HackPra talk of Mathias Karlsson (@avlidienbrunn).",
+            "username": "mniemietz",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "468701794668126208": {
+            "id": "468701794668126208",
+            "text": "The lesser known pitfalls of allowing file uploads on your website -http://blog.detectify.com/post/86298380233/the-lesser-known-pitfalls-of-allowing-file-uploads-on\u00a0\u2026",
+            "username": "detectify",
+            "num_likes": 13,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "467402603312078848": {
+            "id": "467402603312078848",
+            "text": "OH: \"I've got 99 problems, but I've closed 7 of them as 'won't fix'\"",
+            "username": "jesse_ops",
+            "num_likes": 568,
+            "num_retweets": 893,
+            "num_replies": 17
+        },
+        "464767081444290560": {
+            "id": "464767081444290560",
+            "text": "@avlidienbrunn \nAdobe Reader does not allow [CF]WS before its own header, anything else is allowed. But the flash spec defines ZWS aswell",
+            "username": "insertScript",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "462289495170494464": {
+            "id": "462289495170494464",
+            "text": "Yay T-Shirts here from @detectify @avlidienbrunn #willironitlaterpic.twitter.com/Rc30r1tJCk",
+            "username": "n0x00",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "460943519633268736": {
+            "id": "460943519633268736",
+            "text": "@sawaba @mattblaze I assume I'm never the first to find a bug.  My goal is to be the last.",
+            "username": "dakami",
+            "num_likes": 11,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "459390965753856000": {
+            "id": "459390965753856000",
+            "text": "Nice talk there by @avlidienbrunn!!! A guess about the missing source might be @garethheyes ?",
+            "username": "peterjaric",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "459030071471128576": {
+            "id": "459030071471128576",
+            "text": "@WeldPond shocked! People who are motivated and passionate about a subject are better at it than those who aren't??",
+            "username": "thegrugq",
+            "num_likes": 9,
+            "num_retweets": 9,
+            "num_replies": 5
+        },
+        "454547233997090816": {
+            "id": "454547233997090816",
+            "text": "New post: A trip to Google's /etc/passwd http://blog.detectify.com/post/82370846588/how-we-got-read-access-on-googles-production-servers\u00a0\u2026 #xxe #google #bugbounty #sthlmtech #fridayfun",
+            "username": "detectify",
+            "num_likes": 86,
+            "num_retweets": 152,
+            "num_replies": 10
+        },
+        "452576608654598144": {
+            "id": "452576608654598144",
+            "text": "Reading other people's code! #True #Programmingpic.twitter.com/9P6iNNXKU4",
+            "username": "siavash",
+            "num_likes": 900,
+            "num_retweets": 1835,
+            "num_replies": 72
+        },
+        "452145466801917953": {
+            "id": "452145466801917953",
+            "text": "5 contexts where the XSS Auditor won\u2019t help you http://labs.detectify.com/post/81683387709/5-contexts-where-the-xss-auditor-wont-help-you\u00a0\u2026 #blogpost #xss #auditor #bypass",
+            "username": "detectify",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "449152513145839617": {
+            "id": "449152513145839617",
+            "text": "I've published my writeup from Prezi bug bounty (TL;DR: integer overflow into XSS, et al): http://gynvael.coldwind.pl/?lang=en&id=533\u00a0 + some #DocumentingFailure",
+            "username": "gynvael",
+            "num_likes": 67,
+            "num_retweets": 80,
+            "num_replies": 6
+        },
+        "447773803599646720": {
+            "id": "447773803599646720",
+            "text": "Dear CIO, please learn the difference between Java & JavaScript. I don't expect you to be technical, but I expect you not to sound pathetic.",
+            "username": "infosecjerk",
+            "num_likes": 8,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "447117847668740096": {
+            "id": "447117847668740096",
+            "text": "RPO or rXSS http://www.thespanner.co.uk/2014/03/21/rpo/\u00a0 my greatest ever find. Lovely design flaw.",
+            "username": "garethheyes",
+            "num_likes": 68,
+            "num_retweets": 50,
+            "num_replies": 9
+        },
+        "446301563896995840": {
+            "id": "446301563896995840",
+            "text": "This just in: Twitter is vulnerable to arbitrary plain text upload. Unbelievable! Exploits are limited to 140 characters, though.",
+            "username": "nicholemonias",
+            "num_likes": 19,
+            "num_retweets": 50,
+            "num_replies": 2
+        },
+        "446318846694002688": {
+            "id": "446318846694002688",
+            "text": "HackPra speakers in SS 2014: Mike West, Felix Gr\u00f6bert, Mathias Bynens, Mathias Karlsson, and Steven Van Acker",
+            "username": "mniemietz",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "444371865075589120": {
+            "id": "444371865075589120",
+            "text": "What is a vulnerability? http://seclists.org/fulldisclosure/2014/Mar/160\u00a0\u2026 < @icamtuf h/t @pipesec",
+            "username": "Bugcrowd",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "431442127935897602": {
+            "id": "431442127935897602",
+            "text": "\u30ea\u30af\u30a8\u30b9\u30c8\u30d8\u30c3\u30c0\u306e\u6307\u5b9a\u3001\u3042\u308b\u7a0b\u5ea6\u5236\u9650\u3055\u308c\u3066\u308b\u3093\u3060\u3051\u3069( http://help.adobe.com/ja_JP/FlashPlatform/reference/actionscript/3/flash/net/URLRequestHeader.html\u00a0\u2026 ) User^Agent\u3068\u304b\u3067\u30b5\u30fc\u30d0\u30fc\u5074\u304cHTTTP_USER_AGENT\u3068\u89e3\u91c8\u3057\u3066\u3057\u307e\u3063\u3066UA\u51fa\u529b\u3057\u3066\u308b\u3068\u3053\u3067XSS\u3067\u304d\u305f\u308a\u3059\u308b",
+            "username": "kinugawamasato",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "431012675749830656": {
+            "id": "431012675749830656",
+            "text": "My promised XSS Auditory bypass, with the power of SVG + a firefox xss vector: http://insert-script.blogspot.co.at/2014/02/svg-fun-time-firefox-svg-vector.html\u00a0\u2026",
+            "username": "insertScript",
+            "num_likes": 41,
+            "num_retweets": 46,
+            "num_replies": 3
+        },
+        "429266279044624384": {
+            "id": "429266279044624384",
+            "text": "CodeIgniter bypass: #XSS vector by @avlidienbrunn can be found here: https://github.com/EllisLab/CodeIgniter/issues/2667#issuecomment-33799014\u00a0\u2026. Too long for a tweet :P",
+            "username": "soaj1664ashar",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "423873780935843841": {
+            "id": "423873780935843841",
+            "text": "Chrome XSS Protection Bypass (using Rails) http://owl.li/sCB0D\u00a0 ...simple and effective",
+            "username": "whitehatsec",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "423843598581252096": {
+            "id": "423843598581252096",
+            "text": "Whoever invented open-plan offices clearly never had to do real work.",
+            "username": "halvarflake",
+            "num_likes": 12,
+            "num_retweets": 27,
+            "num_replies": 4
+        },
+        "423171840249708544": {
+            "id": "423171840249708544",
+            "text": "Current state of function decompilation in Javascript \u2014 http://perfectionkills.com/state-of-function-decompilation-in-javascript/\u00a0\u2026",
+            "username": "kangax",
+            "num_likes": 27,
+            "num_retweets": 21,
+            "num_replies": 3
+        },
+        "420839447589294080": {
+            "id": "420839447589294080",
+            "text": "Safari, I thought you know better: http://xn--luaaaaaaaaaaaaaaaaaaaaaaaaaaaa8465w.ws\u2591\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347\u0347.ws\u00a0  // http://blog.dinaburg.org/2014/01/stupid-idn-tricks-unicode-combining.html\u00a0\u2026",
+            "username": "kkotowicz",
+            "num_likes": 6,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "419308585982492672": {
+            "id": "419308585982492672",
+            "text": "New rule, calling it Grugq's Razor: \"never attribute to 0day what can easily be explained by bad password management\"",
+            "username": "thegrugq",
+            "num_likes": 96,
+            "num_retweets": 168,
+            "num_replies": 14
+        },
+        "417401183469588480": {
+            "id": "417401183469588480",
+            "text": "Remember this SQLi Challenge (http://goo.gl/QaByZF\u00a0)? Well here are the solutions with simple explanations: http://goo.gl/6TsqxJ\u00a0",
+            "username": "LightOS",
+            "num_likes": 28,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "417010909597278210": {
+            "id": "417010909597278210",
+            "text": "Currently #1 on 30C3 CTF. Let's hope we can keep it up. :) @CCCAC_CTF",
+            "username": "OwariDa",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "410759167901581312": {
+            "id": "410759167901581312",
+            "text": "wow, such hashrate, so mine http://dogechain.info/charts.html\u00a0 /cc @dogecoin",
+            "username": "DogeChain",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "410057770889523200": {
+            "id": "410057770889523200",
+            "text": "@avlidienbrunn @freddyb @kkotowicz \nOk guys, just for Fun ! Try this, works on latest FF\nhttp://iframe.skepticfx.com/dragff.php\u00a0",
+            "username": "skeptic_fx",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "407835185363689472": {
+            "id": "407835185363689472",
+            "text": "Detectify releases Responsible Disclosure Program: http://blog.detectify.com/post/68871392564/detectify-responsible-disclosure-program\u00a0\u2026 (Note: NOT bug bounty) #responsible #disclosure #hof",
+            "username": "detectify",
+            "num_likes": 0,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "407454855297396736": {
+            "id": "407454855297396736",
+            "text": "Detectify is now on @google's 0x0A list. Congratulations @fransrosen ! http://www.google.se/about/appsecurity/hall-of-fame/\u00a0\u2026 #bugbounty #websec #responsibledisclosure",
+            "username": "detectify",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "404920107807170560": {
+            "id": "404920107807170560",
+            "text": "\"All code in any code-base should look like a single person typed it, no matter how many people contributed.\" https://github.com/rwaldron/idiomatic.js/\u00a0\u2026",
+            "username": "peterjaric",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "401427154837438464": {
+            "id": "401427154837438464",
+            "text": "\"This file is the authoritative user database.\" #iOS7 Ooops, I think I might need to contact Apple.",
+            "username": "fransrosen",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "399991896862638081": {
+            "id": "399991896862638081",
+            "text": "Knock knock\nRace condition\nWho's there?",
+            "username": "iamdevloper",
+            "num_likes": 1010,
+            "num_retweets": 2523,
+            "num_replies": 40
+        },
+        "398941196120104960": {
+            "id": "398941196120104960",
+            "text": "You know what's awesome?  When people go from \"somebody ought to\", to \"I ought to\".",
+            "username": "dakami",
+            "num_likes": 34,
+            "num_retweets": 40,
+            "num_replies": 4
+        },
+        "397807380857356289": {
+            "id": "397807380857356289",
+            "text": "Swap numbers a  and b in just 10 chars: RT @subzey: @tadeuzagallo @aemkei @KlausTrainer @140bytes How about `b+=a-(a=b)`?",
+            "username": "peterjaric",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "397299766524387328": {
+            "id": "397299766524387328",
+            "text": "RT @0x6D6172696F  The ASP XSS-Auditor HPP bypass by @sneak_ is very cool! '?inj=<script src=data:&inj=alert(1)//' http://bit.ly/1cyreXq\u00a0",
+            "username": "antisnatchor",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "395987716057595904": {
+            "id": "395987716057595904",
+            "text": "Top 10 Reporter on Yahoos Bug Bounty. Nice. http://bugbounty.yahoo.com/security_wall.html\u00a0\u2026",
+            "username": "fransrosen",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "390014872877936640": {
+            "id": "390014872877936640",
+            "text": "The secret sauce for a successful startup? Not the team, neither the product. The customers are. #DLD",
+            "username": "Joygunz",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "388172691246563328": {
+            "id": "388172691246563328",
+            "text": "http://cwe.mitre.org/data/definitions/655.html\u00a0\u2026 CWE-655: Insufficient Psychological Acceptability <-- lol wut.",
+            "username": "_wirepair",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "385352897946345472": {
+            "id": "385352897946345472",
+            "text": "If \"con\" is the opposite of \"pro\", is \"congress\" the opposite of \"progress\"?",
+            "username": "ZoggTheAlien",
+            "num_likes": 44,
+            "num_retweets": 114,
+            "num_replies": 9
+        },
+        "381856439180201984": {
+            "id": "381856439180201984",
+            "text": "Game over as expected - Chaos Computer Club breaks Apple TouchID http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid\u00a0\u2026",
+            "username": "deobfuscated",
+            "num_likes": 2,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "380962912782675968": {
+            "id": "380962912782675968",
+            "text": "It took Ebay 53 days to fix this MYSQL Injection...pic.twitter.com/cU2uOgirpA",
+            "username": "smiegles",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "380784344115077120": {
+            "id": "380784344115077120",
+            "text": "That was fast. iOS 7 lockscreen bypass! Freaking awesome! http://www.forbes.com/sites/andygreenberg/2013/09/19/ios-7-bug-lets-anyone-bypass-iphones-lockscreen-to-hijack-photos-email-or-twitter/\u00a0\u2026",
+            "username": "theKos",
+            "num_likes": 3,
+            "num_retweets": 22,
+            "num_replies": 4
+        },
+        "380718841413656576": {
+            "id": "380718841413656576",
+            "text": "@avlidienbrunn @0x6D6172696F PoC: %PDF-1. trailer<</Root<</Pages<<>>/OpenAction<</S/URI/URI(javascript:alert(location))>>>>>>",
+            "username": "internot_",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "380072531941916672": {
+            "id": "380072531941916672",
+            "text": "Here is our #RSS export containing some must-read security blogs :)\nhttps://paste.internetwache.org/?770bbd7f3696948d#HfgrGkOiwuEm7f1XiwNwHu6csB1dsv7pKG97VEmz298=\u00a0\u2026\n#security #blog //cc @bugcrowd\n^sn",
+            "username": "internetwache",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "375940592293134336": {
+            "id": "375940592293134336",
+            "text": "Don't hire good multitaskers. Hire people who hate multitasking.",
+            "username": "henrikkniberg",
+            "num_likes": 29,
+            "num_retweets": 82,
+            "num_replies": 6
+        },
+        "370952194859995136": {
+            "id": "370952194859995136",
+            "text": "#appseceu was awesome!  @avlidienbrunn scored third place @ the CTF - won a RC car. Thanks for a great time!pic.twitter.com/TchU05IMry",
+            "username": "detectify",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "368639566816628736": {
+            "id": "368639566816628736",
+            "text": "http://www.ifc0nfig.com/cerberus-exploit-accessing-any-device/\u00a0\u2026\n\nFucking called it.",
+            "username": "theKos",
+            "num_likes": 5,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "368269356838297600": {
+            "id": "368269356838297600",
+            "text": "Internet Explorer EUC-JP parsing bug:http://insert-script.blogspot.co.at/2013/08/uxss-internet-explorer-euc-jp-parsing.html\u00a0\u2026",
+            "username": "insertScript",
+            "num_likes": 27,
+            "num_retweets": 44,
+            "num_replies": 5
+        },
+        "366471248110305280": {
+            "id": "366471248110305280",
+            "text": "MKT! RT @opassande: Mkt l\u00e4sv\u00e4rt om hur kidsen inte alls \u00e4r \"bra p\u00e5 datorer\" som m\u00e5nga tror: http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/\u00a0\u2026",
+            "username": "grenfeldt",
+            "num_likes": 0,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "361315557833842688": {
+            "id": "361315557833842688",
+            "text": "Pwnie awards 2013 nominations announced. http://pwnies.com/nominations/\u00a0",
+            "username": "jvanegue",
+            "num_likes": 10,
+            "num_retweets": 35,
+            "num_replies": 0
+        },
+        "358212928404586498": {
+            "id": "358212928404586498",
+            "text": "99 little bugs in the code\n99 little bugs in the code\nTake one down, patch it around\n117 little bugs in the code",
+            "username": "irqed",
+            "num_likes": 10571,
+            "num_retweets": 20944,
+            "num_replies": 381
+        },
+        "352708128195870720": {
+            "id": "352708128195870720",
+            "text": "Oops! http://tobtu.com/decryptocat.php\u00a0 @kaepora",
+            "username": "qnrq",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "345507656678666241": {
+            "id": "345507656678666241",
+            "text": "\u00c5rets startup l\u00e5ter dig hacka din site \u2013 innan n\u00e5gon annan g\u00f6r det http://www.mynewsdesk.com/se/stockholm_innovation___growth__sting/pressreleases/aarets-startup-laater-dig-hacka-din-site-innan-naagon-annan-goer-det-876701\u00a0\u2026pic.twitter.com/BdvFsGIWiX",
+            "username": "stingsthlm",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "342479798783864832": {
+            "id": "342479798783864832",
+            "text": "I told you so",
+            "username": "GeorgeOrwell198",
+            "num_likes": 2070,
+            "num_retweets": 7384,
+            "num_replies": 229
+        },
+        "339878654144290817": {
+            "id": "339878654144290817",
+            "text": "One single payload for any MySQL vuln. Cool! RT @detectify The ultimate SQL injection payload http://blog.detectify.com/post/51651525114/the-ultimate-sql-injection-payload\u00a0\u2026 #security",
+            "username": "Agarri_FR",
+            "num_likes": 19,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "339038425862766592": {
+            "id": "339038425862766592",
+            "text": "Tired? There's a nap for that.",
+            "username": "HAL9000_",
+            "num_likes": 35,
+            "num_retweets": 167,
+            "num_replies": 3
+        },
+        "338949085572784128": {
+            "id": "338949085572784128",
+            "text": "Evidently disrupting is a good thing to say during a pitch",
+            "username": "rich0H",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "335321065687498752": {
+            "id": "335321065687498752",
+            "text": "#FF @jackmasa @shafigullin @garethheyes @0x6D6172696F @kkotowicz @lavakumark @insertscript @ryancbarnett @gunther_ar",
+            "username": "skeptic_fx",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "334971697075732480": {
+            "id": "334971697075732480",
+            "text": "The DOM is a mess. DOM Clobbering. http://www.thespanner.co.uk/2013/05/16/dom-clobbering/\u00a0\u2026",
+            "username": "garethheyes",
+            "num_likes": 11,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "331361867710750722": {
+            "id": "331361867710750722",
+            "text": "OWASP-GBG: The extraordinary Dr. Mario Heiderich (@0x6D6172696F) is coming to town 16th May! Get your ticket now:https://owaspgbg-mario-xss.eventbrite.com\u00a0",
+            "username": "internot_",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "329902727142465536": {
+            "id": "329902727142465536",
+            "text": "My Facebook XSS PoC, or, \"how I got $4,000 from Facebook\".http://youtu.be/NQOK9-OXwsc\u00a0",
+            "username": "Charlie_N_B",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "327441012484079619": {
+            "id": "327441012484079619",
+            "text": "Soo.. the tech for our presentation was not 100%. Here's the movies showing what we did: http://hackbattle.thenextweb.com/index.php/Facebook%2B#Videos\u00a0\u2026 #tnw2013 #kingsofcode",
+            "username": "fransrosen",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "327332909180661760": {
+            "id": "327332909180661760",
+            "text": "Probably, this is the only #hackathon ever organised where next king of the state is visiting. #tnw2013 @kingsofcode #Amsterdam",
+            "username": "chhantyal",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "326246958949888000": {
+            "id": "326246958949888000",
+            "text": "\"Simplicity is the ultimate sophistication.\" Leonardo da Vinci",
+            "username": "garethheyes",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "324794492634947584": {
+            "id": "324794492634947584",
+            "text": "\u201cLogin successful, bitch.\u201d\n\nYahoo! Chat\u2019s login protocol is the funniest thing you\u2019ll read about today: http://mths.be/bls\u00a0 #wtf",
+            "username": "mathias",
+            "num_likes": 34,
+            "num_retweets": 62,
+            "num_replies": 3
+        },
+        "322722913767792642": {
+            "id": "322722913767792642",
+            "text": "Facebook OAuth bug (xd_arbiter.php) http://wp.me/p37zwt-1o\u00a0 via @AmineCherrai",
+            "username": "Nirgoldshlager",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "319819458279514112": {
+            "id": "319819458279514112",
+            "text": "The Unfix Bug In Facebook OAuth\nhttp://www.breaksec.com/?p=6039\u00a0",
+            "username": "Nirgoldshlager",
+            "num_likes": 14,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "316618222621310976": {
+            "id": "316618222621310976",
+            "text": "\u00a3example = nouveau Empire();\nhttp://www.addedbytes.com/blog/if-php-were-british\u00a0\u2026 via @rinakikun",
+            "username": "fransrosen",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "313702650208206850": {
+            "id": "313702650208206850",
+            "text": "Java: Not Even Once http://codeascraft.etsy.com/2013/03/18/java-not-even-once/\u00a0\u2026",
+            "username": "zanelackey",
+            "num_likes": 12,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "311942696048664576": {
+            "id": "311942696048664576",
+            "text": "Some people, when confronted with a problem, think \"I know, I'll use Machine Learning.\" Now they have a 10000x10000 matrix.",
+            "username": "abolibibelot",
+            "num_likes": 50,
+            "num_retweets": 159,
+            "num_replies": 2
+        },
+        "311743641850884096": {
+            "id": "311743641850884096",
+            "text": "How I Hacked Any Facebook Account...Again!\n\nhttp://www.nirgoldshlager.com/2013/03/how-i-hacked-any-facebook-accountagain.html\u00a0\u2026",
+            "username": "Nirgoldshlager",
+            "num_likes": 50,
+            "num_retweets": 93,
+            "num_replies": 13
+        },
+        "309789509149683712": {
+            "id": "309789509149683712",
+            "text": "My favourite slide at #cansecwest 2013, by @tombkeeper #csw13pic.twitter.com/USn3rJ7j9h",
+            "username": "HaifeiLi",
+            "num_likes": 2,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "309639768533245953": {
+            "id": "309639768533245953",
+            "text": "Happy 13/3/7! #leetday #elite #leetpic.twitter.com/1eg9MFZFhL",
+            "username": "Almroot",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "309024875195015168": {
+            "id": "309024875195015168",
+            "text": "http://bit.ly/regexpuzzle\u00a0 # A movie related regular expression hinted crossword puzzle. Thanks @n0rbert79",
+            "username": "climagic",
+            "num_likes": 25,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "303869864907509761": {
+            "id": "303869864907509761",
+            "text": "Bypassing XSS Auditor http://www.thespanner.co.uk/2013/02/19/bypassing-xss-auditor/\u00a0\u2026",
+            "username": "garethheyes",
+            "num_likes": 16,
+            "num_retweets": 31,
+            "num_replies": 3
+        },
+        "301117429252255744": {
+            "id": "301117429252255744",
+            "text": "Another Facebook Bug Bounty received even though the issue remains. Will report more as soon as it is fixed.pic.twitter.com/YiiEKCl4",
+            "username": "fransrosen",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "273112280382701568": {
+            "id": "273112280382701568",
+            "text": "I don't want to fucking hear about your holiday. I want you to fix the fucking build you broke before you left, cocksucker.",
+            "username": "SwearengenCD",
+            "num_likes": 21,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "266501742412324864": {
+            "id": "266501742412324864",
+            "text": "Finally. I couldn't wait until Friday it's been sooooo long. http://www.thespanner.co.uk/2012/11/08/opera-x-domain-with-video-tutorial/\u00a0\u2026 Opera x-domain with video tutorial.",
+            "username": "garethheyes",
+            "num_likes": 5,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "265880952310480897": {
+            "id": "265880952310480897",
+            "text": "A normal evening at the @youngskilled Office!pic.twitter.com/aIIy2YH8",
+            "username": "AnnelieNaes",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "263592506325876737": {
+            "id": "263592506325876737",
+            "text": "@garethheyes @0x6D6172696F My point sort of got lost: 26845.357219711936.toString(30) == 'top.alert' //FF",
+            "username": "internot_",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "254597339786919936": {
+            "id": "254597339786919936",
+            "text": "Opera UXSS post updated: http://blog.detectify.com/post/32947196572/universal-xss-in-opera\u00a0\u2026 , any site allowing cross-domain links can be targeted! We stand corrected by mr @mscript_ !",
+            "username": "detectify",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "248013580191019009": {
+            "id": "248013580191019009",
+            "text": "Hacking Caja part 2 http://www.thespanner.co.uk/2012/09/18/hacking-caja-part-2/\u00a0\u2026 they asked for it so got it.",
+            "username": "garethheyes",
+            "num_likes": 9,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "234998333326893056": {
+            "id": "234998333326893056",
+            "text": "Best easteregg ever? #xss #google http://bit.ly/QudlIx\u00a0",
+            "username": "HackAck",
+            "num_likes": 10,
+            "num_retweets": 48,
+            "num_replies": 0
+        },
+        "228406919537250305": {
+            "id": "228406919537250305",
+            "text": "which retard decided that \"show line numbers\" should be turned OFF by default? this bugs me in so many editors when on a fresh machine...",
+            "username": "Prinzhorn",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "144422625999978496": {
+            "id": "144422625999978496",
+            "text": "\u2880\u28e2",
+            "username": "Almroot",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "215247049766076418": {
+            "id": "215247049766076418",
+            "text": "#Browsers #Anti-XSS methods in ASP (classic) have been #defeated! http://soroush.secproject.com/blog/2012/06/browsers-anti-xss-methods-in-asp-classic-have-been-defeated/\u00a0\u2026 please comment!",
+            "username": "irsdl",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "202336996352458752": {
+            "id": "202336996352458752",
+            "text": "Array(16).join('wat' - 1) + ' Batman!';\n#javascript",
+            "username": "ptz0n",
+            "num_likes": 2,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "199731358908690433": {
+            "id": "199731358908690433",
+            "text": "Some ideas for XXE exploitation and other tricks - preso link: http://www.slideshare.net/d0znpp/xxe-advanced-exploitation\u00a0\u2026",
+            "username": "malerisch",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "198017587962064897": {
+            "id": "198017587962064897",
+            "text": "https://imgur.com/janDO\u00a0 #php #CVE-2012-1823",
+            "username": "brainsmoke",
+            "num_likes": 1,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "14030223782": {
+            "id": "14030223782",
+            "text": "Hilarious. The web server on reddit.com does not return \"Apache\" or \"IIS\" as server type - but this: http://twitpic.com/1nykf8",
+            "username": "mikko",
+            "num_likes": 76,
+            "num_retweets": 510,
+            "num_replies": 6
+        },
+        "174314143917150208": {
+            "id": "174314143917150208",
+            "text": "Linus Torvalds on C++ http://j.mp/7hekQq\u00a0",
+            "username": "newsycombinator",
+            "num_likes": 36,
+            "num_retweets": 66,
+            "num_replies": 1
+        },
+        "170336415698268160": {
+            "id": "170336415698268160",
+            "text": "Chrome (and IE?) XSS filter bypass... just posted yesterday, awesome. http://masatokinugawa.l0.cm/2012/02/xss.html\u00a0\u2026",
+            "username": "theKos",
+            "num_likes": 2,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "164673178625523713": {
+            "id": "164673178625523713",
+            "text": "Why use the regular ' OR 1=1--, when you can use the heart #injection? '<3#",
+            "username": "Almroot",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "164402810941734912": {
+            "id": "164402810941734912",
+            "text": "\"Apache httpOnly Cookie Disclosure\" http://bit.ly/xnYNA3\u00a0 <clever!",
+            "username": "jeremiahg",
+            "num_likes": 7,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "159587359963348992": {
+            "id": "159587359963348992",
+            "text": "RT @0x6D6172696F: A good example of cursorjacking http://koto.github.com/blog-kotowicz-net-examples/cursorjacking/\u00a0\u2026 via @kkotowicz",
+            "username": "xanda",
+            "num_likes": 2,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "149413031766528000": {
+            "id": "149413031766528000",
+            "text": "RT @0x6D6172696F: How to analyze HTML/XML attribute values with CSS (Webkit only) http://bit.ly/tu6yTF\u00a0 // <---AOOOOOWESOME",
+            "username": "garethheyes",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1008769443932098562": {
+            "id": "1008769443932098562",
+            "text": "Also, is stealing amazon accounts to run miners on EC2 a thing?",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1008769200515674112": {
+            "id": "1008769200515674112",
+            "text": "Friends amazon account got hacked. They logged in, changed the e-mail and then registered a new account using the old e-mail. Made me realise \"change e-mail\" funcitonality should require e-mail access, not just password access. #infosec #thoughts",
+            "username": "avlidienbrunn",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 5
+        },
+        "985191132454965253": {
+            "id": "985191132454965253",
+            "text": "\u2018\u201c></script>{{2*2}}${2*2} #h1415",
+            "username": "avlidienbrunn",
+            "num_likes": 110,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "951484664006537217": {
+            "id": "951484664006537217",
+            "text": "Do I know anyone with experience in starting/running a hackerspace? #givingback #bugbountygoals",
+            "username": "avlidienbrunn",
+            "num_likes": 14,
+            "num_retweets": 8,
+            "num_replies": 8
+        },
+        "895659755544354816": {
+            "id": "895659755544354816",
+            "text": "cc @BenHayak @filedescriptor @0x6D6172696F @0xSobky @garethheyes @kinugawamasato @molnar_g @cgvwzq et. al :)",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "895659298210013186": {
+            "id": "895659298210013186",
+            "text": "XSS challenge, can you pop alert(1) here? https://avlidienbrunn.se/xsschallenge3/index.php\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 69,
+            "num_retweets": 29,
+            "num_replies": 8
+        },
+        "869977602630537216": {
+            "id": "869977602630537216",
+            "text": "Made some challenges for http://securityfest.ctf.rocks\u00a0 (running now) :) #ctf #web",
+            "username": "avlidienbrunn",
+            "num_likes": 47,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "842461566113054720": {
+            "id": "842461566113054720",
+            "text": "Golfed the AngularJS 1.5.11 sandbox bypass by @tehjh a bit: https://jsfiddle.net/89aj1n7m/\u00a0 (504->332) can you golf it more? :)",
+            "username": "avlidienbrunn",
+            "num_likes": 43,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "831236884886085633": {
+            "id": "831236884886085633",
+            "text": "#hackerone <img src=x onerror=alert(1)> {{1*3}} ${1*3} test",
+            "username": "avlidienbrunn",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "823305880263413760": {
+            "id": "823305880263413760",
+            "text": "The Great Escape part3 @1ns0mn1h4ck teaser CTF writeup: https://github.com/avlidienbrunn/ctf-writeups/tree/master/insomnihackteaser-2017\u00a0\u2026 #insomnihack #pwn #ctf",
+            "username": "avlidienbrunn",
+            "num_likes": 24,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "822531353543581696": {
+            "id": "822531353543581696",
+            "text": "Should forms blocked by CSP `form-action` still trigger onsubmit event? #CSP #reflections",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "821282991439773696": {
+            "id": "821282991439773696",
+            "text": "Finally finished @cure53berlin XSSMas Challenge 2016 with @ZetaTwo ! :D #xss #xssmas",
+            "username": "avlidienbrunn",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "814493354595643392": {
+            "id": "814493354595643392",
+            "text": "#bbpgoal2017 $10k from automation",
+            "username": "avlidienbrunn",
+            "num_likes": 42,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "787947371674075136": {
+            "id": "787947371674075136",
+            "text": "XSS in SVG file in Firefox and need document.cookie? Use <iframe>: http://avlidienbrunn.com/svg.php?xss=%3C?xml%20version=%221.0%22?%3E%3Csvg%3E%3Cp%20xmlns=%22http://www.w3.org/1999/xhtml%22%3E%3Ciframe%20id=%22x%22%20src=%22/%22%3E%3C/iframe%3E%3Cscript%3Ealert(document.getElementById(%22x%22).contentDocument.cookie)%3C/script%3E%3C/p%3E%3C/svg%3E\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 80,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "778197573387579392": {
+            "id": "778197573387579392",
+            "text": "Should Source Maps be affected by CSP? #websec #csp",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "773789219613503488": {
+            "id": "773789219613503488",
+            "text": "Made some CTF challenges for @SEC_T_org CTF at http://sect.ctf.rocks/\u00a0 check it out if you have spare time :) #ctf #web #pwn",
+            "username": "avlidienbrunn",
+            "num_likes": 37,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "760394016785588224": {
+            "id": "760394016785588224",
+            "text": "Account takeover via AngularJS template injection on OAUTH authorize page #memorablebugreports #samethingonmultipleprograms",
+            "username": "avlidienbrunn",
+            "num_likes": 18,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "760392767289778176": {
+            "id": "760392767289778176",
+            "text": "Hijack CC details via stored postMessage XSS on payment page #memorablebugreports",
+            "username": "avlidienbrunn",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "760392677665964032": {
+            "id": "760392677665964032",
+            "text": "Leaking OAUTH+PII+DB pw+AWS Keys via SSRF+telnet:// sending memory dump (:S) #memorablebugreports",
+            "username": "avlidienbrunn",
+            "num_likes": 27,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "758232557829914624": {
+            "id": "758232557829914624",
+            "text": "I, too, have hacked LastPass :) https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/\u00a0\u2026 cc @taviso",
+            "username": "avlidienbrunn",
+            "num_likes": 369,
+            "num_retweets": 334,
+            "num_replies": 29
+        },
+        "755761799966973954": {
+            "id": "755761799966973954",
+            "text": "Dat small heart attack when @HTTPSEverywhere changes logo and you think you've been owned #whyudothis",
+            "username": "avlidienbrunn",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "753568102865051648": {
+            "id": "753568102865051648",
+            "text": "So much ignorance in the current bug bounty debate. I get paid to do X and it puts food on my table, but somehow it's not a job?",
+            "username": "avlidienbrunn",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "750655432285360129": {
+            "id": "750655432285360129",
+            "text": "Really wish bounty platforms wouldn't force me to use PayPal. Shitty exchange rates+hidden fee galore @bugcrowd @synack @zerocopter",
+            "username": "avlidienbrunn",
+            "num_likes": 36,
+            "num_retweets": 10,
+            "num_replies": 9
+        },
+        "746297883377414145": {
+            "id": "746297883377414145",
+            "text": "Response splitting on a page with an erroneous SSL cert. Can it be exploited? #websec #responsesplitting",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "737922574643023873": {
+            "id": "737922574643023873",
+            "text": "I made 7 challenges for 48h CTF at http://securityfest.ctf.rocks\u00a0. Try it out if you have the time, starts in 2h! #securityfest #CTF #web #pwn",
+            "username": "avlidienbrunn",
+            "num_likes": 32,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "737561011306139648": {
+            "id": "737561011306139648",
+            "text": ".@hardenedpaste doesn't prevent clipboard hijacking. Patching it like that will be cat-mouse game forever like adblock vs. fuck-adblock.",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "730413755708940289": {
+            "id": "730413755708940289",
+            "text": "Now that the cat's out of the bag, here's how to add an admin via WordPress+SOME: http://avlidienbrunn.com/wp_some_loader.php\u00a0\u2026 cc @0x6D6172696F @kinugawamasato",
+            "username": "avlidienbrunn",
+            "num_likes": 51,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "727696204843229185": {
+            "id": "727696204843229185",
+            "text": "I guess some Korean hackers were here before mepic.twitter.com/xWUxTWpy9O",
+            "username": "avlidienbrunn",
+            "num_likes": 45,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "725669439304290304": {
+            "id": "725669439304290304",
+            "text": "I'm doing a lightning talk tonight @SEC_T_org. tomorrow I'm off to Korea for Codegate. Tweet/find me if you're going and wanna meet!",
+            "username": "avlidienbrunn",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "724941558743732225": {
+            "id": "724941558743732225",
+            "text": "Never booking with @Finnair again. Booked round trip, now I can't make the there flight (only want to use the return). \"Not possible\"...",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "722827719428341760": {
+            "id": "722827719428341760",
+            "text": "20 days later I finally complete NuitDuHack quals \"Night Deamonic Heap\". Writeup+Exploit: https://tinyurl.com/h4wnryl\u00a0 (feedback welcomed) #ctf",
+            "username": "avlidienbrunn",
+            "num_likes": 29,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "710480148194316289": {
+            "id": "710480148194316289",
+            "text": "Bypassing SOP and shouting hello before you cross the pond http://labs.detectify.com/2016/03/17/bypassing-sop-and-shouting-hello-before-you-cross-the-pond/\u00a0\u2026 #sopbypass #cve20153755 #poc",
+            "username": "avlidienbrunn",
+            "num_likes": 52,
+            "num_retweets": 36,
+            "num_replies": 4
+        },
+        "710078133546950656": {
+            "id": "710078133546950656",
+            "text": "Found partial SOP bypass in FireFox/Safari... report + writeup coming soon :) #cliffhanger #vulns #wtf",
+            "username": "avlidienbrunn",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "707699044643168256": {
+            "id": "707699044643168256",
+            "text": "Is there way to drop Referer from SWF requests in FF?",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "700318336975036416": {
+            "id": "700318336975036416",
+            "text": "Bug bounty people: would you share all your reports in exchange for seeing everybody else's reports?",
+            "username": "avlidienbrunn",
+            "num_likes": 21,
+            "num_retweets": 18,
+            "num_replies": 13
+        },
+        "694846247136530432": {
+            "id": "694846247136530432",
+            "text": "Chromodo has a trivial SOP bypass but saying they \"disable the same origin policy\" is pretty misleading...",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "684397609503600640": {
+            "id": "684397609503600640",
+            "text": "Anyone have a security contact at @addthis? Tried to get a hold of them without luck for quiet some time now...",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "680736829679755265": {
+            "id": "680736829679755265",
+            "text": "What's the fastest way to port scan 127.0.0.1 from HTML/JS? Currently I have an unsatisfied 7 minutes for 1-65535 #js #fastest #portscan",
+            "username": "avlidienbrunn",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "677754737710772228": {
+            "id": "677754737710772228",
+            "text": "FB guy and Wes were both in the wrong. The end",
+            "username": "avlidienbrunn",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "645919623418904576": {
+            "id": "645919623418904576",
+            "text": "Simple but great advice for writing: http://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html\u00a0\u2026 #tldr #dontwastemytime",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "641691204430786560": {
+            "id": "641691204430786560",
+            "text": "EL Injection, none of the default scopes are accessible - anyone know if it's possible to enumerate what can be reached? #java #hacking #hmm",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "627029769696247808": {
+            "id": "627029769696247808",
+            "text": "Off to SF then Vegas. Let's meet! :) #defcon #flight #excited",
+            "username": "avlidienbrunn",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "626132308182048770": {
+            "id": "626132308182048770",
+            "text": "Disabling HTTPS Everywhere (and other Chrome extensions) without user interaction: http://labs.detectify.com/post/125256364141/how-i-disabled-your-chrome-security-extensions\u00a0\u2026 #chrome #extension #security",
+            "username": "avlidienbrunn",
+            "num_likes": 159,
+            "num_retweets": 170,
+            "num_replies": 15
+        },
+        "620597443504250880": {
+            "id": "620597443504250880",
+            "text": "Browsers (tested Chrome, FF) are a lot more forgiving on Content-Type headers than I thought: http://avlidienbrunn.com/test.php?eval=alert(1%29\u00a0\u2026 #contenttype #fiddle",
+            "username": "avlidienbrunn",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "618360861107834880": {
+            "id": "618360861107834880",
+            "text": "TIL: <input type=\"image\" id=\"FUNC\" or name=\"FUNC\"> doesn't clobber form.FUNC (such as submit()) #dom #clobbering #fiddling #til",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "602085227964571648": {
+            "id": "602085227964571648",
+            "text": "Bye, @appseceu. Great talks and nice meeting you @Gunther_AR @insertscript @0x6D6172696F @lcf_g @joernchen @internot_ @antisnatchor et al.!",
+            "username": "avlidienbrunn",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "600880324831289344": {
+            "id": "600880324831289344",
+            "text": "On my way to @AppSecEU :)",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "597669939558887424": {
+            "id": "597669939558887424",
+            "text": "Flash XSS challenge for you this fine monday morning: http://s3.amazonaws.com/avlidienbrunn/wheres_the_xss.swf\u00a0\u2026 :) #crouching #programmer #hidden #xss",
+            "username": "avlidienbrunn",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "592438485673517057": {
+            "id": "592438485673517057",
+            "text": ".@rafaybaloch @mmrupp @soaj1664ashar am I... fashionably late? :)<a id=\"a\"href=javascript&colon;alert&lpar;1&rpar; id=\"a\">Click me plz</a>#a",
+            "username": "avlidienbrunn",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "591143583757033472": {
+            "id": "591143583757033472",
+            "text": "Magento RCE chain writeup http://blog.checkpoint.com/2015/04/20/analyzing-magento-vulnerability/\u00a0\u2026 #php #lfi #sqli",
+            "username": "avlidienbrunn",
+            "num_likes": 28,
+            "num_retweets": 38,
+            "num_replies": 2
+        },
+        "586454118773891072": {
+            "id": "586454118773891072",
+            "text": "Verifying myself: I am avlidienbrunn on Keybase.io. F2mRAjzmb4k8SeqMlxJTPrO4XOQM2_LaT8Wh / https://keybase.io/avlidienbrunn/sigs/F2mRAjzmb4k8SeqMlxJTPrO4XOQM2_LaT8Wh\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "585175290118283264": {
+            "id": "585175290118283264",
+            "text": ".@disclosedh1 lol. What difference does it make when providers WONTFIX it?https://twitter.com/avlidienbrunn/status/463950765028286464\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "582635192562647041": {
+            "id": "582635192562647041",
+            "text": "Using PHP getimagesize() to make sure users are uploading images? Beware of https://github.com/php/php-src/blob/master/ext/standard/image.c#L78\u00a0\u2026 & http://labs.detectify.com/post/86302927946/the-lesser-known-pitfalls-of-allowing-file-uploads\u00a0\u2026 #php #swf #hell",
+            "username": "avlidienbrunn",
+            "num_likes": 57,
+            "num_retweets": 35,
+            "num_replies": 4
+        },
+        "572517168304156672": {
+            "id": "572517168304156672",
+            "text": "Trusting jQuery XHR \"crossDomain\" when adding CSRF token? Maybe you shouldn't :) http://jsfiddle.net/z4w01y6v/1/\u00a0 #jQuery #crossdomain #base #confused",
+            "username": "avlidienbrunn",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "564752404391153665": {
+            "id": "564752404391153665",
+            "text": ".@aboul3la it's actually a 7 year old bug: http://lists.webappsec.org/pipermail/websecurity_lists.webappsec.org/2011-February/007595.html\u00a0\u2026 :)",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "562917122607939585": {
+            "id": "562917122607939585",
+            "text": "So `ssh-add -D [KEY]` is really not the same as `ssh-add -d [KEY]` #sigh #byekeys",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "560425272701648896": {
+            "id": "560425272701648896",
+            "text": "Seems like a lot of Flash \"blockers\" can be bypassed by clickjacking the click-to-play #flash #block #really #helping?",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "554925235993341952": {
+            "id": "554925235993341952",
+            "text": "MT @0x6D6172696F \"Exploiting Eucalyptus 4.0.0 and 4.0.1\" http://bit.ly/1FOVCLw\u00a0  AngularJS XSS in EMC twice in a row",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "552154201707782144": {
+            "id": "552154201707782144",
+            "text": "In Chrome's text/html data URI's, location.hash is part of the body: http://tinyurl.com/kx6t366\u00a0 #chrome #data #uri #fiddling",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "551515766047387648": {
+            "id": "551515766047387648",
+            "text": "http://regexcrossword.com\u00a0",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "549629999708663809": {
+            "id": "549629999708663809",
+            "text": "Varf\u00f6r \u00e4r det s\u00e5 in i helvete sv\u00e5rt att k\u00f6pa SMS biljett p\u00e5 SL nu f\u00f6r tiden? D\u00f6 @sl @klarna #badux #togenuberist\u00e4llet",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "547524410023088128": {
+            "id": "547524410023088128",
+            "text": "Nice timing there, @facebook :D #bounty #christmas #presentpic.twitter.com/Ef8cKJdxMC",
+            "username": "avlidienbrunn",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "547356752757661696": {
+            "id": "547356752757661696",
+            "text": "Why does browsers give mixed content warnings/errors to loopback adresses?",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "545157224369520640": {
+            "id": "545157224369520640",
+            "text": "Note: Clearing Chrome's history in chrome:// won't clear JS console history (clear it, open new JS console, hit arrow up)",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "543776143338659840": {
+            "id": "543776143338659840",
+            "text": "Hello London :)",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "542701859509899264": {
+            "id": "542701859509899264",
+            "text": "So... Chrome's view-source doesn't work on pages <8 bytes long without charset in Content-Type header. #getyourshittogetherchrome",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "540080279705374720": {
+            "id": "540080279705374720",
+            "text": "Function with String.Replace: Function.prototype.toString=Function.prototype.call;\"alert(1)//\".replace(\"//\",Function) cc @molnar_g :) #fidde",
+            "username": "avlidienbrunn",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "534057234880139264": {
+            "id": "534057234880139264",
+            "text": "<element onpointerover=alert(1)> #IE #onmouseover #alternative #TIL",
+            "username": "avlidienbrunn",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "534006856533176320": {
+            "id": "534006856533176320",
+            "text": "Thanks @github :) https://bounty.github.com/researchers/avlidienbrunn.html\u00a0\u2026 #bug #bounty #restocking #wardrobepic.twitter.com/0k370VnrJI",
+            "username": "avlidienbrunn",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 5
+        },
+        "527752140882972672": {
+            "id": "527752140882972672",
+            "text": "Italian guy at work just taught me \"michele\" is *NOT* \"michelle\". Thank god I haven't met @antisnatchor IRL yet #pronounciation #wtf #italy",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "527092925944320000": {
+            "id": "527092925944320000",
+            "text": "MT @0x6D6172696F HackPra Allstars 2015 - the speaker list is public! http://bit.ly/1tEisPB\u00a0 <-- Don't miss this!",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "521715847359131648": {
+            "id": "521715847359131648",
+            "text": "N\u00e5n som \u00e4r p\u00e5 spr\u00e5ng i G\u00f6tet ikv\u00e4ll? @sakpodcasten @addelindh @internot_ #bored #p\u00e5uppdrag #itsec\u00f6l",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "514837517376688128": {
+            "id": "514837517376688128",
+            "text": "Bira bira bira, bash bash bash!",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "513991781764300800": {
+            "id": "513991781764300800",
+            "text": "-@avlidienbrunn And here's the lightning talk on the same issue:https://www.youtube.com/watch?v=6ujZQDx1uew\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "513978256790663168": {
+            "id": "513978256790663168",
+            "text": "Quick AngularJS sandbox bypass (now fixed) writeup (and $5000 Google bug bounty!): http://avlidienbrunn.se/angular.txt\u00a0 #html #is #overrated #angularjs",
+            "username": "avlidienbrunn",
+            "num_likes": 117,
+            "num_retweets": 86,
+            "num_replies": 8
+        },
+        "513305728376111104": {
+            "id": "513305728376111104",
+            "text": "The got-shitfaced-with-infosec-peeps-wonder-what-secrets-spilled feeling",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "511955997967917056": {
+            "id": "511955997967917056",
+            "text": "I'll be giving a lightning talk on bypassing AngularJS sandbox on @SEC_T_org :) https://www.sec-t.org/2014/talks-and-speakers.html#lightning\u00a0\u2026 #sect #lightning #talk #excited",
+            "username": "avlidienbrunn",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "509449243728576512": {
+            "id": "509449243728576512",
+            "text": "http://www.avlidienbrunn.se/xsschallenge2/\u00a0 can be solved without user interaction (no mouseevents either) :) #xss #puzzle",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "509399795388383232": {
+            "id": "509399795388383232",
+            "text": "Now is a great time for apple to announce a bug bounty program #applepay #secure?",
+            "username": "avlidienbrunn",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "508234679385071616": {
+            "id": "508234679385071616",
+            "text": "-@garethheyes who you gonna call? Framebusters!",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "506410754992775169": {
+            "id": "506410754992775169",
+            "text": "Sometimes http://web.archive.org\u00a0 has cached old stuff that's not available from Google dorking/guess. And often old=vuln :) #bugbounty #tip",
+            "username": "avlidienbrunn",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "504983932644106240": {
+            "id": "504983932644106240",
+            "text": "And once again, someone (@kinugawamasato) solved my challenge superfast in a way I didn't think of. I need to step my XSS-puzzle game up :D",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "504974173190774784": {
+            "id": "504974173190774784",
+            "text": "Made another XSS challenge/puzzle: http://www.avlidienbrunn.se/xsschallenge2\u00a0 real life scenario :) cc @filedescriptor @insertscript @rafaybaloch @0x6D6172696F",
+            "username": "avlidienbrunn",
+            "num_likes": 10,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "504955704508440576": {
+            "id": "504955704508440576",
+            "text": "Chrome breaks \"X-XSS-Protection: 1; mode=block\" when two of the same header is sent: http://avlidienbrunn.se/doubleheaders.php?lol=%3Cscript%3Ealert(1)%3C/script%3E\u00a0\u2026 #chrome #fiddling #HRS",
+            "username": "avlidienbrunn",
+            "num_likes": 9,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "504260517163442176": {
+            "id": "504260517163442176",
+            "text": "Tip: Don't Google Image search for \"XXE\" #not #XML",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "501793203436388352": {
+            "id": "501793203436388352",
+            "text": "That moment when you find something nice and look around for research in the area to see if it's already known #fiddling #writeupsoon",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "501487047035850752": {
+            "id": "501487047035850752",
+            "text": "Since HTML imports are now native (since 36), this XSS auditor bypass now works in Chrome stable:https://twitter.com/avlidienbrunn/status/486059626002395136\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 19,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "501374931616399361": {
+            "id": "501374931616399361",
+            "text": "Wasn't really sure how to \"go out\" with that, but no it's not a joke. The decision is final! #new #adventures #ahead :)",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "501374674631426048": {
+            "id": "501374674631426048",
+            "text": "Dear twitter: Due to different reasons I have decided to leave @detectify. If you need a spare @avlidienbrunn, ping me! #pleasert #notajoke",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 11,
+            "num_replies": 8
+        },
+        "498235012287037443": {
+            "id": "498235012287037443",
+            "text": "PoC||GTFO hard copy. Now this is some cool shit! #poc||gtfo #haxpic.twitter.com/uxXCMEffIi",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "497702063137361920": {
+            "id": "497702063137361920",
+            "text": "OH: Selfie XSS",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "494546707116744704": {
+            "id": "494546707116744704",
+            "text": "Week left til' @defcon. Grab a hold of me if you see me! #decon22 #excited",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "492438754389655554": {
+            "id": "492438754389655554",
+            "text": "I can't believe prompt.ml level 4 took me that long. #facepalm well played @filedescriptor",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "489676488305049600": {
+            "id": "489676488305049600",
+            "text": "JavaScript X-Domain Data extraction by brute force: http://jsfiddle.net/X7LWF/2/\u00a0 Can it be done in a more efficient way? @0x6D6172696F @homakov",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "488950962753896448": {
+            "id": "488950962753896448",
+            "text": "I'll be in berlin over the day if anyone wants to meet up!",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "487244932059758592": {
+            "id": "487244932059758592",
+            "text": "I mirrored PoC||GTFO: http://avlidienbrunn.se/PoC%7c%7cGTFO\u00a0",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "487163182134214657": {
+            "id": "487163182134214657",
+            "text": ".@0x6D6172696F Another possible CSP problem in Chrome I thought of: http://avlidienbrunn.se/html.php\u00a0 thoughts?",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "487148817423548416": {
+            "id": "487148817423548416",
+            "text": "TIL document.execCommand(\"ClearAuthenticationCache\", false); http://msdn.microsoft.com/en-us/library/ms536979.aspx\u00a0\u2026 #IE #logout #fiddling",
+            "username": "avlidienbrunn",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "486441239584047105": {
+            "id": "486441239584047105",
+            "text": "XSS Challenge solutions: http://www.avlidienbrunn.se/xsschallenge/solvers.txt\u00a0\u2026 @filedescriptor @insertScript @peterjaric @dnkolegov @_zulln @0x6D6172696F @migueljimeno96",
+            "username": "avlidienbrunn",
+            "num_likes": 10,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "486059626002395136": {
+            "id": "486059626002395136",
+            "text": "Chrome XSS Auditor bypass in Canary (HTML Imports): ?xss=<link rel=import href=http://avlidienbrunn.se/test.php\u00a0> #xss #auditor #html #imports #chrome",
+            "username": "avlidienbrunn",
+            "num_likes": 48,
+            "num_retweets": 20,
+            "num_replies": 6
+        },
+        "485123059964477440": {
+            "id": "485123059964477440",
+            "text": "Slides for my @HackPra talk: http://tinyurl.com/avlidienbrunn-hackpra\u00a0\u2026, last slide: http://tinyurl.com/avlidienbrunn-hackpra-last\u00a0\u2026, recording: http://tinyurl.com/avlidienbrunn-hackpra-vid\u00a0\u2026 #polyglot #slides",
+            "username": "avlidienbrunn",
+            "num_likes": 21,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "483604017872773121": {
+            "id": "483604017872773121",
+            "text": "Small XSS challenge http://www.avlidienbrunn.se\u00a0.Can you break it? Took me a while:) @peterjaric @insertScript @soaj1664ashar @fransrosen @cgvwzq",
+            "username": "avlidienbrunn",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "483331980516659200": {
+            "id": "483331980516659200",
+            "text": "Idea: Inject something into a page that will make AdBlock remove it (and more?) from the DOM. #plugin #fiddling",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "481398269990694912": {
+            "id": "481398269990694912",
+            "text": "Seems paragraph/line separator puts newline into the URL bar in Chrome. Makes the history look weird: http://jsfiddle.net/8h2H3/2/show\u00a0 #fiddling",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "480810272299687937": {
+            "id": "480810272299687937",
+            "text": "Sending valid JSON with HTML <form>: http://jsfiddle.net/w9w5r\u00a0 #fiddling #json #endpoints #clientsideattacks",
+            "username": "avlidienbrunn",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "479603926015410176": {
+            "id": "479603926015410176",
+            "text": ",@sqall01 nice to meet you too! Will check it out for sure :)",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "478899874499657728": {
+            "id": "478899874499657728",
+            "text": "On my way to @HackPra to talk about polyglot payloads in web security! (if anyone wants to meet up, DM me :) )#excited #nervous #funstuff",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 6
+        },
+        "472437919291277312": {
+            "id": "472437919291277312",
+            "text": "Clickjacking enumerating clicks idea: http://jsfiddle.net/ZrscM/3/show\u00a0 #friday #fiddling #clickjacking",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "471977710160732160": {
+            "id": "471977710160732160",
+            "text": "Google XSS Game with one payload: data:text/html,/*<img src=x '-alert(1)-' onerror=alert(1)>*/alert(1) #xss #game #for #lazy #people",
+            "username": "avlidienbrunn",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "466865636476747776": {
+            "id": "466865636476747776",
+            "text": "Just found some *very* interesting IE behaviour... :) #IE #thursdayfiddling #moretocome",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "464119883123671040": {
+            "id": "464119883123671040",
+            "text": "I'm very impressed with @offsectraining's fast response time on their bug bounty program. After 4 hours it's patched and paid! #bugbounty",
+            "username": "avlidienbrunn",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "463950765028286464": {
+            "id": "463950765028286464",
+            "text": "Facebook (WONTFIX) Open Redirect full disclosure: http://pastebin.com/TAdVqXu3\u00a0 #facebook #bugbounty #wontfix (@homakov, @NealPoole: thoughts?)",
+            "username": "avlidienbrunn",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "458964763213824000": {
+            "id": "458964763213824000",
+            "text": "Want autocomplete=\"off\" back for password fields? Take this: http://jsfiddle.net/d6rTZ/\u00a0 #autocomplete #anarchy cc @jvallstrand",
+            "username": "avlidienbrunn",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "453575139276636160": {
+            "id": "453575139276636160",
+            "text": "Chrome UI DoS: http://jsfiddle.net/rNbB8/3/show\u00a0 #ChromeIsTheNewIE #dos #funkybugs #fiddling",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "453515530151137281": {
+            "id": "453515530151137281",
+            "text": "It can't be a coincidence that @neelmehta currently has 1337 followers",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "453440236690083840": {
+            "id": "453440236690083840",
+            "text": "Cool, my DOM Clobbering \"injection\" was accepted on @github https://bounty.github.com/researchers/avlidienbrunn.html\u00a0\u2026 cc @garethheyes #domclobbering #funstuff #groovybugs",
+            "username": "avlidienbrunn",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "451727094880694272": {
+            "id": "451727094880694272",
+            "text": "Using anchor links to trigger onscroll: http://jsfiddle.net/wfe9m/show/#example\u00a0\u2026 #xss #vector #mildlyinteresting #fiddling #unexpectedfeature",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "447377159410434049": {
+            "id": "447377159410434049",
+            "text": "phpMyAdmin RPO: [phpmyadmin]/index.php//?pma_username={}*{color:%23f00;} cc @garethheyes :)",
+            "username": "avlidienbrunn",
+            "num_likes": 27,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "446715695024594946": {
+            "id": "446715695024594946",
+            "text": "Is it possible to get a browser to render a page as html if the URI has to start with data:// ? #htmlproblem #scratcheshead",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "443026746997485568": {
+            "id": "443026746997485568",
+            "text": "Classic skull GIF as XSS payload: http://jsfiddle.net/YLayc/2/\u00a0 #xss #gif #whenyoucanonlyuploadimages",
+            "username": "avlidienbrunn",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "442246891246723072": {
+            "id": "442246891246723072",
+            "text": "Want to sell something to a swede? Today would be a good day. #firstdayofsunshine #endorphins",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "440971629363867648": {
+            "id": "440971629363867648",
+            "text": "Wondering why @skype is serving ads (javascript) in the windows client over HTTP... :( #mixedcontent #sigh",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "439359029350244352": {
+            "id": "439359029350244352",
+            "text": "0. Open Chrome\n1. View source on a URL with parameters\n2. Change value in a parameter\n3. Wat\n#ChromeisthenewIE #annoyingbugs",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "437981716913717248": {
+            "id": "437981716913717248",
+            "text": "MySQL functions doesn't work if there's whitespace before args.. Sometimes? https://pastie.se/352c048a\u00a0 #mysql #fiddling #wtf",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "437660813621723136": {
+            "id": "437660813621723136",
+            "text": "2nd place in #codegate quals, web parts was fun, but few :) #ctf",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "435390299662077952": {
+            "id": "435390299662077952",
+            "text": "So, (x=[].concat)()[0] window leak seems dead in newest Canary. Also the with() tricks. #rip #window #leaks #timetofindnewones",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "433647601917759488": {
+            "id": "433647601917759488",
+            "text": "1.Open #Chrome, go to any site\n2.Open a new tab, write javascript:alert(1)\n3.Close the tab\n4.Click the URL bar then click CTRL+Enter #wat",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "433332733238992896": {
+            "id": "433332733238992896",
+            "text": "also, location.search++ works as reload #bored #javascript",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "429208629632172032": {
+            "id": "429208629632172032",
+            "text": "RT @0x6D6172696F: Realized, how amazing @internot_'s PDF Polyglot attack is after exploiting it http://www.cse.chalmers.se/~andrei/ccs13.pdf\u00a0\u2026 <- Fantastic paper!",
+            "username": "avlidienbrunn",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "429009894608347138": {
+            "id": "429009894608347138",
+            "text": "4e01605ef11be05faad0fdee9aea957f",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "428208973762674688": {
+            "id": "428208973762674688",
+            "text": "Why the hell is Shift+Enter \"send\" in @gmail ? #crappyux #why",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "427729818768007168": {
+            "id": "427729818768007168",
+            "text": "Opening a PDF about PDF exploits. Now that's a risky click.",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "423485560464752640": {
+            "id": "423485560464752640",
+            "text": "Hide data uri payload in chrome: http://jsfiddle.net/AUd7F/1/show\u00a0 #bored #fiddling #javascript",
+            "username": "avlidienbrunn",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "423094306451124224": {
+            "id": "423094306451124224",
+            "text": "with(x=valueOf)x() works as well #chrome #window #leak",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "423016335476412416": {
+            "id": "423016335476412416",
+            "text": ".@0x6D6172696F seems with() isn't needed anymore for window leak in chrome: (x=[].pop)()",
+            "username": "avlidienbrunn",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "415929614666448896": {
+            "id": "415929614666448896",
+            "text": "<link rel=import onerror=alert(1)> #html #import #onerror #no #href",
+            "username": "avlidienbrunn",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "415225628561244160": {
+            "id": "415225628561244160",
+            "text": "Got past half of @0x6D6172696F xmas challenge, now I \"just\" have to break SOP... #scratcheshead",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "411559613658460160": {
+            "id": "411559613658460160",
+            "text": "Thanks for the stuff @FogCreek !pic.twitter.com/YuqmKDiwBu",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "410051380884152320": {
+            "id": "410051380884152320",
+            "text": "Extracting data with iframe, view-source and drag/drop in @firefox : https://pastie.se/ae9f7725\u00a0. Thoughts? (@freddyb known?)",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "408267700276703232": {
+            "id": "408267700276703232",
+            "text": "Need to hide your payload in the address bar? This works in FF and IE: http://jsfiddle.net/JDU3w/5/\u00a0 #FF #IE #addressbar #spoofing #lamebutuseful",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "407819457348644864": {
+            "id": "407819457348644864",
+            "text": ". @smiegles You can exploit it in Opera with onformchange. Proof of concept: http://jsfiddle.net/qxFag/\u00a0 #hidden #input #xss",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "406420236032696320": {
+            "id": "406420236032696320",
+            "text": "<isindex prompt autofocus onfocus=alert(1)>",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "402901667567243264": {
+            "id": "402901667567243264",
+            "text": "Tip of the day: about:about",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "402818598600585216": {
+            "id": "402818598600585216",
+            "text": "Anyone know of a code search that allows me to search for exact matches?",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "399970061227917312": {
+            "id": "399970061227917312",
+            "text": "Routers are vuln to XSS. In other news, water is wet. #noshit",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "396949722566373376": {
+            "id": "396949722566373376",
+            "text": "Is there a usage for the \"is\" attribute other than custom elements? #Chrome cant document.register but createElement(name, type) works #DOM",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "392964457304817664": {
+            "id": "392964457304817664",
+            "text": "Made a bookmarklet because Chrome doesn't have \"copy request as HTML\": https://pastie.se/737efd80\u00a0  (Source https://pastie.se/64bcbfe1\u00a0)#pentest #js",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "390071590291271681": {
+            "id": "390071590291271681",
+            "text": "Any other Swedes at #dldtelaviv ? Let's fika!",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "389052123109163008": {
+            "id": "389052123109163008",
+            "text": "On my way to Israel! Life sure takes some interesting turns sometimes. #starttelaviv #justdoit",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "386951764190060544": {
+            "id": "386951764190060544",
+            "text": "I got to Level 110 and completed \"You Can't Do Binary Under Pressure\"! http://toys.usvsth3m.com/binary/\u00a0 #binary #game",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "386922092974718976": {
+            "id": "386922092974718976",
+            "text": "<svg id=a /><script language=vbs for=a event=onload>alert 1</script> #TIL #namedscript #IE",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "386432386470141952": {
+            "id": "386432386470141952",
+            "text": "RT @0x6D6172696F Amazing injection challenge! http://escape.alf.nu/\u00a0  - although question 13 is too easy compared to the others <-- Agreed!",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "384680185800323073": {
+            "id": "384680185800323073",
+            "text": "Need a HTML timer but tired of setTimeout? No problem, use this: http://jsfiddle.net/B62xt/\u00a0 #marquee #tag #still #lives #pleasedontremoveit",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "383610266325229569": {
+            "id": "383610266325229569",
+            "text": "Having lots of fun with the web part of Microsoft #Bluehat Challenge http://www.microsoft.com/security/msrc/collaboration/bluehatchallenge.aspx\u00a0\u2026 #webchallenge #original",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "381099165213683712": {
+            "id": "381099165213683712",
+            "text": "Hehehepic.twitter.com/jvBBDcnhzP",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "381020433929101312": {
+            "id": "381020433929101312",
+            "text": "Hellopic.twitter.com/zKjkqTVj1f",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "380629405116018688": {
+            "id": "380629405116018688",
+            "text": "#istouchidhackedyet I'll pitch in $50 too, courtesy of my last Google bounty :)",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "380411829610348544": {
+            "id": "380411829610348544",
+            "text": "Pitch done at #sthlmtech. Getting great feedback!",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "378456978638393344": {
+            "id": "378456978638393344",
+            "text": "Dear @gmail, this is NOT \"fullscreen\". #lessisntmorepic.twitter.com/Tu556RCE04",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "378435720546762752": {
+            "id": "378435720546762752",
+            "text": "I think programmers day deserves a doodle. I guess the old https://www.google.com/?hl=xx-hacker\u00a0 has to do... #doodle #ProgrammersDay",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "377353557025894400": {
+            "id": "377353557025894400",
+            "text": "_\u2588\u2588_",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "376787128744570880": {
+            "id": "376787128744570880",
+            "text": "So Chrome's XSS auditor can handle HPP but Safari's can't. Interesting. ?variable=\"/onclick=alert(1)&variable=a> #XSS #parameter #pollution",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "376771995070771200": {
+            "id": "376771995070771200",
+            "text": "This incident will be reported.",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "372641447188512768": {
+            "id": "372641447188512768",
+            "text": "Idea: serve evil PDF through data:application/pdf;base64,",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "372266117290393600": {
+            "id": "372266117290393600",
+            "text": "RT @0x6D6172696F : Here's the place where you can find the #appseceu & HackPra Allstars video recordings http://bit.ly/15se1tw\u00a0 @seecurity",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "371734167811129344": {
+            "id": "371734167811129344",
+            "text": "So. Is CSS XSS dead? Other than older IE and moz-binding ?",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "370474938307584003": {
+            "id": "370474938307584003",
+            "text": "Anyone know how to participate in the CTF @AppSecEU #appseceu ? thanks",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "369749872582225921": {
+            "id": "369749872582225921",
+            "text": "Blank name test",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "369478481370820609": {
+            "id": "369478481370820609",
+            "text": "Why does chrome strip the character %C2%AD? https://google%C2%AD.%C2%ADcom Any idea @insertScript @0x6D6172696F @garethheyes ? #URImutation",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "368312663794671616": {
+            "id": "368312663794671616",
+            "text": "God damn it shazzer. That's not what I wanted! cc @garethheyespic.twitter.com/uf6w4WoLVU",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "367210175456743425": {
+            "id": "367210175456743425",
+            "text": "Any recommendations on where to stay at @AppSecEU ? @antisnatchor @0x6D6172696F @garethheyes #hackpra #allstars #appseceu #lateout #beer",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "364805369664516096": {
+            "id": "364805369664516096",
+            "text": "Huh, turns out silverlight listens to crossdomain.xml. So what the hell is clientaccesspolicy.xml for? #silverlight #crossdomain #wondering",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "364303854340280320": {
+            "id": "364303854340280320",
+            "text": "Anyone had any luck reporting security issues to @reddit ? Mailed security@reddit.com a week ago, no reply. (cc @r_netsec ?)",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "364078806962671616": {
+            "id": "364078806962671616",
+            "text": "Just found a very interesting bug in flash... Blog post coming soon(ish) :) #flash #security #wtf",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "363210815706382337": {
+            "id": "363210815706382337",
+            "text": "Found in phpMyAdmins source: // I hate php sometimes\n#agreed #notonlysometimes",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "359012668641779713": {
+            "id": "359012668641779713",
+            "text": "My girlfriend just bought a @SamsungTV Smart TV... Hello https://samsungtvbounty.com\u00a0 :)",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "351056279566954497": {
+            "id": "351056279566954497",
+            "text": "This years HackPra Allstars lineup looks awesome: http://tinyurl.com/hackpra\u00a0 Early Bird discount is only good for another day! #hopingicanmakeit",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "349531065444077568": {
+            "id": "349531065444077568",
+            "text": "Facebook help... On http://instagram.com\u00a0 ?: http://help.instagram.com/%22\u00a0 #facebook #instagram #wtf",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "347320238603382785": {
+            "id": "347320238603382785",
+            "text": "Insikt: Coke cherry och mint tuggumi smakar trocadero!",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "345614310338334721": {
+            "id": "345614310338334721",
+            "text": "Thanks a lot @SoundCloud! #bugbounty #swagpic.twitter.com/0GSsK2cXyQ",
+            "username": "avlidienbrunn",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "345201097125814272": {
+            "id": "345201097125814272",
+            "text": "My first ever investment pitch: check!",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "342269557811064832": {
+            "id": "342269557811064832",
+            "text": "\"Sista g\u00e5ngen gillt\" - @norrskal #famouslastwords",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "337601073315450881": {
+            "id": "337601073315450881",
+            "text": "Interesting chrome bug I just found, executing javascript URI's in URL bar: http://downloads.ackack.net/chrome_trick.htm\u00a0\u2026 cc @garethheyes (known?)",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "330433654440476676": {
+            "id": "330433654440476676",
+            "text": "URL Encoded JS payload, is it possible to abuse? http://jsfiddle.net/y6sSL/#fridaythoughts\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "326644018652004352": {
+            "id": "326644018652004352",
+            "text": "Preparing my tools for @kingsofcode Hackbattle tomorrow @TNWconference together with @fransrosen, @almroot and @richardherries ! w00t",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "323752332296871937": {
+            "id": "323752332296871937",
+            "text": "http://msdn.microsoft.com/en-us/library/ff974676(v=vs.85).aspx\u00a0\u2026 \"4 out of 8 rated this helpful\"",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "314005512821821440": {
+            "id": "314005512821821440",
+            "text": "Was also just listed on Adobe for a pretty funny XSS in their search bar: http://i.imgur.com/CFZ52l3.png\u00a0 https://pastie.se/7f9dc7a2\u00a0  cc @NightRang3r",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "313999068990930944": {
+            "id": "313999068990930944",
+            "text": "Turns out word boundaries in MySQL Regexp is written [[:<:]] and [[:>:]] . Fuckin' POSIX, man. #POSIX #regex #mysql",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "311560049044643840": {
+            "id": "311560049044643840",
+            "text": "I believe I can tweet #wooo cc @AnnelieNaes",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "308615234048884736": {
+            "id": "308615234048884736",
+            "text": "Anyone got a swf that calls javascript and creates an alert() ? I can't find one with google and cant be arsed to download flash #flash #xss",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "296018074342133760": {
+            "id": "296018074342133760",
+            "text": "http://seclists.org/oss-sec/2013/q1/190\u00a0\u2026 And here we go again. #rubyonrails",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "287990908241207296": {
+            "id": "287990908241207296",
+            "text": "Had an idea about doubleclick-jacking, first click opens a new tab making the user click inside the new one. Loading times ruined it :(",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "284242428112809984": {
+            "id": "284242428112809984",
+            "text": "What's up #29c3 ?",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "283196202919542784": {
+            "id": "283196202919542784",
+            "text": "Thinking about reporting the use of Comic Sans as a vuln for the latest @bugcrowd site...",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "271115883726913536": {
+            "id": "271115883726913536",
+            "text": "I made an alert pyramid! http://jsfiddle.net/B5cS5/\u00a0 #Ishouldreallygotobed",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "270492761998893057": {
+            "id": "270492761998893057",
+            "text": "Just submitted my first twitter vuln. Let's hope it qualifies ! #twitter #whitehats",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "270252797763665920": {
+            "id": "270252797763665920",
+            "text": "test",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "266563725895557120": {
+            "id": "266563725895557120",
+            "text": "http://jsfiddle.net/AA7Kd/\u00a0 Anyone know how to ignore the lastMatch (and others) shorthand in js regexp? With 1 call to replace that is.",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "262533421056806912": {
+            "id": "262533421056806912",
+            "text": "Turns out almost every page in my router has stored XSS, thought this was old shit? Hooray for js input validation! #netgear #CG3100",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "256120283965038592": {
+            "id": "256120283965038592",
+            "text": "\"Password is too easy to guess\", well how about letting me have more than 20 characters? #FUCKYOU @skype",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "255306790898630658": {
+            "id": "255306790898630658",
+            "text": "So it turns out @Ghostery sends ghostrank data (every host visited + user agent) over HTTP. #SIGH",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "245478771724005376": {
+            "id": "245478771724005376",
+            "text": "How to print something using SSI:\n<!--#config ERRMSG=\"Hello world!\"-->\n<!--#echo var=\"lolol\"-->",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "240434103932047362": {
+            "id": "240434103932047362",
+            "text": "doskey history=doskey /HISTORY",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "236472404434632704": {
+            "id": "236472404434632704",
+            "text": "1. Open Chrome 2. Open a new tab 3. Enter some URL 4. Hit CTRL+U quickly. I wonder why this makes the view-source crash",
+            "username": "avlidienbrunn",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "223011908721188864": {
+            "id": "223011908721188864",
+            "text": "It is a fine art to balance eating with coding",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "213575193644367872": {
+            "id": "213575193644367872",
+            "text": "I wonder why I can't pipe to an alias (macro) created with doskey. What's up with that @windows ? #ffs",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "210398099091365888": {
+            "id": "210398099091365888",
+            "text": "RT @youngskilled Heeee's a winner! http://instagr.am/p/LibtNGK0zo/\u00a0 < Proud winner of company mariokart tournament!",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "208215985931563009": {
+            "id": "208215985931563009",
+            "text": "IRC is like a sauna. The person who sits there the longest is the coolest.",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "191849286244372480": {
+            "id": "191849286244372480",
+            "text": "http://www.barracudalabs.com/goodsitesbad/\u00a0 Interesting infographic on malware in high (alexa) ranked sites",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "174803310920990720": {
+            "id": "174803310920990720",
+            "text": "XSS on http://mozilla.org\u00a0 ? Here's one on http://webkit.org\u00a0 aswell: http://bit.ly/xAe1zW\u00a0 @webkit @hasegawayosuke",
+            "username": "avlidienbrunn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "171931913857138690": {
+            "id": "171931913857138690",
+            "text": "Threading.Thread.Sleep(&HEA60) : GoTo Gone ' Last one #nerdflix",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "171580033134104576": {
+            "id": "171580033134104576",
+            "text": "http://www.devsigh.com/sigh/3\u00a0 <True that",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "166835745540157440": {
+            "id": "166835745540157440",
+            "text": "PostgreSQL String Filter Evasion & UDF. Interesting read: http://kyleosborn.org/2012/02/02/rl-postgresql-string-filter-evasion-udf/\u00a0\u2026",
+            "username": "avlidienbrunn",
+            "num_likes": 9,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "166558739548225536": {
+            "id": "166558739548225536",
+            "text": "@defendtheworld But I can't search with regex using that :(",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "166180856883445762": {
+            "id": "166180856883445762",
+            "text": "Twitter mobile needs a 'scroll to the top' feature.",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "165017738157367296": {
+            "id": "165017738157367296",
+            "text": "@SecurityPhresh @SecurityXploded Here's an XSS http://bit.ly/xtNeCc\u00a0 #XSS",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "157768286828888064": {
+            "id": "157768286828888064",
+            "text": "@garethheyes I like the idea of Shazzer, however a \"delete vector\" would be nice to have.",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "156391870476460032": {
+            "id": "156391870476460032",
+            "text": "Google Chrome Address Bar Spoofing http://blog.acrossecurity.com/2012/01/google-chrome-https-address-bar.html\u00a0\u2026 - Interesting stuff indeed",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "148733121133682689": {
+            "id": "148733121133682689",
+            "text": "Well, I guess it was time to make a personal twitter. I see it as an add-on to my RSS feeds",
+            "username": "avlidienbrunn",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "skjortan": 1,
+        "infosec_au": 3,
+        "ZetaTwo": 5,
+        "OwariDa": 4,
+        "HackingForSoju": 2,
+        "filedescriptor": 10,
+        "torproject": 1,
+        "emeliewidegren": 1,
+        "AmarSaar": 1,
+        "JoakimTauren": 1,
+        "fransrosen": 22,
+        "kkotowicz": 3,
+        "jinmo123": 1,
+        "d0nutptr": 1,
+        "nnwakelam": 1,
+        "securinti": 1,
+        "hasegawayosuke": 1,
+        "Jhaddix": 1,
+        "Hacker0x01": 3,
+        "yaworsk": 1,
+        "SEC_T_org": 2,
+        "kinugawamasato": 11,
+        "zseano": 1,
+        "theRaz0r": 1,
+        "Mahmoud0x00": 1,
+        "BugBountyHQ": 1,
+        "peterjaric": 5,
+        "bugbountyforum": 1,
+        "BenHayak": 1,
+        "taviso": 2,
+        "securityfest": 1,
+        "NahamSec": 1,
+        "tiraniddo": 1,
+        "detectify": 14,
+        "jobertabma": 1,
+        "cure53berlin": 3,
+        "JohanRMoller": 1,
+        "insertScript": 6,
+        "garethheyes": 10,
+        "IAmMandatory": 1,
+        "0daylabs": 1,
+        "osxreverser": 1,
+        "caseyjohnellis": 1,
+        "evonide": 1,
+        "i0n1c": 2,
+        "trailofbits": 1,
+        "fin1te": 6,
+        "liamosaur": 1,
+        "KyleHanslovan": 1,
+        "Scott_Helme": 1,
+        "disclosedh1": 1,
+        "ryHanson": 1,
+        "daniel_bilar": 1,
+        "TheColonial": 1,
+        "bcrypt": 1,
+        "Bugcrowd": 3,
+        "_tessr": 1,
+        "skeptic_fx": 3,
+        "KimZetter": 1,
+        "vendorexcuses": 1,
+        "LinusLarsson": 1,
+        "cgvwzq": 1,
+        "Veracode": 1,
+        "scarybeasts": 1,
+        "BEWNIAC": 1,
+        "shafigullin": 1,
+        "Agarri_FR": 2,
+        "trebbelito": 1,
+        "smiegles": 2,
+        "matalaz": 1,
+        "stevelord": 1,
+        "d_lec": 1,
+        "ahack_ru": 1,
+        "AppSecEU": 1,
+        "mastahyeti": 1,
+        "zoczus": 1,
+        "AaronCMark": 1,
+        "WisecWisec": 1,
+        "psifertex": 1,
+        "molnar_g": 1,
+        "Almroot": 4,
+        "JesperBylund": 1,
+        "sakpodcasten": 1,
+        "SwiftOnSecurity": 1,
+        "GonzoHacker": 1,
+        "plastfolie": 1,
+        "natashenka": 1,
+        "norrskal": 1,
+        "mikispag": 1,
+        "lunivore": 1,
+        "travisgoodspeed": 1,
+        "mniemietz": 2,
+        "jesse_ops": 1,
+        "n0x00": 1,
+        "dakami": 2,
+        "thegrugq": 2,
+        "siavash": 1,
+        "gynvael": 1,
+        "infosecjerk": 1,
+        "nicholemonias": 1,
+        "soaj1664ashar": 1,
+        "whitehatsec": 1,
+        "halvarflake": 1,
+        "kangax": 1,
+        "LightOS": 1,
+        "DogeChain": 1,
+        "iamdevloper": 1,
+        "antisnatchor": 1,
+        "Joygunz": 1,
+        "_wirepair": 1,
+        "ZoggTheAlien": 1,
+        "deobfuscated": 1,
+        "theKos": 3,
+        "internot_": 3,
+        "internetwache": 1,
+        "henrikkniberg": 1,
+        "grenfeldt": 1,
+        "jvanegue": 1,
+        "irqed": 1,
+        "qnrq": 1,
+        "stingsthlm": 1,
+        "GeorgeOrwell198": 1,
+        "HAL9000_": 1,
+        "rich0H": 1,
+        "Charlie_N_B": 1,
+        "chhantyal": 1,
+        "mathias": 1,
+        "Nirgoldshlager": 3,
+        "zanelackey": 1,
+        "abolibibelot": 1,
+        "HaifeiLi": 1,
+        "climagic": 1,
+        "SwearengenCD": 1,
+        "AnnelieNaes": 1,
+        "HackAck": 1,
+        "Prinzhorn": 1,
+        "irsdl": 1,
+        "ptz0n": 1,
+        "malerisch": 1,
+        "brainsmoke": 1,
+        "mikko": 1,
+        "newsycombinator": 1,
+        "jeremiahg": 1,
+        "xanda": 1
+    },
+    "users_retweeted": [
+        "fransrosen",
+        "detectify",
+        "kinugawamasato",
+        "filedescriptor",
+        "garethheyes",
+        "insertScript",
+        "fin1te",
+        "ZetaTwo",
+        "peterjaric",
+        "OwariDa",
+        "Almroot",
+        "infosec_au",
+        "kkotowicz",
+        "Hacker0x01",
+        "cure53berlin",
+        "Bugcrowd",
+        "skeptic_fx",
+        "theKos",
+        "internot_",
+        "Nirgoldshlager",
+        "HackingForSoju",
+        "SEC_T_org",
+        "taviso",
+        "i0n1c",
+        "Agarri_FR",
+        "smiegles",
+        "mniemietz",
+        "dakami",
+        "thegrugq",
+        "skjortan",
+        "torproject",
+        "emeliewidegren",
+        "AmarSaar",
+        "JoakimTauren",
+        "jinmo123",
+        "d0nutptr",
+        "nnwakelam",
+        "securinti",
+        "hasegawayosuke",
+        "Jhaddix",
+        "yaworsk",
+        "zseano",
+        "theRaz0r",
+        "Mahmoud0x00",
+        "BugBountyHQ",
+        "bugbountyforum",
+        "BenHayak",
+        "securityfest",
+        "NahamSec",
+        "tiraniddo",
+        "jobertabma",
+        "JohanRMoller",
+        "IAmMandatory",
+        "0daylabs",
+        "osxreverser",
+        "caseyjohnellis",
+        "evonide",
+        "trailofbits",
+        "liamosaur",
+        "KyleHanslovan",
+        "Scott_Helme",
+        "disclosedh1",
+        "ryHanson",
+        "daniel_bilar",
+        "TheColonial",
+        "bcrypt",
+        "_tessr",
+        "KimZetter",
+        "vendorexcuses",
+        "LinusLarsson",
+        "cgvwzq",
+        "Veracode",
+        "scarybeasts",
+        "BEWNIAC",
+        "shafigullin",
+        "trebbelito",
+        "matalaz",
+        "stevelord",
+        "d_lec",
+        "ahack_ru",
+        "AppSecEU",
+        "mastahyeti",
+        "zoczus",
+        "AaronCMark",
+        "WisecWisec",
+        "psifertex",
+        "molnar_g",
+        "JesperBylund",
+        "sakpodcasten",
+        "SwiftOnSecurity",
+        "GonzoHacker",
+        "plastfolie",
+        "natashenka",
+        "norrskal",
+        "mikispag",
+        "lunivore",
+        "travisgoodspeed",
+        "jesse_ops",
+        "n0x00",
+        "siavash",
+        "gynvael",
+        "infosecjerk",
+        "nicholemonias",
+        "soaj1664ashar",
+        "whitehatsec",
+        "halvarflake",
+        "kangax",
+        "LightOS",
+        "DogeChain",
+        "iamdevloper",
+        "antisnatchor",
+        "Joygunz",
+        "_wirepair",
+        "ZoggTheAlien",
+        "deobfuscated",
+        "internetwache",
+        "henrikkniberg",
+        "grenfeldt",
+        "jvanegue",
+        "irqed",
+        "qnrq",
+        "stingsthlm",
+        "GeorgeOrwell198",
+        "HAL9000_",
+        "rich0H",
+        "Charlie_N_B",
+        "chhantyal",
+        "mathias",
+        "zanelackey",
+        "abolibibelot",
+        "HaifeiLi",
+        "climagic",
+        "SwearengenCD",
+        "AnnelieNaes",
+        "HackAck",
+        "Prinzhorn",
+        "irsdl",
+        "ptz0n",
+        "malerisch",
+        "brainsmoke",
+        "mikko",
+        "newsycombinator",
+        "jeremiahg",
+        "xanda"
+    ]
+}

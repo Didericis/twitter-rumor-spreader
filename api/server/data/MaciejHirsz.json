@@ -1,0 +1,1766 @@
+{
+    "is_complete": true,
+    "username": "MaciejHirsz",
+    "retweeted": {
+        "1125352553900838912": {
+            "id": "1125352553900838912",
+            "text": "Ink is an eDSL to write #WebAssembly-based smart contracts using @rustlang.\nThis guide walks you through installing #Substrate and Ink and writing a bare-bones NFT contract.https://medium.com/block-journal/introducing-substrate-smart-contracts-with-ink-d486289e2b59\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 48,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1121441218959958017": {
+            "id": "1121441218959958017",
+            "text": "\u201cIt\u2019s not enough to take something that exists and do it better. We want to create new paradigms. And we want @polkadotnetwork to be a new paradigm, so that other projects can think of new ways to imagine themselves and develop further.\u201d \u2014 @gavofyork at #sub0pic.twitter.com/VvqhKFObP2",
+            "username": "ParityTech",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1117785745769422849": {
+            "id": "1117785745769422849",
+            "text": "Important meetup with @VitalikButerin and @gavofyork. I was curious how things would go and found them mutually respectful while discussing both @ethereum and @polkadotnetwork's differences and shared values. In a very centralized world, \"we're all still underdogs\" says Vitalik.pic.twitter.com/cpth29bf1F",
+            "username": "johnson8_p",
+            "num_likes": 67,
+            "num_retweets": 11,
+            "num_replies": 6
+        },
+        "1117694897291767809": {
+            "id": "1117694897291767809",
+            "text": "Something that's been in the back of my head for a long time. I wish we built blockchain clients differently, with more focus on users. #lesstwittermorelongformhttps://medium.com/@folsen/the-future-is-a-myriad-of-blockchain-clients-d05e1d7ac181\u00a0\u2026",
+            "username": "fredhrson",
+            "num_likes": 191,
+            "num_retweets": 64,
+            "num_replies": 9
+        },
+        "1116240640516354048": {
+            "id": "1116240640516354048",
+            "text": "Some of ya'll just recently discovered the negative feedback loop where your online popularity rises in correlation to how much of an asshole you can be. \n\nWe are trading ephemeral social media likes for our integrity, dignity, and collective humanity.",
+            "username": "AsherT",
+            "num_likes": 220,
+            "num_retweets": 37,
+            "num_replies": 14
+        },
+        "1116053883510374400": {
+            "id": "1116053883510374400",
+            "text": "I'll be in Berlin, April 20-27. Any recommendations for good meetups/projects to meet? I'm bringing @ngrave_official to talk about crypto security, hardware wallets. @RubenMerre",
+            "username": "n3xco",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1115980674698289152": {
+            "id": "1115980674698289152",
+            "text": "as a community, we should treat each other with the upmost respect, even if we disagree with their position/opinion. \n\navoid what divides us, focus on what makes us better. \n\nwe are building a new global, non-custodial and permissionless financial system, we are in it together.",
+            "username": "paddykcl",
+            "num_likes": 97,
+            "num_retweets": 31,
+            "num_replies": 5
+        },
+        "1115547833552314368": {
+            "id": "1115547833552314368",
+            "text": "We are happy to announce a very special guest and speaker for our \"Rust and Tell\" April event \n@linclark is going to talk about WASI, the system interface to run WebAssembly outside of the web!https://www.meetup.com/Rust-Berlin/events/szgnqqyzgbfc/\u00a0\u2026",
+            "username": "RustBerlin",
+            "num_likes": 92,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "1113482748784709632": {
+            "id": "1113482748784709632",
+            "text": "The first #Substrate developer community conference, Sub0, is happening on April 24-25 in Berlin. If you'd like to attend and are either building with Substrate or are interested in doing so, please apply here:https://docs.google.com/forms/d/1k97NJLdBCLjfhlxSvntibBYT15DsLSz42c9exgIzGLE\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 45,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1112450511658201089": {
+            "id": "1112450511658201089",
+            "text": "blockchain has turned me into a mysql maximalist.",
+            "username": "DeanEigenmann",
+            "num_likes": 42,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1110727707048828928": {
+            "id": "1110727707048828928",
+            "text": "Before I started working on OSS, I\u2019d say annoying entitled things like \u201cit\u2019s so stupid that piece of software X doesn\u2019t do Y, what were they thinking?\u201d\n\nNow I think to myself \u201cit\u2019s sad that software X isn\u2019t funded well enough to implement Y\u201d.",
+            "username": "pcwalton",
+            "num_likes": 356,
+            "num_retweets": 74,
+            "num_replies": 9
+        },
+        "1110614844464603136": {
+            "id": "1110614844464603136",
+            "text": "Next up: @MaciejHirsz talks about Ramhorns #RustAndTellpic.twitter.com/zreuUZQTsd",
+            "username": "byteadventures",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108556298763681792": {
+            "id": "1108556298763681792",
+            "text": "FYI, I've implemented zk-SNARKs on Substrate and you can send confidential payment today.https://github.com/LayerXcom/zero-chain\u00a0\u2026",
+            "username": "zoom_zoomzo",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1107955651613995009": {
+            "id": "1107955651613995009",
+            "text": "We signed an open letter urging Members of the European Parliament to vote against #Article11 and #Article13.https://nextcloud.com/press/pr20190319/\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 51,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1106486981096292352": {
+            "id": "1106486981096292352",
+            "text": "I literally can't get on the tram because every tram that arrives is choke full of schoolchildren en route to protest climate change. It's a slight inconvenience. It makes me think about how many inconveniences they will endure due to the actions (and inactions) of my generation.",
+            "username": "a13xndra",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1106225643610615808": {
+            "id": "1106225643610615808",
+            "text": "First time hacking on @MaciejHirsz Ramhorns (https://bit.ly/2FdfHQh\u00a0), using tide (https://bit.ly/2UBSMTS\u00a0). It will definitely make into \"5/x: Generate and serve HTML Templates\"pic.twitter.com/opX72xpKNu",
+            "username": "byteadventures",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1105909839350374400": {
+            "id": "1105909839350374400",
+            "text": "#kaizenpic.twitter.com/8RBurxyySr",
+            "username": "mi_ayako",
+            "num_likes": 278,
+            "num_retweets": 63,
+            "num_replies": 11
+        },
+        "1103691351756062720": {
+            "id": "1103691351756062720",
+            "text": "Off-Chain Worker Threads, which will soon by trivial to add to your Substrate/Polkadot SRML modules https://github.com/paritytech/substrate/pull/1942\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 61,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "1103998343242366981": {
+            "id": "1103998343242366981",
+            "text": "@polkawallet Releases 0.1.0 Beta Version !  @polkadotnetwork\n@web3foundationhttps://medium.com/@polkawallet/polkawallet-releases-0-1-0-beta-version-5e68ffc3f4c4\u00a0\u2026",
+            "username": "polkawallet",
+            "num_likes": 40,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1103970573066092545": {
+            "id": "1103970573066092545",
+            "text": "There is no one person or project that will kill Ethereum. Ethereum will die if the community decides to focus more on hostile, toxic gossip instead of focusing on being collaborative, open source & welcoming.\n\nWhat attracted you to Ethereum? Be that attraction. Keep it going.",
+            "username": "tayvano_",
+            "num_likes": 516,
+            "num_retweets": 86,
+            "num_replies": 51
+        },
+        "1103207742515396609": {
+            "id": "1103207742515396609",
+            "text": "Today at 10:00, \u201cBuilding on Substrate\u201d workshop at #EthCC with @shawntabrizi and @pepyakin. Grab the latest version of Substrate here:https://parity.io/Substrate\u00a0",
+            "username": "ParityTech",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1102970663541841926": {
+            "id": "1102970663541841926",
+            "text": "Demo time! @shawntabrizi does a live runtime upgrade for his Substrate Kitties chain. No hard fork required #EthCCpic.twitter.com/tkV4sT1R05",
+            "username": "ParityTech",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1087787913478164480": {
+            "id": "1087787913478164480",
+            "text": "Looking for advanced-beginner style #rustlang project ideas? I made a list.https://github.com/dtolnay/request-for-implementation\u00a0\u2026",
+            "username": "davidtolnay",
+            "num_likes": 106,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "1102564813912395778": {
+            "id": "1102564813912395778",
+            "text": "Breaking: @ManfredWeber and the @EPPGroup want the vote on #Article13 and the Copyright Directive moved ahead to next week to pre-empt the #SaveYourInternet/#StopACTA2 protests! We need a public outcry to stop this!pic.twitter.com/6XQSWNbgpa",
+            "username": "Senficon",
+            "num_likes": 10832,
+            "num_retweets": 4908,
+            "num_replies": 250
+        },
+        "1101803142092636160": {
+            "id": "1101803142092636160",
+            "text": "The first two speakers for our next Meetup are set. We have one more open spot for our \"Rust and Tell\" on March 26th. \n\nDrop @ryan_levick or @byteadventures a line if you have a topic you want to share at our next event!https://www.meetup.com/Rust-Berlin/events/szgnqqyzfbjc/\u00a0\u2026",
+            "username": "RustBerlin",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1101129811181821952": {
+            "id": "1101129811181821952",
+            "text": "Thanks again to @ParityTech for sponsoring the show! Check out their @rustlang jobs: https://www.parity.io/jobs/\u00a0https://twitter.com/newrustacean/status/1101127169374183424\u00a0\u2026",
+            "username": "newrustacean",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1097541329603694593": {
+            "id": "1097541329603694593",
+            "text": "Polkadot? Ethereum? Love them both? Inviting all minimalists to the Parity meetup at the end of the month at @fullnode_berlin to learn more about @autarklabs, @pando_network and @ParityTech's #substrate https://www.meetup.com/parity/events/259062505/\u00a0\u2026",
+            "username": "stellarmagnet",
+            "num_likes": 30,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1097446996410073088": {
+            "id": "1097446996410073088",
+            "text": "AMA about Ethereum Leadership and Accountabilityhttps://www.reddit.com/r/ethereum/comments/arw075/ama_about_ethereum_leadership_and_accountability/\u00a0\u2026",
+            "username": "hudsonjameson",
+            "num_likes": 79,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "1096950024926314496": {
+            "id": "1096950024926314496",
+            "text": "If Ethereum ever has a hall of fame, @5chdn will be in the first 10 people inducted. #ILoveThatMan",
+            "username": "thegrifft",
+            "num_likes": 67,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1097132799444819969": {
+            "id": "1097132799444819969",
+            "text": "A simple status page for the current Shasper short-lived testnet! #Ethereum #Serenity #Shasperhttps://that.world/~source/shasper/\u00a0\u2026",
+            "username": "sorpaas",
+            "num_likes": 19,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1096806212576968705": {
+            "id": "1096806212576968705",
+            "text": "There's some excitement about @polkadotnetwork vs @ethereum involving @5chdn, etc? People need to chill and lay off the conspiracy theories, etc. This comment from @MaciejHirsz best summarizes the eventual relationship between #Ethereum and #Polkadot:https://www.reddit.com/r/ethereum/comments/ar2xxh/on_the_economic_incentives_of_parity_for_ethereum/\u00a0\u2026",
+            "username": "MrYukonC",
+            "num_likes": 40,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "1096793885248901120": {
+            "id": "1096793885248901120",
+            "text": "Time to celebrate all things Polkadot! We are committed to delivering a  premium UX to the @polkadotnetwork and #web3 Our multi-chain browser  will service all these teams: @0xproject @AragonProject @hicommonwealth\n@AdEx_Network @chainlink @katallassos + more! #specklepic.twitter.com/caZWT4erEx",
+            "username": "speckleos",
+            "num_likes": 106,
+            "num_retweets": 40,
+            "num_replies": 6
+        },
+        "1096790085272522759": {
+            "id": "1096790085272522759",
+            "text": "Stop raising pitchforks at @5chdn. He does so much for the ecosystem and deserves the right to have an opinion. I don't agree with some of what he's said and think it is ill advised, but the community needs to take a breath, show compassion, and be pragmatic in their discourse.",
+            "username": "hudsonjameson",
+            "num_likes": 214,
+            "num_retweets": 27,
+            "num_replies": 12
+        },
+        "1095683673586831360": {
+            "id": "1095683673586831360",
+            "text": "Developers love playing. So we added a basic JS console with an attached API into https://polkadot.js.org/apps/\u00a0 - not perfect yet, but we didn't to wait to start getting feedback. Explore examples, edit to your linking.pic.twitter.com/DNHOOi4rZX",
+            "username": "PolkadotJs",
+            "num_likes": 33,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "903080360522596354": {
+            "id": "903080360522596354",
+            "text": "Programming is impossible. Rust simply enforces it at compile-time.",
+            "username": "gparker",
+            "num_likes": 745,
+            "num_retweets": 290,
+            "num_replies": 0
+        },
+        "1095344395744960512": {
+            "id": "1095344395744960512",
+            "text": "This is why we're exploring using @rustlang at Microsoft. Hopefully we'll have more to share in the coming months!https://twitter.com/campuscodi/status/1094986825041629184\u00a0\u2026",
+            "username": "ryan_levick",
+            "num_likes": 620,
+            "num_retweets": 171,
+            "num_replies": 12
+        },
+        "1095247366326812672": {
+            "id": "1095247366326812672",
+            "text": "Ethereum #Serenity Phase 0: This is a Parity Shasper Beacon Chain implementation built on #Substrate.pic.twitter.com/w8EMYFOsBe",
+            "username": "ParityTech",
+            "num_likes": 105,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1094419108781789184": {
+            "id": "1094419108781789184",
+            "text": "I'm still completely in the excited-newbie honeymoon phase, but writing Rust code feels very wholesome.",
+            "username": "ID_AA_Carmack",
+            "num_likes": 2984,
+            "num_retweets": 562,
+            "num_replies": 65
+        },
+        "1093933953218691072": {
+            "id": "1093933953218691072",
+            "text": "At @melonport's M-1, @gavofyork discussed upcoming #Substrate developments, including:\n- the new \"Babe\" block production protocol\n- HODL voting bonus\n- correlating multi-origin slashing\n- runtime parallelism\n- offchain compute\n- delegated voting\nand more.https://www.youtube.com/watch?v=Opj_5ORbyXA&feature=youtu.be&t=12076\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 32,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1092732348007878657": {
+            "id": "1092732348007878657",
+            "text": "I think \"informal governance\" is something only a dumb network like Bitcoin can tolerate.\n\nFor networks that need to make improvements and take decisions, \"informal governance\" equals stagnation.",
+            "username": "licuende",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1092427451806961664": {
+            "id": "1092427451806961664",
+            "text": ".@shawntabrizi demos a crypto collectables #DAppchain with forkless upgrades at #FOSDEM. He built the custom app-specific blockchain in just *2 days* by using #Substrate.https://fosdem.org/2019/schedule/event/substrate/\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1092032817263853568": {
+            "id": "1092032817263853568",
+            "text": "A really great dev intro to Polkadot is the Substrate Collectables Workshop by @shawntabrizi\nhttps://shawntabrizi.github.io/substrate-collectables-workshop/\u00a0\u2026 \u2026pic.twitter.com/lZkkTbn3fj",
+            "username": "miguelmotah",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1091754676477927425": {
+            "id": "1091754676477927425",
+            "text": "https://telemetry.polkadot.io/#/Alexander\u00a0 now shows finalised block number.pic.twitter.com/sIwg6KtMog",
+            "username": "ParityTech",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1086316500783251457": {
+            "id": "1086316500783251457",
+            "text": "Apparently in Berkeley there's food delivery robots with animated eyes. Here's @MaciejHirsz hearing about their plan to overthrow their human overlords.pic.twitter.com/3Bk68ZNeSr",
+            "username": "a13xndra",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1082327560296583168": {
+            "id": "1082327560296583168",
+            "text": "We're happy to announce that Parity Technologies has been awarded a $5M grant by the #Ethereum foundation.https://medium.com/paritytech/parity-technologies-awarded-5-million-grant-by-the-ethereum-foundation-46179fcdf8d7\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 273,
+            "num_retweets": 57,
+            "num_replies": 8
+        },
+        "1075446378715848704": {
+            "id": "1075446378715848704",
+            "text": "Happy to report that @polkadotnetwork is progressing at breakneck speed. Here's a recap of 2018.https://medium.com/@gavofyork/polkadot-2018-recap-677dab3e995b\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 166,
+            "num_retweets": 47,
+            "num_replies": 3
+        },
+        "1075037625042567168": {
+            "id": "1075037625042567168",
+            "text": "Substrate 1.0 Beta is out now, opening the door to a radical acceleration in blockchain and decentralised application development. https://medium.com/paritytech/substrate-has-arrived-f14f91536278\u00a0\u2026pic.twitter.com/eDU7jn9Ow4",
+            "username": "ParityTech",
+            "num_likes": 256,
+            "num_retweets": 106,
+            "num_replies": 9
+        },
+        "1070398636771684352": {
+            "id": "1070398636771684352",
+            "text": "Interested in building on Substrate or Polkadot? You may be eligible for a W3F granthttps://twitter.com/web3foundation/status/1070345915091861504\u00a0\u2026",
+            "username": "web3jp",
+            "num_likes": 39,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1066974927423774720": {
+            "id": "1066974927423774720",
+            "text": "More on what it's like engineering at Parity:https://medium.com/paritytech/engineering-at-parity-what-its-like-c0e5c8a17870\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1066669945071828992": {
+            "id": "1066669945071828992",
+            "text": "\"I hope Substrate creates a new class of teams & apps where you can do just enough to create a domain-specific chain for a particular job, that before was impossible because smart contracts are too bloaty & writing a new chain is too much work.\"\u2014@gavofyorkhttps://www.youtube.com/watch?v=0IoUZdDi5Is\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 24,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1066335406378180615": {
+            "id": "1066335406378180615",
+            "text": "\"We don\u2019t do scrum, agile, standups, or meetings. We use @github, and @RiotChat for communication because privacy matters (no Slack), and we adhere to \"programmer anarchy,\" where people take the tasks they want to work on.\u201d\u2014@MaciejHirsz discusses @paritytech culture at @rustfestpic.twitter.com/RfYJbuBUrB",
+            "username": "ParityTech",
+            "num_likes": 257,
+            "num_retweets": 69,
+            "num_replies": 11
+        },
+        "1065171581582872576": {
+            "id": "1065171581582872576",
+            "text": "I\u2019m looking for security auditors that know Rust. If anyone knows anyone, please forward em to me!",
+            "username": "fredhrson",
+            "num_likes": 7,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1064769026239447040": {
+            "id": "1064769026239447040",
+            "text": "Wasm on the Blockchain: The Lesser Evil https://medium.com/polkadot-network/wasm-on-the-blockchain-the-lesser-evil-da8d7c6ef6bd\u00a0\u2026 - a fascinating and detailed look at why WebAssembly is being used for Polkadot, the 'blockchain of blockchains'",
+            "username": "WasmWeekly",
+            "num_likes": 35,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1063441590616772610": {
+            "id": "1063441590616772610",
+            "text": "Want to parse some JSON? How about a Lisp? Or maybe Yet Another Another Markup Language?\n@MaciejHirsz will teach you about writing parsers and cutting corners.https://rome.rustfest.eu/sessions/writing-parsers-and-cutting-corners\u00a0\u2026",
+            "username": "RustFest",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1060804114739691521": {
+            "id": "1060804114739691521",
+            "text": "This @SiliconHBO Gavin Belson gif reminds the crypto maximalism narrative and some of the CT troll culture \n\nLet\u2019s instead work together and find ways to support each other as a community, otherwise the centralizers will hijack web3 just as they did for web2\n\npic.twitter.com/sml8atuSYd",
+            "username": "danieltbar",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1060195129653370881": {
+            "id": "1060195129653370881",
+            "text": ".@zooko chats with @zeroknowledgefm on giving end users more bargaining power with the new @paritytech and @ZcashFoundation #Zcash clienthttps://www.zeroknowledge.fm/50\u00a0",
+            "username": "ParityTech",
+            "num_likes": 46,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1059858062133972992": {
+            "id": "1059858062133972992",
+            "text": "actually u can earn more money from real mining than bitcoin mining",
+            "username": "juvenalisch",
+            "num_likes": 61,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1059472294567915521": {
+            "id": "1059472294567915521",
+            "text": "We just added two new positions to our jobs page: Event Coordinator and Technical Content Creator. See all jobs at https://www.parity.io/jobs/\u00a0.",
+            "username": "ParityTech",
+            "num_likes": 18,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1058313169595256833": {
+            "id": "1058313169595256833",
+            "text": "Hmmm. There is stuff like this you can do with a bunch of money: https://www.nytimes.com/2018/11/01/technology/nevada-bitcoin-blockchain-society.html\u00a0\u2026 and then there is stuff like this: https://www.nytimes.com/2018/10/31/opinion/earth-biodiversity-conservation-billion-dollars.html\u00a0\u2026\nI just hope living on this planet earth will remain one hell of a ride.",
+            "username": "jutta_steiner",
+            "num_likes": 41,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "1057562622927736832": {
+            "id": "1057562622927736832",
+            "text": "We are using the @ParityTech Secret Store to enhance the Ocean architecture because it reduces #Blockchain utilization and costs, but provides the same level of #security. Watch @sgerske dive deeper. #ANewDataEconomy #Parity #SecretStoreshttps://youtu.be/6YRmyUZr2No\u00a0",
+            "username": "oceanprotocol",
+            "num_likes": 39,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1057634617950318595": {
+            "id": "1057634617950318595",
+            "text": "Epicenter with Gavin Wood: Substrate, Polkadot and the Case for On-Chain Governance. @epicenterbtchttps://youtu.be/eP4mT19S_jg\u00a0",
+            "username": "polkadotnetwork",
+            "num_likes": 40,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1057356204119330816": {
+            "id": "1057356204119330816",
+            "text": "We are currently at the @polkadotnetwork / @ParityTech meetup. Great talk by @FabianGompf about Substrate and the case for #Polkadotpic.twitter.com/sZgPB6v7mP",
+            "username": "StakingFac",
+            "num_likes": 20,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1057242414220500992": {
+            "id": "1057242414220500992",
+            "text": "Parity is teaming up with @ZcashFoundation and will build a new Zcash clienthttps://medium.com/paritytech/parity-teams-up-with-zcash-foundation-for-parity-zcash-client-cca8a47e18f3\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 330,
+            "num_retweets": 92,
+            "num_replies": 10
+        },
+        "1057159151493832704": {
+            "id": "1057159151493832704",
+            "text": "At DevCon today? The @ParityTech + #Polkadot meetup will showcase all the new technologies the team\u2019s been working on, including how to build your own blockchain with Substrate! See you tonight:http://meetu.ps/e/FYgWM/FWK2w/a\u00a0",
+            "username": "polkadotnetwork",
+            "num_likes": 58,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1055664757808582656": {
+            "id": "1055664757808582656",
+            "text": "WebRender\u2019s origin story in a tweet:\n\nGlenn Watson joins Mozilla and says he doesn\u2019t understand why browser painting works like it does, but assumes there must be a good reason for it.\n\nOne year later or so, he decides there isn\u2019t a good reason.",
+            "username": "pcwalton",
+            "num_likes": 287,
+            "num_retweets": 65,
+            "num_replies": 2
+        },
+        "1054677275076124672": {
+            "id": "1054677275076124672",
+            "text": "Live coding demo is underway at #Web3Summit! Here are the primitives @gavofyork is using to code his blockchain.pic.twitter.com/XQMJz2cCTj",
+            "username": "web3jp",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1054630297566957568": {
+            "id": "1054630297566957568",
+            "text": "Today at #Web3Summit Gavin Wood will present Substrate: a rustic vision for Polkadotpic.twitter.com/x40na6mz66",
+            "username": "ParityTech",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1047903747962298368": {
+            "id": "1047903747962298368",
+            "text": "#Web3Summit is the United Nations of crypto. \n\nThe founders of all the major crypto nation states are gathering at #Web3Summit. Come see how @polkadotnetwork, @tezos, @cosmos, @dfinity and @MineFilecoin are shaping Web 3.0.\n\nGet your ticket: http://web3summit.com/tickets\u00a0pic.twitter.com/GgvFmoWpNO",
+            "username": "web3foundation",
+            "num_likes": 179,
+            "num_retweets": 45,
+            "num_replies": 8
+        },
+        "1052196589320790016": {
+            "id": "1052196589320790016",
+            "text": "Good people, we're looking for folk to work on @riotchat full time. Come help us build things like this https://medium.com/@dharmaone/redesigning-matrix-riot-chat-c7bffd9eb841#london\u00a0\u2026 #rennes #berlin #startups #dwebhttps://new-vector.workable.com/j/60E147E412\u00a0",
+            "username": "RiotChat",
+            "num_likes": 21,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "1051896262113579008": {
+            "id": "1051896262113579008",
+            "text": "Turn your smartphone into a hardware wallet. #ParitySigner v2.0-beta is out now.https://parity.io/signer\u00a0",
+            "username": "ParityTech",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1052021792431210496": {
+            "id": "1052021792431210496",
+            "text": "@tayvano_ reminds everyone to be thoughtful and patient with each other as we #buidl the decentralised technologies that enable our collective freedom #PolkadotLApic.twitter.com/O3fy28xgqw",
+            "username": "web3foundation",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1051146929256587264": {
+            "id": "1051146929256587264",
+            "text": "It continues to impress me what the @ParityTech team steadily produces and where @polkadotnetwork is today. I remember reading the white paper a long time ago and thinking \"this is going to be a lot of work\".https://twitter.com/fredhrson/status/1050390953637412864\u00a0\u2026",
+            "username": "pstehlik",
+            "num_likes": 23,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1050620320778936320": {
+            "id": "1050620320778936320",
+            "text": "This Monday, October 15th, join us at The Rose Room in Venice Beach at 6:00PM!\n\nOur CEO @tayvano_ will be speaking along with folks from @polkadotnetwork, @web3foundation, and @ParityTech! \n\nSIGN UP NOW:https://www.meetup.com/blockchainbeachla/events/zvzsjqyxnbtb/\u00a0\u2026",
+            "username": "MyCrypto",
+            "num_likes": 44,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1050486232705363969": {
+            "id": "1050486232705363969",
+            "text": "we did it! Thanks @mkotew @MaciejHirsz @tomusdrw @Tbaut @ph_lux @a13xndrahttps://twitter.com/ParityTech/status/1050483015649034240\u00a0\u2026",
+            "username": "_fckt",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1050342607707131904": {
+            "id": "1050342607707131904",
+            "text": "Out now: @gavofyork talks @polkadotnetwork, Sharding, and #Substrate on the Zero Knowledge Podcast @zeroknowledgefmhttps://www.zeroknowledge.fm/46\u00a0",
+            "username": "ParityTech",
+            "num_likes": 53,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1048631738203824128": {
+            "id": "1048631738203824128",
+            "text": "The confusion of decentralized with good is an example of what philosophers call the naturalistic fallacy.  It's not politically wrong; it's conceptually wrong.",
+            "username": "kwerb",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1049862956643627010": {
+            "id": "1049862956643627010",
+            "text": "\u201cSubstrate is so powerful that our colleague built a Shasper Minimum viable product in just 2 weeks\u201d - @bjornwgnr of @ParityTech at #PolkadotSFpic.twitter.com/cOgLnSQeMB",
+            "username": "web3jp",
+            "num_likes": 31,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1048182433533886464": {
+            "id": "1048182433533886464",
+            "text": "Substrate's testnet is live, allowing developers to start deploying WebAssembly-compiled smart contractshttps://medium.com/paritytech/substrate-testnet-launched-a55b990e6eba\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 126,
+            "num_retweets": 46,
+            "num_replies": 2
+        },
+        "1047861813180846080": {
+            "id": "1047861813180846080",
+            "text": "What is Substrate and how can it help you build your own custom blockchain? Core developer Dmitriy Kashitsyn reviews Substrate's features and functionalities.https://medium.com/paritytech/substrate-in-a-nutshell-a54cd34c7863\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 54,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "1046817256221683712": {
+            "id": "1046817256221683712",
+            "text": "How GRANDPA finality gadget works:\n\nHere nodes 1-3 have voted for the highest valid block. Block C is the highest block with a supermajority of votes. Because these participants make up more than 2/3 of the stake, the block is finalised.\n\nLearn more: https://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5\u00a0\u2026pic.twitter.com/kp8rsSiEhu",
+            "username": "ParityTech",
+            "num_likes": 21,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1046311308977672192": {
+            "id": "1046311308977672192",
+            "text": "Top high level panel this morning with @VladZamfir @BTChip @poanetwork @will_harborne @polkadot @poanetwork about on-chain governance @ethfinex #EFXSummit2018pic.twitter.com/DDkjXqNUA1",
+            "username": "dether_io",
+            "num_likes": 33,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "1045592330340913153": {
+            "id": "1045592330340913153",
+            "text": "\"Substrate is a framework for creating different kinds of blockchains in a much easier fashion. The idea is that you can upgrade the runtime of the chain without a hard fork so you can adapt to new requirements.\" \u2014@rphmeierhttps://www.youtube.com/watch?v=q1zLHO7Lkuk\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1045353837350055936": {
+            "id": "1045353837350055936",
+            "text": "Why on-chain governance? On-chain governance addresses many problems we have seen in off-chain governance, such as unclear decision-making processes and a lack of oversight. By @ph_luxhttps://medium.com/polkadot-network/why-on-chain-governance-82ecf28f314c\u00a0\u2026",
+            "username": "polkadotnetwork",
+            "num_likes": 52,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1044513500968742912": {
+            "id": "1044513500968742912",
+            "text": "There's a new finality gadget in town\u2026 \"GRANDPA Block Finality in Polkadot: An Introduction (Part 1)\"\u200a-\u200a@rphmeier https://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5#---0-437\u00a0\u2026pic.twitter.com/mjWcoy9Fth",
+            "username": "ParityTech",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1043174832421122048": {
+            "id": "1043174832421122048",
+            "text": "Introducing GRANDPA: a finality gadget for @polkadotnetwork. Check out the first part of the series athttps://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5\u00a0\u2026",
+            "username": "rphmeier",
+            "num_likes": 54,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1040154685250854912": {
+            "id": "1040154685250854912",
+            "text": "Sure Devcon and Ethereum is cool and all, but have you ever thought about other decentralized protocols? Web3 Summit still has tickets left...for now. \n\nThere will be no unicorns or rainbow memes. We come together to build the framework for our liberation.https://twitter.com/web3jp/status/1039957098635948032\u00a0\u2026",
+            "username": "AsherT",
+            "num_likes": 67,
+            "num_retweets": 12,
+            "num_replies": 6
+        },
+        "1034345247680151552": {
+            "id": "1034345247680151552",
+            "text": ".@gavofyork on Bloomberg discussing the evolution of ICOs, lessons learned from @ethereum, and @polkadotnetwork. https://www.bloomberg.com/news/videos/2018-08-27/ethereum-co-founder-wood-sees-icos-evolving-video\u00a0\u2026 @business",
+            "username": "ParityTech",
+            "num_likes": 79,
+            "num_retweets": 22,
+            "num_replies": 5
+        },
+        "1027850011961438213": {
+            "id": "1027850011961438213",
+            "text": "Come hack with six Parity mentors at @ethberlin: @tomusdrw, @kirushik @amaurymartiny, @MaciejHirsz, @meatwithdreams, @Tbauthttp://ethberlin.com/\u00a0",
+            "username": "ParityTech",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1022807999897694209": {
+            "id": "1022807999897694209",
+            "text": "\u201cnot-incentivized-to-do-this\u201d just beat out \u201cZero Cool\u201d as my favorite @polkadotnetwork testnet node name. http://telemetry.polkadot.io/\u00a0pic.twitter.com/rEh7Dlb598",
+            "username": "a13xndra",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1022514311040782342": {
+            "id": "1022514311040782342",
+            "text": "First @polkadotnetwork parachain deployed on a local testnet with the same logic as the Krumme Lanke PoC-2 Testnet. Stay tuned for more in the upcoming days!pic.twitter.com/Cbmwmlz8J1",
+            "username": "rphmeier",
+            "num_likes": 62,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1021320667839582209": {
+            "id": "1021320667839582209",
+            "text": "\"What we're doing at Parity is coming up with a fundamentally new way of building online services, a much more open, peer-to-peer way of interacting with each other. That's what we call web 3.0, the next level of the web.\"\u2014@jutta_steiner to @Cointelegraphhttps://cointelegraph.com/news/parity-s-jutta-steiner-web-3-0-will-evolve-as-interoperability-and-usability-improve\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 46,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1020238358881161216": {
+            "id": "1020238358881161216",
+            "text": ".@web3foundation's On-Chain Governance meetup is Thurs July 26 at @fullnode_berlin, Berlin. Speakers:\n@JacobArluck from @tezos\n@jackdurose from @joincolony\n@adrian_brink from @cosmos\n@barinov from @poanetwork\n@gavofyork from @ParityTech, @polkadotnetworkhttps://www.meetup.com/Polkadot-Berlin/events/252633409/\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 103,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "1019509820649541632": {
+            "id": "1019509820649541632",
+            "text": "The Parity Ethereum client v2.0 release has arrived.https://medium.com/paritytech/parity-ethereum-v2-0-0-beta-b8eb2b9d77b4\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 140,
+            "num_retweets": 52,
+            "num_replies": 3
+        },
+        "1019297187619135490": {
+            "id": "1019297187619135490",
+            "text": "Proof-of-Concept 2 has launched!https://medium.com/polkadot-network/polkadot-poc-2-is-here-parachains-runtime-upgrades-and-libp2p-networking-7035bb141c25\u00a0\u2026",
+            "username": "polkadotnetwork",
+            "num_likes": 170,
+            "num_retweets": 44,
+            "num_replies": 10
+        },
+        "1018246398515572736": {
+            "id": "1018246398515572736",
+            "text": "Initial staging chain for @polkadotnetwork PoC-2 test net is live and working http://telemetry.polkadot.io/\u00a0 ...pic.twitter.com/UeyzylXiPV",
+            "username": "gavofyork",
+            "num_likes": 86,
+            "num_retweets": 24,
+            "num_replies": 5
+        },
+        "1017605823051132929": {
+            "id": "1017605823051132929",
+            "text": "EDCON Interview Series Unrolled Ep. 24 of 27: Blockchain Interoperability with @ParityTech @polkadotnetwork  developer @MaciejHirsz https://youtu.be/jb37IaiT59o\u00a0 @Linktimetech @Eth_world_pic.twitter.com/8ko4E6HaqD",
+            "username": "chjango",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1017451919026028545": {
+            "id": "1017451919026028545",
+            "text": "\u201cWhat should the walls look like?\u201d\n\u201cThe website.\u201d \n\u201cOk.\u201d \nhttps://paritytech.io\u00a0pic.twitter.com/U7981EjLw0",
+            "username": "ParityTech",
+            "num_likes": 53,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1015150098219663360": {
+            "id": "1015150098219663360",
+            "text": "\"@polkadotnetwork changes the game in blockchain because now smart contracts will be able to interact across chains.\"\u2014@jutta_steiner at #TCBlockchain @TechCrunchpic.twitter.com/wGwe9l9soP",
+            "username": "ParityTech",
+            "num_likes": 58,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1014520918226427904": {
+            "id": "1014520918226427904",
+            "text": "Preview of upcoming @polkadotnetwork PoC-2 telemetry \"netstats\" network information service.pic.twitter.com/pJXHfG3vn4",
+            "username": "gavofyork",
+            "num_likes": 75,
+            "num_retweets": 23,
+            "num_replies": 3
+        },
+        "1014130705981374464": {
+            "id": "1014130705981374464",
+            "text": ".@gavofyork discusses @polkadotnetwork as a platform for delivering new blockchain ideas into the world as fast as possible.\n\nThanks to Culprit Videos, @cosmos, @adrian_brink, #edcon18 for the video.pic.twitter.com/hYAfCoPQ5u",
+            "username": "ParityTech",
+            "num_likes": 60,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1013756385421615105": {
+            "id": "1013756385421615105",
+            "text": "\u201cPeople don\u2019t actually realise that you can use the same private key for multiple Ethereum-like networks. So one thing we\u2019re doing on the Parity Signer is providing a selection for networks.\u201d \u2014@MaciejHirsz at #dappuxa @Paralelni_polishttps://youtu.be/XwBMkylSckM?t=1412\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 19,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1013464462525976577": {
+            "id": "1013464462525976577",
+            "text": "Takeaways from the UX & Dapps unconf @Paralelni_polis\nThanks all for talks and inspiring discussions @JosefJelacic @pedrouid @jpatrick @MaciejHirsz @alicecorsini_ @makoto_inoue @will_harborne @ozan_yes @gabriellemic @digitaldonkey09 @jdetychey @billyrennekamp @Ethernian #dappuxapic.twitter.com/CJQoZuOaCL",
+            "username": "Fluence_One",
+            "num_likes": 16,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1012969759921655808": {
+            "id": "1012969759921655808",
+            "text": "An interesting point made by @MaciejHirsz about the new parity signer UI is their center around \u2018pitfalls\u2019 \u2014 ie, custodianship and stewarding of the user around some more common or ubiquitous mistakes. Makes an even stronger case for testnets esp within the frame of UX. #dappuxapic.twitter.com/qbYeuxr4w9 \u2013 at Paralelni Polis",
+            "username": "gabriellemic",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1012965323862102018": {
+            "id": "1012965323862102018",
+            "text": "@MaciejHirsz from @ParityTech showing the integration of Parity signer with @MyCrypto #dappuxapic.twitter.com/yAgxcDcyM6",
+            "username": "JosefJelacic",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1011912226729492481": {
+            "id": "1011912226729492481",
+            "text": "In Prague? See @MaciejHirsz from @ParityTech talk about the Parity Signer app at the DAPP UX & Adoption Unconf this Saturday, June 30th.https://twitter.com/JosefJelacic/status/1009408938071207937\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1009370532901543936": {
+            "id": "1009370532901543936",
+            "text": "Recently there\u2019s been a lot of discussion around using #WebAssembly for blockchain development. Here's why we believe in #Wasm as the base layer of decentralised application development.https://paritytech.io/wasm-smart-contract-development/\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 112,
+            "num_retweets": 44,
+            "num_replies": 7
+        },
+        "1009392326580547584": {
+            "id": "1009392326580547584",
+            "text": "\u201cThere won\u2019t be one chain to rule them all. But the only way chains can communicate right now is through centralized services. Polkadot addresses this, allowing blockchains to specialize and create more powerful network effects.\u201d - @rphmeier at @TOABerlin\u2019s #TOA18pic.twitter.com/4B61ysnpAm",
+            "username": "polkadotnetwork",
+            "num_likes": 58,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1008394032689623049": {
+            "id": "1008394032689623049",
+            "text": "Oh look my validator got picked up on @polkadotnetwork poc-1pic.twitter.com/U9lXDIq04j",
+            "username": "andrewscj",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1006828131548909569": {
+            "id": "1006828131548909569",
+            "text": "\u201cTo send a transaction to the encrypted contract, I send it off-chain to the validators. They execute & send me the new state of the contract with their signatures. I then send that to the on-chain contract.\"\u2014@MaciejHirsz on how Private Transactions workhttps://youtu.be/id6vYKzHzh8\u00a0",
+            "username": "ParityTech",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1006222453268537344": {
+            "id": "1006222453268537344",
+            "text": "the best tweet i ever did was \"they're called Medium posts because they're neither rare nor well done\" and i'm mad that one got deleted",
+            "username": "nailheadparty",
+            "num_likes": 163,
+            "num_retweets": 36,
+            "num_replies": 2
+        },
+        "1004781039208796160": {
+            "id": "1004781039208796160",
+            "text": "The first real world transaction of DOTs. @EAThomson pays Josh 10,000 DOTs for a pizza. Hopefully he doesn\u2019t regret it!pic.twitter.com/K0X1jnTzRO",
+            "username": "polkadotnetwork",
+            "num_likes": 283,
+            "num_retweets": 83,
+            "num_replies": 15
+        },
+        "1002030617771630592": {
+            "id": "1002030617771630592",
+            "text": "Have experience with Rust? Work on a number of open @ParityTech bounties to further strengthen a leading Ethereum client  #BUIDLhttps://gitcoin.co/profile/paritytech\u00a0\u2026",
+            "username": "gitcoin",
+            "num_likes": 49,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1002143072925384704": {
+            "id": "1002143072925384704",
+            "text": "A bit late, but here's my presentation on our #substrate framework at @eventhorizonx, thanks @edhesse79 & co for the great set-up and event - as mentioned, I'll be asking around for the stage designer ;)https://www.youtube.com/watch?v=iUMZyL5kTwc\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 36,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1001500590684409856": {
+            "id": "1001500590684409856",
+            "text": "NOW LIVE: Public UI for Polkadot's PoC-1!\n\nJoin the global testnet without installing and running a node. - https://poc-1.polkadot.io/\u00a0pic.twitter.com/tXpMJv58Qu",
+            "username": "polkadotnetwork",
+            "num_likes": 125,
+            "num_retweets": 52,
+            "num_replies": 5
+        },
+        "1000391747724300288": {
+            "id": "1000391747724300288",
+            "text": "This project was never going to set the world on fire. \u2014 @therealjpsterpic.twitter.com/Y7hefnYpZ0",
+            "username": "RustFest",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1000339978088517637": {
+            "id": "1000339978088517637",
+            "text": ".@MaciejHirsz previewing upcoming Parity Signer UI updates, including signed transaction history and device security indicator, at @TalanLabs.pic.twitter.com/N9q8eHRNKl",
+            "username": "ParityTech",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1000273170962833411": {
+            "id": "1000273170962833411",
+            "text": "The conference is brought to you by a lot of hardworking volunteers and lots of amazing sponsors.\n\n#RustFest Paris would not have been possible without our Platinum sponsor, @ParityTech! Thank you so much for your continuous support of RustFest and the Rust community! pic.twitter.com/fXm06eOU0T",
+            "username": "RustFest",
+            "num_likes": 19,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1000116976595816449": {
+            "id": "1000116976595816449",
+            "text": "All crew,\n\nWe have updated our privacy policy for all Enterprise crew members.\n\nThe policy describes how we use internal sensors to generate a transporter signature of your brain and body at the quantum level, and when and how we transmit that info to third-party planets.\n\nWorf",
+            "username": "WorfEmail",
+            "num_likes": 12382,
+            "num_retweets": 4905,
+            "num_replies": 68
+        },
+        "999284192386142208": {
+            "id": "999284192386142208",
+            "text": ".@MaciejHirsz teaching how to #BUIDL at Technical University Berlin.pic.twitter.com/fHSVdoEqYa",
+            "username": "ParityTech",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "998952493844492288": {
+            "id": "998952493844492288",
+            "text": "Many thanks to @ParityTech for providing a developer's perspective on #blockchains and #DApps to my master's course\n\nWith @FabianGompf, @MaciejHirsz, and @amaurymartinypic.twitter.com/gI4eeyvqMx",
+            "username": "flotschorsch",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "997519458095849473": {
+            "id": "997519458095849473",
+            "text": "Proof of Concept 1 is here. Polkadot just reached the first major milestone in bringing scalability and interoperability to blockchains. \n\nhttps://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d\u00a0\u2026pic.twitter.com/6TZhnwU6LA",
+            "username": "polkadotnetwork",
+            "num_likes": 217,
+            "num_retweets": 100,
+            "num_replies": 13
+        },
+        "997537005385863168": {
+            "id": "997537005385863168",
+            "text": "We all know @rustlang *can* be really fast\u2014but\u2026 how do you make it so?\nJoin @MaciejHirsz & @meatwithdreams on a crash course in optimizing your Rust code and making sure it lives up to the performance-promise of the language's tagline!  https://paris.rustfest.eu/sessions/fastware\u00a0\u2026",
+            "username": "RustFest",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "997487947820740608": {
+            "id": "997487947820740608",
+            "text": "https://paritytech.io/picops-discontinued-may-24th-2018/\u00a0\u2026\n\nThis is very sad. A potentially very useful service in the ethereum ecosystem discontinued due to GDPR issues.",
+            "username": "VitalikButerin",
+            "num_likes": 469,
+            "num_retweets": 214,
+            "num_replies": 63
+        },
+        "996460059822456832": {
+            "id": "996460059822456832",
+            "text": "The new http://MyCrypto.com\u00a0 is LIVE!\n\nRead: https://medium.com/@MyCrypto/welcome-to-the-new-mycrypto-651d06d99062\u00a0\u2026\n\nThank you to everyone who helped us get here. pic.twitter.com/pc2p4M1Oy9",
+            "username": "MyCrypto",
+            "num_likes": 268,
+            "num_retweets": 103,
+            "num_replies": 38
+        },
+        "996539105923264512": {
+            "id": "996539105923264512",
+            "text": "#CryptoLamboMoon when two mathematicians are trying to get the Lambo working @Melt_Dempic.twitter.com/oitHwDLBMJ",
+            "username": "jutta_steiner",
+            "num_likes": 273,
+            "num_retweets": 23,
+            "num_replies": 12
+        },
+        "996099682068770816": {
+            "id": "996099682068770816",
+            "text": "\u201cWhat we\u2019re trying to solve is being a hotbed for innovation. We\u2019re trying to make it really easy for new chains to come along to be launched, to be able to tap into this shared pool of security.\u201d \u2014@jutta_steiner at #Consensus2018pic.twitter.com/McqIAUDNvl",
+            "username": "ParityTech",
+            "num_likes": 46,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "995611676862046209": {
+            "id": "995611676862046209",
+            "text": "\u201cWouldn\u2019t it be cool if there was an app that could turn your phone into a hardware wallet?\u201d\n\n\u201cYes it would. We built it last year.\u201d \n\n \u2014 @MaciejHirsz on the Parity Signer, now integrated with @MyCrypto Betahttps://youtu.be/57fl_hmOuZg\u00a0",
+            "username": "ParityTech",
+            "num_likes": 55,
+            "num_retweets": 21,
+            "num_replies": 3
+        },
+        "995056816093528066": {
+            "id": "995056816093528066",
+            "text": "We're planning our first flagship Web 3.0 conference. It will be in Berlin in October and will provide an opportunity for collaboration on building a decentralized tech stack. Topics include: blockchain, decentralized storage, languages, transient messaging.",
+            "username": "web3foundation",
+            "num_likes": 153,
+            "num_retweets": 34,
+            "num_replies": 17
+        },
+        "994948701037760512": {
+            "id": "994948701037760512",
+            "text": "This week's episode is out! In it, we interview some of the participants of last week's #uxunconf in Toronto about the state of #blockchain UX - thx @MaciejHirsz @danfinlay @avsa @ricburton @PhABCD @JonnyAustinTX @fubuloubu @sdtsui & @derek_sys -http://www.zeroknowledge.fm/24\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 21,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "993232870532526080": {
+            "id": "993232870532526080",
+            "text": "The @ParityTech Signer + MyCrypto = \nhttps://paritytech.io/send-transactions-with-mycrypto-beta-and-parity-signer/\u00a0\u2026\n#web3uxunconfpic.twitter.com/zFArVhIPQI",
+            "username": "MyCrypto",
+            "num_likes": 34,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "993232888610131969": {
+            "id": "993232888610131969",
+            "text": "\"Wouldn't it be cool if you could turn your phone into a hardware wallet?\" \u2013 @MaciejHirsz demos #ParitySigner at #uxunconf with @MyCrypto \u2013 Learn more: https://paritytech.io/send-transactions-with-mycrypto-beta-and-parity-signer/\u00a0\u2026pic.twitter.com/Hqj7RuiTRr",
+            "username": "ParityTech",
+            "num_likes": 81,
+            "num_retweets": 29,
+            "num_replies": 7
+        },
+        "993220360110854144": {
+            "id": "993220360110854144",
+            "text": "Really excited to see the unveiling of Odin at #uxunconf. We need to incentivize full nodes and make data available in a decentralized way! Good work @lrettigpic.twitter.com/LfpUs872m8",
+            "username": "ph_lux",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "993174506058473472": {
+            "id": "993174506058473472",
+            "text": "\u201cStop training users to give away their private keys!!!\u201d A message from @avsa at the UXunconf in Torontopic.twitter.com/FJfqFE0HoV",
+            "username": "AnnaRRose",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "992761134695567360": {
+            "id": "992761134695567360",
+            "text": "#EIP0 takeaways from @aalexis1234 via @BobSummerwill at #EdCon. My heart skipped a beat when I saw this slide. So amazing to see this initiative beginning to have some impact. \"Ethereum WILL be the one that has the most social impact.\"pic.twitter.com/hxZkVQoQIb",
+            "username": "lrettig",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "992400797240524800": {
+            "id": "992400797240524800",
+            "text": "#MayTheFourthBeWithYoupic.twitter.com/dLntY83sAI",
+            "username": "swear_trek",
+            "num_likes": 2339,
+            "num_retweets": 961,
+            "num_replies": 24
+        },
+        "992483775471915009": {
+            "id": "992483775471915009",
+            "text": "Demo time! @gavofyork showing on-chain governance on Polkadot! @polkadotnetworkpic.twitter.com/Rr3EPexVgp",
+            "username": "ParityTech",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "992152642217426945": {
+            "id": "992152642217426945",
+            "text": "Taking a quick coffee break from #EdCon with Utah Steiner @jutta_steinerpic.twitter.com/Crrd2nrACs",
+            "username": "AsherT",
+            "num_likes": 62,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "991803905607643136": {
+            "id": "991803905607643136",
+            "text": "Amazing panel w @jutta_steiner @lrettig @hudsonjameson @nicksdjohnson @lkngtn @aalexis1234 and @thegrifft to wrap up #EIP0. Fantastic gathering to discuss ethereum governance for the last 2 dayspic.twitter.com/hIOr3lohPp",
+            "username": "izqui9",
+            "num_likes": 41,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "991803655417401344": {
+            "id": "991803655417401344",
+            "text": "Livestream: Panel on the Philosophy of Ethereum Governance with @jutta_steiner @hudsonjameson @nicksdjohnson @lkngtn Alison Alexis @thegrifft #eip0 #edcon https://youtu.be/zPsmwmCAMWg\u00a0pic.twitter.com/R6tUmG6aEZ",
+            "username": "ParityTech",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "991747371758444545": {
+            "id": "991747371758444545",
+            "text": "The group is very engaged as we move into discussion of funds recovery: \"Is anyone opposed to funds recovery in principle, if we had a legitimate mechanism to do so?\"pic.twitter.com/ysIguAAX3R",
+            "username": "lrettig",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "991764113062801409": {
+            "id": "991764113062801409",
+            "text": "Wrapping up the session on funds recovery. So many great ideas discussed and shared -- we have notes and we'll share them ASAP.pic.twitter.com/Ag7FA9BeRq",
+            "username": "lrettig",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "991737571003781120": {
+            "id": "991737571003781120",
+            "text": "Attending #EDCON? @jutta_steiner and @gavofyork will be presenting starting tomorrow. We look forward to seeing you there!pic.twitter.com/u27JcyENyx",
+            "username": "ParityTech",
+            "num_likes": 72,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "991323150443991042": {
+            "id": "991323150443991042",
+            "text": "Today we will be hosting #livestreams for an informal #Ethereum #Governance #Brainstorming Session. :-D Feel free to join and ask questions via Youtube!!! Those links will be posted later. https://www.reddit.com/r/ethereum/comments/8g8tbx/live_stream_eip0_governance_summit/\u00a0\u2026 #EIP0 #ETHLIVE #Transparency #EthereumLive #GovernanceNOW! #AMA",
+            "username": "Givethio",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "991129492016906247": {
+            "id": "991129492016906247",
+            "text": "Having a meal the evening before the EIP0 meetings for the next two days.  Thank you, @lrettig and @lightcoin!\n\n#ethereum #communitypic.twitter.com/bCApYptm5f",
+            "username": "BobSummerwill",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "989484137894555651": {
+            "id": "989484137894555651",
+            "text": "I thought deeply about #EIP867, #EIP999, funds recovery and governance in general. We need to do a better job of documenting and explaining #Ethereum governance. As a first step, I just published \"To Fork or Not to Fork.\"https://medium.com/crypto-nyc/to-fork-or-not-to-fork-fbc8f9010cc1\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 109,
+            "num_retweets": 38,
+            "num_replies": 7
+        },
+        "989430787278819328": {
+            "id": "989430787278819328",
+            "text": "We have heard the community and continue to do so. Please read our statement on the current series of events we are involved.https://paritytech.io/our-commitment-to-ethereum-and-a-decentralised-future/\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 377,
+            "num_retweets": 131,
+            "num_replies": 10
+        },
+        "989403388726206465": {
+            "id": "989403388726206465",
+            "text": "Who knew tax talk could be so much fun! Key new info: How PoS tokens, token as payment, and tokens from forks & airdrops are treated under German tax lawhttps://twitter.com/factoryberlin/status/989391180742955008\u00a0\u2026",
+            "username": "AnnaRRose",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "989127704627892224": {
+            "id": "989127704627892224",
+            "text": "We stand by our commitment with the #ethereum ecosystem.https://twitter.com/paritytech/status/989106479885103104\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 236,
+            "num_retweets": 54,
+            "num_replies": 7
+        },
+        "989106479885103104": {
+            "id": "989106479885103104",
+            "text": "We have worked hard to help develop the Ethereum ecosystem; no intention of harming it. Let's find the right solutions through collaboration",
+            "username": "ParityTech",
+            "num_likes": 352,
+            "num_retweets": 93,
+            "num_replies": 20
+        },
+        "988408886033108993": {
+            "id": "988408886033108993",
+            "text": "This Wednesday at the @factory, I am moderating a panel with @DavidHoetzel and Julian Albrecht about the tax & legal implications of owning, buying, selling, and using #cryptohttps://www.eventbrite.com/e/cryptocurrency-laying-down-the-law-tickets-45344604934\u00a0\u2026",
+            "username": "AnnaRRose",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "986663160328392704": {
+            "id": "986663160328392704",
+            "text": "Furthermore, our Foundation deed mandates (and is monitored/regulated by Swiss law) that all our funds are allocated towards decentralized technologies. No lambos for @web3foundation. Just beautiful privacy enriching tech.",
+            "username": "AsherT",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "988351890093035520": {
+            "id": "988351890093035520",
+            "text": "We're creating a lighter Parity experience: https://paritytech.io/creating-a-lighter-experience/\u00a0\u2026\n\n- we're decoupling Parity Wallet from Parity blockchain client\n- we released a new modular wallet UI framework\n- we're developing a light client Javascript library and a light walletpic.twitter.com/2bO3Vbezvg",
+            "username": "ParityTech",
+            "num_likes": 92,
+            "num_retweets": 27,
+            "num_replies": 4
+        },
+        "987108958363152384": {
+            "id": "987108958363152384",
+            "text": "Just signed my first air gapped TX using Parity Signer on mobile and @MyCrypto beta. Major step forward in #ETHEREUM wallet security. \n\nThank you!\n\n@ParityTech",
+            "username": "crypdow",
+            "num_likes": 52,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "986889825549725696": {
+            "id": "986889825549725696",
+            "text": "About to get on stage to explain @ParityTech Substrate. Pretty spectacular setup @energywebx!pic.twitter.com/PB0JVgD28E",
+            "username": "gavofyork",
+            "num_likes": 72,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "986550184539803648": {
+            "id": "986550184539803648",
+            "text": "\"A private contract could be anything because the blockchain is completely agnostic to what's happening in the private contract.\" \u2014@MaciejHirsz introduces how #PrivateTransactions help @EnergyWebX's #blockchain. \nhttps://paritytech.io/private-transactions-webassembly-and-permissioning-new-features-energy-web-foundation-blockchain-for-energy/\u00a0\u2026 #EventHorizonpic.twitter.com/xDjUavfERv",
+            "username": "ParityTech",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "986581208388775936": {
+            "id": "986581208388775936",
+            "text": "Now you can do offline signatures with @MyCrypto Beta and Parity Signer!https://paritytech.io/send-transactions-with-mycrypto-beta-and-parity-signer/\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 118,
+            "num_retweets": 53,
+            "num_replies": 7
+        },
+        "986546308457656320": {
+            "id": "986546308457656320",
+            "text": "\"If you are a developer and download the latest Parity client, you can play with #WebAssembly smart contracts.\" - @MaciejHirsz at #EventHorizon https://paritytech.io/parity-1-10-opportunity-released/\u00a0\u2026 #wasm #smartcontractspic.twitter.com/StS5IaPWkc",
+            "username": "ParityTech",
+            "num_likes": 57,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "986542129177616385": {
+            "id": "986542129177616385",
+            "text": "Watching the @energywebx AMA Deep dive with the awesome @MaciejHirsz and @bjornwgnr -discussing the architecture of the core tech powering the EWF initiative @eventhorizonx #EH18 cc. @ParityTechpic.twitter.com/1L6yWh9Dov",
+            "username": "AnnaRRose",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "986132293256400896": {
+            "id": "986132293256400896",
+            "text": "So thrilled to be a blockchainwoman and not a princess with my marvellous coconspirators pic.twitter.com/EIvKh7oVo2",
+            "username": "AnaTrbovich",
+            "num_likes": 52,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "967584189427073024": {
+            "id": "967584189427073024",
+            "text": "Picard style tip: If you're balding, don't hide it. Own it.",
+            "username": "PicardTips",
+            "num_likes": 2008,
+            "num_retweets": 420,
+            "num_replies": 29
+        }
+    },
+    "tweeted": {
+        "1121696490848759808": {
+            "id": "1121696490848759808",
+            "text": "I haven't been aware of just how far Ink! is till this week. Working Wasm contracts with nice syntax and JSON ABI. Add IDE support, a test framework and a package manager for free. With Lightbeam based Wasm VM on the horizon, the future is looking good!https://github.com/paritytech/ink\u00a0",
+            "username": "MaciejHirsz",
+            "num_likes": 37,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1118908985552310272": {
+            "id": "1118908985552310272",
+            "text": "When reflecting on what blockchain has actually changed in my life so far, the biggest change is that I'm on Twitter now. ",
+            "username": "MaciejHirsz",
+            "num_likes": 30,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1116411496928563200": {
+            "id": "1116411496928563200",
+            "text": "It's a couple months, and I'm still not sure whether Ameen is fostering antagonism because he has something to gain by it, or wether he just likes to cause chaos. My current intuition is that it's both.",
+            "username": "MaciejHirsz",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1113738230124486657": {
+            "id": "1113738230124486657",
+            "text": "Another day, another @rustlang crate: Pixelate - creating up-scaled pixelated palette-based PNG images.\n\nNot (just) for fun. Going to speed up QR codes and identicon generation in Parity Signer (React Native + Rust codebase). \nhttps://github.com/maciejhirsz/pixelate\u00a0\u2026pic.twitter.com/54JQ6QazD7",
+            "username": "MaciejHirsz",
+            "num_likes": 48,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1113330517988999168": {
+            "id": "1113330517988999168",
+            "text": "The 1 in O(1) notation is a lie. The only way is to benchmark your code, but since all benchmarks are also lies the actual performance is unknowable.\n\nSo, I guess that makes me a performance agnostic? ",
+            "username": "MaciejHirsz",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1112624083655671809": {
+            "id": "1112624083655671809",
+            "text": "Phone recording of my @RustBerlin Rust & Tell meetup talk thanks to @a13xndra. Audio is so-so, but kinda works.https://www.youtube.com/watch?v=2Ti-_GSomcs\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1105510966547095552": {
+            "id": "1105510966547095552",
+            "text": "First draft of Universal Offline Signatures, in an effort to standardize what @ParityTech Signer is doing and should be doing in the future: https://github.com/maciejhirsz/uos\u00a0\n\nCC @MyCrypto @AirGap_it @mr_ligi @ricburton",
+            "username": "MaciejHirsz",
+            "num_likes": 44,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1105397905429540864": {
+            "id": "1105397905429540864",
+            "text": "I feel trapped in a dystopian universe. Et tu, Brute?pic.twitter.com/f665G5cZl1",
+            "username": "MaciejHirsz",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1104350692943319040": {
+            "id": "1104350692943319040",
+            "text": "Why I am switching to GPL \nhttps://maciej.codes/2019-03-09-why-gpl.html\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1102289289671516163": {
+            "id": "1102289289671516163",
+            "text": "Here is a blog post explaining how Ramhorns works: https://maciej.codes/2019-03-03-ramhorns.html\u00a0\u2026https://twitter.com/MaciejHirsz/status/1100852685014745094\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1100852685014745094": {
+            "id": "1100852685014745094",
+            "text": "I made another @rustlang thing. Ramhorns is like Mustache, but almost 10x faster.\n\nhttps://github.com/maciejhirsz/ramhorns\u00a0\u2026pic.twitter.com/akJAeaQ1cP",
+            "username": "MaciejHirsz",
+            "num_likes": 137,
+            "num_retweets": 24,
+            "num_replies": 5
+        },
+        "1096907405273772037": {
+            "id": "1096907405273772037",
+            "text": "\"Why permission is really needed in Polkadot was difficult to establish\"\n\nIt really wasn't.pic.twitter.com/FVw794zMBD",
+            "username": "MaciejHirsz",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1096507066192220162": {
+            "id": "1096507066192220162",
+            "text": "Over the past 2 years @5chdn has failed to disclose to anyone at @ParityTech that he can single-handedly decide the future of Ethereum.\n\nI'm afraid the truth is darker than ethtrader would make us believe. @5chdn is a #doubleagent working for Putin. #conflictofinterests.",
+            "username": "MaciejHirsz",
+            "num_likes": 51,
+            "num_retweets": 2,
+            "num_replies": 7
+        },
+        "1095730743932870657": {
+            "id": "1095730743932870657",
+            "text": "I thought I'm balding like my dad, but it turns out I'm just a minimalist.",
+            "username": "MaciejHirsz",
+            "num_likes": 17,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1088027136139714560": {
+            "id": "1088027136139714560",
+            "text": "So now that @MicrosoftEdge is basically @googlechrome with a different skin, the new version of web @Skype will no longer work on @firefox.\n\nBack to embrace, extend, extinguish, eh? https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish\u00a0\u2026pic.twitter.com/cj1AzbOSBB",
+            "username": "MaciejHirsz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1086694895492845570": {
+            "id": "1086694895492845570",
+            "text": "Managed to get @Firefox scrolling with touchpad to be smooth, at last. Needed to set env MOZ_USE_XINPUT2=1 (Linux specific, but why is this not a default?), as well as some tuning in about:config to remove delays.https://twitter.com/MaciejHirsz/status/1076410121197158401\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1084218135039930368": {
+            "id": "1084218135039930368",
+            "text": "Someone from Microsoft went: we will make this feature free, but instead we will sell something better, a vague sense of superiority. And a star ",
+            "username": "MaciejHirsz",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "1084215374189682688": {
+            "id": "1084215374189682688",
+            "text": "Instead of private repos, you now literally pay GitHub for a badge and a star ",
+            "username": "MaciejHirsz",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1076410121197158401": {
+            "id": "1076410121197158401",
+            "text": "This is literally the only reason why I'm not using @firefox on daily basis. https://twitter.com/ummjackson/status/1076376508053241856\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1071475384347254784": {
+            "id": "1071475384347254784",
+            "text": "The article is great, but the title is wrong - @jutta_steiner is the Polkadot Margaret Thatcher, not Princess.https://twitter.com/ParityTech/status/1071474506135412736\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1066751043126640642": {
+            "id": "1066751043126640642",
+            "text": "Here is my @RustFest workshop: Writing Parsers and Cutting Corners, if you want to do it at home:https://github.com/maciejhirsz/rustfest2018\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 27,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1065874440251211776": {
+            "id": "1065874440251211776",
+            "text": "Correcting my SO about GitHub:\n\nSO: ...and then you get all the stars, that are worthless.\nme: they aren't worthless, they are *priceless*!",
+            "username": "MaciejHirsz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1065380506123022337": {
+            "id": "1065380506123022337",
+            "text": "Longer description on Reddit:https://www.reddit.com/r/rust/comments/9z87z7/logos_create_ridiculously_fast_lexers/\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1065380251952394241": {
+            "id": "1065380251952394241",
+            "text": "https://github.com/maciejhirsz/logos\u00a0\u2026 is a @rustlang library for creating Lexers that parses source code at ~1GB/s on a 2016 i7 laptop.pic.twitter.com/I8oA1dLbTY",
+            "username": "MaciejHirsz",
+            "num_likes": 107,
+            "num_retweets": 36,
+            "num_replies": 1
+        },
+        "1060092646193053696": {
+            "id": "1060092646193053696",
+            "text": ".@alexberegszaszi @ethchris what would be a good forum to contribute to / ask questions about Yul? Is there anything aside from the [Yul] marked github issues on #Solidity repo?",
+            "username": "MaciejHirsz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058284452982472704": {
+            "id": "1058284452982472704",
+            "text": "pic.twitter.com/uRbJpG9iBq",
+            "username": "MaciejHirsz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058253914380763136": {
+            "id": "1058253914380763136",
+            "text": "Aren\u2019t all PoS systems plutocracies by definition? If so, how is Serenity not a plutocracy? CC @VladZamfir",
+            "username": "MaciejHirsz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1055112817320361985": {
+            "id": "1055112817320361985",
+            "text": "Captivating history of initial ideals of #Bitcoin by @Narodism at @web3foundation #Web3summitpic.twitter.com/mCw6ZbDcUD",
+            "username": "MaciejHirsz",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054674015539904513": {
+            "id": "1054674015539904513",
+            "text": "Live coding timepic.twitter.com/1iEb6tyWeN",
+            "username": "MaciejHirsz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054667409745948672": {
+            "id": "1054667409745948672",
+            "text": "Live installing @rustlang to demo #Substrate at @web3foundation #Web3summitpic.twitter.com/SCfRVY4tQ1",
+            "username": "MaciejHirsz",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1049641771926528000": {
+            "id": "1049641771926528000",
+            "text": "#BUIDL your block on top of @ParityTech #Substrate to get Telemetry https://telemetry.polkadot.io/\u00a0 in the package with:\n\n Geolocation\n Node CPU & Memory usage monitoring\n Configurable list view\n Node search by name or locationpic.twitter.com/l4L4dTC9cV",
+            "username": "MaciejHirsz",
+            "num_likes": 41,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1045433277782347776": {
+            "id": "1045433277782347776",
+            "text": "Substrate nodes syncing away happily https://telemetry.polkadot.io/#/BBQ%20Birch\u00a0pic.twitter.com/vnZ7MfFNry",
+            "username": "MaciejHirsz",
+            "num_likes": 29,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1012293892899778560": {
+            "id": "1012293892899778560",
+            "text": "Shower thought of the day: JSON is the Bitcoin of formats. It's easy to improve, but if you do it stops being JSON.",
+            "username": "MaciejHirsz",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1010056278964690945": {
+            "id": "1010056278964690945",
+            "text": "See you in Prague next week!https://twitter.com/JosefJelacic/status/1009408938071207937\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1005067367305699328": {
+            "id": "1005067367305699328",
+            "text": "Some day I'll finish my JavaScript compiler in Rust.\nThen make it compile to Rust with absurd amounts of generics.\nThen put it into a procedural macro, so you can inline JavaScript in Rust.\n\nThen I'll sit back and watch the world burn. ",
+            "username": "MaciejHirsz",
+            "num_likes": 29,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1002150600291880960": {
+            "id": "1002150600291880960",
+            "text": "Recording from the Deep Dive Pro Track session at @eventhorizonx 2018 with Kai Kraemer and @bjornwgnr about EWF chain, including Encrypted Smart Contracts, WebAssembly Smart Contracts and Light Client:https://www.youtube.com/watch?v=id6vYKzHzh8\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "997037652858802176": {
+            "id": "997037652858802176",
+            "text": "See you Friday 25th in Paris! https://twitter.com/talanlabs/status/997033706131992576\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "992097248967245824": {
+            "id": "992097248967245824",
+            "text": "#bossladyhttps://twitter.com/paritytech/status/992094926245511168\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991716888412504064": {
+            "id": "991716888412504064",
+            "text": "Direct link to the EIP0 AMA, courtesy of @Givethio:https://youtu.be/LcBqypKbYMA\u00a0",
+            "username": "MaciejHirsz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "989992261382524929": {
+            "id": "989992261382524929",
+            "text": "Goodnightpic.twitter.com/GGl4X0MAcX",
+            "username": "MaciejHirsz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "987958089272975361": {
+            "id": "987958089272975361",
+            "text": "TIL: Reddit doesn't understand what the word \"decentralization\" means . Pro-tip: it does not mean \"immutability\".",
+            "username": "MaciejHirsz",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "986474789794697216": {
+            "id": "986474789794697216",
+            "text": "I'm mostly trying to avoid the debate, but on this particular point we don't have to guess, here are the affected accounts: https://etherscan.io/find-similiar-contracts?a=0xC16ba0Bf101682e0E7fcBD0B7BC160A8E2E59471\u00a0\u2026https://twitter.com/DeanEigenmann/status/986217321478975489\u00a0\u2026",
+            "username": "MaciejHirsz",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "ParityTech": 51,
+        "johnson8_p": 1,
+        "fredhrson": 2,
+        "AsherT": 4,
+        "n3xco": 1,
+        "paddykcl": 1,
+        "RustBerlin": 2,
+        "DeanEigenmann": 1,
+        "pcwalton": 2,
+        "byteadventures": 2,
+        "zoom_zoomzo": 1,
+        "a13xndra": 3,
+        "mi_ayako": 1,
+        "gavofyork": 8,
+        "polkawallet": 1,
+        "tayvano_": 1,
+        "davidtolnay": 1,
+        "Senficon": 1,
+        "newrustacean": 1,
+        "stellarmagnet": 1,
+        "hudsonjameson": 2,
+        "thegrifft": 1,
+        "sorpaas": 1,
+        "MrYukonC": 1,
+        "speckleos": 1,
+        "PolkadotJs": 1,
+        "gparker": 1,
+        "ryan_levick": 1,
+        "ID_AA_Carmack": 1,
+        "licuende": 1,
+        "miguelmotah": 1,
+        "web3jp": 3,
+        "WasmWeekly": 1,
+        "RustFest": 4,
+        "danieltbar": 1,
+        "juvenalisch": 1,
+        "jutta_steiner": 2,
+        "oceanprotocol": 1,
+        "polkadotnetwork": 8,
+        "StakingFac": 1,
+        "web3foundation": 3,
+        "RiotChat": 1,
+        "pstehlik": 1,
+        "MyCrypto": 3,
+        "_fckt": 1,
+        "kwerb": 1,
+        "dether_io": 1,
+        "rphmeier": 2,
+        "chjango": 1,
+        "Fluence_One": 1,
+        "gabriellemic": 1,
+        "JosefJelacic": 1,
+        "andrewscj": 1,
+        "nailheadparty": 1,
+        "gitcoin": 1,
+        "WorfEmail": 1,
+        "flotschorsch": 1,
+        "VitalikButerin": 1,
+        "zeroknowledgefm": 1,
+        "ph_lux": 1,
+        "AnnaRRose": 4,
+        "lrettig": 4,
+        "swear_trek": 1,
+        "izqui9": 1,
+        "Givethio": 1,
+        "BobSummerwill": 1,
+        "crypdow": 1,
+        "AnaTrbovich": 1,
+        "PicardTips": 1
+    },
+    "users_retweeted": [
+        "ParityTech",
+        "gavofyork",
+        "polkadotnetwork",
+        "AsherT",
+        "RustFest",
+        "AnnaRRose",
+        "lrettig",
+        "a13xndra",
+        "web3jp",
+        "web3foundation",
+        "MyCrypto",
+        "fredhrson",
+        "RustBerlin",
+        "pcwalton",
+        "byteadventures",
+        "hudsonjameson",
+        "jutta_steiner",
+        "rphmeier",
+        "johnson8_p",
+        "n3xco",
+        "paddykcl",
+        "DeanEigenmann",
+        "zoom_zoomzo",
+        "mi_ayako",
+        "polkawallet",
+        "tayvano_",
+        "davidtolnay",
+        "Senficon",
+        "newrustacean",
+        "stellarmagnet",
+        "thegrifft",
+        "sorpaas",
+        "MrYukonC",
+        "speckleos",
+        "PolkadotJs",
+        "gparker",
+        "ryan_levick",
+        "ID_AA_Carmack",
+        "licuende",
+        "miguelmotah",
+        "WasmWeekly",
+        "danieltbar",
+        "juvenalisch",
+        "oceanprotocol",
+        "StakingFac",
+        "RiotChat",
+        "pstehlik",
+        "_fckt",
+        "kwerb",
+        "dether_io",
+        "chjango",
+        "Fluence_One",
+        "gabriellemic",
+        "JosefJelacic",
+        "andrewscj",
+        "nailheadparty",
+        "gitcoin",
+        "WorfEmail",
+        "flotschorsch",
+        "VitalikButerin",
+        "zeroknowledgefm",
+        "ph_lux",
+        "swear_trek",
+        "izqui9",
+        "Givethio",
+        "BobSummerwill",
+        "crypdow",
+        "AnaTrbovich",
+        "PicardTips"
+    ]
+}

@@ -1,0 +1,1427 @@
+{
+    "is_complete": true,
+    "username": "MartinLundfall",
+    "retweeted": {
+        "1120129007108939777": {
+            "id": "1120129007108939777",
+            "text": "my summary: 1) Eth 1.x needs more \"resources\" / devs. Even straightforward todos such as chain data pruning don't have an active WG because existing client teams already too busy (let alone more ambitious todos like Vitalik's tx fee proposal).https://twitter.com/TaylorGerring/status/1120091031318487040?s=19\u00a0\u2026",
+            "username": "cdetrio",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1114770190552653824": {
+            "id": "1114770190552653824",
+            "text": "I've finally built my absolute dream music software.\nHere's #ORC\u039b(livecoding language) & PILOT(Synthesizer).\nhttp://github.com/hundredrabbits/Orca\u00a0\u2026\nhttp://github.com/hundredrabbits/Pilot\u00a0\u2026pic.twitter.com/AQy9ezBGu1",
+            "username": "neauoire",
+            "num_likes": 1709,
+            "num_retweets": 421,
+            "num_replies": 23
+        },
+        "1111279902609809410": {
+            "id": "1111279902609809410",
+            "text": "I gave a talk on the K framework, WebAssembly, and our ongoing KWasm project. Good intro to both K and #wasm for those a bit familiar with programming languages.https://www.youtube.com/watch?v=V6tOYuneMqo\u00a0\u2026",
+            "username": "hjortgjort",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1113377861359013888": {
+            "id": "1113377861359013888",
+            "text": "Great analysis by @mhswende: https://github.com/holiman/vmstats/blob/master/README.md\u00a0\u2026\n\nMilliseconds per Mgas (SLOAD) is growing faster than I had hoped.\n\nObviously this is only one version of one client on one setup but still super interesting.",
+            "username": "HRitzdorf",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1111296148218748933": {
+            "id": "1111296148218748933",
+            "text": "I have been falling down the @MakerDAO rabbit hole for a few months. I have come to appreciate what it takes to write smart contracts that manage money. They use techniques developed by aerospace and medical device software engineers to ensure correctness.\nhttps://medium.com/balance-io/formal-verification-virtual-hardware-and-engineering-for-blockchains-51d07abdc934\u00a0\u2026pic.twitter.com/mdU5GMIq11",
+            "username": "ricburton",
+            "num_likes": 131,
+            "num_retweets": 24,
+            "num_replies": 14
+        },
+        "1106566157513814016": {
+            "id": "1106566157513814016",
+            "text": "'Financial inclusion' is a positive spin put on 'the spread of large-scale financial institutions into parts of society they previously avoided'. There's no point talking about inclusion without also talking about the power dynamics of the thing people are being included into",
+            "username": "Suitpossum",
+            "num_likes": 218,
+            "num_retweets": 81,
+            "num_replies": 16
+        },
+        "1104739673593835521": {
+            "id": "1104739673593835521",
+            "text": "Check out the contract explorer we built at #ETHParis! Our machine learning algorithm can be used to identify vulnerabilities in Ethereum smart contracts.\nhttps://devpost.com/software/contract-genius\u00a0\u2026pic.twitter.com/b9o6zO1cdt",
+            "username": "willprice221",
+            "num_likes": 39,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "1104598030907596801": {
+            "id": "1104598030907596801",
+            "text": "I can't believe we actually did it - we implemented the ZKDAO at #ETHParis with @aztecprotocol's dividend proofspic.twitter.com/5i3enHY4x3",
+            "username": "liamzebedee",
+            "num_likes": 172,
+            "num_retweets": 25,
+            "num_replies": 5
+        },
+        "1103808088170217473": {
+            "id": "1103808088170217473",
+            "text": "Tomorrow! @tw33ttw33t and I will talk about our work with @CirclesUBI at MoneyLab Siegen. Looking forward and thanks to @INCAmsterdam and @mediaofcoop for having us pic.twitter.com/BbSxXfVjHZ",
+            "username": "isthisanart_",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1104084684194172928": {
+            "id": "1104084684194172928",
+            "text": "Announcement!  The Melon Council has launched an ongoing bug bounty program in an effort to discover security vulnerabilities which will lead to a more robust protocol over time. Find out how you can get involved here! https://medium.com/melonport-blog/melon-bug-bounty-program-b33f7d4a80a6\u00a0\u2026",
+            "username": "melonprotocol",
+            "num_likes": 30,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1103334063895658499": {
+            "id": "1103334063895658499",
+            "text": " Formal Verification time!  this week, we catchup with @MartinLundfall from @MakerDAO / @dapphub to talk about his work on formal verification, the #kframework, when it makes sense to use fv, when it doesn't, & more https://www.zeroknowledge.fm/67\u00a0 cc: @AnnaRRose @fredhrson",
+            "username": "zeroknowledgefm",
+            "num_likes": 37,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1103244013510053888": {
+            "id": "1103244013510053888",
+            "text": "\"Tokenization: taking some abstract value and manifesting as *something* that represents this value. \n\nThis something is often objectified and fetishized. This is particularly evident in the case of money\" - @MartinLundfall",
+            "username": "MyCrypto",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1102191595032666112": {
+            "id": "1102191595032666112",
+            "text": "When you break out of the perceived need to justify meaning with reason, of the need to understand behavior as ultimately goal oriented, it's possible to have a lot more respect for the meaning people find in life, and to have a lot more freedom in your own choices",
+            "username": "VladZamfir",
+            "num_likes": 34,
+            "num_retweets": 5,
+            "num_replies": 6
+        },
+        "1101637270795362305": {
+            "id": "1101637270795362305",
+            "text": "We should heed @MPtherealMVP's sound and prescient warning! Our denial of politics and our unwillingness or inability to properly engage in politics could easily be our undoing.https://twitter.com/MPtherealMVP/status/1100460932730421249\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 145,
+            "num_retweets": 21,
+            "num_replies": 19
+        },
+        "1096053407880806400": {
+            "id": "1096053407880806400",
+            "text": "Here's what I see as the final destination out of this CREATE mess:  essentially we need to have content-based addressing of contracts (including constructor args, which means hashing the init code, and multiple instantiations, which means a salt), no self-destruct, and use...",
+            "username": "technocrypto",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1093995835518537728": {
+            "id": "1093995835518537728",
+            "text": "Fact: after Constantinople, a contract can selfdestruct and potentially be restored with different code. (rules and conditions apply)\n\nSo YES, it can change code in-place (but no if you don't consider 2 txs timespan suddenly)https://twitter.com/mhswende/status/1093596010545336320\u00a0\u2026",
+            "username": "mhswende",
+            "num_likes": 49,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "1093855124861186048": {
+            "id": "1093855124861186048",
+            "text": "Some of the findings from the 1st year of #BasicIncome in Finland provided to 2,000 unemployed people:\n\nNo negative impact on employment\n\nReduced stress\n\nImproved sense of well-being\n\nIncreased ability to be an entrepreneur regardless of earnings\n\nhttps://www.epressi.com/tiedotteet/hallitus-ja-valtio/preliminary-results-of-the-basic-income-experiment-les-resultats-preliminaires-de-lexperience-du-revenu-de-basepredvariteljnye-rezuljtaty-eksperimentaljnoj-koncepcii-bezuslovnogovorlaufige-ergebnisse-des-experiments-zum-grundeinkommen.html\u00a0\u2026pic.twitter.com/7MS2FMcSkQ",
+            "username": "scottsantens",
+            "num_likes": 461,
+            "num_retweets": 369,
+            "num_replies": 12
+        },
+        "1093445061428330497": {
+            "id": "1093445061428330497",
+            "text": "Huff is hot right now. \n\nWhilst developing weierstrudel (a smart contract which is more gas-efficient than a precompile), @ZacCreditMint our CTO invented a new programming language which writes extremely gas-optimized code. \n\nDive in..! \n\nhttps://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83\u00a0\u2026",
+            "username": "aztecprotocol",
+            "num_likes": 35,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1092700388015435781": {
+            "id": "1092700388015435781",
+            "text": "Formal Verification for n00bs -Part 2: proving the correctness of a token:https://medium.com/ethworks/formal-verification-for-n00bs-part-2-proving-the-correctness-of-a-token-74085f5cd6c1\u00a0\u2026",
+            "username": "ethmarek",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1092070257634603010": {
+            "id": "1092070257634603010",
+            "text": "#BullshitJobs by @davidgraeberpic.twitter.com/SYGSk0GQhX",
+            "username": "Josh_McGee_G",
+            "num_likes": 44,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1091103398508679169": {
+            "id": "1091103398508679169",
+            "text": "The @MakerDAO smart contracts now hodl over 2,000,000 ETH.\n\nOne of the chaps who works on those contracts is @MartinLundfall.\n\nHe just gave a wonderful talk about the tools and techniques that their team have developed to make the process of creating \u201cvirtual hardware\u201d.pic.twitter.com/eA4M8YvBvr",
+            "username": "ricburton",
+            "num_likes": 54,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1057581335399751681": {
+            "id": "1057581335399751681",
+            "text": "On Halloween, the veil between this world and the Outside becomes thin, and from it has emerged the long-awaited Gender Accelerationism blackpaper by @NyxLandUnlife.https://vastabrupt.com/2018/10/31/gender-acceleration/\u00a0\u2026",
+            "username": "vastabrupt",
+            "num_likes": 160,
+            "num_retweets": 53,
+            "num_replies": 4
+        },
+        "1086372761230991360": {
+            "id": "1086372761230991360",
+            "text": "Ever see a unicode character that embodies a whole new philosophical idea?  This is my favorite: the symbol for \"incomplete infinity\".  Aristotle claimed all infinities were like this: potential rather than actual.  \n\nBut shouldn't incomplete infinity be called \"finity\"?pic.twitter.com/mOoDOnH9oq",
+            "username": "johncarlosbaez",
+            "num_likes": 594,
+            "num_retweets": 187,
+            "num_replies": 33
+        },
+        "1085291959390998534": {
+            "id": "1085291959390998534",
+            "text": "[SECURITY ALERT] #Constantinople upgrade is temporarily postponed out of caution following a consensus decision by #Ethereum developers, security professionals and other community members. More information and instructions are below.https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 1562,
+            "num_retweets": 1006,
+            "num_replies": 224
+        },
+        "1084943130498158593": {
+            "id": "1084943130498158593",
+            "text": "@AssethFR is the ethcc website broken? Showing up as an 2018 with wrong order of faces lol nick and this Rob guy are looking extra goodpic.twitter.com/d47aGs4mHW",
+            "username": "paddykcl",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1078420150955765760": {
+            "id": "1078420150955765760",
+            "text": "Come to my talk on #EthicsInMathematics at #35c3 on 29/12 (day3).  21:30 in Lecture room M3. It'll be about how mathematicians can cause large-scale societal harm with their work (i.e., Cambridge Analytica!). Details here: https://events.ccc.de/congress/2018/wiki/index.php/Session:Mathematicians_acting_amorally_-_how_they_harm_society\u00a0\u2026pic.twitter.com/GoOnmXpDAi",
+            "username": "mauricechiodo",
+            "num_likes": 29,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1078822787798781953": {
+            "id": "1078822787798781953",
+            "text": "1/\n\n@UniswapExchange formula (constant product) can be implemented in 5 lines:\nhttps://github.com/Uniswap/contracts-vyper/blob/master/contracts/uniswap_exchange.vy#L106\u00a0\u2026\n@Bancor formula is... more complicated\nhttps://github.com/bancorprotocol/contracts/blob/master/solidity/contracts/converter/BancorFormula.sol\u00a0\u2026https://twitter.com/maxcwolff/status/1078803438425776128\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 49,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1078821254981771264": {
+            "id": "1078821254981771264",
+            "text": "What opcodes (or other improvements) to the 'Fundamentally Unsafe' EVM do you wish Santa had brough you this year?",
+            "username": "maurelian_",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 12
+        },
+        "1078074062587527168": {
+            "id": "1078074062587527168",
+            "text": "So excited for this project! This is a cause that\u2019s very close to my heart, and this marks a start to a great avenue for our community to give back. The Unicef team has been so fantastic. Seriously guys. They really get what we\u2019re doing. Give what you can, and let\u2019s do some good!https://twitter.com/UNICEF_france/status/1077970908915163136\u00a0\u2026",
+            "username": "ashleighschap",
+            "num_likes": 51,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1075860398358724609": {
+            "id": "1075860398358724609",
+            "text": "MakerDAO isn't a \"central bank\" and we shouldn't pollute perception by calling it one. It's a credit facility with a balance sheet capitalized by CDP's margin equity, secured against defaults by MKR inflation (diluting current holders claims' to future cash flows in the process)",
+            "username": "_charlienoyes",
+            "num_likes": 223,
+            "num_retweets": 30,
+            "num_replies": 14
+        },
+        "1072595028961320960": {
+            "id": "1072595028961320960",
+            "text": "This report on @rv_inc's verification of RANDAO's possible randomness bias under worst-case adversarial conditions using statistical model checking is one of the most underrated new papers in cryptocurrency security/modeling, IMO.https://github.com/runtimeverification/rdao-smc/blob/master/report/rdao-analysis.pdf\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1066090659029770240": {
+            "id": "1066090659029770240",
+            "text": "This week, @MartinLundfall from @dapphub chats about formal verification using klab. Formal Verification is something that's been a mystery to most developers but should be integrated into any smart contract workflow!\n\nCheck it out here:https://www.thesmartestcontract.com/26\u00a0",
+            "username": "itsjefftong",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1062059461613891584": {
+            "id": "1062059461613891584",
+            "text": "My Devcon4 talk video on smart contract security, blockchain dex HFT, on-chain voting attacks, and philosophical musings on complexity & systemic risk is out!  Had a lot of fun with it, hope you do too!https://slideslive.com/38911605/smart-contract-security-incentives-beyond-the-launch\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 238,
+            "num_retweets": 62,
+            "num_replies": 6
+        },
+        "1055867814177730565": {
+            "id": "1055867814177730565",
+            "text": "Libraries are a gateway drug.",
+            "username": "georgevreilly",
+            "num_likes": 367,
+            "num_retweets": 44,
+            "num_replies": 7
+        },
+        "1052933028232740865": {
+            "id": "1052933028232740865",
+            "text": "I forced a bot to watch over 1,000 hours of TED Talks and then asked it to write a TED Talk of its own. Here is the first page.pic.twitter.com/FpGz25q9zc",
+            "username": "KeatonPatti",
+            "num_likes": 35274,
+            "num_retweets": 11886,
+            "num_replies": 744
+        },
+        "1046810164983083008": {
+            "id": "1046810164983083008",
+            "text": "Excited to be showing the world our tech -- I was really blown away when I opened the page on my phone and realized it was basically a full node, on a phone, in a browser :0 SNARKs are really magical.\n\nLook out for our open-sourcing which should be relatively soon!https://twitter.com/CodaProtocol/status/1046805779976617984\u00a0\u2026",
+            "username": "izmeckler",
+            "num_likes": 77,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1049121940466753536": {
+            "id": "1049121940466753536",
+            "text": "From one of the authors of the just-released IPCC special report, here's what needs to happen in order to keep global warming below \"dangerous\" levels:https://twitter.com/DianaLiv/status/1049119340962799616\u00a0\u2026",
+            "username": "EricHolthaus",
+            "num_likes": 140,
+            "num_retweets": 171,
+            "num_replies": 5
+        },
+        "1039543810739585024": {
+            "id": "1039543810739585024",
+            "text": "After 2 weeks of reading one of the worst books I've ever read, and making my longest video yet, it's finally here. I hope you enjoy it, please make it worth it.https://www.youtube.com/watch?v=EHtvTGaPzF4&feature=youtu.be\u00a0\u2026",
+            "username": "PhilosophyCuck",
+            "num_likes": 308,
+            "num_retweets": 56,
+            "num_replies": 18
+        },
+        "1037000327592067072": {
+            "id": "1037000327592067072",
+            "text": "There's no such thing as tokenizing a physical asset\n\nYou're tokenizing a contractual right to the physical asset, the base layer remains settlement via legal system",
+            "username": "RyanSAdams",
+            "num_likes": 879,
+            "num_retweets": 153,
+            "num_replies": 37
+        },
+        "1032724313537826816": {
+            "id": "1032724313537826816",
+            "text": "Coming September 17th on Kovan Testnet!  #Dai $Daihttps://twitter.com/EthereumNetw/status/1032721139645263874\u00a0\u2026",
+            "username": "MakerDAO",
+            "num_likes": 63,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1032028502961209344": {
+            "id": "1032028502961209344",
+            "text": "who called it `git blame` and not `git whose-line-is-it-anyway`?",
+            "username": "ticky",
+            "num_likes": 2797,
+            "num_retweets": 681,
+            "num_replies": 50
+        },
+        "1006365028826734597": {
+            "id": "1006365028826734597",
+            "text": "On June 20, an EU committee will vote on an apocalyptically stupid, internet-destroying copyright proposal that'll censor everything from Tinder profiles to Wikipedia (SHARE THIS!)https://boingboing.net/2018/06/07/thanks-axel-voss.html\u00a0\u2026",
+            "username": "mhhf",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "994565598418997248": {
+            "id": "994565598418997248",
+            "text": "The real Bitcoin is the friends we've made along the way.",
+            "username": "lopp",
+            "num_likes": 2501,
+            "num_retweets": 461,
+            "num_replies": 104
+        },
+        "991335270585962499": {
+            "id": "991335270585962499",
+            "text": "It's often said that we need to teach people 'financial literacy'. But most financial literacy initiatives aim to teach people to read the surface-level rules of the existing system, rather than to write the deep rules of a different one",
+            "username": "Suitpossum",
+            "num_likes": 179,
+            "num_retweets": 56,
+            "num_replies": 8
+        },
+        "990029668450529280": {
+            "id": "990029668450529280",
+            "text": "You have $15 to build the perfect proof assistant\n\n$100 univalent\n$30 sound typeclasses\n$3 pattern matching can segfault\n$85 good inference\n$5 emacs mode crashes every ten minutes\n$400 can calculate numbers greater than fifty seven\n$7 can encode russell's paradox",
+            "username": "sclv",
+            "num_likes": 113,
+            "num_retweets": 28,
+            "num_replies": 7
+        },
+        "979973279241957376": {
+            "id": "979973279241957376",
+            "text": "\"You\u2019re lost in the woods. We all are. Even the captain. The only difference is, he likes it that way.\"",
+            "username": "nicksdjohnson",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "978740900128960513": {
+            "id": "978740900128960513",
+            "text": "Check out information about an upcoming course about the CBC Casper consensus protocols!\n\nRegister if you want to give us your data to contact you about this and other cbc-Casper related opportunities :)https://medium.com/blockchain-education-network/ben-presents-cbc-casper-crash-course-with-vlad-zamfir-4e0ae7e32cb2\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 162,
+            "num_retweets": 60,
+            "num_replies": 17
+        },
+        "956453801094868993": {
+            "id": "956453801094868993",
+            "text": "I slowly drifted back into the traditional financial system",
+            "username": "icowid",
+            "num_likes": 1399,
+            "num_retweets": 389,
+            "num_replies": 14
+        },
+        "975902734238015489": {
+            "id": "975902734238015489",
+            "text": "REALLY short summary of the paper: Hawking & Hertog found, using some VERY preliminary calculations, that the rapid expansion in the early universe (inflation) might not always create a big mess of a multiverse, but might be more likely to make a cosmos like what we see.",
+            "username": "AstroKatie",
+            "num_likes": 309,
+            "num_retweets": 65,
+            "num_replies": 7
+        },
+        "973733629321973762": {
+            "id": "973733629321973762",
+            "text": "Value is like love. You cannot measure it objectively, you cannot store it for later, and most importantly, you cannot transfer it.",
+            "username": "yaoeo",
+            "num_likes": 49,
+            "num_retweets": 13,
+            "num_replies": 5
+        },
+        "973611495614533633": {
+            "id": "973611495614533633",
+            "text": "#ewasm university day two kicks off in Paris with devs from @ParityTech, @Truebitprotocol, @ConsenSys, @dapphub, @MakerDAO, @kyokan_io and @ethereum. @pepyakin teaches WASM basics, @alexberegszaszi teaches Solidity and Julia, @RealZandy teaches Maker and Everett teaches kevm.pic.twitter.com/h8oByUb7yi",
+            "username": "lrettig",
+            "num_likes": 65,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "973201630081449986": {
+            "id": "973201630081449986",
+            "text": "Here\u2019s our story from last night where we tackle some pressing questions about Bitcoin and cryptocurrency, starting with: What do those words mean? https://www.youtube.com/watch?v=g6iDZspbRMg\u00a0\u2026pic.twitter.com/B3nOmjUdnD",
+            "username": "LastWeekTonight",
+            "num_likes": 1884,
+            "num_retweets": 488,
+            "num_replies": 113
+        },
+        "972111613133287428": {
+            "id": "972111613133287428",
+            "text": "Impactful talk on Circles and universal/distributed basic income by @MartinLundfall  we need more of this! #EthCCpic.twitter.com/d0snTZiHh1",
+            "username": "jennaszenk",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "971883782344130561": {
+            "id": "971883782344130561",
+            "text": "Nerdiest joke I've heard all month:\n\n\"Did you know that Jesus was pro-choice?\nYou try explaining the loaves and the fishes without using Banach-Tarski.\"\n\n(From: https://etirabys.tumblr.com/post/171671498592/frosty-mage-stuff-spookyoboro-oh-also-someone\u00a0\u2026)",
+            "username": "juliagalef",
+            "num_likes": 538,
+            "num_retweets": 170,
+            "num_replies": 21
+        },
+        "970369005000290304": {
+            "id": "970369005000290304",
+            "text": "\u2018The word \u2018equality\u2019 is practically designed to lead to half-measures and compromise. One can imagine overthrowing capitalism or breaking the power of the state, but it\u2019s very difficult to imagine eliminating \u2018inequality\u2019\u2019 @davidgraeber on point as usual https://www.eurozine.com/change-course-human-history/\u00a0\u2026",
+            "username": "graceblakeley",
+            "num_likes": 42,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "969696146112303105": {
+            "id": "969696146112303105",
+            "text": "Money is a medium. In fact, it is an intermediating phenomenon that biases actions of those who are mediated through its use. Money is not value-neutral, and different moneys mediate differently according to their \"values\". #fc18 #moneyisthemessagehttps://twitter.com/muneeb/status/969558254543036417\u00a0\u2026",
+            "username": "zacharylarson",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "969927355371311105": {
+            "id": "969927355371311105",
+            "text": "Tokens are representations of value, and different token designs encode different values. One of the fundamental problems with our economy is that the value encoded in the design of our monetary system does not accurately reflect the values of our society.",
+            "username": "MartinLundfall",
+            "num_likes": 79,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1120943295344123904": {
+            "id": "1120943295344123904",
+            "text": "Finally, there's a some small easy fixes like explicitly limiting the maximum size of calldata or timestamp, or reserving address space for precompiles \u2013 these are things that most clients do anyway, but bugs crawl in the implicit, and explicitness can also help ewasm design!",
+            "username": "MartinLundfall",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120943293842505728": {
+            "id": "1120943293842505728",
+            "text": "The BEGINDATA opcode from EIP615 is also useful on it's own. Contracts compiled with solidity already includes a bunch of junk, errm... I mean _contract metadata_ in unreachable code blocks: https://solidity.readthedocs.io/en/v0.4.25/metadata.html#encoding-of-the-metadata-hash-in-the-bytecode\u00a0\u2026. BEGINDATA would cleanly separate code from data in EVM bytecode.",
+            "username": "MartinLundfall",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1120943292131291138": {
+            "id": "1120943292131291138",
+            "text": "One way of doing this is by starting with unlimited DUPs and SWAPs https://github.com/ethereum/EIPs/pull/663\u00a0\u2026, and then change these to become GETLOCAL/PUTLOCAL when subroutines are ready. For those of you that have encountered a \"Stack too deep\" error when compiling Solidity \u2013 EIP-663 is your fix!",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1120943290063495175": {
+            "id": "1120943290063495175",
+            "text": "Everybody's favorite \"EVM 1.5\" makes a comeback as https://github.com/ethereum/EIPs/blob/master/EIPS/eip-615.md\u00a0\u2026 by @expede and @greg_colvin. \nStatic jumps and subroutines opens up new windows for compiler and runtime optimizations, as well as making static analysis easier. Some argue that EIP-615 should be split up:",
+            "username": "MartinLundfall",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1120943288331247616": {
+            "id": "1120943288331247616",
+            "text": "Another proposal https://github.com/ethereum/EIPs/blob/98b23466391fa29d631163598f9ee8b71d37f7da/EIPS/eip-1559.md\u00a0\u2026 from Vitalik and @econoar introduces a new mechanism for gas fees: it doubles the block gas limit, while targeting an average of the current 8M via a BASEFEE, common for all txs in a block. While the BASEFEE is burned, miner tips go on toppic.twitter.com/a8vFE8x5UT",
+            "username": "MartinLundfall",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1120943287001653253": {
+            "id": "1120943287001653253",
+            "text": "In the meantime, we will likely see some repricing of opcodes. An analysis by @mhswende shows that the increased disk usage has made storage reads a lot slower, making them a signficant bottleneck of block processing. EIP-1884 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1884.md\u00a0\u2026 quadruples the cost of SLOAD.",
+            "username": "MartinLundfall",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1120943284401078272": {
+            "id": "1120943284401078272",
+            "text": "The proper fix here is arguably state fees, for which a rough plan has been put forth by @realLedgerwatch:\nhttps://ethereum-magicians.org/t/state-fees-formerly-state-rent-pre-eip-proposal-version-3/2654/21\u00a0\u2026\nThis would happen through a series of EIPs, possibly split up into several hard forks. But with EIP deadline fast approaching, we may have to wait...pic.twitter.com/t4U9qJK0ho",
+            "username": "MartinLundfall",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1120943283264479233": {
+            "id": "1120943283264479233",
+            "text": "Following last weeks all core devs meeting in Berlin, here's my wish list of EIPs to be included in the upcoming Instanbul hard fork! \n\nLet's begin with what is becoming an elephant in the room \u2013 the Ethereum state is growing at an alarming rate...",
+            "username": "MartinLundfall",
+            "num_likes": 36,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1120326704017432576": {
+            "id": "1120326704017432576",
+            "text": "When do we start counting the $100M sitting in the EF multisig as \"locked in #defi\"... https://twitter.com/Dharma_HQ/status/1120103904627159041\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1119262603480530946": {
+            "id": "1119262603480530946",
+            "text": "\"Cryptocurrency can reduce inequality\"pic.twitter.com/nJ2CTJ6c56",
+            "username": "MartinLundfall",
+            "num_likes": 82,
+            "num_retweets": 20,
+            "num_replies": 5
+        },
+        "1118941792559407105": {
+            "id": "1118941792559407105",
+            "text": "Tx fees are subject to the same misalignment. Txs incur a social cost on  the network as a whole, but only miners get to pocket the fees. Vitaliks analysis of these dynamics https://github.com/ethereum/research/blob/master/papers/pricing/ethpricing.pdf\u00a0\u2026 motivated EIP-1559 https://github.com/ethereum/EIPs/issues/1559\u00a0\u2026 which mitigates things slightly",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1118941789786910721": {
+            "id": "1118941789786910721",
+            "text": "I'm not saying it's wrong for any project to do so (at least not here :)), but it's important to recognize and distinguish the behavior that is necessary for the system to function from the behavior that comes as a result of other considerations (like how many lambos you want)",
+            "username": "MartinLundfall",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1118941788574756867": {
+            "id": "1118941788574756867",
+            "text": "Although @MakerDAO requires interest on CDPs to achieve stability, it does not require interest to be given to MKR holders\nAlthough @ensdomains requires registration fees to prevent squatting, it does not require giving those fees to some multisig",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1118941787056410624": {
+            "id": "1118941787056410624",
+            "text": "Just because your mechanism design requires making certain things costly doesn't mean that you are entitled to pocketing that money. A properly designed system takes both sides of the equation into account in order to ensure that resource flow is directed to optimal efficiency",
+            "username": "MartinLundfall",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1118819458754256896": {
+            "id": "1118819458754256896",
+            "text": "Learning how to subtweetpic.twitter.com/cbRxuOl7rs",
+            "username": "MartinLundfall",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1113583186922102785": {
+            "id": "1113583186922102785",
+            "text": "Turn everything into trolling and shitpostinghttps://twitter.com/iam_gls/status/1113520179013615619\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1109271909521375232": {
+            "id": "1109271909521375232",
+            "text": "In the question of\n#ProgPoW I would like to delegate my vote to @phildaian",
+            "username": "MartinLundfall",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1107264993114931201": {
+            "id": "1107264993114931201",
+            "text": "When comedy of the commons?",
+            "username": "MartinLundfall",
+            "num_likes": 55,
+            "num_retweets": 10,
+            "num_replies": 6
+        },
+        "1106230409111764992": {
+            "id": "1106230409111764992",
+            "text": "pic.twitter.com/0umnSYYY3c",
+            "username": "MartinLundfall",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1106180588418023425": {
+            "id": "1106180588418023425",
+            "text": "Learn this word, I have a meme I wanna show you!pic.twitter.com/7WLcD4x3tT",
+            "username": "MartinLundfall",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1104827128049213444": {
+            "id": "1104827128049213444",
+            "text": "How to build mutualist organizations:\n1) Fund initial development and setup with demand dividends; investors hold no equity, but receive dividends up to a finite multiple of initial investment\n2) once all is paid off, the org can provide services at operational cost\n3) no profit",
+            "username": "MartinLundfall",
+            "num_likes": 41,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "1103964165457235968": {
+            "id": "1103964165457235968",
+            "text": "Tokenizing \"ideas\" in the form of intellectual property is such a half baked idea its astonishing it wasn't  invented by a crypto developer",
+            "username": "MartinLundfall",
+            "num_likes": 89,
+            "num_retweets": 10,
+            "num_replies": 6
+        },
+        "1103274145536794626": {
+            "id": "1103274145536794626",
+            "text": "\"Following a protocol makes people feel less personally responsible for their actions\" @VladZamfirpic.twitter.com/Z51NJx4Uzo",
+            "username": "MartinLundfall",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1103259321838813184": {
+            "id": "1103259321838813184",
+            "text": "I can really recommend reading David Graebers \"It is value that brings universes into being\" article! It's only 25 pages and gives a very good introduction to the anthropological theory of value https://www.journals.uchicago.edu/doi/pdfplus/10.14318/hau3.2.012\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 15,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103257178209697793": {
+            "id": "1103257178209697793",
+            "text": "Here are the slides for my #ethcc talk \"Objectivity and subjectivity in decentralized systems\"https://docs.google.com/presentation/d/1vw-9QL_Qs78UlHg1lAClA_o0qdRRh7YQAV9hD_mBQnE/edit?usp=sharing\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 39,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1102951925505499136": {
+            "id": "1102951925505499136",
+            "text": "It's happening! Guerilla fv workshop 14:00-15:00 on Thursday! We've got a location about 5 mins away from the venue! Pm for details. I'm thinking roughly 12 people",
+            "username": "MartinLundfall",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "1102641799028527104": {
+            "id": "1102641799028527104",
+            "text": "Scoping for interest in a spontaneous formal verification workshop at #ethcc! Let me know if you are interested!",
+            "username": "MartinLundfall",
+            "num_likes": 52,
+            "num_retweets": 5,
+            "num_replies": 16
+        },
+        "1101139114638880770": {
+            "id": "1101139114638880770",
+            "text": "https://stallman.org/ex-boyfriends-list.html\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101136291213856768": {
+            "id": "1101136291213856768",
+            "text": "Richard Stallman on dating: After reading what you've said about your Ex Boyfriends List, I wonder if you could tell me how to apply for a place in it?\nEric S. Raymond on dating: \nStill think that open source and free software are the same thing?https://twitter.com/isislovecruft/status/1100945217635508224\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1100491008167563265": {
+            "id": "1100491008167563265",
+            "text": "Happy to see EIP615 (static jumps and subroutines) revitalizing and gaining traction! Could bring about a lot of performance gain and serve as a good stepping stone towards Ewasm!https://ethereum-magicians.org/t/eip-615-subroutines-and-static-jumps-for-the-evm/2728\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100370656858906624": {
+            "id": "1100370656858906624",
+            "text": "Looking for WASM or 1.X meetup/workshops around #ethcc, are there any planned?",
+            "username": "MartinLundfall",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1100161883234029573": {
+            "id": "1100161883234029573",
+            "text": "More like digital plutocracieshttps://twitter.com/HughKarp/status/1100037541271605249\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 18,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1100061739708805120": {
+            "id": "1100061739708805120",
+            "text": "I talked my parents into buying a shit ton of batteries for me to put in the aquarium to extract hydrogen to build a zeppelin. After exhausting dozens of batteries I still only had a couple centiliters worth of hydrogen gas so I got bored and set it on fire insteadhttps://twitter.com/KEBrightbill/status/1098106429628694528\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 34,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1096864351116500994": {
+            "id": "1096864351116500994",
+            "text": "My favorite kind of nap is when I accidentally start the stopwatch instead of a timer and try really hard to beat my personal record",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096544811228774400": {
+            "id": "1096544811228774400",
+            "text": "...and replace it with a TRANSFER https://twitter.com/soc1c/status/1096476513409646597\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095987813730930688": {
+            "id": "1095987813730930688",
+            "text": "Calling this a nonce is highly misleading. What should it be called instead? \"The number formerly known as nonce\"?",
+            "username": "MartinLundfall",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 7
+        },
+        "1095985402056491008": {
+            "id": "1095985402056491008",
+            "text": "Since CREATE2-made contracts can be self-destructed and then redeployed at the same address, Constantinople will change the semantics of the nonce of an address from meaning \"A number that can only be used once\" to mean \"A number that can be used as many times I damn well please\"",
+            "username": "MartinLundfall",
+            "num_likes": 30,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "1092821712893284352": {
+            "id": "1092821712893284352",
+            "text": "Tools influence the way we think and act, and make it easier to do certain things. Their placement in the world changes power dynamics. Building tools has ethical implications, distributing tools have ethical implications, using tools have ethical implications",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1091119463276064769": {
+            "id": "1091119463276064769",
+            "text": "Slides for my formal verification presentation at #SBC19:https://docs.google.com/presentation/d/1-NkTBnE8P48BUllwkrz8Dey2BPApQ3-RFi_clSA68M4/edit?usp=sharing\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1090700087817166848": {
+            "id": "1090700087817166848",
+            "text": "\"(Huff) .. might be of some use for anybody looking to write highly optimized EVM code, at the small expense of turning your development experience into Edvard Munch painting.\"https://twitter.com/aztecprotocol/status/1090620878021427200\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090225842599481344": {
+            "id": "1090225842599481344",
+            "text": "Hey I'm sure you're project is cool and all but this EIP show-and-tell blogging is getting ridiculous",
+            "username": "MartinLundfall",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1089365556451512321": {
+            "id": "1089365556451512321",
+            "text": "Trying to figure out whether this is a diss of mumble rap or a praise of documentationhttps://twitter.com/DeanEigenmann/status/1089176792106237954\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1086253417591435274": {
+            "id": "1086253417591435274",
+            "text": "I've got some news for you, RMS...https://twitter.com/StallmanFacts/status/1086251105397420032\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085216812311035904": {
+            "id": "1085216812311035904",
+            "text": "One of the fun things about being a smart contract developer is that you write immutable code with mutable semanticshttps://medium.com/blockchannel/state-specifiers-and-staticcall-d50d5b2e4920\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1084961874280677376": {
+            "id": "1084961874280677376",
+            "text": "People keep mistaking this text based adventure game for some sort of fintech",
+            "username": "MartinLundfall",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1084248647796166656": {
+            "id": "1084248647796166656",
+            "text": "Bringing Monopoly back to its Georgist roots. In the original \"The Landlords Game\", players passed the tile \"Labor upon Mother Earth produces wages\" instead of GO as they received their UBIhttps://twitter.com/VitalikButerin/status/1084169259469615104\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1083568223759593472": {
+            "id": "1083568223759593472",
+            "text": "The KEVM spec is so much more readable and comprehensive than the yellow paper. I very much support making it the canonical evm spechttps://twitter.com/expede/status/1083483160837419008\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1080434488788832257": {
+            "id": "1080434488788832257",
+            "text": "Although 2019 might seem like a fairly small number, it is actually larger than the number of atoms in the universe",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1079818297825259520": {
+            "id": "1079818297825259520",
+            "text": "Happy FOMO day!https://twitter.com/MartinLundfall/status/999658735084736515\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1079410201319624705": {
+            "id": "1079410201319624705",
+            "text": "The state of the art warfare in the post quantum information warshttps://twitter.com/hashbreaker/status/1079047169603190785\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1078849188060950528": {
+            "id": "1078849188060950528",
+            "text": "If one wanted to migrate from crypto twitter as in crypto currency to crypto twitter as in cryptography, who would be some key follows?",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1078058004283568129": {
+            "id": "1078058004283568129",
+            "text": "Obscure the inner workings of our precious financial machine to the feeble click generators and let technocracy forever reign!https://twitter.com/corbpage/status/1078001814333804544\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1077658049589010433": {
+            "id": "1077658049589010433",
+            "text": "Featuring yours trulyhttps://twitter.com/CBRStanford/status/1077581636999495680\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1073645506142855170": {
+            "id": "1073645506142855170",
+            "text": "How to add unicode support in baby names?",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1073643171039637505": {
+            "id": "1073643171039637505",
+            "text": "How to modify Knuth's up-arrow notation so that your debt can be expressed in 140 characters?",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1073642289640206336": {
+            "id": "1073642289640206336",
+            "text": "How to legally change your name to always be written sans-seriff?\nHow to make your political preferences your dating strategy?\nHow to grow avocados 2m below standard sea levels?\nHow to have a positive net worth?\nHow to keep mercury from going into retrograde?",
+            "username": "MartinLundfall",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1073642288482533378": {
+            "id": "1073642288482533378",
+            "text": "The Millenial problems are seven open problems whose solution are rewarded with 1$M by the Clay Mathematics Institute. They include:\n\u2013 How to delete facebook while on an off-the-grid Vipassana retreat?\n\u2013 How to optimize your diet for retweets?",
+            "username": "MartinLundfall",
+            "num_likes": 20,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1073635659980648448": {
+            "id": "1073635659980648448",
+            "text": "Imho, being a good researcher is mainly about being good at analyzing the cost-benefit of learning new concepts. This becomes difficult when things can be:\nBoring to learn, useful to know\nFun to learn, useful to know\nBoring to learn, useless to know\nFun to learn, useless to know",
+            "username": "MartinLundfall",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1070608199890411520": {
+            "id": "1070608199890411520",
+            "text": "Sweden has been 86 days without a government now. And people keep saying it like it's a bad thinghttps://twitter.com/zerohedge/status/1070596211936235521\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1070219339293474817": {
+            "id": "1070219339293474817",
+            "text": "It's much easier to write a program that behaves as intended than to write one that also does not behave as not intended. And don't tell me that's the same thing unless you want me to get on a rant about constructive mathematics",
+            "username": "MartinLundfall",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1059568228328976384": {
+            "id": "1059568228328976384",
+            "text": "Thank you @laurainserra for the most inspirational track at #Devcon4https://twitter.com/raulvk/status/1059478450422067201\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1059112613420904448": {
+            "id": "1059112613420904448",
+            "text": "This is fundamentally due to an overreaction to the double spend problem: while some transactions lead to different results depending on the order of their application, most are independent, and we should only ask that the set of transactions are partially ordered. (6)",
+            "username": "MartinLundfall",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1059113636617244673": {
+            "id": "1059113636617244673",
+            "text": "Are there data structures with similar compression features to Merkle tress, while remaining their parallell nature? I. e. maintaining a constant representation of state while preserving ways to compare elements for independence in the poset? (8)",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1059112735366152192": {
+            "id": "1059112735366152192",
+            "text": "There are multiple examples of data structures in which state updates can be applied concurrently, such as the version control system @pijul_org, and this is of course the goal of many nascent blockchains in development like @rchain_coop and @statebox. (7)",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1059112456759455745": {
+            "id": "1059112456759455745",
+            "text": "A more pressing bottleneck however, which the dapp shares with every distributed system which forces a total ordering of state transitions (a set which includes all blockchains live today) is the lack of parallelizability. (5)",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1059112369396297728": {
+            "id": "1059112369396297728",
+            "text": "So how does Dai perform in other computational resources? In the current implementation, storage grows linearly with usage to deal with the accounting of user balances and CDPs, but this can in theory easily be replaced with a Merkle root to gain constant on chain storage. (4)",
+            "username": "MartinLundfall",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1059112271996166144": {
+            "id": "1059112271996166144",
+            "text": "Even better, computational power increases exponentially with time so now if we set the parameters just right we should be able to construct a system whose real world computational demands remains constant over time, at least until the end of Murphys law. (3)",
+            "username": "MartinLundfall",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1059112174373748742": {
+            "id": "1059112174373748742",
+            "text": "Thankfully, the parameter which it is logarithmic in is time, which flows linearly. (2)",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1059112065275703296": {
+            "id": "1059112065275703296",
+            "text": "The only function with a complexity worse than constant time in the multi collateral Dai system is due to the calculation of interest, which features exponentiation, which is logarithmic. (1)",
+            "username": "MartinLundfall",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1055461177839570944": {
+            "id": "1055461177839570944",
+            "text": "Preparing slides for @dapphub and @rv_inc's formal verification workshop at #devcon4! Let's hack into that EVM mainframe!pic.twitter.com/jJqnAvZ5tH",
+            "username": "MartinLundfall",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1055194629111459841": {
+            "id": "1055194629111459841",
+            "text": "Stay as the king of the throne forever: https://etherscan.io/address/0x2910536d9d858760c440d89f7a3821a77708933c#code\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1055193637276008448": {
+            "id": "1055193637276008448",
+            "text": "Who wants to hack some ethereum pyramid schemes using this exploit?https://twitter.com/maurelian_/status/1055081970571460609\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1051388093679300609": {
+            "id": "1051388093679300609",
+            "text": "Constantinople fork results in testnet trident https://twitter.com/soc1c/status/1051194779890003974\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1050512833698455552": {
+            "id": "1050512833698455552",
+            "text": "Link to my slides from CESC:https://docs.google.com/presentation/d/1S7MDPNU9lN7qv6czgR3wI6Lj3_DCfD-p_pR56g2bg_s/edit?usp=sharing\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1046869180904067073": {
+            "id": "1046869180904067073",
+            "text": "Safely transfer ether from a contract without side effects with this one weird trick!pic.twitter.com/EvFmhVSX8B",
+            "username": "MartinLundfall",
+            "num_likes": 65,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1041797501718880257": {
+            "id": "1041797501718880257",
+            "text": "Not all is formally verified yet, but much of it is! Check out https://github.com/dapphub/k-dss\u00a0 to track the formal verification process!https://twitter.com/MakerDAO/status/1041795771639652353\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 26,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1041101811615191040": {
+            "id": "1041101811615191040",
+            "text": "How to start a fighthttps://twitter.com/felixsalmon/status/1041014621195460609\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1037745243934941185": {
+            "id": "1037745243934941185",
+            "text": "I'm sure there is a strict increase in followers of crypto twitter birds, but I bet the derivative over time has some strong correlation to the pricehttps://twitter.com/NeerajKA/status/1037720683697119234\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1032968438258446337": {
+            "id": "1032968438258446337",
+            "text": "Abrahamic religions in particular keep returning to the image of a shepherd governing his aimless sheep as if to comfort us with the idea that we never have to be self reliant",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 5
+        },
+        "1032968174768087040": {
+            "id": "1032968174768087040",
+            "text": "Despite the claims of the universality of this angst asserted by existentialists, I wonder how much of this is particularly rooted in Western culture",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1032967988620668928": {
+            "id": "1032967988620668928",
+            "text": "I'm starting to think that a major hurdle for anarchism becoming more widespread is peoples fear of being in control of their own destiny",
+            "username": "MartinLundfall",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1027789677745594368": {
+            "id": "1027789677745594368",
+            "text": "I dreamt of people wearing these shiny silver tracksuits (sort of like an adult versions of this outfit) that were known as 'very room suits'pic.twitter.com/iXMuVF8dXI",
+            "username": "MartinLundfall",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1023239643679084544": {
+            "id": "1023239643679084544",
+            "text": "This is precisely the kind of activism we need in order for people to realize the absurdity of intellectual property rights: open-source lab reactor for DIY medication synthesis https://fourthievesvinegar.org/\u00a0",
+            "username": "MartinLundfall",
+            "num_likes": 32,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1018308025390489600": {
+            "id": "1018308025390489600",
+            "text": "Sorry for carrying so much luggage, I didn't have time to pack lightly.",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1012510959263416322": {
+            "id": "1012510959263416322",
+            "text": "My paper \"A diagram model of linear dependent type theory\" is now available at https://arxiv.org/abs/1806.09593\u00a0. The image displays the interplay between the quantifier adjunctions and the !-modality of LL decomposed as an adjunction between linear and \"cartesian\" types.pic.twitter.com/o2exfkFizh",
+            "username": "MartinLundfall",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1010029849170178048": {
+            "id": "1010029849170178048",
+            "text": "damn platonistshttps://twitter.com/dominictarr/status/641372150830530560\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1010019191259213824": {
+            "id": "1010019191259213824",
+            "text": "#violence is the destruction of subjectivity",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1010018913252343809": {
+            "id": "1010018913252343809",
+            "text": "#violence is detected by elevated cortisol levels \u2014 @RealZandy",
+            "username": "MartinLundfall",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1010018447219089409": {
+            "id": "1010018447219089409",
+            "text": "#violence is an unwanted state change \u2014 @zacharylarson",
+            "username": "MartinLundfall",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1008257997171253248": {
+            "id": "1008257997171253248",
+            "text": "In dealing with new technology we often finds ourselves in the #Schr\u00f6dingeresque scenario where certain behavior is neither legal nor illegal until there has been a court ruling observing it",
+            "username": "MartinLundfall",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1002890487114723328": {
+            "id": "1002890487114723328",
+            "text": "It's hard to think of anything more quintessential than Ether.\n#ProofByEtymologypic.twitter.com/WBS9uoSBNS",
+            "username": "MartinLundfall",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "999658735084736515": {
+            "id": "999658735084736515",
+            "text": "Fear of death is just another form of FOMO",
+            "username": "MartinLundfall",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "996687317954949120": {
+            "id": "996687317954949120",
+            "text": "Ethereum miners are incentivized to write solidity compilers maximizing the gas inefficiency of the generated bytecode  #conspiracy",
+            "username": "MartinLundfall",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "996402090883854336": {
+            "id": "996402090883854336",
+            "text": "Code is not law \u2013 law is code. \nIt is a project aiming to formalize and institutionalize our societal and cultural codes of conduct. It's also pretty hacky, full of technical debt and in dire need of refactoring",
+            "username": "MartinLundfall",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "991405880028614657": {
+            "id": "991405880028614657",
+            "text": "So much time and effort spent analysing market behavior, so little acknowledgement of the property rights forming its foundation",
+            "username": "MartinLundfall",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991124793264099328": {
+            "id": "991124793264099328",
+            "text": "Why does twitter take such a fundamental stance on #immutability? Come on man, I just wanna edit some typos",
+            "username": "MartinLundfall",
+            "num_likes": 17,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "990533183908216832": {
+            "id": "990533183908216832",
+            "text": "The outcome from the imperative vs  functional formal verification challenge:https://www.hillelwayne.com/post/theorem-prover-showdown/\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 64,
+            "num_retweets": 11,
+            "num_replies": 5
+        },
+        "987322068567035904": {
+            "id": "987322068567035904",
+            "text": "Mathematics is becoming cooler everyday. Any second now I expect kids to add fake chalk stains to their jeans to seem as if they have been churning out theorems all day at the blackboard",
+            "username": "MartinLundfall",
+            "num_likes": 20,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "975202198220165120": {
+            "id": "975202198220165120",
+            "text": "Contrapositive Poe's law; no matter how sincerely written text on the internet, it is impossible to be sure it isnt a parody.\nhttps://www.biblepay.org\u00a0https://twitter.com/VladZamfir/status/974979507630243842\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "973520000953782273": {
+            "id": "973520000953782273",
+            "text": "How do we create a society in which wealth does not entail power over others?",
+            "username": "MartinLundfall",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 12
+        },
+        "972126925299830785": {
+            "id": "972126925299830785",
+            "text": "https://docs.google.com/presentation/d/e/2PACX-1vSLjM_lLnKauRAsE7gdN2H2wc5pFfW224Bkb_B4OXRJpGF-lpHxZULozdqFIY-vpBnbQB-u-zSRA7A0/pub?start=false&loop=false&delayms=3000\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "972091045633777664": {
+            "id": "972091045633777664",
+            "text": "Here are the slides for my presentation on Circles @ #EthCC!",
+            "username": "MartinLundfall",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "970772914130833409": {
+            "id": "970772914130833409",
+            "text": "I used to not understand recreational Sudoku solvers as it's clearly just a matter of blindly following an algorithm. But ever since I learned that this algorithm is NP-complete I like to imagine that they actually searching for a polynomial solution and recreationally prove N=NP",
+            "username": "MartinLundfall",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "970299396893106176": {
+            "id": "970299396893106176",
+            "text": "Whenever someone casually claims two topics to be orthogonal to each other, I always hope that they will continue to outline the entire vector space so we can figure where to go.",
+            "username": "MartinLundfall",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "969929176118591489": {
+            "id": "969929176118591489",
+            "text": "When confronted with this discrepancy, the political response has been to try to shift the values of our society closer to the encoding. The technological response is to design a monetary system that better captures our notions of value. #UBI #Circles",
+            "username": "MartinLundfall",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "969674628946898944": {
+            "id": "969674628946898944",
+            "text": "I'll be giving a talk on Circles \u2013 Universal basic income on the blockchain at EthCC on the 9th! Looking forward to meeting many of you there! https://twitter.com/evan_van_ness/status/969413757523955712\u00a0\u2026",
+            "username": "MartinLundfall",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "969672119192825857": {
+            "id": "969672119192825857",
+            "text": "If I'm not mistaken, an easy way to ensure everything you say will be an unquestionable tautology is to prelude your statements with \"If I'm not mistaken\".\n#HelloWorld #intuitionism #logic #wittgenstein",
+            "username": "MartinLundfall",
+            "num_likes": 35,
+            "num_retweets": 7,
+            "num_replies": 4
+        }
+    },
+    "not_retweeted": {},
+    "num_retweets_by_originator": {
+        "cdetrio": 1,
+        "neauoire": 1,
+        "hjortgjort": 1,
+        "HRitzdorf": 1,
+        "ricburton": 2,
+        "Suitpossum": 2,
+        "willprice221": 1,
+        "liamzebedee": 1,
+        "isthisanart_": 1,
+        "melonprotocol": 1,
+        "zeroknowledgefm": 1,
+        "MyCrypto": 1,
+        "VladZamfir": 3,
+        "technocrypto": 1,
+        "mhswende": 1,
+        "scottsantens": 1,
+        "aztecprotocol": 1,
+        "ethmarek": 1,
+        "Josh_McGee_G": 1,
+        "vastabrupt": 1,
+        "johncarlosbaez": 1,
+        "ethereum": 1,
+        "paddykcl": 1,
+        "mauricechiodo": 1,
+        "haydenzadams": 1,
+        "maurelian_": 1,
+        "ashleighschap": 1,
+        "_charlienoyes": 1,
+        "phildaian": 2,
+        "itsjefftong": 1,
+        "georgevreilly": 1,
+        "KeatonPatti": 1,
+        "izmeckler": 1,
+        "EricHolthaus": 1,
+        "PhilosophyCuck": 1,
+        "RyanSAdams": 1,
+        "MakerDAO": 1,
+        "ticky": 1,
+        "mhhf": 1,
+        "lopp": 1,
+        "sclv": 1,
+        "nicksdjohnson": 1,
+        "icowid": 1,
+        "AstroKatie": 1,
+        "yaoeo": 1,
+        "lrettig": 1,
+        "LastWeekTonight": 1,
+        "jennaszenk": 1,
+        "juliagalef": 1,
+        "graceblakeley": 1,
+        "zacharylarson": 1
+    },
+    "users_retweeted": [
+        "VladZamfir",
+        "ricburton",
+        "Suitpossum",
+        "phildaian",
+        "cdetrio",
+        "neauoire",
+        "hjortgjort",
+        "HRitzdorf",
+        "willprice221",
+        "liamzebedee",
+        "isthisanart_",
+        "melonprotocol",
+        "zeroknowledgefm",
+        "MyCrypto",
+        "technocrypto",
+        "mhswende",
+        "scottsantens",
+        "aztecprotocol",
+        "ethmarek",
+        "Josh_McGee_G",
+        "vastabrupt",
+        "johncarlosbaez",
+        "ethereum",
+        "paddykcl",
+        "mauricechiodo",
+        "haydenzadams",
+        "maurelian_",
+        "ashleighschap",
+        "_charlienoyes",
+        "itsjefftong",
+        "georgevreilly",
+        "KeatonPatti",
+        "izmeckler",
+        "EricHolthaus",
+        "PhilosophyCuck",
+        "RyanSAdams",
+        "MakerDAO",
+        "ticky",
+        "mhhf",
+        "lopp",
+        "sclv",
+        "nicksdjohnson",
+        "icowid",
+        "AstroKatie",
+        "yaoeo",
+        "lrettig",
+        "LastWeekTonight",
+        "jennaszenk",
+        "juliagalef",
+        "graceblakeley",
+        "zacharylarson"
+    ]
+}

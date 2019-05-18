@@ -1,0 +1,552 @@
+{
+    "is_complete": true,
+    "username": "g3rh4rdw4gn3r",
+    "retweeted": {
+        "1119583819311587328": {
+            "id": "1119583819311587328",
+            "text": "I just published A Deep Dive into the MythX Smart Contract Security Analysis APIhttps://link.medium.com/Qagr0hHB2V\u00a0",
+            "username": "muellerberndt",
+            "num_likes": 30,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1105779612284407808": {
+            "id": "1105779612284407808",
+            "text": "I just published The Tech Behind MythX Smart Contract Security Analysishttps://link.medium.com/g5pb1gQn1U\u00a0",
+            "username": "muellerberndt",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1102990779230769152": {
+            "id": "1102990779230769152",
+            "text": "MythX is here! Our public beta has now launched. For a limited time, you can use our security analysis service for your smart contracts free of charge. We can't wait to have you try it out! More info here: https://medium.com/consensys-diligence/mythx-is-real-f3fafd86685e\u00a0\u2026pic.twitter.com/WFs2b9ikn0",
+            "username": "mythx_platform",
+            "num_likes": 48,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "1098906109354565633": {
+            "id": "1098906109354565633",
+            "text": "Truffle Security v1.1.1 is out! Run \"npm install -g truffle-security\" to instantly add security verification to your @trufflesuite environment.https://github.com/ConsenSys/truffle-security/releases/tag/v1.1.1\u00a0\u2026",
+            "username": "mythx_platform",
+            "num_likes": 36,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1096509955081887744": {
+            "id": "1096509955081887744",
+            "text": "Our public beta is launching March 1, 2019! Get excited, because we are! More info to come soon.pic.twitter.com/CHMSoFYoJc",
+            "username": "mythx_platform",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1095357156486987776": {
+            "id": "1095357156486987776",
+            "text": "#Solidity 0.5.4 released featuring colours, calldata structs for ABIEncoderV2 (your days are numbered, stack-too-deep-error!) and other goodies!pic.twitter.com/7Jfbls6PE7",
+            "username": "ethchris",
+            "num_likes": 129,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "1094845472504569862": {
+            "id": "1094845472504569862",
+            "text": "Keen on earning a few hundred $DAI? Write a security analysis plugin for Remix IDE and claim the bounty (please PM us on Twitter or Discord first to get the go-ahead as we can pay the bounty to only one person / team).https://explorer.bounties.network/bounty/2308\u00a0",
+            "username": "mythx_platform",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1076359317035466752": {
+            "id": "1076359317035466752",
+            "text": "MythX Platform and the Smart Contract SDLC from Hi-Ether Japan keynote.https://youtu.be/5bXWnDuIYQs\u00a0",
+            "username": "EtherDotBlue",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1073112946820009984": {
+            "id": "1073112946820009984",
+            "text": "We are proud to announce that Mythril Platform is now MythX Platform. We would have preferred Mythg\u00e5rd but that's already a video game.pic.twitter.com/NR3tVZXO6Z",
+            "username": "mythx_platform",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1070517631495495681": {
+            "id": "1070517631495495681",
+            "text": "We just made 1,100 Github stars and 260,000 total downloads (Pypi + Dockerhub). Staying true to the \"#buidl first, Hodl later\" strategy! cc @ConsenSys https://github.com/ConsenSys/mythril-classic/\u00a0\u2026pic.twitter.com/RKOjkGeGHe",
+            "username": "mythx_platform",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1058397458676543488": {
+            "id": "1058397458676543488",
+            "text": "The @C_Diligence team held a 'How To Not Get Rekt' workshop this week at #Devcon4, where experienced code auditors like @GNSPS gave hands-on advice to new smart contract devs. Teaching security best practices will be critical to maturing #Ethereum infrastructure.pic.twitter.com/6hy291ku8G",
+            "username": "ethereumJoseph",
+            "num_likes": 63,
+            "num_retweets": 15,
+            "num_replies": 5
+        },
+        "1055439917113761792": {
+            "id": "1055439917113761792",
+            "text": "Our epic 4-hour security workshop \"How to Not Get Rekt\" takes place on Nov. 2nd, 10:00am - 2:30pm at #Devcon4. Bring some Ropsten $ETH and your hacker's hat.pic.twitter.com/viyR5XFziB",
+            "username": "mythx_platform",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1052449965522456576": {
+            "id": "1052449965522456576",
+            "text": "Can you extract the 0.1337 $ETH from this smart contract? Tip: You can solve this with the open-source version of @mythril_tool\n\nhttps://etherscan.io/address/0xe24590e4ca1caacd2122cf8bafb04dcf862ff935\u00a0\u2026pic.twitter.com/1sz31APKVq",
+            "username": "muellerberndt",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1050511376320360448": {
+            "id": "1050511376320360448",
+            "text": "\u201cDiscovering Signature Verification Bugs in Ethereum Smart Contracts\u201d by @g3rh4rdw4gn3rhttps://medium.com/@gerhard.wagner/discovering-signature-verification-bugs-in-ethereum-smart-contracts-424a494c6585\u00a0\u2026",
+            "username": "muellerberndt",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1044509782713892869": {
+            "id": "1044509782713892869",
+            "text": "T-2 weeks to the TruffleCon talk: Securing the Ethereum smart contract SDLC with @trufflesuite & Mythril Platform. Get your ticket here http://trufflecon2018.eventbrite.com/\u00a0pic.twitter.com/ZpvfC9ONVW",
+            "username": "mythx_platform",
+            "num_likes": 7,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1038841141871996928": {
+            "id": "1038841141871996928",
+            "text": "Congrats to @maurelian_, @smarx, @VladZamfir for their winning @ETHBerlin POC: Three Ethereum Virtual Machine's running on three separate shards. Check out the GitHub to contribute\nhttps://github.com/smarx/ethshardingpoc\u00a0\u2026 #scaling #berlinblockchainweek @C_Diligencepic.twitter.com/3ourTw9TBk",
+            "username": "ConsenSys",
+            "num_likes": 180,
+            "num_retweets": 39,
+            "num_replies": 5
+        },
+        "1032356397881614336": {
+            "id": "1032356397881614336",
+            "text": "1) Collaboration is @ethereum's major strength.  In four months, the ETHSecurity community has grown to 138 members with auditors, DAPPs, opsec experts, researchers and @ethprize and @ethereumecf",
+            "username": "robbiebent1",
+            "num_likes": 160,
+            "num_retweets": 42,
+            "num_replies": 1
+        },
+        "1029711793105588226": {
+            "id": "1029711793105588226",
+            "text": "Just published eth-mutants, a mutation testing tool for Solidity contracts. Try it out!https://github.com/federicobond/eth-mutants\u00a0\u2026",
+            "username": "federicobond",
+            "num_likes": 24,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1030947860894896133": {
+            "id": "1030947860894896133",
+            "text": "You know what's LEET? Subscriptions models for our dapps.https://github.com/ethereum/EIPs/pull/1337\u00a0\u2026",
+            "username": "MarkBeylin",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1030513199089471488": {
+            "id": "1030513199089471488",
+            "text": "On #TruffleCon2018, the Mythril team will show novel ways of running security verification in @trufflesuite. That's just one of many awesome talks and workshops.https://truffleframework.com/trufflecon2018#speakers\u00a0\u2026",
+            "username": "mythx_platform",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1021376703304818689": {
+            "id": "1021376703304818689",
+            "text": "Not sure whether to laugh or cry :)) FoMo3d contract on #Ethereum mainnet ($12M) being exit scammed due to their buggy code ;) For now only the airdrops are nuked.\n\nhttps://etherscan.io/txs?a=0x73b61a56cb93c17a1f5fb21c01cfe0fb23f132c3\u00a0\u2026\n\nDear devs... you can't generate random numbers on chain! ",
+            "username": "peter_szilagyi",
+            "num_likes": 236,
+            "num_retweets": 81,
+            "num_replies": 18
+        },
+        "1018982813230665729": {
+            "id": "1018982813230665729",
+            "text": "Check out \"Auditing Ethereum Solidity Smart Contracts with Mythril and Oyente\" https://www.eventbrite.com/e/auditing-ethereum-solidity-smart-contracts-with-mythril-and-oyente-tickets-48005502751?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=estw&utm-source=tw&utm-term=listing\u00a0\u2026 @Eventbrite",
+            "username": "muellerberndt",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1016337610787180545": {
+            "id": "1016337610787180545",
+            "text": "Panvala is a decentralized system that helps participants mark smart contracts that are safer than others.https://medium.com/panvala/introducing-panvala-8cb9db97c316\u00a0\u2026",
+            "username": "PanvalaMark",
+            "num_likes": 23,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1017066688108552192": {
+            "id": "1017066688108552192",
+            "text": "We just sent a new batch of approvals. More hackers, more trouble, more #BUIDL, more fun. The level that these guys are bringing is super high and we had entire teams from the most exciting dApps joining to HACK THE PLANET! we're pointing at you @0xProject @AuctusProject ;)pic.twitter.com/euzoku9YBw",
+            "username": "ETHBerlin",
+            "num_likes": 43,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1016655273077993472": {
+            "id": "1016655273077993472",
+            "text": "Auditing an Interactive Crowdsale (IICO) with ConsenSys Diligencehttps://media.consensys.net/interactive-crowdsale-iico-audit-5307e4d3b897\u00a0\u2026",
+            "username": "EthereumNetw",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1009858170456600576": {
+            "id": "1009858170456600576",
+            "text": "On the most recent episode of The Smartest Contract, I chatted with @g3rh4rdw4gn3r from @ConsenSys Diligence. We chatted about smart contract security best practices, tools for security and on-chain honeypots.\n\nConclusion: Teams should audit as they code.http://www.thesmartestcontract.com/\u00a0",
+            "username": "itsjefftong",
+            "num_likes": 13,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1009027874538520576": {
+            "id": "1009027874538520576",
+            "text": "If you use Remix a lot for its debugging capabilities check this graphical debugger from Fernando: https://github.com/fergarrui/ethereum-graph-debugger\u00a0\u2026\n\nWe need more of this! ",
+            "username": "GNSPS",
+            "num_likes": 25,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1002368651310321666": {
+            "id": "1002368651310321666",
+            "text": " Featured job opportunity \nSmart Contract Auditor / Security Engineer at ConsenSys Diligence\n\nApply now  https://cjl.ist/2xvapxA\u00a0\n@ConsenSys #CryptoJobs #BlockchainJobs #BitcoinJobs #JobSearch #Careers #HiringNow #FinTech #job #HR #ConsenSysDiligence",
+            "username": "CryptoJobsList",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "996156021985955841": {
+            "id": "996156021985955841",
+            "text": "Love me a good hack:http://bit.ly/2GhQ5ii\u00a0",
+            "username": "DZack23",
+            "num_likes": 16,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "990560090188005381": {
+            "id": "990560090188005381",
+            "text": "Video of my talk on #Ethereum smart contract security analysis at @HITBSecConfhttps://youtu.be/iqf6epACgds\u00a0",
+            "username": "muellerberndt",
+            "num_likes": 69,
+            "num_retweets": 28,
+            "num_replies": 2
+        },
+        "998538096307331072": {
+            "id": "998538096307331072",
+            "text": "DSLs for Ethereum Smart Contracts: https://www.michaelburge.us/2018/05/15/ethereum-chess-engine.html\u00a0\u2026",
+            "username": "maurelian_",
+            "num_likes": 25,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "956164448322031616": {
+            "id": "956164448322031616",
+            "text": "No idea what this game is called, but whoever made it, is the devil.pic.twitter.com/Ec98aGXSDD",
+            "username": "Steve_OS",
+            "num_likes": 178624,
+            "num_retweets": 96379,
+            "num_replies": 4074
+        },
+        "993723591949565952": {
+            "id": "993723591949565952",
+            "text": "Our first blog post is out: Read about the \"3 Annoying Security Speed Bumps on the DevOps Highway\" here:  https://medium.com/guardrails/3-annoying-security-speed-bumps-on-the-devops-highway-835ce4aace1\u00a0\u2026 #DevSecOps #DevOps #AppSec #GuardRails",
+            "username": "guardrailsio",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "992808122686345216": {
+            "id": "992808122686345216",
+            "text": "Couldn\u2019t  my team more! Much respect to @maurelian_ & @muellerberndt ! @C_Diligence is building tools that work *today* and simply kick ass!pic.twitter.com/tBHNfwBxbY",
+            "username": "GNSPS",
+            "num_likes": 18,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "987980745628045313": {
+            "id": "987980745628045313",
+            "text": "We're doing our part to help adoption! https://www.reddit.com/r/CryptoCurrency/comments/8e22j8/catmosphere_cat_caf\u00e9_chiang_mai_now_accepts/\u00a0\u2026pic.twitter.com/m4JVsLtgJq",
+            "username": "muellerberndt",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "985418396174049281": {
+            "id": "985418396174049281",
+            "text": "Parity Wallet library rescue EIP was just created https://github.com/ethereum/EIPs/pull/999\u00a0\u2026",
+            "username": "izqui9",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "985964352040783874": {
+            "id": "985964352040783874",
+            "text": "These are my reasons for opposing EIP-999. \n\nhttps://ethereum-magicians.org/t/eip-999-restore-contract-code-at-0x863df6bfa4/130/21?u=maurelian\u00a0\u2026pic.twitter.com/vIRQNjacba",
+            "username": "maurelian_",
+            "num_likes": 55,
+            "num_retweets": 14,
+            "num_replies": 7
+        },
+        "986141734890627072": {
+            "id": "986141734890627072",
+            "text": "Dynamic returns, revert error messages, safer constructors, ABI encoding utils and tons more: #Solidity 0.4.22 released: https://github.com/ethereum/solidity/releases/tag/v0.4.22\u00a0\u2026 #Ethereum",
+            "username": "ethchris",
+            "num_likes": 93,
+            "num_retweets": 53,
+            "num_replies": 5
+        },
+        "983726486346645504": {
+            "id": "983726486346645504",
+            "text": "Posted the inside story behind how my buddy and I made ~$100K trading @CryptoKitties. Making a record-setting blockchain collectible sale, running an automated arbitrage bot, all the fun stuff.https://hackernoon.com/how-we-made-100k-trading-cryptokitties-2d69aebe715b\u00a0\u2026",
+            "username": "IvanBogatyy",
+            "num_likes": 335,
+            "num_retweets": 102,
+            "num_replies": 11
+        },
+        "982194680258486273": {
+            "id": "982194680258486273",
+            "text": "8. Better white paper writing capability (Ctrl+C + Ctrl+V much higher efficiency than keyboard typing new content)",
+            "username": "VitalikButerin",
+            "num_likes": 8583,
+            "num_retweets": 1386,
+            "num_replies": 623
+        },
+        "981718300714389504": {
+            "id": "981718300714389504",
+            "text": "Vulnerability Modeling with Binary Ninja (Part 3) : https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/\u00a0\u2026 , Part 2 : Devirtualizing C++ with Binary Ninja : https://blog.trailofbits.com/2017/02/13/devirtualizing-c-with-binary-ninja/\u00a0\u2026 , Part 1 : Breaking Down Binary Ninja\u2019s Low Level IL : https://blog.trailofbits.com/2017/01/31/breaking-down-binary-ninjas-low-level-il/\u00a0\u2026pic.twitter.com/oFtrUQiFrf",
+            "username": "binitamshah",
+            "num_likes": 180,
+            "num_retweets": 91,
+            "num_replies": 1
+        },
+        "981758349212467202": {
+            "id": "981758349212467202",
+            "text": "This fancy symbolic debugger for Ethereum bytecode is one of the tools I'll be showing on @HITBSecConf.pic.twitter.com/aL3tK6O1PC",
+            "username": "muellerberndt",
+            "num_likes": 105,
+            "num_retweets": 45,
+            "num_replies": 2
+        },
+        "977795115912605696": {
+            "id": "977795115912605696",
+            "text": "Reversing Ethereum Smart Contracts : https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/\u00a0\u2026 cc @arvanaghipic.twitter.com/iVZd7VjkrB",
+            "username": "binitamshah",
+            "num_likes": 97,
+            "num_retweets": 42,
+            "num_replies": 0
+        },
+        "976066416267939840": {
+            "id": "976066416267939840",
+            "text": "Good morning Twitter. This post about Ledger cryptocurrency hardware wallet vulnerabilities is extremely cool, and not just for cryptocurrency people. Let me talk a bit about it. 1/https://saleemrashid.com/2018/03/20/breaking-ledger-security-model/\u00a0\u2026",
+            "username": "matthew_d_green",
+            "num_likes": 1559,
+            "num_retweets": 844,
+            "num_replies": 29
+        },
+        "976522651123433473": {
+            "id": "976522651123433473",
+            "text": "Good-guy security researcher of the day goes to Jesse Lakerveld, who is happy with a $10K bounty vs. exploiting a bug in Coinbase to net himself as much ETH as Coinbase had on hand.https://www.vicompany.nl/magazine/from-christmas-present-in-the-blockchain-to-massive-bug-bounty\u00a0\u2026",
+            "username": "dappsec",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1116853322042843136": {
+            "id": "1116853322042843136",
+            "text": "Check out our bounties from @mythx_platform build awesome tools, earn prizes in DAI and get revenue share!https://twitter.com/EtherDotBlue/status/1116479691546746880\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090892111061217281": {
+            "id": "1090892111061217281",
+            "text": "https://twitter.com/muellerberndt/status/1090665609308696576\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1070502943109967872": {
+            "id": "1070502943109967872",
+            "text": "Thanks to all contributors of the https://github.com/SmartContractSecurity/SWC-registry\u00a0\u2026 for agreeing on the license change from GPL. It is now available under the more permissive MIT license.",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1050194798160695296": {
+            "id": "1050194798160695296",
+            "text": "I totally agree with that statement!https://twitter.com/muellerberndt/status/1050156586079944704\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1044413122423836672": {
+            "id": "1044413122423836672",
+            "text": "The contract: https://github.com/SmartContractSecurity/SWC-registry/blob/3397260e44fbbd29a898821a265abaa8218c226e/test_cases/transaction_malleability/transaction_malleablity.sol\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1044413120536399872": {
+            "id": "1044413120536399872",
+            "text": "Someone posted this contract to the SWC-registry. I wondering ...  when A has a valid txid in signatureUsed, can B create a complementary signature from A's transaction and successfully execute it even though he does not have A's private key @maurelian_ @GNSPS @muellerberndt ?",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1040148476766478337": {
+            "id": "1040148476766478337",
+            "text": "Auditing the 0x Protocol v2 with ConsenSys Diligencehttps://media.consensys.net/auditing-the-0x-protocol-v2-with-consensys-diligence-a52995407730\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1019441455629103105": {
+            "id": "1019441455629103105",
+            "text": "\u201cSo you think you want to be a core developer?\u201d by @lrettighttps://medium.com/crypto-nyc/so-you-think-you-want-to-be-a-core-developer-87cca2cb475e?source=twitterShare-17f0f0277bc9-1531888752\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1016458448173580288": {
+            "id": "1016458448173580288",
+            "text": "https://mobile.twitter.com/bancor/status/1016420621666963457?s=21\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1015428161415213056": {
+            "id": "1015428161415213056",
+            "text": "\u201cThe Mental and Metaphysical Effects of Microdosing LSD\u201d by @ericaaveyhttps://medium.com/s/story/the-mental-and-metaphysical-effects-of-microdosing-lsd-72819896215d\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1013613859083436032": {
+            "id": "1013613859083436032",
+            "text": "\u201cMissing return value bug \u2014 At least 130 tokens affected\u201d by Lukas Cremerhttps://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca?source=twitterShare-17f0f0277bc9-1530499341\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1002124430015787008": {
+            "id": "1002124430015787008",
+            "text": "\u201cUS Dollar Audit\u201d by @ZeppelinOrghttps://blog.zeppelin.solutions/us-dollar-audit-90dbcbb0258f\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "986119191995367424": {
+            "id": "986119191995367424",
+            "text": "Requesting faucet funds into 0xd850636636e82A0e7ea6951650B69b8e3243DaDB on the #Rinkeby #Ethereum test network.",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "979277495504482304": {
+            "id": "979277495504482304",
+            "text": "Requesting faucet funds into 0x45bB4D65d0a9B26699300fFE2aebaEAa28bC6C45 on the #Rinkeby #Ethereum test network.",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "976247084734078976": {
+            "id": "976247084734078976",
+            "text": "https://medium.com/@gerhard.wagner/the-phenomena-of-smart-contract-honeypots-755c1f943f7b\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "946270656781475840": {
+            "id": "946270656781475840",
+            "text": "https://medium.com/@montedong/towards-cracking-crypto-kitties-genetic-code-629fcd37b09b\u00a0\u2026",
+            "username": "g3rh4rdw4gn3r",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "muellerberndt": 8,
+        "mythx_platform": 9,
+        "ethchris": 2,
+        "EtherDotBlue": 1,
+        "ethereumJoseph": 1,
+        "ConsenSys": 1,
+        "robbiebent1": 1,
+        "federicobond": 1,
+        "MarkBeylin": 1,
+        "peter_szilagyi": 1,
+        "PanvalaMark": 1,
+        "ETHBerlin": 1,
+        "EthereumNetw": 1,
+        "itsjefftong": 1,
+        "GNSPS": 2,
+        "CryptoJobsList": 1,
+        "DZack23": 1,
+        "maurelian_": 2,
+        "Steve_OS": 1,
+        "guardrailsio": 1,
+        "izqui9": 1,
+        "IvanBogatyy": 1,
+        "VitalikButerin": 1,
+        "binitamshah": 2,
+        "matthew_d_green": 1,
+        "dappsec": 1
+    },
+    "users_retweeted": [
+        "mythx_platform",
+        "muellerberndt",
+        "ethchris",
+        "GNSPS",
+        "maurelian_",
+        "binitamshah",
+        "EtherDotBlue",
+        "ethereumJoseph",
+        "ConsenSys",
+        "robbiebent1",
+        "federicobond",
+        "MarkBeylin",
+        "peter_szilagyi",
+        "PanvalaMark",
+        "ETHBerlin",
+        "EthereumNetw",
+        "itsjefftong",
+        "CryptoJobsList",
+        "DZack23",
+        "Steve_OS",
+        "guardrailsio",
+        "izqui9",
+        "IvanBogatyy",
+        "VitalikButerin",
+        "matthew_d_green",
+        "dappsec"
+    ]
+}

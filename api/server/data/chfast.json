@@ -1,0 +1,380 @@
+{
+    "is_complete": true,
+    "username": "chfast",
+    "retweeted": {
+        "1123281505344741377": {
+            "id": "1123281505344741377",
+            "text": "Welcome to the beginning of a new http://ethereum.org\u00a0. Built by the community, for the community.https://blog.ethereum.org/2019/04/30/beginning-a-new-ethereum-org/\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 795,
+            "num_retweets": 258,
+            "num_replies": 54
+        },
+        "1114732776824160256": {
+            "id": "1114732776824160256",
+            "text": "just dropped a post on ethresearch, \"Phase One and Done: eth2 as a data availability engine\".  was a shower thought I had the other day, hope its viable!https://ethresear.ch/t/phase-one-and-done-eth2-as-a-data-availability-engine/5269\u00a0\u2026",
+            "username": "cdetrio",
+            "num_likes": 38,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1103248651672043525": {
+            "id": "1103248651672043525",
+            "text": "A few #ethereum miners are wasting energy on old chain, please update asap:https://gist.github.com/holiman/f3373c9592f69c7ce7026ed844f7d066\u00a0\u2026",
+            "username": "mhswende",
+            "num_likes": 31,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1072034605266595841": {
+            "id": "1072034605266595841",
+            "text": "2018 was the first year in Ethereum's history where client devs had time to fix their shit instead of rushing out more features. Best year so far :D https://twitter.com/k4l1r/status/1071721529128423424\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 120,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1067500961554472960": {
+            "id": "1067500961554472960",
+            "text": "is there anything more aesthetically pleasing than the food in studio ghibli filmspic.twitter.com/NHfwLFVISK",
+            "username": "scullyxf",
+            "num_likes": 343068,
+            "num_retweets": 128982,
+            "num_replies": 1191
+        },
+        "1057246439196237827": {
+            "id": "1057246439196237827",
+            "text": "Happy Devcon to @ETCCooperative @eth_classic.  We believe in you.https://medium.com/@virgilgr/special-projects-announces-donation-to-ethereum-classic-cooperative-e3bc28c95d0\u00a0\u2026",
+            "username": "virgilgr",
+            "num_likes": 137,
+            "num_retweets": 27,
+            "num_replies": 11
+        },
+        "1034830176998313986": {
+            "id": "1034830176998313986",
+            "text": "Just released Geth v1.8.15 (Khazad-d\u00fbm\u00b2), fixing a few issues and adding some juicy uncle inclusion mechanisms for miners! Once again, big thanks to @peter_bitfly for helping drive and test this release! #golang #Ethereumhttps://github.com/ethereum/go-ethereum/releases/tag/v1.8.15\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 54,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "1013539332366524416": {
+            "id": "1013539332366524416",
+            "text": "Have ideas for how to make Devcon4 the best yet? We want to hear them! Please share your ideas at this Devcon survey:https://docs.google.com/forms/d/e/1FAIpQLSfmBq7ZKmbHEJC5MUY-z_MTPVXWFYfCc9hCWSFEt-IYILb31Q/viewform\u00a0\u2026",
+            "username": "mi_ayako",
+            "num_likes": 99,
+            "num_retweets": 38,
+            "num_replies": 3
+        },
+        "1013351724667494401": {
+            "id": "1013351724667494401",
+            "text": "Woah, experienced corporate devs schooling the #EthereumSharding Meeting. Recommending: Separate must-haves from should-haves. Set requirements based on needs e.g. \"transactions need to be cheap\" and \"compatibility\". Realistic timelines. Can I hug these people at @PegasysEng?pic.twitter.com/pxXw2swYFx",
+            "username": "jemenger",
+            "num_likes": 42,
+            "num_retweets": 8,
+            "num_replies": 8
+        },
+        "973207070119026693": {
+            "id": "973207070119026693",
+            "text": "ewasm university kicks off at @joinstationf Paris with teams from @dfinity, @ParityTech, @Truebitprotocol and @ethereumproject. One ewasm to rule them all  We are tearing down walls and @BobSummerwill would be proud!pic.twitter.com/dbX2579FSE",
+            "username": "lrettig",
+            "num_likes": 48,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "971914588655505409": {
+            "id": "971914588655505409",
+            "text": "New best idea for mitigating #Spectre:\n\nRather than wasting all these cycles stalling the processor with an LFENCE instruction, we need automatically-inserted BTC mining code to run during risky speculative execution!\n\nInterested in my new security+blockchain+compiler startup? ;]",
+            "username": "chandlerc1024",
+            "num_likes": 264,
+            "num_retweets": 78,
+            "num_replies": 6
+        },
+        "972206743659958274": {
+            "id": "972206743659958274",
+            "text": "I've included ERC777 in \"Mastering Ethereum\". At the very least, makes for great comparison to ERC20.",
+            "username": "aantonop",
+            "num_likes": 136,
+            "num_retweets": 22,
+            "num_replies": 5
+        },
+        "967359571567226880": {
+            "id": "967359571567226880",
+            "text": "Beige paper: A comprehensible rewrite of the #Ethereum yellow paper by @micahdameronhttps://github.com/chronaeon/beigepaper/\u00a0\u2026",
+            "username": "muellerberndt",
+            "num_likes": 143,
+            "num_retweets": 58,
+            "num_replies": 2
+        },
+        "932929264952934401": {
+            "id": "932929264952934401",
+            "text": "Geth v1.7.3 (Weir) just released! Filters all your logs; forwards all your transactions; and gives you les/2 along with insta-mining PoA --dev mode! https://github.com/ethereum/go-ethereum/releases/tag/v1.7.3\u00a0\u2026 #Ethereum #golang",
+            "username": "peter_szilagyi",
+            "num_likes": 88,
+            "num_retweets": 46,
+            "num_replies": 3
+        },
+        "926116972642873344": {
+            "id": "926116972642873344",
+            "text": "\"You have to love meaningless staking\".\n\nSeen at #ethereum #devcon3pic.twitter.com/gpAgbyOQiX",
+            "username": "BobSummerwill",
+            "num_likes": 175,
+            "num_retweets": 57,
+            "num_replies": 5
+        },
+        "919526972530876416": {
+            "id": "919526972530876416",
+            "text": "[URGENT] Update your Ethereum clients! Less than 24 hours until the Byzantium hard fork.https://goo.gl/V9NCv8\u00a0",
+            "username": "ethereum",
+            "num_likes": 678,
+            "num_retweets": 480,
+            "num_replies": 93
+        },
+        "912417099724836865": {
+            "id": "912417099724836865",
+            "text": "WSJ on ICOs and blockchain startups including @golemproject story by @tomiogeronhttps://www.wsj.com/articles/how-blockchain-and-icos-are-changing-the-funding-game-for-startups-1506304861\u00a0\u2026",
+            "username": "julianzawist",
+            "num_likes": 139,
+            "num_retweets": 63,
+            "num_replies": 9
+        },
+        "910216557502058497": {
+            "id": "910216557502058497",
+            "text": "#Ethereum we've temporarily doubled the bounty reward for vulns affecting  consensus or Geth DOS. #ByzantiumBonus! https://bounty.ethereum.org\u00a0",
+            "username": "mhswende",
+            "num_likes": 168,
+            "num_retweets": 153,
+            "num_replies": 0
+        },
+        "908335753377312773": {
+            "id": "908335753377312773",
+            "text": "Two months in the work, but Geth 1.7.0 (Megara) is finally here! Faster, slimmer, Byzantium enabled! #Ethereum ;)https://blog.ethereum.org/2017/09/14/geth-1-7-megara/\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 175,
+            "num_retweets": 82,
+            "num_replies": 7
+        },
+        "892319402900803584": {
+            "id": "892319402900803584",
+            "text": "NOTE: We don't know why Poloniex disabled withdrawal of GNT. They have not contacted us at all, nor asked for any action from us.",
+            "username": "golemproject",
+            "num_likes": 119,
+            "num_retweets": 50,
+            "num_replies": 25
+        },
+        "882341684415152128": {
+            "id": "882341684415152128",
+            "text": "I made this by following a @andrewpprice tutorial and rendered it using @golemprojectpic.twitter.com/TjnLFaTVBv",
+            "username": "jet86",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "879273739992649728": {
+            "id": "879273739992649728",
+            "text": "WANTED: C++ & Solidity Software Engineer to work with both Golem and the Solidity core compiler team https://github.com/golemfactory/golem/blob/87be70d6007f3f67b977d5b4669ff6ce260e4043/docs/jobs/cpp_and_solidity_software_engineer.md\u00a0\u2026 #ethereum",
+            "username": "golemproject",
+            "num_likes": 63,
+            "num_retweets": 25,
+            "num_replies": 5
+        },
+        "780344088554070016": {
+            "id": "780344088554070016",
+            "text": "We've released Geth 1.4.13 \"Into the Woods\" to address the current DoS attack and improve on last week's issues.https://github.com/ethereum/go-ethereum/releases/tag/v1.4.13\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 55,
+            "num_retweets": 41,
+            "num_replies": 3
+        }
+    },
+    "tweeted": {
+        "1121329747731066881": {
+            "id": "1121329747731066881",
+            "text": "#EVMC 6.2.0 has been released. It continues the v6 series by adding #rustlang and polishing #cpplang and #golang APIs.\n\nYou should definitely check it out if you consider implementing or integrating #EVM.https://github.com/ethereum/evmc/releases/tag/v6.2.0\u00a0\u2026",
+            "username": "chfast",
+            "num_likes": 103,
+            "num_retweets": 45,
+            "num_replies": 3
+        },
+        "1081619579275747331": {
+            "id": "1081619579275747331",
+            "text": "Can anyone calculate how long will Ethereum network recover (block times back to normal) after sudden 95% hashrate drop?",
+            "username": "chfast",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1073922997038268416": {
+            "id": "1073922997038268416",
+            "text": "Let's see if #blockchain can help with my hobby.\nJust published the music of my band on @UjoMusic. https://ujomusic.com/portal/store/364\u00a0\u2026pic.twitter.com/Qt9KWpvuF5",
+            "username": "chfast",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1057554830577799168": {
+            "id": "1057554830577799168",
+            "text": "The demo bundle of Geth with EVMC 6.0.0 support and Aleth Interpreter VM can be downloaded from https://github.com/ethereum/evmc/releases/tag/demo1\u00a0\u2026.",
+            "username": "chfast",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057553625482964992": {
+            "id": "1057553625482964992",
+            "text": "Geth + Aleth Interpreter node has finished full #Ethereum mainnet sync.pic.twitter.com/1GLIjbCeSY",
+            "username": "chfast",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1056469966634053633": {
+            "id": "1056469966634053633",
+            "text": "The EVMC (EVM API) version 6.0.0 has been released.https://github.com/ethereum/evmc/releases/tag/v6.0.0\u00a0\u2026",
+            "username": "chfast",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1013700716622499840": {
+            "id": "1013700716622499840",
+            "text": "One of the keynotes is about \"intersection of networking and blockchain\". Interesting?https://twitter.com/linuxfoundation/status/1013698798617493505\u00a0\u2026",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "967000676780990464": {
+            "id": "967000676780990464",
+            "text": "It looks I've sent ~ 100 GB of data to #ethereum light nodes. Thanks @golemproject for supporting the internet connection :)pic.twitter.com/fUU4ill2DE",
+            "username": "chfast",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "938338674021949440": {
+            "id": "938338674021949440",
+            "text": "Thank you 0xe773E0484EB24F6044c210AdF5Fc46715566B020 and 0x811741a9316e28caB7F1c2cE103257745BCc04b6.pic.twitter.com/XfkBOz6Son",
+            "username": "chfast",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "926162016573763585": {
+            "id": "926162016573763585",
+            "text": "Slides from my talk about EVM-C on #devcon3.https://docs.google.com/presentation/d/1pj-6FboS-wR7PXL1BP0GzvDVShykmbGzhaP0srV9iWI/edit?usp=sharing\u00a0\u2026",
+            "username": "chfast",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "915521338588180480": {
+            "id": "915521338588180480",
+            "text": "#hacktoberfest again!",
+            "username": "chfast",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "780835840478023680": {
+            "id": "780835840478023680",
+            "text": "Support open source in October and earn a limited edition T-shirt from @digitalocean and @github https://hacktoberfest.digitalocean.com/\u00a0 #hacktoberfest",
+            "username": "chfast",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6817731215097856": {
+            "id": "6817731215097856",
+            "text": "I love Dropbox because it is great multi OS sync app http://db.tt/sRneJsA",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "12063552058": {
+            "id": "12063552058",
+            "text": "RT @tweetmeme My Opera - Opera Mini Countup http://is.gd/aU8g6",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3388108007": {
+            "id": "3388108007",
+            "text": "I have no friends here",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2389307134": {
+            "id": "2389307134",
+            "text": "Wow! @msofficeus is breaking HTML email by using Word to display emails in Outlook 2010. See http://fixoutlook.org and RT",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "2170351779": {
+            "id": "2170351779",
+            "text": "it sucks",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1144360140": {
+            "id": "1144360140",
+            "text": "I just published a new item with Triond: http://is.gd/h3sr",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1026305180": {
+            "id": "1026305180",
+            "text": "is starting using twitter",
+            "username": "chfast",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "ethereum": 2,
+        "cdetrio": 1,
+        "mhswende": 2,
+        "peter_szilagyi": 5,
+        "scullyxf": 1,
+        "virgilgr": 1,
+        "mi_ayako": 1,
+        "jemenger": 1,
+        "lrettig": 1,
+        "chandlerc1024": 1,
+        "aantonop": 1,
+        "muellerberndt": 1,
+        "BobSummerwill": 1,
+        "julianzawist": 1,
+        "golemproject": 2,
+        "jet86": 1
+    },
+    "users_retweeted": [
+        "peter_szilagyi",
+        "ethereum",
+        "mhswende",
+        "golemproject",
+        "cdetrio",
+        "scullyxf",
+        "virgilgr",
+        "mi_ayako",
+        "jemenger",
+        "lrettig",
+        "chandlerc1024",
+        "aantonop",
+        "muellerberndt",
+        "BobSummerwill",
+        "julianzawist",
+        "jet86"
+    ]
+}

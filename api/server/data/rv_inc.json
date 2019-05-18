@@ -1,0 +1,1712 @@
+{
+    "is_complete": true,
+    "username": "rv_inc",
+    "retweeted": {
+        "1121815705584898048": {
+            "id": "1121815705584898048",
+            "text": "Now we are happy to announce the completion of an extra layer of security: \"formal verification\". It was a huge effort by @rv_inc and done with support from @ethereumecf. Gnosis will soon start moving funds to this verified version of the contract. (2/2)https://blog.gnosis.pm/formal-verification-a-journey-deep-into-the-gnosis-safe-smart-contracts-b00daf354a9c\u00a0\u2026",
+            "username": "koeppelmann",
+            "num_likes": 35,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1118134882339831808": {
+            "id": "1118134882339831808",
+            "text": "@RosuGrigore detailing an approach on language agnostic formal verification #RunEVMpic.twitter.com/ngWrhWKGYZ",
+            "username": "gregorydhill",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1118132145778720768": {
+            "id": "1118132145778720768",
+            "text": "Now @RosuGrigore from @rv_inc presents on KEVM, Jello Paper, & IELE. #RunEVMpic.twitter.com/j85GkV9xHP",
+            "username": "FISSIONcodes",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1118046198059995136": {
+            "id": "1118046198059995136",
+            "text": "Welcome to #RunEVM @rv_inc - thank you for sponsoring! \n\nSee the whole schedule & speakers & sponsors at https://runevm.com\u00a0 and follow along @FISSIONcodespic.twitter.com/tqvOsJABCp",
+            "username": "bmann",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1116299613353467904": {
+            "id": "1116299613353467904",
+            "text": "We\u2019re big believers in formal verification and we will continue working diligently with companies like @rv_inc to make the Gnosis Safe the most secure multisig on the market! https://safe.gnosis.io/formal-verification/\u00a0\u2026",
+            "username": "gnosisSafe",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1116299614657896451": {
+            "id": "1116299614657896451",
+            "text": "Following the formal verification of our contracts, we incorporated the recommended fixes and released a v.1.0.0 of the Safe's smart contracts!https://github.com/gnosis/safe-contracts/releases/tag/v1.0.0\u00a0\u2026",
+            "username": "gnosisSafe",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1113444167345233920": {
+            "id": "1113444167345233920",
+            "text": "It's been awesome to watch the level of RV's reports in the audit domain... I recommend all auditors and smart contract authors check them out!",
+            "username": "phildaian",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088754855722643456": {
+            "id": "1088754855722643456",
+            "text": "Wanted to spend some time learning the K Framework by @rv_inc so I made a small for-fun program that parses and validates UTXO.https://github.com/SebastienGllmt/Kelly\u00a0\u2026",
+            "username": "SebastienGllmt",
+            "num_likes": 76,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "1084735360762970112": {
+            "id": "1084735360762970112",
+            "text": "Our VC is taking shape in lighthouse PR#154 (https://bit.ly/2CorpFg\u00a0). Now, it's rough and focused on ensuring the gRPC APIs are solid. Later, we'll be focusing on security. Goals: security review from @trailofbits and formal verification from @rv_inc. 8/10",
+            "username": "paulhauner",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1080561927049408512": {
+            "id": "1080561927049408512",
+            "text": "In principle there are benefits in using off-the-shelf technology, but there will always be things you want different.  That's why @rv_inc chose to NOT blindly use LLVM as a VM, but instead use it as a basis for a custom VM that fits the needs (IELE):\nhttps://runtimeverification.com/the-iele-virtual-machine/\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1081610970416349184": {
+            "id": "1081610970416349184",
+            "text": "Nice feature on @Illinois_Alma startup @rv_inc, based in @cityofurbana:https://twitter.com/ChicagoInno/status/1081183218454405123\u00a0\u2026",
+            "username": "YoureWelcomeCU",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1081322969056636930": {
+            "id": "1081322969056636930",
+            "text": "#IllinoisCS prof. @RosuGrigore\u2019s start-up, @rv_inc, is helping Boeing, NASA, Toyota, the National Science Foundation, and several blockchain companies check their code for errors. \u201cThe need for correctness is immense.\u201dhttp://bit.ly/2BZ5Sm3\u00a0",
+            "username": "IllinoisCS",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1080948223638794240": {
+            "id": "1080948223638794240",
+            "text": "Illinois startup @rv_inc, born out of @Illinois_Alma, helps companies like @NASA and @Boeing find errors in their codehttps://www.americaninno.com/chicago/chicago-startup/meet-the-il-startup-helping-nasa-and-boeing-detect-errors-in-their-software/\u00a0\u2026",
+            "username": "jdallke",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1074967748835532800": {
+            "id": "1074967748835532800",
+            "text": "Check out the new #cryptocurrency #security & modeling paper by @rv_inc\n\nCredit to Musab Alturki & Grigore Rosu @ Runtime Verification Inc.\nhttps://runtimeverification.com/\u00a0\n@rv_inc - pls come & present a deep dive at our London #blockchain dev monthly deep divehttps://github.com/runtimeverification/rdao-smc/blob/master/report/rdao-analysis.pdf\u00a0\u2026",
+            "username": "work_blockchain",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1075007042958622723": {
+            "id": "1075007042958622723",
+            "text": "@rv_inc published a paper on RanDAO's resilience against the \"last reveler(s)\" attacks.\n\nhttps://github.com/runtimeverification/rdao-smc/blob/master/report/rdao-analysis.pdf\u00a0\u2026\n \nTL;DR: It's actually pretty resilient. ",
+            "username": "MihailoBjelic",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1074720713922228225": {
+            "id": "1074720713922228225",
+            "text": "Launching Plutus and Marlowe at the inaugural PlutusFest, read all about it in the latest IOHK blog post now: https://buff.ly/2Es1uyN\u00a0 #PlutusFest #Cardano #CardanoCommunity",
+            "username": "InputOutputHK",
+            "num_likes": 99,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "1073602436353396736": {
+            "id": "1073602436353396736",
+            "text": "Read the latest event recap of PlutusFest 2018 in Edinburgh, Scotland on the Cardano Forum here: https://buff.ly/2Lf6F6C\u00a0 #Cardano #PlutusFest #CardanoCommunity",
+            "username": "InputOutputHK",
+            "num_likes": 65,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1072521211610058752": {
+            "id": "1072521211610058752",
+            "text": "Plutus Playgrounds are live! https://testnet.iohkdev.io/plutus/\u00a0 You can use them to write and explore contract applications for the #Plutus platform developed by @InputOutputHK for #Cardanopic.twitter.com/eupUZBg2Y1",
+            "username": "TacticalGrace",
+            "num_likes": 176,
+            "num_retweets": 76,
+            "num_replies": 2
+        },
+        "1072817752602226689": {
+            "id": "1072817752602226689",
+            "text": "IOHK launches two new smart contract tools for Cardano blockchain via Crypto Ninjas: https://buff.ly/2QwPZO8\u00a0 #Cardano #PlutusFest #blockchaintechnology",
+            "username": "InputOutputHK",
+            "num_likes": 253,
+            "num_retweets": 57,
+            "num_replies": 8
+        },
+        "1072861148192608258": {
+            "id": "1072861148192608258",
+            "text": "The @gnosisSafe is operating entirely on smart contracts. This allows for exciting features, such as:\n Multi-factor authentication\nImproved integration and interaction with #dApps\nAdvanced recovery methods\nFind out more here:https://blog.gnosis.pm/why-the-gnosis-safe-is-different-6459b79872ad\u00a0\u2026",
+            "username": "gnosisPM",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1072423648248676352": {
+            "id": "1072423648248676352",
+            "text": "Formal verification in @circleci!\nCheck our repository. https://github.com/LayerXcom/verified-vyper-contracts\u00a0\u2026pic.twitter.com/zV0igh2P7h",
+            "username": "veryNR",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1072597424806486018": {
+            "id": "1072597424806486018",
+            "text": "The pretty pictures at the end and accompanying text should explain it all!\n\nBasically this quantifies statistically manipulation an attacker could perform on the output of the RanDAO protocol.  Alpha is the attacker's voting share (stake), y-axis shows effect of bias.pic.twitter.com/lxc9FWAuHL",
+            "username": "phildaian",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1072595028961320960": {
+            "id": "1072595028961320960",
+            "text": "This report on @rv_inc's verification of RANDAO's possible randomness bias under worst-case adversarial conditions using statistical model checking is one of the most underrated new papers in cryptocurrency security/modeling, IMO.https://github.com/runtimeverification/rdao-smc/blob/master/report/rdao-analysis.pdf\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1070408850631733249": {
+            "id": "1070408850631733249",
+            "text": " So @ethereum's Casper and RANDAO just got formally verified by a company that also happens to take care of some @NASA code \n\n(jokes aside, bravo! @rv_inc for spec'ing, modelling & verifying code that's been mutating like a living org., in <10 months)\n\nhttps://runtimeverification.com/blog/runtime-verification-completes-formal-verification-of-ethereum-casper-protocol/\u00a0\u2026pic.twitter.com/uZjSnO7H5V",
+            "username": "Felipether",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1069085578812170241": {
+            "id": "1069085578812170241",
+            "text": "Make sure to RSVP to attend the inaugural #PlutusFest in Edinburgh, Scotland with IOHK. PlutusFest will be taking place at The University of Edinburgh on the 11th of December. Featuring @IOHK_Charles and other speakers: https://buff.ly/2A4H3nP\u00a0 #Cardano #blockchainpic.twitter.com/OPA72e7YoI",
+            "username": "InputOutputHK",
+            "num_likes": 83,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "1062284074155499521": {
+            "id": "1062284074155499521",
+            "text": "The Gnosis Safe will be the first formally verified #multisig wallet! @rv_inc conducts the formal verification\u2014check out their progress here:https://github.com/runtimeverification/verified-smart-contracts/tree/master/gnosis\u00a0\u2026",
+            "username": "gnosisSafe",
+            "num_likes": 55,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1068509492688633856": {
+            "id": "1068509492688633856",
+            "text": "Is the @gnosisSafe secure?\n\nWe put A LOT of effort into making it secure and that of course includes an external audit. However, we want to do everything possible and thus @rv_inc is doing a \"formal verification\" supported by the @ethereumecf\n\nFull post:https://blog.gnosis.pm/formal-verification-of-the-gnosis-safe-contracts-faca6664950\u00a0\u2026",
+            "username": "koeppelmann",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1058616432131399680": {
+            "id": "1058616432131399680",
+            "text": "Talking w/ @emurgo_io CEO @Emurgo_Ken during the Hackathon @ Tokyo University of Science about our R&D division. \nSuper proud of the work our R&D department has done in a short time and had a good discussion about how to have an even bigger impact going forward!pic.twitter.com/TTYcIKYS77",
+            "username": "SebastienGllmt",
+            "num_likes": 108,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1058686686236946432": {
+            "id": "1058686686236946432",
+            "text": "Just arrived home from @EFDevcon. I was flooded by multiple fire hoses all week, and that\u2019s a good thing. I\u2019m now sitting with my AM coffee trying to flush out \u201clessons learned\u201d or \u201ctakeaways\u201d.",
+            "username": "Patrick_S_MacKa",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1054814319060402177": {
+            "id": "1054814319060402177",
+            "text": "Devcon talk teaser! I'll cover:\n- What (smart contract) audits are missing\n- Why all dexs are broken\n- Why all blockchain voting is broken\n- Why this could threaten Ethereum as a whole\n- How to fix it\n\n... it'll be fun, I promise!",
+            "username": "phildaian",
+            "num_likes": 197,
+            "num_retweets": 23,
+            "num_replies": 18
+        },
+        "1053273942851502080": {
+            "id": "1053273942851502080",
+            "text": "Anything is possible, just a question of priorities & funding.  I think SC verification is a lower hanging fruit, but @rv_inc also working on models of consensus protocols [FFG,Shasper,Ourboros,etc] (and the dream is of course to eventually have a 100% formal blockchain client).",
+            "username": "phildaian",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1053129486110281729": {
+            "id": "1053129486110281729",
+            "text": "Cannot agree more.  Here are some first steps in that direction of rigorously formalizing the EIPs:\n- ERC20: https://runtimeverification.com/blog/erc20-k-formal-executable-specification-of-erc20/\u00a0\u2026\n- ERC777: https://runtimeverification.com/blog/erc777-k-formal-executable-specification-of-erc777/\u00a0\u2026\nWould be nice to formalize more of them, but they take a lot of expert time\n@rv_inc @feindura @VitalikButerin",
+            "username": "RosuGrigore",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1044286040624844800": {
+            "id": "1044286040624844800",
+            "text": "The first ever ERC20 formal verification spec was done by @rv_inc they now made one for ERC777 as well! The next token standard. \nNow we need automated gen. proofs and checkers to run those!https://twitter.com/rv_inc/status/1044277941998407680\u00a0\u2026",
+            "username": "feindura",
+            "num_likes": 48,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1044236684731314176": {
+            "id": "1044236684731314176",
+            "text": "And multiple types!\n-SMT model checking\n-Property-based checks\n-Semantic equivalency\n-and more...\n\nDon't forget good, ole-fashioned functional testing!\n\nRule of thumb: spend 10x more effort verifying your design and validating against your models than you do writing the code.",
+            "username": "fubuloubu",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1044221905836929025": {
+            "id": "1044221905836929025",
+            "text": "Hopefully it is becoming increasingly clear that, at more than $1M value per line of code, only the irresponsible players forego formal verification.",
+            "username": "RosuGrigore",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1041992779197440000": {
+            "id": "1041992779197440000",
+            "text": "Congrats to Maker for using the KEVM & K-Framework to formally verify their smart contracts! Big players like this spending the time to formally verify their code gives me confidence we are on the right path w/ Cardano & that IOHK made the right call to invest in these tools.https://twitter.com/MakerDAO/status/1041795771639652353\u00a0\u2026",
+            "username": "SebastienGllmt",
+            "num_likes": 87,
+            "num_retweets": 29,
+            "num_replies": 4
+        },
+        "1040731852577951750": {
+            "id": "1040731852577951750",
+            "text": "The latest blog post from @SebastienGllmt  at @emurgo_io details how to deploy a smart control on the IELE testnet. Learn more here:https://medium.com/@emurgo_io/how-to-deploy-a-contract-on-the-iele-testnet-feae17da5120\u00a0\u2026",
+            "username": "CardanoStiftung",
+            "num_likes": 187,
+            "num_retweets": 39,
+            "num_replies": 4
+        },
+        "1039674196442398720": {
+            "id": "1039674196442398720",
+            "text": "Sebastien from Emurgo made a quick video on how to deploy a smart contract on the IELE testnet using Remix. Watch it here!https://forum.cardano.org/t/how-to-deploy-a-contract-on-the-iele-testnet/15674\u00a0\u2026",
+            "username": "CardanoStiftung",
+            "num_likes": 130,
+            "num_retweets": 32,
+            "num_replies": 2
+        },
+        "1037664341133340672": {
+            "id": "1037664341133340672",
+            "text": "In this latest  video update, IOHK project manager Gerard Moroney @gmanroney talks about the forthcoming smart contracts capabilities for #Cardano: https://buff.ly/2MTfp6D\u00a0 @Cardano @CardanoStiftung #Cardanocommunity #blockchain",
+            "username": "InputOutputHK",
+            "num_likes": 75,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1038099030767796224": {
+            "id": "1038099030767796224",
+            "text": "Delegate Proxy contracts allow you to reuse smart contracts in Solidity, & thereby saving significant amounts of gas. @rimeissner explains technical details, optimizations, & common pitfalls with the @gnosisSafe as an example @ETHBerlin! pic.twitter.com/xRVfc3bok6",
+            "username": "gnosisPM",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1037787510083133445": {
+            "id": "1037787510083133445",
+            "text": "Today, I had the chance to visit the cool people at @HoustonMech on behalf of @rv_inc, and meet their spectacular robot, Aquanaut.pic.twitter.com/oaxsk2MAIQ",
+            "username": "bog_dan",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1037265478572331008": {
+            "id": "1037265478572331008",
+            "text": "This tweet is a perfect example of how developers would benefit from human-readable IR such as that provided by IELE @rv_inchttps://twitter.com/nicksdjohnson/status/1037263074229727233\u00a0\u2026",
+            "username": "SebastienGllmt",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1037329557278216193": {
+            "id": "1037329557278216193",
+            "text": "Made a quick video going over how to deploy a smart contract on the IELE testnet using Remix! https://www.youtube.com/watch?v=33VN5NIlGAc\u00a0\u2026\n@cardano @rv_inc @emurgo_io @InputOutputHK",
+            "username": "SebastienGllmt",
+            "num_likes": 57,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1036291962847092736": {
+            "id": "1036291962847092736",
+            "text": "Great week spent with @NicoArqueros, CTO of @emurgo_io, at our @rv_inc lab in @cityofurbana! We learned a lot about the great long term vision behind @Cardano and about their planned top-notch research and education initiatives to accomplish it.pic.twitter.com/tJBlFrUzL3",
+            "username": "RosuGrigore",
+            "num_likes": 107,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1034249557994024961": {
+            "id": "1034249557994024961",
+            "text": "My subjective, speculative opinion about the future of smart contracts: write specifications, not code - https://youtu.be/5Fl5jikuZMM?t=2008\u00a0\u2026 (start 33:45).  Warm thanks to the @CardanoStiftung #IELE testnet users and Jon Moss for the stimulating questions, and @rv_inc for making this real!",
+            "username": "RosuGrigore",
+            "num_likes": 31,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1030091792925032449": {
+            "id": "1030091792925032449",
+            "text": "There's an absolutely fantastic, in-depth, technical series on how to formally verify smart contracts in practice on @rv_inc's blog.  Highly recommend reading it.\n\n1: https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/\u00a0\u2026\n2: https://runtimeverification.com/blog/erc-20-verification/\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 49,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1029473408453619712": {
+            "id": "1029473408453619712",
+            "text": "At @rv_inc, we take the #GOOTB #leanstartup principle to heart. Today I'm visiting @Boeing in Virginia. Learning never stops.http://www.boeing.com/\u00a0",
+            "username": "bog_dan",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1029297536547414016": {
+            "id": "1029297536547414016",
+            "text": "We are excited to announce that the tool demonstration paper on the K-EVM semantics at work for formal verification of smart contracts has been accepted to FSE 2018, a major software engineering conference! @rv_inc @RosuGrigore https://buff.ly/2Bbioli\u00a0",
+            "username": "InputOutputHK",
+            "num_likes": 138,
+            "num_retweets": 34,
+            "num_replies": 3
+        },
+        "1027175952873349120": {
+            "id": "1027175952873349120",
+            "text": "Come see me talk about Composition in FP on the 20th of August at @bucharestfp ! Please RSVP if you plan to attend.https://twitter.com/bucharestfp/status/1027174272677150720\u00a0\u2026",
+            "username": "cvlad",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1027513604814397442": {
+            "id": "1027513604814397442",
+            "text": "Watch Everett Hildenbrandt from @rv_inc presents KEVM, the first time that a complete formal semantics of the EVM have been produced. This is an important first in cryptocurrency that is a necessary step towards the promise of third-generation blockchains.https://buff.ly/2vxb7XP\u00a0",
+            "username": "InputOutputHK",
+            "num_likes": 74,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1026791464792219649": {
+            "id": "1026791464792219649",
+            "text": "In this July update, IOHK project manager Gerard Moroney talks about the release of the second testnet that showcases the Virtual Machines (VMs) that allow users to run account-based smart contracts:  https://buff.ly/2APXwQC\u00a0 #Cardano #testnet @cardanocom @CardanoStiftung",
+            "username": "InputOutputHK",
+            "num_likes": 58,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1025078204871131136": {
+            "id": "1025078204871131136",
+            "text": "Education Director @LarsBrunjes explains the DAO Attack on #Ethereum and shows that the same attack does not work in IELE, which has been designed from the ground up with security in mind. Watch the video here: https://buff.ly/2mSf4l2\u00a0 #Cardano @cardanocom",
+            "username": "InputOutputHK",
+            "num_likes": 78,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1024970627059470336": {
+            "id": "1024970627059470336",
+            "text": "In this video, IOHK Director of Education Lars Brunjes explains how to install the mallet command-line tool and how to use it to compile, deploy and test smart contracts written in Solidity on the IELE-Testnet. https://buff.ly/2McQPJr\u00a0 #Cardano @cardanocom @CardanoStiftung",
+            "username": "InputOutputHK",
+            "num_likes": 59,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1024656080989761536": {
+            "id": "1024656080989761536",
+            "text": "https://www.youtube.com/watch?time_continue=2&v=Hq-hvaD6NSA\u00a0\u2026\nShort history of the K framework, how it was used to formalize EVM and verify smart contracts, and the forces that led to the design of IELE.\nThank you @InputOutputHK, @CardanoStiftung, and @IOHK_Charles for making this possible and for the interview.",
+            "username": "RosuGrigore",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1024608032792170497": {
+            "id": "1024608032792170497",
+            "text": ".@RosuGrigore, a professor in computer science at the @Illinois_Alma, and CEO of @rv_inc, describes the research that he had been working with #IOHK to develop new technology based on formal semantics for #Cardano, including a new virtual machine:https://buff.ly/2AviL9V\u00a0",
+            "username": "InputOutputHK",
+            "num_likes": 58,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1024240985344299008": {
+            "id": "1024240985344299008",
+            "text": "In this video, Grigore Rosu, CEO of @rv_inc, talks about the inspiration behind his work and research that he had been working with IOHK since June 2017 to develop new technology based on formal semantics for #Cardano, including a new virtual machine.https://buff.ly/2v9d7Wf\u00a0",
+            "username": "InputOutputHK",
+            "num_likes": 52,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1023988388247097345": {
+            "id": "1023988388247097345",
+            "text": "Please visit @rv_inc in the Startup Village (the white tent) at 5 pm, learn about out #dynamicanalysis tools, and get a FREE T-SHIRT. #carmbspic.twitter.com/7O6auP4COM",
+            "username": "bog_dan",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1023987393278472194": {
+            "id": "1023987393278472194",
+            "text": "Our product, RV-Predict https://goo.gl/1vLkwC\u00a0 reveals concurrency bugs in #QNX and can perform dynamic analysis with hardware in the loop, with no false positives. Visit us @rv_inc in the Startup Village (the white tent) at 5 pm. #carmbspic.twitter.com/k7HUxYaH2Z",
+            "username": "bog_dan",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1023977853086584833": {
+            "id": "1023977853086584833",
+            "text": "IOHK has launched the second Cardano testnet, which is for the IELE virtual machine. Learn more about IELE and how to build smart contracts through their blog post and videos:https://forum.cardano.org/t/iohk-statement-cardano-smart-contracts-testnet-iele-launches/14432\u00a0\u2026",
+            "username": "CardanoStiftung",
+            "num_likes": 675,
+            "num_retweets": 236,
+            "num_replies": 23
+        },
+        "1023976703016796166": {
+            "id": "1023976703016796166",
+            "text": "Find out more about the second #Cardano testnet for the IELE virtual machine. The technology is not only an important step on the Cardano roadmap, but also for the industry \u2013 in offering robust and reliable financial infrastructure, try it out here: https://buff.ly/2uZKGK8\u00a0 #IELEpic.twitter.com/GbU5KrWN8R",
+            "username": "InputOutputHK",
+            "num_likes": 165,
+            "num_retweets": 51,
+            "num_replies": 2
+        },
+        "1023974634562174983": {
+            "id": "1023974634562174983",
+            "text": "Today we launch the second #Cardano testnet, which is for the IELE virtual machine (VM) and follows our recent launch of the KEVM testnet. Developers now have the opportunity to explore Cardano's #smartcontracts technology, read more here: https://buff.ly/2M5lkRp\u00a0 @cardanocom #Adapic.twitter.com/CegeGlA4XZ",
+            "username": "InputOutputHK",
+            "num_likes": 228,
+            "num_retweets": 83,
+            "num_replies": 6
+        },
+        "1023938870860165121": {
+            "id": "1023938870860165121",
+            "text": "No #DAO attack possible with @rv_inc 's #IELE, virtual machine for @CardanoStiftung 's #smart #contract platform. Almost live for #testing! \n#Cardano #IOHK @InputOutputHK $ADA #Emurgo @emurgo_iohttps://twitter.com/Cardano/status/1023926130376683520\u00a0\u2026",
+            "username": "Katsumoto87",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1023926185481457665": {
+            "id": "1023926185481457665",
+            "text": "IELE is a new virtual machine for the blockchain and its testnet is almost live! Lars Brunjes, Education Director at IOHK, explains the DAO Attack on Ethereum and how the same attack does not work in IELE. Watch the video here:https://youtu.be/jz5gu4keU9U\u00a0",
+            "username": "CardanoStiftung",
+            "num_likes": 270,
+            "num_retweets": 74,
+            "num_replies": 11
+        },
+        "1023648808729763847": {
+            "id": "1023648808729763847",
+            "text": "Looking forward to getting direct customer feedback from the @cargroup MBS participants, on the  @rv_inc tools: Predict https://goo.gl/1vLkwC\u00a0 and Match https://goo.gl/X8RHMs\u00a0, at  #CARMBSpic.twitter.com/atbkLr2bEu",
+            "username": "bog_dan",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1023881332886331392": {
+            "id": "1023881332886331392",
+            "text": "Today it is the IELE day ",
+            "username": "concept_w_com",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1022900814980030465": {
+            "id": "1022900814980030465",
+            "text": "Check out K Lab from @dapphub  for the KEVM\nThe KLab tool interactively explores execution traces produced by the K Framework\nThis is what I call magic. Thank you so much for this amazing tool!\nhttps://www.youtube.com/watch?v=z4mIo38x1u8\u00a0\u2026\n@InputOutputHK @IOHK_Charles @rv_inc",
+            "username": "SebastienGllmt",
+            "num_likes": 41,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1021195406015836160": {
+            "id": "1021195406015836160",
+            "text": "Did you know @rv_inc has a Youtube channel? Check out some of their videos athttps://www.youtube.com/channel/UCZeDdn8F5ARtK5LmRngiLnA\u00a0\u2026",
+            "username": "SebastienGllmt",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1022754234259972097": {
+            "id": "1022754234259972097",
+            "text": "#Cardano in focus at major international event @FLoC2018, featuring talks on the K framework & how the tools developed by @rv_inc allowed the automatic generation of a correct-by-contruction virtual machine, IELE, from a formal specification: https://buff.ly/2JezD4a\u00a0 @RosuGrigorepic.twitter.com/yuKBXKndDD",
+            "username": "InputOutputHK",
+            "num_likes": 73,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1022726604743692288": {
+            "id": "1022726604743692288",
+            "text": " @RosuGrigore , @rv_inc never stops to impress!https://twitter.com/IOHK_Charles/status/1022514497716727811\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1022102101391036418": {
+            "id": "1022102101391036418",
+            "text": "Watching a presentation about IELE and the K framework in vietnamese in a movie theater in Ho Chi Minh. Certainly does feel like we are bringing the whole world togetherpic.twitter.com/CctySPWhjM",
+            "username": "IOHK_Charles",
+            "num_likes": 308,
+            "num_retweets": 40,
+            "num_replies": 21
+        },
+        "1022466301355339776": {
+            "id": "1022466301355339776",
+            "text": ".@RosuGrigore, a professor in computer science at the University of Illinois at Urbana-Champaign, and CEO of his startup @rv_inc discusses semantics based compilation, explains the benefits that adopting this approach will bring to #Cardano smart contractshttps://buff.ly/2LGrlHt\u00a0",
+            "username": "InputOutputHK",
+            "num_likes": 60,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1017077884396056576": {
+            "id": "1017077884396056576",
+            "text": "Project Goguen update from Geraldhttps://youtu.be/ea734z3ubOM\u00a0",
+            "username": "IOHK_Charles",
+            "num_likes": 138,
+            "num_retweets": 16,
+            "num_replies": 5
+        },
+        "1017081148898529280": {
+            "id": "1017081148898529280",
+            "text": "More than 1,800 academics are attending the Federated Logic Conference (#FLoC2018) in Oxford from 6 to 19 July. @RosuGrigore from @rv_inc have been invited to give two talks on the K framework, the importance of formal analysis & verification for #blockchain and virtual machines.pic.twitter.com/u36f70lne6",
+            "username": "InputOutputHK",
+            "num_likes": 74,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "1017091360053133313": {
+            "id": "1017091360053133313",
+            "text": "#Cardano in focus at major international event @FLoC2018, featuring talks on the K framework & how the tools developed by @rv_inc allowed the automatic generation of a correct-by-contruction virtual machine, IELE, from a formal specification: https://buff.ly/2JezD4a\u00a0 @RosuGrigorepic.twitter.com/NkDNmPOqWg",
+            "username": "InputOutputHK",
+            "num_likes": 63,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1014782312482033665": {
+            "id": "1014782312482033665",
+            "text": "IELE testnet to be launched this month by @InputOutputHK in collaboration with @rv_inc.  IELE is a more secure alternative to EVM.  Also human-readable.  It is LLVM-like and designed from scratch using formal methods. VM generated automatically from spec.\nhttps://github.com/runtimeverification/iele-semantics\u00a0\u2026https://twitter.com/IOHK_Charles/status/1014628677760385025\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 59,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1009934015883874305": {
+            "id": "1009934015883874305",
+            "text": "@mhhf demoing some of the latest formal verification tools out of @dapphub to the great minds of @rv_inc. Really impressed with the #kframework!pic.twitter.com/4Ri4th9J74",
+            "username": "MartinLundfall",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1004491672217182208": {
+            "id": "1004491672217182208",
+            "text": "Demo day at the Runtime Verification office. IELE is looking great. We ran an ERC20 contract on it today.pic.twitter.com/OGnGzLA2ZU",
+            "username": "IOHK_Charles",
+            "num_likes": 524,
+            "num_retweets": 85,
+            "num_replies": 26
+        },
+        "993475965710938117": {
+            "id": "993475965710938117",
+            "text": "RT @Cooper_112: RT @Katsumoto87: Great updates! Keep 'em coming.\n\nWith special thanks to @rv_inc\n#Cardano $ADA #IELE #KEVM #runtime #verificationhttps://twitter.com/InputOutputHK/status/993355248059256833\u00a0\u2026",
+            "username": "thinkandgrowbtc",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "989276305660239872": {
+            "id": "989276305660239872",
+            "text": "Any competent audit would have avoided the issues we've seen in these deployed ERC20 tokens.  There's nothing simpler than an overflow.\n\nThat being said, seems like a good time for me to plug @rv_inc https://runtimeverification.com/smartcontract/\u00a0.",
+            "username": "phildaian",
+            "num_likes": 27,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "981895250078851073": {
+            "id": "981895250078851073",
+            "text": "We are going to have three talks about formally designed/generated blockchain VMs in July at @FLoC2018: invited talks in FSCD'18 and LFMTP'18, and the KEVM paper in CSF'18.  See you in Oxford and please reach out if you want to meet!https://twitter.com/RosuGrigore/status/981887059664175104\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "981887059664175104": {
+            "id": "981887059664175104",
+            "text": "High level overview of our effort to generate correct-by-construction blockchain VMs from their formal semantics.  Thank you @InputOutputHK and  @IOHK_Charles for your trust, support, and your talented team making this dream reality!\n@rv_inc @IllinoisCShttps://www.youtube.com/watch?time_continue=3&v=iavSKtqjVNA\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 102,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "978729227838160897": {
+            "id": "978729227838160897",
+            "text": "@NASA JSC engineers are amazing!  Our Undefinedness Lead at @rv_inc (Chris) and I just presented our undefined behavior detection tools #rvmatch and #rvpredict, and they could say why each of our (tricky) demo programs had UB!  See for example the attached program. Why is it UB?pic.twitter.com/sAvaPNUh12",
+            "username": "RosuGrigore",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "972097283050364928": {
+            "id": "972097283050364928",
+            "text": "My startup company @rv_inc won the first Ethereum Foundation Security Grant: https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/\u00a0\u2026.\n\nThe grant is to formally verify Casper, written in Vyper, all the way down to the EVM binary.  We are going to use this approach:https://github.com/runtimeverification/verified-smart-contracts\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 81,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "947336026296606720": {
+            "id": "947336026296606720",
+            "text": "Just updated my blogpost to add notes on the @inputoutputhk  & @rv_inc partnership. https://medium.com/comae/smart-contract-languages-development-to-follow-992e30774b39\u00a0\u2026 Thanks, @Arjyparjy & @GreggDourgarian for pointing them out.",
+            "username": "msuiche",
+            "num_likes": 17,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "942898883407040512": {
+            "id": "942898883407040512",
+            "text": "https://goo.gl/pQk4y9\u00a0 | Runtime Verification and @InputOutputHK launch virtual machine for #blockchain @RosuGrigore $ADA #ADA @CardanoStiftung @cardano_ @cardanocom",
+            "username": "crypto_ninjas",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "923724903035129856": {
+            "id": "923724903035129856",
+            "text": "Read more about our virtual machine and universal language framework @RosuGrigore @rv_inc @IOHK_Charles https://buff.ly/2gLeWET\u00a0https://twitter.com/InputOutputHK/status/923579683244998657\u00a0\u2026",
+            "username": "emurgo_io",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "929986708120199168": {
+            "id": "929986708120199168",
+            "text": "K has 15 years of computer science behind it and will allow developers to write in the programming language of their choice. At some point we will submit a ECIP based on this research - @IOHK_Charles at #ETCSummit #etc @RosuGrigore @rv_incpic.twitter.com/TRsSIwuDuA",
+            "username": "InputOutputHK",
+            "num_likes": 43,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "926220799207407621": {
+            "id": "926220799207407621",
+            "text": "Just got a live demo of the work Runtime Verification is doing with semantic compilation and the IELE VM. It's state of the art",
+            "username": "IOHK_Charles",
+            "num_likes": 39,
+            "num_retweets": 5,
+            "num_replies": 3
+        }
+    },
+    "tweeted": {
+        "1095381349387722752": {
+            "id": "1095381349387722752",
+            "text": "We are excited to expand on the formal verification services we provide in the blockchain space and beyond. https://goo.gl/L9qTxM\u00a0 Now we offer Traditional Security Reviews (\u201cAudits\u201d), Code Analysis, Formal Modeling, and Formal Verification for #SmartContracts and #Protocols.pic.twitter.com/q1l2sC9YpU",
+            "username": "rv_inc",
+            "num_likes": 48,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1125771597837684736": {
+            "id": "1125771597837684736",
+            "text": "Meet Everett, your \"K for Smart Contracts\" instructor: http://bit.ly/DevConKEVM\u00a0. This is a workshop http://bit.ly/Kworkshop\u00a0 we'll offer during #BlockchainWeekNYC, in case you are in town for #EtherealNY, #CoinDeskConsensus, #FluiditySummit, or #ETHNewYork.",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1123959851888074754": {
+            "id": "1123959851888074754",
+            "text": "What stops you from formally verifying your #smartcontract?",
+            "username": "rv_inc",
+            "num_likes": 12,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1123649834983067650": {
+            "id": "1123649834983067650",
+            "text": "If you are around Brooklyn for the #BlockchainWeekNYC, we offer a K for #SmartContracts workshop at @ConsenSys HQ on Thursday, May 16th, the day in between @coindesk Consensus and @ETHNewYork. Seats are limited. https://www.eventbrite.com/e/k-for-smart-contracts-tickets-60869524386\u00a0\u2026pic.twitter.com/64oF5ADQAB",
+            "username": "rv_inc",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1123572883194822657": {
+            "id": "1123572883194822657",
+            "text": "What is your biggest challenge after writing a #smartcontract?",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1123179074699038721": {
+            "id": "1123179074699038721",
+            "text": "Than you very much for your support of this project. Your commitment to driving the ecosystem forward is inspiring.https://twitter.com/ethereumecf/status/1122926766505512960\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1121914237046145030": {
+            "id": "1121914237046145030",
+            "text": "Thank you!!!https://twitter.com/SebastienGllmt/status/1121805187687964673\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121891214507368453": {
+            "id": "1121891214507368453",
+            "text": "Complete formal semantics of x86 in #kframework, by @vadve and @RosuGrigore's labs at UIUC in collaboration with @rv_inc. To be presented @PLDI'19. You can now use the K tool ecosystem to symbolically execute and formally verify x86 binaries, too.\nhttp://fsl.cs.illinois.edu/FSL/papers/2019/dasgupta-park-kasampalis-adve-rosu-2019-pldi/dasgupta-park-kasampalis-adve-rosu-2019-pldi-public.pdf\u00a0\u2026pic.twitter.com/JUH4pnzp45",
+            "username": "rv_inc",
+            "num_likes": 25,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1121794856907460609": {
+            "id": "1121794856907460609",
+            "text": "This is a great blog written by @gnosisPM about formal verification and the work we provided to formally verify the @gnosisSafe.  Enjoy!!https://signalradarnews.com/2019/04/26/formal-verification-a-journey-deep-into-the-gnosis-safe-smart-contracts/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1121794456980611072": {
+            "id": "1121794456980611072",
+            "text": "What labor of love!!https://twitter.com/StefanDGeorge/status/1121793225352601602\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120868512212369411": {
+            "id": "1120868512212369411",
+            "text": "Congrats! We are so happy for you.https://twitter.com/haydenzadams/status/1120759500137537539\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120706746648027136": {
+            "id": "1120706746648027136",
+            "text": "Nice mention from the kind folks at @ChicagoInno who just published an article on local bootstrapped companies.  Thanks!https://www.americaninno.com/chicago/inno-insights-chicago/bootstrapping-in-chicago/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118215237327564800": {
+            "id": "1118215237327564800",
+            "text": "Thank you #RunEVM for organizing a  great event. Onwards and upwards. Check out @RosuGrigore opine on the benefits of the K-Framework.pic.twitter.com/0GYXSZmCFa",
+            "username": "rv_inc",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1117815187770355712": {
+            "id": "1117815187770355712",
+            "text": "Are you a programmer or a company using the K Framework? https://runtimeverification.com/blog/k-framework-an-overview/\u00a0\u2026 \u2026 Are you building tools using the #Kframework? Send us some love, by \"liking\" this or posting a link, and we'll love you back. pic.twitter.com/mxXo1yRUb4",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1117623818481274887": {
+            "id": "1117623818481274887",
+            "text": "We\u2019ll be at Tuesday\u2019s #RunEVM event at Factory Berlin Gorlitzer Park, Lohm\u00fchlenstra\u00dfe 65. Come hear all about @RosuGrigore present the K-framework, the Jello Paper, and our IELE virtual machine. Yep, we\u2019re covering a ton of topics.",
+            "username": "rv_inc",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1115250838845427714": {
+            "id": "1115250838845427714",
+            "text": "If you are attending @Linktimetech, please say hi to our own Everett Hidenbrandt. He's also giving a talk on KWASM. #EDCONSydneypic.twitter.com/Sl9WZBqA7T",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113483142831251457": {
+            "id": "1113483142831251457",
+            "text": "We are pleased to announce the completion of our formal verification engagement with @gnosisPM which saw RV formally verify its Gnosis Safe product.  The report we delivered can be found here...https://safe.gnosis.io/formal-verification/\u00a0\u2026.  Happy Reading!",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1110882500233101312": {
+            "id": "1110882500233101312",
+            "text": "A recent interview with the @rv_inc President and CEO, and  @ElrondNetwork advisor, @RosuGrigore:https://medium.com/elrondnetwork/welcoming-grigore-rosu-as-advisor-to-elrond-de1d75721bb2\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1108829983416508417": {
+            "id": "1108829983416508417",
+            "text": "Looking forward to this great event!!https://twitter.com/bmann/status/1108743996052889600\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108351536655142912": {
+            "id": "1108351536655142912",
+            "text": "If you are in Amsterdam tomorrow, @RosuGrigore will open the #langdev meetup with a keynote on the K Framework http://langdevcon.org/#langdev-meetup-at-amazon-amsterdam-21-22-march-2019\u00a0\u2026pic.twitter.com/TOmnVpXAqH",
+            "username": "rv_inc",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1105925684147511296": {
+            "id": "1105925684147511296",
+            "text": "If you like writing expressive Haskell code then you should check our RV's latest blog post. Thomas Tuegel is a boss.\nhttps://runtimeverification.com/blog/code-smell-boolean-blindness/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1104464291539881985": {
+            "id": "1104464291539881985",
+            "text": "https://twitter.com/haydenzadams/status/1103901182068580354\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103277839271510017": {
+            "id": "1103277839271510017",
+            "text": "A telling observation no doubt.https://twitter.com/bog_dan/status/1102870159310684161\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103277371086589954": {
+            "id": "1103277371086589954",
+            "text": "Thought provoking presentation by @MartinLundfall at #ethcc2019 looking at prevailing values in blockchain governance that are not entirely black and white, rather they exist in the gray space all of society occupies.",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102665252951355392": {
+            "id": "1102665252951355392",
+            "text": "Team dinner in Paris before #EthCC. Delicious!!pic.twitter.com/aTbaLH8i9v",
+            "username": "rv_inc",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1100445285535371264": {
+            "id": "1100445285535371264",
+            "text": "Looking forward to a great event in Oz!!https://twitter.com/Linktimetech/status/1098895166767738881\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096763354239168512": {
+            "id": "1096763354239168512",
+            "text": "We are Midwest humble , yes, but sometimes you just have to do a little bragging. \nCongrats to \u2066@LauraFrerichs\u2069 and the whole RP team!\nChampaign-Urbana Ranked Top Startup City by Silicon Prairie News | Research Park\u201d.  http://www.researchpark.illinois.edu/news/champaign-urbana-ranked-top-startup-city-silicon-prairie-news\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096507512860364806": {
+            "id": "1096507512860364806",
+            "text": "Are you attending http://www.edcon.io\u00a0.  If yes, don't forget to check out RV's Everett Hildenbrandt's presentation on KWASM, a joint effort between @rv_inc and several other contributors.  More to come...",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1096506711735783424": {
+            "id": "1096506711735783424",
+            "text": "We will be attending #EthCC next month and are looking forward to reconnecting with the community.  We are interested in meeting up with folks interested in formal verification, #KEVM, #WASM and of course #K. Give us a shout.",
+            "username": "rv_inc",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1091464482856026114": {
+            "id": "1091464482856026114",
+            "text": "This is wonderful to see.  Congrats @ammkrn!!https://twitter.com/ammkrn/status/1081407948088328192\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090704028781211649": {
+            "id": "1090704028781211649",
+            "text": "We look forward to attending the @InputOutputHK Summit, April 17 & 18, in Miami.  Will we see you there too?",
+            "username": "rv_inc",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1090678743218176000": {
+            "id": "1090678743218176000",
+            "text": "Our founder and CEO, @RosuGrigore, will be at the 5th School on Engineering Trustworthy Software Systems at Southwest University in Chongqing, China from April 21 to the 27th.  http://www.swu-rise.net.cn/SETSS2019/\u00a0",
+            "username": "rv_inc",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1083754151522304002": {
+            "id": "1083754151522304002",
+            "text": "We think the Jello Paper is a pretty big deal but we\u2019re biased. Thank you for the call out.https://twitter.com/expede/status/1083483160837419008\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1074034051282034689": {
+            "id": "1074034051282034689",
+            "text": "Congratulations to Dr. Daejun Park on the completion of your PhD. Now let\u2019s get to work pic.twitter.com/3ZDAvm9mGO",
+            "username": "rv_inc",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1072927642532360192": {
+            "id": "1072927642532360192",
+            "text": "A full day at #PlutusFest saw the RV team demo our work on \"Plutus-IELE\" and review completed work for \"K/IELE\". All very exciting! Congrats to @InputOutputHK, @emurgo_io, @CardanoStiftung, and the entire #cardano community for a great event.",
+            "username": "rv_inc",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1072662538716884992": {
+            "id": "1072662538716884992",
+            "text": "Some nice light reading. We\u2019re happy to make the week\u2019s rundown.http://www.weekinethereum.com/post/180905114498/december-7-2018\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1071425611204358144": {
+            "id": "1071425611204358144",
+            "text": "We are looking forward to this event with RV CEO, @RosuGrigore, in attendance. We\u2019re sure it will be a huge success.https://twitter.com/InputOutputHK/status/1071012166780837888\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1070014937450332166": {
+            "id": "1070014937450332166",
+            "text": "As part of our @ethereum security grant, @rv_inc just completed the initial formal specification and verification of Casper & Randao.  Check out our blog post below as an entry point to review the engagement's technical reports.  Enjoy!  https://bit.ly/2ASKEWs\u00a0",
+            "username": "rv_inc",
+            "num_likes": 23,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1067835032239132677": {
+            "id": "1067835032239132677",
+            "text": "We are proud to announce the opening of Runtime Verification SRL, our subsidiary located in the heart of Bucharest.   Initial focus on the development of the new K-Haskell backend & smart contract verification audits. Check out our blog to learn more. \n https://bit.ly/2Sizu4m\u00a0",
+            "username": "rv_inc",
+            "num_likes": 47,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1063185161444098050": {
+            "id": "1063185161444098050",
+            "text": "Our paper, \u201cFormal Verification Tool for Ethereum VM Bytecode\u201d was recently presented at @FSEconf by Daejun Park, smart contract lead at RV. Congrats Daejun!!\nTool paper: https://bit.ly/2TgTQfS\u00a0\nRepo:https://bit.ly/2Pt3pKc\u00a0",
+            "username": "rv_inc",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1063168362677764097": {
+            "id": "1063168362677764097",
+            "text": "A very late repost of an article mentioning Runtime's engagement with @MakerDAO verifying the latter's multi-Collateral smart contracts.  Such an awesome project with a truly inspiring mission.https://www.bitrates.com/news/p/makerdao-a-stability-engine-with-a-decentralized-governance-model\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1061308316356407298": {
+            "id": "1061308316356407298",
+            "text": "@rv_inc is a proud Gold sponsor for the 18th International Conference on Runtime Verification in Cyprus, next to our partners @ToyotaITC and @DENSOAutoParts If you are in Limassol, please connect with our CEO @RosuGrigore. For the program, visit https://rv2018.isp.uni-luebeck.de/program/\u00a0pic.twitter.com/WWd2ABWTbz",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058516744661319680": {
+            "id": "1058516744661319680",
+            "text": "Safe travels back home to everyone we met and wished we met at @EFDevcon. We leave Prague eager and excited to continue evangelizing the importance of formal verification and security in the blockchain space.",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058516161455906817": {
+            "id": "1058516161455906817",
+            "text": "Thank you to everyone who attended our formal verification workshop earlier today at @EFDevcon. Special shoutout to @dapphub for a dynamite collaboration.",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058504693100490753": {
+            "id": "1058504693100490753",
+            "text": "Yes, @fubuloubu, it\u2019s awesome that Uniswap is written in Vyper!!https://twitter.com/fubuloubu/status/1058409587441889280\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057901086042918912": {
+            "id": "1057901086042918912",
+            "text": "What a great way to start the penultimate day at @EFDevcon then to announce our engagement with @gnosisPM and the formal verification of the #GnosisSafe multisig. It takes a village so additional thanks to @ethereumecf for your support. Cheers from Prague ",
+            "username": "rv_inc",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1057897728297107457": {
+            "id": "1057897728297107457",
+            "text": "What great teams to partner with - both @gnosisPM and @ethereumecf are exemplary outfits committed to driving positive change and outcomes well beyond the Ethereum ecosystemhttps://twitter.com/StefanDGeorge/status/1057892554753089536\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1057361789455925248": {
+            "id": "1057361789455925248",
+            "text": "Great first day - actually \"Day0\" - at @EFDevcon.  We look forward to great conversations tomorrow as the conference officially opens.  Good Night from Prague.",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057283854023737344": {
+            "id": "1057283854023737344",
+            "text": "Hey, look who we found at @EFDevcon! @ElrondNetwork is actively researching the K-framework  and they\u2019re Romanian!! Great to meet you!pic.twitter.com/4OVgvSgh6v",
+            "username": "rv_inc",
+            "num_likes": 35,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1057247850873217027": {
+            "id": "1057247850873217027",
+            "text": "@rv_inc all good to go for the @EFDevcon grantee showcase in the Ultaviolet room on the 3rd floor. Come chat!!pic.twitter.com/rZ8v6pd0Ug",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1057189674383486976": {
+            "id": "1057189674383486976",
+            "text": "We are all set to go at @EFDevcon. Come visit our sponsor booth on the 3rd floor (corner overlooking the bridge) and our display at the grantee \u201cscience fair.pic.twitter.com/DmZCVGzNct",
+            "username": "rv_inc",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1055932506267152384": {
+            "id": "1055932506267152384",
+            "text": "Hi @work_blockchain - London calling? It has a nice ring to it. Perhaps we could organize something after the new year. In the meantime we are happy to connect you with one of our devs who lives in Greater London. DM if interested.https://twitter.com/work_blockchain/status/1055541188231659520\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1055500252982247424": {
+            "id": "1055500252982247424",
+            "text": "Want to get your hands dirty with formal verification? Come to the @dapphub and @rv_inc  workshop on \"Formal verification using klab\" - November 2nd at @EFDevcon IV.  See you in Prague!!\n@MartinLundfall - you ready for this? ",
+            "username": "rv_inc",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1054788507875598336": {
+            "id": "1054788507875598336",
+            "text": "Interested in security & verification of smart contracts? We\u2019d love to meet you and your team at @EFDevcon in Prague. Please grab a free spot on our calendar. \nhttps://doodle.com/poll/mdii8zu7ccvhgfw8\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1050432156466638850": {
+            "id": "1050432156466638850",
+            "text": "Can you believe we are less than 3 weeks from @EFDevcon! We are excited to chat with folks about smart contract security and verification.  Interested in chatting with our team about your project? We'd love to meet in Prague. Reach out so we can get something on the calendar.",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1045793798079557632": {
+            "id": "1045793798079557632",
+            "text": "We made it really easy for you to read our best blog posts. @rv_inc is on Medium now. Read, follow, bookmark, clap. And enjoy the weekend!https://medium.com/@rv_inc\u00a0",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1044983326686175232": {
+            "id": "1044983326686175232",
+            "text": "ERC777-K is parametric in the execution environment. https://goo.gl/z6cSLx\u00a0 It can be plugged-and-played within any execution environment which has a formal semantics, such as a virtual machine or a programming language. #ERC777 #ethereum Demohttps://youtu.be/2JWxt0N721Y\u00a0",
+            "username": "rv_inc",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1044768018553864192": {
+            "id": "1044768018553864192",
+            "text": "Thanks for the mention @zacharylarsonhttps://twitter.com/zacharylarson/status/1044646008439885826\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044633880874143746": {
+            "id": "1044633880874143746",
+            "text": "ERC777-K is parametric in the implementation-dependent behaviors https://goo.gl/z6cSLx\u00a0 It can be easily instantiated to admit any standard-conforming implementation besides the reference implementation. ERC777-K can be quickly used to verify any potential #ERC777 implementation",
+            "username": "rv_inc",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1044277941998407680": {
+            "id": "1044277941998407680",
+            "text": "Being executable, ERC777-K has been thoroughly tested: https://goo.gl/z6cSLx\u00a0 We provide more than 200 unit tests for ERC777-K, which can be also used for potential ERC777 implementations to check if they conform to the standard. #ERC777 #ethereum Videohttps://youtu.be/2JWxt0N721Y\u00a0",
+            "username": "rv_inc",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1043272858212941825": {
+            "id": "1043272858212941825",
+            "text": "Introducing ERC777-K: Executable, testable, rigorous, comprehensive, EVM-independent formal specification for ERC777 tokens! More details: https://runtimeverification.com/blog/erc777-k-formal-executable-specification-of-erc777/\u00a0\u2026 Video:https://youtu.be/Ty2zuE0R6B4\u00a0",
+            "username": "rv_inc",
+            "num_likes": 41,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1038355211822215168": {
+            "id": "1038355211822215168",
+            "text": "Congrats to the organizers of @ETHBerlin and the sponsors as well. Great talks yesterday by all the presenters. Good luck hackers!!",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037673865886031873": {
+            "id": "1037673865886031873",
+            "text": "Very interesting conversation about tooling in the @ethereum security space. ETHSecurity unconference at @fullnode_berlinpic.twitter.com/c9OP2MCy2G",
+            "username": "rv_inc",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1036909055288078336": {
+            "id": "1036909055288078336",
+            "text": "Great visit to @rv_inc\u2019s new Bucharest office inside Regus Roseetti. We open shop October 1st with an eye on building a smart contract verification / blockchain services team. Interested? Give us a shout via DM. And yes, that\u2019s our rooftop terrace :)pic.twitter.com/NKl7Qbwlzq",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1036703179214401541": {
+            "id": "1036703179214401541",
+            "text": "Going to @ETHBerlin this week? Interested in smart contract security? @Patrick_S_MacKa, COO of @rv_inc, would love to speak with you and introduce our formal verification services. Give us a shout!",
+            "username": "rv_inc",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1036681459820580865": {
+            "id": "1036681459820580865",
+            "text": "Diving into some great local eats with a great team.pic.twitter.com/alBpDsfQ2z",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1036652536273485824": {
+            "id": "1036652536273485824",
+            "text": "Dinner with the @rv_inc team in Romania. Time for some good food and drink!!",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1032450341713977344": {
+            "id": "1032450341713977344",
+            "text": "Thank you for the mention!https://twitter.com/airswap/status/1032296343195332609\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1031621825170690049": {
+            "id": "1031621825170690049",
+            "text": "Today we are excited to launch our C/C++ Toolkit MVP https://goo.gl/KP7SRZ\u00a0 If you are a C/C++ developer, please help us improve the product by providing feedback here https://goo.gl/WvYXf6\u00a0. Please RT so others can help us improve the product. #C #undefinedbehaviors #dataracespic.twitter.com/PNkgbC9Mvd",
+            "username": "rv_inc",
+            "num_likes": 15,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1031580763354005504": {
+            "id": "1031580763354005504",
+            "text": "@rv_inc looks forward to visiting Berlin next month for @ETHberlin and the Ethereum Security Unconf (ETHSecurity).  Please reach out if you\u2019ll be in Berlin and are interested in learning about RV\u2019s smart contract verification services.",
+            "username": "rv_inc",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1030561466657722369": {
+            "id": "1030561466657722369",
+            "text": "A nice old series of posts on undefined behaviors in C/C++. (The 2nd post, on the consequences of compiler optimizations, is particularly enlightening.) http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html\u00a0\u2026 \n\nP.S. Our RV-Match product detects programs that depend on undefined behavior. https://runtimeverification.com/match/1.0/docs/\u00a0",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1029802740581654528": {
+            "id": "1029802740581654528",
+            "text": "Intern lunch @ Farrens. Nothing says a job well done like a great burgerpic.twitter.com/5jVRz9nUpR",
+            "username": "rv_inc",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1029771665104936960": {
+            "id": "1029771665104936960",
+            "text": "\"Formal verification of ERC-20 contracts\" https://runtimeverification.com/blog/erc-20-verification/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1029701893298286592": {
+            "id": "1029701893298286592",
+            "text": "Very prescient article examining vulnerabilities in smart contracts featuring interview excerpts with RV CEO \u2066\u2066@RosuGrigore\u2069. Ignore formal verification and you could get burned.https://www.computing.co.uk/ctg/news/3033006/blockchain-update-the-danger-posed-by-smart-contracts\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1029701154761056262": {
+            "id": "1029701154761056262",
+            "text": "Yes, a very good suggestion indeed!!https://twitter.com/SebastienGllmt/status/1029437488853475328\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1026834835866873856": {
+            "id": "1026834835866873856",
+            "text": "As part of the IELE Testnet, @rv_inc & @InputOutputHK drafted and published several great resources to get started with IELE.  Interested in learning more? Visit here :) - https://testnet.iohkdev.io/goguen/iele/resources/links/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1024986267870740480": {
+            "id": "1024986267870740480",
+            "text": "And that's a wrap Traverse City.  Thank you #MWIN for sponsoring our attendance and to #CARMBS for a wonderful conference. Very impressive lineup of topics and presenters. Lots to think about and persons to connect with. Until next year...",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1024728134560698368": {
+            "id": "1024728134560698368",
+            "text": "We just submitted a couple different presentation topics for #DevCon4.  We look forward to engaging with the @ethereum community and ecosystem at the conference.  See you in Prague in 3 months!",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1024655776391094272": {
+            "id": "1024655776391094272",
+            "text": "Thank you @CryptoAmb for the article on the launch of the IELE Testnet.  Great to see industry and media interest. DM @rv_inc if you'd like to learn more about our formal design and smart contract verification services for the blockchain.https://ambcrypto.com/cardano-adas-2nd-testnet-launched-by-iohk-iele/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1024654928742998016": {
+            "id": "1024654928742998016",
+            "text": "Thank you @PaymentWeek for the article on the launch of the IELE Testnet.  Great to see industry and media interest in a project we care so deeply about.  #IELEhttps://paymentweek.com/2018-7-30-iohk-launches-iele-virtual-machine-testnet-cardano-blockchain/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1024277771563008001": {
+            "id": "1024277771563008001",
+            "text": "Thank you @cargroup for a great first day at #CARMBS! @rv_inc has excellent clients and partners, but is still looking for feedback on its suite of products: Match https://goo.gl/X8RHMs\u00a0 Predict https://goo.gl/1vLkwC\u00a0 Monitor https://goo.gl/FRFQsg\u00a0 #embeddedsystems #QNXpic.twitter.com/QmHuxB0jwC",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1024005323810594816": {
+            "id": "1024005323810594816",
+            "text": "P.S. We built IELE. \n\nP.P.S. We're hiring: formal verification, C, C++, or Haskell. https://runtimeverification.com/careers/\u00a0",
+            "username": "rv_inc",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1023990890665336832": {
+            "id": "1023990890665336832",
+            "text": "Are you in Traverse City, MI for #carmbs.  If so, come meet @rv_inc tonight in the white tent at the Startup Village, 5pm to 7.  We have a #dynamicanalysis RV Toolkit you may be interested in.pic.twitter.com/nStC7wG16t",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1023978523130822656": {
+            "id": "1023978523130822656",
+            "text": "You've seen our retweets of IOHK's launch of the IELE testnet. IELE is a smart contract virtual machine fully generated from a formal specification. It's open source. Find it and its documentation here:https://github.com/runtimeverification/iele-semantics\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1023946317062656003": {
+            "id": "1023946317062656003",
+            "text": "Did you know there are more than 300 million lines of code in an autonomous vehicle? For comparison purposes, there are \"only\" 15 million lines in a Boeing 787.  Statistics provided during \"security vulnerabilities\" breakout session. Interesting learnings from #CARMBS",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1022860234447093760": {
+            "id": "1022860234447093760",
+            "text": "RV is excited to attend CAR Management Briefing Seminars in Traverse City, MI from July 30 to August 2nd.  A great opportunity to not only introduce our products and services but also engage with auto manufacturers and suppliers. See you soon!!https://www.cargroup.org/mbs/\u00a0",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1022857731596845056": {
+            "id": "1022857731596845056",
+            "text": "IELE testnet to be launched on July 30th in collaboration with @InputOutputHK, a truly great partner.  Interested in learning about IELE? Explore its repo.https://github.com/runtimeverification/iele-semantics\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1012652949871439873": {
+            "id": "1012652949871439873",
+            "text": "We are in Iasi, Romania, to give invited talks at FROM'18 (https://fmse.info.uaic.ro/event/from-2018/\u00a0\u2026) and several universities, to recruit talent for our newly coming office in (Eastern) Europe.  Take the K challenge in Haskell if interested: http://www.kframework.org/index.php/K_Project_Needs_Professional_Developers\u00a0\u2026.pic.twitter.com/ywC8vGXw0a",
+            "username": "rv_inc",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1006978672912486400": {
+            "id": "1006978672912486400",
+            "text": "Our CEO @RosuGrigore talked to Epicenter about the K-Framework https://epicenter.tv/episode/239/\u00a0. On YouTube at http://youtu.be/JFOnoqAplAY\u00a0. You can learn more about the framework from the @rv_inc blog https://runtimeverification.com/blog/k-framework-an-overview/\u00a0\u2026.",
+            "username": "rv_inc",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1004972385584414725": {
+            "id": "1004972385584414725",
+            "text": "Last night at the @rv_inc HQ.https://twitter.com/IOHK_Charles/status/1004864623957499904\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 32,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1004818725206478848": {
+            "id": "1004818725206478848",
+            "text": "We are looking to add a Haskell Engineer to the K Framework development team. Please apply here: https://runtimeverification.com/careers/haskell-engineers/\u00a0\u2026 #Heskell #Engineering #Jobs",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1003640410160451584": {
+            "id": "1003640410160451584",
+            "text": "Come visit with Runtime Verification at the 2018 NSF SBIR Phase II conference. We are display 186 in the Technology Showcase. We look forward to speaking with you about our analysis tools for automotive, aerospace, and the blockchain. #NSFInnovation",
+            "username": "rv_inc",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "993843004531146757": {
+            "id": "993843004531146757",
+            "text": "Runtime Verification is actively recruiting for Smart Contract Formal Verification Engineers https://goo.gl/NsYHE5\u00a0 and Senior C/C++ Engineers https://goo.gl/k6w1aD\u00a0. Visit our Careers page for more https://goo.gl/McczKU\u00a0 #jobs #engineeringpic.twitter.com/s3kFOTLMCO",
+            "username": "rv_inc",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "989256683057831937": {
+            "id": "989256683057831937",
+            "text": "Comprehensive progress update by @IOHK_Charles on the various interconnected Cardano projects, including #IELE and #KEVM, which @rv_inc is in charge of.  Everything is on track.https://twitter.com/IOHK_Charles/status/989224665909465089\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "986650589449932800": {
+            "id": "986650589449932800",
+            "text": "You can now have your #smartcontract formally verified by @rv_inc:\nhttps://runtimeverification.com/smart_contract/\u00a0. The same #kframework-based technology is used to formalize #KEVM and #IELE, and to verify Casper. Thanks to @InputOutputHK and @ethereum for funding and support. #blockchain #securitypic.twitter.com/7B06qAoh2T",
+            "username": "rv_inc",
+            "num_likes": 20,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "985542650479759360": {
+            "id": "985542650479759360",
+            "text": "The list of CSF'18 accepted papers is out: https://www.cs.ox.ac.uk/conferences/csf2018/index.html\u00a0\u2026\nOur EVM formal semantics in K (paper 17) will be presented in a special blockchain track.",
+            "username": "rv_inc",
+            "num_likes": 27,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "983398246071578626": {
+            "id": "983398246071578626",
+            "text": "Our tour continues on the East Coast, at @NASAGoddard, @NSAGov, and @usnistgov, where the team will present our dynamic analysis tools for C undefined behavior: #rvmatch https://goo.gl/ihxbmJ\u00a0 and #rvpredict https://goo.gl/jHgd4Z\u00a0 #undefinedbehavior #CProgrammingLanguagepic.twitter.com/dvFVJKwTUk",
+            "username": "rv_inc",
+            "num_likes": 54,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "978262158466273280": {
+            "id": "978262158466273280",
+            "text": "Runtime Verification is excited to be in Houston and demo our C safety analysis products, Match and Predict, to NASA. Looking forward to a great presentation and conversation. #rvmatch #rvpredict http://ow.ly/Evzu30j9Ifv\u00a0pic.twitter.com/ZyrSBGa7R6",
+            "username": "rv_inc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "977559620637126656": {
+            "id": "977559620637126656",
+            "text": "Why does C11 program below segfaults when compiled with gcc -O3? It runs normally when you drop -O3.\n\nProgram has undefined behavior, caught by kcc (part of RV-Match tool https://runtimeverification.com/match/\u00a0) as seen in picture, but what does gcc do? #undefinedbehavior #CProgrammingLanguagepic.twitter.com/Ox21noNvbR",
+            "username": "rv_inc",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "977265241787596810": {
+            "id": "977265241787596810",
+            "text": "Runtime Verification Inc is proud to sponsor the  18th International Conference on Runtime Verification in Limassol, Cyprus (November 10-13, 2018) https://rv2018.isp.uni-luebeck.de/\u00a0",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "972091089825026049": {
+            "id": "972091089825026049",
+            "text": "Proud to announce that several world experts joined our Runtime Verification team:\n  https://runtimeverification.com/team/\u00a0\nRalph Johnson: author of the famous Design Patterns book\nDarko Marinov: top notch testing expert\nAnd many others, and we are still hiring!",
+            "username": "rv_inc",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "971421751363166208": {
+            "id": "971421751363166208",
+            "text": "Thrilled to be the recipients of the first Ethereum Foundation Security Grant, for formal verification of Ethereum contracts and development of related tooling!\n\nLet's build secure smart contracts together!  (PS we're hiring).https://twitter.com/jon_choi_/status/971415354793693185\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 28,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "956555354988523520": {
+            "id": "956555354988523520",
+            "text": "Good overview of the EVM semantics in K developed at UIUC (@IllinoisCS, @RosuGrigore ) and RV (@rv_inc) , which will serve as a basis for smart contract verification at RV (to be announced soon).  Everett is a PhD student at UIUC and an intern at RV.https://twitter.com/InputOutputHK/status/956531871092850688\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "952925521637183488": {
+            "id": "952925521637183488",
+            "text": "IELE: a new VM for the blockchain, developed by @rv_inc in collaboration with @InputOutputHK.  One of IELE's major design forces was its programs be human-readable and machanically verifiable.  An ERC20 token in IELE: https://github.com/runtimeverification/iele-semantics/blob/master/iele-examples/erc20.iele\u00a0\u2026\n\nRead more at https://runtimeverification.com/blog/?p=498\u00a0.",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "943231896074547200": {
+            "id": "943231896074547200",
+            "text": "More on the new IELE VM, as well as access to its open source code:\nhttps://runtimeverification.com/blog/?p=498\u00a0\nWe are hiring!https://twitter.com/rv_inc/status/943226763211083777\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "943226763211083777": {
+            "id": "943226763211083777",
+            "text": "@rv_inc and @InputOutputHK teamed up to design, develop and deploy IELE, a new virtual machine for the blockchain.  IELE is an LLVM-style VM designed as a formal specification in K. whose implementation is generated automatically, correct by construction.https://paymentweek.com/2017-12-18-runtime-verification-iohk-launch-virtual-machine-blockchains/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "941656142844964864": {
+            "id": "941656142844964864",
+            "text": "Don't forget to join our channel for discussion: https://riot.im/app/#/room/#k:matrix.org\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "941655923487014913": {
+            "id": "941655923487014913",
+            "text": "Announcing the release of our formal Viper compiler, and the world's first formally verified Viper contract!\n\nhttps://runtimeverification.com/blog/?p=617\u00a0",
+            "username": "rv_inc",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "941638649439014913": {
+            "id": "941638649439014913",
+            "text": "Introducing IELE, a new LLVM-inspired VM for the blockchain.\nIts design was done at the highest mathematical standards using K: a semantics-first approach with verification of smart contracts as a major objective.\n\nMore details: https://runtimeverification.com/blog/?p=498\u00a0pic.twitter.com/3twr6dfgig",
+            "username": "rv_inc",
+            "num_likes": 41,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "941119972566237184": {
+            "id": "941119972566237184",
+            "text": "ERC20-K: Formal Executable Semantics of ERC20 https://runtimeverification.com/blog/?p=496\u00a0\n\nWe welcome feedback and discussions on our public channels:\nRiot - https://riot.im/app/#/room/#erc20-k:matrix.org\u00a0\u2026\nGitter - https://gitter.im/runtimeverification/erc20-semantics\u00a0\u2026https://twitter.com/rv_inc/status/938418648804360198\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "938418648804360198": {
+            "id": "938418648804360198",
+            "text": "Introducing ERC20-K: Executable, testable, rigorous, comprehensive, EVM-independent formal specification for ERC20 tokens!\n\nMore details: https://runtimeverification.com/blog/?p=496\u00a0pic.twitter.com/6uQZ5K0Ze3",
+            "username": "rv_inc",
+            "num_likes": 94,
+            "num_retweets": 42,
+            "num_replies": 5
+        },
+        "935661108500844544": {
+            "id": "935661108500844544",
+            "text": "We are now accepting payment at formalverification.eth or runtimeverification.eth for any and all payments to RV Inc. by partners and clients.  We  ENS!",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "928960549387493376": {
+            "id": "928960549387493376",
+            "text": "K team = RV inc (@rv_inc ) + FSL (@RosuGrigore 's lab at @IllinoisCS).https://twitter.com/phildaian/status/928624842928205825\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "927939015390711813": {
+            "id": "927939015390711813",
+            "text": "RV Inc. is hiring smart contract verification engineers. https://runtimeverification.com/contact/\u00a0\n\nHelp us w correctness of multisig wallets, compilers, ...",
+            "username": "rv_inc",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "923188624144904193": {
+            "id": "923188624144904193",
+            "text": "More technical details in our announcement here: https://runtimeverification.com/blog/?p=459\u00a0\n\nExcited to work on this project with @InputOutputHK.https://twitter.com/InputOutputHK/status/923116712928653312\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "921010266812436480": {
+            "id": "921010266812436480",
+            "text": "Runtime Verification and Formal Systems Lab @ UIUC to formalize Ethereum's Viper: https://runtimeverification.com/blog/?p=411\u00a0\n\nTowards secure smart contracts!",
+            "username": "rv_inc",
+            "num_likes": 30,
+            "num_retweets": 18,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "koeppelmann": 2,
+        "gregorydhill": 1,
+        "FISSIONcodes": 1,
+        "bmann": 1,
+        "gnosisSafe": 3,
+        "phildaian": 7,
+        "SebastienGllmt": 7,
+        "paulhauner": 1,
+        "RosuGrigore": 11,
+        "YoureWelcomeCU": 1,
+        "IllinoisCS": 1,
+        "jdallke": 1,
+        "work_blockchain": 1,
+        "MihailoBjelic": 1,
+        "InputOutputHK": 19,
+        "TacticalGrace": 1,
+        "gnosisPM": 2,
+        "veryNR": 1,
+        "Felipether": 1,
+        "Patrick_S_MacKa": 1,
+        "feindura": 1,
+        "fubuloubu": 1,
+        "CardanoStiftung": 4,
+        "bog_dan": 5,
+        "cvlad": 1,
+        "Katsumoto87": 1,
+        "concept_w_com": 1,
+        "VladZamfir": 1,
+        "IOHK_Charles": 4,
+        "MartinLundfall": 1,
+        "thinkandgrowbtc": 1,
+        "msuiche": 1,
+        "crypto_ninjas": 1,
+        "emurgo_io": 1
+    },
+    "users_retweeted": [
+        "InputOutputHK",
+        "RosuGrigore",
+        "phildaian",
+        "SebastienGllmt",
+        "bog_dan",
+        "CardanoStiftung",
+        "IOHK_Charles",
+        "gnosisSafe",
+        "koeppelmann",
+        "gnosisPM",
+        "gregorydhill",
+        "FISSIONcodes",
+        "bmann",
+        "paulhauner",
+        "YoureWelcomeCU",
+        "IllinoisCS",
+        "jdallke",
+        "work_blockchain",
+        "MihailoBjelic",
+        "TacticalGrace",
+        "veryNR",
+        "Felipether",
+        "Patrick_S_MacKa",
+        "feindura",
+        "fubuloubu",
+        "cvlad",
+        "Katsumoto87",
+        "concept_w_com",
+        "VladZamfir",
+        "MartinLundfall",
+        "thinkandgrowbtc",
+        "msuiche",
+        "crypto_ninjas",
+        "emurgo_io"
+    ]
+}

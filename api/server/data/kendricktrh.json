@@ -1,0 +1,808 @@
+{
+    "is_complete": true,
+    "username": "kendricktrh",
+    "retweeted": {
+        "1101849701480124416": {
+            "id": "1101849701480124416",
+            "text": "Had an amazing 3 days at the #QiskitCamp! Met a whole lot of incredible  people in quantum computing and got to hack up a quantum walk program. Thank you @qiskit @IBMResearch for this amazing experience!pic.twitter.com/idTPwwmDdt",
+            "username": "desireevogtlee",
+            "num_likes": 25,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1041010429907021824": {
+            "id": "1041010429907021824",
+            "text": "@GitHubEducation #MyOctocat #HackTheNorth An Octocat drawing that truly shows the Waterloo spirit.pic.twitter.com/F1JZYkjmU9",
+            "username": "JeffZha55136011",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "966417862469603329": {
+            "id": "966417862469603329",
+            "text": "Just blogged: I've Just Launched \"Pwned Passwords\" V2 With Half a Billion Passwords for Downloadhttps://troy.hn/2EHqOSM\u00a0",
+            "username": "troyhunt",
+            "num_likes": 554,
+            "num_retweets": 340,
+            "num_replies": 21
+        },
+        "965837671317647360": {
+            "id": "965837671317647360",
+            "text": "Had an amazing weekend at @theroboclub 72 hour self driving car challenge. It was a privelige to lead such a high performance team. Looking forward to the next challenge! @kendricktrh @bensand @mack2it @konradkislam @StringStory @pjlauriepic.twitter.com/0jFmFWBXA1",
+            "username": "hgrwilson",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "949650550886486016": {
+            "id": "949650550886486016",
+            "text": "This is amazing! One of our community members, Lena, has been heating her house all winter with her #zen #miningrig in #canada. Do you have a cool pic of your #zen #miningrig? We'd love to see! http://zencash.com/mining-pools/\u00a0pic.twitter.com/6QKNqaDdnS",
+            "username": "horizenglobal",
+            "num_likes": 124,
+            "num_retweets": 32,
+            "num_replies": 15
+        },
+        "942109216214536192": {
+            "id": "942109216214536192",
+            "text": "Holy shitpic.twitter.com/uo8DSLFSKA",
+            "username": "tealtan",
+            "num_likes": 321,
+            "num_retweets": 132,
+            "num_replies": 15
+        },
+        "940811690286964737": {
+            "id": "940811690286964737",
+            "text": "QFPL is running Functional Programming courses in Brisbane.https://groups.google.com/forum/#!topic/nicta-fp/727xtX7sYgk\u00a0\u2026",
+            "username": "queenslandfplab",
+            "num_likes": 11,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "932143237023666176": {
+            "id": "932143237023666176",
+            "text": "And the winners are: First place #InternetFreedomLaunchpad ; runner up & best idea #DecentralisedU & best technical demo #LeetSpeakV2 @thoughtworks #InternetFreedomHackathonpic.twitter.com/CpZKBuMrbL",
+            "username": "DrMoniqueMann",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "925844750837669888": {
+            "id": "925844750837669888",
+            "text": "ZoKrates: a programming language that compiles to ethereum ZKPs.pic.twitter.com/RmzpBlwJxi",
+            "username": "VitalikButerin",
+            "num_likes": 1161,
+            "num_retweets": 378,
+            "num_replies": 43
+        },
+        "926353907051200512": {
+            "id": "926353907051200512",
+            "text": "What happens when you try to tell someone that using a pseudo password field to avoid browser warnings is bad: https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/#comment-3597569121\u00a0\u2026pic.twitter.com/bXHCJW6kGy",
+            "username": "troyhunt",
+            "num_likes": 42,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "918682305849208833": {
+            "id": "918682305849208833",
+            "text": "Thrilled to be heading to Silicon Valley/ San Fran in two weeks for the @catalyst_au youth mission. Alongside 20 other young Australians!",
+            "username": "jxgrnt",
+            "num_likes": 30,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "918680133132730368": {
+            "id": "918680133132730368",
+            "text": "Super stoked to announce that I'll be heading to San Fran with @catalyst_au on the youth mission.",
+            "username": "deecewan",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "915024134094036992": {
+            "id": "915024134094036992",
+            "text": "Queensland FP Lab is hosting a free 3-day introductory FP course in Brisbane, 16-18 October 2017.\n\nhttps://qfpl.io/links/2017-october-fp-course/\u00a0\u2026",
+            "username": "queenslandfplab",
+            "num_likes": 8,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "898679573717581824": {
+            "id": "898679573717581824",
+            "text": "#ProTip: Learn you some SQL! Not relying on ORMs for every DB manipulation may be the key for better performance!pic.twitter.com/nanVkEUzl9",
+            "username": "joaolucasluc",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "888515837232951296": {
+            "id": "888515837232951296",
+            "text": "@dibblego looks like there a need for Haskell in the blockchain community!https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce\u00a0\u2026",
+            "username": "silviapfeiffer",
+            "num_likes": 7,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "878705630420258816": {
+            "id": "878705630420258816",
+            "text": "The only conference swag I've ever cherished!pic.twitter.com/qsrnjA6NTL",
+            "username": "shivon",
+            "num_likes": 187,
+            "num_retweets": 22,
+            "num_replies": 13
+        },
+        "878469292831809536": {
+            "id": "878469292831809536",
+            "text": "Creative Adversarial Networks: an attempt to use deep learning to generate appealing artworks - https://arxiv.org/abs/1706.07068\u00a0pic.twitter.com/AMF72sZGZh",
+            "username": "fchollet",
+            "num_likes": 346,
+            "num_retweets": 164,
+            "num_replies": 6
+        },
+        "876361863486873602": {
+            "id": "876361863486873602",
+            "text": "[P] Indexing Faces on Instagram - Searching Facial Features on Instagram http://dlvr.it/PN9DYh\u00a0",
+            "username": "mxlearn",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "873313816351834114": {
+            "id": "873313816351834114",
+            "text": "ICYMI \"Great talent, bleeding edge tech and huge market potential,\" Graeme Wood on @popgunlabs. Full story: http://buff.ly/2t0ALkb\u00a0pic.twitter.com/PRonI5exxN",
+            "username": "QChiefEntrepren",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "873608998561304576": {
+            "id": "873608998561304576",
+            "text": "The flying cars are finally here. Test flight by @kittyhawkcorppic.twitter.com/Q95KmYvHth \u2013 at Ferry Building",
+            "username": "faraz_r_khan",
+            "num_likes": 27,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "867260010425962497": {
+            "id": "867260010425962497",
+            "text": "My friend @kendricktrh is on @ProductHunt today with a pretty funny ML project. Check it out ->https://www.producthunt.com/posts/edges2pepes\u00a0\u2026",
+            "username": "awoldes",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "866859733004767232": {
+            "id": "866859733004767232",
+            "text": "Brilliant to see #qld startup @popgunlabs on this all-star list. Well done and welcome home.  http://buff.ly/2rbyDcd\u00a0",
+            "username": "QChiefEntrepren",
+            "num_likes": 14,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "865748780875882496": {
+            "id": "865748780875882496",
+            "text": ".@popgunlabs mentioned in Forbes: How Artificial Intelligence Can Make The Music Industry Profitablehttps://www.forbes.com/sites/nelsongranados/2017/05/19/techstars-how-artificial-intelligence-can-make-the-music-industry-profitable/#a21a38c6ec94\u00a0\u2026",
+            "username": "mawsonguy",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "865254591008342017": {
+            "id": "865254591008342017",
+            "text": "Huge thanks to @techstars and @bobmoz for the opportunity to live and work in LA. Today should be a lot of fun. @popgunlabspic.twitter.com/w5rI38nSHG",
+            "username": "mawsonguy",
+            "num_likes": 35,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "862362444504514560": {
+            "id": "862362444504514560",
+            "text": "Some of the @popgunlabs team hard at work on a Wednesday morning at @techstars Music LA. Only a week to go!pic.twitter.com/bE8avo4Hwl",
+            "username": "mawsonguy",
+            "num_likes": 29,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "854712128057614336": {
+            "id": "854712128057614336",
+            "text": "When sun goes down witches and vampires of the world write their code in #haskell\n\n/via @StackOverflowpic.twitter.com/Iji6cr7ujA",
+            "username": "listochkin",
+            "num_likes": 573,
+            "num_retweets": 451,
+            "num_replies": 9
+        },
+        "854490938344734720": {
+            "id": "854490938344734720",
+            "text": "It's finally here! Python 3.6 on Lambda!https://aws.amazon.com/releasenotes/5198208415517126\u00a0\u2026",
+            "username": "TRManderson",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "854186488980004865": {
+            "id": "854186488980004865",
+            "text": "FP + aviation? Hell yeah! @dibblego will also include a live demo of some instruments at #ylj17 in Sydney, May 8-9 http://ow.ly/iudV30aVH0f\u00a0",
+            "username": "yow_conf",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "852676159259136000": {
+            "id": "852676159259136000",
+            "text": "I played music with a computer named Alice today. She's learning quickly. @popgunlabs",
+            "username": "mattdsandler",
+            "num_likes": 30,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "852168089588436993": {
+            "id": "852168089588436993",
+            "text": "I made my own iPhone - in China!  It's a fully functional, like-new iPhone 6s. Here's the video of my journey:https://youtu.be/leFuF-zoVzA\u00a0",
+            "username": "strangepartscom",
+            "num_likes": 318,
+            "num_retweets": 233,
+            "num_replies": 70
+        },
+        "849751163494735875": {
+            "id": "849751163494735875",
+            "text": "Machine Learning engineer @kendricktrh 20% project is a bunch of fun. We are really loving @PyTorch at @popgunlabshttps://github.com/kendricktan/drawlikebobross\u00a0\u2026",
+            "username": "Algomancer",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "847231816834535425": {
+            "id": "847231816834535425",
+            "text": "Congratulations to CodeNetwork founder @Algomancer and his team @kendricktrh @TeslasGhost @CallumHays @JackENolan at @popgunlabs.https://twitter.com/mawsonguy/status/847219487367512065\u00a0\u2026",
+            "username": "QUTCode",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "847219487367512065": {
+            "id": "847219487367512065",
+            "text": "The awesome @popgunlabs team at @Techstars Music in Los Angeles. These guys are fast becoming the hottest tech team in music.pic.twitter.com/SCwfvpeuwu",
+            "username": "mawsonguy",
+            "num_likes": 44,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "841975264221384705": {
+            "id": "841975264221384705",
+            "text": "I will never forget the amazing principal at Lockhart River & the 14yo wizard hacker in Cairns. Humbled and inspired to be a better person.",
+            "username": "mawsonguy",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "841962823999664128": {
+            "id": "841962823999664128",
+            "text": "Last week I visited 10 towns in 4 days and met 100s of inspiring people. Our tech future is super strong with our kids leading the way. 1/2",
+            "username": "mawsonguy",
+            "num_likes": 35,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "841979652780437504": {
+            "id": "841979652780437504",
+            "text": "Adam and Kendrick coding at @techstars in LA. Rockstars!@Algomancer @kendricktrh @sbxrpic.twitter.com/WiEY7wG7ov",
+            "username": "mawsonguy",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "818627177319198721": {
+            "id": "818627177319198721",
+            "text": "DeepStack, first to beat humans at no-limit poker http://ln.is/arxiv.org/abs/hr8hy\u00a0\u2026. Wonder how it compares to CMU's system \u2014 cc @ivan_bezdomny",
+            "username": "clmt",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "817393958439518208": {
+            "id": "817393958439518208",
+            "text": "A simple demo of phishing by abusing the browser autofill feature. #webdev #security\nhttps://github.com/anttiviljami/browser-autofill-phishing\u00a0\u2026pic.twitter.com/IMwTiPmDpp",
+            "username": "randal_olson",
+            "num_likes": 144,
+            "num_retweets": 150,
+            "num_replies": 4
+        },
+        "813274582840786944": {
+            "id": "813274582840786944",
+            "text": "Gated Convolutional Networks beat LSTM on LM (WikiText-103 & One Billion LM for single GPU), faster than CuDNN LSTM\nhttps://arxiv.org/abs/1612.08083\u00a0pic.twitter.com/UBplrTjEAv",
+            "username": "Smerity",
+            "num_likes": 558,
+            "num_retweets": 221,
+            "num_replies": 7
+        },
+        "812720183496310784": {
+            "id": "812720183496310784",
+            "text": "Great Visual & Intuitive Explanation of Variational Autoencoders (learn latent space, sample points from it) http://ijdykeman.github.io/ml/2016/12/21/cvae.html\u00a0\u2026pic.twitter.com/WhCtbYV7LS",
+            "username": "DLdotHub",
+            "num_likes": 37,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "812832694233137153": {
+            "id": "812832694233137153",
+            "text": "Fun fact 27/120: There are nuclear submarines out there carrying 40 nuclear warheads controlled by a computer running Windows XP.",
+            "username": "karpathy",
+            "num_likes": 292,
+            "num_retweets": 155,
+            "num_replies": 20
+        },
+        "810108760010043392": {
+            "id": "810108760010043392",
+            "text": "Traffic is driving me nuts. Am going to build a tunnel boring machine and just start digging...",
+            "username": "elonmusk",
+            "num_likes": 41716,
+            "num_retweets": 12734,
+            "num_replies": 2691
+        },
+        "809569647615832064": {
+            "id": "809569647615832064",
+            "text": "Computers can just generate cats at will now. https://twitter.com/olivercameron/status/809569524445913088\u00a0\u2026",
+            "username": "LukesBeard",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "806561628112064512": {
+            "id": "806561628112064512",
+            "text": "Plug & Play Generative Networks from @jeffclune. I could watch these generated images forever  #creativeAI #AI #nips2016pic.twitter.com/ppfQXpLqWA",
+            "username": "elluba",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "809256268116283396": {
+            "id": "809256268116283396",
+            "text": "\u201cGoing Serverless: 5X Faster, 100X Cheaper\u201d by Tai Hu https://blog.lodr.io/going-serverless-5x-faster-100x-cheaper-2b7db8c37405#.44mtzsjfe\u00a0\u2026",
+            "username": "peteskomoroch",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "807886469511729152": {
+            "id": "807886469511729152",
+            "text": "My top #nips2016 takeawaypic.twitter.com/qmo80nOZfs",
+            "username": "mbeissinger",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "807851759733526529": {
+            "id": "807851759733526529",
+            "text": "Happy to announce I'll be joining #rocketai end of the month as Chief Scientist. Thanks @goodfellow_ian for the encouragement! #feelthelearn",
+            "username": "boredyannlecun",
+            "num_likes": 125,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "807515627489468418": {
+            "id": "807515627489468418",
+            "text": "The first rule of #rocketai is you don't talk about #rocketai.",
+            "username": "OriolVinyalsML",
+            "num_likes": 130,
+            "num_retweets": 24,
+            "num_replies": 6
+        },
+        "804969465192427520": {
+            "id": "804969465192427520",
+            "text": "Awesome sky in #Brisbane #Stormpic.twitter.com/LRBb97qEwG",
+            "username": "Algomancer",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "801095470084784129": {
+            "id": "801095470084784129",
+            "text": "Can anyone uncover who is really writing these fake pieces? Can't be skankhunt42. His work is better than this. http://finance.yahoo.com/news/elon-musk-vs-trolls-100011516.html;_ylc=X1MDMTE5Nzc4NDE4NQRfZXgDMQRfeXJpZAM4YWFjajNwYzM4cW1vBGcDZFhWcFpEeHVjejVoTnpjd1ptWTFNeTFqWVRabUxUTTNaV1V0WWpRNE9DMHpPVEpsWTJZek5URTVZbUk4Wm1sbGJHUStkSE5zWVE9PQRsYW5nA2VuLVVTBG9yaWdfbGFuZwNlbgRvcmlnX3JlZ2lvbgNVUwRwb3MDMwRyZWdpb24DVVMEc3ltYm9sA1RTTEE-?.tsrc=applewf\u00a0\u2026",
+            "username": "elonmusk",
+            "num_likes": 15532,
+            "num_retweets": 4860,
+            "num_replies": 793
+        },
+        "800548040482295808": {
+            "id": "800548040482295808",
+            "text": "1st to @mccarthy_nfm 's team! #swsc #sc2016pic.twitter.com/kDsGQSYAca",
+            "username": "JoshDHolmes",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "800240100512628736": {
+            "id": "800240100512628736",
+            "text": "I like pitch 4 already.\n #swbne16 #GSW2016 @RiverCityLabs @AdvanceQld",
+            "username": "sbxr",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "800254694438244353": {
+            "id": "800254694438244353",
+            "text": "Start with the period and finish with Fit Mumz ....\n#swbne16 #GSW2016 @RiverCityLabs @AdvanceQld @QChiefEntrepren",
+            "username": "sbxr",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "800252645537480704": {
+            "id": "800252645537480704",
+            "text": "Pitch 10. HaiBox\nHome automation for the rest.\n#swbne16 #GSW2016 @RiverCityLabs @AdvanceQld @QChiefEntrepren",
+            "username": "sbxr",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "800240955085332480": {
+            "id": "800240955085332480",
+            "text": "impressive pitch 4",
+            "username": "sbxr",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "800240865046183936": {
+            "id": "800240865046183936",
+            "text": "We've got a customer for our idea at #swbne16pic.twitter.com/EyDUtiOAHy",
+            "username": "JaimynMayer",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "799113742457794560": {
+            "id": "799113742457794560",
+            "text": "BLOG:  12 more Queensland islands you\u2019ve never heard of http://j.mp/2g8AYPZ\u00a0\n#thisisqueenslandpic.twitter.com/3masKGKu8n",
+            "username": "Queensland",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "798299510048817152": {
+            "id": "798299510048817152",
+            "text": "Every day waking up to build the coolest shit on the planet. Loving it. #StartupAus @haitchlabs @kendricktrh @Byron__Mejia @CallumHays",
+            "username": "Algomancer",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "793448496128942080": {
+            "id": "793448496128942080",
+            "text": "11:43pm going strong @mnbbrown @sbxr @RCLaccelerator @RiverCityLabspic.twitter.com/bIyHP8DePY",
+            "username": "ZerongTonyWang",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "786685942795034624": {
+            "id": "786685942795034624",
+            "text": "Hey @kendricktrh, another blog we've been mentioned on because of our #Surion project.  #MLcar\nhttps://goo.gl/e7ULTc\u00a0",
+            "username": "JaimynMayer",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "786686352104493056": {
+            "id": "786686352104493056",
+            "text": "Thanks, guys! @QUTCode represent!",
+            "username": "dsilver829",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "786468923008921600": {
+            "id": "786468923008921600",
+            "text": "When @dsilver829 (guy behind @udacity #selfdrivingcar course) wants @kendricktrh and I to help make an elective module.  @QUTCode represent",
+            "username": "JaimynMayer",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "786465717780525058": {
+            "id": "786465717780525058",
+            "text": "I got some sweet blog stats since getting on @hackaday and trending on @github  (with @kendricktrh)pic.twitter.com/q3tPRrH5hV",
+            "username": "JaimynMayer",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "784707441292349440": {
+            "id": "784707441292349440",
+            "text": "Need a #Saturday project? @jaimynmayer shows how to build his #opensource #selfdriving car - #GitHub #ML #TensorFlow http://ow.ly/tM3x304YMgK\u00a0",
+            "username": "sparrho",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "784535604361125891": {
+            "id": "784535604361125891",
+            "text": "kendricktan/suiron: Machine Learning for RC Cars \u2605145 https://github.com/kendricktan/suiron\u00a0\u2026 #Python",
+            "username": "TrendingGithub",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "784454222649569280": {
+            "id": "784454222649569280",
+            "text": "Machine Learning for RC Cars\n @kendricktrh  @justincaptora \nhttps://github.com/kendricktan/suiron/\u00a0\u2026pic.twitter.com/wMjjGF3do0",
+            "username": "micahstubbs",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "774877564435169281": {
+            "id": "774877564435169281",
+            "text": "Well done @jonnyhall__ @xanderodempsey @ajonelynas for the #Hatchathon16 Success! @QUTCode",
+            "username": "Algomancer",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "774825229889605632": {
+            "id": "774825229889605632",
+            "text": "Artificial intelligence finally hits to aid diagnosis and save $ in remote locations #Hatchathon16 #hackathon #JNJpic.twitter.com/SFUmyy6tt5",
+            "username": "meshlin",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "774828295368036356": {
+            "id": "774828295368036356",
+            "text": "Our own @blaidlee demoing a pill reminder platform. @QUTCode #CNSyd #Hatchathon16pic.twitter.com/el8EinpAlX",
+            "username": "iamjessbarron",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "774162679741100034": {
+            "id": "774162679741100034",
+            "text": "With the @quit code 'we build cool shit' #hackathon #hatchathon #CNSydpic.twitter.com/7jsUfRmwW1",
+            "username": "meshlin",
+            "num_likes": 9,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "774090777362169857": {
+            "id": "774090777362169857",
+            "text": "Loving the new shirts. @QUTCodehttps://twitter.com/trjstewart/status/774087930088304640\u00a0\u2026",
+            "username": "Algomancer",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1075542301336686593": {
+            "id": "1075542301336686593",
+            "text": "Just released http://cuda-bootstrap.com/\u00a0 for those who want a easy one click solution for installing CUDA on their Linux ML/DL machines :) #MachineLearning #CUDA #Linux",
+            "username": "kendricktrh",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1068089509781229569": {
+            "id": "1068089509781229569",
+            "text": "Thank you to @bitfwdxyz community for the opportunity to take part in the  #sydney #blockathon. I had a fantastic two days working on my idea: building developer tools for zero knowledge proofs. I'm also excited to announce that my team (ZKR) won first place!pic.twitter.com/FjkM52AHEO",
+            "username": "kendricktrh",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "929257324622921728": {
+            "id": "929257324622921728",
+            "text": "Capsule Networks Explained!https://www.reddit.com/r/MachineLearning/comments/7c78sw/r_capsule_networks_explained/\u00a0\u2026",
+            "username": "kendricktrh",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "908865931253776385": {
+            "id": "908865931253776385",
+            "text": "#HacktheNorth opinion on the saturation of useless dapps?",
+            "username": "kendricktrh",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "837492948660965376": {
+            "id": "837492948660965376",
+            "text": "Proud to represent!https://twitter.com/michael_dulhill/status/836364785365069824\u00a0\u2026",
+            "username": "kendricktrh",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "834450657985720320": {
+            "id": "834450657985720320",
+            "text": "Happy to announce that I'm representing PopGun in techstars music 2017http://www.billboard.com/articles/business/7694490/techstars-music-reveals-start-ups-for-inaugural-accelerator-program\u00a0\u2026",
+            "username": "kendricktrh",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "815289029524525056": {
+            "id": "815289029524525056",
+            "text": "A non overwhelming list of machine learning g resources, courtesy of @karpathy @udacity @drfeifei #MachineLearninghttp://goo.gl/gD0N0t\u00a0",
+            "username": "kendricktrh",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "809255145649291264": {
+            "id": "809255145649291264",
+            "text": "#endlessneuralnetworks Machine Learning for Facebook Messenger Gameshttps://hackernoon.com/machine-learning-bots-for-facebook-messenger-games-b5c64c964faf\u00a0\u2026",
+            "username": "kendricktrh",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "800252523344863232": {
+            "id": "800252523344863232",
+            "text": "#swbne16 @jaimynmayer pitching haiboxpic.twitter.com/lR4VAT92bx",
+            "username": "kendricktrh",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "799767627266723840": {
+            "id": "799767627266723840",
+            "text": "Machine Learning powered product recommendationthat does things right - https://taiste.tech\u00a0",
+            "username": "kendricktrh",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "784755750102892544": {
+            "id": "784755750102892544",
+            "text": "Woo, got to hackernews front page with @jaimynmayer https://twitter.com/FrontPageHN/status/784732556751241216\u00a0\u2026",
+            "username": "kendricktrh",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "774768733185118209": {
+            "id": "774768733185118209",
+            "text": "Mock pitching at #hatchathon #harrison.ai #CNSydpic.twitter.com/XzqJ4gblaE",
+            "username": "kendricktrh",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "774172372819509248": {
+            "id": "774172372819509248",
+            "text": "#Hatchathon #CNSydpic.twitter.com/2VCD3Qa1Ov",
+            "username": "kendricktrh",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "774093244598583297": {
+            "id": "774093244598583297",
+            "text": "Google Sydney #CNSyd @QUTCode",
+            "username": "kendricktrh",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "774082693277421569": {
+            "id": "774082693277421569",
+            "text": "Getting around @murudau #CNSydpic.twitter.com/7rfQS5uvla",
+            "username": "kendricktrh",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "774054788887564288": {
+            "id": "774054788887564288",
+            "text": "At #Sydney with @QUTCode for the #HaTCHaton",
+            "username": "kendricktrh",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "desireevogtlee": 1,
+        "JeffZha55136011": 1,
+        "troyhunt": 2,
+        "hgrwilson": 1,
+        "horizenglobal": 1,
+        "tealtan": 1,
+        "queenslandfplab": 2,
+        "DrMoniqueMann": 1,
+        "VitalikButerin": 1,
+        "jxgrnt": 1,
+        "deecewan": 1,
+        "joaolucasluc": 1,
+        "silviapfeiffer": 1,
+        "shivon": 1,
+        "fchollet": 1,
+        "mxlearn": 1,
+        "QChiefEntrepren": 2,
+        "faraz_r_khan": 1,
+        "awoldes": 1,
+        "mawsonguy": 7,
+        "listochkin": 1,
+        "TRManderson": 1,
+        "yow_conf": 1,
+        "mattdsandler": 1,
+        "strangepartscom": 1,
+        "Algomancer": 5,
+        "QUTCode": 1,
+        "clmt": 1,
+        "randal_olson": 1,
+        "Smerity": 1,
+        "DLdotHub": 1,
+        "karpathy": 1,
+        "elonmusk": 2,
+        "LukesBeard": 1,
+        "elluba": 1,
+        "peteskomoroch": 1,
+        "mbeissinger": 1,
+        "boredyannlecun": 1,
+        "OriolVinyalsML": 1,
+        "JoshDHolmes": 1,
+        "sbxr": 4,
+        "JaimynMayer": 4,
+        "Queensland": 1,
+        "ZerongTonyWang": 1,
+        "dsilver829": 1,
+        "sparrho": 1,
+        "TrendingGithub": 1,
+        "micahstubbs": 1,
+        "meshlin": 2,
+        "iamjessbarron": 1
+    },
+    "users_retweeted": [
+        "mawsonguy",
+        "Algomancer",
+        "sbxr",
+        "JaimynMayer",
+        "troyhunt",
+        "queenslandfplab",
+        "QChiefEntrepren",
+        "elonmusk",
+        "meshlin",
+        "desireevogtlee",
+        "JeffZha55136011",
+        "hgrwilson",
+        "horizenglobal",
+        "tealtan",
+        "DrMoniqueMann",
+        "VitalikButerin",
+        "jxgrnt",
+        "deecewan",
+        "joaolucasluc",
+        "silviapfeiffer",
+        "shivon",
+        "fchollet",
+        "mxlearn",
+        "faraz_r_khan",
+        "awoldes",
+        "listochkin",
+        "TRManderson",
+        "yow_conf",
+        "mattdsandler",
+        "strangepartscom",
+        "QUTCode",
+        "clmt",
+        "randal_olson",
+        "Smerity",
+        "DLdotHub",
+        "karpathy",
+        "LukesBeard",
+        "elluba",
+        "peteskomoroch",
+        "mbeissinger",
+        "boredyannlecun",
+        "OriolVinyalsML",
+        "JoshDHolmes",
+        "Queensland",
+        "ZerongTonyWang",
+        "dsilver829",
+        "sparrho",
+        "TrendingGithub",
+        "micahstubbs",
+        "iamjessbarron"
+    ]
+}

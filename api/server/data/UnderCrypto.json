@@ -1,0 +1,1320 @@
+{
+    "is_complete": true,
+    "username": "UnderCrypto",
+    "retweeted": {
+        "1017900210008350720": {
+            "id": "1017900210008350720",
+            "text": "Your regular reminder that there's still time to submit to @UnderCrypto, but the deadline is coming up fast!",
+            "username": "DefuseSec",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1012855466689429505": {
+            "id": "1012855466689429505",
+            "text": "I\u2019ll be announcing the @UnderCrypto winners with @DefuseSec at @CryptoVillage again this year. Big thanks to the team for having us!",
+            "username": "adamcaudill",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1006908422149701633": {
+            "id": "1006908422149701633",
+            "text": "Come one come all! Two days until the Crypto & Privacy Village CFP for @defcon 26 closes! http://cryptovillage.org/dc26\u00a0pic.twitter.com/RAmHbSOX7F",
+            "username": "CryptoVillage",
+            "num_likes": 9,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "995120632722374656": {
+            "id": "995120632722374656",
+            "text": "Here's an example of insecure code that's visually identical to secure code (looks exactly the same in my gvim; syntax highlighting is slightly different in atom):https://twitter.com/DefuseSec/status/995115143460634625\u00a0\u2026",
+            "username": "DefuseSec",
+            "num_likes": 9,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "881671651603206144": {
+            "id": "881671651603206144",
+            "text": "Are you working on your @UnderCrypto submission? You should be! Ends Wednesday, top prize 15ZEC ($4350 right now)! Get coding!",
+            "username": "adamcaudill",
+            "num_likes": 2,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "867452593815138304": {
+            "id": "867452593815138304",
+            "text": "Better(?) idea: modified bcrypt is externally detectable, but an API like PHP password_hash() leaking a fast hash into salt is undetectable",
+            "username": "solardiz",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "860176044241936386": {
+            "id": "860176044241936386",
+            "text": "Is everyone working on their @UnderCrypto submissions?",
+            "username": "CiPHPerCoder",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "846077165393338368": {
+            "id": "846077165393338368",
+            "text": "Free @UnderCrypto idea: Build a signing function that leaks the private key when entropy is restricted. Oh, wait, that's just (EC)DSA.",
+            "username": "adamcaudill",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "846076565943390209": {
+            "id": "846076565943390209",
+            "text": "Free @UnderCrypto idea: Build a password \"hashing\" algorithm that hides a NOBUS decryption function (think EC_DRBG).",
+            "username": "adamcaudill",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "846075284449382402": {
+            "id": "846075284449382402",
+            "text": "Free @UnderCrypto idea: modify bcrypt/scrypt/etc to embed a simple verifier so a cracker can short circuit processing on incorrect passwords",
+            "username": "adamcaudill",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "843382644939374592": {
+            "id": "843382644939374592",
+            "text": "left as an exercise: design a backdoor that exploits \"zero width space\" characters (http://unicode.scarfboy.com/?s=E2808B\u00a0) in source code",
+            "username": "veorq",
+            "num_likes": 61,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "841685009694044161": {
+            "id": "841685009694044161",
+            "text": "What does supporting us mean? We're trying to compensate (in some way) our speakers, CFP judges, and bring cool new stuff to the Village!https://twitter.com/cryptovillage/status/841461755955957760\u00a0\u2026",
+            "username": "CryptoVillage",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "835033668972326913": {
+            "id": "835033668972326913",
+            "text": "All the amazing crypto attacks in the world, and real security still comes down to someone screwing up memcpy().",
+            "username": "matthew_d_green",
+            "num_likes": 741,
+            "num_retweets": 462,
+            "num_replies": 8
+        },
+        "835640140018110464": {
+            "id": "835640140018110464",
+            "text": "you mixed up the submission deadline with the date when the winners are announced",
+            "username": "tehjh",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "834798690359529472": {
+            "id": "834798690359529472",
+            "text": ".@UnderCrypto idea: write a C program that passes code review and a malicious SHA-1-colliding counterpart. @DefuseSec",
+            "username": "dfranke",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "832055497251487744": {
+            "id": "832055497251487744",
+            "text": "Tried explaining danger of homebrew crypto to a journalist in DM\n\"Cryptography is nightmare magic math that cares what kind of pen you use.\"",
+            "username": "SwiftOnSecurity",
+            "num_likes": 920,
+            "num_retweets": 312,
+            "num_replies": 20
+        },
+        "768958996359188480": {
+            "id": "768958996359188480",
+            "text": "New Alpha Release: Solidifying the Consensus Protocolhttps://z.cash/blog/new-alpha-release-solidifying-the-consensus-protocol.html\u00a0\u2026",
+            "username": "zcashco",
+            "num_likes": 15,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "745386187020349440": {
+            "id": "745386187020349440",
+            "text": "How to Backdoor Diffie-Hellman - a new whitepaper by @lyon01_david showing some fun math tricks! https://www.nccgroup.trust/us/our-research/how-to-backdoor-diffie-hellman/?research=Whitepapers\u00a0\u2026",
+            "username": "NCCCrypto",
+            "num_likes": 32,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "766217324290568192": {
+            "id": "766217324290568192",
+            "text": "the winner entry (well, the only one) for the underhanded crypto contest used a beautiful bug :) https://underhandedcrypto.com/2016/08/17/the-2016-backdoored-cryptocurrency-contest-winner/\u00a0\u2026",
+            "username": "gcouprie",
+            "num_likes": 25,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "753320608822202368": {
+            "id": "753320608822202368",
+            "text": "Taylor Hornby & Adam Caudill (@UnderCrypto) will present \u201cBackdooring Cryptocurrencies: The Underhanded Crypto Contest Winners\u201d @defcon 24.",
+            "username": "CryptoVillage",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "743536797012099072": {
+            "id": "743536797012099072",
+            "text": "I'm curious, how are your @UnderCrypto submissions coming along?",
+            "username": "DefuseSec",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "742814188083388416": {
+            "id": "742814188083388416",
+            "text": "Zcash is proud to sponsor the @UnderCrypto contest this year: https://underhandedcrypto.com/2016/06/06/prizes-for-the-2016-contest/\u00a0\u2026",
+            "username": "zcashco",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "742457274808012801": {
+            "id": "742457274808012801",
+            "text": "We're a little concerned about the new \"Best Backdoor\" category. Be responsible, nominators.https://twitter.com/PwnieAwards/status/742274398913056768\u00a0\u2026",
+            "username": "SummerC0n",
+            "num_likes": 6,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "740177364521517056": {
+            "id": "740177364521517056",
+            "text": "Any chance for some tasks with focus on algorithmic backdoors like abusing mathematical border-cases instead of sloppy impls?",
+            "username": "BenBE1987",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "738429548245573633": {
+            "id": "738429548245573633",
+            "text": "Can we have an underhanded #rustlang contest?\n\nWrite some code that is secretly underhanded or unsound? Hmm...https://twitter.com/UnderCrypto/status/692497405594333184\u00a0\u2026",
+            "username": "a_hoverbear",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "708417978136719360": {
+            "id": "708417978136719360",
+            "text": "my Ephemeral Diffie-Hellman backdoor works!!!! ( https://github.com/mimoo/Diffie-Hellman_Backdoor\u00a0\u2026 )pic.twitter.com/R7F0CsoPSZ",
+            "username": "cryptodavidw",
+            "num_likes": 264,
+            "num_retweets": 187,
+            "num_replies": 4
+        },
+        "694571854271516673": {
+            "id": "694571854271516673",
+            "text": "Hahaha oh wow great http://www.openwall.com/lists/oss-security/2016/02/01/4\u00a0\u2026\n\nClicky clicks if you\u2019re a fan of socat or of cryptographic backdoors ",
+            "username": "0xabad1dea",
+            "num_likes": 22,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "684206978604793856": {
+            "id": "684206978604793856",
+            "text": "Question for future @UnderCrypto participants: Would you rather us publish a big list of ideas to inspire you, or refrain from doing so?",
+            "username": "DefuseSec",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "683894944143118336": {
+            "id": "683894944143118336",
+            "text": "Remember my @UnderCrypto entry? I wrote a deep explanation for it:\n\nhttps://paragonie.com/blog/2016/01/on-design-and-implementation-stealth-backdoor-for-web-applications\u00a0\u2026",
+            "username": "csprngoutput",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "635658336306761728": {
+            "id": "635658336306761728",
+            "text": "New blog post: creating security vulnerabilities using javascript minifiers. https://zyan.scripts.mit.edu/blog/backdooring-js/\u00a0\u2026",
+            "username": "bcrypt",
+            "num_likes": 784,
+            "num_retweets": 667,
+            "num_replies": 24
+        },
+        "623128599910965248": {
+            "id": "623128599910965248",
+            "text": "If you're going to defcon and want to help judge a cryptography contest, email me. havoc@defuse.ca",
+            "username": "DefuseSec",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "596012282515038208": {
+            "id": "596012282515038208",
+            "text": "You can now purchase our awesome stickers online! Check them out and support us! https://www.stickermule.com/marketplace/5443-crypto-and-privacy-village\u00a0\u2026",
+            "username": "CryptoVillage",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "581070294481162241": {
+            "id": "581070294481162241",
+            "text": "slides of my #syscan talk \"Cryptographic Backdooring\" https://131002.net/syscan.pdf\u00a0",
+            "username": "veorq",
+            "num_likes": 73,
+            "num_retweets": 81,
+            "num_replies": 0
+        },
+        "580164853685313536": {
+            "id": "580164853685313536",
+            "text": "I put my @undercrypto entry up on github https://github.com/ryancdotorg/undercrypto2014\u00a0\u2026 - the rest of the entries are at https://underhandedcrypto.com/2015/03/21/all-underhanded-crypto-entries/\u00a0\u2026",
+            "username": "ryancdotorg",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "579407280518610945": {
+            "id": "579407280518610945",
+            "text": "While it didn't win, @solardiz's entry for @UnderCrypto deserves some attention - an elegant & vulnerable CSPRNG: https://underhandedcrypto.com/2015/03/21/all-underhanded-crypto-entries/\u00a0\u2026",
+            "username": "adamcaudill",
+            "num_likes": 14,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "567548676722003968": {
+            "id": "567548676722003968",
+            "text": "The Crypto & Privacy Village CFP for @_defcon_ 23 is live! Check it out here until we put it up on the website:https://drive.google.com/file/d/0B0xVlsTH0-EHREg0X0FBaklVRGc/view?usp=sharing\u00a0\u2026",
+            "username": "CryptoVillage",
+            "num_likes": 17,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "552351196456169472": {
+            "id": "552351196456169472",
+            "text": "Congrats to all of the participants of @UnderCrypto making it to round two! Some really good submissions.",
+            "username": "adamcaudill",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "535857484733612032": {
+            "id": "535857484733612032",
+            "text": "slides of my #NSC14 talk 'Cryptographic backdooring' https://131002.net/data/talks/backdooring_nsc14.pdf\u00a0\u2026",
+            "username": "veorq",
+            "num_likes": 41,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "529084826834726913": {
+            "id": "529084826834726913",
+            "text": "The 7th Underhanded C Contest is now Open http://underhanded-c.org/?p=26\u00a0",
+            "username": "johnregehr",
+            "num_likes": 22,
+            "num_retweets": 43,
+            "num_replies": 3
+        }
+    },
+    "tweeted": {
+        "1027646706588901376": {
+            "id": "1027646706588901376",
+            "text": "The winners will be announced tomorrow (Friday) @ 6pm in Crypto & Privacy Village!",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1016383375530250240": {
+            "id": "1016383375530250240",
+            "text": "The deadline for submissions is July 15th - not a lot of time left to get your ideas in. Prize for first place is $1,500, second place gets $750. No more procrastinating!",
+            "username": "UnderCrypto",
+            "num_likes": 5,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1012833787682656256": {
+            "id": "1012833787682656256",
+            "text": "Submissions for the Underhanded Crypto Contest are open - we want to see what you come up with! Show us your most evil tricks to make crypto that looks good, but has hidden tricks. $1,500 going to the winner!",
+            "username": "UnderCrypto",
+            "num_likes": 27,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "1000797412280160256": {
+            "id": "1000797412280160256",
+            "text": "Rules & Details for the 2018 Underhanded Crypto Contest available now: https://underhandedcrypto.com/2018/05/27/rules-for-the-2018-underhanded-crypto-contest/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 22,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "1005846442970370048": {
+            "id": "1005846442970370048",
+            "text": "Prizes for 2018: $1,500 in ZEC from @ZcashFoundation & $750 from @NCCCrypto! Details: https://underhandedcrypto.com/2018/06/10/2018-sponsors-prizes/\u00a0\u2026 - contest is open and accepting entries now! Rules: https://underhandedcrypto.com/2018/05/27/rules-for-the-2018-underhanded-crypto-contest/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 10,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1005862535457853440": {
+            "id": "1005862535457853440",
+            "text": "We are bringing back our Underhanded Crypto Contest t-shirt! If you'd like to support the contest, buy a shirt!https://teespring.com/underhanded-crypto-contest-18\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1005169383189237762": {
+            "id": "1005169383189237762",
+            "text": "The last of the 2017 entries, these ones from @Sc00bzT! https://underhandedcrypto.com/2018/02/25/sc00bzs-2017-entries-circumventing-slow-password-storage-and-targeted-backdoor-delivery/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1004086628321779718": {
+            "id": "1004086628321779718",
+            "text": "Joseph Birr-Pixton's 2017 entry: https://underhandedcrypto.com/2018/02/25/joseph-birr-pixtons-2017-entry-poor-api-design-in-openssl/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "999081235971440641": {
+            "id": "999081235971440641",
+            "text": "Ella Rose's entry to the 2017 contest: https://underhandedcrypto.com/2018/02/25/ellaroses-2017-entry-remote-code-execution-with-pythons-pickle/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "988848884460990466": {
+            "id": "988848884460990466",
+            "text": "If you have any ideas or suggestions for this year\u2019s contest, we\u2019d love to hear them. We will be wrapping up planning and announcing details for the 2018 contest soon.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "988839789121232901": {
+            "id": "988839789121232901",
+            "text": "We'll be highlighting all of the entries we got last year. Here's the first one, @averagesecguy's: https://underhandedcrypto.com/2018/02/25/averagesecurityguys-2017-entry-a-prng-that-zeroes-its-seed/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "988838723130462208": {
+            "id": "988838723130462208",
+            "text": "Sorry, we're late posting last year's entries: https://underhandedcrypto.com/2018/04/24/sorry-were-late-last-years-entries-are-coming/\u00a0\u2026 We'll soon be posting explanations of all the submissions!",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "913148207584219136": {
+            "id": "913148207584219136",
+            "text": "The results of the Underhanded @rustlang Contest are out!http://blog.community.rs/underhanded/2017/09/27/underhanded-results.html\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "893206618959208448": {
+            "id": "893206618959208448",
+            "text": "Thanks to the generosity of our second prize winner, the $500 prize provided by @NCCCrypto has been donated to @EFF!",
+            "username": "UnderCrypto",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "892150953608187904": {
+            "id": "892150953608187904",
+            "text": "Winner: https://underhandedcrypto.com/2017/07/31/2017-winner-jp-smith-and-will-song/\u00a0\u2026 (Quantum backdoor in SIDH)\nRunner-up: https://underhandedcrypto.com/2017/07/31/2017-runner-up-neville-longbottom/\u00a0\u2026 (stack games to null AES key)",
+            "username": "UnderCrypto",
+            "num_likes": 28,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "892150633238863872": {
+            "id": "892150633238863872",
+            "text": "Announcing the 2017 Winners! https://underhandedcrypto.com/2017/07/31/announcing-the-2017-winners/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 30,
+            "num_retweets": 34,
+            "num_replies": 1
+        },
+        "892102027500761088": {
+            "id": "892102027500761088",
+            "text": "A huge thanks to @CryptoVillage for hosting us, and for putting on an amazing event. Great job everyone!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "888214774340866049": {
+            "id": "888214774340866049",
+            "text": "Participants: Check your emails, we just sent out the results.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "888102276631584768": {
+            "id": "888102276631584768",
+            "text": "The winners have been selected and emails will be sent out later tonight. Thanks @veorq for fast and comprehensive judging!",
+            "username": "UnderCrypto",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "884164224108425222": {
+            "id": "884164224108425222",
+            "text": "We will be announcing the contest winners at @defcon @CryptoVillage on Friday, July 28 at 4:00PM. This is going to be a good one!https://twitter.com/CryptoVillage/status/884160601852739584\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 12,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "882909493952221184": {
+            "id": "882909493952221184",
+            "text": "Thank you for your entries! The submission deadline has now passed. The winners will be announced at @CryptoVillage!",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "882720760896335878": {
+            "id": "882720760896335878",
+            "text": "There are 12 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "882599959899648001": {
+            "id": "882599959899648001",
+            "text": "There are 20 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "882479157996789760": {
+            "id": "882479157996789760",
+            "text": "There is 1 day and 4 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "882358365250310145": {
+            "id": "882358365250310145",
+            "text": "There is 1 day and 12 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "882237575070482432": {
+            "id": "882237575070482432",
+            "text": "There is 1 day and 20 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "882116769128644608": {
+            "id": "882116769128644608",
+            "text": "There are 2 days and 4 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "881995974066880513": {
+            "id": "881995974066880513",
+            "text": "There are 2 days and 12 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "881875189390245888": {
+            "id": "881875189390245888",
+            "text": "There are 2 days and 20 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "881754379182776320": {
+            "id": "881754379182776320",
+            "text": "There are 3 days and 4 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "881633590622035968": {
+            "id": "881633590622035968",
+            "text": "There are 3 days and 12 hours remaining to submit an entry.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "881544457589575681": {
+            "id": "881544457589575681",
+            "text": "Reminder: The contest didn't end yesterday, you still have until this Wednesday to submit!",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "880524297814630400": {
+            "id": "880524297814630400",
+            "text": "Good news: You have a few extra days to work on your entry. We've extended the deadline to July 5th. https://underhandedcrypto.com/2017/06/29/new-deadline-july-5th-2017/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 7,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "877596867122667520": {
+            "id": "877596867122667520",
+            "text": "The deadline is just over a week away. How are your entries coming along?",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "874664080371482624": {
+            "id": "874664080371482624",
+            "text": "Reminder that the submission deadline is coming up soon: July 1st.",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "868526366920237058": {
+            "id": "868526366920237058",
+            "text": "ICYMI: The prizes this year are 15 ZEC from @zcashco and $500 (US) from @NCCCrypto. Get your entries in by July 1st!",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "867788221022961664": {
+            "id": "867788221022961664",
+            "text": "We improved our website, making it easier to find what you're looking for. Let us know what you think: https://underhandedcrypto.com/\u00a0",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "867169747015806976": {
+            "id": "867169747015806976",
+            "text": "Check out the awesome prizes this year: https://underhandedcrypto.com/2017/05/23/announcing-judges-and-prizes-for-the-2017-contest/\u00a0\u2026 Thanks @zcashco and @NCCCrypto\n!",
+            "username": "UnderCrypto",
+            "num_likes": 11,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "857290854720954369": {
+            "id": "857290854720954369",
+            "text": "We\u2019ve lined up at least one awesome prize for the winner. Stay tuned for the announcement. Interested in sponsoring a prize? Let us know!",
+            "username": "UnderCrypto",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "853274694346256384": {
+            "id": "853274694346256384",
+            "text": "Don't forget, the submission deadline is July 1st, just 77 days from now. You are busy working on your entry, right?",
+            "username": "UnderCrypto",
+            "num_likes": 10,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "846012528484339712": {
+            "id": "846012528484339712",
+            "text": "Team submissions to UHC are not only welcome, but encouraged - you don't have to do it alone! Great opportunity for classes / businesses.",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "840336572222492672": {
+            "id": "840336572222492672",
+            "text": "Once again, the @CryptoVillage team has graciously agreed to host our winners announcement! If you'll be attending @defcon, don't miss out!",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "839610895667986433": {
+            "id": "839610895667986433",
+            "text": "Just announced: The 2017 Underhanded Crypto Contest. https://underhandedcrypto.com/2017/03/08/get-ready-for-the-2017-underhanded-crypto-contest/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 63,
+            "num_retweets": 82,
+            "num_replies": 4
+        },
+        "838137048536125440": {
+            "id": "838137048536125440",
+            "text": "Correction: The deadline is March 31.https://twitter.com/UnderCrypto/status/835639206462521346\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "835639206462521346": {
+            "id": "835639206462521346",
+            "text": "There's an underhanded @rustlang contest, too: https://underhanded.rs/blog/2016/12/15/underhanded-rust.en-US.html\u00a0\u2026 Deadline is in June!",
+            "username": "UnderCrypto",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "827707331718873089": {
+            "id": "827707331718873089",
+            "text": "Now you can browse through all of the contest entries going back to the very beginning on GitHub:https://github.com/UnderhandedCrypto/entries\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "825084236055060482": {
+            "id": "825084236055060482",
+            "text": "ICYMI: The Zcash blockchain has been up and running for a few months! Thanks @zcashco for sponsoring one of our prizes last year.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "822650410058076160": {
+            "id": "822650410058076160",
+            "text": "We are looking for a few prize sponsors - if your company would be interested in driving the state of crypto research forward, let us know!",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "822647533738618880": {
+            "id": "822647533738618880",
+            "text": "With all the talk about backdoors, been thinking about new ways to pull it off? We'll be announcing details of the next contest soon!",
+            "username": "UnderCrypto",
+            "num_likes": 5,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "789279188838518784": {
+            "id": "789279188838518784",
+            "text": "Backdoored discrete logarithm primes! https://eprint.iacr.org/2016/961\u00a0",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "765984911559884800": {
+            "id": "765984911559884800",
+            "text": "Sometimes, we discover whole new classes of vulnerabilities. \"Invent your own vulnerability\" contests like this help us discover them early.",
+            "username": "UnderCrypto",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "765949707411652608": {
+            "id": "765949707411652608",
+            "text": "Thought about participating in the contest, but decided not to to? We\u2019d like to know why. contact@underhandedcrypto.com",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "765938083997114368": {
+            "id": "765938083997114368",
+            "text": "Announcing the winner of the 2016 Underhanded Crypto Contest, @n1ckler: https://underhandedcrypto.com/2016/08/17/the-2016-backdoored-cryptocurrency-contest-winner/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 20,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "761251070983090177": {
+            "id": "761251070983090177",
+            "text": "One of our regular volunteer judges, @veorq, is presenting the first public analysis of Intel SGX at #BHUSA today. 12:10 in South Seas GH.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "754810116143190016": {
+            "id": "754810116143190016",
+            "text": "The Underhanded Crypto winner has been chosen! Thanks @veorq, @gustavosbanegas, and @ewust for judging and @zcashco, @NCCCrypto for prizes!",
+            "username": "UnderCrypto",
+            "num_likes": 17,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "752981675953369089": {
+            "id": "752981675953369089",
+            "text": "The winner will be announced at this year's @CryptoVillage!",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "748651272979496961": {
+            "id": "748651272979496961",
+            "text": "Last day to get your entries in!",
+            "username": "UnderCrypto",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "745663656835178496": {
+            "id": "745663656835178496",
+            "text": "One week left to get your entries in. Good chance at winning $500!",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "743295889058365441": {
+            "id": "743295889058365441",
+            "text": "Assessing And Exploiting BigNum Vulnerabilities: https://www.youtube.com/watch?v=PqW8-MUu09c\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "742967486606417920": {
+            "id": "742967486606417920",
+            "text": "Just a couple weeks left to submit!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "740671251509694466": {
+            "id": "740671251509694466",
+            "text": "22 days left to submit! Have you started working on your entries yet?",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "740566693739560962": {
+            "id": "740566693739560962",
+            "text": "Thanks to @veorq, @gustavosbanegas, and @ewust for volunteering to judge this year's contest! https://underhandedcrypto.com/2016/06/08/judges-for-the-2016-contest/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "740293260095029252": {
+            "id": "740293260095029252",
+            "text": "23 days left to submit your backdoor idea!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "740183632799633410": {
+            "id": "740183632799633410",
+            "text": "IllusoryTLS, one of the 2014 contest entries, now has its own website and series of talk videos! http://illusorytls.com\u00a0",
+            "username": "UnderCrypto",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "740181304214323205": {
+            "id": "740181304214323205",
+            "text": ".@BenBE1987 Those kinds of backdoors are definitely welcome (and encouraged)! There doesn't even need to be an implementation of it.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "740174884710453250": {
+            "id": "740174884710453250",
+            "text": "We're always interested in your feedback and suggestions. If you have any, mention us on Twitter or email contact@underhandedcrypto.com.",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "740030947509178368": {
+            "id": "740030947509178368",
+            "text": "Thanks to @zcashco and @NCCCrypto for sponsoring our prizes this year. They're awesome.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "740030692268986371": {
+            "id": "740030692268986371",
+            "text": "Announcing this year's prizes: $500 for first place and $250 for second place! https://underhandedcrypto.com/2016/06/06/prizes-for-the-2016-contest/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "740013358271713280": {
+            "id": "740013358271713280",
+            "text": "Last chance to help judge the Underhanded Crypto Contest. Looking for one more who knows cryptocurrency security: https://underhandedcrypto.com/2016/05/25/2016-call-for-judges/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "739881115872202752": {
+            "id": "739881115872202752",
+            "text": "We've secured a $500 first-place prize and a $250 second-place prize for this year's contest. Details coming soon!",
+            "username": "UnderCrypto",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "737830080567640065": {
+            "id": "737830080567640065",
+            "text": "Reminder: You have about a month left to get your underhanded crypto entries finished and polished up!",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "735840216850698240": {
+            "id": "735840216850698240",
+            "text": "The deadline\u2019s been extended! You all have an 30 extra days to get your submissions in. Now due: June 30. https://underhandedcrypto.com/2016/05/26/weve-extended-the-deadline-for-the-2016-contest/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 9,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "735663969390735360": {
+            "id": "735663969390735360",
+            "text": "It's that time again! We're recruiting judges for this year's contest. Apply within: https://underhandedcrypto.com/2016/05/25/2016-call-for-judges/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "735516986889883648": {
+            "id": "735516986889883648",
+            "text": "Will your organization be a sponsor of this year's Underhanded Crypto Contest? https://underhandedcrypto.com/2016/05/25/2016-call-for-sponsors/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "735356673037074434": {
+            "id": "735356673037074434",
+            "text": "We will be making a few announcements soon - most important is we will be extending the submission deadline, but you should still get busy!",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "692497405594333184": {
+            "id": "692497405594333184",
+            "text": "The rules and instructions for the 2016 contest are up: https://underhandedcrypto.com/2016/01/27/rules-for-the-2016-underhanded-crypto-contest/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 14,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "688770582746284032": {
+            "id": "688770582746284032",
+            "text": "Announcing the 2016 Underhanded Crypto Contest: https://underhandedcrypto.com/2016/01/17/2016-underhanded-crypto-contest/\u00a0\u2026 This year we have a special theme!",
+            "username": "UnderCrypto",
+            "num_likes": 31,
+            "num_retweets": 62,
+            "num_replies": 2
+        },
+        "630766967691964416": {
+            "id": "630766967691964416",
+            "text": "If you want a hint for the puzzle, base64 decode this: QUVTIC10aGlzLWlzLWp1c3QtcGFkZGluZy10by1tYWtlLWJhc2U2NC1sb25nZXIt",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "630405386781110273": {
+            "id": "630405386781110273",
+            "text": "Can you solve the puzzle on the back of the underhanded participant reward card?pic.twitter.com/FSee9raeX2",
+            "username": "UnderCrypto",
+            "num_likes": 11,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "630179638170382336": {
+            "id": "630179638170382336",
+            "text": "Announcing the winners of the Crypto & Privacy Village Underhanded Crypto Contest: https://underhandedcrypto.com/2015/08/08/crypto-privacy-village-contest-winners/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 7,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "630156540960505856": {
+            "id": "630156540960505856",
+            "text": "There will be technical details of the winners at the announcement today. Show up if you'd like to see how the winning submissions work!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "630099434915762176": {
+            "id": "630099434915762176",
+            "text": "The Crypto & Privacy Village contest winners have been chosen. Come see the announcement at 5pm today!",
+            "username": "UnderCrypto",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "630064811552813057": {
+            "id": "630064811552813057",
+            "text": "We just sent confirmation emails to all the contestants so far. If you submitted but *didn't* get one of these emails, let us know ASAP.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "630064586159296512": {
+            "id": "630064586159296512",
+            "text": "One contestant's submission email didn't go through. We're not sure if this is a problem on our end or theirs. [1/2]",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "630053861915426816": {
+            "id": "630053861915426816",
+            "text": "The Crypto & Privacy Village contest deadline has passed. Thank you for participating! Winners announced at 5pm in Crypto Village today.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "629827948397268992": {
+            "id": "629827948397268992",
+            "text": "To Internet participants: The deadline for the contest is 14 hours from the time on this tweet (4pm UTC).",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "629327940153577473": {
+            "id": "629327940153577473",
+            "text": "Everyone is busy working on their entry for the challenges we are running with @CryptoVillage, right? If not, hurry! https://underhandedcrypto.com/2015/07/27/announcing-the-2015-crypto-privacy-village-challenges/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "626844849975660544": {
+            "id": "626844849975660544",
+            "text": "There's an underhanded crypto contest going on at @CryptoVillage this year! Start thinking about your submission!  https://underhandedcrypto.com/2015/07/27/announcing-the-2015-crypto-privacy-village-challenges/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "626542739543293952": {
+            "id": "626542739543293952",
+            "text": "Ever thought of backdooring GPG or designing a surreptitiously broken authentication system? Now you can! https://underhandedcrypto.com/2015/07/27/announcing-the-2015-crypto-privacy-village-challenges/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 8,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "626150169310924800": {
+            "id": "626150169310924800",
+            "text": "Going to DEF CON this year? There's a cryptography contest you should participate in! https://underhandedcrypto.com/2015/07/27/announcing-the-2015-crypto-privacy-village-challenges/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "626040954701516800": {
+            "id": "626040954701516800",
+            "text": "Details on the newest @UnderCrypto contest: https://underhandedcrypto.com/2015/07/27/announcing-the-2015-crypto-privacy-village-challenges/\u00a0\u2026 There's not much time, so start working on your submission early!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "625808106224619520": {
+            "id": "625808106224619520",
+            "text": "Announcing the 2015 Crypto & Privacy Village Challenges: https://underhandedcrypto.com/2015/07/27/announcing-the-2015-crypto-privacy-village-challenges/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 9,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "625047009519620097": {
+            "id": "625047009519620097",
+            "text": "On Monday (7/27), we will announce two special @CryptoVillage challenges! (Attending @_defcon_ not required, but will be more fun!)",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "625046628345511937": {
+            "id": "625046628345511937",
+            "text": "We are pleased to welcome @bascule to the Underhanded Crypto Contest team! https://underhandedcrypto.com/2015/07/25/welcome-tony/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "624332999333580800": {
+            "id": "624332999333580800",
+            "text": "Going to @_defcon_? Enjoy evil crypto? In a few days we'll announce two special @CryptoVillage contests!pic.twitter.com/2j3GjiWwdr",
+            "username": "UnderCrypto",
+            "num_likes": 6,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "619311085665935361": {
+            "id": "619311085665935361",
+            "text": "Is anyone who's going to DEF CON interested in judging for @UnderCrypto while you're there? Let us know!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "609468994114883584": {
+            "id": "609468994114883584",
+            "text": "Time is running out to get a Underhanded Crypto Contest shirt!http://teespring.com/underhanded-crypto-contest\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "602612933613457408": {
+            "id": "602612933613457408",
+            "text": "Interested in a Underhanded Crypto t-shirt? We are running a campaign to raise a little money for the next contest:http://teespring.com/underhanded-crypto-contest\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 9,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "579391620883214336": {
+            "id": "579391620883214336",
+            "text": "We've just published all of the Underhanded Crypto Contest entries: https://underhandedcrypto.com/2015/03/21/all-underhanded-crypto-entries/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 39,
+            "num_retweets": 65,
+            "num_replies": 0
+        },
+        "576827422168850432": {
+            "id": "576827422168850432",
+            "text": "3.141512353589793238462643383279502884197169399375105820974944592307816406286208998628034825342113067982148086513282306647093844609330582231",
+            "username": "UnderCrypto",
+            "num_likes": 5,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "574355268848517120": {
+            "id": "574355268848517120",
+            "text": "Officially announcing the winners! https://underhandedcrypto.com/2015/03/07/announcing-the-underhanded-champs/\u00a0\u2026 Congrats John Meacham & Ga\u00ebtan Leurent",
+            "username": "UnderCrypto",
+            "num_likes": 17,
+            "num_retweets": 39,
+            "num_replies": 0
+        },
+        "574352375063842816": {
+            "id": "574352375063842816",
+            "text": "All Round 2 contestants have been sent a status update by email.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "574333888689913858": {
+            "id": "574333888689913858",
+            "text": "Thanks very much to our sponsors @NCCCrypto and @LeastAuthority for supporting the contest. It wouldn't have happened without them.",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "574331777176576000": {
+            "id": "574331777176576000",
+            "text": "The winners have been decided! Emails with Round 2 and Round 3 results will be sent to the contestants shortly. Sorry for the delays.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "564289164523229184": {
+            "id": "564289164523229184",
+            "text": "The Round 2 scores have been tallied. The numbers are close. We just asked the judges to confirm the submissions going into Round 3.",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "563835575916953601": {
+            "id": "563835575916953601",
+            "text": "Terribly sorry for the delays! The results of round 2 will come out this weekend, and the last round will begin shortly.",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "552350131711131649": {
+            "id": "552350131711131649",
+            "text": "Email has gone out to all contestants. Check your inboxes to see if your submission made it to Round 2.",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "552334467759882240": {
+            "id": "552334467759882240",
+            "text": "The judges' votes for Round 1 are in! Contestants will be notified if their submission has made it into Round 2 shortly.",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "547034076511617025": {
+            "id": "547034076511617025",
+            "text": "We're extending the winner announcement to January 30th to make sure the judges have time to enjoy their holidays. Thanks for your patience!",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "539827847427551232": {
+            "id": "539827847427551232",
+            "text": "Last call for submissions! If you're going to submit, now's the time!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "539491490339520513": {
+            "id": "539491490339520513",
+            "text": "Submission deadline is 5PM UTC tomorrow - that's a little less than 24 hours left! Hurry and get those submissions in!",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "538729663963860992": {
+            "id": "538729663963860992",
+            "text": "So who is busy working on their submission for the contest? Deadline is Tuesday!",
+            "username": "UnderCrypto",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "537434487005523968": {
+            "id": "537434487005523968",
+            "text": "Less than a week left to get your submissions in!",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "531139511741587456": {
+            "id": "531139511741587456",
+            "text": "Everybody is busy working on their submission, right? All submissions need to be in by Dec. 2nd!",
+            "username": "UnderCrypto",
+            "num_likes": 7,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "510856516543713280": {
+            "id": "510856516543713280",
+            "text": "A huge thanks to our judges, what an amazing group! - @veorq, @jedisct1, @0xabad1dea, @DairaHopwood, @julianor, @touced, @justintroutman",
+            "username": "UnderCrypto",
+            "num_likes": 5,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "510545859348426752": {
+            "id": "510545859348426752",
+            "text": "We have some great prizes from @NCCGroupplc and @LeastAuthority! http://underhandedcrypto.com/rules/\u00a0 Are you working on your submission yet? :-)",
+            "username": "UnderCrypto",
+            "num_likes": 2,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "510451593641070592": {
+            "id": "510451593641070592",
+            "text": "Last call for rules feedback before we start accepting submissions! https://underhandedcrypto.com/2014/09/12/last-call-for-rules-feedback/\u00a0\u2026",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "508029646899011584": {
+            "id": "508029646899011584",
+            "text": "Follow this account for updates on the Underhanded Crypto Contest.",
+            "username": "UnderCrypto",
+            "num_likes": 3,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "500289938399956992": {
+            "id": "500289938399956992",
+            "text": "Hello world! Details on the contest coming soon. Watch this space for updates.",
+            "username": "UnderCrypto",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "DefuseSec": 5,
+        "adamcaudill": 7,
+        "CryptoVillage": 5,
+        "solardiz": 1,
+        "CiPHPerCoder": 1,
+        "veorq": 3,
+        "matthew_d_green": 1,
+        "tehjh": 1,
+        "dfranke": 1,
+        "SwiftOnSecurity": 1,
+        "zcashco": 2,
+        "NCCCrypto": 1,
+        "gcouprie": 1,
+        "SummerC0n": 1,
+        "BenBE1987": 1,
+        "a_hoverbear": 1,
+        "cryptodavidw": 1,
+        "0xabad1dea": 1,
+        "csprngoutput": 1,
+        "bcrypt": 1,
+        "ryancdotorg": 1,
+        "johnregehr": 1
+    },
+    "users_retweeted": [
+        "adamcaudill",
+        "DefuseSec",
+        "CryptoVillage",
+        "veorq",
+        "zcashco",
+        "solardiz",
+        "CiPHPerCoder",
+        "matthew_d_green",
+        "tehjh",
+        "dfranke",
+        "SwiftOnSecurity",
+        "NCCCrypto",
+        "gcouprie",
+        "SummerC0n",
+        "BenBE1987",
+        "a_hoverbear",
+        "cryptodavidw",
+        "0xabad1dea",
+        "csprngoutput",
+        "bcrypt",
+        "ryancdotorg",
+        "johnregehr"
+    ]
+}

@@ -1,0 +1,4458 @@
+{
+    "is_complete": true,
+    "username": "bjlunden",
+    "retweeted": {
+        "1110281015631581184": {
+            "id": "1110281015631581184",
+            "text": "Apple fixed some really serious bugs in iOS 12.2. Update now!\n\nOnce again, this raises the question of whether Apple should tie their security patch schedule to major media events. This isn't \"Patch Tuesday\", it's \"Patch Keynote\".pic.twitter.com/F8fCoJmh2v",
+            "username": "alexstamos",
+            "num_likes": 126,
+            "num_retweets": 75,
+            "num_replies": 5
+        },
+        "1096046635593928704": {
+            "id": "1096046635593928704",
+            "text": "~=8 Character Passwords Are Dead=~\n\nNew benchmark means that the entire keyspace, or every possible combination of:\n- Upper\n- Lower\n- Number\n- Symbol\n\n...of an 8 character password can be guessed in:\n\n~2.5 hours\n\n(8x 2080 GPUs against NTLM Windows hash)https://twitter.com/hashcat/status/1095807014079512579?s=21\u00a0\u2026",
+            "username": "TinkerSec",
+            "num_likes": 5601,
+            "num_retweets": 4932,
+            "num_replies": 176
+        },
+        "1087663240421593089": {
+            "id": "1087663240421593089",
+            "text": "Breaking Mews: Just when you thought it was going to be routine Monday night 2 am server maintenance... The Venison Red Team gets past your fancy guards and biometrics.\n\nPosted with permission. #Pentesting #redteampic.twitter.com/FVM75E0Caf",
+            "username": "DCFurs",
+            "num_likes": 6273,
+            "num_retweets": 3258,
+            "num_replies": 163
+        },
+        "1080606827384131590": {
+            "id": "1080606827384131590",
+            "text": "Soooo, after a few evenings of work, I've 100% broken Widevine L3 DRM. Their Whitebox AES-128 implementation is vulnerable to the well-studied DFA attack, which can be used to recover the original key. Then you can decrypt the MPEG-CENC streams with plain old ffmpeg...",
+            "username": "David3141593",
+            "num_likes": 2152,
+            "num_retweets": 826,
+            "num_replies": 42
+        },
+        "1053646859686809600": {
+            "id": "1053646859686809600",
+            "text": "Every website in 2018pic.twitter.com/Gm7jhfuuUO",
+            "username": "darylginn",
+            "num_likes": 39870,
+            "num_retweets": 20321,
+            "num_replies": 304
+        },
+        "1045265728318754816": {
+            "id": "1045265728318754816",
+            "text": "iOS 12 Jailbreak on iPhone XS by @PanguTeam ! Bypass PAC mitigation on the new A12 chip. That's amazing!!!pic.twitter.com/PeVLb13EsJ",
+            "username": "SparkZheng",
+            "num_likes": 2705,
+            "num_retweets": 1191,
+            "num_replies": 140
+        },
+        "1024667755021185024": {
+            "id": "1024667755021185024",
+            "text": "Web: We noticed you're using an Ad blocker\n\nMe: I noticed you're using 32 tracking services.",
+            "username": "mweagle",
+            "num_likes": 106548,
+            "num_retweets": 29157,
+            "num_replies": 166
+        },
+        "999619364541394944": {
+            "id": "999619364541394944",
+            "text": "Hi! \n\nJust letting you know you can't use your lights anymore because we're slathering your data around and GDPR is here.\n\ngood luck! bye!pic.twitter.com/3ZI2WkqPAI",
+            "username": "internetofshit",
+            "num_likes": 9028,
+            "num_retweets": 5721,
+            "num_replies": 122
+        },
+        "997518175523786752": {
+            "id": "997518175523786752",
+            "text": "So I heard @TwitterDev is finally effectively #BreakingMyTwitter with new API policy. I use @TalonAndroid because the official app is unacceptablehttp://apps-of-a-feather.com\u00a0",
+            "username": "YitzOfTheBits",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "992307653702385665": {
+            "id": "992307653702385665",
+            "text": "Heathrow departure board operators, you have excelled yourselves...\n#StarWarsDay #MayThe4thBeWithYoupic.twitter.com/ya0Q13y6K9",
+            "username": "Atters_J",
+            "num_likes": 9651,
+            "num_retweets": 5311,
+            "num_replies": 103
+        },
+        "978277611125092352": {
+            "id": "978277611125092352",
+            "text": "Me reading The Hunger Games in 2008: wow what a crazy, unrealistic story\n\n2018: children are going to the capital to fight for their right to not be murdered by each other and a creepy looking TV star is there pretending like nothing is wrong",
+            "username": "kelseycrist",
+            "num_likes": 363723,
+            "num_retweets": 103953,
+            "num_replies": 801
+        },
+        "976476973286309888": {
+            "id": "976476973286309888",
+            "text": "Corrections for the various android news outlets: It's \"ilama\", the fruit (https://en.wikipedia.org/wiki/Ilama_(fruit)\u00a0\u2026), not \"llama\" the animal (https://en.wikipedia.org/wiki/Llama\u00a0). There also is no company involved in our day to day development work.",
+            "username": "LineageAndroid",
+            "num_likes": 80,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "961658232841400320": {
+            "id": "961658232841400320",
+            "text": "The leaked Apple source code mixes tabs and spaces.pic.twitter.com/yZXM4ufRNY",
+            "username": "StackSmashing",
+            "num_likes": 5339,
+            "num_retweets": 2939,
+            "num_replies": 100
+        },
+        "960914418400940035": {
+            "id": "960914418400940035",
+            "text": "teachable moment in r/bitcoin (via @alex)pic.twitter.com/7NhaAGvN3i",
+            "username": "eringriffith",
+            "num_likes": 7272,
+            "num_retweets": 2503,
+            "num_replies": 64
+        },
+        "934494481038143489": {
+            "id": "934494481038143489",
+            "text": "Bookstore clerk: Sorry our card reader takes a bit. We still have dial-up internet.\n\nMe: That slow?\n\nHer: Yeah, dial-up is super slow\n\nMe: Wait you ACTUALLY use dial up Internet?\n\nHer: Yup\n\nMe: \u2026\n\nHer: \u2026\n\nMe: Like\u2026[makes modem noises]?\n\nHer: no like [more precise modem noises]",
+            "username": "jackmjenkins",
+            "num_likes": 61847,
+            "num_retweets": 14228,
+            "num_replies": 241
+        },
+        "906629647584165889": {
+            "id": "906629647584165889",
+            "text": "We may experience some slight turbulencepic.twitter.com/O5ASD103oF",
+            "username": "NatureisScary",
+            "num_likes": 2684,
+            "num_retweets": 1118,
+            "num_replies": 34
+        },
+        "902859840757919745": {
+            "id": "902859840757919745",
+            "text": "Hey @fitbit @FitbitSupport, please fix this! I can't connect the scale to the WiFi, because it can't handle SSID: <svg/onload=alert(1)>pic.twitter.com/O26hxAi0sA",
+            "username": "LiveOverflow",
+            "num_likes": 161,
+            "num_retweets": 57,
+            "num_replies": 8
+        },
+        "905358443313278976": {
+            "id": "905358443313278976",
+            "text": "Why lies are so viral.pic.twitter.com/Q3wgPID3jp",
+            "username": "paulg",
+            "num_likes": 1885,
+            "num_retweets": 1072,
+            "num_replies": 56
+        },
+        "891017513995182080": {
+            "id": "891017513995182080",
+            "text": "Amazing. Also clear now that McCain's yes on motion to proceed is what killed the bill. https://www.reddit.com/r/news/comments/6q1snh/us_senate_healthcare_repeal_bill_fails/dku2gyq/?sh=0243f1ca&st=J5O0AJUD\u00a0\u2026pic.twitter.com/jzqVqmiZmJ",
+            "username": "s5",
+            "num_likes": 20985,
+            "num_retweets": 11255,
+            "num_replies": 683
+        },
+        "841802094361235456": {
+            "id": "841802094361235456",
+            "text": "if you ever code something that \"feels like a hack but it works,\" just remember that a CPU is literally a rock that we tricked into thinking",
+            "username": "daisyowl",
+            "num_likes": 25517,
+            "num_retweets": 14973,
+            "num_replies": 143
+        },
+        "875745795936587777": {
+            "id": "875745795936587777",
+            "text": "telnet mapscii.me # For maps in your terminal from OpenStreetMap. Yes really.pic.twitter.com/FckeNVD5Nm",
+            "username": "climagic",
+            "num_likes": 2424,
+            "num_retweets": 1521,
+            "num_replies": 42
+        },
+        "874395078885752833": {
+            "id": "874395078885752833",
+            "text": "someone spent a year+ getting their mobile wallet app top-rated, then rigged it to redirect all transactions to them\n\npositively diabolicalhttps://twitter.com/ButtCoin/status/874393234037932032\u00a0\u2026",
+            "username": "FioraAeterna",
+            "num_likes": 717,
+            "num_retweets": 700,
+            "num_replies": 22
+        },
+        "871724923806523394": {
+            "id": "871724923806523394",
+            "text": "When your impulse to mansplain is so strong you try to mansplain the Bible to the actual Pope.pic.twitter.com/Z26CUxW0CD",
+            "username": "OhNoSheTwitnt",
+            "num_likes": 18930,
+            "num_retweets": 7705,
+            "num_replies": 489
+        },
+        "846080444533784577": {
+            "id": "846080444533784577",
+            "text": "Directory traversal in a dishwasher https://cve.circl.lu/cve/CVE-2017-7240\u00a0\u2026pic.twitter.com/2mAn57Bq4R",
+            "username": "bry_campbell",
+            "num_likes": 288,
+            "num_retweets": 420,
+            "num_replies": 18
+        },
+        "857381320355454976": {
+            "id": "857381320355454976",
+            "text": "FLASHBACK: April 2016\n\nSAVANNAH GUTHRIE: \"Do you believe in raising taxes on the wealthy?\"\n\nTRUMP: \"I do. I do. Including myself. I do.\"pic.twitter.com/5G8uCXeg8Q",
+            "username": "kylegriffin1",
+            "num_likes": 14838,
+            "num_retweets": 12207,
+            "num_replies": 982
+        },
+        "846354957427183616": {
+            "id": "846354957427183616",
+            "text": "True story.pic.twitter.com/xNfa7qqbmi",
+            "username": "OwariDa",
+            "num_likes": 1321,
+            "num_retweets": 989,
+            "num_replies": 26
+        },
+        "851452978104082434": {
+            "id": "851452978104082434",
+            "text": "United Airlines is pleased to announce new seating on all domestic flights- in addition to United First and Economy Plus we introduce....pic.twitter.com/KQjPClU2d2",
+            "username": "Reflog_18",
+            "num_likes": 152098,
+            "num_retweets": 85795,
+            "num_replies": 1915
+        },
+        "851096826136625152": {
+            "id": "851096826136625152",
+            "text": "Swedes gather in central Stockholm to stand strong against terrorism and fear.pic.twitter.com/NHekP88jGZ",
+            "username": "johnwilander",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "836987065145389056": {
+            "id": "836987065145389056",
+            "text": "Media people in my feed (left) viewed Trump's Navy SEAL moment last night very differently from the veterans (right). A story in two images:pic.twitter.com/P2vlptE5B1",
+            "username": "BFriedmanDC",
+            "num_likes": 43978,
+            "num_retweets": 35760,
+            "num_replies": 1524
+        },
+        "833353340079706112": {
+            "id": "833353340079706112",
+            "text": "TIL: There are bots on Github that create pull requests to projects using CI replacing all code with bitcoin-mining code.",
+            "username": "paaleksey",
+            "num_likes": 1214,
+            "num_retweets": 1316,
+            "num_replies": 22
+        },
+        "819243098832273408": {
+            "id": "819243098832273408",
+            "text": "Worth repeating that one of the reporters on that CNN post Trump claimed was \"fake news\" was Carl Bernstein, who helped break Watergate.https://twitter.com/CNN/status/819242348702007302\u00a0\u2026",
+            "username": "LordRavenscraft",
+            "num_likes": 5454,
+            "num_retweets": 4251,
+            "num_replies": 67
+        },
+        "819265732844331008": {
+            "id": "819265732844331008",
+            "text": "OMG IT FINALLY HAPPENED! THE QUICK BROWN FOX JUMPS OVER THE LAZY DOGpic.twitter.com/Kv1RPFQMPj",
+            "username": "sauro",
+            "num_likes": 131856,
+            "num_retweets": 92694,
+            "num_replies": 856
+        },
+        "818689033417072640": {
+            "id": "818689033417072640",
+            "text": "Well, I've now got a lightswitch running fairly stock Androidpic.twitter.com/vzE6mZKGpu",
+            "username": "mjg59",
+            "num_likes": 278,
+            "num_retweets": 129,
+            "num_replies": 23
+        },
+        "813086249506349056": {
+            "id": "813086249506349056",
+            "text": "UPDATE: As of this morning we have lost DNS and Gerrit is now offline - with little doubt as a reaction to our blog post yesterday. Goodbye",
+            "username": "CyanogenMod",
+            "num_likes": 1472,
+            "num_retweets": 1036,
+            "num_replies": 322
+        },
+        "809658633667670016": {
+            "id": "809658633667670016",
+            "text": "Joint @FBI & @EC3Europol awareness campaign. But boy o boy, I need to upgrade my 'that '70s show' look if I want to fit in w/ the good guys!pic.twitter.com/Xt6zZAFHc0",
+            "username": "EsthervanLuit",
+            "num_likes": 26,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "796685986365325312": {
+            "id": "796685986365325312",
+            "text": "The S in the IoT stands for Security.",
+            "username": "shelajev",
+            "num_likes": 3350,
+            "num_retweets": 3052,
+            "num_replies": 28
+        },
+        "793624177085329408": {
+            "id": "793624177085329408",
+            "text": "So when you see folks saying #usetheplatform, this is what we're talking about. We're not succeeding on mobile w/ current approaches.",
+            "username": "slightlylate",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "785249056809480192": {
+            "id": "785249056809480192",
+            "text": "USB-C/Thunderbolt3 DMA attacking with PCILeech writeup - default=secure, legacy=pwn3d\nhttp://blog.frizk.net/2016/10/dma-attacking-over-usb-c-and.html\u00a0\u2026",
+            "username": "UlfFrisk",
+            "num_likes": 53,
+            "num_retweets": 46,
+            "num_replies": 1
+        },
+        "781193581444861952": {
+            "id": "781193581444861952",
+            "text": "PCILeech 1.2 released! macOS Sierra and FreeBSD support. 150MB/s+ DMA attacking!http://github.com/ufrisk/pcileech\u00a0",
+            "username": "UlfFrisk",
+            "num_likes": 56,
+            "num_retweets": 48,
+            "num_replies": 1
+        },
+        "766406518870802432": {
+            "id": "766406518870802432",
+            "text": "Win10 Virtualization Based Security partial bypass! DMA kernel code execution despite DMA \"protection\" possible ;)pic.twitter.com/Pir8N9lVsn",
+            "username": "UlfFrisk",
+            "num_likes": 113,
+            "num_retweets": 96,
+            "num_replies": 4
+        },
+        "761630479460073472": {
+            "id": "761630479460073472",
+            "text": "out here at defconpic.twitter.com/en7aAzS4hR",
+            "username": "qwertyoruiopz",
+            "num_likes": 449,
+            "num_retweets": 197,
+            "num_replies": 94
+        },
+        "753179745819430912": {
+            "id": "753179745819430912",
+            "text": "Best Pie Chart I've seen in a whilepic.twitter.com/6KfKC4YreW",
+            "username": "twahlin",
+            "num_likes": 9973,
+            "num_retweets": 6446,
+            "num_replies": 55
+        },
+        "478498284843986944": {
+            "id": "478498284843986944",
+            "text": "Apparently, the command is called \"grep\" because in ed the command g/re/p would print all lines matching a previously defined pattern",
+            "username": "ex_lion_tamer",
+            "num_likes": 79,
+            "num_retweets": 63,
+            "num_replies": 2
+        },
+        "735940720931012608": {
+            "id": "735940720931012608",
+            "text": "BlueCoat now has a CA signed by Symantec https://crt.sh/?id=19538258\u00a0\n\nHere's how to untrust it https://blog.filippo.io/untrusting-an-intermediate-ca-on-os-x\u00a0\u2026pic.twitter.com/mBD68nrVsD",
+            "username": "FiloSottile",
+            "num_likes": 1267,
+            "num_retweets": 1788,
+            "num_replies": 70
+        },
+        "723843737965703168": {
+            "id": "723843737965703168",
+            "text": "Desperately trying to trick myself into doing some workpic.twitter.com/NylXLm8hgm",
+            "username": "CaptainCaplin",
+            "num_likes": 24280,
+            "num_retweets": 16998,
+            "num_replies": 215
+        },
+        "726109657224216578": {
+            "id": "726109657224216578",
+            "text": "Several high risk vulns bring disclosed in OpenSSL next week should be interesting - https://mta.openssl.org/pipermail/openssl-announce/2016-April/000069.html\u00a0\u2026",
+            "username": "sourceclear",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "725114098107609089": {
+            "id": "725114098107609089",
+            "text": "Nothing is original, esp. in #design. (btw, these are NOT the logos of Medium AirBNB, Flipboard, and Beats)\n\nhttps://twitter.com/stefanotirloni/status/725065684862922753/photo/1pic.twitter.com/JNDsM0rhod\u00a0",
+            "username": "spencerchen",
+            "num_likes": 16224,
+            "num_retweets": 15914,
+            "num_replies": 221
+        },
+        "724713658538942465": {
+            "id": "724713658538942465",
+            "text": "Portswigger post causes XSS alert(1) (Samuel)http://ift.tt/1rdwetG\u00a0",
+            "username": "NewsBlurSupport",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "705825638851149824": {
+            "id": "705825638851149824",
+            "text": "The last programming book you'll ever needpic.twitter.com/cnObD8GYGZ",
+            "username": "ThePracticalDev",
+            "num_likes": 11846,
+            "num_retweets": 13720,
+            "num_replies": 139
+        },
+        "702195255869837313": {
+            "id": "702195255869837313",
+            "text": "Apple wrapped a span around the word \u201cclick\u201d to apply more generous letter spacing, so it doesn\u2019t look like \u201cdick.\u201dpic.twitter.com/oiVj3KV5xJ",
+            "username": "bathtype",
+            "num_likes": 6092,
+            "num_retweets": 5516,
+            "num_replies": 124
+        },
+        "695755113722470401": {
+            "id": "695755113722470401",
+            "text": "\"A long time ago, in a suburb far, far away...\" (via @skywalkertwink)pic.twitter.com/CGED4nwRR2",
+            "username": "GR_comics",
+            "num_likes": 151,
+            "num_retweets": 91,
+            "num_replies": 1
+        },
+        "694184106440200192": {
+            "id": "694184106440200192",
+            "text": "I fucked up Git so bad it turned into Guitar Heropic.twitter.com/vUKZJAQKWg",
+            "username": "HenryHoffman",
+            "num_likes": 16250,
+            "num_retweets": 13661,
+            "num_replies": 240
+        },
+        "688352230190104576": {
+            "id": "688352230190104576",
+            "text": "LostPass: Pixel-perfect LastPass Phishing\nhttps://www.seancassidy.me/lostpass.html\u00a0",
+            "username": "sean_a_cassidy",
+            "num_likes": 212,
+            "num_retweets": 342,
+            "num_replies": 22
+        },
+        "687968967311409152": {
+            "id": "687968967311409152",
+            "text": "After getting a foot of snow,  the bike stands in our yard look a bit like the imperial invasion of Hothpic.twitter.com/aitZZDpotg",
+            "username": "FreedomeVPN",
+            "num_likes": 178,
+            "num_retweets": 89,
+            "num_replies": 3
+        },
+        "686451880592015361": {
+            "id": "686451880592015361",
+            "text": "I assume this important new Microsoft product will eventually be integrated into Microsoft Office\u00aepic.twitter.com/g4XtlpTsLY",
+            "username": "mikko",
+            "num_likes": 54,
+            "num_retweets": 35,
+            "num_replies": 6
+        },
+        "686070287956230144": {
+            "id": "686070287956230144",
+            "text": "The man whopic.twitter.com/2pM100NL0x",
+            "username": "rabihalameddine",
+            "num_likes": 600,
+            "num_retweets": 493,
+            "num_replies": 7
+        },
+        "685540324106612736": {
+            "id": "685540324106612736",
+            "text": "\u201cForbes asked readers to turn off ad blockers then immediately served them pop-under malware.\u201d http://www.engadget.com/2016/01/08/you-say-advertising-i-say-block-that-malware/\u00a0\u2026",
+            "username": "johnwilander",
+            "num_likes": 78,
+            "num_retweets": 170,
+            "num_replies": 3
+        },
+        "685311068260954112": {
+            "id": "685311068260954112",
+            "text": "if we don't resist the call of the light we're no better than moths",
+            "username": "KyloR3n",
+            "num_likes": 21744,
+            "num_retweets": 10934,
+            "num_replies": 193
+        },
+        "683250325986217984": {
+            "id": "683250325986217984",
+            "text": "Yeah, it's not just the Chinese that think a lot of this stuff is weird...https://twitter.com/blakehounshell/status/683136204284538880\u00a0\u2026",
+            "username": "troyhunt",
+            "num_likes": 9,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "682652181548380160": {
+            "id": "682652181548380160",
+            "text": "Twitter. Where people are discussing how to crack a game, from 1982, on New Years Eve. Never change.pic.twitter.com/aaIvzENctD",
+            "username": "mikko",
+            "num_likes": 156,
+            "num_retweets": 92,
+            "num_replies": 9
+        },
+        "682222454513643520": {
+            "id": "682222454513643520",
+            "text": "12/20/15: Tim Cook says \"Apple pays every tax dollar we owe.\"\n\n12/30/15: Apple to pay \u20ac318 m fine for not paying tax it owes in Italy.",
+            "username": "TimFernholz",
+            "num_likes": 106,
+            "num_retweets": 146,
+            "num_replies": 10
+        },
+        "679477569075281920": {
+            "id": "679477569075281920",
+            "text": "\"An array of vulnerabilities and #shoddy design choices with payment terminals used in Europe\" http://motherboard.vice.com/read/european-card-terminals-are-plagued-with-serious-vulnerabilities\u00a0\u2026",
+            "username": "johnwilander",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "678834111893606400": {
+            "id": "678834111893606400",
+            "text": "\u2018<<< %s(un=\u2019%s\u2019) = %u\u2019 is the infamous Juniper backdoor password. Disguised as a debug string. Really clever",
+            "username": "lostinsecurity",
+            "num_likes": 24,
+            "num_retweets": 30,
+            "num_replies": 2
+        },
+        "670650793272430592": {
+            "id": "670650793272430592",
+            "text": "Warning: the IE's UXSS comes back. Please stop using IE immediately!https://blog.innerht.ml/ie-uxss/\u00a0",
+            "username": "filedescriptor",
+            "num_likes": 44,
+            "num_retweets": 55,
+            "num_replies": 5
+        },
+        "663620348114546688": {
+            "id": "663620348114546688",
+            "text": "Damn.. now he has to remember another super secret password. \nhttps://youtu.be/Pl-Q0c55w00\u00a0",
+            "username": "webventil",
+            "num_likes": 29,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "659965356459495424": {
+            "id": "659965356459495424",
+            "text": "Lightning inside a volcanic ash cloud in Patagonia https://twitter.com/TheScienceVids/status/658132257144729600/photo/1pic.twitter.com/WLViJrcGg4\u00a0",
+            "username": "EarnKnowledge",
+            "num_likes": 2017,
+            "num_retweets": 1300,
+            "num_replies": 12
+        },
+        "656440244116574208": {
+            "id": "656440244116574208",
+            "text": "XXE inside a SOAP node: <soap:Body><foo><![CDATA[<!DOCTYPE doc [<!ENTITY % dtd SYSTEM \"http://0x0:22/\"> %dtd;]><xxx/>]]></foo></soap:Body>",
+            "username": "Agarri_FR",
+            "num_likes": 408,
+            "num_retweets": 172,
+            "num_replies": 3
+        },
+        "651298987203526656": {
+            "id": "651298987203526656",
+            "text": "My summer project: OpenPGP chosen ciphertext downgrade attack, defeating integrity protection. http://www.metzdowd.com/pipermail/cryptography/2015-October/026685.html\u00a0\u2026",
+            "username": "internot_",
+            "num_likes": 45,
+            "num_retweets": 51,
+            "num_replies": 2
+        },
+        "647322333498224640": {
+            "id": "647322333498224640",
+            "text": "x86 XOR is turing complete, so here's the XORfuscator - compiles C into xors, and only xors: https://github.com/xoreaxeaxeax/movfuscator/blob/master/post/xor.py\u00a0\u2026pic.twitter.com/rAMILouCAU",
+            "username": "xoreaxeaxeax",
+            "num_likes": 1065,
+            "num_retweets": 1232,
+            "num_replies": 28
+        },
+        "646643100576804864": {
+            "id": "646643100576804864",
+            "text": "@SIGTIM Funnily on Linux that would make sense - error 42 is ENOMSG.",
+            "username": "sturmflut2",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "646489991929982976": {
+            "id": "646489991929982976",
+            "text": "What if 42 wasn't the answer, but was just the errno the machine returned when it gave up?",
+            "username": "SIGTIM",
+            "num_likes": 701,
+            "num_retweets": 1091,
+            "num_replies": 52
+        },
+        "645709041809813505": {
+            "id": "645709041809813505",
+            "text": "This article just wouldn't be clear without a 1/4 page 300dpi photo of the key in question @deviantollampic.twitter.com/K8jWaYBKZw",
+            "username": "SgtHowardPayne",
+            "num_likes": 310,
+            "num_retweets": 417,
+            "num_replies": 29
+        },
+        "645355114648195072": {
+            "id": "645355114648195072",
+            "text": "Symantec caught issuing rogue http://google.com\u00a0 certificates:http://boingboing.net/2015/09/19/symantec-caught-issuing-rogue.html\u00a0\u2026",
+            "username": "runasand",
+            "num_likes": 43,
+            "num_retweets": 121,
+            "num_replies": 3
+        },
+        "645210434169999360": {
+            "id": "645210434169999360",
+            "text": "Goodbye @SEC_T_org!  It was a damned neighborly shindig, just as it always is.",
+            "username": "travisgoodspeed",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "645203628115017728": {
+            "id": "645203628115017728",
+            "text": "Shell-XSS: Never trust cat again http://openwall.com/lists/oss-security/2015/09/17/5\u00a0\u2026",
+            "username": "olemoudi",
+            "num_likes": 64,
+            "num_retweets": 107,
+            "num_replies": 7
+        },
+        "644524509014433793": {
+            "id": "644524509014433793",
+            "text": "Someone accidentally let @travisgoodspeed and @sergeybratus into Sweden! Big mistake. #0x08sectpic.twitter.com/iffyiZCX50",
+            "username": "cryfts",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "644432201032073216": {
+            "id": "644432201032073216",
+            "text": "@pinkflawd at Sec-Tpic.twitter.com/aOrNTaGZOP",
+            "username": "blaufish_",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "642782914166542336": {
+            "id": "642782914166542336",
+            "text": "This is a pretty awesome OPSEC posterpic.twitter.com/9CUaZlX9u7",
+            "username": "andrewshumate",
+            "num_likes": 235,
+            "num_retweets": 267,
+            "num_replies": 6
+        },
+        "641649070495408128": {
+            "id": "641649070495408128",
+            "text": "CSS can kill youpic.twitter.com/LnJENp2fFS",
+            "username": "old_sound",
+            "num_likes": 8029,
+            "num_retweets": 10412,
+            "num_replies": 205
+        },
+        "639601752845758464": {
+            "id": "639601752845758464",
+            "text": "COOKING HACK: if you put too much water in your rice, toss a few phones in therepic.twitter.com/hKNFpmfwAp",
+            "username": "UniqueDude2",
+            "num_likes": 29748,
+            "num_retweets": 24271,
+            "num_replies": 245
+        },
+        "641665840803352576": {
+            "id": "641665840803352576",
+            "text": "This comic is 3 years old; presented without commentpic.twitter.com/38PGAii4cY",
+            "username": "APZonerunner",
+            "num_likes": 10114,
+            "num_retweets": 17792,
+            "num_replies": 208
+        },
+        "639213114165194752": {
+            "id": "639213114165194752",
+            "text": "Right in the feelspic.twitter.com/8TenkSBZrN",
+            "username": "koush",
+            "num_likes": 74,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "638687791870799872": {
+            "id": "638687791870799872",
+            "text": "This is what happens when someone forgets to disarm the door before opening it. #crewlifepic.twitter.com/f3mV8CLdmH",
+            "username": "Toughmutter",
+            "num_likes": 976,
+            "num_retweets": 1604,
+            "num_replies": 76
+        },
+        "638644860312924161": {
+            "id": "638644860312924161",
+            "text": "@troyhunt @mashable That's like saying \"don't use windows because some EXEs are malware\". Misleading and vague article.",
+            "username": "mr_boombastic",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "638461188204986369": {
+            "id": "638461188204986369",
+            "text": "Running AdBlock Plus on Android inserts a potentially broken proxy server between all your Apps and the internet.https://github.com/koush/AndroidAsync/issues/381#issuecomment-136237511\u00a0\u2026",
+            "username": "koush",
+            "num_likes": 16,
+            "num_retweets": 31,
+            "num_replies": 8
+        },
+        "638407163346595840": {
+            "id": "638407163346595840",
+            "text": "Things You Didn't Know Windows Had Built In By Default (part 22): EUDCEDIT.EXE\n\"Private Character Editor\"pic.twitter.com/kWkHub1YkR",
+            "username": "mikko",
+            "num_likes": 75,
+            "num_retweets": 65,
+            "num_replies": 1
+        },
+        "581084955821871105": {
+            "id": "581084955821871105",
+            "text": "Windows 95 would crash if you ran it straight for 50 days without rebooting. This was not discovered for several years. True story.",
+            "username": "mikko",
+            "num_likes": 155,
+            "num_retweets": 264,
+            "num_replies": 31
+        },
+        "635658336306761728": {
+            "id": "635658336306761728",
+            "text": "New blog post: creating security vulnerabilities using javascript minifiers. https://zyan.scripts.mit.edu/blog/backdooring-js/\u00a0\u2026",
+            "username": "bcrypt",
+            "num_likes": 784,
+            "num_retweets": 667,
+            "num_replies": 24
+        },
+        "634792585580662784": {
+            "id": "634792585580662784",
+            "text": "Why \"secure golden keys\" are a terrible idea. Any operational failure destroys security for a huge installed base.https://twitter.com/sehnaoui/status/634740838673702912\u00a0\u2026",
+            "username": "hillbrad",
+            "num_likes": 54,
+            "num_retweets": 111,
+            "num_replies": 3
+        },
+        "634753957563338757": {
+            "id": "634753957563338757",
+            "text": "Had to have a technician come out and update the software on our refrigerator.  Yay Future.",
+            "username": "scottw",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "634659768125231104": {
+            "id": "634659768125231104",
+            "text": ".@Spotify Hello. As a consumer, I've always loved your service. You're the reason I stopped pirating music. Please consider not being evil.",
+            "username": "notch",
+            "num_likes": 1817,
+            "num_retweets": 1067,
+            "num_replies": 78
+        },
+        "554043921601265664": {
+            "id": "554043921601265664",
+            "text": "\"hello, yes, this is cops. we are revoking your license to javascript\"pic.twitter.com/DjieDDIWxz",
+            "username": "rozap_",
+            "num_likes": 2626,
+            "num_retweets": 3331,
+            "num_replies": 97
+        },
+        "633727023211511808": {
+            "id": "633727023211511808",
+            "text": "Researchers set 10 \"honeypot\" networked medical devices. 55,000 logins, 300 malware drops. http://fusion.net/story/181527/security-honeypots-snare-hackers/\u00a0\u2026pic.twitter.com/W9Slfk96YW",
+            "username": "zeynep",
+            "num_likes": 92,
+            "num_retweets": 180,
+            "num_replies": 3
+        },
+        "632047337687257088": {
+            "id": "632047337687257088",
+            "text": "DC23 Badge Challenge Walkthrough\n@1o57 @TheCouncilOf9 @_defcon_http://potatohatsecurity.tumblr.com/post/126411303994/defcon-23-badge-challenge\u00a0\u2026",
+            "username": "PotatoSec",
+            "num_likes": 84,
+            "num_retweets": 74,
+            "num_replies": 8
+        },
+        "632136683299979264": {
+            "id": "632136683299979264",
+            "text": "Is whistleblowing considered cyber-crime? Really? And the ONLY cyber-crime? #SurveyQuestionFromAnalystpic.twitter.com/1ame8aRT2g",
+            "username": "kairoer",
+            "num_likes": 24,
+            "num_retweets": 55,
+            "num_replies": 7
+        },
+        "632120075483525121": {
+            "id": "632120075483525121",
+            "text": ":)pic.twitter.com/mqIlUmUCmP",
+            "username": "OwariDa",
+            "num_likes": 11,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "631881218766839808": {
+            "id": "631881218766839808",
+            "text": "iOS 8.4.1 security notes:\n\nhttps://support.apple.com/en-us/HT205030\u00a0\n\nOS X 10.10.5/Security Update 2015-006 notes:https://support.apple.com/en-us/HT205031\u00a0",
+            "username": "0x56",
+            "num_likes": 15,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "631505582139117569": {
+            "id": "631505582139117569",
+            "text": "One of our weaker advertising campaigns for Windows:pic.twitter.com/Fon5IvBFnP",
+            "username": "markrussinovich",
+            "num_likes": 502,
+            "num_retweets": 728,
+            "num_replies": 45
+        },
+        "631505441390993408": {
+            "id": "631505441390993408",
+            "text": "And, quite unnoticedly, this much-discussed paper finally sees the light of day: https://www.usenix.org/sites/default/files/sec15_supplement.pdf\u00a0\u2026",
+            "username": "sublevado",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "631235557293568000": {
+            "id": "631235557293568000",
+            "text": "This looks like a pretty serious (but fixable) design flaw in ACME / Let's Encrypt: https://mailarchive.ietf.org/arch/msg/acme/F71iz6qq1o_QPVhJCV4dqWf-4Yc\u00a0\u2026",
+            "username": "bascule",
+            "num_likes": 23,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "630775634264915968": {
+            "id": "630775634264915968",
+            "text": "Here is a step-by-step explanation of how your data can be stolen: http://onion.com/1TkLnA1\u00a0pic.twitter.com/kH8ypIljNp",
+            "username": "TheOnion",
+            "num_likes": 169,
+            "num_retweets": 155,
+            "num_replies": 12
+        },
+        "631200698961666048": {
+            "id": "631200698961666048",
+            "text": "Oracle's now-deleted anti-research blog post was bad, but I'm even more worried about what their lobbyists say privately to lawmakers.",
+            "username": "mattblaze",
+            "num_likes": 50,
+            "num_retweets": 76,
+            "num_replies": 6
+        },
+        "631115142370041856": {
+            "id": "631115142370041856",
+            "text": "PSA: Today's a great day to bury bad infosec news if you've got some.",
+            "username": "dlitchfield",
+            "num_likes": 15,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "630614691685859328": {
+            "id": "630614691685859328",
+            "text": "NIST Releases SHA-3 Cryptographic Hash Standard - http://www.nist.gov/itl/csd/201508_sha3.cfm\u00a0\u2026",
+            "username": "AltumSe",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "630617666936401920": {
+            "id": "630617666936401920",
+            "text": "Yall worried about improper fingerprint storage, and i'm just here sitting in your bootloaders",
+            "username": "jcase",
+            "num_likes": 11,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "534042916264873984": {
+            "id": "534042916264873984",
+            "text": "Schrodinger's Backup: \"The condition of any backup is unknown until a restore is attempted.\"",
+            "username": "TessSchrodinger",
+            "num_likes": 1089,
+            "num_retweets": 950,
+            "num_replies": 13
+        },
+        "630540338910793728": {
+            "id": "630540338910793728",
+            "text": "@mikko you know what they say...mojitos, mo' problems",
+            "username": "samykamkar",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "629663053936754688": {
+            "id": "629663053936754688",
+            "text": "Gotta love the tagline for @SamyKamkar's car hacking talk today at #DEFCON: \"Gentlemen, start your engines. And other people\u2019s engines.\"",
+            "username": "mikko",
+            "num_likes": 165,
+            "num_retweets": 167,
+            "num_replies": 6
+        },
+        "629652685231390721": {
+            "id": "629652685231390721",
+            "text": "FAILURE IS THE KEY TO SUCCESS\n\nFAIL FAST\n\nFAIL FOREVER\n\nNEVER STOP FAILING YOURSELF AND OTHERS AROUND YOU",
+            "username": "PHP_CEO",
+            "num_likes": 355,
+            "num_retweets": 334,
+            "num_replies": 4
+        },
+        "629382383926558720": {
+            "id": "629382383926558720",
+            "text": "Why is it that the first thing we do after developing a new document format is to make it Turing-complete? Seriously what is wrong with us.",
+            "username": "matthew_d_green",
+            "num_likes": 71,
+            "num_retweets": 71,
+            "num_replies": 12
+        },
+        "628997932562264064": {
+            "id": "628997932562264064",
+            "text": "Server-side Template Injection: RCE for the modern web app:http://blog.portswigger.net/2015/08/server-side-template-injection.html?m=1\u00a0\u2026",
+            "username": "albinowax",
+            "num_likes": 69,
+            "num_retweets": 50,
+            "num_replies": 3
+        },
+        "628983142364377088": {
+            "id": "628983142364377088",
+            "text": "Best firewall ever. @mikkopic.twitter.com/l8ebymNs42",
+            "username": "Pedro_DeCastro",
+            "num_likes": 111,
+            "num_retweets": 143,
+            "num_replies": 1
+        },
+        "613024648486236160": {
+            "id": "613024648486236160",
+            "text": "I make them fight for my love. #roomba #ilovemyrobots #bestpurchaseseverpic.twitter.com/tdWbNbwfAf",
+            "username": "laurenjbissett",
+            "num_likes": 613,
+            "num_retweets": 507,
+            "num_replies": 33
+        },
+        "627585201107918848": {
+            "id": "627585201107918848",
+            "text": "\"Update the force, Luke\"\n\nAdobe Wan Kenobi",
+            "username": "causticbob",
+            "num_likes": 144,
+            "num_retweets": 177,
+            "num_replies": 3
+        },
+        "626781529054834688": {
+            "id": "626781529054834688",
+            "text": "In about 7 months average web page size will be same as Doom install image. \n\nWell done us! Onwards & upwards!pic.twitter.com/xtSAtZjPGl",
+            "username": "xbs",
+            "num_likes": 1746,
+            "num_retweets": 3736,
+            "num_replies": 81
+        },
+        "627026296166592512": {
+            "id": "627026296166592512",
+            "text": "Good interview with @jduck on @riskybusiness podcast. Stagefright bug is bad. But not *that* bad. ASLR, people, ASLR. http://risky.biz/RB376\u00a0",
+            "username": "martijn_grooten",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "626293368583229440": {
+            "id": "626293368583229440",
+            "text": "The future warstories told by war vetspic.twitter.com/VK8QnbpOYs",
+            "username": "ChrisADale",
+            "num_likes": 22,
+            "num_retweets": 31,
+            "num_replies": 0
+        },
+        "626072710456590336": {
+            "id": "626072710456590336",
+            "text": "\"Brinks\u2019 Super-Secure Smart Safes: Not So Secure\"...opened with a USB device. http://www.wired.com/2015/07/brinks-super-secure-smart-safes-not-secure/\u00a0\u2026pic.twitter.com/vbnRjjzWDL",
+            "username": "XipiterSec",
+            "num_likes": 30,
+            "num_retweets": 77,
+            "num_replies": 1
+        },
+        "626054773742112768": {
+            "id": "626054773742112768",
+            "text": "Hilarious that people seem to think there's a vuln called Stagefright (that's the name of the media framework these issues affect).",
+            "username": "djrbliss",
+            "num_likes": 15,
+            "num_retweets": 15,
+            "num_replies": 5
+        },
+        "625024754622136320": {
+            "id": "625024754622136320",
+            "text": "\"White Castle\" by Yuri Shwedoff #art #spacepic.twitter.com/4ZERwA8r0R",
+            "username": "ZaibatsuPlanet",
+            "num_likes": 441,
+            "num_retweets": 323,
+            "num_replies": 11
+        },
+        "624974786905518084": {
+            "id": "624974786905518084",
+            "text": "for shits and giggles I port scanned my wife's new Cadillac. Both FTP and HTTP are open.pic.twitter.com/8Xb4o89fCd",
+            "username": "hellNbak_",
+            "num_likes": 601,
+            "num_retweets": 988,
+            "num_replies": 60
+        },
+        "624499365831421952": {
+            "id": "624499365831421952",
+            "text": "It's hard not to like the logo of the The Cyprus Cybercrime Center of Excellence (http://3ce.cy/\u00a0)pic.twitter.com/uEl21TJfPM",
+            "username": "mikko",
+            "num_likes": 57,
+            "num_retweets": 78,
+            "num_replies": 7
+        },
+        "624333892716204032": {
+            "id": "624333892716204032",
+            "text": "The questions asked about this rather expensive Samsung TV are worth reading. http://www.amazon.com/Samsung-UN105S9-Curved-105-Inch-Ultra/dp/B00L403O8U/ref=sr_1_1?s=tv&ie=UTF8&qid=1437687612&sr=1-1\u00a0\u2026",
+            "username": "mikko",
+            "num_likes": 54,
+            "num_retweets": 68,
+            "num_replies": 9
+        },
+        "623984846256390144": {
+            "id": "623984846256390144",
+            "text": "Getting root privileges in Mac OS X Yosemite 10.10.4 with one line of code, via @i0n1cpic.twitter.com/NjRbtBfSL6",
+            "username": "garagosy",
+            "num_likes": 779,
+            "num_retweets": 1022,
+            "num_replies": 44
+        },
+        "623674159458054144": {
+            "id": "623674159458054144",
+            "text": "pic.twitter.com/6Wmc0G5onL",
+            "username": "koush",
+            "num_likes": 27,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "623475182779248640": {
+            "id": "623475182779248640",
+            "text": "Title should read 'remote compromise results in full physical control'. Enjoy! http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/\u00a0\u2026",
+            "username": "nudehaberdasher",
+            "num_likes": 24,
+            "num_retweets": 42,
+            "num_replies": 6
+        },
+        "621081918004662272": {
+            "id": "621081918004662272",
+            "text": "FUCKING BRILLIANT: echochamber.js by @tessthornton \n\n\"commenting without the comments\"\nhttps://github.com/tessalt/echo-chamber-js\u00a0\u2026pic.twitter.com/qEAkEpyNMw",
+            "username": "ag_dubs",
+            "num_likes": 1612,
+            "num_retweets": 2072,
+            "num_replies": 34
+        },
+        "621788356612091908": {
+            "id": "621788356612091908",
+            "text": "Surreal. CNN interrupted news on Charleston massacre w/ coverage of Chattanooga massacre to be interrupted by Aurora Co massacre verdict.",
+            "username": "tchopstl_",
+            "num_likes": 677,
+            "num_retweets": 1477,
+            "num_replies": 53
+        },
+        "621015133846904832": {
+            "id": "621015133846904832",
+            "text": "Join @jcran at #BHUSA for the release of \"Intrigue,\" an API-first framework for intel gathering & vuln discovery http://ow.ly/Pzbrm\u00a0",
+            "username": "BlackHatEvents",
+            "num_likes": 11,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "619288223328653313": {
+            "id": "619288223328653313",
+            "text": "I show with #RIPEstat how an italian ISP hijacked another company's IPs to restore access to #HackingTeam C&C servers http://blog.bofh.it/id_456\u00a0",
+            "username": "rfc1036",
+            "num_likes": 63,
+            "num_retweets": 147,
+            "num_replies": 3
+        },
+        "619903473702690820": {
+            "id": "619903473702690820",
+            "text": "[!] New Flash 0day in exploit kits. No patch. From Hacking Team leak. This is bad. #CVE-2015-5122http://malware.dontneedcoffee.com/2015/07/cve-2015-5122-hackingteam-0d-two-flash.html\u00a0\u2026",
+            "username": "SwiftOnSecurity",
+            "num_likes": 107,
+            "num_retweets": 302,
+            "num_replies": 7
+        },
+        "619498160084418560": {
+            "id": "619498160084418560",
+            "text": "Lulz, not surprising that they are hypocrites but great to have the evidencehttps://twitter.com/Paulmd199/status/619370930372898816\u00a0\u2026",
+            "username": "SynAckPwn",
+            "num_likes": 0,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "619151830975541248": {
+            "id": "619151830975541248",
+            "text": "OprahSSL \u2026pic.twitter.com/eJFJowr9Uq",
+            "username": "thegrugq",
+            "num_likes": 213,
+            "num_retweets": 261,
+            "num_replies": 9
+        },
+        "617967033112592384": {
+            "id": "617967033112592384",
+            "text": "Congratulations to @hackingteam for successfully launching an open-source initiative! We're very excited for all the great news to come.",
+            "username": "cure53berlin",
+            "num_likes": 97,
+            "num_retweets": 137,
+            "num_replies": 2
+        },
+        "617970233035206656": {
+            "id": "617970233035206656",
+            "text": "Bad day? Could be worse. It's now someone at @hackingteam's job to call up the Russian secret police and inform them there's been a breach",
+            "username": "liamosaur",
+            "num_likes": 231,
+            "num_retweets": 403,
+            "num_replies": 6
+        },
+        "617194191303610368": {
+            "id": "617194191303610368",
+            "text": "Friends of the interwebz: A researcher @_joac, his house raided for the disclosure of a vuln in the Argentinian voting machines. Pls RT",
+            "username": "fede_k",
+            "num_likes": 54,
+            "num_retweets": 237,
+            "num_replies": 2
+        },
+        "616640739750084608": {
+            "id": "616640739750084608",
+            "text": "The #Wassenaar Arrangement is already having a chilling effect on security research: http://tekwizz123.blogspot.com/2015/07/final-year-dissertation-paper-release.html?m=1\u00a0\u2026",
+            "username": "runasand",
+            "num_likes": 15,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "615571590604980224": {
+            "id": "615571590604980224",
+            "text": "Bitcoin casino Primedice loses $1M due a vulnerability that let a player predict winning bets:https://medium.com/@Stunna/breaking-the-house-63f1021a3e6d\u00a0\u2026",
+            "username": "sweis",
+            "num_likes": 32,
+            "num_retweets": 67,
+            "num_replies": 2
+        },
+        "616059353821487104": {
+            "id": "616059353821487104",
+            "text": "Leap second causes ~5 minutes of transient global routing instabilitypic.twitter.com/zw7xN3xazA",
+            "username": "InternetIntel",
+            "num_likes": 536,
+            "num_retweets": 1508,
+            "num_replies": 21
+        },
+        "609151509343924224": {
+            "id": "609151509343924224",
+            "text": "Guy lives next to airport. Painted this on roof to confuse passengers as they fly overhead. He lives in Milwaukee.pic.twitter.com/2AwmXG8Vwo",
+            "username": "SaintRPh",
+            "num_likes": 15711,
+            "num_retweets": 16512,
+            "num_replies": 284
+        },
+        "607642918640230401": {
+            "id": "607642918640230401",
+            "text": "People get amazed at Interstellar's tesseract. And I was like \"someone forgot to turn off clamp texture mode\"pic.twitter.com/VeBNqtzjwU",
+            "username": "matiasgoldberg",
+            "num_likes": 688,
+            "num_retweets": 385,
+            "num_replies": 22
+        },
+        "596735930263732225": {
+            "id": "596735930263732225",
+            "text": "Best license plate ever.pic.twitter.com/Rgf859vkUR",
+            "username": "ShelbyWhite",
+            "num_likes": 2557,
+            "num_retweets": 2466,
+            "num_replies": 73
+        },
+        "510993148302983168": {
+            "id": "510993148302983168",
+            "text": "In a few years there'll be enough computers in your home that getting hacked and being haunted will be functionally indistinguishable.",
+            "username": "moonpolysoft",
+            "num_likes": 3198,
+            "num_retweets": 3637,
+            "num_replies": 74
+        },
+        "595392406150778880": {
+            "id": "595392406150778880",
+            "text": "I'm thinking I'll re-submit this app with a web view instead of Safari and then email the review team their username/password.",
+            "username": "jacksonh",
+            "num_likes": 19,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "595392404116541440": {
+            "id": "595392404116541440",
+            "text": "Requiring apps to use embedded WebViews for OAuth fundamentally breaks the security of OAuth.",
+            "username": "koush",
+            "num_likes": 24,
+            "num_retweets": 45,
+            "num_replies": 7
+        },
+        "595391921209540608": {
+            "id": "595391921209540608",
+            "text": "Just had an app rejection for using Safari for authentication instead of a web view.",
+            "username": "jacksonh",
+            "num_likes": 19,
+            "num_retweets": 18,
+            "num_replies": 11
+        },
+        "594110518203260929": {
+            "id": "594110518203260929",
+            "text": "248 days == 2^31 100ths of a second.\n\neven in 2015, our airplanes have integer overflow bugshttps://twitter.com/bengoldacre/status/594089242319552512\u00a0\u2026",
+            "username": "FioraAeterna",
+            "num_likes": 495,
+            "num_retweets": 1099,
+            "num_replies": 37
+        },
+        "593140094825078784": {
+            "id": "593140094825078784",
+            "text": "A good way to get to know your date.pic.twitter.com/HryhhBnuDV",
+            "username": "Faskil",
+            "num_likes": 274,
+            "num_retweets": 448,
+            "num_replies": 3
+        },
+        "592683691173904384": {
+            "id": "592683691173904384",
+            "text": "So somebody posted #XSS bug report in #WebObjects (#Apple technology) on their mailing list and this is what happens: http://prod.lists.apple.com/archives/webobjects-dev/2014/Dec/msg00018.html\u00a0\u2026",
+            "username": "j_kaluzny",
+            "num_likes": 94,
+            "num_retweets": 205,
+            "num_replies": 12
+        },
+        "592698341684838400": {
+            "id": "592698341684838400",
+            "text": "Security by Insecurity. Leaving a system so unpatched that most attackers assume it's a honeypot and move on.",
+            "username": "sadserver",
+            "num_likes": 2104,
+            "num_retweets": 2855,
+            "num_replies": 43
+        },
+        "588801327653900288": {
+            "id": "588801327653900288",
+            "text": "Don't do drugspic.twitter.com/VztSp67yDt",
+            "username": "DepressedDarth",
+            "num_likes": 3767,
+            "num_retweets": 4202,
+            "num_replies": 50
+        },
+        "588561676074614785": {
+            "id": "588561676074614785",
+            "text": "It took 2 years for US gov to believe @hteso #airplane #hack. Now it's even reported on in Swedish media. Little bit to slow.",
+            "username": "AltumSe",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "587924709318230016": {
+            "id": "587924709318230016",
+            "text": "We're delighted that the legendary @garethheyes has joined the @Burp_Suite team. Burp's future has never looked brighter #HireAllTheAwesome",
+            "username": "Burp_Suite",
+            "num_likes": 39,
+            "num_retweets": 23,
+            "num_replies": 20
+        },
+        "587778357636415488": {
+            "id": "587778357636415488",
+            "text": "#TDSBreakingNews Apple watch sold out in less than 6 hours. Which is the same amount of time you'll be excited about your apple watch.",
+            "username": "TheDailyShow",
+            "num_likes": 1178,
+            "num_retweets": 871,
+            "num_replies": 42
+        },
+        "587515221851254785": {
+            "id": "587515221851254785",
+            "text": "Amazing that Apple is taking a 30% cut on HBO Now, without providing any of the CDN. Devices are the new last mile infrastructure.",
+            "username": "koush",
+            "num_likes": 9,
+            "num_retweets": 18,
+            "num_replies": 7
+        },
+        "587170878577741824": {
+            "id": "587170878577741824",
+            "text": "Watching bad guys do bad things, badly- New blog post!\n\nhttp://morris.guru/huthos-the-totally-100-legit-vps-provider/\u00a0\u2026",
+            "username": "Andrew___Morris",
+            "num_likes": 28,
+            "num_retweets": 34,
+            "num_replies": 3
+        },
+        "586408124594028547": {
+            "id": "586408124594028547",
+            "text": "This video explains lifes greatest mysteries: \u00bbEveryone's Upstairs Neighbors\u00ab https://www.youtube.com/watch?v=4IRB0sxw-YU\u00a0\u2026",
+            "username": "hukl",
+            "num_likes": 28,
+            "num_retweets": 55,
+            "num_replies": 2
+        },
+        "583990593963089920": {
+            "id": "583990593963089920",
+            "text": "SAP is really not what it used to be #humor #sap #oraclepic.twitter.com/YjbEWX7R0M",
+            "username": "softmodeling",
+            "num_likes": 106,
+            "num_retweets": 181,
+            "num_replies": 5
+        },
+        "585450930943832066": {
+            "id": "585450930943832066",
+            "text": "If you find @lbthomsen's analysis of the @anonabox too long: Quick recap of all the #fail.\nhttps://reclaim-your-privacy.com/wiki/Anonabox_Analysis\u00a0\u2026pic.twitter.com/pGDxVY8wNH",
+            "username": "sehnaoui",
+            "num_likes": 45,
+            "num_retweets": 88,
+            "num_replies": 4
+        },
+        "582364374985113602": {
+            "id": "582364374985113602",
+            "text": "There\u2019s something very dangerous happening in states across the country.http://www.washingtonpost.com/opinions/pro-discrimination-religious-freedom-laws-are-dangerous-to-america/2015/03/29/bdb4ce9e-d66d-11e4-ba28-f2a685dc7f89_story.html\u00a0\u2026",
+            "username": "tim_cook",
+            "num_likes": 7068,
+            "num_retweets": 9069,
+            "num_replies": 1500
+        },
+        "576395292939034624": {
+            "id": "576395292939034624",
+            "text": "we found love in a hopeless placepic.twitter.com/lrHuhoqgKt",
+            "username": "AdrianShepski",
+            "num_likes": 1798,
+            "num_retweets": 1284,
+            "num_replies": 13
+        },
+        "579990723753353216": {
+            "id": "579990723753353216",
+            "text": "Unlocked god mode at workpic.twitter.com/fenVe6YDCg",
+            "username": "vineyille",
+            "num_likes": 1039,
+            "num_retweets": 755,
+            "num_replies": 16
+        },
+        "580239306704343040": {
+            "id": "580239306704343040",
+            "text": "https://bugzilla.redhat.com/show_bug.cgi?id=1202858\u00a0\u2026pic.twitter.com/2lNsvlNI3Z",
+            "username": "bcrypt",
+            "num_likes": 700,
+            "num_retweets": 1594,
+            "num_replies": 78
+        },
+        "580694294270472192": {
+            "id": "580694294270472192",
+            "text": "Life goal achieved! :) Successfully compiled and ran my first cobol program on a mainframe today! DISPLAY 'Hello world!'.",
+            "username": "peksa",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "577248320218750977": {
+            "id": "577248320218750977",
+            "text": "Java is to JavaScript as pain is to painting.",
+            "username": "_ericelliott",
+            "num_likes": 227,
+            "num_retweets": 284,
+            "num_replies": 23
+        },
+        "575010800839999489": {
+            "id": "575010800839999489",
+            "text": "The issue isn't that it's a $10k watch, it's that it's a $10k watch with a 12 month obsolescence cycle.",
+            "username": "troyhunt",
+            "num_likes": 22,
+            "num_retweets": 38,
+            "num_replies": 14
+        },
+        "573483928419463169": {
+            "id": "573483928419463169",
+            "text": "Remember to turn off autocorrect when typing the name to be given to your newborn child. Or when applying for a new top-level domain.",
+            "username": "mikko",
+            "num_likes": 29,
+            "num_retweets": 39,
+            "num_replies": 2
+        },
+        "573521159850864640": {
+            "id": "573521159850864640",
+            "text": "\"CSI: Cyber makes Swordfish look like a documentary\"http://threatpost.com/csi-cyber-we-watched-so-you-didnt-have-to/111440\u00a0\u2026",
+            "username": "0xcharlie",
+            "num_likes": 28,
+            "num_retweets": 33,
+            "num_replies": 2
+        },
+        "570616156622589952": {
+            "id": "570616156622589952",
+            "text": "after years of searching I finally found it, the world's most pedantic pull requesthttps://github.com/twbs/bootstrap/pull/15909\u00a0\u2026",
+            "username": "tpope",
+            "num_likes": 572,
+            "num_retweets": 854,
+            "num_replies": 74
+        },
+        "570712967479762944": {
+            "id": "570712967479762944",
+            "text": "Introducing Sans Bullshit Sans\u2122, a font that gets rid of buzzwords: http://www.sansbullshitsans.com/\u00a0pic.twitter.com/VBo32PVHbT",
+            "username": "PixelAmbacht",
+            "num_likes": 227,
+            "num_retweets": 470,
+            "num_replies": 22
+        },
+        "570974137402957824": {
+            "id": "570974137402957824",
+            "text": "how gerrymandering workspic.twitter.com/3Mq4CbSn78",
+            "username": "m_e_grunder",
+            "num_likes": 40,
+            "num_retweets": 33,
+            "num_replies": 1
+        },
+        "571144105733939200": {
+            "id": "571144105733939200",
+            "text": "You know that dress thing? How tons of people are super convinced of their own subjective perception of reality? That's why we have science.",
+            "username": "AstroKatie",
+            "num_likes": 1034,
+            "num_retweets": 1285,
+            "num_replies": 55
+        },
+        "571396826403729408": {
+            "id": "571396826403729408",
+            "text": "New post: Google, Our Patron Saint of the Closed Webhttp://bit.ly/1AS7mb2\u00a0",
+            "username": "drewcrawford",
+            "num_likes": 40,
+            "num_retweets": 67,
+            "num_replies": 6
+        },
+        "571780164629090304": {
+            "id": "571780164629090304",
+            "text": "Using open-uri? Check your code - you're playing with fire! http://sakurity.com/blog/2015/02/28/openuri.html\u00a0\u2026 via @sakuritynetwork",
+            "username": "jcran",
+            "num_likes": 33,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "568954058288922624": {
+            "id": "568954058288922624",
+            "text": "It's a funny thing - turns out people get kinda pissed when you create software to spy on them http://www.komodia.com/\u00a0pic.twitter.com/lTQrhX2VNw",
+            "username": "troyhunt",
+            "num_likes": 14,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "561905475256848385": {
+            "id": "561905475256848385",
+            "text": "Out-of-band information leakage. #infosecpic.twitter.com/UVU4DscT4T",
+            "username": "jonarer",
+            "num_likes": 102,
+            "num_retweets": 155,
+            "num_replies": 3
+        },
+        "568492799223595008": {
+            "id": "568492799223595008",
+            "text": "Did Apple ever acknowledge that they gave publishers random access to other publishers apps? Have we decided to give them a pass?",
+            "username": "koush",
+            "num_likes": 11,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "566393992137289728": {
+            "id": "566393992137289728",
+            "text": "An ounce of prevention is worth a pound of cure: http://marc.info/?l=linux-kernel&m=142387241308602&w=2\u00a0\u2026",
+            "username": "djrbliss",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "565979394301100033": {
+            "id": "565979394301100033",
+            "text": "New blog post about #proxmark3 development, iClass, Mifare and signal geekery with @saleae at\nhttp://martin.swende.se/blog/PM3-development.html\u00a0\u2026",
+            "username": "mhswende",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "565207183860568064": {
+            "id": "565207183860568064",
+            "text": "Apple libc shells out to Perl for wordexp() https://github.com/Apple-FOSS-Mirror/Libc/blob/2ca2ae74647714acfc18674c3114b1a5d3325d7d/gen/wordexp.c#L192\u00a0\u2026 ... this is some sort of record for Rube Goldberg style code",
+            "username": "kurtseifried",
+            "num_likes": 29,
+            "num_retweets": 42,
+            "num_replies": 6
+        },
+        "564356757007261696": {
+            "id": "564356757007261696",
+            "text": "Left: Samsung SmartTV privacy policy, warning users not to discuss personal info in front of their TV\nRight: 1984pic.twitter.com/osywjYKV3W",
+            "username": "xor",
+            "num_likes": 16915,
+            "num_retweets": 29808,
+            "num_replies": 681
+        },
+        "564742808532443136": {
+            "id": "564742808532443136",
+            "text": "@koush  ... Had me rolling so hard this morning. Best. Changelog. Ever.pic.twitter.com/EJpmuHqRA7",
+            "username": "YourMainDude",
+            "num_likes": 15,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "561219086777327616": {
+            "id": "561219086777327616",
+            "text": "Nike FuelBand protocol reversed. It's not secure. @troyhunt\nhttp://www.evilsocket.net/2015/01/29/nike-fuelband-se-ble-protocol-reversed/\u00a0\u2026",
+            "username": "softwareverify",
+            "num_likes": 2,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "561125732626472960": {
+            "id": "561125732626472960",
+            "text": "Most Popular WordPress plugins using PHP\u2019s gethostbyname() - http://pastebin.com/H06Q290w\u00a0 by @PaulWebSec #ghost (via @_WPScan_)",
+            "username": "1njected",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "556468592481673216": {
+            "id": "556468592481673216",
+            "text": "Banning encryption for govt convenience is like banning seatbelts to make it easier for responders to remove bodies from wreckage",
+            "username": "sawaba",
+            "num_likes": 534,
+            "num_retweets": 1141,
+            "num_replies": 16
+        },
+        "552905383073689600": {
+            "id": "552905383073689600",
+            "text": "Adobe strikes again: A Rosetta Flash style attack using PDF. https://bounty.github.com/researchers/avlidienbrunn.html\u00a0\u2026 @avlidienbrunn",
+            "username": "mastahyeti",
+            "num_likes": 10,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "547676437940301825": {
+            "id": "547676437940301825",
+            "text": "Reading the lyrics of \"Santa Claus is coming to town\" in a post snowdenesk world it's obvious that santa works for the NSA. Merry christmas!",
+            "username": "webtonull",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "544872115598811136": {
+            "id": "544872115598811136",
+            "text": "Every PUSH  you take\nEvery MOV you make\nEvery INT you break, every RET you fake\nI'll be watching you\n#windbg",
+            "username": "it4sec",
+            "num_likes": 764,
+            "num_retweets": 1080,
+            "num_replies": 25
+        },
+        "544908739061776384": {
+            "id": "544908739061776384",
+            "text": "I can hear him laughing in his grave.pic.twitter.com/mwj76pGo8z",
+            "username": "DannyDutch",
+            "num_likes": 1408,
+            "num_retweets": 1819,
+            "num_replies": 92
+        },
+        "545956546208092160": {
+            "id": "545956546208092160",
+            "text": "New Disclaimerpic.twitter.com/xDtMXPaTIf",
+            "username": "SaintRPh",
+            "num_likes": 2471,
+            "num_retweets": 3948,
+            "num_replies": 125
+        },
+        "545855317075329024": {
+            "id": "545855317075329024",
+            "text": "And you thought your job is stressfulpic.twitter.com/vqJYNAFr4R",
+            "username": "wpawlikowski",
+            "num_likes": 11,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "545299952990048256": {
+            "id": "545299952990048256",
+            "text": "I\u2019ve released USBdriveby: device to weaponize mouse clicks, evade firewall, install backdoor & reroute DNS in seconds http://samy.pl/usbdriveby\u00a0",
+            "username": "samykamkar",
+            "num_likes": 320,
+            "num_retweets": 327,
+            "num_replies": 25
+        },
+        "545129883438166016": {
+            "id": "545129883438166016",
+            "text": "The American date format, created by me it was.",
+            "username": "html5_yoda",
+            "num_likes": 5868,
+            "num_retweets": 10899,
+            "num_replies": 125
+        },
+        "544556254828314624": {
+            "id": "544556254828314624",
+            "text": "pic.twitter.com/kRetW3LRmj",
+            "username": "ConalPierse",
+            "num_likes": 156,
+            "num_retweets": 204,
+            "num_replies": 3
+        },
+        "538970476475719681": {
+            "id": "538970476475719681",
+            "text": "Schr\u00f6dinger\u2019s immigrant: one who \u2018lazes around on benefits whilst simultaneously stealing your job",
+            "username": "koush",
+            "num_likes": 57,
+            "num_retweets": 85,
+            "num_replies": 1
+        },
+        "537248268397584385": {
+            "id": "537248268397584385",
+            "text": "Wow. Full list of undersea fibre optic cables GCHQ is accessing has been published. http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodaafone-subsidiary-cable\u00a0\u2026pic.twitter.com/ZqpJpkXpqA",
+            "username": "e3i5",
+            "num_likes": 368,
+            "num_retweets": 819,
+            "num_replies": 39
+        },
+        "537332521139449857": {
+            "id": "537332521139449857",
+            "text": "Next up @peksa and Magnus Huldtin showing us how to fight cyber criminals! #sthlmjspic.twitter.com/OUC9xNYNm8",
+            "username": "sthlmjs",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "535542396868517888": {
+            "id": "535542396868517888",
+            "text": "Stop trying to make HTML5 mobile apps happen. It's not going to happen.",
+            "username": "koush",
+            "num_likes": 48,
+            "num_retweets": 58,
+            "num_replies": 12
+        },
+        "536184965055401984": {
+            "id": "536184965055401984",
+            "text": "How to perform the Swedish before-christmas classic, \"Lucias\u00e5ngen\":pic.twitter.com/QxxBTF1Km6",
+            "username": "vemihelvete",
+            "num_likes": 277,
+            "num_retweets": 358,
+            "num_replies": 10
+        },
+        "533379193489608704": {
+            "id": "533379193489608704",
+            "text": "public static DateTime getTommorowsDate()\n{\n    Thread.Sleep(24*60*60*1000);\n    return DateTime.Now;\n}",
+            "username": "maverikou",
+            "num_likes": 2549,
+            "num_retweets": 3743,
+            "num_replies": 112
+        },
+        "533258890184765440": {
+            "id": "533258890184765440",
+            "text": "Confirmed submarine in the Stockholm archipelago http://www.forsvarsmakten.se/en/news/2014/11/confirmed-submarine-in-the-stockholm-archipelago/\u00a0\u2026 #svfm",
+            "username": "Forsvarsmakten",
+            "num_likes": 7,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "532578871494070272": {
+            "id": "532578871494070272",
+            "text": "Fox: \"Why did America waste money landing on a comet?\"\nScientist: \"This is a European mission.\"\nFox: \"Why didn't America get there first?\"",
+            "username": "JRehling",
+            "num_likes": 13042,
+            "num_retweets": 17756,
+            "num_replies": 329
+        },
+        "532654536746614784": {
+            "id": "532654536746614784",
+            "text": "Seems quite a few people have gone back and 1 star reviewed Monument Valley upon update because the expansion was paid. This makes us sad.",
+            "username": "ustwogames",
+            "num_likes": 524,
+            "num_retweets": 1314,
+            "num_replies": 623
+        },
+        "532547359884857344": {
+            "id": "532547359884857344",
+            "text": "We fact-checked this meme, and guess what? It's True! http://ow.ly/E9ip9\u00a0pic.twitter.com/CLUuQdEgIu",
+            "username": "PolitiFact",
+            "num_likes": 258,
+            "num_retweets": 841,
+            "num_replies": 96
+        },
+        "532576528232497153": {
+            "id": "532576528232497153",
+            "text": "And .NET is on a path to be categorically more open and inclusive than Java at a time when Java\u2019s stewardship is at odds with the ecosystem.",
+            "username": "segphault",
+            "num_likes": 13,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "530614959898902528": {
+            "id": "530614959898902528",
+            "text": "When Russia launches a cybernuke you will only have ~120 milliseconds before it hits.\n\nRemember to hold 'Ctrl' to duck.",
+            "username": "SwiftOnSecurity",
+            "num_likes": 94,
+            "num_retweets": 74,
+            "num_replies": 13
+        },
+        "528412330166861824": {
+            "id": "528412330166861824",
+            "text": "Putting $10M into UBeam illustrates what is wrong with tech investing http://lookatmeimdanny.tumblr.com/post/101432017159/how-putting-10m-into-ubeam-illustrates-everything-that\u00a0\u2026",
+            "username": "newsycombinator",
+            "num_likes": 36,
+            "num_retweets": 65,
+            "num_replies": 5
+        },
+        "528169788598521857": {
+            "id": "528169788598521857",
+            "text": "Happy Halloween, nerds.pic.twitter.com/s03nvAlpUm",
+            "username": "onceuponA",
+            "num_likes": 1095,
+            "num_retweets": 1817,
+            "num_replies": 52
+        },
+        "527584968609116160": {
+            "id": "527584968609116160",
+            "text": "I logged into Microsoft's Chat Support with my credentials, and it gave me a random dude's name & email. Solid startpic.twitter.com/X53Q5YqniG",
+            "username": "cabel",
+            "num_likes": 32,
+            "num_retweets": 16,
+            "num_replies": 9
+        },
+        "526392508494774273": {
+            "id": "526392508494774273",
+            "text": "I'm glad I haven't enabled iCloid and have advised family not to, either: https://datavibe.net/~sneak/20141023/wtf-icloud/\u00a0\u2026",
+            "username": "hsivonen",
+            "num_likes": 38,
+            "num_retweets": 77,
+            "num_replies": 13
+        },
+        "524171618093117441": {
+            "id": "524171618093117441",
+            "text": "Got an email about IP infringement the other day: http://martin.swende.se/blog/IP-issues.html\u00a0\u2026 . For implementing an algorithm from an academic paper.",
+            "username": "mhswende",
+            "num_likes": 3,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "523688207012352000": {
+            "id": "523688207012352000",
+            "text": "Social Media at its best.pic.twitter.com/IDDcMsge1M",
+            "username": "textfiles",
+            "num_likes": 3972,
+            "num_retweets": 5634,
+            "num_replies": 165
+        },
+        "522152114550607872": {
+            "id": "522152114550607872",
+            "text": "So, the #sslv3 thingy... Google Online Security Blog: This POODLE bites: exploiting the SSL 3.0 fallback http://googleonlinesecurity.blogspot.com/2014/10/this-poodle-bites-exploiting-ssl-30.html\u00a0\u2026",
+            "username": "kkotowicz",
+            "num_likes": 11,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "521301468192968704": {
+            "id": "521301468192968704",
+            "text": "Keep hearing whispers that we're going to hear about a flaw in SSLv3 this week, from MS and possibly others. MS isn't talking for now.",
+            "username": "briankrebs",
+            "num_likes": 115,
+            "num_retweets": 361,
+            "num_replies": 54
+        },
+        "411282297816498176": {
+            "id": "411282297816498176",
+            "text": "Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you!",
+            "username": "Loh",
+            "num_likes": 6340,
+            "num_retweets": 9557,
+            "num_replies": 95
+        },
+        "519502565932040192": {
+            "id": "519502565932040192",
+            "text": "The perfect password:\nX' or '1'='1' -- \n\n\u2713 Upper\n\u2713 lower\n\u2713 number\n\u2713 special\n\u2713 16+",
+            "username": "modalexii",
+            "num_likes": 739,
+            "num_retweets": 1196,
+            "num_replies": 30
+        },
+        "518196513940336640": {
+            "id": "518196513940336640",
+            "text": "I wonder if all the conservatives yelling that Ebola might become airborne realize it means they now believe in evolution?",
+            "username": "Green_Footballs",
+            "num_likes": 8687,
+            "num_retweets": 9262,
+            "num_replies": 308
+        },
+        "517358472715710465": {
+            "id": "517358472715710465",
+            "text": "A Microsoft developer explains in a Reddit thread why Windows 10 is called Windows 10.pic.twitter.com/qJFi8yJEJg",
+            "username": "mikko",
+            "num_likes": 4187,
+            "num_retweets": 11549,
+            "num_replies": 376
+        },
+        "515065902153601024": {
+            "id": "515065902153601024",
+            "text": "XSA-108. Yet-undisclosed, embargoed XEN vulnerability. The cause for the upcoming EC2 reboots? Who has details? http://xenbits.xen.org/xsa/\u00a0",
+            "username": "totally_unknown",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "513978256790663168": {
+            "id": "513978256790663168",
+            "text": "Quick AngularJS sandbox bypass (now fixed) writeup (and $5000 Google bug bounty!): http://avlidienbrunn.se/angular.txt\u00a0 #html #is #overrated #angularjs",
+            "username": "avlidienbrunn",
+            "num_likes": 117,
+            "num_retweets": 86,
+            "num_replies": 8
+        },
+        "513852793229438976": {
+            "id": "513852793229438976",
+            "text": "\"100% reliable and portable exploit for MobileSafari on IOS7.1.x. can be downloaded from github\" CVE-2014-4377 #ios8 http://blog.binamuse.com/2014/09/coregraphics-memory-corruption.html\u00a0\u2026",
+            "username": "julianor",
+            "num_likes": 136,
+            "num_retweets": 163,
+            "num_replies": 5
+        },
+        "514013565834260480": {
+            "id": "514013565834260480",
+            "text": "First work of fiction which does not revolve around computers to use the word lulz? Lev Grossman/The Magicians Landpic.twitter.com/AdZga7VRVZ",
+            "username": "mhswende",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "512706177998659585": {
+            "id": "512706177998659585",
+            "text": "@troyhunt @irPhunky Here you can how it was done: http://www.dnswatch.info/dns/dnslookup?la=en&host=jamiehankins.co.uk&type=TXT&submit=Resolve\u00a0\u2026",
+            "username": "xdaDaveShaw",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "512468039166464000": {
+            "id": "512468039166464000",
+            "text": "what if apple's encryption is secretly vulnerable to chosen plaintext attacks where the plaintext is U2 albums",
+            "username": "bcrypt",
+            "num_likes": 150,
+            "num_retweets": 224,
+            "num_replies": 7
+        },
+        "511781634337947648": {
+            "id": "511781634337947648",
+            "text": "\u201cApple confirms iPhone 6 NFC chip is restricted to Apple Pay\u201d: http://www.cultofmac.com/296093/apple-confirms-iphone-6-nfc-apple-pay/\u00a0\u2026\n[silly me, I thought it was actually interesting]",
+            "username": "timbray",
+            "num_likes": 37,
+            "num_retweets": 174,
+            "num_replies": 14
+        },
+        "509869150022279171": {
+            "id": "509869150022279171",
+            "text": "Perfectpic.twitter.com/04CIBHhjjx",
+            "username": "philnelson",
+            "num_likes": 2683,
+            "num_retweets": 3894,
+            "num_replies": 115
+        },
+        "509626885157163008": {
+            "id": "509626885157163008",
+            "text": "There's probably a security lesson somewhere here\u2026 pic.twitter.com/G443QxEDIh\n/via @koistinenT",
+            "username": "mikko",
+            "num_likes": 264,
+            "num_retweets": 566,
+            "num_replies": 36
+        },
+        "281139739304800256": {
+            "id": "281139739304800256",
+            "text": "Anyway, my price is two billion dollars. Give me two billion dollars, and I'll endorse your crap.",
+            "username": "notch",
+            "num_likes": 2450,
+            "num_retweets": 3095,
+            "num_replies": 377
+        },
+        "501792608205955074": {
+            "id": "501792608205955074",
+            "text": "Fun fact: The Atari 2600 had 128 bytes of RAM. You could fit all of it\u2026in one tweet.",
+            "username": "mikko",
+            "num_likes": 208,
+            "num_retweets": 396,
+            "num_replies": 14
+        },
+        "501374674631426048": {
+            "id": "501374674631426048",
+            "text": "Dear twitter: Due to different reasons I have decided to leave @detectify. If you need a spare @avlidienbrunn, ping me! #pleasert #notajoke",
+            "username": "avlidienbrunn",
+            "num_likes": 3,
+            "num_retweets": 11,
+            "num_replies": 8
+        },
+        "500707080638967808": {
+            "id": "500707080638967808",
+            "text": "accidental venn diagram?pic.twitter.com/7Xr5HWKh02",
+            "username": "isaach",
+            "num_likes": 1681,
+            "num_retweets": 2078,
+            "num_replies": 77
+        },
+        "499944853439266816": {
+            "id": "499944853439266816",
+            "text": "Today I successfully predicted java.util.Random in order to defeat CSRF-protection. Also, Math.random is identically implemented in Firefox.",
+            "username": "peksa",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "499780493177397250": {
+            "id": "499780493177397250",
+            "text": "hahaha the little face in the upper right makes this. FRIENDLIEST SCADA ON THE NET!pic.twitter.com/1U7MkEGKnw",
+            "username": "Viss",
+            "num_likes": 25,
+            "num_retweets": 48,
+            "num_replies": 11
+        },
+        "499361909280215040": {
+            "id": "499361909280215040",
+            "text": "What sounds does a Linux machine make?\n\nOnly a spinning fan since the audio drivers don't work.",
+            "username": "SwiftOnSecurity",
+            "num_likes": 345,
+            "num_retweets": 440,
+            "num_replies": 26
+        },
+        "498862375236161536": {
+            "id": "498862375236161536",
+            "text": "\u201c@thegrugq: Pen test clients: \"we've deployed defense in depth. Only those three windows at the top are in scope.\" pic.twitter.com/vP5aeeGUDJ\u201d",
+            "username": "jaysonstreet",
+            "num_likes": 19,
+            "num_retweets": 35,
+            "num_replies": 0
+        },
+        "498686532501254144": {
+            "id": "498686532501254144",
+            "text": "RT @ollieglass: Guy calls a telemarketer back and tricks them into resetting their phonepic.twitter.com/fpsH71GlvK",
+            "username": "jedisct1",
+            "num_likes": 40,
+            "num_retweets": 84,
+            "num_replies": 0
+        },
+        "498547352526159872": {
+            "id": "498547352526159872",
+            "text": "Someone built a quad copter of the Defcon badge. Awesome!pic.twitter.com/08Cjuz4CnG",
+            "username": "kernelpool",
+            "num_likes": 34,
+            "num_retweets": 63,
+            "num_replies": 5
+        },
+        "497859841340104704": {
+            "id": "497859841340104704",
+            "text": "Someone claiming to be the Gamma hacker has put up this pastebin explaining how s/he did it. http://pastebin.com/raw.php?i=cRYvK4jb\u00a0\u2026",
+            "username": "evacide",
+            "num_likes": 70,
+            "num_retweets": 77,
+            "num_replies": 6
+        },
+        "482979888765616130": {
+            "id": "482979888765616130",
+            "text": "Best Bootstrap theme https://github.com/kristopolous/BOOTSTRA.386\u00a0\u2026pic.twitter.com/4JoAjS1d1l",
+            "username": "dchest",
+            "num_likes": 540,
+            "num_retweets": 811,
+            "num_replies": 19
+        },
+        "482197164383551488": {
+            "id": "482197164383551488",
+            "text": "This must be @koush troll yacht \u201c@GiveMeInternet The owner of this boat is a troll King! pic.twitter.com/0F70lWRVkt\u201d",
+            "username": "dumdidum",
+            "num_likes": 9,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "481380209066012672": {
+            "id": "481380209066012672",
+            "text": "\"New password can't consist of 'B', 'C', 'D', 'G', 'I', 'L', 'O', 'Q', 'S', 'U', 'V', 'Z', 1, 2, 5, 8\"\n/via @BrainCOWpic.twitter.com/kGbGZpidrW",
+            "username": "mikko",
+            "num_likes": 96,
+            "num_retweets": 368,
+            "num_replies": 32
+        },
+        "480981146034241537": {
+            "id": "480981146034241537",
+            "text": "Using bash * wildcard expansion to execute code: \nhttps://dicesoft.net/projects/wildcard-code-execution-exploit.htm\u00a0\u2026\n /via @RedragonX @DefuseSecpic.twitter.com/Ugr4jzs5ZM",
+            "username": "mikko",
+            "num_likes": 73,
+            "num_retweets": 103,
+            "num_replies": 1
+        },
+        "480086372116484096": {
+            "id": "480086372116484096",
+            "text": "BoringSSL: https://www.imperialviolet.org/2014/06/20/boringssl.html\u00a0\u2026",
+            "username": "agl__",
+            "num_likes": 48,
+            "num_retweets": 126,
+            "num_replies": 7
+        },
+        "478321810115936256": {
+            "id": "478321810115936256",
+            "text": "US politics is like a sitcom that has been running for 2 seasons too many. The characters have become caricatures of themselves.",
+            "username": "koush",
+            "num_likes": 18,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "476797622879936513": {
+            "id": "476797622879936513",
+            "text": "New Wifi name because I'm terriblehttps://www.dropbox.com/s/gi1boc1tal0qmjt/Screenshot%202014-06-11%2011.46.19.png\u00a0\u2026",
+            "username": "kylesethgray",
+            "num_likes": 68,
+            "num_retweets": 62,
+            "num_replies": 15
+        },
+        "474601373317996544": {
+            "id": "474601373317996544",
+            "text": "Why has no one thought of this before. WHY.pic.twitter.com/fmT3azBVzG",
+            "username": "Techmog",
+            "num_likes": 4372,
+            "num_retweets": 6288,
+            "num_replies": 340
+        },
+        "471378458137079809": {
+            "id": "471378458137079809",
+            "text": "CVE-2014-3445 is probably the most ridiculous web flaw I've ever seenhttps://www.portcullis-security.com/security-research-and-downloads/security-advisories/cve-2014-3445/\u00a0\u2026",
+            "username": "lucabruno",
+            "num_likes": 111,
+            "num_retweets": 256,
+            "num_replies": 17
+        },
+        "470920259290296320": {
+            "id": "470920259290296320",
+            "text": "The Internet of Things, i.e. the Internet of hackers intercepting your toasters and spoiling your breakfasts.",
+            "username": "DoubleJake",
+            "num_likes": 28,
+            "num_retweets": 55,
+            "num_replies": 4
+        },
+        "470361665360232449": {
+            "id": "470361665360232449",
+            "text": "I guess the one hour line to get your rental car is for people who need to sober up after a long flight. Good thinking, Hertz!",
+            "username": "johnwilander",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "468302135457636352": {
+            "id": "468302135457636352",
+            "text": "Hand-crafted IP packets with Form RFC 791: \"Print legibly and press hard. You are making up to 255 copies.\"pic.twitter.com/PG8VUCbskt",
+            "username": "slfritchie",
+            "num_likes": 1431,
+            "num_retweets": 2035,
+            "num_replies": 40
+        },
+        "467346126744866816": {
+            "id": "467346126744866816",
+            "text": "Amused by @brucel and @chrisdavidmills in http://www.brucelawson.co.uk/2014/reading-list-76/\u00a0\u2026. Opera, you're my beshtesht friend, you are, matepic.twitter.com/ji6gfij2W1",
+            "username": "sil",
+            "num_likes": 104,
+            "num_retweets": 236,
+            "num_replies": 10
+        },
+        "466619500209913857": {
+            "id": "466619500209913857",
+            "text": "'We oppose bearded men in dresses', say bearded men in dresses\nhttp://ind.pn/1sNDbNt\u00a0pic.twitter.com/Wq5YbBWJph",
+            "username": "Independent",
+            "num_likes": 1997,
+            "num_retweets": 4200,
+            "num_replies": 133
+        },
+        "465301557966565376": {
+            "id": "465301557966565376",
+            "text": "When people have a conversation in your mentionspic.twitter.com/Y9GQRhESQa",
+            "username": "Dalus87",
+            "num_likes": 3416,
+            "num_retweets": 4914,
+            "num_replies": 175
+        },
+        "462126417308708864": {
+            "id": "462126417308708864",
+            "text": "A million guys walk into a Silicon Valley bar. No one buys anything. \n\nBar declared massive success.",
+            "username": "Stammy",
+            "num_likes": 2998,
+            "num_retweets": 4523,
+            "num_replies": 156
+        },
+        "462227470318850048": {
+            "id": "462227470318850048",
+            "text": "Tror vi har n\u00e5tt peak internetkommentarniv\u00e5 p\u00e5 ins\u00e4ndarsidorna.pic.twitter.com/ka4Yo0W4B4",
+            "username": "hdafgard",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "459790164378660864": {
+            "id": "459790164378660864",
+            "text": "iOS: where tapping to open a link in Facebook/Twitter, then tapping to open in Safari, then sending it as an email to Evernote makes sense.",
+            "username": "chartier",
+            "num_likes": 34,
+            "num_retweets": 57,
+            "num_replies": 9
+        },
+        "458414517043875840": {
+            "id": "458414517043875840",
+            "text": "Yay for cleaning up OpenSSL but using CVS, really?",
+            "username": "piscisaureus",
+            "num_likes": 7,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "455848526497325056": {
+            "id": "455848526497325056",
+            "text": "First world Internet problems.pic.twitter.com/sZnQHIUswJ",
+            "username": "koush",
+            "num_likes": 87,
+            "num_retweets": 184,
+            "num_replies": 3
+        },
+        "455810637797412864": {
+            "id": "455810637797412864",
+            "text": "Heartbleed walks into a bar and says \"Hello!\" the bardtender says \"Hello! ----BEGIN RSA PRIVATE KEY------- GDJASSHPI - @Gittip  IRC",
+            "username": "steveklabnik",
+            "num_likes": 78,
+            "num_retweets": 180,
+            "num_replies": 0
+        },
+        "455411076113240064": {
+            "id": "455411076113240064",
+            "text": "At the peak of the Heartbleed Challenge we were spitting out over 120Mbit/s of server memory. That's the throughput of 4 Blu-rays.",
+            "username": "grittygrease",
+            "num_likes": 13,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "454791922389749760": {
+            "id": "454791922389749760",
+            "text": "Confirmation from @CloudFlare, challenge cracked by @indutny, private keys vulnerable! @edbott @thurrott #heartbleedpic.twitter.com/uL38G8OjIM",
+            "username": "StijnBienkens",
+            "num_likes": 21,
+            "num_retweets": 98,
+            "num_replies": 3
+        },
+        "453477094232969216": {
+            "id": "453477094232969216",
+            "text": "Wow. The OpenSSL on OS X (Server) is so much behind, it isn\u2019t even affected by the heartbleed exploit.pic.twitter.com/KMA1sSNp8F",
+            "username": "iljawascoding",
+            "num_likes": 29,
+            "num_retweets": 50,
+            "num_replies": 5
+        },
+        "451184608088842240": {
+            "id": "451184608088842240",
+            "text": "This entire time, I thought everyone was asking Brendan Eich to resign because he invented Javascript.",
+            "username": "koush",
+            "num_likes": 47,
+            "num_retweets": 61,
+            "num_replies": 3
+        },
+        "450821996650057728": {
+            "id": "450821996650057728",
+            "text": "The best thing about pregnant women is the free Wifipic.twitter.com/DozRPXnulg",
+            "username": "feitclub",
+            "num_likes": 10571,
+            "num_retweets": 15544,
+            "num_replies": 417
+        },
+        "445977564717522946": {
+            "id": "445977564717522946",
+            "text": "So, NSA apologists, is this more than just \"metadata\"? http://www.theverge.com/2014/3/18/5522146/the-nsa-is-currently-recording-an-entire-countrys-phone-calls\u00a0\u2026",
+            "username": "koush",
+            "num_likes": 4,
+            "num_retweets": 22,
+            "num_replies": 5
+        },
+        "443057884113272833": {
+            "id": "443057884113272833",
+            "text": "Snowden gives a shoutout to @moxie and @whispersystems, saying it's one of the few encryption tools that is easy to use AND secure. #SXSW",
+            "username": "trevortimm",
+            "num_likes": 130,
+            "num_retweets": 196,
+            "num_replies": 3
+        },
+        "442929113733410816": {
+            "id": "442929113733410816",
+            "text": "This shower is quite a prolific open source contributor on @githubpic.twitter.com/eHpJdYHsIl",
+            "username": "mrdougal",
+            "num_likes": 1827,
+            "num_retweets": 2365,
+            "num_replies": 30
+        },
+        "441679496216055808": {
+            "id": "441679496216055808",
+            "text": "\"your coder is writing scripts that your browser can't cache\"",
+            "username": "ra",
+            "num_likes": 96,
+            "num_retweets": 95,
+            "num_replies": 2
+        },
+        "441258828294672384": {
+            "id": "441258828294672384",
+            "text": "The EU has offered Ukraine $15 billion. They must be building a hell of a messaging app.",
+            "username": "davepell",
+            "num_likes": 294,
+            "num_retweets": 688,
+            "num_replies": 14
+        },
+        "435927824730308608": {
+            "id": "435927824730308608",
+            "text": "Hey I just met you, and this is crazy, so here's my highly obfuscated Java, so run it maybe",
+            "username": "semibogan",
+            "num_likes": 11,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "435818998161477632": {
+            "id": "435818998161477632",
+            "text": "Found: a phone. Texted: a moron. https://twitter.com/theclarejackson/status/435714665214406656/photo/1pic.twitter.com/5EaBfQfSZ4\u00a0",
+            "username": "Sandra_Ri051",
+            "num_likes": 1176,
+            "num_retweets": 2430,
+            "num_replies": 94
+        },
+        "434193168158826496": {
+            "id": "434193168158826496",
+            "text": "Valentines geek lovepic.twitter.com/lCsgLtVQc3",
+            "username": "troyhunt",
+            "num_likes": 8,
+            "num_retweets": 32,
+            "num_replies": 4
+        },
+        "428395130333040640": {
+            "id": "428395130333040640",
+            "text": "#xkcd Protocol:  http://xkcd.com/1323/\u00a0",
+            "username": "xkcdfeed",
+            "num_likes": 18,
+            "num_retweets": 31,
+            "num_replies": 0
+        },
+        "426711669281001472": {
+            "id": "426711669281001472",
+            "text": "LinkedIn, you are by far the creepiest website I have ever been to.pic.twitter.com/TU75KKXH3L",
+            "username": "brettchalupa",
+            "num_likes": 1744,
+            "num_retweets": 2005,
+            "num_replies": 92
+        },
+        "428082192611160064": {
+            "id": "428082192611160064",
+            "text": "New Android app on the Google Play store using the @haveibeenpwned API courtesy of @bjlunden: https://play.google.com/store/apps/details?id=se.blunden.haveibeenpwned\u00a0\u2026",
+            "username": "haveibeenpwned",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "424488910564388865": {
+            "id": "424488910564388865",
+            "text": "Emoji's in real life are terrifyingpic.twitter.com/ZD5H6qcnb8",
+            "username": "terrifyingposts",
+            "num_likes": 2393,
+            "num_retweets": 4656,
+            "num_replies": 163
+        },
+        "417357596664664064": {
+            "id": "417357596664664064",
+            "text": "Biggest fallout of the NSA revelations: All of my heuristics for \"you are a crazy paranoid person\" are now utterly incorrect.",
+            "username": "nelhage",
+            "num_likes": 78,
+            "num_retweets": 129,
+            "num_replies": 10
+        },
+        "414860949737070592": {
+            "id": "414860949737070592",
+            "text": "The explanation by the @evad3rs does not address the reports/accusations about the chinese app stealing user data and sending back to china.",
+            "username": "i0n1c",
+            "num_likes": 17,
+            "num_retweets": 36,
+            "num_replies": 6
+        },
+        "414731589571346432": {
+            "id": "414731589571346432",
+            "text": "The iOS 7 jailbreak is out!!! http://evasi0n.com\u00a0 . Merry christmas to you all. (please backup your phone first, who knows\u2026!)",
+            "username": "pod2g",
+            "num_likes": 1539,
+            "num_retweets": 4197,
+            "num_replies": 601
+        },
+        "405742416029691904": {
+            "id": "405742416029691904",
+            "text": "New blog post: \"Compromising an unreachable Solr server with CVE-2013-6397\" // http://www.agarri.fr/blog/\u00a0 // #XXE + #XSLT = #RCE",
+            "username": "Agarri_FR",
+            "num_likes": 49,
+            "num_retweets": 50,
+            "num_replies": 11
+        },
+        "405701890706378752": {
+            "id": "405701890706378752",
+            "text": "The following upcoming Unicode character will replace alert(1) as an #XSS POC! It is going to be alert('\\u1F595') :ppic.twitter.com/IZy74JcGzA",
+            "username": "soaj1664ashar",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "403743048409939969": {
+            "id": "403743048409939969",
+            "text": "Dear J.J. Abrams,\n\nIf you screw up Star Wars, you will be known as Jar Jar Abrams forever.\n\nSincerely,\n\nEveryone",
+            "username": "DepressedDarth",
+            "num_likes": 1458,
+            "num_retweets": 2789,
+            "num_replies": 68
+        },
+        "403197319157260288": {
+            "id": "403197319157260288",
+            "text": "$3+ mobile game - \"Too expensive\"\n$2 mobile game - \"Should be $1\"\n$1 mobile game - \"Should be free\"\nFree mobile game - \"Ick, freemium\"",
+            "username": "RobsteinOne",
+            "num_likes": 450,
+            "num_retweets": 1184,
+            "num_replies": 54
+        },
+        "400896446032928770": {
+            "id": "400896446032928770",
+            "text": "Instead of password cracking - crossword puzzling: \u2026http://greatestcrosswordpuzzle.s3-website-eu-west-1.amazonaws.com/\u00a0",
+            "username": "mhswende",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "392695128923439105": {
+            "id": "392695128923439105",
+            "text": "The C++ motto should be \"Yes, well, don't\".\n\nSample use: \"But you can legally do <bizarro thing> in C++! Yes, well, don't.\"",
+            "username": "notwaldorf",
+            "num_likes": 42,
+            "num_retweets": 107,
+            "num_replies": 3
+        },
+        "385617262285447169": {
+            "id": "385617262285447169",
+            "text": "So Nyan Cat and LulzSec are in my sociology textbookpic.twitter.com/KQLrIP0ccZ",
+            "username": "HeyyThereDalia",
+            "num_likes": 128,
+            "num_retweets": 209,
+            "num_replies": 24
+        },
+        "386064093745913856": {
+            "id": "386064093745913856",
+            "text": "\"Hackers steal Cold Fusion source code\" - I think that's punishment enough, no further trial required!",
+            "username": "troyhunt",
+            "num_likes": 7,
+            "num_retweets": 34,
+            "num_replies": 3
+        },
+        "385773090263011328": {
+            "id": "385773090263011328",
+            "text": "NSA's version of VPN:\n\n*virtually* private network.",
+            "username": "iamdevloper",
+            "num_likes": 52,
+            "num_retweets": 144,
+            "num_replies": 0
+        },
+        "385077788706746368": {
+            "id": "385077788706746368",
+            "text": "If Anonymous knew that offering all citizens healthcare could shut down the government, we would have adjusted our tactics. #OWS",
+            "username": "AnonyOps",
+            "num_likes": 493,
+            "num_retweets": 1528,
+            "num_replies": 38
+        },
+        "385043753796665344": {
+            "id": "385043753796665344",
+            "text": "Samsung is the only company that can \"improve\" their industrial design by building phones out of fake leather (complete with fake stitching)",
+            "username": "hdafgard",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "382632926946402304": {
+            "id": "382632926946402304",
+            "text": "Hey @Motorola, you've got a vulnerability in the implementation of your backdoor: https://plus.google.com/110348415484169880343/posts/5ofgPNrSu3J\u00a0\u2026 :p",
+            "username": "djrbliss",
+            "num_likes": 37,
+            "num_retweets": 80,
+            "num_replies": 1
+        },
+        "382025248394448896": {
+            "id": "382025248394448896",
+            "text": "@nilssonanders your usb plug is just in its super position http://i.imgur.com/8cEBpMB.png\u00a0",
+            "username": "jonaso",
+            "num_likes": 1,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "381961482457456640": {
+            "id": "381961482457456640",
+            "text": "If the Oppo N1 has official CyanogenMod support with Google apps officially licensed and built-in, I'm buying one.",
+            "username": "jbqueru",
+            "num_likes": 70,
+            "num_retweets": 157,
+            "num_replies": 22
+        },
+        "378447213661540352": {
+            "id": "378447213661540352",
+            "text": "Why hack airplains when there is a webapp. @hteso @SEC_T_org",
+            "username": "AltumSe",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "377902670457352192": {
+            "id": "377902670457352192",
+            "text": "Breaking: NSA covertly worked with RJ Reynolds to weaken the structural integrity of tin foil\u2014rendering it useless in antisurveillance hats.",
+            "username": "xor",
+            "num_likes": 218,
+            "num_retweets": 671,
+            "num_replies": 28
+        },
+        "377453674840092672": {
+            "id": "377453674840092672",
+            "text": "Linus Torvalds, elegant as ever, answers a petition that's asking him to remove RdRand from /dev/random in Linux http://www.change.org/en-GB/petitions/linus-torvalds-remove-rdrand-from-dev-random-4/responses/9066\u00a0\u2026\n#NSA",
+            "username": "mikko",
+            "num_likes": 24,
+            "num_retweets": 117,
+            "num_replies": 5
+        },
+        "377628482094002177": {
+            "id": "377628482094002177",
+            "text": "I love how when Miley Cyrus is naked & licks a hammer it\u2019s \u201cart\u201d and \u201cmusic\u201d.. But when I do it, I\u2019m \u201cwasted\u201d and \u201chave to leave Home Depot\"",
+            "username": "SouthernProblem",
+            "num_likes": 1782,
+            "num_retweets": 2817,
+            "num_replies": 45
+        },
+        "375887860131303424": {
+            "id": "375887860131303424",
+            "text": "The biggest shock, for me, was learning that AutoCorrect is, in fact, done live by NSA operatives infuriated by so much lousy spelling.",
+            "username": "juliangough",
+            "num_likes": 213,
+            "num_retweets": 748,
+            "num_replies": 26
+        },
+        "375739180795445249": {
+            "id": "375739180795445249",
+            "text": "Alice and Bob worked for the NSA all along.",
+            "username": "vambenepe",
+            "num_likes": 345,
+            "num_retweets": 1195,
+            "num_replies": 27
+        },
+        "374772449499705344": {
+            "id": "374772449499705344",
+            "text": "The Microsoft/Nokia deal visualized.pic.twitter.com/kbiJyL59N6",
+            "username": "andreascreten",
+            "num_likes": 53,
+            "num_retweets": 298,
+            "num_replies": 17
+        },
+        "370551064619401217": {
+            "id": "370551064619401217",
+            "text": "Developer account @s4bb behind 47,000+ BlackBerry apps. That's almost a third of all apps in the store: http://gadgets.ndtv.com/apps/news/almost-one-third-of-all-apps-on-blackberry-world-developed-by-a-single-developer-408725\u00a0\u2026",
+            "username": "johnwilander",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "365303773096189952": {
+            "id": "365303773096189952",
+            "text": "Triton (the ATM company) pays its respects to Barnaby Jack\n http://www.atmmarketplace.com/blog/10879/Triton-pays-its-respects-to-Barnaby-Jack\u00a0\u2026",
+            "username": "WeldPond",
+            "num_likes": 11,
+            "num_retweets": 58,
+            "num_replies": 5
+        },
+        "362468200996282368": {
+            "id": "362468200996282368",
+            "text": "hey @gruber, what was that you were saying about not being able to send video from your phone to your chromecast?http://www.youtube.com/watch?v=DMIsMjms_Zw\u00a0\u2026",
+            "username": "koush",
+            "num_likes": 50,
+            "num_retweets": 282,
+            "num_replies": 10
+        },
+        "360710844184662017": {
+            "id": "360710844184662017",
+            "text": "Rest in peace @barnaby_jack - a credit and an inspiration to our community, your phrack releases and ATM hacks were stuff of legend.",
+            "username": "hackerfantastic",
+            "num_likes": 1,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "360370244184842240": {
+            "id": "360370244184842240",
+            "text": "So you want computer music 24/7 (demo & cracker scene)? Nectarine Radio streams are there for you: https://www.scenemusic.net/demovibes/streams/\u00a0\u2026",
+            "username": "johnwilander",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "359511186653454336": {
+            "id": "359511186653454336",
+            "text": "Take a moment to marvel: That's here. That's home. That's us... from Saturn.\nhttp://go.nasa.gov/16Vxjoa\u00a0\n#PaleBlueUspic.twitter.com/kKEy4z2g3X",
+            "username": "NASAKepler",
+            "num_likes": 389,
+            "num_retweets": 940,
+            "num_replies": 50
+        },
+        "353272908237389824": {
+            "id": "353272908237389824",
+            "text": "How to ruin your partner's lie in:\n\n1) Secretly set an alarm clock for 7:07am\n2) Turn it upside down\n3) Waithttp://twitpic.com/d10gcb\u00a0",
+            "username": "ThePoke",
+            "num_likes": 98,
+            "num_retweets": 371,
+            "num_replies": 11
+        },
+        "347006840703418368": {
+            "id": "347006840703418368",
+            "text": "Here in America, everything is terrifying.pic.twitter.com/wUVigM9P5M",
+            "username": "HarpyFeathers",
+            "num_likes": 241,
+            "num_retweets": 758,
+            "num_replies": 37
+        },
+        "346397397225721856": {
+            "id": "346397397225721856",
+            "text": "How not to handle software upgrades (\"Please give us your root SSH password over this non-HTTPS webpage.\") - http://bit.ly/19Hi9ZZ\u00a0",
+            "username": "r_netsec",
+            "num_likes": 4,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "330380542015045632": {
+            "id": "330380542015045632",
+            "text": "@wilw http://twitpic.com/cnx6gc\u00a0 (cc: @koush)",
+            "username": "htc",
+            "num_likes": 30,
+            "num_retweets": 54,
+            "num_replies": 5
+        },
+        "328657876904181761": {
+            "id": "328657876904181761",
+            "text": "Reversed most of the AT&T Galaxy S4 bootloader. Design seems solid, I don't expect it to be unlocked except by leak or key mgmt mistake.",
+            "username": "djrbliss",
+            "num_likes": 12,
+            "num_retweets": 40,
+            "num_replies": 5
+        },
+        "327904955098882048": {
+            "id": "327904955098882048",
+            "text": "Quick and brutal security review of @Experian_UK CreditExpert. cc @callcredit cc @equifax http://ramblingrant.co.uk/2013/04/26/experian-creditexpert-id-theft-protection-security-review/\u00a0\u2026 cc @troyhunt",
+            "username": "Paul_Reviews",
+            "num_likes": 2,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "304668503116496896": {
+            "id": "304668503116496896",
+            "text": "Avoid nbc\u2024com for now. Seems to be infected.\n#driveby",
+            "username": "mikko",
+            "num_likes": 3,
+            "num_retweets": 107,
+            "num_replies": 5
+        },
+        "304559604455600128": {
+            "id": "304559604455600128",
+            "text": "For those wondering, Ubuntu Phone chroots & boots a QML shell on top of a CyanogenMod core OS sans Android UI",
+            "username": "stroughtonsmith",
+            "num_likes": 13,
+            "num_retweets": 50,
+            "num_replies": 13
+        },
+        "304282340170031104": {
+            "id": "304282340170031104",
+            "text": "Java is to JavaScript as car is to carpet. #mvp13 #fb",
+            "username": "RachelAppel",
+            "num_likes": 31,
+            "num_retweets": 192,
+            "num_replies": 8
+        },
+        "298644208204537856": {
+            "id": "298644208204537856",
+            "text": "\u201c@drspringfield: Here's our initial analysis of userland portion of evasi0n jailbreak: http://bit.ly/WKY65h\u00a0\u201d < nice work!",
+            "username": "0xcharlie",
+            "num_likes": 36,
+            "num_retweets": 40,
+            "num_replies": 0
+        },
+        "292407887240781824": {
+            "id": "292407887240781824",
+            "text": "Samsung makes a decisive move in the on-going battle between number of CPU cores vs. number of razor blades: Galaxy S4 > Gillette Fusion.",
+            "username": "djrbliss",
+            "num_likes": 6,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "291859204917051392": {
+            "id": "291859204917051392",
+            "text": "@thomas_weilbach @troyhunt We do not store credit card details. As for re-setting password: we presume only you have access to your email.",
+            "username": "bidorbuy_co_za",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "279222720120631296": {
+            "id": "279222720120631296",
+            "text": "Where am I? It\u2019s dark\u2026 Hey there Contacts app! Whoa, Compass app! I haven\u2019t seen you since\u2026 Wait a second. This is the useless app folder!",
+            "username": "iOS6maps",
+            "num_likes": 1377,
+            "num_retweets": 6541,
+            "num_replies": 76
+        },
+        "278028553126293504": {
+            "id": "278028553126293504",
+            "text": "Justin Bieber gets 12,000 retweets for saying \"thanks\" so here is my attempt: thanks",
+            "username": "OfficalMrBean",
+            "num_likes": 6653,
+            "num_retweets": 73720,
+            "num_replies": 1292
+        },
+        "271010826406748161": {
+            "id": "271010826406748161",
+            "text": "When Norwegian appsec heroes like @webtonull are visiting OWASP in Stockholm we drink Norwegian IPA:pic.twitter.com/yNXwwcMk",
+            "username": "johnwilander",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "267016613738450944": {
+            "id": "267016613738450944",
+            "text": "Yeah these boxes are definitely plotting something.pic.twitter.com/N1sTlJ2x",
+            "username": "bdunkelman",
+            "num_likes": 4303,
+            "num_retweets": 5344,
+            "num_replies": 147
+        },
+        "257802750371459072": {
+            "id": "257802750371459072",
+            "text": "Netflix usage in Sweden: http://www.netnod.se/ix-stats/14all_ix-load-public.pl?log=stockholm.gea.45\u00a0\u2026 Here we go!",
+            "username": "peksa",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "256954058131267584": {
+            "id": "256954058131267584",
+            "text": "The 6 Stages of Debugging: That can't happen. That shouldn't happen. Hmmm, weird. Why does that happen? Oh, I see. How did that ever work?",
+            "username": "the_webhamster",
+            "num_likes": 1579,
+            "num_retweets": 6378,
+            "num_replies": 52
+        },
+        "255748123782172672": {
+            "id": "255748123782172672",
+            "text": "New security best practice: \"Sorry, the password xxxxxxxx is already in use. Please choose another.\" http://lists.webappsec.org/pipermail/websecurity_lists.webappsec.org/2012-October/008535.html\u00a0\u2026",
+            "username": "seecurity",
+            "num_likes": 15,
+            "num_retweets": 62,
+            "num_replies": 5
+        },
+        "252047449663873024": {
+            "id": "252047449663873024",
+            "text": "So HTTPS insecure because BEAST and CRIME. We disable https on webmail until criminal beast solved",
+            "username": "secure_borat",
+            "num_likes": 2,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "250707596242190336": {
+            "id": "250707596242190336",
+            "text": "Auto-executing USSD codes is an Android bug that was fixed in Jelly Bean, see last 3 commit: https://android.googlesource.com/platform/packages/apps/Contacts/+log/android-4.1.1_r1/src/com/android/contacts/dialpad/DialpadFragment.java\u00a0\u2026",
+            "username": "nflnfl",
+            "num_likes": 5,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "249571137690927104": {
+            "id": "249571137690927104",
+            "text": "#dvbf #ng2012",
+            "username": "hdafgard",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "247278755393974275": {
+            "id": "247278755393974275",
+            "text": "Really clear description of Fast Inverse Square Root calculation using the constant 0x5f3759df #math #mathematic http://blog.quenta.org/2012/09/0x5f3759df.html\u00a0\u2026",
+            "username": "paolo_3_1415926",
+            "num_likes": 24,
+            "num_retweets": 50,
+            "num_replies": 0
+        },
+        "245417760115539968": {
+            "id": "245417760115539968",
+            "text": "Our first CM10 release! (kinda)  http://www.cyanogenmod.com/blog/cyanogenmod-10-m1\u00a0\u2026",
+            "username": "cyanogen",
+            "num_likes": 30,
+            "num_retweets": 165,
+            "num_replies": 14
+        },
+        "245299832103772160": {
+            "id": "245299832103772160",
+            "text": "New, amazing research on chip and pin card system being broken ... and potentially exploited in the wild: http://www.lightbluetouchpaper.org/2012/09/10/chip-and-skim-cloning-emv-cards-with-the-pre-play-attack/\u00a0\u2026 via @klingsen",
+            "username": "johnwilander",
+            "num_likes": 2,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "244174917615108096": {
+            "id": "244174917615108096",
+            "text": "Adobe tries to circumvent the W3C Do Not Track consensus process, blacklist Internet Explorer 10 in Apache. Nice try. https://github.com/apache/httpd/commit/a381ff35fa4d50a5f7b9f64300dfd98859dee8d0\u00a0\u2026",
+            "username": "jonathanmayer",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "243913915233341441": {
+            "id": "243913915233341441",
+            "text": "Syria's President Assad uses a password lamer than President Skroob in Spaceballs, Assad's is 1234. Skroob used 12345 http://www.inquisitr.com/323041/hacking-assad-just-1-2-3-4-away-video/\u00a0\u2026",
+            "username": "WeldPond",
+            "num_likes": 4,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "235558167608696835": {
+            "id": "235558167608696835",
+            "text": "#Anon claims hacking the #Sony Playstation Network, 50GB of data leaked. Almost only #swedish emails the example dump: http://pastebin.com/HUjZPaF3\u00a0",
+            "username": "MaartmannMoe",
+            "num_likes": 0,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "235145312791056384": {
+            "id": "235145312791056384",
+            "text": "The Dark Knight Rises would have been a much shorter movie if Batman's bank used 2 factor authentication.",
+            "username": "koush",
+            "num_likes": 28,
+            "num_retweets": 144,
+            "num_replies": 10
+        },
+        "230460560368627712": {
+            "id": "230460560368627712",
+            "text": "Dropbox Admits User Accounts Were Hijacked, Adds New Security Features (@ripemp / TechCrunch) http://techcrunch.com/2012/07/31/dropbox-admits-user-accounts-were-hijacked-adds-new-security-features/\u00a0\u2026http://www.techmeme.com/120731/p82#a120731p82\u00a0\u2026",
+            "username": "Techmeme",
+            "num_likes": 10,
+            "num_retweets": 36,
+            "num_replies": 2
+        },
+        "229905090121703424": {
+            "id": "229905090121703424",
+            "text": "Ubisoft Uplay allows arbitrary local executable execution through browser plugin: http://seclists.org/fulldisclosure/2012/Jul/375\u00a0\u2026 Firefox issue: https://bugzilla.mozilla.org/show_bug.cgi?id=778686\u00a0\u2026",
+            "username": "peksa",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "220368193468899329": {
+            "id": "220368193468899329",
+            "text": "re-imagining microsoft\n\nhttp://www.minimallyminimal.com/journal/2012/7/3/the-next-microsoft.html\u00a0\u2026",
+            "username": "fyrtiosju",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "224553154442825728": {
+            "id": "224553154442825728",
+            "text": "RT @e2b: Oh Apple. You ran out of space on your ... Microsoft server.pic.twitter.com/n10jrRah",
+            "username": "securityninja",
+            "num_likes": 2,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "217322020948553729": {
+            "id": "217322020948553729",
+            "text": ". @msftsecurity Removing Piracy tools with A/V if not infected? Not what I'd install A/V for. How about removing crappy legit software?!",
+            "username": "ochsff",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "215094236327055360": {
+            "id": "215094236327055360",
+            "text": "so true about MSFT, Apple, and tabletshttp://twitpic.com/9y8lny\u00a0",
+            "username": "wbm",
+            "num_likes": 37,
+            "num_retweets": 506,
+            "num_replies": 24
+        },
+        "214848965189963776": {
+            "id": "214848965189963776",
+            "text": "Don't see this every day. Malware author detects a researcher dissecting his code and they chat through the virus: http://blogs.avg.com/news-threats/chatted-hacker-virus/\u00a0\u2026",
+            "username": "pedramamini",
+            "num_likes": 84,
+            "num_retweets": 272,
+            "num_replies": 5
+        },
+        "212330597954228225": {
+            "id": "212330597954228225",
+            "text": "Retina displays getting cheaper: they used to cost 326 dpi, then 264 dpi, and now just 220 dpi.",
+            "username": "jbqueru",
+            "num_likes": 25,
+            "num_retweets": 187,
+            "num_replies": 6
+        },
+        "207930260883378177": {
+            "id": "207930260883378177",
+            "text": "I wonder when restaurants in SF will offer to pre-instagram your food before it even hits the table",
+            "username": "argv0",
+            "num_likes": 42,
+            "num_retweets": 155,
+            "num_replies": 6
+        },
+        "200620559875313666": {
+            "id": "200620559875313666",
+            "text": "What just happened? o_O We'll be releasing more soon :)pic.twitter.com/rztqR0Qe",
+            "username": "mwrlabs",
+            "num_likes": 18,
+            "num_retweets": 69,
+            "num_replies": 9
+        },
+        "199910682077036546": {
+            "id": "199910682077036546",
+            "text": "MS12-034 is a bigger-than-usual security bulletin.  I explain why here: http://bit.ly/IWtYJE\u00a0 (Also Duqu + Stuxnet in one post!)",
+            "username": "jness",
+            "num_likes": 9,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "193480622533120001": {
+            "id": "193480622533120001",
+            "text": "I can send an IP packet to Europe faster than I can send a pixel to the screen.  How f\u2019d up is that?",
+            "username": "ID_AA_Carmack",
+            "num_likes": 441,
+            "num_retweets": 1002,
+            "num_replies": 36
+        },
+        "189886620328144896": {
+            "id": "189886620328144896",
+            "text": "Even though anti-virus looked the other way while you got 0wned & your files stolen, at least it deleted your copy of netcat. #AVtradeoffs",
+            "username": "fristle",
+            "num_likes": 7,
+            "num_retweets": 48,
+            "num_replies": 1
+        },
+        "171635587495895040": {
+            "id": "171635587495895040",
+            "text": "Normal person: \"Ugh, the wifi just panicked my kernel.\" Security person: \"Oh man, I hope this is reproducible!\"",
+            "username": "djrbliss",
+            "num_likes": 4,
+            "num_retweets": 44,
+            "num_replies": 3
+        },
+        "136222211873845248": {
+            "id": "136222211873845248",
+            "text": "ICS is all live in AOSP, go ahead and sync it. Creating new clients is better.http://goo.gl/vEabg\u00a0",
+            "username": "jbqueru",
+            "num_likes": 31,
+            "num_retweets": 299,
+            "num_replies": 9
+        },
+        "134391318993575936": {
+            "id": "134391318993575936",
+            "text": "\"C combines the power of assembly language with the flexibility of assembly language.\" - Anon",
+            "username": "CodeWisdom",
+            "num_likes": 13,
+            "num_retweets": 63,
+            "num_replies": 0
+        },
+        "103473623796420608": {
+            "id": "103473623796420608",
+            "text": "There's tremendous logic behind our Motorola acquisition. The joke is on tech analysts who failed at math. http://is.gd/VIjQN4\u00a0 #\u03c0Droid",
+            "username": "AndroidPR",
+            "num_likes": 8,
+            "num_retweets": 64,
+            "num_replies": 2
+        },
+        "94592389481627649": {
+            "id": "94592389481627649",
+            "text": "Guys, pls, it's the 2nd time someone claims I'm @th3j35t3r: http://pastebin.com/cE6sf2A6\u00a0. I'm not. I'm an appsec guy working for a bank. #lulz",
+            "username": "johnwilander",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "93071428798259200": {
+            "id": "93071428798259200",
+            "text": "RT @jduck1337: Analysis of the jailbreakme v3 font exploit - Sogeti ESEC Lab http://j.mp/raw41D\u00a0 < such a great bug!",
+            "username": "0xcharlie",
+            "num_likes": 26,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "90207874206273536": {
+            "id": "90207874206273536",
+            "text": "I was looking for a mailbox today & thought \"Maybe they don't show once the mail is collected\". Am I spending too much time with computers?",
+            "username": "johnwilander",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "32224958344073216": {
+            "id": "32224958344073216",
+            "text": "Egypt: on the plus side, that's a big chunk of IPv4 that could potentially be reclaimed.\n\nwhat? too soon?",
+            "username": "nevali",
+            "num_likes": 89,
+            "num_retweets": 345,
+            "num_replies": 0
+        },
+        "31427156491898880": {
+            "id": "31427156491898880",
+            "text": "#Israel changes it's relationship status with #Egypt on #FB to 'it's complicated'.  #Lebanon, #Syria & #Palestine 'like' this.",
+            "username": "roubzee",
+            "num_likes": 64,
+            "num_retweets": 695,
+            "num_replies": 0
+        },
+        "31350713158213632": {
+            "id": "31350713158213632",
+            "text": "Mayans used a 32-bit calendar and had predicted we'd run out of IPv4 addresses in 2012.",
+            "username": "jbqueru",
+            "num_likes": 21,
+            "num_retweets": 157,
+            "num_replies": 0
+        },
+        "16924991836651520": {
+            "id": "16924991836651520",
+            "text": "It\u2019s not \u201crooting\u201d, it\u2019s openness: http://goo.gl/GlcIG",
+            "username": "AndroidDev",
+            "num_likes": 68,
+            "num_retweets": 421,
+            "num_replies": 0
+        },
+        "15967642435194880": {
+            "id": "15967642435194880",
+            "text": "@bjlunden People outside Google, from AOSP. N1/NS can boot with pure AOSP. AOSP GB on N1 mostly works with Froyo drivers.",
+            "username": "jbqueru",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "5753460003704833": {
+            "id": "5753460003704833",
+            "text": "Adobe's license agreement for downloading Acrobat Reader is a PDF. Well done Adobe. Well done.",
+            "username": "robarnold",
+            "num_likes": 44,
+            "num_retweets": 423,
+            "num_replies": 0
+        },
+        "14548345939": {
+            "id": "14548345939",
+            "text": "I don't think a single Nexus One owner doubts they invested in the right phone today!",
+            "username": "PaulOBrien",
+            "num_likes": 3,
+            "num_retweets": 50,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "905469042294743040": {
+            "id": "905469042294743040",
+            "text": "Unless they still trust whatever the kernel tells it about the state and it doesn't check system verity hashes against the build fingerprint",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "905155367721684993": {
+            "id": "905155367721684993",
+            "text": "This may mark the end of SafetyNet bypasses if properly implemented and checked. https://android.googlesource.com/platform/external/avb/\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "821797377669550088": {
+            "id": "821797377669550088",
+            "text": "Seems legit! ;)https://twitter.com/anddev_badvice/status/821705095163289601\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "761717016856256513": {
+            "id": "761717016856256513",
+            "text": "Can't wait to try it on my USB3380EVB waiting at home!https://twitter.com/UlfFrisk/status/761708520513429504\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "761709914821623808": {
+            "id": "761709914821623808",
+            "text": "It's nice to see a friend's talk generating such buzz online. I recommend you all to check it out!https://twitter.com/UID_/status/761679142890770432\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "686937594412855296": {
+            "id": "686937594412855296",
+            "text": "It sounds like I should avoid updating my TV. :(https://twitter.com/internetofshit/status/686505158411464704\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "679079745007562754": {
+            "id": "679079745007562754",
+            "text": "I guess November has 31 days according to Rockchip... https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660256114471280640": {
+            "id": "660256114471280640",
+            "text": "Great new Jeremy Clarkson commercial with a BBC jab or two thrown in. Can't wait for the new show! https://www.youtube.com/watch?v=dGEd6ZmwZ7Q\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "660048530459992064": {
+            "id": "660048530459992064",
+            "text": "This could be interesting... https://twitter.com/31337_tv/status/659967246631092224\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "653843364715069440": {
+            "id": "653843364715069440",
+            "text": "On second thought the SL keys have remained the same even after the issuing of new cards. Useful for testing thoughhttps://twitter.com/bjlunden/status/653837207497781248\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "653837207497781248": {
+            "id": "653837207497781248",
+            "text": "This could be really interesting. Likely affects the new and improved SL Access cards for instance.https://twitter.com/mhswende/status/653832917957902336\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "647359132606066688": {
+            "id": "647359132606066688",
+            "text": ".@troyhunt But downplaying it by only releasing a list of the top 25 out of the roughly 4000 infected apps.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "645724171293597697": {
+            "id": "645724171293597697",
+            "text": "The idea sounded bad even before this test. Afterwards, it seems downright reckless. https://twitter.com/cure53berlin/status/645673938962386944\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "644082022512750592": {
+            "id": "644082022512750592",
+            "text": "Yes, those are my work clothes. https://twitter.com/ywxwy/status/644059500434092032\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "631770890427047936": {
+            "id": "631770890427047936",
+            "text": "Ain't nobody got time for that! ;) https://twitter.com/theresa_lauren/status/631707171378593792\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "631768787306610688": {
+            "id": "631768787306610688",
+            "text": "Is it just me or does Intel's new UEFI HTTP Boot sound terrifying to anyone else?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "631745546902990848": {
+            "id": "631745546902990848",
+            "text": "Why anyone thought connecting those devices directly to the CAN bus is beyond me.https://twitter.com/troyhunt/status/631310402010398721\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "631038482870312960": {
+            "id": "631038482870312960",
+            "text": "Today's most weird article. https://blogs.oracle.com/maryanndavidson/entry/no_you_really_can_t\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "629757445561171968": {
+            "id": "629757445561171968",
+            "text": ".@samykamkar killing it once again at #Defcon. The perfect mix between content and humor delivered in a relaxed manner.",
+            "username": "bjlunden",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "629740219495903232": {
+            "id": "629740219495903232",
+            "text": "Said nobody ever... until now.https://twitter.com/Viss/status/629554111629905920\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "629706436864401408": {
+            "id": "629706436864401408",
+            "text": "Remote Code Execution via Custom Map in #DOTA2 at #defcon",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "629324963858657281": {
+            "id": "629324963858657281",
+            "text": "A great talk that people should check out. The video should be released sometime later this year hopefully.https://twitter.com/AltumSe/status/629044754060197888\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "629230087490048001": {
+            "id": "629230087490048001",
+            "text": "Most indeededly! #futurama #Vegashttps://twitter.com/AltumSe/status/629228460712574977\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "629005456548081665": {
+            "id": "629005456548081665",
+            "text": "Why you don't want to trust business critical things to a hacky script.https://twitter.com/mikko/status/628870489612623872\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "628688188454797312": {
+            "id": "628688188454797312",
+            "text": "\"//Chosen by fair yolo\" #yoloscience #bsideslv",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "626450766648246272": {
+            "id": "626450766648246272",
+            "text": "Smart rifles... Apparently it's a thing.\n\nhttp://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "625664572800827392": {
+            "id": "625664572800827392",
+            "text": "A fascinating read...https://twitter.com/a2_4am/status/615629149055623168\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "596268470892892160": {
+            "id": "596268470892892160",
+            "text": "Patch for upcoming CVE-2015-1542 released. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "583371710533091329": {
+            "id": "583371710533091329",
+            "text": "It seems MS Office comes with XXE built-in. https://soroush.secproject.com/blog/2015/03/interesting-xml-processing-in-copypaste-in-word-and-outlook/\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "582149720128282624": {
+            "id": "582149720128282624",
+            "text": "It's one of those things I've been curious about for years but only now took the time to test. An overflow would've been interesting.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "582148471500746752": {
+            "id": "582148471500746752",
+            "text": "It seems bumping the transaction counter (ATC) on your EMV credit/debit card to the max (FFFF) disables it, not cause an overflow. No fun...",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "574981069117767680": {
+            "id": "574981069117767680",
+            "text": "So Apple basically launched HBO Nordic in the US but made it Apple-only?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "548195635544223744": {
+            "id": "548195635544223744",
+            "text": "Just realized #nvidia uses at least one of my graphical assets on their SHIELD tablet. I suppose that's high praise. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "537675724275347456": {
+            "id": "537675724275347456",
+            "text": "So that's what those math captchas are for?\n\nhttp://www.smbc-comics.com/comics/20130605.png\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "536371932875464704": {
+            "id": "536371932875464704",
+            "text": "The LG bootloader lock bypass known as Bump was just open sourced. https://github.com/cybojenix/Open_Bump/blob/master/open_bump.py\u00a0\u2026 Note though that the code is currently untested.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "518359229397471232": {
+            "id": "518359229397471232",
+            "text": "It seems Windows executes commands added to environment variables too.\nhttps://joindiaspora.com/posts/4842024\u00a0",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "517379544031195137": {
+            "id": "517379544031195137",
+            "text": "\"@0x6D6172696F: HTML5 video subtitles soon able to send HTTP requests at timer marks. Creepy :)\" That's what I call feature creep.",
+            "username": "bjlunden",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "509413977722720256": {
+            "id": "509413977722720256",
+            "text": "Apple has had 6 Daylight Savings bugs since 2010. Now they are making a watch...",
+            "username": "bjlunden",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "502947417617358850": {
+            "id": "502947417617358850",
+            "text": "Why you should always check the return value of fork():\n\nhttp://rachelbythebay.com/w/2014/08/19/fork/\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "498242162669420545": {
+            "id": "498242162669420545",
+            "text": "There was a nice \"one more thing\" at the end of the @0xcharlie 's talk.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "469242878670405632": {
+            "id": "469242878670405632",
+            "text": ".@mikko I'm curious why eBay specifies an allowed password length of 6-20 characters when it happily accepts longer passwords than that.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "407120152493170688": {
+            "id": "407120152493170688",
+            "text": "Interesting, a Playstation 4 Jailbreak:\nhttp://pastebin.com/QDeRQiMY\u00a0",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "393274471798145024": {
+            "id": "393274471798145024",
+            "text": "This is why banks should never ever use reusable passwords for privaleged access for their customers. http://www.scmagazine.com/hacker-group-claims-to-have-looted-100k-via-sql-injection-attack/article/317412/\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "385915883417534464": {
+            "id": "385915883417534464",
+            "text": "It's refreshingly different. RT @webtonull Steve Gibson new login scheme is interesting: http://grc.com/sqrl/sqrl.htm\u00a0 #sqrl #OWASP",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "378241901562200064": {
+            "id": "378241901562200064",
+            "text": "Alcohol + 8bit music... just another day on the job.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "378155351637766145": {
+            "id": "378155351637766145",
+            "text": "Awesome talk by @mainframed767 at #sec-t",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "378121675692208128": {
+            "id": "378121675692208128",
+            "text": "RT @mhoye All those stickers said \"Intel Inside\", and we didn't listen. <-- Scaringly applicable to the talk I just enjoyed at #sec-t.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "352750981685063682": {
+            "id": "352750981685063682",
+            "text": "My guess is it is related to how odexed APKs are handled and the lack of a signature for classes.dex in the manifest. http://arstechnica.com/security/2013/07/android-flaw-allows-hackers-to-surreptitiously-modify-apps/\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "352184245554380800": {
+            "id": "352184245554380800",
+            "text": "The team (CM) is working on a seamless TextSecure solution for any SMS app running on CM. https://plus.google.com/117962666888533781522/posts/jnZSBV96wxU\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "298301403754008576": {
+            "id": "298301403754008576",
+            "text": "Enjoying Carbon for Android on my Nexus 7. Having to modify it with baksmali/smali was a bit irritating though. #CarbonStillo",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "271409083427475456": {
+            "id": "271409083427475456",
+            "text": "I've received 2 status emails from @LGUSAMobile internal Jenkins so far. TIP: Don't send emails to every single commiter when a build fails.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "246607493927686146": {
+            "id": "246607493927686146",
+            "text": "Seems Android's ADB restore is exploitable on at least some devices. Root exploit available in the wild.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "228145591564247041": {
+            "id": "228145591564247041",
+            "text": "Pretty good so far. Looks so much better than the stock app (the iOS clone). Looking forward to comparing it to Carbon.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "228128118349631488": {
+            "id": "228128118349631488",
+            "text": "I'm checking out @TweetLanes, a brand new Twitter app for Android. Looks pretty cool so far. http://bit.ly/tweetlanes\u00a0",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "201801081926332416": {
+            "id": "201801081926332416",
+            "text": "Nice of ZTE to leave a backdoor root exploit built in. ;) http://pastebin.com/wamYsqTV\u00a0",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "169574909146705920": {
+            "id": "169574909146705920",
+            "text": "@jbqueru I was using an older fw lib. Just out of curiosity, are you running stock, internal or AOSP builds on your phone? :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "169474452957052930": {
+            "id": "169474452957052930",
+            "text": "@jbqueru I fixed the NFC issue I was having with GSM GN in 4.0.3. A new lib was required. Let's just say it works great now. ;)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "166916449129074688": {
+            "id": "166916449129074688",
+            "text": "@johnwilander Kolla mailen...",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "166540465406083072": {
+            "id": "166540465406083072",
+            "text": "@polarbit When do you expect to make it available again?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "166208026171277312": {
+            "id": "166208026171277312",
+            "text": "@jbqueru If only more manufacturers allowed posting of drivers like you do with GPU and RIL libs. I don't expect to see them open sourced.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "165477952509841408": {
+            "id": "165477952509841408",
+            "text": "@jbqueru Indeed there are. My question about 4.0.3 was mostly because the update for the Nexus S was pulled. The world needs more ICS. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "165424200939610112": {
+            "id": "165424200939610112",
+            "text": "@jbqueru Ok. I think we both know I just want it for the drivers. A 4.0.4 (assuming it isn't fake) code push to AOSP would also be nice. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "165424086342836224": {
+            "id": "165424086342836224",
+            "text": "@jbqueru You need carrier approval even for yakju, even though it's not sold in the US?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "165091133012193282": {
+            "id": "165091133012193282",
+            "text": "@jbqueru I've come to same conclusion. Some people get it working and some don't. What's the hold-up of 4.0.3 or 4.0.4 on the GN btw?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "165082075588857856": {
+            "id": "165082075588857856",
+            "text": "@johnwilander Did they fix the security issue we investigated though?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "163999451638276096": {
+            "id": "163999451638276096",
+            "text": "@johnwilander Har du lust att svara p\u00e5 mitt mail? :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "162985521008742400": {
+            "id": "162985521008742400",
+            "text": "@jbqueru Should the 4.0.2 NFC for maguro work in AOSP-based 4.0.3? I'm having issues with tag reading but not Android Beam.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "147442990766505984": {
+            "id": "147442990766505984",
+            "text": "@PaulOBrien @philipberne Yes, you should just be able to press OK and it will continue over 3G or whatever. I just did. This isn't iOS. ;)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "140283592239616002": {
+            "id": "140283592239616002",
+            "text": "@koush Now that's how you make money!",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "136230284311015426": {
+            "id": "136230284311015426",
+            "text": "@jbqueru Awesome! What devices have you tried building it for?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "134693359099969538": {
+            "id": "134693359099969538",
+            "text": "@johnwilander I guess you are lucky the differences between iOS 5 on iPhone 4 and 4S is minimal in daily use then. No Siri in Sweden anyway.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "131476002676281344": {
+            "id": "131476002676281344",
+            "text": "@jbqueru How do I contact the Google+ app team to report issues regarding drawable- and layout mistakes? The normal way doesn't really fit.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "131450769848279041": {
+            "id": "131450769848279041",
+            "text": "@johnwilander It's a good thing then that Android 4.0 allows you to manually remove trust for specific CAs in Settings.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "129271896498913280": {
+            "id": "129271896498913280",
+            "text": "@jbqueru Ok. I think there are many valuable patches there so it could be beneficial to keep it.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "128961008306896896": {
+            "id": "128961008306896896",
+            "text": "@jbqueru Do you plan to bring back all the Gerrit history or start fresh? I feel out of the loop on a few submissions I was following. ETA?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "126848581129867265": {
+            "id": "126848581129867265",
+            "text": "@MHLconsortium Is MHL something that is integrated on the SoC level or just separate chips that are easy to implement on existing platforms?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "122303043990593537": {
+            "id": "122303043990593537",
+            "text": "@jbqueru Any information on how far off the new AOSP+Gerrit hosting is considering kernel.org is up? Planning a fast release for ICS source?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "116971752386592768": {
+            "id": "116971752386592768",
+            "text": "@koush @clockworkmod Really? Where do I disable it then? Didn't see an option.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "116946707438239744": {
+            "id": "116946707438239744",
+            "text": "@koush Any plans for implementing a way to disable backup of .android_secure in @clockworkmod recovery?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "111925932008292352": {
+            "id": "111925932008292352",
+            "text": "@johnwilander I'm in the process of looking for interesting thesis opportunities. Why? Got something it mind?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "111925461331881984": {
+            "id": "111925461331881984",
+            "text": "@johnwilander Me and Niklas theorized about the skimming part while reading through the documentation. The rest was interesting though. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "111834255289626625": {
+            "id": "111834255289626625",
+            "text": "@johnwilander Did you check out the latest chip+pin defcon slides?\nhttps://www.defcon.org/images/defcon-19/dc-19-presentations/Barisani-Bianco-Laurie-Franken/DEFCON-19-Barisani-Bianco-Laurie-Franken.pdf\u00a0\u2026",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "108516626156097536": {
+            "id": "108516626156097536",
+            "text": "@johnwilander The same is true for Android devices that manufacturers decide to lock down. That is thankfully changing though. Unlike iOS :(",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "103226860032364544": {
+            "id": "103226860032364544",
+            "text": "@cyanogen @koush What's your thoughts on the fact that Android might've lost the rights to distribute the linux source? http://bit.ly/n0xj8g\u00a0",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "101029183282618368": {
+            "id": "101029183282618368",
+            "text": "@johnwilander Let me guess. They don't produce/sell anything themselves so they are protected from counter-suits? :-(",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "99057774205485056": {
+            "id": "99057774205485056",
+            "text": "@johnwilander Probably to allow auto updating without UAC prompts. The Program files folder is protected.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "95128385034010624": {
+            "id": "95128385034010624",
+            "text": "@johnwilander Same thing on the iPhone I think. The protocols need the plain-text passwords sent on every connection. Fix that first.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "94412123463090176": {
+            "id": "94412123463090176",
+            "text": "@johnwilander It seems the IE9 image BSODs in Virtualbox. However MS offers a 90 day trial for Win7 Enterprise. http://bit.ly/hapPGi\u00a0",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "94400425175945216": {
+            "id": "94400425175945216",
+            "text": "@johnwilander @simmonsjoshr I just tried the IE6 XP image because it was small. I'll check out the Win 7 one. My point was: vhd != Win-only",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "94392892109488128": {
+            "id": "94392892109488128",
+            "text": "@simmonsjoshr @johnwilander Incorrect! They work in Virtualbox but it complains about hardware changes so needs activation within 3 days.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "92907660260806656": {
+            "id": "92907660260806656",
+            "text": "@koush The country code is SV ie. values-sv",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "64109256491798529": {
+            "id": "64109256491798529",
+            "text": "Buzzkill... #nymblelarm",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "40402592316002305": {
+            "id": "40402592316002305",
+            "text": "@cyanogen Any luck obtaining the N1 2.3.3 OTA currently rolling out? New proprietaries == good. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "33185044180766720": {
+            "id": "33185044180766720",
+            "text": "@tdiebold I have the same problem. Nothing happens when trying to install. Chrome to Phone works though so the API works. Did you solve it?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "32541470812540928": {
+            "id": "32541470812540928",
+            "text": "@SatanR1 For the price it's great in my opinion, unless you're an audiophile who believe you need to spend 10 times more for good audio.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "31808565861683200": {
+            "id": "31808565861683200",
+            "text": "@cyanogen Do you happen to know where the cursor drawable used in Froyo is located? Didn't see it in the framework.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "30979422706212865": {
+            "id": "30979422706212865",
+            "text": "@jbqueru Do you guys accept Gerrit submissions for drawables (the old ones were incorrectly resized) See: http://bit.ly/h7bkq8 + some more.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "28651304691695616": {
+            "id": "28651304691695616",
+            "text": "@wesgarner At least a few countries allow it if at least 1 of the parts agree, making it perfectly legal to record your own calls.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "19789752735637504": {
+            "id": "19789752735637504",
+            "text": "@cyanogen Any luck fixing the camera (not camcorder) in Gingerbread yet? Broken since 22/12. Still ok when fastboot booting the cm-kernel.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "17348288881623040": {
+            "id": "17348288881623040",
+            "text": "@cyanogen I feel like the code is growing old while I'm waiting for it to compile. ;) Did ChrisSoyars pop around with working camera yet?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15977509317251072": {
+            "id": "15977509317251072",
+            "text": "@jbqueru Thanks for the clarification. Any timeframe for when compatible drivers (ie. OTA) will be out that you can say? Before christmas?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15970981990367232": {
+            "id": "15970981990367232",
+            "text": "@jbqueru Awesome! Anything important that doesn't work at all? Also, thanks for your and the team's hard work.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15966388929691649": {
+            "id": "15966388929691649",
+            "text": "@jbqueru Do you mean running on Nexus One internally (with GB drivers) or with the current drivers?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "15284736788271104": {
+            "id": "15284736788271104",
+            "text": "@cyanogen Interesting AOSP Gerrit commit if you've missed it: http://bit.ly/eoX1uB",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "12733293334106112": {
+            "id": "12733293334106112",
+            "text": "@mikedgDroid No it's not. Works just fine for me so not a CM problem. :) Perhaps a wipe is needed. Nandroid backup before though.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "12722520364945408": {
+            "id": "12722520364945408",
+            "text": "@googlenexus Run, run, as fast as you can! You can't catch me, I'm the Gingerbread Android!",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "3135815697833984": {
+            "id": "3135815697833984",
+            "text": "@cyanogen About CM 6.1, what ever happened to the Hibernate mode? Other than the video I've not seen any mention of it. I'd love to have it.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "29390507747": {
+            "id": "29390507747",
+            "text": "@dcplaya Where do you see the extra incremental steps? I still only see 6 steps, same as in stock android (check framework-res.apk)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27463958722": {
+            "id": "27463958722",
+            "text": "@cyanogen Haha, nice background. Btw. how come the latest nightly builds think the API was changed? How can one avoid that?",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "27463145444": {
+            "id": "27463145444",
+            "text": "@Haxzamatic You may want to follow review.cyanogenmod.com. It seems you missed some commits. Just like I missed fitsnugly's. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "21423847681": {
+            "id": "21423847681",
+            "text": "@_LoneWolf_ The Milestone can't run custom roms at all thanks to Motorola. It won't boot with a custom kernel. :(",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "18861373135": {
+            "id": "18861373135",
+            "text": "@cyanogen Mind pulling this? http://github.com/blunden/android_vendor_cyanogen/commit/1dc8c6c6d9ec597e816c6c56a8ee36bb2261cd51",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "17292377424": {
+            "id": "17292377424",
+            "text": "@koush Only for the premium version? If not, mind sharing it to those of us not running clockwork recovery due to personal choice? :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14563715228": {
+            "id": "14563715228",
+            "text": "@ninjarobot Thanks for getting us the link btw. :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14509723137": {
+            "id": "14509723137",
+            "text": "@ninjarobot If you really have it then you should be able to get us the link by running adb logcat or Andro Shark when downloading.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14503108624": {
+            "id": "14503108624",
+            "text": "@qvert You need to root (or rather, you need to unlock the bootloader with fastboot oem unlock).",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "14502959964": {
+            "id": "14502959964",
+            "text": "@qvert Just fastboot boot Amon_Ra's recovery and wipe then run a nandroid backup. It will image all partitions. Needs an unlocked bootloader",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "9644337130": {
+            "id": "9644337130",
+            "text": "Looks like the phone runs with the 160 dpi setting in build.prop. Happens to my emulator often.  (@chrissoyars)http://yfrog.com/3n8rcuj",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6793526377": {
+            "id": "6793526377",
+            "text": "@cyanogen Love the new update. That graphics library smoothed rendering of gradients a lot. They now look great (darker ones banded before).",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "6248316753": {
+            "id": "6248316753",
+            "text": "@Official_Drizzy Have you worked on that 2.x T-mobile nbh file yet? :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "5135957875": {
+            "id": "5135957875",
+            "text": "@cyanogen Has anything been change in the launcher besides the theme? If not, there will be no adverse effects by replacing it, right? :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "4974503765": {
+            "id": "4974503765",
+            "text": "@cyanogen Should I understand that like the ION is your new primary phone? :)",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "4659799608": {
+            "id": "4659799608",
+            "text": "@cyanogen Maybe you should keep installation questions in a separate thread on xda to avoid clutter.",
+            "username": "bjlunden",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "alexstamos": 1,
+        "TinkerSec": 1,
+        "DCFurs": 1,
+        "David3141593": 1,
+        "darylginn": 1,
+        "SparkZheng": 1,
+        "mweagle": 1,
+        "internetofshit": 1,
+        "YitzOfTheBits": 1,
+        "Atters_J": 1,
+        "kelseycrist": 1,
+        "LineageAndroid": 1,
+        "StackSmashing": 1,
+        "eringriffith": 1,
+        "jackmjenkins": 1,
+        "NatureisScary": 1,
+        "LiveOverflow": 1,
+        "paulg": 1,
+        "s5": 1,
+        "daisyowl": 1,
+        "climagic": 1,
+        "FioraAeterna": 2,
+        "OhNoSheTwitnt": 1,
+        "bry_campbell": 1,
+        "kylegriffin1": 1,
+        "OwariDa": 2,
+        "Reflog_18": 1,
+        "johnwilander": 10,
+        "BFriedmanDC": 1,
+        "paaleksey": 1,
+        "LordRavenscraft": 1,
+        "sauro": 1,
+        "mjg59": 1,
+        "CyanogenMod": 1,
+        "EsthervanLuit": 1,
+        "shelajev": 1,
+        "slightlylate": 1,
+        "UlfFrisk": 3,
+        "qwertyoruiopz": 1,
+        "twahlin": 1,
+        "ex_lion_tamer": 1,
+        "FiloSottile": 1,
+        "CaptainCaplin": 1,
+        "sourceclear": 1,
+        "spencerchen": 1,
+        "NewsBlurSupport": 1,
+        "ThePracticalDev": 1,
+        "bathtype": 1,
+        "GR_comics": 1,
+        "HenryHoffman": 1,
+        "sean_a_cassidy": 1,
+        "FreedomeVPN": 1,
+        "mikko": 15,
+        "rabihalameddine": 1,
+        "KyloR3n": 1,
+        "troyhunt": 5,
+        "TimFernholz": 1,
+        "lostinsecurity": 1,
+        "filedescriptor": 1,
+        "webventil": 1,
+        "EarnKnowledge": 1,
+        "Agarri_FR": 2,
+        "internot_": 1,
+        "xoreaxeaxeax": 1,
+        "sturmflut2": 1,
+        "SIGTIM": 1,
+        "SgtHowardPayne": 1,
+        "runasand": 2,
+        "travisgoodspeed": 1,
+        "olemoudi": 1,
+        "cryfts": 1,
+        "blaufish_": 1,
+        "andrewshumate": 1,
+        "old_sound": 1,
+        "UniqueDude2": 1,
+        "APZonerunner": 1,
+        "koush": 14,
+        "Toughmutter": 1,
+        "mr_boombastic": 1,
+        "bcrypt": 3,
+        "hillbrad": 1,
+        "scottw": 1,
+        "notch": 2,
+        "rozap_": 1,
+        "zeynep": 1,
+        "PotatoSec": 1,
+        "kairoer": 1,
+        "0x56": 1,
+        "markrussinovich": 1,
+        "sublevado": 1,
+        "bascule": 1,
+        "TheOnion": 1,
+        "mattblaze": 1,
+        "dlitchfield": 1,
+        "AltumSe": 3,
+        "jcase": 1,
+        "TessSchrodinger": 1,
+        "samykamkar": 2,
+        "PHP_CEO": 1,
+        "matthew_d_green": 1,
+        "albinowax": 1,
+        "Pedro_DeCastro": 1,
+        "laurenjbissett": 1,
+        "causticbob": 1,
+        "xbs": 1,
+        "martijn_grooten": 1,
+        "ChrisADale": 1,
+        "XipiterSec": 1,
+        "djrbliss": 6,
+        "ZaibatsuPlanet": 1,
+        "hellNbak_": 1,
+        "garagosy": 1,
+        "nudehaberdasher": 1,
+        "ag_dubs": 1,
+        "tchopstl_": 1,
+        "BlackHatEvents": 1,
+        "rfc1036": 1,
+        "SwiftOnSecurity": 3,
+        "SynAckPwn": 1,
+        "thegrugq": 1,
+        "cure53berlin": 1,
+        "liamosaur": 1,
+        "fede_k": 1,
+        "sweis": 1,
+        "InternetIntel": 1,
+        "SaintRPh": 2,
+        "matiasgoldberg": 1,
+        "ShelbyWhite": 1,
+        "moonpolysoft": 1,
+        "jacksonh": 2,
+        "Faskil": 1,
+        "j_kaluzny": 1,
+        "sadserver": 1,
+        "DepressedDarth": 2,
+        "Burp_Suite": 1,
+        "TheDailyShow": 1,
+        "Andrew___Morris": 1,
+        "hukl": 1,
+        "softmodeling": 1,
+        "sehnaoui": 1,
+        "tim_cook": 1,
+        "AdrianShepski": 1,
+        "vineyille": 1,
+        "peksa": 4,
+        "_ericelliott": 1,
+        "0xcharlie": 3,
+        "tpope": 1,
+        "PixelAmbacht": 1,
+        "m_e_grunder": 1,
+        "AstroKatie": 1,
+        "drewcrawford": 1,
+        "jcran": 1,
+        "jonarer": 1,
+        "mhswende": 4,
+        "kurtseifried": 1,
+        "xor": 2,
+        "YourMainDude": 1,
+        "softwareverify": 1,
+        "1njected": 1,
+        "sawaba": 1,
+        "mastahyeti": 1,
+        "webtonull": 1,
+        "it4sec": 1,
+        "DannyDutch": 1,
+        "wpawlikowski": 1,
+        "html5_yoda": 1,
+        "ConalPierse": 1,
+        "e3i5": 1,
+        "sthlmjs": 1,
+        "vemihelvete": 1,
+        "maverikou": 1,
+        "Forsvarsmakten": 1,
+        "JRehling": 1,
+        "ustwogames": 1,
+        "PolitiFact": 1,
+        "segphault": 1,
+        "newsycombinator": 1,
+        "onceuponA": 1,
+        "cabel": 1,
+        "hsivonen": 1,
+        "textfiles": 1,
+        "kkotowicz": 1,
+        "briankrebs": 1,
+        "Loh": 1,
+        "modalexii": 1,
+        "Green_Footballs": 1,
+        "totally_unknown": 1,
+        "avlidienbrunn": 2,
+        "julianor": 1,
+        "xdaDaveShaw": 1,
+        "timbray": 1,
+        "philnelson": 1,
+        "isaach": 1,
+        "Viss": 1,
+        "jaysonstreet": 1,
+        "jedisct1": 1,
+        "kernelpool": 1,
+        "evacide": 1,
+        "dchest": 1,
+        "dumdidum": 1,
+        "agl__": 1,
+        "kylesethgray": 1,
+        "Techmog": 1,
+        "lucabruno": 1,
+        "DoubleJake": 1,
+        "slfritchie": 1,
+        "sil": 1,
+        "Independent": 1,
+        "Dalus87": 1,
+        "Stammy": 1,
+        "hdafgard": 3,
+        "chartier": 1,
+        "piscisaureus": 1,
+        "steveklabnik": 1,
+        "grittygrease": 1,
+        "StijnBienkens": 1,
+        "iljawascoding": 1,
+        "feitclub": 1,
+        "trevortimm": 1,
+        "mrdougal": 1,
+        "ra": 1,
+        "davepell": 1,
+        "semibogan": 1,
+        "Sandra_Ri051": 1,
+        "xkcdfeed": 1,
+        "brettchalupa": 1,
+        "haveibeenpwned": 1,
+        "terrifyingposts": 1,
+        "nelhage": 1,
+        "i0n1c": 1,
+        "pod2g": 1,
+        "soaj1664ashar": 1,
+        "RobsteinOne": 1,
+        "notwaldorf": 1,
+        "HeyyThereDalia": 1,
+        "iamdevloper": 1,
+        "AnonyOps": 1,
+        "jonaso": 1,
+        "jbqueru": 5,
+        "SouthernProblem": 1,
+        "juliangough": 1,
+        "vambenepe": 1,
+        "andreascreten": 1,
+        "WeldPond": 2,
+        "hackerfantastic": 1,
+        "NASAKepler": 1,
+        "ThePoke": 1,
+        "HarpyFeathers": 1,
+        "r_netsec": 1,
+        "htc": 1,
+        "Paul_Reviews": 1,
+        "stroughtonsmith": 1,
+        "RachelAppel": 1,
+        "bidorbuy_co_za": 1,
+        "iOS6maps": 1,
+        "OfficalMrBean": 1,
+        "bdunkelman": 1,
+        "the_webhamster": 1,
+        "seecurity": 1,
+        "secure_borat": 1,
+        "nflnfl": 1,
+        "paolo_3_1415926": 1,
+        "cyanogen": 1,
+        "jonathanmayer": 1,
+        "MaartmannMoe": 1,
+        "Techmeme": 1,
+        "fyrtiosju": 1,
+        "securityninja": 1,
+        "ochsff": 1,
+        "wbm": 1,
+        "pedramamini": 1,
+        "argv0": 1,
+        "mwrlabs": 1,
+        "jness": 1,
+        "ID_AA_Carmack": 1,
+        "fristle": 1,
+        "CodeWisdom": 1,
+        "AndroidPR": 1,
+        "nevali": 1,
+        "roubzee": 1,
+        "AndroidDev": 1,
+        "robarnold": 1,
+        "PaulOBrien": 1
+    },
+    "users_retweeted": [
+        "mikko",
+        "koush",
+        "johnwilander",
+        "djrbliss",
+        "troyhunt",
+        "jbqueru",
+        "peksa",
+        "mhswende",
+        "UlfFrisk",
+        "bcrypt",
+        "AltumSe",
+        "SwiftOnSecurity",
+        "0xcharlie",
+        "hdafgard",
+        "FioraAeterna",
+        "OwariDa",
+        "Agarri_FR",
+        "runasand",
+        "notch",
+        "samykamkar",
+        "SaintRPh",
+        "jacksonh",
+        "DepressedDarth",
+        "xor",
+        "avlidienbrunn",
+        "WeldPond",
+        "alexstamos",
+        "TinkerSec",
+        "DCFurs",
+        "David3141593",
+        "darylginn",
+        "SparkZheng",
+        "mweagle",
+        "internetofshit",
+        "YitzOfTheBits",
+        "Atters_J",
+        "kelseycrist",
+        "LineageAndroid",
+        "StackSmashing",
+        "eringriffith",
+        "jackmjenkins",
+        "NatureisScary",
+        "LiveOverflow",
+        "paulg",
+        "s5",
+        "daisyowl",
+        "climagic",
+        "OhNoSheTwitnt",
+        "bry_campbell",
+        "kylegriffin1",
+        "Reflog_18",
+        "BFriedmanDC",
+        "paaleksey",
+        "LordRavenscraft",
+        "sauro",
+        "mjg59",
+        "CyanogenMod",
+        "EsthervanLuit",
+        "shelajev",
+        "slightlylate",
+        "qwertyoruiopz",
+        "twahlin",
+        "ex_lion_tamer",
+        "FiloSottile",
+        "CaptainCaplin",
+        "sourceclear",
+        "spencerchen",
+        "NewsBlurSupport",
+        "ThePracticalDev",
+        "bathtype",
+        "GR_comics",
+        "HenryHoffman",
+        "sean_a_cassidy",
+        "FreedomeVPN",
+        "rabihalameddine",
+        "KyloR3n",
+        "TimFernholz",
+        "lostinsecurity",
+        "filedescriptor",
+        "webventil",
+        "EarnKnowledge",
+        "internot_",
+        "xoreaxeaxeax",
+        "sturmflut2",
+        "SIGTIM",
+        "SgtHowardPayne",
+        "travisgoodspeed",
+        "olemoudi",
+        "cryfts",
+        "blaufish_",
+        "andrewshumate",
+        "old_sound",
+        "UniqueDude2",
+        "APZonerunner",
+        "Toughmutter",
+        "mr_boombastic",
+        "hillbrad",
+        "scottw",
+        "rozap_",
+        "zeynep",
+        "PotatoSec",
+        "kairoer",
+        "0x56",
+        "markrussinovich",
+        "sublevado",
+        "bascule",
+        "TheOnion",
+        "mattblaze",
+        "dlitchfield",
+        "jcase",
+        "TessSchrodinger",
+        "PHP_CEO",
+        "matthew_d_green",
+        "albinowax",
+        "Pedro_DeCastro",
+        "laurenjbissett",
+        "causticbob",
+        "xbs",
+        "martijn_grooten",
+        "ChrisADale",
+        "XipiterSec",
+        "ZaibatsuPlanet",
+        "hellNbak_",
+        "garagosy",
+        "nudehaberdasher",
+        "ag_dubs",
+        "tchopstl_",
+        "BlackHatEvents",
+        "rfc1036",
+        "SynAckPwn",
+        "thegrugq",
+        "cure53berlin",
+        "liamosaur",
+        "fede_k",
+        "sweis",
+        "InternetIntel",
+        "matiasgoldberg",
+        "ShelbyWhite",
+        "moonpolysoft",
+        "Faskil",
+        "j_kaluzny",
+        "sadserver",
+        "Burp_Suite",
+        "TheDailyShow",
+        "Andrew___Morris",
+        "hukl",
+        "softmodeling",
+        "sehnaoui",
+        "tim_cook",
+        "AdrianShepski",
+        "vineyille",
+        "_ericelliott",
+        "tpope",
+        "PixelAmbacht",
+        "m_e_grunder",
+        "AstroKatie",
+        "drewcrawford",
+        "jcran",
+        "jonarer",
+        "kurtseifried",
+        "YourMainDude",
+        "softwareverify",
+        "1njected",
+        "sawaba",
+        "mastahyeti",
+        "webtonull",
+        "it4sec",
+        "DannyDutch",
+        "wpawlikowski",
+        "html5_yoda",
+        "ConalPierse",
+        "e3i5",
+        "sthlmjs",
+        "vemihelvete",
+        "maverikou",
+        "Forsvarsmakten",
+        "JRehling",
+        "ustwogames",
+        "PolitiFact",
+        "segphault",
+        "newsycombinator",
+        "onceuponA",
+        "cabel",
+        "hsivonen",
+        "textfiles",
+        "kkotowicz",
+        "briankrebs",
+        "Loh",
+        "modalexii",
+        "Green_Footballs",
+        "totally_unknown",
+        "julianor",
+        "xdaDaveShaw",
+        "timbray",
+        "philnelson",
+        "isaach",
+        "Viss",
+        "jaysonstreet",
+        "jedisct1",
+        "kernelpool",
+        "evacide",
+        "dchest",
+        "dumdidum",
+        "agl__",
+        "kylesethgray",
+        "Techmog",
+        "lucabruno",
+        "DoubleJake",
+        "slfritchie",
+        "sil",
+        "Independent",
+        "Dalus87",
+        "Stammy",
+        "chartier",
+        "piscisaureus",
+        "steveklabnik",
+        "grittygrease",
+        "StijnBienkens",
+        "iljawascoding",
+        "feitclub",
+        "trevortimm",
+        "mrdougal",
+        "ra",
+        "davepell",
+        "semibogan",
+        "Sandra_Ri051",
+        "xkcdfeed",
+        "brettchalupa",
+        "haveibeenpwned",
+        "terrifyingposts",
+        "nelhage",
+        "i0n1c",
+        "pod2g",
+        "soaj1664ashar",
+        "RobsteinOne",
+        "notwaldorf",
+        "HeyyThereDalia",
+        "iamdevloper",
+        "AnonyOps",
+        "jonaso",
+        "SouthernProblem",
+        "juliangough",
+        "vambenepe",
+        "andreascreten",
+        "hackerfantastic",
+        "NASAKepler",
+        "ThePoke",
+        "HarpyFeathers",
+        "r_netsec",
+        "htc",
+        "Paul_Reviews",
+        "stroughtonsmith",
+        "RachelAppel",
+        "bidorbuy_co_za",
+        "iOS6maps",
+        "OfficalMrBean",
+        "bdunkelman",
+        "the_webhamster",
+        "seecurity",
+        "secure_borat",
+        "nflnfl",
+        "paolo_3_1415926",
+        "cyanogen",
+        "jonathanmayer",
+        "MaartmannMoe",
+        "Techmeme",
+        "fyrtiosju",
+        "securityninja",
+        "ochsff",
+        "wbm",
+        "pedramamini",
+        "argv0",
+        "mwrlabs",
+        "jness",
+        "ID_AA_Carmack",
+        "fristle",
+        "CodeWisdom",
+        "AndroidPR",
+        "nevali",
+        "roubzee",
+        "AndroidDev",
+        "robarnold",
+        "PaulOBrien"
+    ]
+}

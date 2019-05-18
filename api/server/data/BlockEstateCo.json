@@ -1,0 +1,31 @@
+{
+    "is_complete": true,
+    "username": "BlockEstateCo",
+    "retweeted": {
+        "1074786375382286338": {
+            "id": "1074786375382286338",
+            "text": "The world\u2019s first US-regulated security token trading platform is live. @OpenFinanceIO has transferred from beta to full trading functionality.\n\n\u201c2018 is said to be the year of security tokens, but, for us, this is only the beginning.\" - @JHernanOFNhttps://thetokenist.io/openfinance-network-activates-the-first-us-regulated-security-token-trading-platform-to-full-functionality/\u00a0\u2026",
+            "username": "thetokenist",
+            "num_likes": 32,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1073371486587576320": {
+            "id": "1073371486587576320",
+            "text": "We just published \"The SEC reiterates their stance on crypto\"https://medium.com/@coinlist/the-sec-reiterates-their-stance-on-crypto-e4d6ca4588fe\u00a0\u2026",
+            "username": "CoinList",
+            "num_likes": 20,
+            "num_retweets": 13,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {},
+    "num_retweets_by_originator": {
+        "thetokenist": 1,
+        "CoinList": 1
+    },
+    "users_retweeted": [
+        "thetokenist",
+        "CoinList"
+    ]
+}

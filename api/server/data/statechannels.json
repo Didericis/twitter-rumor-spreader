@@ -1,0 +1,642 @@
+{
+    "is_complete": true,
+    "username": "statechannels",
+    "retweeted": {
+        "1123661096274079746": {
+            "id": "1123661096274079746",
+            "text": ".@liamihorne from @statechannels giving us an inside look at other projects working in the same space as Counterfactual\n#ethereumpic.twitter.com/3nHpAqBsOR",
+            "username": "BinaryDistrict",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1122941689859985409": {
+            "id": "1122941689859985409",
+            "text": "Super excited to have the @ConnextNetwork team working with us to promote state channels standards for Ethereum!https://twitter.com/statechannels/status/1122938396970770432\u00a0\u2026",
+            "username": "ebryn",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1122939270363320320": {
+            "id": "1122939270363320320",
+            "text": "Building open, interoperable systems is how we create a 100x improvement over the existing paradigm.\n\nThis is why v2.0 of @ConnextNetwork will be based on top of the @statechannels framework.\n\nTowards protocol standards! https://medium.com/connext/towards-an-interoperable-future-f144012c857f\u00a0\u2026",
+            "username": "Arjun_Bhuptani",
+            "num_likes": 110,
+            "num_retweets": 36,
+            "num_replies": 1
+        },
+        "1112894705681883136": {
+            "id": "1112894705681883136",
+            "text": "Here for @LiamHorne from @L4ventures talking about @statechannels  #statechannels #blockchain #cryptopic.twitter.com/SD2dMN1oou \u2013 at Starfish Mission",
+            "username": "multipliedio",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1112691469947752448": {
+            "id": "1112691469947752448",
+            "text": "Looking forward to doing some live coding tonight. I'll be teaching how to use @statechannels at the SF Ethereum Developers meetup!https://www.meetup.com/SF-Ethereum-Developers/events/260041433/\u00a0\u2026",
+            "username": "ebryn",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1112152064996499456": {
+            "id": "1112152064996499456",
+            "text": "Holy ! @statechannels's playground feels like you aren't even using a dApp after the initial deposit setup. With faster transactions I can see users having a much quicker experience using something like @CoinbaseWallet. For ex: 1. Transfer from CB to CBW. 2. Deposit. 3. Start!pic.twitter.com/VP2Nz7RzfP",
+            "username": "peterhaymond",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1111699388924071936": {
+            "id": "1111699388924071936",
+            "text": "Wasssaappp!?! Another amazing episode of @HashingItOutPod c/o @thebtcpodcast . On this fine episode, brought to you by @trailofbits , we had the pleasure of speaking to @liamihorne of @L4ventures on state channels. #blockchain #ethereum #smartcontractshttps://thebitcoinpodcast.com/hashing-it-out-40/\u00a0\u2026",
+            "username": "HashingItOutPod",
+            "num_likes": 21,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1110142016355131392": {
+            "id": "1110142016355131392",
+            "text": "This week in crypto:\n\n-@VitalikButerin on the Into the Ether podcast \n-@statechannels 'Counterfactual Playground' released \n-@danrobinson announces 'Rainbow Network' \n-@compoundfinance v2 detailed \n-@StarkWareLtd details StarkDEX metrics\n\nMore https://ethhub.substack.com/p/ethhub-weekly-54\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 53,
+            "num_retweets": 21,
+            "num_replies": 2
+        },
+        "1108086001199570944": {
+            "id": "1108086001199570944",
+            "text": "Quick video explaining the @statechannels demo \u00a0https://www.youtube.com/watch?v=Co-t-mXHnfc\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1104422902898798592": {
+            "id": "1104422902898798592",
+            "text": "@Nima_Vaziri presenting @statechannels at the #MITBitcoinExpo #TheNext10Yearspic.twitter.com/m9NKYnKyjI",
+            "username": "MITBitcoinClub",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1103700604646502400": {
+            "id": "1103700604646502400",
+            "text": "Liam @liamihorne presenting a demo of trustless generalized @statechannels #ethcc\n\nTic tac toe is only an example app. Dive in the code http://github.com/counterfactual/monorepo\u00a0\u2026pic.twitter.com/nejfQNQs8m",
+            "username": "gakonst",
+            "num_likes": 40,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1101659712007925760": {
+            "id": "1101659712007925760",
+            "text": "We're excited to have @Nima_Vaziri, contributer at @statechannels speak about how they\u2019re getting ready for #TheNext10Years at the #MITBitcoinExpo. Get your tickets here: http://mitbitcoinexpo.org/\u00a0pic.twitter.com/elIndSOkqK",
+            "username": "MITBitcoinClub",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1101699427293519872": {
+            "id": "1101699427293519872",
+            "text": "Some interesting research discussions on zero knowledge payments on Ethereum here :) With @barrywhitehat's recent work and @statechannels, the best part is that these kind of ideas can be built at hackathons now.https://ethresear.ch/t/zk-channels-private-layer-2-payments-on-ethereum/5069\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 108,
+            "num_retweets": 40,
+            "num_replies": 5
+        },
+        "1091358615900872706": {
+            "id": "1091358615900872706",
+            "text": "Me and @yahgwai thought of a way to reduce the financial cost of a dispute to a \"nearly\" constant cost. We wrote it up a short paper to get the idea to the community asap. \nhttps://nms.kcl.ac.uk/patrick.mccorry/stateassertions.pdf\u00a0\u2026\n\nIt should be pluggable into the @statechannels design which is also exciting .pic.twitter.com/WfW8U2wrf7",
+            "username": "paddykcl",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1083110292131905542": {
+            "id": "1083110292131905542",
+            "text": "Awesome talk from @yahgwai at #Budapest @ethereum meetup, describing state channels (Kitsune by @paddykcl) and introducing the @statechannels framework!pic.twitter.com/z1FVbyFDEF",
+            "username": "Istvan_A_Seres",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1080425038879342593": {
+            "id": "1080425038879342593",
+            "text": "Let's build a blockchain-assisted MUD. Three approaches I'm taking: @statechannels, @loomnetwork plasma, and @ParityTech substrate. Being developed in parallel. It'll take some time but I welcome the exploration by trial and error. Got ideas? Chime in!https://bruno.id/valhello-ethereum-state-channels-for-games/\u00a0\u2026",
+            "username": "bitfalls",
+            "num_likes": 22,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1075768828162846724": {
+            "id": "1075768828162846724",
+            "text": "My talk about state channels as a layer 2 scaling solution on Ethereum with @liamihorne of @L4ventures and @statechannels is now available!https://podcast.ethhub.io\u00a0",
+            "username": "econoar",
+            "num_likes": 35,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1072692053182636034": {
+            "id": "1072692053182636034",
+            "text": "While working on @statechannels we've tested out a bunch of example apps. Here's @yahgwai's review for building a state channel based mixing service based on MixEth. Benefits from using state channels: O(n) transactions instead of O(n^2) for n usershttps://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 35,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1072533774477520897": {
+            "id": "1072533774477520897",
+            "text": "I've just published a walkthrough on using the @statechannels framework to channelise the #MixEth protocol by @Istvan_A_Sereshttps://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc\u00a0\u2026",
+            "username": "yahgwai",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1067837273410961409": {
+            "id": "1067837273410961409",
+            "text": "If you're in Montreal, come see @liamihorne talk about @statechannels - tonight at 6PMhttps://www.meetup.com/Ethereum-Blockchain-Montreal/events/255996519/\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1063576160972492802": {
+            "id": "1063576160972492802",
+            "text": "Solid dev update from @L4ventures @liamihorne. Nice to see the counterfactual collaborators list.https://medium.com/statechannels/development-update-0-11-12-2018-b7002de5282e\u00a0\u2026",
+            "username": "mark_dago",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1057936265499328514": {
+            "id": "1057936265499328514",
+            "text": "Next up is @liamihorne from the @statechannels project. An open-source initiative to make secure off-chain applications easy to build on Ethereum. They want to try to make those type of things as easy as possible to build.",
+            "username": "paddykcl",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1057933672463130624": {
+            "id": "1057933672463130624",
+            "text": "The excellent @liamihorne now headed to the stage here in Prism to speak about Counterfactual @statechannels #Ethereum #devcon #devcon4 #devconiv",
+            "username": "technocrypto",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1054929145430507520": {
+            "id": "1054929145430507520",
+            "text": "My list of \"things @statechannels are good for besides payment and games\"https://twitter.com/technocrypto/status/1054832768105041921\u00a0\u2026",
+            "username": "technocrypto",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1026503893012951042": {
+            "id": "1026503893012951042",
+            "text": "excited to collaborate with @CelerNetwork on making state channels easy to use in distributed applicationshttps://medium.com/l4-media/l4-and-celer-better-state-channels-through-collaboration-ea1cb153b413\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 57,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1021222952581263360": {
+            "id": "1021222952581263360",
+            "text": "\u6c4e\u7528\u30b9\u30c6\u30fc\u30c8\u30c1\u30e3\u30cd\u30eb(Generalized State Channel)\u306eCounterfactual(@statechannels)\u306b\u3064\u3044\u3066\u66f8\u304d\u307e\u3057\u305f\uff01https://blockchain.gunosy.io/entry/counterfactual\u00a0\u2026",
+            "username": "veryNR",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1020441395637772293": {
+            "id": "1020441395637772293",
+            "text": "\u72b6\u6001\u901a\u9053  @ethfans\nhttps://ethfans.org/posts/counterfactual-generalized-state-channels-on-ethereum\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1019568665522507776": {
+            "id": "1019568665522507776",
+            "text": "Come join us on Tuesday July 31 at @RyersonU for a meetup all about @statechannels and other layer 2 scaling technologieshttps://www.meetup.com/Ethereum-Developers/events/252571512/\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 16,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1009200023496773640": {
+            "id": "1009200023496773640",
+            "text": "At the @statechannels project we have explored many designs for channelized apps. One promising design has been to think in terms of state machines. That has led to the Force Move Games framework which @tomclse has been driving forward:https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 2
+        }
+    },
+    "tweeted": {
+        "1108072528403156994": {
+            "id": "1108072528403156994",
+            "text": "1. Today we're excited to release an alpha version of the Playground, a full end-to-end demo/sandbox for generalized state channels built with the Counterfactual framework. Go play! \u2192https://playground.counterfactual.com\u00a0",
+            "username": "statechannels",
+            "num_likes": 305,
+            "num_retweets": 117,
+            "num_replies": 10
+        },
+        "1124345707866017792": {
+            "id": "1124345707866017792",
+            "text": "Development Update #5\n\n+   @ConnextNetwork building on @statechannels\n+  progress on cf-wallet\n+  progress on @metamask_io integration & getting started guide\n+  come find us in NYC!https://medium.com/@statechannels/development-update-5-05-03-19-cf64ece3f9f6\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1122938396970770432": {
+            "id": "1122938396970770432",
+            "text": "   @ConnextNetworkhttps://medium.com/connext/towards-an-interoperable-future-f144012c857f\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 33,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1120691101407555584": {
+            "id": "1120691101407555584",
+            "text": " Check out our conversation with @NuggetsNewsAU at @Linktimetech 2019 https://youtu.be/GvPbbu33Q-g\u00a0",
+            "username": "statechannels",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118502369686433792": {
+            "id": "1118502369686433792",
+            "text": "Development update #4\n\n Moved to public github issues for all project mgmt\n Progress on documentation & getting started guide (soon!)\n Enabled CREATE2 support \n Progress on embedded nodes, new asset support, & simplifying node logichttps://medium.com/statechannels/development-update-4-04-05-19-3b35ec3f4eba\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 67,
+            "num_retweets": 35,
+            "num_replies": 4
+        },
+        "1113836538402570240": {
+            "id": "1113836538402570240",
+            "text": " in Sydney?\n\n Come see @liamihorne talk about @statechannels at EDCON 2019 @Linktimetech \n\nThursday April 11 at 15:30!\n\nhttps://www.edcon.io/#agendaId\u00a0pic.twitter.com/HAAxxLI77H",
+            "username": "statechannels",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1110624712734982145": {
+            "id": "1110624712734982145",
+            "text": " In San Francisco? \n\n Come see @liamihorne and @ebryn next Monday and learn how to use the Counterfactual framework.\n\nMonday, April 1 at @starfishsfhttps://www.meetup.com/SF-Ethereum-Developers/events/260041433/\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1110252756508512256": {
+            "id": "1110252756508512256",
+            "text": "VIDEO: Counterfactual state channels with @liamihorne at  @EthParis https://youtu.be/UBrWDJw_bpg\u00a0",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1108362861712207872": {
+            "id": "1108362861712207872",
+            "text": "Want to learn more about the Counterfactual framework? Check out @Nima_Vaziri 's recent talk from the @MITBitcoinClub Expo 2019 https://youtu.be/_8MPy--YQTI\u00a0",
+            "username": "statechannels",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1108075359294099456": {
+            "id": "1108075359294099456",
+            "text": "8. Interested in learning more?\n\n All the code: http://github.com/counterfactual\u00a0\n Discord: http://counterfactual.com/chat\u00a0",
+            "username": "statechannels",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1108074914433642497": {
+            "id": "1108074914433642497",
+            "text": "7. Counterfactual isn't just useful for games - these are just simple demo examples. \n\nWe're talking to teams that want to use the framework to build better exchanges, financial services, and protocols of many kinds.",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1108074682572595201": {
+            "id": "1108074682572595201",
+            "text": "6. Here's the cool thing: you've only opened one channel, but are playing two games inside of it. With Counterfactual, you can install, play, and uninstall as many apps as you want without ever going on-chain.",
+            "username": "statechannels",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1108074513428869140": {
+            "id": "1108074513428869140",
+            "text": "5. That's it! You're in. There are two example applications in the Playground you can play today - Tic Tac Toe, and High Roller. \n\nYou can play both with no fees and no waiting for blocks.",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1108074373863432193": {
+            "id": "1108074373863432193",
+            "text": "4. Using the Playground is easy: you create an account using @metamask_io, which creates your state channel, and collateralize that channel with testnet ETH.",
+            "username": "statechannels",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1108074130941902848": {
+            "id": "1108074130941902848",
+            "text": "3.  We built the Playground for developers: it's a complete demo that shows how the entire framework fits together, a roadmap for how you can use it to build your own app.",
+            "username": "statechannels",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1108073959935934465": {
+            "id": "1108073959935934465",
+            "text": "2. Counterfactual is a framework that makes it easy to build apps using generalized state channels, a powerful layer 2 scaling technology. Read more in our launch blogpost \u2192https://medium.com/statechannels/development-update-3-counterfactual-playground-release-f428be4b8950\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1096872740848467968": {
+            "id": "1096872740848467968",
+            "text": "If you're at #ETHDenver, come down to the BUIDL stage for the \"Working with Layer 2\" panel where @liamihorne will be talking about @statechannels and other layer 2 tech",
+            "username": "statechannels",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1091086595988561920": {
+            "id": "1091086595988561920",
+            "text": "Development update #2\n\n+ 106 commits since last update\n+ Playground _almost_ ready!\n+ Progress on Node, UI, Server\n+ Getting started guide\n+ early work on @metamask_io integrationhttps://medium.com/@statechannels/development-update-2-01-31-2019-eba474230045\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1087438111167131648": {
+            "id": "1087438111167131648",
+            "text": "Neat writeup from @bitfalls on how @statechannels could be used to build a multi-user dungeon gamehttps://valhello.app/approach-1-state-channels/\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1083488035004694529": {
+            "id": "1083488035004694529",
+            "text": "Development Update #1https://medium.com/statechannels/development-update-1-01-10-2019-18983bd41bc2\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1072943648931639296": {
+            "id": "1072943648931639296",
+            "text": ".@liamihorne's talk on @statechannels from DevconIV is now online:https://slideslive.com/38911873/state-channels-on-ethereum-with-counterfactual\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 23,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1062350971022532609": {
+            "id": "1062350971022532609",
+            "text": "Development Update #0https://medium.com/statechannels/development-update-0-11-12-2018-b7002de5282e\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 56,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1055834271565447169": {
+            "id": "1055834271565447169",
+            "text": "Counterfactual will be at @EFDevcon in Prague next week! \n\nCome catch us:\n+ Monday Oct 29 @ \"The Future of LAYER 2\" https://www.eventbrite.com/e/the-future-of-layer-2-prague-edition-tickets-51535876193\u00a0\u2026\n+ Thursday Nov 1 @ Devcon, where @liamihorne will be presenting in the State Channels Breakout session",
+            "username": "statechannels",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1025012057702322177": {
+            "id": "1025012057702322177",
+            "text": "If you're interested in contributing, send us a message :)",
+            "username": "statechannels",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1025011721558269952": {
+            "id": "1025011721558269952",
+            "text": "We've spent a lot of time thinking about state channel applications over the last few monthshttps://medium.com/statechannels/state-channel-applications-1f170e7d542e\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 49,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1022108250026729472": {
+            "id": "1022108250026729472",
+            "text": "thrilled that our paper \"Counterfactual: Generalized State Channels\" has been accepted to #CESC2018 @CalBlockchain https://cesc.io/\u00a0",
+            "username": "statechannels",
+            "num_likes": 30,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1014906947349475336": {
+            "id": "1014906947349475336",
+            "text": "In Zug? Come see @liamihorne represent @statechannels on a panel on scalability at the @TechCrunch Ethereum Meetup this Saturday, July 7https://techcrunch.com/2018/07/03/heres-the-agenda-for-the-techcrunch-ethereum-meetup-on-july-7/\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1014143374855757824": {
+            "id": "1014143374855757824",
+            "text": "and @tomclse on the Force-move games framework for state channels https://youtu.be/5NoFt5cETYA\u00a0",
+            "username": "statechannels",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1014142930628595717": {
+            "id": "1014142930628595717",
+            "text": "Followed by @ebryn on how to build dapps on top of @statechannels https://youtu.be/B75OYynCnhE?t=2m40s\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1014142211536146432": {
+            "id": "1014142211536146432",
+            "text": "Video now up: @liamihorne explains generalized state channels at Off the Chain in Berlin this past weekend (@BinaryDistrict) https://youtu.be/5NoFt5cETYA?t=53m58s\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1012736464441020417": {
+            "id": "1012736464441020417",
+            "text": "thrilled to be attending such a high quality event - kudos to the organizers for bringing so many leading researchers together in Berlin!",
+            "username": "statechannels",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1012736142708535296": {
+            "id": "1012736142708535296",
+            "text": "If you're at the event, keep an eye out for our close collaborator @tomclse's talk on the Force-Move games frameworkpic.twitter.com/cGOd7L7fSE",
+            "username": "statechannels",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1012735408277422083": {
+            "id": "1012735408277422083",
+            "text": "During same session, @ebryn is speaking on his experiences building dapps with generalized @statechannelspic.twitter.com/s8ZnjhR8YC",
+            "username": "statechannels",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1012733964535128065": {
+            "id": "1012733964535128065",
+            "text": "This weekend, @liamihorne will be presenting on @statechannels at Off the Chain in Berlin https://binarydistrict.com/workshop/master-workshop-off-the-chain/\u00a0\u2026pic.twitter.com/U1FjCVGdRT",
+            "username": "statechannels",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1009056960375918597": {
+            "id": "1009056960375918597",
+            "text": "In Austin this week? @ebryn will be  speaking on how to build scalable dapps using @statechannels at the Austin Ethereum Meetup tomorrow night, June 20https://www.meetup.com/Austin-Ethereum-Meetup/events/251110444/\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1006882203245031429": {
+            "id": "1006882203245031429",
+            "text": "great summary of some of the key points in our paper from @sinahabhttps://twitter.com/sinahab/status/1006692701084045312\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1006549052517961728": {
+            "id": "1006549052517961728",
+            "text": "9. And by the way - we're hiring:https://angel.co/l4ventures/jobs\u00a0",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1006537604542722050": {
+            "id": "1006537604542722050",
+            "text": "8. The paper is the first big step for Counterfactual. We will be discussing our design at Off the Chain in Berlin on July 1 (https://binarydistrict.com/courses/master-workshop-off-the-chain/\u00a0\u2026), and making more announcements soon about our roadmap.",
+            "username": "statechannels",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1006537501731971079": {
+            "id": "1006537501731971079",
+            "text": "7. Second, our design is built to be modular and object-oriented. Dapp developers will not need to \u201croll their own\u201d state channels construction, but rather rely on pre-built and well-audited modular components from the Counterfactual open framework.",
+            "username": "statechannels",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1006537348220444675": {
+            "id": "1006537348220444675",
+            "text": "6. First, in contrast to existing designs, our state channels allow users to run many applications in parallel inside of a single channel, reducing the need for on-chain fees every time a user wants to use a new channelized application.",
+            "username": "statechannels",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1006537235594993666": {
+            "id": "1006537235594993666",
+            "text": "5. The framework described in our paper was designed to address these shortcomings:",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1006537072956538885": {
+            "id": "1006537072956538885",
+            "text": "4. Despite this, they are underutilized. We believe there are two primary reasons: (1) existing designs *still* require too many on-chain operations, and (2) the lack of a standard framework that makes it easy for developers to build them.",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1006536884363907077": {
+            "id": "1006536884363907077",
+            "text": "3. State channels are the foundational technology for useable distributed applications. They can make blockchain operations faster, cheaper, and more private.",
+            "username": "statechannels",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1006536790088601600": {
+            "id": "1006536790088601600",
+            "text": "2. We\u2019ve summarized some of the insights from the paper, and describe our next steps, in this blog post:https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1006536423086977024": {
+            "id": "1006536423086977024",
+            "text": "1. Hello, world! We\u2019ve just published \"Counterfactual: Generalized State Channels\", our paper describing the most advanced state channels design on ethereum https://counterfactual.com/statechannels\u00a0",
+            "username": "statechannels",
+            "num_likes": 270,
+            "num_retweets": 104,
+            "num_replies": 8
+        }
+    },
+    "num_retweets_by_originator": {
+        "BinaryDistrict": 1,
+        "ebryn": 2,
+        "Arjun_Bhuptani": 1,
+        "multipliedio": 1,
+        "peterhaymond": 1,
+        "HashingItOutPod": 1,
+        "sassal0x": 1,
+        "liamihorne": 5,
+        "MITBitcoinClub": 2,
+        "gakonst": 1,
+        "paddykcl": 2,
+        "Istvan_A_Seres": 1,
+        "bitfalls": 1,
+        "econoar": 1,
+        "yahgwai": 1,
+        "L4ventures": 3,
+        "mark_dago": 1,
+        "technocrypto": 2,
+        "veryNR": 1
+    },
+    "users_retweeted": [
+        "liamihorne",
+        "L4ventures",
+        "ebryn",
+        "MITBitcoinClub",
+        "paddykcl",
+        "technocrypto",
+        "BinaryDistrict",
+        "Arjun_Bhuptani",
+        "multipliedio",
+        "peterhaymond",
+        "HashingItOutPod",
+        "sassal0x",
+        "gakonst",
+        "Istvan_A_Seres",
+        "bitfalls",
+        "econoar",
+        "yahgwai",
+        "mark_dago",
+        "veryNR"
+    ]
+}

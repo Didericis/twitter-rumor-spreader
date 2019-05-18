@@ -1,0 +1,66 @@
+{
+    "is_complete": true,
+    "username": "Gary_Rong",
+    "retweeted": {
+        "1119366286318948353": {
+            "id": "1119366286318948353",
+            "text": "Apparently we just managed to speed up Geth fast sync by 57%, reduce disk reads by 44% and writes by 26%. Today was a good day for science. \n\nGeth 1.9.0 will kick ass! #golang #Ethereum",
+            "username": "peter_szilagyi",
+            "num_likes": 1042,
+            "num_retweets": 208,
+            "num_replies": 35
+        },
+        "1037603389503430661": {
+            "id": "1037603389503430661",
+            "text": "The #ethereum Rinkeby testnet is stalled at the moment, following a clique-specific consensus error introduced in 1.8.14. Either roll back to 1.8.13 or wait for hotfix if you want to follow the right chain. We're awaiting another signer to join before the sealing can continue",
+            "username": "mhswende",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1032929916826861568": {
+            "id": "1032929916826861568",
+            "text": "Hey all! I'd really like for the #golang #Ethereum team to have a public presence again after the Foundation moved off of gitter a while back, so we've set up a Discord server for anyone to join. It's an experiment to bring the questions back near the devshttps://discord.gg/nthXNEv\u00a0",
+            "username": "peter_szilagyi",
+            "num_likes": 72,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "1020679615847821312": {
+            "id": "1020679615847821312",
+            "text": "I have a hobby project. I want to obsolete #Facebook. I want a social network that is private by design, decentralized by design, trustless by design. I don't know if I can achieve it, but I'll document my journey. 1st post of @ipsnio: https://medium.com/interplanetary-social-network/a-pinch-of-privacy-tor-from-within-go-fc4b09986120\u00a0\u2026 @torproject #golang",
+            "username": "peter_szilagyi",
+            "num_likes": 238,
+            "num_retweets": 71,
+            "num_replies": 13
+        },
+        "952504781515509761": {
+            "id": "952504781515509761",
+            "text": "When part of your code doesn\u2019t have testspic.twitter.com/M23wnlLb7s",
+            "username": "Lilobase",
+            "num_likes": 18615,
+            "num_retweets": 8098,
+            "num_replies": 139
+        }
+    },
+    "tweeted": {
+        "1066326181023166464": {
+            "id": "1066326181023166464",
+            "text": "Really really nice post!!https://twitter.com/cdetrio/status/1066151076695396353\u00a0\u2026",
+            "username": "Gary_Rong",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "peter_szilagyi": 3,
+        "mhswende": 1,
+        "Lilobase": 1
+    },
+    "users_retweeted": [
+        "peter_szilagyi",
+        "mhswende",
+        "Lilobase"
+    ]
+}

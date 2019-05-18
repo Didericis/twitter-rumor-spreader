@@ -1,0 +1,302 @@
+{
+    "is_complete": true,
+    "username": "AgeManning",
+    "retweeted": {
+        "1125656998492758016": {
+            "id": "1125656998492758016",
+            "text": "There's a new #Linux disto in town! It's called @Microsoft #Windows ! https://devblogs.microsoft.com/commandline/shipping-a-linux-kernel-with-windows/\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 30,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1123406615573458944": {
+            "id": "1123406615573458944",
+            "text": "We're proud to be collaborating with @drakefjustin, @ChiaNetworkInc, @Algorand to produce a cross-chain BLS signature standard. We've been implementing experimental hashing algos in @rustlang, providing feedback to researchers.https://github.com/pairingwg/bls_standard/blob/master/minutes/spec-v1.md\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 43,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1121143693166043138": {
+            "id": "1121143693166043138",
+            "text": "v0.6.0 \u2014 Spring Cleaning \u2014 released!\nhttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.6.0\u00a0\u2026\n\nThank you to all the spec contributors and client teams for the incredible work!",
+            "username": "dannyryan",
+            "num_likes": 255,
+            "num_retweets": 98,
+            "num_replies": 13
+        },
+        "1120603691092971521": {
+            "id": "1120603691092971521",
+            "text": "I need this in my life: a terminal user-interface for tshark https://termshark.io/\u00a0pic.twitter.com/siG3ANFo0w",
+            "username": "x0rz",
+            "num_likes": 1835,
+            "num_retweets": 598,
+            "num_replies": 23
+        },
+        "1116520912495366145": {
+            "id": "1116520912495366145",
+            "text": "Great talk from @paulhauner and @AgeManning on Lighthouse: Towards #Ethereum 2.0 Awesome demo too. #EDCON2019pic.twitter.com/j64DubK5Fk",
+            "username": "seandotau",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1116519318265577472": {
+            "id": "1116519318265577472",
+            "text": ".@AgeManning About the Lighthouse (@sigp_io ETH 2.0 client) architecture, after a great overview presented by @paulhauner #ethereum #eth2 #EDCONpic.twitter.com/BE6BhyI2cs",
+            "username": "protolambda",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1111603722730250241": {
+            "id": "1111603722730250241",
+            "text": "Slides from my talk from yesterday: \"How we compiled @libp2p into WASM and made it run in the browser\"\nhttps://github.com/tomaka/2019-rustlatam-meetup\u00a0\u2026\n\nDemo is here: https://github.com/tomaka/libp2p-rs/tree/wasm-test/misc/wasm-example\u00a0\u2026",
+            "username": "tomaka17",
+            "num_likes": 45,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1112886410225213441": {
+            "id": "1112886410225213441",
+            "text": "Stoked to be working with these guys on #Eth2https://twitter.com/sigp_io/status/1112853101969498112\u00a0\u2026",
+            "username": "sproulM_",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1112853101969498112": {
+            "id": "1112853101969498112",
+            "text": "Checkout the latest #Lighthouse development update! \n\nhttps://lighthouse.sigmaprime.io/update-09.html\u00a0\n\nOur rusty beacon node and multi-threaded validator client can now produce a functional, short-lived, single-client testnet!\n\n#Ethereum #Serenity",
+            "username": "sigp_io",
+            "num_likes": 87,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "1112846587133231104": {
+            "id": "1112846587133231104",
+            "text": "Latest #Lighthouse development update is out!\n\nhttps://lighthouse.sigmaprime.io/update-09.html\u00a0\n\nKudos to @paulhauner, @agemanning and the rest of the @sigp_io crew for all the hard work. Our beacon node is alive! \n\n#Ethereum #Serenity",
+            "username": "ethZed",
+            "num_likes": 29,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1109186276144676864": {
+            "id": "1109186276144676864",
+            "text": "This is a bitter post to announce, but we are discontinuing Mist. You can read the full post here but for your convenience I will try to summarize in a few tweets: https://medium.com/@avsa/sunsetting-mist-da21c8e943d2\u00a0\u2026\n\nThere are mainly two reasons a good and a bad one: ecosystem and security",
+            "username": "avsa",
+            "num_likes": 296,
+            "num_retweets": 105,
+            "num_replies": 38
+        },
+        "1106223638695469058": {
+            "id": "1106223638695469058",
+            "text": "We've published benchmarks from #Lighthouse for 16k, 300k and 4M validators.\n\nThey're testing the functional Ethereum 2.0 state transition components, with parallelization.\n\nRead the results or run them yourself:https://github.com/sigp/serenity-benches\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 95,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "1072497782756438018": {
+            "id": "1072497782756438018",
+            "text": "The Australien Government has made an ad about its new anti encryption law and it's surprisingly honest and informative.pic.twitter.com/P2jrQ8theI",
+            "username": "FluidFluxation",
+            "num_likes": 2037,
+            "num_retweets": 1154,
+            "num_replies": 68
+        },
+        "1067170316768632839": {
+            "id": "1067170316768632839",
+            "text": "Are you interested in\n\n- Rust \n- PoS systems\n- Being a core ETH 2.0 dev\n- Infosec and exploiting software\n\nWe're hiring in a bear market as we built our business on hard work and core services (and modesty, of course). \n\nSydney-based preferred. Apply: https://goo.gl/Z4tXDR\u00a0 ",
+            "username": "paulhauner",
+            "num_likes": 82,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "1060188770790559744": {
+            "id": "1060188770790559744",
+            "text": "New lighthouse update, thanks to @spble!\n\n#Devcon4 was a great chance to communicate with the other parties working on Serenity. It was nice to put some faces to Github handles. Although it was fun, I'm keen to get back to producing software.https://lighthouse.sigmaprime.io/update-03.html\u00a0",
+            "username": "paulhauner",
+            "num_likes": 31,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1054759111710011392": {
+            "id": "1054759111710011392",
+            "text": "We've just released a new blog post describing a smart contract security review we performed on @ethstatus new ENS registrar https://blog.sigmaprime.io/status-ens-review.html\u00a0\u2026 \n\nWe had a lot of pleasure working with the Status team! Full report available here https://github.com/sigp/public-audits/tree/master/status\u00a0\u2026\n#Ethereum #Infosec",
+            "username": "ethZed",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1053965060979060739": {
+            "id": "1053965060979060739",
+            "text": "We've just released a new blog post on security considerations for lighthouse, our eth2.0 client: https://lighthouse.sigmaprime.io/fuzzing-lighthouse.html\u00a0\u2026 #Ethereum #infosec #shasper #fuzzing",
+            "username": "ethZed",
+            "num_likes": 26,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1047076670971240448": {
+            "id": "1047076670971240448",
+            "text": "Have you heard of Sparse Merkle Trees? They are neat cryptographic primitives that enable proof of non-inclusion. Could they replace Patricia trees in Ethereum?https://medium.com/@kelvinfichter/whats-a-sparse-merkle-tree-acda70aeb837\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1048052979465510912": {
+            "id": "1048052979465510912",
+            "text": "We just published an update on our Eth 2.0 progress! Achievements this fortnight:\n\n- BLS aggregate signature verification\n- Block pre-processing & benchmarks\n- SimpleSerialize implementation and draft spec\n\nhttps://lighthouse.sigmaprime.io/update-01.html\u00a0\n@ethZed @AgeManning @_chrisnatoli",
+            "username": "paulhauner",
+            "num_likes": 177,
+            "num_retweets": 44,
+            "num_replies": 14
+        },
+        "1045279151744118785": {
+            "id": "1045279151744118785",
+            "text": "Sigma Prime has two core offerings; our Eth 2.0 client and infosec services. On our core team we have experienced security professionals targeting smart contract security. \n\nHere\u2019s an example of what you can expect when you engage us: https://github.com/sigp/havven-audit/tree/master/2018-06-06_b5a6cdb\u00a0\u2026 (It\u2019s the PDF)",
+            "username": "paulhauner",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1041867634222936064": {
+            "id": "1041867634222936064",
+            "text": "Lighthouse: an open-source Ethereum 2.0 client, written in Rusthttps://lighthouse.sigmaprime.io/update-00.html\u00a0",
+            "username": "VitalikButerin",
+            "num_likes": 1209,
+            "num_retweets": 311,
+            "num_replies": 88
+        }
+    },
+    "tweeted": {
+        "1112626143939588096": {
+            "id": "1112626143939588096",
+            "text": "Better quality video:https://youtu.be/O-sEDbefiok\u00a0",
+            "username": "AgeManning",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1112623979313795072": {
+            "id": "1112623979313795072",
+            "text": "LIghthouse #Ethereum 2.0 beacon node!\nTop: #Lighthouse beacon node: #libp2p ready, simplified spec (8 validators - demonstrative)\nMiddle: Validator Client - Gets duties signs/publishes blocks/attestations\nBottom: Second node - Syncs and gossips via #libp2p to first node.pic.twitter.com/gdok9fym1h",
+            "username": "AgeManning",
+            "num_likes": 84,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1112116284055937025": {
+            "id": "1112116284055937025",
+            "text": "Completing another round of testing and bug squashing today... #Ethereum 2.0, rust beacon node, running on #libp2p demonstration vids inbound!\n#lighthousehttps://twitter.com/ethZed/status/1111499764418240512\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1100247261311877120": {
+            "id": "1100247261311877120",
+            "text": "Lighthouse Eth 2.0 update - Fork choice rules, BLS signatures, mono-repos and updates:https://lighthouse.sigmaprime.io/update-08.html\u00a0",
+            "username": "AgeManning",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093837111495557120": {
+            "id": "1093837111495557120",
+            "text": "Eth 2.0 progressing...https://twitter.com/sigp_io/status/1093750944590778368\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1093713755563642881": {
+            "id": "1093713755563642881",
+            "text": "Thanks @ethZed. @sigp_io literally writing the book on smart contract security :P.https://twitter.com/ethZed/status/1093711795217289216\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1072262420930813960": {
+            "id": "1072262420930813960",
+            "text": "Lighthouse update via tweet storm....https://twitter.com/paulhauner/status/1072023254322176000\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058583080980676608": {
+            "id": "1058583080980676608",
+            "text": "Preliminary work on tracking individuals in their home using a smart phone which detects changes in the individuals home WiFi signal as they move about.\nhttps://arxiv.org/abs/1810.10109\u00a0",
+            "username": "AgeManning",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054040154241941506": {
+            "id": "1054040154241941506",
+            "text": "Latest lighthouse update: https://lighthouse.sigmaprime.io/update-02.html\u00a0 \nGitcoin bounties, rust fuzzing, gossipsub and more! :)",
+            "username": "AgeManning",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1046385135803805696": {
+            "id": "1046385135803805696",
+            "text": "Just stumbled upon this amazing piece of software: https://github.com/kgretzky/evilginx2\u00a0\u2026\nMITM, social-engineering tool, written in go, built-in lets-encrypt. Nice @evilginx",
+            "username": "AgeManning",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1021341470639337472": {
+            "id": "1021341470639337472",
+            "text": "Solidity Security: Comprehensive list of known attack vectors and common anti-patterns:https://blog.sigmaprime.io/solidity-security.html\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1021341103805513729": {
+            "id": "1021341103805513729",
+            "text": "Is there a new coin that is to use Equihash? If implemented wrong, some cheat optimisations to drastically increase mining speedshttps://blog.sigmaprime.io/zcash-theoretically-improving-mining-speeds.html\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "peter_szilagyi": 1,
+        "sigp_io": 3,
+        "dannyryan": 1,
+        "x0rz": 1,
+        "seandotau": 1,
+        "protolambda": 1,
+        "tomaka17": 1,
+        "sproulM_": 1,
+        "ethZed": 4,
+        "avsa": 1,
+        "FluidFluxation": 1,
+        "paulhauner": 4,
+        "VitalikButerin": 1
+    },
+    "users_retweeted": [
+        "ethZed",
+        "paulhauner",
+        "sigp_io",
+        "peter_szilagyi",
+        "dannyryan",
+        "x0rz",
+        "seandotau",
+        "protolambda",
+        "tomaka17",
+        "sproulM_",
+        "avsa",
+        "FluidFluxation",
+        "VitalikButerin"
+    ]
+}

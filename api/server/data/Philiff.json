@@ -1,0 +1,3676 @@
+{
+    "is_complete": true,
+    "username": "Philiff",
+    "retweeted": {
+        "1125767548178501634": {
+            "id": "1125767548178501634",
+            "text": "Prysm Phase 0 Testnet is here! @prylabshttps://medium.com/prysmatic-labs/ethereum-2-0-phase-0-testnet-release-1e9e682db910\u00a0\u2026",
+            "username": "preston_vanloon",
+            "num_likes": 401,
+            "num_retweets": 122,
+            "num_replies": 23
+        },
+        "1125936426745393155": {
+            "id": "1125936426745393155",
+            "text": "\"You're being mean.\"\n\nLook, if eTrade got cut off from the grown up financial world for a week, and said \"We're leaving trades up if you want to make any but are unsure which of our customers' accounts are currently in the hands of the enemy\" I would say \"Yep, you're done.\"",
+            "username": "patio11",
+            "num_likes": 32,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1125940164994289664": {
+            "id": "1125940164994289664",
+            "text": "2FA/TOTP is a very lame algorithm. The code is just SHA1(secret + floor(timestamp / 30 seconds)), shortened to 6 digits. \n\nThe secret has to be stored by the client app and the server. Server checks if the code is correct by calculating it on the fly.",
+            "username": "LocalEthereum",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1125700754382184448": {
+            "id": "1125700754382184448",
+            "text": "In general: don't buy apple products ..https://twitter.com/monoxyd/status/1125697543319498752\u00a0\u2026",
+            "username": "mr_ligi",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1122979707874574336": {
+            "id": "1122979707874574336",
+            "text": "Mini-thread on http://DEX.AG\u00a0's new features (with demo gifs!):\n\n1/ Instant buys! \n\nClick the \"Buy Now\" link on price quotes from @RadarRelay, @UniswapExchange, @KyberNetwork, and @Bancor to pop up a MetaMask window and execute your trade on the spot (\"Sell Now,\" too)pic.twitter.com/TfNy5F8dV0",
+            "username": "dex_ag",
+            "num_likes": 39,
+            "num_retweets": 17,
+            "num_replies": 6
+        },
+        "1123126001171517440": {
+            "id": "1123126001171517440",
+            "text": "What should be developed on Ethereum?",
+            "username": "elonmusk",
+            "num_likes": 6178,
+            "num_retweets": 1108,
+            "num_replies": 1178
+        },
+        "1122907399030022148": {
+            "id": "1122907399030022148",
+            "text": "#DTok a pay-as-you-go streaming platform won all possible prizes at #ethcapetown @ETHGlobal \n WINNER ETHCapeTown @ETHCapeTown\n WINNER ENS @ensdomains\n WINNER NuCypher @NuCypher\n WINNER MakerDAO @MakerDAO\n WINNER Raiden @raiden_trust\n@LivepeerOrg #BurnerWalletpic.twitter.com/eLeuFTdPdI",
+            "username": "StakeCapital",
+            "num_likes": 33,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1122941036840534017": {
+            "id": "1122941036840534017",
+            "text": "BIG update to @dex_ag: 1-click trade.\n\nBuy and sell tokens by tapping into liquidity of @RadarRelay, @UniswapExchange, @KyberNetwork, @Bancor straight from the app. Simpler than ever and at the best price.\n\nTry now http://dex.ag\u00a0",
+            "username": "DestinerX",
+            "num_likes": 48,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1123033196642201600": {
+            "id": "1123033196642201600",
+            "text": "Ethereum",
+            "username": "elonmusk",
+            "num_likes": 111142,
+            "num_retweets": 9462,
+            "num_replies": 4885
+        },
+        "1121419329084375043": {
+            "id": "1121419329084375043",
+            "text": "\"No one's using Ethereum\" \n\n-Active addresses: 250k+\n-Network usage: 90%\n-Maker: 21k+ DAI holders, 17k+ CDPs, 2mil ETH locked\n-Uniswap: 90k+ swaps, 305 exchanges\n-Dharma: 2100+ loans issued\n-ENS: 275k+ total registrations\n-Gods Unchained: ~4mil cards created, 780k packs bought",
+            "username": "sassal0x",
+            "num_likes": 694,
+            "num_retweets": 155,
+            "num_replies": 31
+        },
+        "1116807450613690371": {
+            "id": "1116807450613690371",
+            "text": "\u91cd\u6e29\u65e7\u68a6\n\n\u91cd\u6e29 ch\u00f3ngw\u0113n: (again+to warm up) to revive\n\u65e7 ji\u00f9: old\n\u68a6 m\u00e8ng: dream\n\nto revive an old dream\nto relive (positive) past experiences\n#china #chinese #learnchinese #chengyu #languagelearning #idioms #\u6c49\u8bed",
+            "username": "chinaschengyu",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1116155236433956865": {
+            "id": "1116155236433956865",
+            "text": "Just published \"Flash Boys 2.0: Frontrunning, Transaction Reordering, and\nConsensus Instability in Decentralized Exchanges\" - https://arxiv.org/abs/1904.05234\u00a0\n\nKey takeaways and some pretty graphs below! ",
+            "username": "phildaian",
+            "num_likes": 462,
+            "num_retweets": 197,
+            "num_replies": 29
+        },
+        "1116769137265524736": {
+            "id": "1116769137265524736",
+            "text": "ZEIP-31 is a solution to improve trading experience, token distribution, and governance for @0xProject.\n\nHere's an overview of the proposal:",
+            "username": "DestinerX",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1116068622055739394": {
+            "id": "1116068622055739394",
+            "text": "\"The internet is the best school ever created. The best peers are on the Internet. The best books are on the Internet. The best teachers are on the Internet. The tools for learning are abundant. It\u2019s the desire to learn that\u2019s scarce.\" - @naval",
+            "username": "NavalBot",
+            "num_likes": 1561,
+            "num_retweets": 368,
+            "num_replies": 18
+        },
+        "1116131311960219648": {
+            "id": "1116131311960219648",
+            "text": "Welcome to #EDCON everyone! Behold, the people reinventing the Internet  #ethereum @Linktimetechpic.twitter.com/FuqhnOgcVp",
+            "username": "ensdomains",
+            "num_likes": 45,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1115920338343288833": {
+            "id": "1115920338343288833",
+            "text": "Product Update: You can now add funds to your smart contract based Nuo account directly with Metamask or a Web3 wallet in a few clicks.pic.twitter.com/h8FMEe6Ac4",
+            "username": "getnuo",
+            "num_likes": 24,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1115964692802019328": {
+            "id": "1115964692802019328",
+            "text": "Scientists have obtained the first image of a black hole, using Event Horizon Telescope observations of the center of the galaxy M87. The image shows a bright ring formed as light bends in the intense gravity around a black hole that is 6.5 billion times more massive than the Sunpic.twitter.com/AymXilKhKe",
+            "username": "ehtelescope",
+            "num_likes": 129780,
+            "num_retweets": 66828,
+            "num_replies": 2024
+        },
+        "1114207014656196608": {
+            "id": "1114207014656196608",
+            "text": "eth 2.0 validators be likepic.twitter.com/iIRvXBqsnx",
+            "username": "0xzak",
+            "num_likes": 26,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1113977924947009536": {
+            "id": "1113977924947009536",
+            "text": "It\u2019s there for when we start competing with Uber/Lyft & people allow their car to earn money for them as part of the Tesla shared autonomy fleet. In case someone messes up your car, you can check the video.",
+            "username": "elonmusk",
+            "num_likes": 28410,
+            "num_retweets": 1897,
+            "num_replies": 602
+        },
+        "1113911146522861570": {
+            "id": "1113911146522861570",
+            "text": "#ETH price change 20% in a day\n\n@UniswapExchange Liquidity Provider:pic.twitter.com/RB6EuQEqzE",
+            "username": "smykjain",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1111393333304348679": {
+            "id": "1111393333304348679",
+            "text": "\u6625\u6696\u82b1\u5f00\n\n\u6625 ch\u016bn: spring\n\u6696 nu\u01cen: warm\n\u82b1 hu\u0101: flower\n\u5f00 k\u0101i: to open\n\nthe spring (weather) is warm and the flowers are in bloom\n(said about a beautiful spring scene)\n#china #chinese #learnchinese #chengyu #languagelearning #idioms #\u6c49\u8bed",
+            "username": "chinaschengyu",
+            "num_likes": 25,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1113294832116523008": {
+            "id": "1113294832116523008",
+            "text": "Zoom in on Chongqing, China at night.pic.twitter.com/7Ec0cXEH46",
+            "username": "CarlZha",
+            "num_likes": 86,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1113250028892487680": {
+            "id": "1113250028892487680",
+            "text": "$400 million is ~2.3% of Ethereum's current market cap \n\nIn the next 2-3 years ETH will continue to be used in various ways within the Ethereum digital nation:\n-ETH locked in DeFi will grow\n-Ethereans will be staking\n-Paying state rent\n-Paying more gas fees\n-Fees may be burnt https://twitter.com/scott_lew_is/status/1113247531767619586\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 90,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1112668638711087104": {
+            "id": "1112668638711087104",
+            "text": "The world would be a much better place if people evaluated things they saw on the internet as critically as they do on April Fools Day before accepting them as truth. \n\n#AprilFools",
+            "username": "izzydoesizzy",
+            "num_likes": 19,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1112603032703913985": {
+            "id": "1112603032703913985",
+            "text": "Weekend project: xDai Chess with state channels. Each move updates the game's state hash, which is signed by both players. Burner wallets are used to auto-sign state channel updates. Each player deposits xDai - the winner takes it all.pic.twitter.com/fU1b4XHEVg",
+            "username": "mikery",
+            "num_likes": 264,
+            "num_retweets": 58,
+            "num_replies": 19
+        },
+        "1110630717908615168": {
+            "id": "1110630717908615168",
+            "text": "I think @GandalfTheBr0wn is going to do huge things in this space.\n\nHe used to design satellite software and now he is working on smart contracts.\n\nHe is one of the smartest and kindest people I have met during my time in San Francisco.\n\nFollow him now https://medium.com/@varunvruddhula/unplugging-from-the-fiat-matrix-b5a194e9442d\u00a0\u2026",
+            "username": "ricburton",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1109741811310837760": {
+            "id": "1109741811310837760",
+            "text": "Wow! China Airport face recognition systems to help you check your flight status and find the way to your gate. Note I did not input anything, it accurately identified my full flight information from my face!pic.twitter.com/5ASdrwA7wj",
+            "username": "mbrennanchina",
+            "num_likes": 30657,
+            "num_retweets": 17259,
+            "num_replies": 2148
+        },
+        "1109810495136169984": {
+            "id": "1109810495136169984",
+            "text": "You should walk from/to the hotel and the venue.",
+            "username": "VitalikButerin",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "1108966183619846144": {
+            "id": "1108966183619846144",
+            "text": "TPS(Transactions Per Second) and TTF(Time To Finality) are completely different.",
+            "username": "veryNR",
+            "num_likes": 46,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1108108123380678657": {
+            "id": "1108108123380678657",
+            "text": "Stability fee interest rate swaps are alive!",
+            "username": "max_bronstein",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1107248072919265280": {
+            "id": "1107248072919265280",
+            "text": "Very great article about P&L analysis of Uniswap @UniswapExchange Market Making by @MohamedFFouda. \nhttps://www.tokendaily.co/blog/pnl-analysis-of-uniswap-market-making\u00a0\u2026pic.twitter.com/6qsgTG3q9L",
+            "username": "bneiluj",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1104924904586014725": {
+            "id": "1104924904586014725",
+            "text": "(Responding to someone's idea)\n\nI think that\u2019s survivorship bias. \n\n(Sees how impressed everyone is, takes it one step further)\n\nIn fact, I don\u2019t think we can learn anything from history at all.",
+            "username": "backus",
+            "num_likes": 130,
+            "num_retweets": 12,
+            "num_replies": 5
+        },
+        "1103959482424590337": {
+            "id": "1103959482424590337",
+            "text": "We already acknowledged that and start building an Ethereum Financial Scanner. Stay tuned @InstaDApppic.twitter.com/Q2PL8f0Ihk",
+            "username": "sowmay_jain",
+            "num_likes": 94,
+            "num_retweets": 20,
+            "num_replies": 12
+        },
+        "1103383993322332160": {
+            "id": "1103383993322332160",
+            "text": "Younger generations spend more time in the digital world than the physical (already), and I fear that we\u2019re losing the courage to spontaneously engage with others (it\u2019s a muscle), which is a shame as such interactions add joy, color, and belonging to life.",
+            "username": "cburniske",
+            "num_likes": 161,
+            "num_retweets": 16,
+            "num_replies": 12
+        },
+        "1102941397173354497": {
+            "id": "1102941397173354497",
+            "text": "In the 18th century, German immigrants in Pennsylvania fried up sweet, potato-based doughnuts the day before Ash Wednesday to help get rid of sugar and fat sitting around the house.https://trib.al/gl6fwzz\u00a0",
+            "username": "atlasobscura",
+            "num_likes": 247,
+            "num_retweets": 71,
+            "num_replies": 10
+        },
+        "1102138670390349824": {
+            "id": "1102138670390349824",
+            "text": "DEXs are still mostly illiquid. As there's an alternative (CEXs) which often has better rates, users dismiss, potential trading volume decreases, which in turn detracts market makers.\n\nLiquidity on DEXs *is* a problem. Let's see how different projects try to tackle it.",
+            "username": "DestinerX",
+            "num_likes": 35,
+            "num_retweets": 11,
+            "num_replies": 6
+        },
+        "1102192084365254657": {
+            "id": "1102192084365254657",
+            "text": "From Dec.1, 2018 to Feb.26 this year, Shanghai saw just 174 hours of sunshine and 46 rainy days. Other cities in southern China also experienced record-low sunshine hourspic.twitter.com/abvwqt6Xte",
+            "username": "SixthTone",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1099181604201582593": {
+            "id": "1099181604201582593",
+            "text": "internet \u2192 websites ::  crypto \u2192 markets",
+            "username": "js_horne",
+            "num_likes": 78,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "1093910889844166657": {
+            "id": "1093910889844166657",
+            "text": "An Ethereum address is like a bank account you can take to any banking interface\n\nPrefer to open up a loan on @bloqboard rather than @zerion_io? Go for it\n\nEvery interface competes for you. Each app has equal access to the same financial protocols\n\nNo one can lock you in",
+            "username": "RyanSAdams",
+            "num_likes": 39,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1088223417365454848": {
+            "id": "1088223417365454848",
+            "text": "I like \"how many giraffes?\". humans never asked \"how many giraffes are there\" when the answer was zero, so this chatbot thinks the answer to \"how many giraffes\" is never zero.\nhttp://demo.visualdialog.org\u00a0pic.twitter.com/8jqRwMhGYp",
+            "username": "JanelleCShane",
+            "num_likes": 1268,
+            "num_retweets": 428,
+            "num_replies": 19
+        },
+        "1088664816686895104": {
+            "id": "1088664816686895104",
+            "text": "There should be a Twitter bot which makes a market on @AugurProject /@veil everytime someone does a \u2018prediction\u2019 tweet \n\nWho wants to build it with me?",
+            "username": "JRossTreacher",
+            "num_likes": 30,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "1088618430205353984": {
+            "id": "1088618430205353984",
+            "text": "There is a macro factor that may contribute to various assets bloom (including US real estate and crypto assets), which is underestimated by many westerners: \n\nChina\u2019s tax system overhaul and implementation of CRS \n\nthread pic.twitter.com/0h3le9cW9C",
+            "username": "DoveyWan",
+            "num_likes": 91,
+            "num_retweets": 34,
+            "num_replies": 7
+        },
+        "1088376437034217472": {
+            "id": "1088376437034217472",
+            "text": "Perspective silences the self.https://twitter.com/danielgross/status/1060336226660704256\u00a0\u2026",
+            "username": "naval",
+            "num_likes": 1055,
+            "num_retweets": 201,
+            "num_replies": 26
+        },
+        "1088147302374690816": {
+            "id": "1088147302374690816",
+            "text": "It\u2019s almost time to hack and to save your soles at ETHDenver. Yes, you &you, the future dev/socks-model \nhttp://Radi.cards\u00a0 & @portis_io work together to maximize the fun of web3 onboarding experience & make sure even your granny can enjoy the benefit of decentralization.pic.twitter.com/tt48tsVDlx",
+            "username": "lililashka",
+            "num_likes": 22,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1087855341226942465": {
+            "id": "1087855341226942465",
+            "text": "And there you have it folks. Open-source \"many eyes have looked at it for years so it must be secure\" crypto code. AES256-CBC but supplied with IVs half of which are zeroes, and the other generated by a toy RNG. That's just from a 30min review. #7zip #7z #opensource #FOSS #crypto",
+            "username": "3lbios",
+            "num_likes": 582,
+            "num_retweets": 182,
+            "num_replies": 12
+        },
+        "1087734338219843585": {
+            "id": "1087734338219843585",
+            "text": "Now your 3Box profile is #verified  @Philiff https://twitter.com/Philiff/status/1087723564961271809\u00a0\u2026",
+            "username": "3boxdb",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1085831444599980032": {
+            "id": "1085831444599980032",
+            "text": "I just published CryptoBotWars or How to Build Shitty Demos and Why https://link.medium.com/58hGKEY0xT\u00a0\n#Ethereum @raiden_network #gamedev @WonderWorkshop",
+            "username": "lorecirstea",
+            "num_likes": 22,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1084974095769321472": {
+            "id": "1084974095769321472",
+            "text": "Invasion of western drink in Shanghai , c.1940s.\nBy Harrison Forman, UWM Library.pic.twitter.com/4zQwdAzitV",
+            "username": "tongbingxue",
+            "num_likes": 204,
+            "num_retweets": 86,
+            "num_replies": 3
+        },
+        "1084424890135052288": {
+            "id": "1084424890135052288",
+            "text": "We are looking for a few dapps who are keen to add @WalletConnect support for our launch.\n\nAre you working on one? Would you be interested in adding support?",
+            "username": "Balance_io",
+            "num_likes": 35,
+            "num_retweets": 11,
+            "num_replies": 9
+        },
+        "1070954168372944897": {
+            "id": "1070954168372944897",
+            "text": "We are actually building a Crypto Xmas DApp with the @eth2io guys, to send NFT christmas cards (&ETH) to our friends. And you can send them via link, so the receiver doesn't need a wallet. #mumtest ->https://cryptoxmas.xyz/\u00a0",
+            "username": "nadannlos",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1067111872225136640": {
+            "id": "1067111872225136640",
+            "text": "An NPM package with 2,000,000 weekly downloads had malicious code injected into it. No one knows what the malicious code does yet.https://github.com/dominictarr/event-stream/issues/116\u00a0\u2026",
+            "username": "garybernhardt",
+            "num_likes": 3189,
+            "num_retweets": 2733,
+            "num_replies": 69
+        },
+        "1066009237883576320": {
+            "id": "1066009237883576320",
+            "text": "I implemented the Mastermind board game using zk-SNARKs and it works in the browser. Before I publish a a long-form post about it, here's the code:https://github.com/weijiekoh/zkmm\u00a0",
+            "username": "catallacticised",
+            "num_likes": 176,
+            "num_retweets": 49,
+            "num_replies": 1
+        },
+        "1062479710427394048": {
+            "id": "1062479710427394048",
+            "text": "***  ATTENTION  ***\n\nWe\u2019ve extended #Blockathon applications to Tuesday 20th Nov.\n\n@tomterado got your back #cryptolizard \n\nhttp://bitfwd.com/sydney-blockat\u00a0\u2026",
+            "username": "bitfwdxyz",
+            "num_likes": 7,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1058339720055439360": {
+            "id": "1058339720055439360",
+            "text": "Alejandro Machado and Eduardo Gomez take the stage to talk about cryptocurrency affects their country: Venezuela. ...pic.twitter.com/iqQBRGJOH2",
+            "username": "zooko",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1058342702000074752": {
+            "id": "1058342702000074752",
+            "text": "In Venezuela \"money is the killer usecase of blockchain\" @Codiox on the terrible unstable economic  situation in Venezuela and how localbitcoin helped him survive and reduce transfer costs of 40 %pic.twitter.com/r9v475rPtK",
+            "username": "Gustav_tech",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1056819958548705280": {
+            "id": "1056819958548705280",
+            "text": "Ethereum community tours are starting today!!! \nAbout to hit: Cryptoanarchists: https://kickback.events/event/0xb999307fee8abcb9d188ce51434e4ddf8a8606bd\u00a0\u2026\n\nLater a bit a Czech history and political decentralization: \nhttps://www.meetup.com/Prague-Ethereum-Meetup/events/255885056/\u00a0\u2026\n\nAaaan Prague ghosts of the Old town: https://www.meetup.com/Prague-Ethereum-Meetup/events/255888176/\u00a0\u2026\n\nSign up! \n#devconpic.twitter.com/IVQXLL5sUS",
+            "username": "JosefJelacic",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056581893125226496": {
+            "id": "1056581893125226496",
+            "text": "The missing word was \"my\". \n\n\"My life's good.\"",
+            "username": "leashless",
+            "num_likes": 21,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1055877578685206528": {
+            "id": "1055877578685206528",
+            "text": "We'd like your help choosing which stablecoin to list:https://medium.com/compound-finance/community-stablecoin-vote-6ae4fac38148\u00a0\u2026",
+            "username": "compoundfinance",
+            "num_likes": 57,
+            "num_retweets": 22,
+            "num_replies": 17
+        },
+        "1056181428222918656": {
+            "id": "1056181428222918656",
+            "text": "Sinners will be forever banished to the tangle.",
+            "username": "ChurchOfConsens",
+            "num_likes": 64,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1055115603999113219": {
+            "id": "1055115603999113219",
+            "text": "Applications to @ethsingapore are OPEN! Come #BUIDL with the ethereum community from December 7-9 https://ethsingapore.co/\u00a0",
+            "username": "ethsingapore",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1054984950192181248": {
+            "id": "1054984950192181248",
+            "text": "Asymmetric opportunities:\n\nInvest in startups\nStart a company\nCreate a book, podcast, video\nCreate a (software) product\nGo on many first dates\nGo to a cocktail party\nRead a Lindy book\nMove to a big city\nBuy Bitcoin\nTweet",
+            "username": "naval",
+            "num_likes": 4339,
+            "num_retweets": 1098,
+            "num_replies": 95
+        },
+        "1054761442887548928": {
+            "id": "1054761442887548928",
+            "text": "It's here! It's here! Sign up for UX Awards at @EFDevcon - top DApps present on mainstage on the last day  http://bit.ly/devcon4-uxawards\u00a0\u2026pic.twitter.com/UFVfQFjrjQ",
+            "username": "itsamyjung",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1054456095622737922": {
+            "id": "1054456095622737922",
+            "text": "Get a sneak peak of my picks of restaurants for everyone (from vegan to keto people), cafes for coffee or just a good wifi & of course pubs for great beers! #Prague #Devcon4 #PragueBlockchainWeekhttps://drive.google.com/open?id=1kuXwf3nWF06App9evM87BTzPGA9U-6Rz&usp=sharing\u00a0\u2026",
+            "username": "JosefJelacic",
+            "num_likes": 107,
+            "num_retweets": 21,
+            "num_replies": 8
+        },
+        "1054252197142134784": {
+            "id": "1054252197142134784",
+            "text": "You can now connect your favourite wallet to localethereum instead of using a username and password. Sign a message with your wallet to log in, and funds will go directly to and from your wallet.https://blog.localethereum.com/localethereum-integrates-with-wallets/\u00a0\u2026",
+            "username": "LocalEthereum",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1053104234558763009": {
+            "id": "1053104234558763009",
+            "text": "Are you a Dapp developer? Do you use web3.js?? Check out @WalletConnect\u2019s last update on walletconnect-web3-providerhttps://www.npmjs.com/package/walletconnect-web3-provider\u00a0\u2026",
+            "username": "WalletConnect",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1047900875338014722": {
+            "id": "1047900875338014722",
+            "text": "I don't necessarily agree with everything Peter Thiel does (e.g. supporting Trump) but this interpretation by Erik is goldhttps://twitter.com/eriktorenberg/status/1003832330828443648\u00a0\u2026",
+            "username": "licuende",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1003832330828443648": {
+            "id": "1003832330828443648",
+            "text": "1/ Below is my perception/(limited) understanding of Peter Thiel's worldview:\n\nPeople don\u2019t understand how important economic growth is.\n\nIt\u2019s the only thing sustaining the planet. Without it, we go into malthusian war.https://twitter.com/then_there_was/status/991191031512104960\u00a0\u2026",
+            "username": "eriktorenberg",
+            "num_likes": 1734,
+            "num_retweets": 501,
+            "num_replies": 28
+        },
+        "1047483675766657026": {
+            "id": "1047483675766657026",
+            "text": "Just published \"#devcon4 social events planning guide\" https://medium.com/wearekickback/devcon4-social-event-planning-guide-bfb1cdbb6e39\u00a0\u2026 cc @EFDevcon @JosefJelacic @ensdomains @MakerDAO @ETHBerlin",
+            "username": "wearekickback",
+            "num_likes": 60,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "1047094020407734273": {
+            "id": "1047094020407734273",
+            "text": "The future of #SmartContract #Security shouldn't be in the hands of a few, but in those of the #Ethereum community. That's why every token holder has a say in Panvala. \nHelp us mark smart contracts that are safer: https://panvala.com\u00a0pic.twitter.com/laHnxE8fC9",
+            "username": "PanvalaMark",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1046905514779598850": {
+            "id": "1046905514779598850",
+            "text": "The Gods Unchained tournament pass @GodsUnchained is now on Radar Relay. They are a trading card game on the Ethereum blockchain that uses NFT's to bring real ownership to in-game assets. https://app.radarrelay.com/PASS/WETH\u00a0pic.twitter.com/cqdZEsHUKH",
+            "username": "RadarRelay",
+            "num_likes": 69,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "1045798705448845312": {
+            "id": "1045798705448845312",
+            "text": "I am very excited by how universal logins and meta-transactions are evolving. \n\nIt\u2019s not going to be the best signup/login process in ethereum, it\u2019s going to be the best signup form anywhere.",
+            "username": "avsa",
+            "num_likes": 120,
+            "num_retweets": 27,
+            "num_replies": 6
+        },
+        "1045337222604558337": {
+            "id": "1045337222604558337",
+            "text": "#lezyweb who have already announced events around @EFDevcon 4? Please add to this comment!",
+            "username": "makoto_inoue",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1045276885729468416": {
+            "id": "1045276885729468416",
+            "text": "We are delighted to announce a strategic partnership with @circlepay!\nWith imToken 2.0, you can:\n-Store USDC\n-Trade with USDC as the base trading currency (coming soon)\nMore exciting collaborations? Let us know what you think, the sky is the limit https://medium.com/imtoken/announcement-strategic-partnership-between-imtoken-and-circle-5c90b35671d8\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 31,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1045218254027935744": {
+            "id": "1045218254027935744",
+            "text": "Part one of series outlining how can one implement Meta Transactions and Universal Idshttps://medium.com/limechain/part-one-second-layer-solutions-a-journey-into-meta-transactions-counterfactual-instantiation-43ddb8228795\u00a0\u2026",
+            "username": "GSpasov",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1045248900804866054": {
+            "id": "1045248900804866054",
+            "text": "Join #OpenSourceWeb3Design #7 tomorrow 28th - 8PM CEST (2PM EDT -- 11AM PST -- 6PM UTC -- 02AM SGT)!  A discussion on @lyricalpolymath 's All Aboard design, @tenzorum's tenz-id + more #Design in #ethereumhttps://www.youtube.com/channel/UCwYWU3t7lsymZogruod6asQ/\u00a0\u2026",
+            "username": "pet3rpan_",
+            "num_likes": 11,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1045006548370694144": {
+            "id": "1045006548370694144",
+            "text": "DESIGNERS & DAPPS: We're running a dApp UX Audit @EFDevcon! If you are interested in participating, PLEASE sign up! This is an opportunity to show the world Design is not just a \"pretty\" thing http://bit.ly/Devcon4-dappaudit-signup\u00a0\u2026",
+            "username": "itsamyjung",
+            "num_likes": 26,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1044935206300528641": {
+            "id": "1044935206300528641",
+            "text": "NEWS: In a milestone for the entire #crypto industry, Circle and CENTRE introduce USD Coin (#USDC), a fiat-backed stablecoin, with 30+ supporting companies (1/2)https://blog.circle.com/2018/09/26/introducing-usd-coin/\u00a0\u2026",
+            "username": "circlepay",
+            "num_likes": 634,
+            "num_retweets": 280,
+            "num_replies": 72
+        },
+        "1044458645444943873": {
+            "id": "1044458645444943873",
+            "text": "It\u2019s official - we\u2019re building our player marketplace on the new 0x V2! Huge congratulations go out to the team over at @0xProject for this recent release. We're thankful for your significant contributions in building a tokenized world where all value can flow freely.",
+            "username": "GodsUnchained",
+            "num_likes": 168,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "1018143112567361536": {
+            "id": "1018143112567361536",
+            "text": "There's a big difference between knowing the name of something and knowing something.pic.twitter.com/pE03oiEGkP",
+            "username": "ProfFeynman",
+            "num_likes": 5294,
+            "num_retweets": 2082,
+            "num_replies": 48
+        },
+        "1044255929582194689": {
+            "id": "1044255929582194689",
+            "text": "Just published my homepage https://www.gustav.tech\u00a0 including posts on software development, using blockchain for public sector services, complementary currencies and the care economy! Next post will cover liquid democracy :)",
+            "username": "Gustav_tech",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1044284932355383296": {
+            "id": "1044284932355383296",
+            "text": "0x protocol v2.0 is live!https://blog.0xproject.com/0x-protocol-v2-0-is-live-183aac180149\u00a0\u2026",
+            "username": "0xProject",
+            "num_likes": 1488,
+            "num_retweets": 502,
+            "num_replies": 34
+        },
+        "1044047638260322304": {
+            "id": "1044047638260322304",
+            "text": "I just published \u201cTwelve reasons I\u2019m bullish about Ethereum today\u201dhttps://medium.com/p/twelve-reasons-im-bullish-about-ethereum-today-809a234312b2\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 374,
+            "num_retweets": 133,
+            "num_replies": 15
+        },
+        "1042841114762465285": {
+            "id": "1042841114762465285",
+            "text": " I Just published the demo & article for \n\"All Aboard - an Alliance for Mass Adoption of the Blockchain\" \n\nthat presents a UX Flow, a technical architecture and a Strategy to on-board the next wave of users (no-coiners) onto the #Ethereum #Blockchain https://medium.com/@lyricalpolymath/all-aboard-alliance-for-mass-adoption-of-the-blockchain-209bde271778\u00a0\u2026",
+            "username": "lyricalpolymath",
+            "num_likes": 121,
+            "num_retweets": 40,
+            "num_replies": 11
+        },
+        "1042432624600375296": {
+            "id": "1042432624600375296",
+            "text": "Filled my first loan request on the @DharmaProtocol using @bloqboard to connect to a borrower and funds in my @metamask_io wallet. The future of finance is #decentralized. #DeFIpic.twitter.com/BAMur7yPbN",
+            "username": "mrchrisdeluca",
+            "num_likes": 47,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "1040658785084203008": {
+            "id": "1040658785084203008",
+            "text": "If you want to get involved as a volunteer organizer for the Council of Prague, the first step is joining the Council Volunteers group https://ethereum-magicians.org/groups/council-volunteers\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1040452601970606080": {
+            "id": "1040452601970606080",
+            "text": "Register for #TechXLR8 #ConsensusSingapore so that you can see @beenhero, Founder & CEO of imToken: http://ow.ly/vTel30lCD9C\u00a0pic.twitter.com/iB1IepL1WO",
+            "username": "coindesk",
+            "num_likes": 31,
+            "num_retweets": 13,
+            "num_replies": 7
+        },
+        "1040229702735224832": {
+            "id": "1040229702735224832",
+            "text": "The Dether beta app is now open in 20 new countries!  From Krakow  to Kumasi  trade crypto for cash with sellers around you on the Dether map! See the full list of new countries here: https://goo.gl/Gdw1xL\u00a0 #detherization #crypto #massadoption",
+            "username": "dether_io",
+            "num_likes": 27,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1039991379169083393": {
+            "id": "1039991379169083393",
+            "text": "I just published \u201cNervos Development Roadmap\u201dhttps://medium.com/p/nervos-development-roadmap-9f8106f2bd40\u00a0\u2026",
+            "username": "NervosNetwork",
+            "num_likes": 24,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1039816257703370753": {
+            "id": "1039816257703370753",
+            "text": "Yongkhang from imToken will be sharing more about imToken 2.0 at the @CryptoDialogue this weekend (15-16th September) along with partners like @KyberNetwork, we are also a proud sponsor of the event. Do come and say hi to us!\nMore details: https://www.vietnamcryptodialogue.com/\u00a0https://twitter.com/CryptoDialogue/status/1037911395948355584\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1039585514553335809": {
+            "id": "1039585514553335809",
+            "text": "Happy 10th anniversary of the collapse of Lehman Brothers and the start of the 2008 financial crisis.pic.twitter.com/9RdNyj6dJG",
+            "username": "el33th4xor",
+            "num_likes": 1636,
+            "num_retweets": 562,
+            "num_replies": 71
+        },
+        "1039885485286543360": {
+            "id": "1039885485286543360",
+            "text": "Latest episode has us chatting with @Mitch_Kosowski and @Andrew_Cravenho of @poanetwork about @ethprize bounties, #ETHreport and how community initiatives are kicked off and funded  cc: @fredhrson @robbiebent1https://www.zeroknowledge.fm/42\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 20,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1039557301127049216": {
+            "id": "1039557301127049216",
+            "text": "Most of them are sponsoring t-shirts. Not many @ETHBerlin t-shirts left. Here is our distribution vs. US standard. Hackers are thin!pic.twitter.com/577PhHVmqN",
+            "username": "AlexBoerger",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1039697887054053376": {
+            "id": "1039697887054053376",
+            "text": "Me: obviously, let's be realistic, the entire world wealth is not going to turn into cryptocurrencies...\n\nMedia: VITALIK IS A PESSIMIST!!!!!1!!1! \n\nGuys, if you spin things this way you're *incentivizing* people to act more like @justinsuntron",
+            "username": "VitalikButerin",
+            "num_likes": 2430,
+            "num_retweets": 290,
+            "num_replies": 270
+        },
+        "1039220634767831051": {
+            "id": "1039220634767831051",
+            "text": "https://alternativlos.org/42/\u00a0 Alternativlos 42 ist drau\u00dfen. Mit Joscha Bach \u00fcber life, the universe and everything. Setzt euch stabil hin und lasst Joscha euer Hirn kr\u00e4ftig durchpusten, zu Themen wie Computational Universe, Bewusstsein, 8-dimensionale komplexe Zahlen uvm.",
+            "username": "Alternativlos",
+            "num_likes": 299,
+            "num_retweets": 101,
+            "num_replies": 43
+        },
+        "1039452549781303296": {
+            "id": "1039452549781303296",
+            "text": "Like if it's was a real surprised!  UIDAI\u2019s Aadhaar Software Hacked, ID Database Compromised, Experts Confirm. Whatever is centralised gets hacked one day, for sure. https://www.huffingtonpost.in/2018/09/11/uidai-s-aadhaar-software-hacked-id-database-compromised-experts-confirm_a_23522472/\u00a0\u2026\n#IDboxpic.twitter.com/zHq8wXBZIh",
+            "username": "bneiluj",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1039104314827067393": {
+            "id": "1039104314827067393",
+            "text": "Seems that Meta Transactions like in Universal Logins is a new hot topic. Lots of talks about it at @BerBlockWeek And a lot of teams built solutions on meta txs (including ours ) at @ETHBerlin. Excited about the future of Ethereum UX.pic.twitter.com/jngdPoPQRy",
+            "username": "dobrokhvalov",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1039099048207310848": {
+            "id": "1039099048207310848",
+            "text": "Thank you @1kxnetwork @Philiff @imTokenOfficial for organizing and @NervosNetwork @janhxie @originprotocol @joshfraser @fekunze @cosmos for sharing the different culture and technical climates impacting blockchain dev. #berlinblockchainweek @ETHBerlinpic.twitter.com/cJwCe3SxDq",
+            "username": "ellenmari22",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1039080195611865088": {
+            "id": "1039080195611865088",
+            "text": "Who is organising satellite events around DevCon4? Fill in the form on the blog if you want to try out blockparty and also let know your event to the shadow #devcon4 party officer @JosefJelacic to be listed on upcoming social calendar.https://twitter.com/wearekickback/status/1038504696879689728\u00a0\u2026",
+            "username": "makoto_inoue",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1039061789869309952": {
+            "id": "1039061789869309952",
+            "text": "After three days of intense tech and hacking at @ETHBerlin, the #conflux #web3design #uxunconf kicks off at @fullnode_berlin. @pet3rpan_ and @itsamyjung kick off with a presentation on Designer Education and Outreach.pic.twitter.com/JXnR3cuhox",
+            "username": "lrettig",
+            "num_likes": 30,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1039063776702676992": {
+            "id": "1039063776702676992",
+            "text": "UX people get up after a 5am party to solve the biggest Challenges in the web3 technology stack. #web3 #web3design #conflux @ETHBerlinpic.twitter.com/n0pZ2MOtyn",
+            "username": "qnou",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1038543001310511105": {
+            "id": "1038543001310511105",
+            "text": "I love the internet \n\n(via @lushsux)pic.twitter.com/j7a0cRu3lk",
+            "username": "levelsio",
+            "num_likes": 541,
+            "num_retweets": 78,
+            "num_replies": 7
+        },
+        "1038178753577398272": {
+            "id": "1038178753577398272",
+            "text": "This is my favorite ether/bitcoin giveaway scam attempt so far.pic.twitter.com/18XOiE6pqP",
+            "username": "kyletorpey",
+            "num_likes": 219,
+            "num_retweets": 35,
+            "num_replies": 7
+        },
+        "1038344338676346880": {
+            "id": "1038344338676346880",
+            "text": "Have an awesome #hacking weekend at @ETHBerlin! Feel free to ping me if you see me around, I would love to talk about what you are building! #Ethereum #BUIDL #ETHBerlin",
+            "username": "lorecirstea",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1038132462289936388": {
+            "id": "1038132462289936388",
+            "text": "Now the talk I was most looking forward @Ethberlin by @lrettig \nLet's not only get lost in technical details, but really think about what future we want and *then* #buidl it ..pic.twitter.com/XiZd2TuiDy",
+            "username": "mr_ligi",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1038056109158936577": {
+            "id": "1038056109158936577",
+            "text": "When your head of HR tells you they ain\u2019t coming\u2019 back to work. $TSLA https://twitter.com/highsnobiety/status/1038011546406928384/video/1\u00a0\u2026",
+            "username": "brianchoffman",
+            "num_likes": 58,
+            "num_retweets": 14,
+            "num_replies": 5
+        },
+        "1038056977350504449": {
+            "id": "1038056977350504449",
+            "text": "New Token Listing - Did you know you can store, exchange and trade $DAI stablecoin in the #Dether beta app? Find out why DAI is great for local business, traders and the unbanked in our first 'Token Spotlight' https://goo.gl/i8LtqJ\u00a0 #stablecoin #blockchain #crypto @MakerDao",
+            "username": "dether_io",
+            "num_likes": 35,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "1037330019067015169": {
+            "id": "1037330019067015169",
+            "text": "We\u2019re happy to join our friends at @imTokenOfficial, @metamask_io, and mist to implement a new browser standard in line with EIP1102. Staying true to our principles, this improves privacy and security by changing the way an ethereum provider is accessed.http://bit.ly/2NPZHpi\u00a0",
+            "username": "ethstatus",
+            "num_likes": 83,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1036684396462518272": {
+            "id": "1036684396462518272",
+            "text": "If you are heading to Berlin Spockchain Week and you are developing a dapp, come along to the @WalletConnect Community Meetup  \n\nDate: 6th September 2018\nTime: 5pm-7pm\nLocation: Banjaluka Beer Garden, Falckensteinstra\u00dfe 1, 10997 Berlin, Germanyhttps://www.eventbrite.com/e/walletconnect-community-meetup-tickets-49814736217\u00a0\u2026",
+            "username": "ricburton",
+            "num_likes": 22,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1037607047980822528": {
+            "id": "1037607047980822528",
+            "text": "The first lightning talk at securETH in context of @ETHBerlin was quite shocking. Only ~20% of audits ran the unit tests and only ~10% audited them. I am quite sceptical of most audits anyway - think the name is misleading - should be called paid peer review most of the time..pic.twitter.com/BMTOYM2db1",
+            "username": "mr_ligi",
+            "num_likes": 34,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1037322885726007296": {
+            "id": "1037322885726007296",
+            "text": "Holding our breaths https://twitter.com/aqxu/status/1037299037391609856\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1037317631697534979": {
+            "id": "1037317631697534979",
+            "text": "My takeaways from Zero Knowledge Conf #ZK0x02 :\n\n1. Mainstream use of ZKP by devs still 3-5 yrs away\n2. Issues are i) Size of proofs ii) memory constraints iii) time to compute\n3. ZKP can solve key issues w/ GDPR\n4. Need lots of education & dev tools\n\nBig props to @AnnaRRose !!pic.twitter.com/eFEz6K8OyI",
+            "username": "paulkhls",
+            "num_likes": 49,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "1037299037391609856": {
+            "id": "1037299037391609856",
+            "text": "Yes, v2 has been deployed. Official announcement and blog post(s) coming soon...",
+            "username": "aqxu",
+            "num_likes": 151,
+            "num_retweets": 19,
+            "num_replies": 7
+        },
+        "1036558850781061121": {
+            "id": "1036558850781061121",
+            "text": "Omisego Will have a whole-day work shop in Neutrino Shanghai. For Enrollment: https://lnkd.in/fWTNAiE\u00a0https://lnkd.in/fg-sUdn\u00a0",
+            "username": "Qijun_Wang",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "995753516001001472": {
+            "id": "995753516001001472",
+            "text": "Ethereum addresses make for seriously *outstanding* identity solutions. I really think this is being systemically underestimated, even by smart people. These properties don't exist in aggregate anywhere else, and are all valuable:",
+            "username": "AlwaysBCoding",
+            "num_likes": 43,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1034437301902958592": {
+            "id": "1034437301902958592",
+            "text": "The EIP 1328 WalletConnect Standard URI Format has just been merged! \n\nJust one of many standards to improve Wallet UX in Ethereum\n\nProps to @mr_ligi and @pedrouidhttps://eips.ethereum.org/EIPS/eip-1328\u00a0",
+            "username": "WalletConnect",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1034160956677414912": {
+            "id": "1034160956677414912",
+            "text": "Wallet-to-wallet lending is in your pocket!https://twitter.com/imTokenOfficial/status/1034056216689790976\u00a0\u2026",
+            "username": "srndptme",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1032215502280712193": {
+            "id": "1032215502280712193",
+            "text": "Looking for the right location to stay during #Devcon4?\nSee this:\n1. Green = good reach & good neighborhood\n2. Yellow = annoyingly touristy but nice\n3. Blue = residential, kind of ok, but can be far\n4.  Red = far or weird (needs closer look)\n5. Black = cryptoanarchist's paradise!pic.twitter.com/3Uz9DSlV5F",
+            "username": "JosefJelacic",
+            "num_likes": 113,
+            "num_retweets": 18,
+            "num_replies": 18
+        },
+        "1031740634967826433": {
+            "id": "1031740634967826433",
+            "text": "SlowMist Zone open blockchain vulnerability bounty navigation. The scope covers public chains, exchanges, wallets, mining pools, etc. Hoping to provide more convenience for all security personnel to participate in the bug bounty program.  https://slowmist.io/awesome-blockchain-bug-bounty/\u00a0\u2026pic.twitter.com/aGENWdPkei",
+            "username": "SlowMist_Team",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1031141871828037632": {
+            "id": "1031141871828037632",
+            "text": "Ethereum lets us build a more collaborative internet, where last century inventors could only imagine.https://twitter.com/cryptowanderer/status/1028158562411798528\u00a0\u2026",
+            "username": "nadannlos",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1029900695925706753": {
+            "id": "1029900695925706753",
+            "text": "1. Today I am going to make a tweet storm explaining the history and state of Ethereum's Casper research, including the FFG vs CBC wars, the hybrid => full switch, the role of randomness, mechanism design issues, and more.",
+            "username": "VitalikButerin",
+            "num_likes": 3737,
+            "num_retweets": 1258,
+            "num_replies": 165
+        },
+        "1027560086716211201": {
+            "id": "1027560086716211201",
+            "text": "The @AragonProject and @Givethio are proud to announce the launch of Aragon DAC, a Decentralized Altruistic Community on the Giveth platform that will be the second team with @AragonOneTeam building out core Aragon infrastructure for the end usershttps://blog.aragon.org/aragon-dac-a-new-community-effort-to-foster-aragons-development-led-by-giveth\u00a0\u2026",
+            "username": "AragonProject",
+            "num_likes": 174,
+            "num_retweets": 64,
+            "num_replies": 14
+        },
+        "1027245657181093889": {
+            "id": "1027245657181093889",
+            "text": "This crypto wallet has a built-in exchange and DApp browser  https://www.producthunt.com/posts/imtoken-2-0\u00a0\u2026pic.twitter.com/TDV0KOfYFr",
+            "username": "ProductHunt",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1026945975208689664": {
+            "id": "1026945975208689664",
+            "text": "Attention \u00d0app Developers! Big changes are coming to the way you interact with web3 browsers. Get caught up here:https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 252,
+            "num_retweets": 137,
+            "num_replies": 13
+        },
+        "1026462899940864002": {
+            "id": "1026462899940864002",
+            "text": "6/ Pricing is displayed and can be changed dynamically via wifi-connected, e-ink price tags. If something gets cheaper or more expensive, as determined by supply and demand both online and offline, the price displayed in store will change automaticallypic.twitter.com/pd6UAFSuu0",
+            "username": "taps",
+            "num_likes": 352,
+            "num_retweets": 82,
+            "num_replies": 17
+        },
+        "1025354941358112768": {
+            "id": "1025354941358112768",
+            "text": "New post in the @EthMagicians wallet ring: https://ethereum-magicians.org/t/user-education-assessment-and-experience-tokens/943\u00a0\u2026\n\nFeedback and Contributions to the questions welcome! And thanks to @imTokenOfficial for the initial idea! @ethereum education is so important",
+            "username": "mr_ligi",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1025196703199064064": {
+            "id": "1025196703199064064",
+            "text": "A bug in the Monero wallet balance can enable theft from exchangeshttps://hackerone.com/reports/377592\u00a0",
+            "username": "IM_23pds",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1024586950928474112": {
+            "id": "1024586950928474112",
+            "text": "Just submitted WallETH 0.39 with initial @WalletConnect support to @GooglePlay - will be publicly available later today. Not much dApps support @WalletConnect yet - so I could just test with @Balance_io But the UX is promising. Join the conversation here:https://discuss.walletconnect.org\u00a0",
+            "username": "wallethapp",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1024612478678749186": {
+            "id": "1024612478678749186",
+            "text": "Our story, our journey, our very own imToken 2.0! https://medium.com/imtoken/announcing-imtoken-2-0-8ae08fae0f80\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 92,
+            "num_retweets": 29,
+            "num_replies": 22
+        },
+        "1024171042305011712": {
+            "id": "1024171042305011712",
+            "text": "Excited to be at the @imTokenOfficial #imtoken 2.0 launch event!pic.twitter.com/7Ljjc7LmZP",
+            "username": "proofofz",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1009591731288002560": {
+            "id": "1009591731288002560",
+            "text": "Writing my first eos smart contract today.\n\nTop: eos token transfer\nBottom: vyper token transferpic.twitter.com/CLosgHRYUs",
+            "username": "phildaian",
+            "num_likes": 136,
+            "num_retweets": 24,
+            "num_replies": 19
+        },
+        "1024265820849860609": {
+            "id": "1024265820849860609",
+            "text": "Mainstream languages are just not designed for smart contract programming.\n\nThings contracts require that regular code does not:\n\n* Very small code size\n* Much higher focus on safety\n* Much higher focus on auditability (misleading code very bad)\n* Perfect determinism",
+            "username": "VitalikButerin",
+            "num_likes": 428,
+            "num_retweets": 88,
+            "num_replies": 22
+        },
+        "1024204690056085509": {
+            "id": "1024204690056085509",
+            "text": "We are happy and relieved to announce that #imToken 2.0 is finally out of the beta and available in your favorite app store or directly at https://token.im/download\u00a0pic.twitter.com/0aMfHN6cXh",
+            "username": "imTokenOfficial",
+            "num_likes": 29,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1023841148870303744": {
+            "id": "1023841148870303744",
+            "text": "I can't believe it has been only 3 years since we launched #ethereum. Here is some pictures from the Ethdev office in #Berlin from that day.pic.twitter.com/dQNQmAzwti",
+            "username": "LefterisJP",
+            "num_likes": 332,
+            "num_retweets": 64,
+            "num_replies": 19
+        },
+        "1024077001500622848": {
+            "id": "1024077001500622848",
+            "text": "[Blog] Devcon4 Call for Participation! Apply to be a speaker, workshop lead, or breakout room hosthttps://goo.gl/gfw7K1\u00a0",
+            "username": "ethereum",
+            "num_likes": 178,
+            "num_retweets": 77,
+            "num_replies": 44
+        },
+        "1024080933291483137": {
+            "id": "1024080933291483137",
+            "text": "Chinese children playing snow in Hankow, March 1938, by Robert Capa, Magnum photos.pic.twitter.com/RMKqbIGmG4",
+            "username": "tongbingxue",
+            "num_likes": 170,
+            "num_retweets": 57,
+            "num_replies": 0
+        },
+        "1023913461020078080": {
+            "id": "1023913461020078080",
+            "text": "How blockchain can replace boatspic.twitter.com/7NYQ6tDvZS",
+            "username": "NeerajKA",
+            "num_likes": 1196,
+            "num_retweets": 169,
+            "num_replies": 62
+        },
+        "1021831500793171969": {
+            "id": "1021831500793171969",
+            "text": "Games on Ethereum encounter issues related to speed, gas prices and scalability. DopeRaider encountered these issues and decided to deploy on POA Network. The game runs so smooth now, that they had to update the animation speed and timing! Excited to see more games on POA!https://twitter.com/doperaider/status/1021537691446505472\u00a0\u2026",
+            "username": "poanetwork",
+            "num_likes": 108,
+            "num_retweets": 32,
+            "num_replies": 4
+        },
+        "1023444492941025282": {
+            "id": "1023444492941025282",
+            "text": "You can run most crypto dapps on wallets like @imTokenOfficial or @TrustWalletApp . Wallets, just like internet browsers, are becoming the new operating system for cryptocurrency.https://twitter.com/imTokenOfficial/status/1022116631361855492\u00a0\u2026",
+            "username": "loi_luu",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1022876259456626688": {
+            "id": "1022876259456626688",
+            "text": "A lot of investors want to see a deck and financial projections.\n\n- I only think a deck makes sense if I am pitching it in person.\n- I have no idea how much revenue we will generate.\n\nPitching and forecasting new things is hard. This is my best attempt.https://medium.com/balance-io/hashflow-cashflow-7058fb60ddc5\u00a0\u2026",
+            "username": "ricburton",
+            "num_likes": 203,
+            "num_retweets": 32,
+            "num_replies": 13
+        },
+        "1022469189003632640": {
+            "id": "1022469189003632640",
+            "text": "Pipeline - Visual IDE for building Smart Contract bridges between already deployed projects!\nCheck it out: https://youtu.be/sC7Hd6Sr1SI\u00a0 - feedback appreciated!\nProduces the Solidity code for you and uses a general proxy that handles dynamic input and output.#BUIDL #ethereum #soliditypic.twitter.com/wur85jV0jW",
+            "username": "lorecirstea",
+            "num_likes": 56,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1022404735721070593": {
+            "id": "1022404735721070593",
+            "text": "This is awesome. \"Collect\" endangered animals with revenue sent towards conservation.\n\nAdding Harberger Tax, the tax could go to conservation. :)https://twitter.com/KeneticCapital/status/1022403750034468864\u00a0\u2026",
+            "username": "simondlr",
+            "num_likes": 26,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "1022377009996095488": {
+            "id": "1022377009996095488",
+            "text": "Gaia-7002 is the latest testnet with staking and governance for @cosmos . It\u2019s going to be live soon. Good luck to everyone. https://forum.cosmos.network/t/launch-gaia-7002/599\u00a0\u2026 #pos #cosmos #validation",
+            "username": "adrian_brink",
+            "num_likes": 24,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1022182676697100293": {
+            "id": "1022182676697100293",
+            "text": "A large underground lake discovered on Mars? And my Twitter feed is silent so far? Crazy!https://www.nytimes.com/2018/07/25/science/mars-liquid-alien-life.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news\u00a0\u2026",
+            "username": "tylercowen",
+            "num_likes": 256,
+            "num_retweets": 98,
+            "num_replies": 23
+        },
+        "1021987012407160832": {
+            "id": "1021987012407160832",
+            "text": "#Blockchain has a platform problem: How the right UI/UX and development are key for large scale adoption. @jfiorelli in discussion with Emre (Coinbase), Donnie (Bitski) and Philipp (imToken) at #Nifty #getniftypic.twitter.com/EE1AKlkub4",
+            "username": "KeneticCapital",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1021954958013288448": {
+            "id": "1021954958013288448",
+            "text": "Thanks to all those who attended Building ERC721 marketplaces on 0x. Here\u2019s the slides with linkshttps://docs.google.com/presentation/d/1D5ybhJkNb7FYlIgHM3g37NBFSSI4XgkQecWbnsiBj1E/edit?usp=sharing\u00a0\u2026",
+            "username": "dekz",
+            "num_likes": 102,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "1020257787111182336": {
+            "id": "1020257787111182336",
+            "text": "Join #OpenSourceWeb3Design #2 at 8PM CEST (2PM EDT -- 11AM PST -- 6PM UTC -- 02AM SGT)! A quick demo of functionality from @GetGitcoin to start off, a roundtable talk about content at #Web3Summit and #devconiv, and more! #UI #UX #Design in #ethereum\nhttps://www.youtube.com/watch?v=edFDUz_3-Ik\u00a0\u2026",
+            "username": "Mitch_Kosowski",
+            "num_likes": 26,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1020109036094513152": {
+            "id": "1020109036094513152",
+            "text": "@imTokenOfficial is one of the few digital asset wallet\u00a0that really put security as the first priority. https://slowmist.io/en/imtoken/?utm_source=twitter&utm_medium=cpc&utm_campaign=imtoken\u00a0\u2026",
+            "username": "SlowMist_Team",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1020005449192689665": {
+            "id": "1020005449192689665",
+            "text": "Security needs to be the top priority with digital wallets.\nimToken 2.0 is 100% built on our philosophy of security and ease-of-use.\n\nWe are excited to announce the bug bounty of imToken 2.0, honoured to be collaborating with the @SlowMist_Team on this!https://medium.com/imtoken/announcing-the-imtoken-2-0-bug-bounty-program-a033cb0191ca\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1019600285264515072": {
+            "id": "1019600285264515072",
+            "text": "My Conversation with @VitalikButerin, even better than you might think,https://medium.com/conversations-with-tyler/vitalik-buterin-tyler-cowen-cryptocurrency-blockchain-tech-3a2b20c12c97\u00a0\u2026",
+            "username": "tylercowen",
+            "num_likes": 605,
+            "num_retweets": 182,
+            "num_replies": 15
+        },
+        "1018836676486066177": {
+            "id": "1018836676486066177",
+            "text": "Once you've tried working remotely in a company of remote peers, it's very hard to go back to having a commute and working in an open-office interruption factory. The benefits to life and health for most people are immense.https://twitter.com/frankchartrand/status/1018399830396174336\u00a0\u2026",
+            "username": "dhh",
+            "num_likes": 2755,
+            "num_retweets": 747,
+            "num_replies": 87
+        },
+        "1017838572118859776": {
+            "id": "1017838572118859776",
+            "text": "Since being back in SF I've explained to a surprising amount of people that Bitcoin is not illegal in China. This is oft refuted w/person saying \"But I read this thing on Quartz...\". But I was literally drinking tea in a gov't sponsored Bitcoin salon in Beijing 3 weeks ago, so...",
+            "username": "xrw",
+            "num_likes": 247,
+            "num_retweets": 59,
+            "num_replies": 9
+        },
+        "1017808569465331712": {
+            "id": "1017808569465331712",
+            "text": "\"In a country where almost half the population still lives in the countryside, it would be irresponsible to discuss technology without acknowledging the stratifications between the urban and the rural.\" My Letter from Shenzhen: https://bit.ly/2JmHLzp\u00a0pic.twitter.com/R4cy6DH7kd",
+            "username": "xrw",
+            "num_likes": 134,
+            "num_retweets": 54,
+            "num_replies": 8
+        },
+        "1016513789171097600": {
+            "id": "1016513789171097600",
+            "text": "However, we understand why Chinese projects hesitate, when companies copy repositories without even mentioning the original creator.\n\nSometimes not even bothering changing the names in their repositories.pic.twitter.com/vWpWzCVBmY",
+            "username": "imTokenOfficial",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1017060597744037888": {
+            "id": "1017060597744037888",
+            "text": "I just published \u201cDetailed disclosure and repair plan for the \u2018False top-up\u2019 vulnerability in the Ethereum token\u201dhttps://medium.com/@slowmist/detailed-disclosure-and-repair-plan-for-the-false-top-up-loopholes-in-the-ethereum-token-952f4aa748a2\u00a0\u2026",
+            "username": "SlowMist_Team",
+            "num_likes": 15,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1013539332366524416": {
+            "id": "1013539332366524416",
+            "text": "Have ideas for how to make Devcon4 the best yet? We want to hear them! Please share your ideas at this Devcon survey:https://docs.google.com/forms/d/e/1FAIpQLSfmBq7ZKmbHEJC5MUY-z_MTPVXWFYfCc9hCWSFEt-IYILb31Q/viewform\u00a0\u2026",
+            "username": "mi_ayako",
+            "num_likes": 99,
+            "num_retweets": 38,
+            "num_replies": 3
+        },
+        "1011236865431752704": {
+            "id": "1011236865431752704",
+            "text": "I just published \u201cRedesigning Web3 UX with WalletConnect\u201dhttps://medium.com/p/redesigning-web3-ux-with-walletconnect-1d5f9822d2f8\u00a0\u2026",
+            "username": "pedrouid",
+            "num_likes": 81,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "1013284299196518400": {
+            "id": "1013284299196518400",
+            "text": "(1 of x)Alright, I've read through @liquiditynet NOCUST and discussed it a little with @lixuanji",
+            "username": "technocrypto",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "998177833259360256": {
+            "id": "998177833259360256",
+            "text": "Seven of my most popular #Bitcoin talks now have Chinese subtitles! #\u8d27\u5e01\u4e92\u8054\u7f51https://www.youtube.com/playlist?list=PLPQwGV1aLnTtlyKS1D6CoRYK3KO1dtS6L\u00a0\u2026",
+            "username": "aantonop",
+            "num_likes": 777,
+            "num_retweets": 148,
+            "num_replies": 25
+        },
+        "1012580888306241536": {
+            "id": "1012580888306241536",
+            "text": "Blockchain protocols now represent the most well-funded open source projects in history. Resources are abundant... but talent is scarce. 1/",
+            "username": "_jillruth",
+            "num_likes": 149,
+            "num_retweets": 27,
+            "num_replies": 14
+        },
+        "1011999864195076096": {
+            "id": "1011999864195076096",
+            "text": "As I've said elsewhere, I disagree with the argument others make that, as a matter of practicality, exit is easier; \"just switching to Android\" is more difficult than \"just getting a VPN\".",
+            "username": "VitalikButerin",
+            "num_likes": 53,
+            "num_retweets": 3,
+            "num_replies": 8
+        },
+        "1011991925786890240": {
+            "id": "1011991925786890240",
+            "text": "I don't get why Apple's restrictive app store policies don't get criticized more. One company (with market cap approaching $1 trillion) gets more de-facto filtering power over mobile internet users than many governments, heavily wields it, and so few tech people seem to complain.",
+            "username": "VitalikButerin",
+            "num_likes": 6908,
+            "num_retweets": 1866,
+            "num_replies": 537
+        },
+        "1012029815787057152": {
+            "id": "1012029815787057152",
+            "text": "In China right now & its hard to get on Twitter but.....holy shit. For how much we talk about cryptoassets as a global asset, it certainly does not feel that way. This is basically a parallel crypto universe with little/ no bridge in between. 1/",
+            "username": "katherineykwu",
+            "num_likes": 415,
+            "num_retweets": 124,
+            "num_replies": 43
+        },
+        "1011342819510837248": {
+            "id": "1011342819510837248",
+            "text": "Introducing a16z cryptohttps://a16zcrypto.com/\u00a0",
+            "username": "cdixon",
+            "num_likes": 2318,
+            "num_retweets": 675,
+            "num_replies": 118
+        },
+        "1011350677505937409": {
+            "id": "1011350677505937409",
+            "text": "About to take off on a flight so here\u2019s my #controversialcrypto thought:\n\nIf no one invents a password reset protocol in the near future then this is entire project is a complete waste of time.\n\nIt will all end up being run by banks and governments again.\n\nWho is trying this?\n\npic.twitter.com/7ZkaATgIhu",
+            "username": "ricburton",
+            "num_likes": 29,
+            "num_retweets": 2,
+            "num_replies": 13
+        },
+        "1010050702142369792": {
+            "id": "1010050702142369792",
+            "text": "1/ I\u2019ve been sad I forgot almost all of my Chinese from when I was a kid so I've been trying to pick it up again. Here are free apps I found to be very helpful:",
+            "username": "ljxie",
+            "num_likes": 178,
+            "num_retweets": 21,
+            "num_replies": 24
+        },
+        "1009433869542572032": {
+            "id": "1009433869542572032",
+            "text": "Check out the seamless integration and awesome design of @AirSwap on imToken!https://www.youtube.com/watch?time_continue=1&v=57uDVBlDZGU\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 40,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1009424823712452609": {
+            "id": "1009424823712452609",
+            "text": "My presentation yesterday at EC18 in Cornell, covering why blockchains, fault attribution, optimal block size policy, outsourced computation, subjective oracles and more.https://docs.google.com/presentation/d/1MLwN2-pBufDmUNprf-r8LXFCm1Ua8skphzDTNPTaiUQ\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 919,
+            "num_retweets": 279,
+            "num_replies": 43
+        },
+        "1009422217736683520": {
+            "id": "1009422217736683520",
+            "text": "The decentralized marketplace @AirSwap , now live in your imToken 2.0.\nTry it out and let us know your feedback in the comments! https://medium.com/imtoken/airswap-now-available-on-imtoken-12264300cafe\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 35,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1007981086444572673": {
+            "id": "1007981086444572673",
+            "text": "EOS is having a liveness problem, with the chain stalled and block producers stuck. http://dev.cryptolions.io/mainnet/#home\u00a0",
+            "username": "el33th4xor",
+            "num_likes": 196,
+            "num_retweets": 76,
+            "num_replies": 23
+        },
+        "1007991343224971264": {
+            "id": "1007991343224971264",
+            "text": "Shanghai, though already swollen with people and poverty, was the only place on earth willing to accept the fleeing Jewish refugees with or without papers. It was an exception that, for thousands, meant the difference between life and death.https://trib.al/us9hkDT\u00a0",
+            "username": "atlasobscura",
+            "num_likes": 403,
+            "num_retweets": 149,
+            "num_replies": 5
+        },
+        "1007336833246814209": {
+            "id": "1007336833246814209",
+            "text": "The use of a Kickstarter by @loomnetwork to back Zombie Battlegrounds is a genius way to bring mainstream customers to the blockchain space  Very happy to back this effort and have been consistently impressed with Loom and their ability to ship https://medium.com/loom-network/zombie-battleground-launches-on-kickstarter-fc7579e51e1a\u00a0\u2026",
+            "username": "Mitch_Kosowski",
+            "num_likes": 38,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1006939755425292288": {
+            "id": "1006939755425292288",
+            "text": "I'm excited for what's coming next for @WalletConnect with the contribution from so many great people in this space!\n\n@ricburton @jinrummie @_jdkanani @witekradomski @tayvano_ @Philiff @lyricalpolymath @logonaut @qnou @pet3rpan_ @vikmeup @tomislavmamichttps://twitter.com/WalletConnect/status/1006937879162040320\u00a0\u2026",
+            "username": "pedrouid",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1006755155419656193": {
+            "id": "1006755155419656193",
+            "text": "20) So I'm going to ask @L4ventures this one more time:\n\nJust in case there is anything you have figured out that the rest of us state channel devs haven't yet...\n\nOr if you want to collaborate to deliver the code to production...\n\nPlease hurry up and open source your shit. \n\nfin",
+            "username": "ameensol",
+            "num_likes": 60,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1006531074707554304": {
+            "id": "1006531074707554304",
+            "text": "What you can do for Ethereum 2.0 a.k.a. sharding (Q2 2018)https://docs.google.com/presentation/d/1G5UZdEL71XAkU5B2v-TC3lmGaRIu2P6QSeF8m3wg6MU/edit?usp=sharing\u00a0\u2026",
+            "username": "icebearhww",
+            "num_likes": 268,
+            "num_retweets": 88,
+            "num_replies": 9
+        },
+        "1005563698080026629": {
+            "id": "1005563698080026629",
+            "text": " Thrilled for another small milestone - opening our under-development alpha portal (testnet and buggy ) for testing! In-twitter bounty program: most relevant feedback will be answered with lovely GIFs. Head on over to http://paratii.video/join\u00a0  and give it a try pic.twitter.com/EpxnLMjH2D",
+            "username": "ParatiiVideo",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1005403081872293888": {
+            "id": "1005403081872293888",
+            "text": "Gormos is the new scalability solution that we introduced at @KyberNetwork 2.0. Whitepaper coming soon!pic.twitter.com/bT9brO0eiI",
+            "username": "loi_luu",
+            "num_likes": 143,
+            "num_retweets": 45,
+            "num_replies": 13
+        },
+        "1005181368463077376": {
+            "id": "1005181368463077376",
+            "text": " WE ARE LIVE! \n\nApplications are now open for India's first ever and Asia's largest @ethereum hackathon. Head to https://ethindia.co\u00a0 to apply & know more about the hackathon. See you in August! \n#ETHIndia #ETHGlobal #Ethereum #BUIDL",
+            "username": "ethindiaco",
+            "num_likes": 98,
+            "num_retweets": 30,
+            "num_replies": 7
+        },
+        "1005123573575573504": {
+            "id": "1005123573575573504",
+            "text": "Calling all crypto talents- exciting openings available at @ConsenLabshttps://twitter.com/ConsenLabs/status/1004587769237139457\u00a0\u2026",
+            "username": "IDGCapital",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1004587769237139457": {
+            "id": "1004587769237139457",
+            "text": "imToken is hiring in conjunction with our global expansion effort! \nFind out more by scanning the QR Code or here: https://token.im/careers\u00a0\n#Blockchainpic.twitter.com/jMOxf2RlpQ",
+            "username": "imTokenOfficial",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1004352472125755392": {
+            "id": "1004352472125755392",
+            "text": "The Decentraland Marketplace is now live on the latest imToken v2.0 release, giving 4.5 million users around the globe access to our ecosystem.\n\nhttps://blog.decentraland.org/introducing-decentraland-on-imtoken-c5c5f429a2bc\u00a0\u2026\n@ConsenLabs",
+            "username": "decentraland",
+            "num_likes": 115,
+            "num_retweets": 37,
+            "num_replies": 7
+        },
+        "1004151159291031552": {
+            "id": "1004151159291031552",
+            "text": "Alert: Please update your Parity Ethereum clients to 1.11.3-beta or 1.10.6-stable asap.https://paritytech.io/security-alert-3/\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 216,
+            "num_retweets": 176,
+            "num_replies": 17
+        },
+        "999671044779659265": {
+            "id": "999671044779659265",
+            "text": "Excited to see the rapidly growing engagement and interest from economists on blockchain mechanism design issues:\n\nhttps://marginalrevolution.com/marginalrevolution/2018/05/blockchains-as-economies.html\u00a0\u2026\n@ATabarrok @tylercowen @glenweyl @robinhanson",
+            "username": "VitalikButerin",
+            "num_likes": 585,
+            "num_retweets": 242,
+            "num_replies": 23
+        },
+        "1002173165014044672": {
+            "id": "1002173165014044672",
+            "text": "Ethereum wallet imToken raises $10M Series A from IDG to expand in the U.S., Asia and Africa https://tcrn.ch/2H9nb4r\u00a0 by @catherineshupic.twitter.com/OErOwzEMsC",
+            "username": "TechCrunch",
+            "num_likes": 50,
+            "num_retweets": 19,
+            "num_replies": 4
+        },
+        "1002175307271495680": {
+            "id": "1002175307271495680",
+            "text": "We would like to express our gratitude to @IDGCapital for the faith in us, and our devoted supporters who have always believed in our product! All for a better imToken~ \n#ETHEREUM #Blockchainhttps://medium.com/consenlabs/imtoken-announces-us-10-million-series-a-funding-from-idg-capital-827a2e13262e\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 50,
+            "num_retweets": 12,
+            "num_replies": 9
+        },
+        "1002109558058237953": {
+            "id": "1002109558058237953",
+            "text": "When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place. But that's for another day.",
+            "username": "naval",
+            "num_likes": 8796,
+            "num_retweets": 1365,
+            "num_replies": 345
+        },
+        "1001915178928177152": {
+            "id": "1001915178928177152",
+            "text": "Considering posting on Gitcoin, but don't know how to price potential work?\n\n@owocki has you covered with a data-driven pricing guide, using examples from our first 300 bounties in 2018. \n\nLet's sustainably grow open source, together. #BUIDLhttps://medium.com/gitcoin/tutorial-how-to-price-work-on-gitcoin-49bafcdd201e\u00a0\u2026",
+            "username": "gitcoin",
+            "num_likes": 68,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "998213023365042180": {
+            "id": "998213023365042180",
+            "text": "Dai (by @MakerDAO) and Basis (by @basisprotocol) are both called stable coins. However, the underlying algorithms are drastically different. After a deep dive, I think:\n\nDai will do well.\nBasis will fail catastrophically. \n\nHere's how Basis works:",
+            "username": "QWQiao",
+            "num_likes": 403,
+            "num_retweets": 94,
+            "num_replies": 19
+        },
+        "996894914486169601": {
+            "id": "996894914486169601",
+            "text": "Depending on where you are in the world you don\u2019t necessarily need a blockchain to deliver those use cases and a central authority will suffice. In well regulated markets, blockchain itself is a solution in search of a problem.",
+            "username": "mikekelly85",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "995339577417183232": {
+            "id": "995339577417183232",
+            "text": "Obviously populists will argue that this will be a job killer. It will be. That's why the Industrial model doesn't scale anymore. Let's fix that instead of complaining about it",
+            "username": "licuende",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "995311163213692929": {
+            "id": "995311163213692929",
+            "text": "We are looking for people who are enthusiastic and active in your local blockchain community to join our family! https://medium.com/consenlabs/imtoken-local-community-operations-recruitment-b095ff51d597\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 25,
+            "num_retweets": 17,
+            "num_replies": 8
+        },
+        "994595752688209922": {
+            "id": "994595752688209922",
+            "text": "Wow! A year after launch @0xProject has processed over $160m in trades, with +$9m in the past 24h. 10+ relayers building on top w/ @TheOceanXCrypto @ParadexIO @RadarRelay @ethfinex @ConsenLabs . Explains the bull run in $ZRX. CTO Amir Bendeali unveiling Ox 2.0 at @fluiditysummitpic.twitter.com/NQPsbh3qcT",
+            "username": "paulkhls",
+            "num_likes": 247,
+            "num_retweets": 70,
+            "num_replies": 4
+        },
+        "993958972628516864": {
+            "id": "993958972628516864",
+            "text": "Cryptocurrency Market Cap Over Time / hat tip @DariusPrzydzial for the sick datavizpic.twitter.com/N4k7jTCjUp",
+            "username": "owocki",
+            "num_likes": 1459,
+            "num_retweets": 701,
+            "num_replies": 19
+        },
+        "991873798176583681": {
+            "id": "991873798176583681",
+            "text": "There are 100s of DEX and there is one and only #Tokenlon. Guys don't miss out the amazing and smooth experience of power in your hands \n\n#imtoken #cryptocurrency #Dex #0x @ConsenLabs @0xProject #decentralization @officialmcafee #crypto #BlockChainhttps://twitter.com/ConsenLabs/status/986477461591306240\u00a0\u2026",
+            "username": "nibupraju",
+            "num_likes": 209,
+            "num_retweets": 119,
+            "num_replies": 2
+        },
+        "993437016804151296": {
+            "id": "993437016804151296",
+            "text": "We are thrilled to announce the winners for Week 2 Tokenlon Share to Win contest with @0xProject , a big thank you for all the participants and supporters!\nHave a look:https://medium.com/consenlabs/tokenlon-share-to-win-results-week-2-2947786b3f81\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "991383049291022336": {
+            "id": "991383049291022336",
+            "text": "Whoa, check out @0x_chinafans! They've been translating @0xProject blog posts into CN  for fellow 0x fans in the Chinese community ",
+            "username": "aqxu",
+            "num_likes": 87,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "987667819142828032": {
+            "id": "987667819142828032",
+            "text": "Was in a Cafe to grab a coffe when i saw the Contest. Ordered Coffee and logged into imToken 2.0 to experince new feature, Tapped Tokenlon tab,Sold some KNC brought some WETH. All transactions went in smooth and Quick. \n\nStill waiting for my coffee @ConsenLabs @0xProject",
+            "username": "nibupraju",
+            "num_likes": 140,
+            "num_retweets": 93,
+            "num_replies": 1
+        },
+        "990916331334717445": {
+            "id": "990916331334717445",
+            "text": "http://ethtour.asia\u00a0 been a blast. Learned a lot about getting recruits into the decentralized space, and how merch leads the way \nThanks @ethfans and @ConsenLabs for helping to organize our Shanghai & Hangzhou meetups pic.twitter.com/8CTTxkk5Vl",
+            "username": "nadannlos",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "984929510708731904": {
+            "id": "984929510708731904",
+            "text": "16 bad things decreasing in the world #factfulness @Gapminderpic.twitter.com/UGuT7o4jWG",
+            "username": "JonGilfillan",
+            "num_likes": 3122,
+            "num_retweets": 1536,
+            "num_replies": 83
+        },
+        "990117951645802496": {
+            "id": "990117951645802496",
+            "text": "imToken \u4e0e@KyberNetwork \u8054\u624b\u4e3e\u529e\u7684\u95ea\u5151\u5927\u8d5b\u7b2c\u4e94\u5468\u8d62\u5bb6\u540d\u5355\u51fa\u7089\u5566\uff01\u5feb\u6765\u770b\u770b\u5427\uff1ahttps://medium.com/consenlabs/imtoken-kyber-%E9%97%AA%E5%85%91%E4%BA%A4%E6%98%93%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%BA%94%E5%91%A8%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%91%8A-6fb8888ab1a2\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "990115210408087553": {
+            "id": "990115210408087553",
+            "text": "Another week has passed and it is time to announce the winners for Week 5 of Instant Exchange Contest jointly organised by imToken and @KyberNetwork\nCheck it out:https://medium.com/consenlabs/imtoken-kyber-network-instant-exchange-winners-announcement-week-5-f6025fd0e117\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "988787116015415296": {
+            "id": "988787116015415296",
+            "text": "Couple of DNS servers were hijacked to resolve http://myetherwallet.com\u00a0 users to be redirected to a phishing site. This is not on @myetherwallet side, we are in the process of verifying which servers to get it resolved asap.",
+            "username": "myetherwallet",
+            "num_likes": 1728,
+            "num_retweets": 1785,
+            "num_replies": 209
+        },
+        "988377004662648832": {
+            "id": "988377004662648832",
+            "text": "Shanghai #ETHEREUM meetup happening now, with our very own @Philiff presenting on imToken wallet along with OG projects like @AragonProject @gnosisPM @melonport @MakerDAO and @raiden_network . Join us if you are nearby!pic.twitter.com/kl12VZEA9K",
+            "username": "imTokenOfficial",
+            "num_likes": 29,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "986895609180307456": {
+            "id": "986895609180307456",
+            "text": "Tokenlon IEX: An instant and  decentralized way to transact tokens from your mobile powered by Kyber! \n\nTokenlon also supports orderbooks via the @0xProject protocol too. Great work @ConsenLabs !https://twitter.com/ConsenLabs/status/986814355843919873\u00a0\u2026",
+            "username": "KyberNetwork",
+            "num_likes": 72,
+            "num_retweets": 20,
+            "num_replies": 5
+        },
+        "986636999799943169": {
+            "id": "986636999799943169",
+            "text": "Tokenlon uses 0x protocol to bring token trading to the hundreds of thousands of imToken mobile wallet users across the world  Great work @ConsenLabs!https://twitter.com/ConsenLabs/status/986477461591306240\u00a0\u2026",
+            "username": "0xProject",
+            "num_likes": 391,
+            "num_retweets": 113,
+            "num_replies": 9
+        },
+        "986478101440819200": {
+            "id": "986478101440819200",
+            "text": "\u516c\u544a\uff1a\u6211\u4eec\u975e\u5e38\u9ad8\u5174\u5730\u63a8\u51faTokenlon\uff0c\u4e00\u4e2a\u57fa\u4e8e@0xProject \u548c@KyberNetwork \u534f\u8bae\u5efa\u7acb\u7684\u53bb\u4e2d\u5fc3\u5316\u4ea4\u6613\u5e73\u53f0\u3002\n\n\u5728imToken 2.0 Beta\u91cc\u8bd5\u8bd5\u5427\uff01\u6b32\u4e86\u89e3\u66f4\u591a\u4fe1\u606f\uff0c\u8bf7\u6d4f\u89c8\u4ee5\u4e0b\u94fe\u63a5https://medium.com/@ConsenLabs/tokenlon%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E4%B8%8E0x%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C-%E5%85%B1%E5%BB%BA%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%BA%A4%E6%98%93%E7%94%9F%E6%80%81-caa5b1d5f826\u00a0\u2026",
+            "username": "imTokenOfficial",
+            "num_likes": 89,
+            "num_retweets": 31,
+            "num_replies": 5
+        },
+        "985908081023270913": {
+            "id": "985908081023270913",
+            "text": "Ethereum researcher Vlad Zamfir introduces the argument for why the Ethereum blockchain should charge rent. cc @VladZamfirpic.twitter.com/SyS5rNMFOo",
+            "username": "Cyrus",
+            "num_likes": 183,
+            "num_retweets": 59,
+            "num_replies": 18
+        },
+        "985774873304645632": {
+            "id": "985774873304645632",
+            "text": "Aragon is joining http://ethtour.asia\u00a0 with @gnosisPM, @MakerDAO, @melonport & @raiden_network to meet the Asian Ethereum communities and exchange ideas. First stop, Tokyo today, come say hi!\n\nhttp://ethtour.asia\u00a0\nhttps://asia.aragon.one/\u00a0pic.twitter.com/mLX82jpSc7",
+            "username": "AragonProject",
+            "num_likes": 72,
+            "num_retweets": 21,
+            "num_replies": 5
+        },
+        "982693858684428291": {
+            "id": "982693858684428291",
+            "text": "Doing a live Crypto 101 AMA, the idea is, if you dont know anything about crypto, but want to learn... you can ask me in the side chat! Starts NOW! https://www.youtube.com/watch?v=gM7IE6kirqo\u00a0\u2026",
+            "username": "thegrifft",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "981573902991323137": {
+            "id": "981573902991323137",
+            "text": "Really impressed w/ @toshi. 3 years ago whenever a colleague made a coffee run he\u2019d insist I pay back with bitcoin bc he didn\u2019t like storing cc info w/ Venmo. Those coffees proved expensive! We agreed to use a stablecoin (#DAI) and were able to exchange and transact in minutespic.twitter.com/m8waYwyyef",
+            "username": "adamSoffer",
+            "num_likes": 31,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "977470766362038272": {
+            "id": "977470766362038272",
+            "text": "Moloch is the god of coordination failures, and so I decided to name the DAO I'm building to fund common ETH infrastructure Moloch, as an ironic joke about the futility of solving coordination problems. \n\nhttps://docs.google.com/document/d/1qiHkwc1BPv6fBKTr6KgrEn3dMTNH68sq5JBqHoWgFaY/mobilebasic#\u00a0\u2026",
+            "username": "ameensol",
+            "num_likes": 36,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "979352806942478336": {
+            "id": "979352806942478336",
+            "text": "We are also releasing today a short movie with Aragon's mission statement we shot while in Cancun. Thanks to everyone who made this video happen, it was a huge undertaking :)\n\n\"Aragon, the fight for freedom\"https://www.youtube.com/watch?v=AqjIWmiAidw\u00a0\u2026",
+            "username": "izqui9",
+            "num_likes": 66,
+            "num_retweets": 22,
+            "num_replies": 4
+        },
+        "979004294643904512": {
+            "id": "979004294643904512",
+            "text": "Thanks @aantonop for explaining Bitcoin in such an easy to understand yet powerful way. \n\nhttps://youtu.be/rvwVbRQ5Ysc\u00a0",
+            "username": "sergiocesaretti",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "978305943023837184": {
+            "id": "978305943023837184",
+            "text": "Read the whole thread and try it out.https://twitter.com/iamdylancurran/status/977560174117474304\u00a0\u2026",
+            "username": "frank_rieger",
+            "num_likes": 123,
+            "num_retweets": 111,
+            "num_replies": 6
+        },
+        "976368201859678209": {
+            "id": "976368201859678209",
+            "text": "Congratulations! #imToken 2.0 beta is coming! We integrated the #KyberNetwork protocol in 2.0 version for #InstantExchange. @KyberNetwork. \n\nClick the link below to get more!\nhttps://medium.com/@ConsenLabs/imtoken-x-kyber-network-74056409c575\u00a0\u2026pic.twitter.com/W7NHoyZVwR",
+            "username": "imTokenOfficial",
+            "num_likes": 95,
+            "num_retweets": 44,
+            "num_replies": 7
+        },
+        "973575772773502976": {
+            "id": "973575772773502976",
+            "text": "You missed #EthCC and our talk on the current state and future of the #ethereum @raiden_network? No problem! Here is the recorded video: https://www.youtube.com/watch?v=93qOwUSj4PQ\u00a0\u2026pic.twitter.com/CO0elNyqiX",
+            "username": "LefterisJP",
+            "num_likes": 52,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "972119067791446016": {
+            "id": "972119067791446016",
+            "text": "Tomorrow at 14:30 I will be presenting a status update on #ethereum's @raiden_network during the last day of the #ETHCC conference in Paris. Don't miss it.",
+            "username": "LefterisJP",
+            "num_likes": 57,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "972271561444126720": {
+            "id": "972271561444126720",
+            "text": "My impromptu Plasma Cash overview. Vitalik's talk was overflowing, so decided to give an alternative for the lovely people in the Plaza - https://youtu.be/suMDB34GXZ4\u00a0\n #EthCC",
+            "username": "karl_dot_tech",
+            "num_likes": 340,
+            "num_retweets": 99,
+            "num_replies": 21
+        },
+        "972083925978963969": {
+            "id": "972083925978963969",
+            "text": "Heard about #AtomicSwaps and wondered how you can play around with it on your own? Check our @raiden_network ERC20 <-> ERC20 Atomic Swap guide by @dopetard:\n\nhttps://blog.exchangeunion.com/milestone-atomic-swap-of-erc20-tokens-on-the-raiden-network-84b918b86fc4\u00a0\u2026\n\nCheers to @brainbot_tech !",
+            "username": "kilrau",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "970294228122263552": {
+            "id": "970294228122263552",
+            "text": "1/ NEO thread. I never paid any attention to this project because \"it's a Chinese Ethereum!\" just sounded so stupid for reasons I didn't even know where to begin to explain. If you, like me, ignored NEO for this reason, here's a quick recap of how hilariously bad this project is:",
+            "username": "ercwl",
+            "num_likes": 3840,
+            "num_retweets": 1565,
+            "num_replies": 387
+        },
+        "963958922716598272": {
+            "id": "963958922716598272",
+            "text": "https://youtu.be/Yn5kjVYjYvI\u00a0 Watch this. It's @VirtualFutures and I getting to the bottom of why the blockchain is going to win, financing space travel, the economics of cooperation, and nerd social identity. You are not going to find anything better to watch on @netflix tonight. RT!",
+            "username": "leashless",
+            "num_likes": 119,
+            "num_retweets": 39,
+            "num_replies": 7
+        },
+        "963813833931403267": {
+            "id": "963813833931403267",
+            "text": "Raiden Development Update Feb/18https://medium.com/@raiden_network/raiden-development-update-feb-18-b656d2f7d0e\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 205,
+            "num_retweets": 66,
+            "num_replies": 11
+        },
+        "958020104343769088": {
+            "id": "958020104343769088",
+            "text": "Meet us at the @ethereumproject Berlin Meetup tomorrow, Tuesday, 7:00 pm!https://www.meetup.com/Berlin-Ethereum-Meetup/events/246899814/\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 156,
+            "num_retweets": 53,
+            "num_replies": 8
+        },
+        "956164271326539776": {
+            "id": "956164271326539776",
+            "text": "We released \u00b5Raiden version 0.2.0:https://github.com/raiden-network/microraiden/releases/tag/v0.2.0\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 381,
+            "num_retweets": 156,
+            "num_replies": 23
+        },
+        "953533739463737344": {
+            "id": "953533739463737344",
+            "text": "Excellent long-form piece from NYT on Bitcoin/Ethereum/Blockchains and their potential impact on the world. Beyond the Bitcoin Bubblehttps://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html\u00a0\u2026",
+            "username": "ErikVoorhees",
+            "num_likes": 331,
+            "num_retweets": 129,
+            "num_replies": 14
+        },
+        "949602327824039936": {
+            "id": "949602327824039936",
+            "text": "Mobile money for the \"unbanked\" is already an reality all over Ghana and Kenya with SMS services. This is accessibiIity. Wonder whether decentralized #eth based solutions adds value here, and what #blockchain based dapps can learn in terms of ease of use.pic.twitter.com/WPruHfbaSx",
+            "username": "Gustav_tech",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "940345846503059457": {
+            "id": "940345846503059457",
+            "text": "1/ How will computation be affected by crypto?https://twitter.com/zaoyang/status/937504306458013696\u00a0\u2026",
+            "username": "zaoyang",
+            "num_likes": 481,
+            "num_retweets": 161,
+            "num_replies": 15
+        },
+        "936377690277457921": {
+            "id": "936377690277457921",
+            "text": "Proud to announce the first version of #Microraiden is released and deployed on the #ethereum mainnet. This is a bug bounty version intended only for limited usage and testing. The details of the bug bounty are here: https://medium.com/@raiden_network/microraiden-bug-bounty-63ea847035a2\u00a0\u2026. Happy hunting.pic.twitter.com/FqSz4qh2zh",
+            "username": "LefterisJP",
+            "num_likes": 106,
+            "num_retweets": 58,
+            "num_replies": 6
+        },
+        "934359458926411776": {
+            "id": "934359458926411776",
+            "text": "#BeyondBlockTaipei is finished! Hope all of you guys are enjoying this conf.\n@VitalikButerin @VladZamfir @ConsenLabs @loi_luu @karl_dot_tech @lrettig @raiden_network @ethfans @KyberNetwork thanks for coming and sharing those cool stuff<3pic.twitter.com/QXB9ccYAxg",
+            "username": "eth_taipei",
+            "num_likes": 82,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "934199100106457088": {
+            "id": "934199100106457088",
+            "text": "#BeyondBlockTaipei is today! There will be live streaming starts at 9:30 AM UTC+8\nMorning stream: https://m.youtube.com/watch?v=md9iNDdAmVo&feature=youtu.be\u00a0\u2026\nAfternoon stream: https://m.youtube.com/watch?feature=youtu.be&v=9RtSod8EXn4\u00a0\u2026\nMore info please visit the official website:http://ethertw.github.io/bbt2017\u00a0",
+            "username": "eth_taipei",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "337574845279772672": {
+            "id": "337574845279772672",
+            "text": "ePetition f\u00fcr Netzneutralit\u00e4t \u00fcberspringt am dritten Tag die 30.000er Marke. Mitzeichnen kostet nichts. https://netzpolitik.org/2013/epetition-fur-netzneutralitat-uberspringt-am-dritten-tag-die-30-000er-marke/\u00a0\u2026 #drosselkom",
+            "username": "netzpolitik",
+            "num_likes": 11,
+            "num_retweets": 70,
+            "num_replies": 1
+        },
+        "302306381179002881": {
+            "id": "302306381179002881",
+            "text": "Hello, this is @jakefogelnest. As a public service, I have registered this Twitter account to prevent another parody account.",
+            "username": "RussiaMeteor",
+            "num_likes": 554,
+            "num_retweets": 634,
+            "num_replies": 46
+        },
+        "269542457774075906": {
+            "id": "269542457774075906",
+            "text": "Wein auf Wein, das ist fein.\nBier auf Bier, das rat' ich dir.",
+            "username": "sechsdreinuller",
+            "num_likes": 34,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "269114278194335744": {
+            "id": "269114278194335744",
+            "text": "Frau sagt, wenn ich halb so oft \u201eIch liebe dich,\u201c wie \u201eEs ist saukalt.\u201c sagen w\u00fcrde, ginge ich trotz Bierfahne als Romantiker durch.",
+            "username": "der_handwerk",
+            "num_likes": 26,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "246904012148977664": {
+            "id": "246904012148977664",
+            "text": "Im Jahr 2022 werden Europas Fischbest\u00e4nde leer gefischt sein. Gemeinsam f\u00fcr eine nachhaltige Fischerei: http://www.schwarm.wwf.de\u00a0 #schwarm2012",
+            "username": "WWF_Deutschland",
+            "num_likes": 20,
+            "num_retweets": 71,
+            "num_replies": 1
+        },
+        "243410526934282240": {
+            "id": "243410526934282240",
+            "text": "On September 5, 1936 Robert Capa took the famed photo \u201cThe Falling Soldier,\u201d a symbol of the Spanish Civil War.pic.twitter.com/jvK9l3sZ",
+            "username": "leica_camera",
+            "num_likes": 11,
+            "num_retweets": 53,
+            "num_replies": 1
+        },
+        "241082157374783488": {
+            "id": "241082157374783488",
+            "text": "Zeit Online: Viel Kritik, wenig Lob f\u00fcr Leistungsschutz-Gesetz http://www.zeit.de/digital/internet/2012-08/leistungsschutz-kritik\u00a0\u2026 #lsr",
+            "username": "digiges",
+            "num_likes": 3,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "240657591913558017": {
+            "id": "240657591913558017",
+            "text": "Bevor es heute ins Kabinett geht: ein aktuelles Video zum Leistungsschutzrecht: Was will Springer, was sagt Google #LSRhttp://youtu.be/ph3XfZvpIZo\u00a0",
+            "username": "ElRep",
+            "num_likes": 5,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "239970363755347968": {
+            "id": "239970363755347968",
+            "text": "EFF: #TPP geht gef\u00e4hrlich weit \u00fcber #ACTA hinaushttp://bit.ly/QjoDoo\u00a0",
+            "username": "netzpolitik",
+            "num_likes": 4,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "117160630527594496": {
+            "id": "117160630527594496",
+            "text": "Right, if the CERN experiment proves to be correct and neutrinos have broken the speed of light, I will eat my boxer shorts on live TV.",
+            "username": "jimalkhalili",
+            "num_likes": 19,
+            "num_retweets": 302,
+            "num_replies": 62
+        }
+    },
+    "tweeted": {
+        "1126106750904487936": {
+            "id": "1126106750904487936",
+            "text": "Crazy conspiracy theory of the day: Binance staged the hack. lolhttps://twitter.com/CasPiancey/status/1125917399335571456\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1125937365980082176": {
+            "id": "1125937365980082176",
+            "text": "Wait a minute. Binance stores 2FA codes on a server?pic.twitter.com/xqpg8xbvBd",
+            "username": "Philiff",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1125401617656733697": {
+            "id": "1125401617656733697",
+            "text": "The ENS manager seems to have all features now. The only one that I'm missing is the list of free subdomains I can get, such as example.thisisme.eth (see ENSnow). Secondary market like on @NameBazaar0x & @ens_listing would be nice to havepic.twitter.com/OdZ0YbCoNu",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1125401604281081856": {
+            "id": "1125401604281081856",
+            "text": "I bought @ensdomains on @ens_listing & http://now.ens.domains/\u00a0. After checking http://manager.ens.domains\u00a0\nI needed to update both domains to the new resolver. Is ENS Manager now the go-to tool for buying and managing new ENS domains? Looks smooth so far on @imTokenOfficial !",
+            "username": "Philiff",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1123397872571994112": {
+            "id": "1123397872571994112",
+            "text": "Programmable money is huge. But there is many more simple but big ideas: for example 'login with ethereum', like localethereum implemented it. See Vitalik's tweets from just nowhttps://twitter.com/VitalikButerin/status/1123136930177118209?s=19\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1123397870697103361": {
+            "id": "1123397870697103361",
+            "text": "Where does this 'Ethereum is programmable money' narrative come from? It highly underestimates the ability of Ethereum and general purpose blockchains",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1123140274346123265": {
+            "id": "1123140274346123265",
+            "text": "instant brainstorm of ethereum use caseshttps://twitter.com/VitalikButerin/status/1123136930177118209\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 20,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1121958736791130112": {
+            "id": "1121958736791130112",
+            "text": "The new private mode that hides my account in screenshots. Didn't even notice we had that online already.pic.twitter.com/uJ2WaMzm1K",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121958074892210176": {
+            "id": "1121958074892210176",
+            "text": "The Cosmos feature is pretty cool ... but the new wallets overview is just awesome, seriously. 10/10 would update againhttps://twitter.com/imTokenOfficial/status/1121938756334837761\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1121774816762060801": {
+            "id": "1121774816762060801",
+            "text": "Shout-out to Dave. Our Telegram admin. He is probably the hardest working man ever, and he is the only imToken member in Africa. He's stays unbelievably patient answering typical questions like the one belowpic.twitter.com/lHPNWJYV44",
+            "username": "Philiff",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1121697761181593601": {
+            "id": "1121697761181593601",
+            "text": "How do I query Cosmos memo fields? Would be nice to have a statistic. Idea by @FelixLts pic.twitter.com/ilPk8X7VTV",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1118336482421297153": {
+            "id": "1118336482421297153",
+            "text": "What's an easy way to receive money from US to China, from people that don't want to/can't use crypto?\n\nPaypal doesn't work from China (for me). Using VPN it blocks me and makes me verify with a Chinese mobile number that it wouldn't let me add in the first place. Unusable.",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1117992498834444289": {
+            "id": "1117992498834444289",
+            "text": "Etherscan provides a DEX aggregator\n\nhttps://etherscan.io/orderbooks?addr=0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359&amt=1&exc=3,5,7,9,2,4,1,8,6&type=ask\u00a0\u2026pic.twitter.com/mKgisAMxTU",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1117599495871578112": {
+            "id": "1117599495871578112",
+            "text": "Had a great time at #EDCON I'm grateful for the invitation to present  & for all the friendly people in Sydney! pic.twitter.com/Q2yYLPsj6O",
+            "username": "Philiff",
+            "num_likes": 15,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116540367254409217": {
+            "id": "1116540367254409217",
+            "text": "https://twitter.com/DestinerX/status/1102138670390349824\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116539793750417408": {
+            "id": "1116539793750417408",
+            "text": "Get into the details and discussion athttps://forum.0x.org/t/research-on-protocol-fees-and-liquidity-incentives/340\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1116514724617703425": {
+            "id": "1116514724617703425",
+            "text": "0x is proposing to incentivize the maker-side of 0x markets. A similar approach worked well for Uniswaphttps://twitter.com/0xProject/status/1116400317191475200\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1116229276003471360": {
+            "id": "1116229276003471360",
+            "text": "Serious question: Why is not everybody staking with Sikka? #COSMOSpic.twitter.com/TXF8ZONuoz",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1115897314839805952": {
+            "id": "1115897314839805952",
+            "text": "  selfie me!https://twitter.com/imTokenOfficial/status/1115897039970344960\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115810393421574145": {
+            "id": "1115810393421574145",
+            "text": "#EDCON to do list:\n- Ask @pet3rpan_ how to stay young forever\n- Get interviewed\n- Get selfied\n- Catch a kangaroo so I don't need to buy expensive chocolate for the @imTokenOfficial team at duty freehttps://twitter.com/AlexSaundersAU/status/1115800855914078208\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1115523888568365056": {
+            "id": "1115523888568365056",
+            "text": "It's all fueled by greed. \n\nProducts that satisfy the desire for MORE are attracting users, products that save users an identical amount of money are not.pic.twitter.com/bXF0WbSZnb",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115490137184464901": {
+            "id": "1115490137184464901",
+            "text": "Proofed my attendance at #EDCONhack via @poapxyzpic.twitter.com/JJZoS7ZwZ1",
+            "username": "Philiff",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1114321994755895296": {
+            "id": "1114321994755895296",
+            "text": "All in btc?https://twitter.com/AndrewYang/status/1114177137483890689\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114190715523747840": {
+            "id": "1114190715523747840",
+            "text": "The world needs more gifs (in Medium posts)\n\nMy quick & dirty way for the right balance between file size and quality\n http://ezgif.com/\u00a0 \n1) Video to GIF, \n2) Resize, \n3) Optimize file size\n\nWhat's the professional way to mp4->gif though?",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114041164087189505": {
+            "id": "1114041164087189505",
+            "text": "cc @wizardofdapps @trmlabs",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1114041162279448576": {
+            "id": "1114041162279448576",
+            "text": "An analysis of the top 100 most frequent DApps users would be great\n\nI would like to see \nHow many DApps they use, and \nWhat kind of DApps\nAlso, what kind of bots and real users exists",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1113990195852931072": {
+            "id": "1113990195852931072",
+            "text": "Ownership is the false promise of security",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113729539249565696": {
+            "id": "1113729539249565696",
+            "text": "... Chinese Ctrip as video pic.twitter.com/E4t90EVl9w",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1113729511256772609": {
+            "id": "1113729511256772609",
+            "text": "Ctrip is China's Booking_com.\n\nCheck out their China-style UI!\n English app the left\nChinese app on the rightpic.twitter.com/O5HkiPKO4A",
+            "username": "Philiff",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1113711352864956416": {
+            "id": "1113711352864956416",
+            "text": "If your password field only accepts passwords with \n\n5-20 characters, min. 1 digit, min. 1 upper, min. 1 lower case, min. 1 special character (but only {!, ?, ^})...\n\n... then you probably never dealt with Chinese users before. Because they will close your app after 1 failed try.",
+            "username": "Philiff",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1113678560231694336": {
+            "id": "1113678560231694336",
+            "text": ".@LocalEthereum #LocalDAI confirmed! ",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1113322032568066048": {
+            "id": "1113322032568066048",
+            "text": "Chinese working conditions are crazyIt's true. \nNot so at imToken!\n\nWe offer nice colleagues, redon an Wed. afternoon while buidling the best Ethereum mobile wallet, in Singapore & HZ:\nCheck out opportunities in Product, Android/iOS dev, Design ... https://token.im/careers\u00a0https://twitter.com/Mitch_Kosowski/status/1113136889807204352\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113047371791777793": {
+            "id": "1113047371791777793",
+            "text": "Nice conversation with @InstaDApp's @sowmay_jain and @pet3rpan_ & @b_dsylvahttps://twitter.com/wizardofdapps/status/1113001537888874496\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1112910022000799744": {
+            "id": "1112910022000799744",
+            "text": "Chinese names are hard, because most people have at >=3\nThe real name. The one in your passport\nThe nickname. How friends and colleagues call you\nThe wechat name. The one the appears on top of a chat\n\n-> you know a person's real name, but can't find in your wechat contacts",
+            "username": "Philiff",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111199250036084736": {
+            "id": "1111199250036084736",
+            "text": "Chongqing is the probably weirdest city I have ever been to. Check out the pictures in Carl's threadhttps://twitter.com/CarlZha/status/1110551894961709056\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108956211708215302": {
+            "id": "1108956211708215302",
+            "text": "Even though ETH prices are comparatively low, people are willing to spend ETH on open games\nhttps://dappradar.com/app/15/opensea\u00a0pic.twitter.com/jzyHiIBDEV",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108956192351514624": {
+            "id": "1108956192351514624",
+            "text": "Most Open Games (non-gambling) involve NFTs, mostly ERC721. This space - including NFT-based art and others - growshttps://twitter.com/projectopensea/status/1105616695148855296\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1108956190086561792": {
+            "id": "1108956190086561792",
+            "text": "Open Gaming becomes more interesting with growing synergies, similar to what's happening in open finance.\n\nIn Open Gaming ...\nin-game items trade on open markets @projectopensea @rarebits_io\n1 item is valuable in multiple games @GodsUnchained + @CryptoKitties",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106066374923771904": {
+            "id": "1106066374923771904",
+            "text": " hahapic.twitter.com/ItpJYB079g",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1106066135206653952": {
+            "id": "1106066135206653952",
+            "text": "It's actually really cool @Victor928 . \nWe did this event with @Radi_Cards where you would buy an NFT that entails a 'dinner with the imToken team'. Guess who bought two of them? -> our own @Aaaaaa_Shu",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1105397532681658368": {
+            "id": "1105397532681658368",
+            "text": "Victor opens his office door using an non-fungible digital key https://twitter.com/Victor928/status/1102781229399650304\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1105308814612422657": {
+            "id": "1105308814612422657",
+            "text": "Does this already exist? A blockchain staking service as a traditional financial product in USD. Deposit USD and earn interest.\nIn the background, USD is converted into the tokens with highest yields & according to risk profile, and portfolio is rolled over every 24 hours or so.",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1104100867601399808": {
+            "id": "1104100867601399808",
+            "text": "\u5e72\u676fhttps://twitter.com/smykjain/status/1104023695377330176\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103572328154247169": {
+            "id": "1103572328154247169",
+            "text": "It's called \u5237\u8138\u652f\u4ed8 meaning swiping the face (instead of card) to pay. That's Hangzhou there for you.\n\nAlso in Hangzhou: Checking in to your hotel using Face-IDpic.twitter.com/s7zkiesixW",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103486610480390145": {
+            "id": "1103486610480390145",
+            "text": "You can now pay with your face using Alipaypic.twitter.com/CUnNwMMyA4",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1102030447016460289": {
+            "id": "1102030447016460289",
+            "text": "Then Kyber integrated Uniswap as a liquidity reserve, paying the Kyber-own fees out of their own pocket for nowpic.twitter.com/vijYFhq8i9",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1101680649767858176": {
+            "id": "1101680649767858176",
+            "text": "Bancor did this supply/demand-based price finding for low liquidity tokens\n\nUniswap takes the idea, and it gets big because there's no token needed\n\nThe idea spreads & Kyber release their own version that adds liquidity to their in-app DEX use case  ->https://developer.kyber.network/docs/AutomatedReservesGuide/\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1100632562626482177": {
+            "id": "1100632562626482177",
+            "text": "The bad thing about Coinomi is not only the vulnerability but that they apparently didn't react to an user who lost a huge amount of BTC, if true \nhttps://www.reddit.com/r/CryptoCurrency/comments/av7gfi/warning_coinomi_wallet_critical_vulnerability/\u00a0\u2026https://twitter.com/tayvano_/status/1100617968960978944\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1097812351682777088": {
+            "id": "1097812351682777088",
+            "text": "What's a good resource for people to start learning about cryptocurrencies and blockchain? Personally I always recommend a16z's crypto canon. It gives a nice overview but also goes into depths with a collection of links: https://a16z.com/2018/02/10/crypto-readings-resources/\u00a0\u2026https://twitter.com/Philiff/status/1097513469136404480\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1097513469136404480": {
+            "id": "1097513469136404480",
+            "text": "The prices are so low, Ethereum meetups feel like 4 years ago",
+            "username": "Philiff",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1095522290190639106": {
+            "id": "1095522290190639106",
+            "text": "6/ tl,dr Losing a private key is worse than losing a house key. It's also worse than losing a credit card.\n\nBecause all 3 are fundamentally different: \nThe house is physically protected (change the lock)\nBank money is protected by jurisdictions\n\nEthereum will have jurisdictions!",
+            "username": "Philiff",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1095522288298934272": {
+            "id": "1095522288298934272",
+            "text": "5/ On Ethereum, there is no such thing as a digital jurisdiction! For rolling back token transfers. Maybe somebody will build it.\n\nThen some surely scream: That's centralized. It's only politically centralized -> check outhttps://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1095522285862023168": {
+            "id": "1095522285862023168",
+            "text": "4/ fun fact: The more jurisdictions are involved, the more complicated the recovery gets   https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1095522283823652865": {
+            "id": "1095522283823652865",
+            "text": "3/ If I lose a password to my bank account (or credit card data or key to my house) the transactions can be cancelled with a call to the authority, e.g. bank.\n\nThat's  ultimately because of laws, jurisdictions that use those laws: Steal money -> go to prison",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1095522281290256384": {
+            "id": "1095522281290256384",
+            "text": "2/ If you steal my private key, you own my identity on @Cent @3boxdb etc, you are able to receive future income on @compoundfinance etc ... and so on.. you get the idea",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1095522279054659584": {
+            "id": "1095522279054659584",
+            "text": "1/ There is 2 main difference in implications between a password and a private key that even techy people seem to miss\n\nA) Private keys sign (i.e. allow to steal) a lot of stuff that is not token transfers and\nB) You are not able to role back all this transactions (as of now)",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1095522276944953346": {
+            "id": "1095522276944953346",
+            "text": "Coinbase wallet's communication is interesting.\nTheir introduction of cloud backup gets similar reactions as Ledger introducing a bluetooth wallet: 'INSECURE'\n\nIt's (mostly) because people intuitively know that Private Keys are more precious than passwords. /0https://twitter.com/CoinbaseWallet/status/1095386639105384448\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1095506662255878144": {
+            "id": "1095506662255878144",
+            "text": "I see two downsides for LastPass-style backups\n- coinbase server might be able to block my request to restore the account\n- the process introduces attack vectors (google 'LastPass Security issues')\n\nThe upside however is bighttps://twitter.com/CoinbaseWallet/status/1095386639105384448\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095215418619453445": {
+            "id": "1095215418619453445",
+            "text": "The 'Release bitcoins' button on @LocalBitcoins releases your Bitcoin/fiat BEFORE you received the counterside's payment. \n\nYou never ever want to click that one by mistake. Agree?\n\nSo, why is it green, has a check mark and helpful sounding 'release' on it?pic.twitter.com/ZSfgPRqHAJ",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094868104105152513": {
+            "id": "1094868104105152513",
+            "text": "One great thing about web3 is *credible accounting*. And it's already here. \n\nImagine 3 parties: 1) User buys something via ETH 2) from you and 3) I get a referral fee.\n\nThe accounting is on chain. We can both verify the transaction. Sounds trivial, but safes the legal contracts.",
+            "username": "Philiff",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1094837726136934400": {
+            "id": "1094837726136934400",
+            "text": "There's disoriented penguins in our world. https://www.youtube.com/watch?v=zWH_9VRWn8Y\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094142275922231296": {
+            "id": "1094142275922231296",
+            "text": "To me, business development is really a lot about exploringpic.twitter.com/wQxhnU34Bv",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094142273900634112": {
+            "id": "1094142273900634112",
+            "text": "Business Development takes a lot of forms. If done right, it's simply filling the gap between current state of the company and its goal\n\nEven if done right, BD tasks vary a lot, and most of it is finding 10 opportunities and filtering out 1 to then research in depth & experiment",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1094128009613783040": {
+            "id": "1094128009613783040",
+            "text": "I can't trust smart contracts that have update-backdoors\nSolution: A dApp frontend points to a new, updated (backdoor-less) contract\n\nBut is that new contract really secure? \nSolution: My wallet subscribes to events & shows change-logs & trust scores\n\nthx @smarx @kashishkhullar3",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094073622635794433": {
+            "id": "1094073622635794433",
+            "text": "A copy of a @marble_cards NFT has the same value as the original token. It's art. Its value is the picture.\n\nA copy of a @GodsUnchained NFT wouldn't be part of the game and therefore worthless.",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1094072427003297795": {
+            "id": "1094072427003297795",
+            "text": "Buying a virtual card - that can be copied - is completely irrational AND funhttps://twitter.com/marble_cards/status/1093846464487481351\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093175136503574528": {
+            "id": "1093175136503574528",
+            "text": "Would somebody be interested in a post on thoughts about why dApp browsers will become dApp stores? Something along the lines: \nBrowsers are like operation systems, provide navigation and access.\nApp stores provide organized views on apps with change logs, categories/ratings.https://twitter.com/Philiff/status/1093166859262689280\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1091013611286188032": {
+            "id": "1091013611286188032",
+            "text": "Ethereum NFT/ERC721 projects! Make sure that your NFTs are listed on \n https://rarebits.io/developers/submit\u00a0\u2026\nhttps://opensea.io/get-listed\u00a0 \n\nIf it's not on there, it doesn't exist (for the user)\n\nTakes 3 mins to get your NIFTY schwifty and on all major wallets  - imToken, Trust, Balance ...pic.twitter.com/q4K7NpTNps",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1090880864479629312": {
+            "id": "1090880864479629312",
+            "text": "Someone could build a 5-star rating into this app, for rating behavior of fellow humans\n\nLikes this tweet and I'll give you 5 stars once this app existshttps://twitter.com/lrettig/status/1090605343720247297\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090809755726036992": {
+            "id": "1090809755726036992",
+            "text": "New whales are surfing the social media waves at imToken social accounts  \nWatch out   *so social*https://twitter.com/imTokenOfficial/status/1090807467473158144\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090142580111638530": {
+            "id": "1090142580111638530",
+            "text": "The downside of scrum/agile is that it doesn't force you to have a goal, vision or plan.",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088454383535181825": {
+            "id": "1088454383535181825",
+            "text": "During our short campaign with MakerDAO, we had 12k people clicking on the CDP Portal dApp.\n\nOut of the 12k users, 732 clicked a few times more and opened an CDP. \n\nI'm proud that we could get so many people taking a look at CDPs, but still wonder why 94% left in the process https://twitter.com/imTokenOfficial/status/1088377426856558592\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1088338497180622854": {
+            "id": "1088338497180622854",
+            "text": "Why do dApps still want your email address?\n\nIsn't an (pseudonymous) login via Ethereum address \n1) enough for pretty much any use case and \n2) even easier for the user (given the user is already set up with metamask etc)? \n\nor is there some fundamental legal issue I'm missing?",
+            "username": "Philiff",
+            "num_likes": 33,
+            "num_retweets": 4,
+            "num_replies": 12
+        },
+        "1087723564961271809": {
+            "id": "1087723564961271809",
+            "text": "On the @3boxdb community call, setting myself up for the future...\n\n    \ndid:muport:QmWWEjHQN5QdPPvhk5Bqa35hFHYy3Ct9dBHBZKvAdy2CjR    \n",
+            "username": "Philiff",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1087621316184702977": {
+            "id": "1087621316184702977",
+            "text": "Comparing internal numbers to numbers on @MakerScan (btw cool tool!)\n\n... almost all CDP's since Jan 16th where created within imToken \n\nBlog post on our (@MakerDAO x imBroken) little DAI-incentiviced education campaign upcoming ",
+            "username": "Philiff",
+            "num_likes": 38,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1087575817507328000": {
+            "id": "1087575817507328000",
+            "text": "Today I learned that the fertility rate in China is almost as low as in Germany, and of course falling over the last decades https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependencies_by_total_fertility_rate\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1087532116009660416": {
+            "id": "1087532116009660416",
+            "text": "I just received 3 DAI for finishing my first @ethBounties bounty  cash game",
+            "username": "Philiff",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1083712122570194944": {
+            "id": "1083712122570194944",
+            "text": "We opened & updated our DApp browser with categories and search \nAlmost got a app store feeling to it. I like it a lot now \nAnd after Chinese New Year, we might have a 'favorites' function https://twitter.com/imTokenOfficial/status/1083708103982546944\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082865864259526656": {
+            "id": "1082865864259526656",
+            "text": "The comment suggests it's an airdrop (\u7a7a\u6295)pic.twitter.com/5uToyKaaxw",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082858714443350016": {
+            "id": "1082858714443350016",
+            "text": "I came across some kind of Ethereum transactions. \nIs it Airdrops?\nWhat role does the SELF DESTRUCT play?\nhttps://etherscan.io/tx/0x43e54da79b16e690ab2f156388595c16c8aff86f228eccb82e801ebeee7e0e0b\u00a0\u2026\nhttps://etherscan.io/tx/0x1ee0a2f31f72581b5a9fade39395cfe9c043726c6c1154b913cd9b893b59df32\u00a0\u2026pic.twitter.com/h9CfPrT330",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1074503018408599555": {
+            "id": "1074503018408599555",
+            "text": "Is there one single non-gambling game based on Ethereum that does not use collectibles/ERC721? \nI searched something like the top 100 on @DappRadar and didn't find a single one",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1069837879491395584": {
+            "id": "1069837879491395584",
+            "text": "What xmas specials do you want to see on imToken? Games, multi-million dollar give-aways, NFT gifts, nothing?",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1068100911942103040": {
+            "id": "1068100911942103040",
+            "text": "Who might be interested in following Ethereum Provider standards/discussions? @pedrouid @ricburton @petejkim @vikmeup @inzhoop @CharlesSWE @Tbaut",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1068100909266128897": {
+            "id": "1068100909266128897",
+            "text": "A Ethereum 'Provider Ring' just started organizing (dis)agreement between everybody involved in Ethereum Web3 Providers! \nJoin, follow & start discussing -> https://ethereum-magicians.org/c/working-groups/provider-ring\u00a0\u2026 and for in-depth discussion:https://discord.gg/aYvHeSC\u00a0",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1066221038244048897": {
+            "id": "1066221038244048897",
+            "text": "So how am I able to be part of it? @pet3rpan_ ",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1066145441664782337": {
+            "id": "1066145441664782337",
+            "text": "Peter is the reason why anarchy doesn't work.https://twitter.com/pedrouid/status/1066093146193440768\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1064679504033984512": {
+            "id": "1064679504033984512",
+            "text": "Will be useful during the holidays @nadannlospic.twitter.com/bHmUGtGSqt",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1064453886964981760": {
+            "id": "1064453886964981760",
+            "text": "note to myself... how to explain a narrative of bitcoin\nhow would you build a modern currency?\n1) digital, because convenient\n2) global unlimited, because convenient and fair\n3) decentralized (i.e. without single control), because good for freedom of individualhttps://twitter.com/ljxie/status/1064070245487235072\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1062611068596318209": {
+            "id": "1062611068596318209",
+            "text": "@ConsenSys ethql looks nice! https://github.com/ConsenSys/ethql\u00a0 \nBut I can't find a way to output the gas limit. Any ideas @akhilasraju @raulvk",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1062607546077261824": {
+            "id": "1062607546077261824",
+            "text": "Which tools can I use right now to query: 'Ethereum transactions in a specific time frame with specific gas limit'?",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1061104406349791234": {
+            "id": "1061104406349791234",
+            "text": "Display-less hardware wallets as key backups are great \n\nBecause they are cheap, you backup one key on 5 cards  \n\nDuring the backup process nobody is able to see the Mnemonic/key!\n\nBut, you have to trust the machine that copies your card  and your pin https://twitter.com/gravityblast/status/1060820111202942977\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060416659670753280": {
+            "id": "1060416659670753280",
+            "text": "How can offering USDT-style cryptocurrency be a sustainable business model?",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1060397580759126017": {
+            "id": "1060397580759126017",
+            "text": "Major step done.pic.twitter.com/qo7Gt2Ze2y",
+            "username": "Philiff",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059310318533263360": {
+            "id": "1059310318533263360",
+            "text": "Just realized that Keepkey CTO's name is Ken Hodler. Awesome name, @bgok !",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1058695879044055041": {
+            "id": "1058695879044055041",
+            "text": "This flight has a funny mix of Shanghainese and crypto aficionados",
+            "username": "Philiff",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056923931813175297": {
+            "id": "1056923931813175297",
+            "text": "Aggressively sending some Raiden txpic.twitter.com/y7uoWNYxfU",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056653555870789632": {
+            "id": "1056653555870789632",
+            "text": "Meet us at devcon or don't.https://twitter.com/imTokenOfficial/status/1056587273796489216\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1055780183482032128": {
+            "id": "1055780183482032128",
+            "text": "After working together with @GodsUnchained to get the DApp online, we noticed that GU already has a fan club in China plus a Chinese name as well as blog post describing the whole deal. Will be pretty interesting to watch in which parts of the world this is going to take offhttps://twitter.com/imTokenOfficial/status/1055772669822558208\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1055544700491440130": {
+            "id": "1055544700491440130",
+            "text": "Wait @ddex_io , you put advertisement at Prague airport? https://twitter.com/Arjun_Bhuptani/status/1055523598532857857\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1055462089450373120": {
+            "id": "1055462089450373120",
+            "text": "Don't be imBroken,\nUse imToken!",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1054263672699260928": {
+            "id": "1054263672699260928",
+            "text": "In the whole onboarding process, the user has never to login. The DApps simply recognize the user's ethereum address. Which is a great improvement compared to web2 UX, and can be an improvement in privacy and security.",
+            "username": "Philiff",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054263669083774977": {
+            "id": "1054263669083774977",
+            "text": "The building blocks are coming together. \n\nThe crypto onboarding as of today:\n\nThe no-coiner downloads the wallet app -> onboards to ETH via Alipay/Venmo/PayPal/cash etc @localethereum -> exchanges to BTC on @coinswitch & exchanges to ERC20 on @KyberNetwork @0xProject ..https://twitter.com/imTokenOfficial/status/1054254608334303232\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1048019577311916032": {
+            "id": "1048019577311916032",
+            "text": "Economic growth is ultimately limited by human intelligence, which is (the only) limited resource.https://twitter.com/eriktorenberg/status/1003833694711250944\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047492151364399104": {
+            "id": "1047492151364399104",
+            "text": "Just like Monopoly, Cards Against Humanity doesn't work playing with twins. For me it works especially well",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044861452576788480": {
+            "id": "1044861452576788480",
+            "text": "We thought about doing a NFT airdrop to loyal fans using an imToken ERC721 TokenFansToken (like imToken trading cards), but figured it's not worth the gas fees",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1044860978247143425": {
+            "id": "1044860978247143425",
+            "text": "@pedrouid at some point a public overview (on https://walletconnect.org/\u00a0 ?) will help us to convince DApps to integrate @WalletConnect",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044860553531977728": {
+            "id": "1044860553531977728",
+            "text": "Is there actually an overview over wallets as well as DApps that integrated @WalletConnect or plan to do so? Would be happy to help working on this",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1044857216501714944": {
+            "id": "1044857216501714944",
+            "text": "That's basically the first NFT airdrophttps://twitter.com/MLBChampions/status/1042215364195540992\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1042808743942148106": {
+            "id": "1042808743942148106",
+            "text": "Makes sense? Anyway here an explanation in MS paintpic.twitter.com/8I4gKs8VM8",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1042807399344529408": {
+            "id": "1042807399344529408",
+            "text": "When we discussed the setup of some legal entities drawing links on a blackboard, \n\nand at some point linking a specific smart contract within the network of specific companies.\n\nThat's when I realized that smart contracts are already (somehow) established.",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1042317128819339265": {
+            "id": "1042317128819339265",
+            "text": "\u6240\u6709\u4ee5\u592a\u574a\u4ea4\u6613\u768410\uff05",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1041969750463590400": {
+            "id": "1041969750463590400",
+            "text": "We are putting up some motivational quotes from @ETHBerlin  Buidl hard or go home.pic.twitter.com/DEHxvRcBhY",
+            "username": "Philiff",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1040010426761834498": {
+            "id": "1040010426761834498",
+            "text": "Verifying my identity on http://Peepeth.com\u00a0 0xcD0c599f1B6709A026978A75e0CA2021446E2ED6",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039184821497475072": {
+            "id": "1039184821497475072",
+            "text": "@EFDevcon @devcorn4 @ethereum Where can I see reviewer feedback of my declined submissions? There is only an empty comment sectionpic.twitter.com/UO7hOALEZo",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039091589778272256": {
+            "id": "1039091589778272256",
+            "text": "There are 3 different UX flows for paying with Wechat/Alipay. \n\nCrypto is building all of them right now. #uxunconf\n\n1) Via QR Code -> @WalletConnect \n2) Via deeplink into Wallets-> see below by @ricburton & @MikhailDobrokhv\n3) In-app browser -> wallets like @imTokenOfficialpic.twitter.com/yT3WkKL0qp",
+            "username": "Philiff",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1039073716909400064": {
+            "id": "1039073716909400064",
+            "text": "You wouldn't copy a wechat wallet.\n\nYou can & have to copy your crypto wallet (via Mnemonic).\n\nFor the end-user, this is the main difference.pic.twitter.com/OZLgAlEMvq",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038867333400485888": {
+            "id": "1038867333400485888",
+            "text": "Sending TFT. Making friends.pic.twitter.com/4qUqhlhIYw",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1038848582965780488": {
+            "id": "1038848582965780488",
+            "text": "Paying for my beer with @MakerDAO DAI using @imTokenOfficial at #ETHBerlinpic.twitter.com/9nFzwg8tKQ",
+            "username": "Philiff",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1038193392264478721": {
+            "id": "1038193392264478721",
+            "text": "Late night ball pit fights @ETHBerlinpic.twitter.com/KAgknYGxiY",
+            "username": "Philiff",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1037437690050838529": {
+            "id": "1037437690050838529",
+            "text": "The first bank in history that fails within a single day and resurrects right afterhttps://twitter.com/SpankChain/status/1037407724697473030\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1032505212362153984": {
+            "id": "1032505212362153984",
+            "text": "Curious about Crypto, China and Pizza?\n\nJoin our meetup \"East meets West - Culture Difference in Crypto Space\"\n\nSeptember 8th (Saturday of @BerBlockWeek) next to the @ETHBerlin space.\nhttps://www.eventbrite.com/e/east-meets-west-culture-difference-in-crypto-space-tickets-49127053339\u00a0\u2026\n@NervosNetwork @originprotocol @cosmos @imTokenOfficial & more",
+            "username": "Philiff",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1031898818294337538": {
+            "id": "1031898818294337538",
+            "text": "Social games in China are astonishingly similar to games we played in school in Germany. How come?",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1028955673822818304": {
+            "id": "1028955673822818304",
+            "text": "hey @CryptoCompare is it possible to update the imToken site?\n\n-> More supported tokens \n-> Cold wallet\n-> New logo\n-> Usability \naccording to https://medium.com/imtoken/announcing-imtoken-2-0-8ae08fae0f80\u00a0\u2026 and \nhttps://play.google.com/store/apps/details?id=im.token.app\u00a0\u2026 and \nhttps://itunes.apple.com/us/app/imtoken2/id1384798940\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1028150240182824960": {
+            "id": "1028150240182824960",
+            "text": "The English 'saver fare finder' is bad. But the German word 'Sparpreis-Finder' is not better in any respect; except for the germanness of the word and the Bindestrich-hyphen of course.pic.twitter.com/ELfRwl6cDH",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1028147635687907328": {
+            "id": "1028147635687907328",
+            "text": "Together with the 'Punctuality' tab, @DB_Bahn probably has the most German UX ever: 'Just keep it as it is'",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1028147254165614593": {
+            "id": "1028147254165614593",
+            "text": "I remember non-german friends had booked the worse train fairs, because they didn't know about the 'hack' of clicking on 'saver fares'. In fact, I myself had been confused by the 'save fare finder' when booking trains as a teenager.",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1028145994725130240": {
+            "id": "1028145994725130240",
+            "text": "I can't believe how @DB_Bahn still has 2 different tabs for finding trains and booking 'saver' trains.\n\n1) why not one tab?\n2) why showing worse prices for users that don't click on the 'save' fares?",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1027112977827164162": {
+            "id": "1027112977827164162",
+            "text": "Check out the new imToken 2.0 on product hunt and get your questions answered by our @beenhero https://www.producthunt.com/posts/imtoken-2-0#comment-body\u00a0\u2026https://twitter.com/imTokenOfficial/status/1027112653049614336\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1025298934791458816": {
+            "id": "1025298934791458816",
+            "text": "Thanks for joining our imToken 2.0 launch, Zac! I really enjoyed chatting about our favorite crypto project https://twitter.com/proofofz/status/1024347226942787584\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1025221746138394624": {
+            "id": "1025221746138394624",
+            "text": "A nice, short video on taobao wakeup call serviceshttps://twitter.com/SixthTone/status/1025207123284819968\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1024492103416537088": {
+            "id": "1024492103416537088",
+            "text": "Those pics of @beenhero are awesome!https://twitter.com/imTokenOfficial/status/1024384117620625408\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1024208287716143104": {
+            "id": "1024208287716143104",
+            "text": "imToken 2.0 is finally public on google play and apple app store. Best Wallet UX. Best features.https://twitter.com/imTokenOfficial/status/1024204690056085509\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1023835520441303041": {
+            "id": "1023835520441303041",
+            "text": "The best #imToken features in my opinion:\n- ETH, all ERC20 tokens, BTC Segwit\n- The first ever built-in Decentralized Exchanges with @0xProject and @KyberNetwork \n- Securely synchronized address book via #IPFS\n- Air-gapped cold wallet using an old mobile phone\n- New DApp browser",
+            "username": "Philiff",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1021670852834684928": {
+            "id": "1021670852834684928",
+            "text": "In fact, this hack happened 100% through social engineering. As of now, I couldn't find any good way to protect against it.",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1021670781720219648": {
+            "id": "1021670781720219648",
+            "text": "After a quick google search I found out that this hack is in fact a known security issue for @instagram . They simply haven't solved it yet. \n\nAnd my beautiful user name seems to have been a welcome target for this. I won't link the hack here, for obvious reasons.",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1020329419947237376": {
+            "id": "1020329419947237376",
+            "text": "Chinese ISPs will randomly inject spam on websitespic.twitter.com/XntVFbWQ7B",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1017235067138011137": {
+            "id": "1017235067138011137",
+            "text": "The false top-up attack, as published by @SlowMist_Team , enables the attacker to let you believe that a token has been successfully sent.https://twitter.com/imTokenOfficial/status/1017231075758637056\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1016548708853243904": {
+            "id": "1016548708853243904",
+            "text": "Love the @etherscan Ethereum GAS Tracker.\n\nHeads-up, it's still a little off some timespic.twitter.com/tGct3C1BPm",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1011801829074583553": {
+            "id": "1011801829074583553",
+            "text": "The mobile phone repair service is literally doing proof-of-work #powpic.twitter.com/q9VdtUIc8m",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1009968918050541568": {
+            "id": "1009968918050541568",
+            "text": "Hey @DappRadar , I  your website! One improvement could be showing the real volume for @0xProject. It's currently showing 0.00ETH but should be ~3k according to http://0xtracker.com\u00a0, which puts 0x on place no. 2 in respect to 24h trading volume",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1007165086866132992": {
+            "id": "1007165086866132992",
+            "text": "And it's gone. @kennyqi77pic.twitter.com/WGQMnGKJ9y",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1006936857614036992": {
+            "id": "1006936857614036992",
+            "text": "This is so obviously a scam impersonating our imToken app. \n\nHow is this still online after many people repeatedly reporting it for more than 1 week, @GooglePlay?pic.twitter.com/MKErSqERlW",
+            "username": "Philiff",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1004211259116437504": {
+            "id": "1004211259116437504",
+            "text": "Great summary of the IMF report on 'Monetary Policy in the Digital Age' $Cryptohttps://twitter.com/panekkkk/status/1003755118980976640\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1003620478445998085": {
+            "id": "1003620478445998085",
+            "text": "Don\u2019t roll your own Layer 1.https://twitter.com/loomnetwork/status/1003592116658954240\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1002213027343667201": {
+            "id": "1002213027343667201",
+            "text": "Actually, everybody thought it was me in the picture... ",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1002179990081781761": {
+            "id": "1002179990081781761",
+            "text": "'imToken users accounted for about 10 percent of the average daily activity on the #Ethereum Blockchain', says Bloomberg on #imToken @ConsenLabshttps://twitter.com/crypto/status/1002162289687003136\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "999559157043810304": {
+            "id": "999559157043810304",
+            "text": "\".. to the transparency inherent in blockchain projects, a system like Spotify will seem ridiculously untrustable to anyone from the blockchain world. The more people become experienced with blockchain solutions, the less support centralized solutions will inevitably receive.\"",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "999556984671096832": {
+            "id": "999556984671096832",
+            "text": "\u201cWe assume that Spotify\u2019s private code is correctly logging each track played, accounting the monetary payments correctly, and that they have no compromised server meddling with that process. Compared to the transparency inherent in\u2026\u201d\u200a\u2014\u200a@graeme_tweetshttps://medium.com/@graeme_boy/confessions-of-a-recovering-centralized-systems-engineer-a5e8f03911cd\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "997090616109547525": {
+            "id": "997090616109547525",
+            "text": "The forwarding contract is going to be cool: trading on 0x without the WETH stephttps://twitter.com/0xProject/status/996417684278411264\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "996369959860125697": {
+            "id": "996369959860125697",
+            "text": "$DAI = digital, open fiat\n$DGX = digital, open gold\n\nWhat's next? https://twitter.com/ConsenLabs/status/996299264547422208\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "994822820566831104": {
+            "id": "994822820566831104",
+            "text": "Of course there's a lot more after this start.\n\n@HackingChinese lists resources for every level and situation\n\nDM me for my favorite anki decks, podcasts and movies etc",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "994821953625251841": {
+            "id": "994821953625251841",
+            "text": "To friends who start learning #Mandarin Chinese, I recommend 3 tools that helped me immensely.\n\n1) Start with courses @memrise , a gamified flashcard tool\n\n2) Learning tones with Michel Thomas courses  http://www.michelthomas.com/learn-mandarin-chinese.php\u00a0\u2026\n\n3) Building a steady vocabulary with Anki flashcards",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "992227040127586304": {
+            "id": "992227040127586304",
+            "text": "We built an instant decentralized exchange (think: decentralized Shapeshift) on mobile. Use it to buy Dai or any other token available on @KyberNetwork #imToken 2.0https://twitter.com/ConsenLabs/status/992017182069477377\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991977869176795136": {
+            "id": "991977869176795136",
+            "text": "We are in Singapore tonight. Talking to those who didn't go to EDCON  #imTokenhttps://twitter.com/ConsenLabs/status/991960538849529856\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "989331541405847552": {
+            "id": "989331541405847552",
+            "text": "Die Welt in Hangzhou :)https://twitter.com/ConsenLabs/status/989127713708392453\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "988418727350710272": {
+            "id": "988418727350710272",
+            "text": "Guess, who is the one hidden in the shadows?",
+            "username": "Philiff",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "988417936598577153": {
+            "id": "988417936598577153",
+            "text": "Blockchain twins on the roadpic.twitter.com/lPpjf0o0rM",
+            "username": "Philiff",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "988029256012742656": {
+            "id": "988029256012742656",
+            "text": "Join us tomorrow night for Shanghai #Ethereum meetup with the lovely people from @gnosisPM @AragonProject @raiden_network @MakerDAO @melonport and us from @ConsenLabs http://meetu.ps/e/F6WWc/xc3BQ/d\u00a0https://twitter.com/gnosisPM/status/988027630954790913\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "987339499226058753": {
+            "id": "987339499226058753",
+            "text": "Great article about breakthrough of using neutral networks in chaos theoryhttps://twitter.com/nattyover/status/986669370129690646\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "986486564803899393": {
+            "id": "986486564803899393",
+            "text": "Our team at imToken integrated both @0xProject and @KyberNetwork creating the seamless, instant token ATM in your pocket. \nStay tuned for more nice features of imToken 2.0 :)\nAccess #imToken 2.0 beta through the current app, available at https://token.im/\u00a0https://twitter.com/ConsenLabs/status/986477461591306240\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "973541304398266368": {
+            "id": "973541304398266368",
+            "text": "We got 200+ people excited for #Ethereum in Shanghai tonight. All packed in a small room with view, thanks to @MakerDAO @ethfans and all the otherspic.twitter.com/wvBHZTtDeK",
+            "username": "Philiff",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "302702298709241856": {
+            "id": "302702298709241856",
+            "text": "Wut?? RT @academicearth: \u201cLearning never exhausts the mind.\u201d \n\u2015 Leonardo da Vinci",
+            "username": "Philiff",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "300350524824379394": {
+            "id": "300350524824379394",
+            "text": "Mama ist die beste",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "297198607059259392": {
+            "id": "297198607059259392",
+            "text": "scumbag firealarm being a scumbaghttp://imgur.com/fqKKmGi\u00a0",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "294441256086540288": {
+            "id": "294441256086540288",
+            "text": "Dieser Blog ist echt der gr\u00f6\u00dfte! http://bob.bwl.uni-mainz.de/edv197/\u00a0 @iammrrabbit",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "289751997085786112": {
+            "id": "289751997085786112",
+            "text": "ghost at the drive through.. http://randomyesusefulno.com/post/40118793955/drive-through-invisible-driver-prank-via-ben\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "288757070390497280": {
+            "id": "288757070390497280",
+            "text": "we never look up..\nhttp://weneverlookup.tumblr.com/\u00a0",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "274519636064747520": {
+            "id": "274519636064747520",
+            "text": "Eine Visualisierung zur Netzneutralit\u00e4t, jetzt auf Deutsch: http://echtesnetz.de/guide\u00a0",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "269184560674254848": {
+            "id": "269184560674254848",
+            "text": "lol RT @caschy Textastrophe http://bit.ly/RFygfA\u00a0 :D",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "236900169575170048": {
+            "id": "236900169575170048",
+            "text": "Basketball beim #rigassvetki. Top!pic.twitter.com/gDJErE65",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "236782455120592896": {
+            "id": "236782455120592896",
+            "text": "#Rigapic.twitter.com/1D9Tiy15",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "236777442356895744": {
+            "id": "236777442356895744",
+            "text": "#R\u012bgassv\u0113tki2012\nhttp://instagr.am/p/OdzFVuBg-t/\u00a0",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "179369664261009408": {
+            "id": "179369664261009408",
+            "text": "Caschy hauts raus; Danke altes Haus! http://bit.ly/wmDzr1\u00a0",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "168751790236508160": {
+            "id": "168751790236508160",
+            "text": "Raumnazis attackieren Berlinale | Telepolis http://www.heise.de/tp/artikel/36/36341/1.html/from/twitter\u00a0\u2026",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "166566906034262017": {
+            "id": "166566906034262017",
+            "text": "was ist denn mit der realness?",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "162963085034913792": {
+            "id": "162963085034913792",
+            "text": "stop it now! #StopACTA http://www.laquadrature.net/acta\u00a0",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "111186833551007744": {
+            "id": "111186833551007744",
+            "text": "most epic video ever! http://vimeo.com/28501846\u00a0",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "80340582211403776": {
+            "id": "80340582211403776",
+            "text": "The Kooks #junkofheart",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "78415057742069760": {
+            "id": "78415057742069760",
+            "text": "The beginning of the end? http://www.faz.net/artikel/C30217/nasa-sonnensturm-koennte-stromversorgung-stoeren-30434896.html #2012",
+            "username": "Philiff",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "preston_vanloon": 1,
+        "patio11": 1,
+        "LocalEthereum": 2,
+        "mr_ligi": 4,
+        "dex_ag": 1,
+        "elonmusk": 3,
+        "StakeCapital": 1,
+        "DestinerX": 3,
+        "sassal0x": 2,
+        "chinaschengyu": 2,
+        "phildaian": 2,
+        "NavalBot": 1,
+        "ensdomains": 1,
+        "getnuo": 1,
+        "ehtelescope": 1,
+        "0xzak": 1,
+        "smykjain": 1,
+        "CarlZha": 1,
+        "izzydoesizzy": 1,
+        "mikery": 1,
+        "ricburton": 4,
+        "mbrennanchina": 1,
+        "VitalikButerin": 8,
+        "veryNR": 1,
+        "max_bronstein": 1,
+        "bneiluj": 2,
+        "backus": 1,
+        "sowmay_jain": 1,
+        "cburniske": 1,
+        "atlasobscura": 2,
+        "SixthTone": 1,
+        "js_horne": 1,
+        "RyanSAdams": 1,
+        "JanelleCShane": 1,
+        "JRossTreacher": 1,
+        "DoveyWan": 1,
+        "naval": 3,
+        "lililashka": 1,
+        "3lbios": 1,
+        "3boxdb": 1,
+        "lorecirstea": 3,
+        "tongbingxue": 2,
+        "Balance_io": 1,
+        "nadannlos": 3,
+        "garybernhardt": 1,
+        "catallacticised": 1,
+        "bitfwdxyz": 1,
+        "zooko": 1,
+        "Gustav_tech": 3,
+        "JosefJelacic": 3,
+        "leashless": 2,
+        "compoundfinance": 1,
+        "ChurchOfConsens": 1,
+        "ethsingapore": 1,
+        "itsamyjung": 2,
+        "WalletConnect": 2,
+        "licuende": 2,
+        "eriktorenberg": 1,
+        "wearekickback": 1,
+        "PanvalaMark": 1,
+        "RadarRelay": 1,
+        "avsa": 1,
+        "makoto_inoue": 2,
+        "imTokenOfficial": 18,
+        "GSpasov": 1,
+        "pet3rpan_": 1,
+        "circlepay": 1,
+        "GodsUnchained": 1,
+        "ProfFeynman": 1,
+        "0xProject": 2,
+        "lrettig": 2,
+        "lyricalpolymath": 1,
+        "mrchrisdeluca": 1,
+        "EthMagicians": 1,
+        "coindesk": 1,
+        "dether_io": 2,
+        "NervosNetwork": 1,
+        "el33th4xor": 2,
+        "zeroknowledgefm": 1,
+        "AlexBoerger": 1,
+        "Alternativlos": 1,
+        "dobrokhvalov": 1,
+        "ellenmari22": 1,
+        "qnou": 1,
+        "levelsio": 1,
+        "kyletorpey": 1,
+        "brianchoffman": 1,
+        "ethstatus": 1,
+        "paulkhls": 2,
+        "aqxu": 2,
+        "Qijun_Wang": 1,
+        "AlwaysBCoding": 1,
+        "srndptme": 1,
+        "SlowMist_Team": 3,
+        "AragonProject": 2,
+        "ProductHunt": 1,
+        "metamask_io": 1,
+        "taps": 1,
+        "IM_23pds": 1,
+        "wallethapp": 1,
+        "proofofz": 1,
+        "LefterisJP": 4,
+        "ethereum": 1,
+        "NeerajKA": 1,
+        "poanetwork": 1,
+        "loi_luu": 2,
+        "simondlr": 1,
+        "adrian_brink": 1,
+        "tylercowen": 2,
+        "KeneticCapital": 1,
+        "dekz": 1,
+        "Mitch_Kosowski": 2,
+        "dhh": 1,
+        "xrw": 2,
+        "mi_ayako": 1,
+        "pedrouid": 2,
+        "technocrypto": 1,
+        "aantonop": 1,
+        "_jillruth": 1,
+        "katherineykwu": 1,
+        "cdixon": 1,
+        "ljxie": 1,
+        "ameensol": 2,
+        "icebearhww": 1,
+        "ParatiiVideo": 1,
+        "ethindiaco": 1,
+        "IDGCapital": 1,
+        "decentraland": 1,
+        "ParityTech": 1,
+        "TechCrunch": 1,
+        "gitcoin": 1,
+        "QWQiao": 1,
+        "mikekelly85": 1,
+        "owocki": 1,
+        "nibupraju": 2,
+        "JonGilfillan": 1,
+        "myetherwallet": 1,
+        "KyberNetwork": 1,
+        "Cyrus": 1,
+        "thegrifft": 1,
+        "adamSoffer": 1,
+        "izqui9": 1,
+        "sergiocesaretti": 1,
+        "frank_rieger": 1,
+        "karl_dot_tech": 1,
+        "kilrau": 1,
+        "ercwl": 1,
+        "raiden_network": 3,
+        "ErikVoorhees": 1,
+        "zaoyang": 1,
+        "eth_taipei": 2,
+        "netzpolitik": 2,
+        "RussiaMeteor": 1,
+        "sechsdreinuller": 1,
+        "der_handwerk": 1,
+        "WWF_Deutschland": 1,
+        "leica_camera": 1,
+        "digiges": 1,
+        "ElRep": 1,
+        "jimalkhalili": 1
+    },
+    "users_retweeted": [
+        "imTokenOfficial",
+        "VitalikButerin",
+        "mr_ligi",
+        "ricburton",
+        "LefterisJP",
+        "elonmusk",
+        "DestinerX",
+        "naval",
+        "lorecirstea",
+        "nadannlos",
+        "Gustav_tech",
+        "JosefJelacic",
+        "SlowMist_Team",
+        "raiden_network",
+        "LocalEthereum",
+        "sassal0x",
+        "chinaschengyu",
+        "phildaian",
+        "bneiluj",
+        "atlasobscura",
+        "tongbingxue",
+        "leashless",
+        "itsamyjung",
+        "WalletConnect",
+        "licuende",
+        "makoto_inoue",
+        "0xProject",
+        "lrettig",
+        "dether_io",
+        "el33th4xor",
+        "paulkhls",
+        "aqxu",
+        "AragonProject",
+        "loi_luu",
+        "tylercowen",
+        "Mitch_Kosowski",
+        "xrw",
+        "pedrouid",
+        "ameensol",
+        "nibupraju",
+        "eth_taipei",
+        "netzpolitik",
+        "preston_vanloon",
+        "patio11",
+        "dex_ag",
+        "StakeCapital",
+        "NavalBot",
+        "ensdomains",
+        "getnuo",
+        "ehtelescope",
+        "0xzak",
+        "smykjain",
+        "CarlZha",
+        "izzydoesizzy",
+        "mikery",
+        "mbrennanchina",
+        "veryNR",
+        "max_bronstein",
+        "backus",
+        "sowmay_jain",
+        "cburniske",
+        "SixthTone",
+        "js_horne",
+        "RyanSAdams",
+        "JanelleCShane",
+        "JRossTreacher",
+        "DoveyWan",
+        "lililashka",
+        "3lbios",
+        "3boxdb",
+        "Balance_io",
+        "garybernhardt",
+        "catallacticised",
+        "bitfwdxyz",
+        "zooko",
+        "compoundfinance",
+        "ChurchOfConsens",
+        "ethsingapore",
+        "eriktorenberg",
+        "wearekickback",
+        "PanvalaMark",
+        "RadarRelay",
+        "avsa",
+        "GSpasov",
+        "pet3rpan_",
+        "circlepay",
+        "GodsUnchained",
+        "ProfFeynman",
+        "lyricalpolymath",
+        "mrchrisdeluca",
+        "EthMagicians",
+        "coindesk",
+        "NervosNetwork",
+        "zeroknowledgefm",
+        "AlexBoerger",
+        "Alternativlos",
+        "dobrokhvalov",
+        "ellenmari22",
+        "qnou",
+        "levelsio",
+        "kyletorpey",
+        "brianchoffman",
+        "ethstatus",
+        "Qijun_Wang",
+        "AlwaysBCoding",
+        "srndptme",
+        "ProductHunt",
+        "metamask_io",
+        "taps",
+        "IM_23pds",
+        "wallethapp",
+        "proofofz",
+        "ethereum",
+        "NeerajKA",
+        "poanetwork",
+        "simondlr",
+        "adrian_brink",
+        "KeneticCapital",
+        "dekz",
+        "dhh",
+        "mi_ayako",
+        "technocrypto",
+        "aantonop",
+        "_jillruth",
+        "katherineykwu",
+        "cdixon",
+        "ljxie",
+        "icebearhww",
+        "ParatiiVideo",
+        "ethindiaco",
+        "IDGCapital",
+        "decentraland",
+        "ParityTech",
+        "TechCrunch",
+        "gitcoin",
+        "QWQiao",
+        "mikekelly85",
+        "owocki",
+        "JonGilfillan",
+        "myetherwallet",
+        "KyberNetwork",
+        "Cyrus",
+        "thegrifft",
+        "adamSoffer",
+        "izqui9",
+        "sergiocesaretti",
+        "frank_rieger",
+        "karl_dot_tech",
+        "kilrau",
+        "ercwl",
+        "ErikVoorhees",
+        "zaoyang",
+        "RussiaMeteor",
+        "sechsdreinuller",
+        "der_handwerk",
+        "WWF_Deutschland",
+        "leica_camera",
+        "digiges",
+        "ElRep",
+        "jimalkhalili"
+    ]
+}

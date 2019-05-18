@@ -1,0 +1,1418 @@
+{
+    "is_complete": true,
+    "username": "wildmolasses",
+    "retweeted": {
+        "1125390364691640321": {
+            "id": "1125390364691640321",
+            "text": "First attempt at removing cars off the roads with neural nets. Will have to dream harder.pic.twitter.com/DZj63CHo8B",
+            "username": "otduet",
+            "num_likes": 75001,
+            "num_retweets": 19238,
+            "num_replies": 1355
+        },
+        "1125544093134794755": {
+            "id": "1125544093134794755",
+            "text": "I'm not sure I know exactly what this means, but I do know that we produced it using R, TrueBlocks, and a locally running dAppNode. Can you say 100%, fully-decentralized blockchain explorer? #RunYourOwnNodepic.twitter.com/Hq5DMP7YdN",
+            "username": "quickblocks",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1114759761155608576": {
+            "id": "1114759761155608576",
+            "text": "Hanami in Sakura Square :)pic.twitter.com/xQ7UnaJP8k",
+            "username": "ChainSafeth",
+            "num_likes": 47,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1111536065607684096": {
+            "id": "1111536065607684096",
+            "text": "I just published a paper on what Ethereum is for.  It is entitled, \"Ethereum is game-changing technology, literally.\"https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8\u00a0\u2026",
+            "username": "virgilgr",
+            "num_likes": 415,
+            "num_retweets": 143,
+            "num_replies": 21
+        },
+        "1110000621476810755": {
+            "id": "1110000621476810755",
+            "text": "Many times this weekend I was asked to give the elevator version of @RadxChange views.  Here is my attempt: Civilization requires large scale organization.  Presently this is mostly either corporations or nation states. Corporations are profit-seeking and exploitative.",
+            "username": "glenweyl",
+            "num_likes": 130,
+            "num_retweets": 33,
+            "num_replies": 3
+        },
+        "1108545887012298752": {
+            "id": "1108545887012298752",
+            "text": "Getting so pumped for @RadxChange starting Friday!  For those in the community planning watch parties, and everyone else, here is the live stream link:https://www.youtube.com/channel/UCxRk8v1Wcxa1TIKTvqrtSOw/featured\u00a0\u2026",
+            "username": "glenweyl",
+            "num_likes": 86,
+            "num_retweets": 26,
+            "num_replies": 3
+        },
+        "1099429250979979265": {
+            "id": "1099429250979979265",
+            "text": "what if public libraries were open late every night and we could engage in public life there instead of having to choose between drinking at the bar and domestic isolation",
+            "username": "erinroseglass",
+            "num_likes": 222602,
+            "num_retweets": 48462,
+            "num_replies": 3091
+        },
+        "1099805726682349568": {
+            "id": "1099805726682349568",
+            "text": "A heartwarming example of the Ethereum community I know and love from a meetup we did this afternoon in Philly, organized by @quickblocks @tjayrush and @Abillie__. THIS is what makes Ethereum great. This is why I do what I do.pic.twitter.com/MzJPFfxJnY",
+            "username": "lrettig",
+            "num_likes": 101,
+            "num_retweets": 5,
+            "num_replies": 4
+        },
+        "1099094133996642304": {
+            "id": "1099094133996642304",
+            "text": "I find it really enjoyable to:\n\n Write out all the function signatures with no implementation\n\n Then add comments about what each function will do\n\n And finally, have smooth frictionless implementation because you've already answered all the questions during previous steps",
+            "username": "lenadroid",
+            "num_likes": 2994,
+            "num_retweets": 475,
+            "num_replies": 112
+        },
+        "1093659988273364992": {
+            "id": "1093659988273364992",
+            "text": "Thomas Jay Rush of @quickblocks starting off his talk on why you need to be running your own node! A full house here at @PromptWorks!pic.twitter.com/QscfXAkjcv",
+            "username": "PHLblockchain",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1085653150210478080": {
+            "id": "1085653150210478080",
+            "text": "I wanted to test a hypothesis that the ETH market is correlated with ETH lockup in DAI & see the impact of toggling money supply - as banks use monetary policy to target inflation & stabilize currency. So I ran several regressions between ETH / DAI. \n\n*Fun Crypto Data: A thread*",
+            "username": "evabeylin",
+            "num_likes": 185,
+            "num_retweets": 49,
+            "num_replies": 2
+        },
+        "1083039776062754816": {
+            "id": "1083039776062754816",
+            "text": "Help us spread the word about an incredible event I\u2019m running next week for female engineers interested in pursuing careers in blockchain. https://twitter.com/ericxtang/status/1083007727545274368\u00a0\u2026",
+            "username": "RaffiSapire",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1080069784644059139": {
+            "id": "1080069784644059139",
+            "text": "Now that people have already said highly controversial stuff like \u201ddebugger is useless for C++ development\u201d, I think I can share my own controversial thoughts about unit testing, DRY, copy-paste coding and function length, etc... with 20 years of C++ programming experience.",
+            "username": "SebAaltonen",
+            "num_likes": 3330,
+            "num_retweets": 1104,
+            "num_replies": 48
+        },
+        "1070923306138660865": {
+            "id": "1070923306138660865",
+            "text": "ABSOLUTE MINIMUM requirements for writing a secure smart contract:\n\n- Write 1 unit test for each `require` statement of your code\n- Run all the available open source auditing tools (Slither, Mythril, Securify, ...)\n- Get another pair of eyes to look at the code",
+            "username": "gakonst",
+            "num_likes": 130,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "1065405720256901120": {
+            "id": "1065405720256901120",
+            "text": "pic.twitter.com/QyjmyUeZwY",
+            "username": "EleanorClarinet",
+            "num_likes": 330,
+            "num_retweets": 183,
+            "num_replies": 3
+        },
+        "1060959965102272513": {
+            "id": "1060959965102272513",
+            "text": "The life of a @libp2p connection. Great overview of how basic components work (transports, circuit relays, muxing, privatization, and encryption)https://youtu.be/zcWHamr5m_k\u00a0",
+            "username": "terencechain",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1060978400020623360": {
+            "id": "1060978400020623360",
+            "text": "Definition: Transaction of Interest -- Any Ethereum tx in which a given address participates in, including txs where the address is used as data on foreign smart contracts. @quickblocks finds them all.pic.twitter.com/yWG3jFeAMJ",
+            "username": "quickblocks",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058435722099728387": {
+            "id": "1058435722099728387",
+            "text": "Roses are red,\nThe guillotine is warming,https://twitter.com/nypost/status/1058339448960806912\u00a0\u2026",
+            "username": "claytoncubitt",
+            "num_likes": 123,
+            "num_retweets": 32,
+            "num_replies": 5
+        },
+        "1058063660550103040": {
+            "id": "1058063660550103040",
+            "text": "@wildmolasses Sharing his dream DAO at Aragon DAO competitionpic.twitter.com/dXKtKkllwA",
+            "username": "quickblocks",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054813904625385472": {
+            "id": "1054813904625385472",
+            "text": "Challenge economics with channel auctions!https://ethresear.ch/t/plasma-challenge-auctions/3899\u00a0\u2026",
+            "username": "evabeylin",
+            "num_likes": 28,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1051897640164708354": {
+            "id": "1051897640164708354",
+            "text": "Proud to announce that TrueBlocks (peviously QuickBlocks) was included as an Ethereum foundation grantee in wave 4. Thanks @wildmolasses, @ricburton, @cryptowanderer, @Mitch_Kosowski, @lrettig, @bmann, @BobSummerwill, @evan_van_ness  and many others.https://twitter.com/ethereum/status/1051886425753436166\u00a0\u2026",
+            "username": "quickblocks",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1042128105375248384": {
+            "id": "1042128105375248384",
+            "text": " Recording from last night's event with @glenweyl discussing \"Radical Markets\" and blockchain tech is now available.\n\nIt was a great night of provocative ideas that sparked some great discussion. If you couldn't make it, be sure to check the video!https://youtu.be/I39X0GziIV4\u00a0",
+            "username": "PHLblockchain",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1041823145433489408": {
+            "id": "1041823145433489408",
+            "text": "Packed house to hear @glenweyl discussing \u201cRadical Markets\u201d and possible applications to blockchain networks!pic.twitter.com/Tt7kjpxsbN",
+            "username": "PHLblockchain",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 4
+        },
+        "1040374687166066689": {
+            "id": "1040374687166066689",
+            "text": "Realized this probably needed to be published somewhere:\n\nWhat's a Sparse Merkle Tree?https://medium.com/@kelvinfichter/whats-a-sparse-merkle-tree-acda70aeb837\u00a0\u2026",
+            "username": "kelvinfichter",
+            "num_likes": 96,
+            "num_retweets": 32,
+            "num_replies": 3
+        },
+        "1037390891269402624": {
+            "id": "1037390891269402624",
+            "text": "I'm writing a 4 part drawsplainer on how browser works\n\nNo CompSci degree necessary, if you've written HTML/CSS/JS, that's all you need (the post starts w/ what is CPU)\n\nPart 1 is about hardware, multi-process architecture, and Site Isolation!\nhttps://developers.google.com/web/updates/2018/09/inside-browser-part1\u00a0\u2026pic.twitter.com/NXR6cnjTIQ",
+            "username": "kosamari",
+            "num_likes": 2012,
+            "num_retweets": 602,
+            "num_replies": 46
+        },
+        "1036665919207104520": {
+            "id": "1036665919207104520",
+            "text": "Hey Philly. Let's all celebrate Philly's own @fulldecent. Check out what he's been up to https://github.com/ethereum/solidity/pull/3729#issuecomment-415225557\u00a0\u2026. This is excellent work. Thank him next time you see him.",
+            "username": "quickblocks",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1031557842254356480": {
+            "id": "1031557842254356480",
+            "text": "Here is the @ethereum foundation's wish list for its next round of grants:pic.twitter.com/xG7T82fMsl",
+            "username": "spencernoon",
+            "num_likes": 108,
+            "num_retweets": 41,
+            "num_replies": 5
+        },
+        "1030530116848365568": {
+            "id": "1030530116848365568",
+            "text": "Cryptokitties Ethereum contract genetic algorithm cracked by Erays https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf\u00a0\u2026pic.twitter.com/vPoMzDisTz",
+            "username": "Haaroony",
+            "num_likes": 518,
+            "num_retweets": 210,
+            "num_replies": 14
+        },
+        "1029457948051820544": {
+            "id": "1029457948051820544",
+            "text": "After finally getting a chance to finish reading @glenweyl's #RadicalMarkets last week I was inspired to revisit the idea of an alternative to #copyleft and #permissive open source software licensing.https://medium.com/hive-commons/harberger-taxation-and-open-source-58dcdbab140d\u00a0\u2026",
+            "username": "lkngtn",
+            "num_likes": 134,
+            "num_retweets": 31,
+            "num_replies": 8
+        },
+        "1030113425962295297": {
+            "id": "1030113425962295297",
+            "text": "All of us should start learning these lessons. Run your own node! \u201cLessons in Decentralization: The Benefits of Running a Full Node\u201d by @jmartinez_43https://medium.com/coinmonks/lessons-in-decentralization-the-benefits-of-running-a-full-node-35bf98febad7\u00a0\u2026",
+            "username": "tjayrush",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1026527123211612160": {
+            "id": "1026527123211612160",
+            "text": "Fun post: Optimizing floor plans using genetic algorithms. #MachineLearning #DataScience\nhttp://www.joelsimon.net/evo_floorplans.html\u00a0\u2026pic.twitter.com/2PTG6GcO6v",
+            "username": "randal_olson",
+            "num_likes": 509,
+            "num_retweets": 208,
+            "num_replies": 21
+        },
+        "1024339481078509569": {
+            "id": "1024339481078509569",
+            "text": "ICYMI,  tool for labelling in ggplot!\n \u201cIntroduction to ggrepel\u201d by @slowkow\nhttps://buff.ly/2LaYewB\u00a0 #rstats #dataviz #ggplot2pic.twitter.com/KONrje3wpx",
+            "username": "dataandme",
+            "num_likes": 105,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "1021840691671048193": {
+            "id": "1021840691671048193",
+            "text": "Our livestream featuring @tjayrush is now live on the Gitcoin Youtube channel!\n\nIn this episode, get a firsthand explanation of @quickblocks as well as a personal account from Jay about what it was like to be active in #Ethereum through the DAO hackhttps://youtu.be/G0eTOE5Zfb4\u00a0",
+            "username": "gitcoin",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1015799332707004416": {
+            "id": "1015799332707004416",
+            "text": "just a reminder, the builder application is for builders of all kinds: developers, designers, researchers, community organizers, artists, etc.  these applications are fantastic, keep 'em coming!",
+            "username": "EFDevcon",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1015330001187721218": {
+            "id": "1015330001187721218",
+            "text": "I just published \u201cBuilding an Ethereum Account Scraper with QuickBlocks\u201dhttps://medium.com/p/building-an-ethereum-account-scraper-with-quickblocks-7a2ddff3dc5c\u00a0\u2026",
+            "username": "quickblocks",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1010152737370075136": {
+            "id": "1010152737370075136",
+            "text": "I am trying to make a list of software projects related to #RadicalMarkets.  If you are working on something, especially in the #blockchain space, related to the COST, QV or Data as Labor, please tweet to me or email me at weyl@princeton.edu.",
+            "username": "glenweyl",
+            "num_likes": 115,
+            "num_retweets": 35,
+            "num_replies": 15
+        },
+        "1009171477529288704": {
+            "id": "1009171477529288704",
+            "text": "Catch @wuehler in the City of Brotherly Love for #Philly\u2019s #Ethereum meetup on June 26. He\u2019ll discuss how to leverage @infura_io to develop on Ethereum. #ConsenSys http://bit.ly/2l8kyHw\u00a0pic.twitter.com/LgQBTitW10",
+            "username": "ConsenSys",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1006599762068504582": {
+            "id": "1006599762068504582",
+            "text": "Here's my take on @ethbuenosaires and the @TokenToilet project we built at the hackathon! #BUIDLhttps://medium.com/@gomox/all-you-ever-wanted-to-know-about-the-token-toilet-and-couldnt-be-bothered-to-ask-c0440c09d8c5\u00a0\u2026",
+            "username": "gomox_ar",
+            "num_likes": 34,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "1008073040809226240": {
+            "id": "1008073040809226240",
+            "text": "Average flag color by latitude. #dataviz\nhttps://www.reddit.com/r/dataisbeautiful/comments/8rfnc0/average_flag_colour_by_latitude_oc/\u00a0\u2026pic.twitter.com/PxT8Ngn58f",
+            "username": "randal_olson",
+            "num_likes": 456,
+            "num_retweets": 163,
+            "num_replies": 7
+        },
+        "1007304416880455680": {
+            "id": "1007304416880455680",
+            "text": "BREAKING: Ether not a security under US law, according to SEC. Lots of new thinking and analysis here on how SEC is thinking about token sales. Will do a quick breakdown in short order once I've reviewed. https://www.sec.gov/news/speech/speech-hinman-061418\u00a0\u2026",
+            "username": "msantoriESQ",
+            "num_likes": 256,
+            "num_retweets": 99,
+            "num_replies": 13
+        },
+        "1002570067782103041": {
+            "id": "1002570067782103041",
+            "text": "At @ZeppelinOrg we're looking for a lead front-end developer. Remote OK, blockchain+Zeppelin passion required. Pls RT",
+            "username": "maraoz",
+            "num_likes": 38,
+            "num_retweets": 23,
+            "num_replies": 4
+        },
+        "997611731949146112": {
+            "id": "997611731949146112",
+            "text": "I know you all have nothing better to do on a friday night than follow a CINEMA 4D PYTHON TUTORIAL. so watch 'n learn! i had fun making this & hope it proves useful #cinema4d #tutorial #scripting #python\n\nits aimed at people who know ZERO about scriptshttps://vimeo.com/270778338\u00a0",
+            "username": "_gernge",
+            "num_likes": 78,
+            "num_retweets": 18,
+            "num_replies": 7
+        },
+        "997577731285045248": {
+            "id": "997577731285045248",
+            "text": "I published the Follower Factory #Python script on my #GitHub: https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/tree/master/follower-factory\u00a0\u2026\n\nFeel free to use it to analyze Twitter accounts and find out whether they purchased fake followers #DataSciencepic.twitter.com/V2neO9y71U",
+            "username": "randal_olson",
+            "num_likes": 408,
+            "num_retweets": 173,
+            "num_replies": 8
+        },
+        "997543706994597889": {
+            "id": "997543706994597889",
+            "text": "If you have a minute, please take this survey: https://quickblocks.formstack.com/forms/data_centralization_in_the_ethereum_ecosystem\u00a0\u2026",
+            "username": "quickblocks",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "996184695888056322": {
+            "id": "996184695888056322",
+            "text": "Check out Ben DiFrancesco's blockchain seminar next week. Sign up now!https://www.crowdcast.io/e/why-developers-and/register\u00a0\u2026",
+            "username": "quickblocks",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "994768622072549376": {
+            "id": "994768622072549376",
+            "text": "I genuinely don't know whether to feel good or bad when I realize that good people still just don't get blockchain.\n\nGood because it's earlier than we think, and we still have time to build.\n\nBad because we have so much work to do: branding, messaging, educating.",
+            "username": "lrettig",
+            "num_likes": 37,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "993274598115434497": {
+            "id": "993274598115434497",
+            "text": "LOVE this idea from @avsa: it takes us from a world with a single hardcoded master password (private key) to something akin to AWS IAM with many accounts and keys, separation of concerns and the principle of least privilege - this is absolutely the way forward.https://twitter.com/bmann/status/993171521433755648\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 37,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "993530346577809409": {
+            "id": "993530346577809409",
+            "text": "The awesome @mariatvidal took the lead and interviewed the #ETHBuenosAires judges @lrettig @RhysLindmark and @licuende, read what they have to say in our latest blogpost! https://medium.com/ethbuenosaires/hacking-in-the-south-29c73e72a1e\u00a0\u2026 cc @AragonProject @EthereumDenver @crypto_nyc",
+            "username": "ethbuenosaires",
+            "num_likes": 48,
+            "num_retweets": 19,
+            "num_replies": 5
+        },
+        "993891383042703361": {
+            "id": "993891383042703361",
+            "text": "Wisdom or Stupidity\n\nLearn about networks by playing games with emojis http://ncase.me/crowds/\u00a0",
+            "username": "mattdlockyer",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "958063500823269376": {
+            "id": "958063500823269376",
+            "text": "Community member @wildmolasses gave us an informative, entertaining analysis of the CryptoKitties phenomenon at last week's event. If you missed it, well, let's just say you don't want to miss it... https://youtu.be/Ai2olvutPiY\u00a0",
+            "username": "PHLblockchain",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "930470075726884864": {
+            "id": "930470075726884864",
+            "text": "IPFSecret lets you encrypt & decrypt IPFS files with a passphrase by wrapping WebCrypto's SubtleCrypto interface both on the server and in the browser https://github.com/c2fo-lab/IPFSecret\u00a0\u2026 #ipfs #nodejs #webcrypto #javascript",
+            "username": "C2FOLab",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "955821944187875328": {
+            "id": "955821944187875328",
+            "text": "Introduction to Proof of Location \u2013 the case for decentralized location systems by @frothcity https://blog.foam.space/introduction-to-proof-of-location-6b4c77928022\u00a0\u2026\n#blockchain #ethereum #gps #geospatial #iot",
+            "username": "foamspace",
+            "num_likes": 190,
+            "num_retweets": 82,
+            "num_replies": 14
+        },
+        "955152714131849216": {
+            "id": "955152714131849216",
+            "text": "To focus only on the price of #crypto is to miss the power of its ideas. Self sovereignty, decentralization, security, global \u201calways on\u201d markets, tokenized networks",
+            "username": "pbartstephens",
+            "num_likes": 165,
+            "num_retweets": 53,
+            "num_replies": 8
+        },
+        "955172826587254785": {
+            "id": "955172826587254785",
+            "text": "Desperate Money: Bitconnect and how we think about crypto ponzi victims\n\nhttp://www.mindslikeknives.com/desperate-money-bitconnect-and-how-to-talk-about-ponzi-victims/\u00a0\u2026pic.twitter.com/sQzzSItx0u",
+            "username": "davidzmorris",
+            "num_likes": 15,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "954164653667635200": {
+            "id": "954164653667635200",
+            "text": "Based on @wildmolasses's talk at tonight's @PHLblockchain meetup, investing your 401K into @CryptoKitties futures may not be a great ideapic.twitter.com/nklsNvcHBq",
+            "username": "arpit",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "954156004706570242": {
+            "id": "954156004706570242",
+            "text": "Things you missed at @PHLblockchain : CryptoKitties  analysis and live sax, courtesy of @wildmolassespic.twitter.com/pWPSidNu5M",
+            "username": "BenDiFrancesco",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "951200561067675649": {
+            "id": "951200561067675649",
+            "text": "We'll have two talks next week at our first event of 2018, including community member @mattsmollinger presenting \"Digging into Cryptocurrency Mining.\" He'll be discussing PoW algorithms, mining pools, and the nuts and bolts of building and operating a crypto mining rig. ",
+            "username": "PHLblockchain",
+            "num_likes": 8,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "951543119291535365": {
+            "id": "951543119291535365",
+            "text": "Self proclaimed Philly data nerd @wildmolasses will also speak at our first event of 2018, discussing his \"Top 5 Lessons From Two Months of CryptoKitties Data.\" Come learn about his experience extracting data from the Ethereum blockchain to build a #cryptokitties trading bot!",
+            "username": "PHLblockchain",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "946406328288923654": {
+            "id": "946406328288923654",
+            "text": "Data scientists: what's your team's approach to tracking the quality of models in production? \n\n(How do you know if a model is decaying? How do you quality-check the data going into a model? Who builds and tracks these things?)",
+            "username": "beeonaposy",
+            "num_likes": 680,
+            "num_retweets": 167,
+            "num_replies": 60
+        },
+        "939191621677088770": {
+            "id": "939191621677088770",
+            "text": "Check out the FOAM presentation from the Philadelphia Ethereum meet up by @frothcity on the Future of Geospatial Data. Video also includes first public demo of our Spatial Index application. #blockchain #geospatial #Ethereum #location https://blog.foam.space/crypto-spatial-coordinates-proof-of-location-spatial-index-dbe440ff5381\u00a0\u2026pic.twitter.com/Zio5HxFSFh",
+            "username": "foamspace",
+            "num_likes": 18,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "937105553968566272": {
+            "id": "937105553968566272",
+            "text": "Does anyone in visual perception know why you can hear this gif?pic.twitter.com/mcT22Lzfkp",
+            "username": "LisaDeBruine",
+            "num_likes": 47822,
+            "num_retweets": 28263,
+            "num_replies": 1653
+        },
+        "933366033682923525": {
+            "id": "933366033682923525",
+            "text": "Next Wednesday, November 29, 2017 Join:\n\u201cFOAM on Ethereum: The Future of Geospatial Data\u201d\nPhiladelphia Ethereum Blockchain Meetup https://www.meetup.com/Philadelphia-Ethereum-Meetup/events/245298996/\u00a0\u2026 #blockchain #geospatial #locationpic.twitter.com/zkWQvdjIFG",
+            "username": "foamspace",
+            "num_likes": 14,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "909861606837952512": {
+            "id": "909861606837952512",
+            "text": "pic.twitter.com/FG50ErL3fO",
+            "username": "Yarcom",
+            "num_likes": 62,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "789546438103478272": {
+            "id": "789546438103478272",
+            "text": "Your team is an immutable data structure. Every time you modify it, you're actually making a whole new one.",
+            "username": "sarahmei",
+            "num_likes": 2576,
+            "num_retweets": 1454,
+            "num_replies": 45
+        },
+        "783359118476136448": {
+            "id": "783359118476136448",
+            "text": "Instead of \"does this bring me joy?\" as in konmari, I think the right question for code is \"do I understand this?\"",
+            "username": "sarahmei",
+            "num_likes": 167,
+            "num_retweets": 56,
+            "num_replies": 9
+        },
+        "766734815705993216": {
+            "id": "766734815705993216",
+            "text": "\"I once heard that a library is when you run its code. a framework however, is when it runs your code instead\"\n\nThat's a great definition.",
+            "username": "crswll",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "767024532825726976": {
+            "id": "767024532825726976",
+            "text": "It baffles me that programmers haven't yet figured out that typing is cheap & understanding code is hard. Verbosity is a feature, not a bug.",
+            "username": "coates",
+            "num_likes": 143,
+            "num_retweets": 116,
+            "num_replies": 16
+        },
+        "741089564329054208": {
+            "id": "741089564329054208",
+            "text": "Map/filter/reduce in a tweet:\n\nmap([, , ], cook)\n=> [, , ]\n\nfilter([, , ], isVegetarian)\n=>  [, ]\n\nreduce([, ], eat)\n=> ",
+            "username": "steveluscher",
+            "num_likes": 9591,
+            "num_retweets": 8887,
+            "num_replies": 87
+        },
+        "630834159070658564": {
+            "id": "630834159070658564",
+            "text": "When I suggest \"make meetings optional\", execs often ask: \"what if no one comes?\" My flippant reply: \"perhaps they were never, ever there?\"",
+            "username": "DanielMezick",
+            "num_likes": 19,
+            "num_retweets": 36,
+            "num_replies": 3
+        },
+        "574233643385749506": {
+            "id": "574233643385749506",
+            "text": "Fractions are beautiful! Look for a rainbow of patterns in repeating decimals.pic.twitter.com/JqD775MVkH",
+            "username": "wattenberg",
+            "num_likes": 79,
+            "num_retweets": 60,
+            "num_replies": 2
+        },
+        "540995023094169600": {
+            "id": "540995023094169600",
+            "text": "#MediaSummit Chris Wiggins \"you can't do data science before you do data engineering.\"",
+            "username": "benderlm",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "540994945747001344": {
+            "id": "540994945747001344",
+            "text": "\"In my experience there is a desire for magic from data scientists without the necessary infrastructure\" @hailekofi #MediaSummit",
+            "username": "eyealem",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "540907743885156352": {
+            "id": "540907743885156352",
+            "text": "\"Algorithms don't understand culture.\" - @petecashmore #MediaSummit",
+            "username": "taraemcg",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "540907771978600448": {
+            "id": "540907771978600448",
+            "text": ".@petecashmore says @mashable is not interested in automated content generation. Tech 'just an assist'. #MediaSummit",
+            "username": "KyleGiunta",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "540908412419072000": {
+            "id": "540908412419072000",
+            "text": "\"It's not very good...and algorithms don't understand our culture,\" @petecashmore on mechanically generated content #mediasummit",
+            "username": "RacWinters",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "540556694007611392": {
+            "id": "540556694007611392",
+            "text": "MVP needs to be full stack, not just functional \u2014 minimum viable product pyramid #warmgunpic.twitter.com/mDPL6glTYs",
+            "username": "AlfBrand",
+            "num_likes": 164,
+            "num_retweets": 180,
+            "num_replies": 3
+        },
+        "458735299208941568": {
+            "id": "458735299208941568",
+            "text": "\"Unconditional truth requires courage\". @ SEPTA: 15th & Market http://instagram.com/p/nG-hjptoOr/\u00a0",
+            "username": "davidmcullen3",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "515203427618795520": {
+            "id": "515203427618795520",
+            "text": "Thanks @flowers4dreams @popularpays for the lovely bouquet. I love lighting & shooting flowers http://flowersfordreams.com\u00a0pic.twitter.com/UKxItMcdcv",
+            "username": "NoPattern",
+            "num_likes": 11,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "505073497702285312": {
+            "id": "505073497702285312",
+            "text": "This is so cool! UVM storylab has a tool to auto-generate plots of emotion in classic novels:http://yaythis.me/1paORVZ\u00a0",
+            "username": "hmason",
+            "num_likes": 37,
+            "num_retweets": 42,
+            "num_replies": 8
+        },
+        "395958853478932480": {
+            "id": "395958853478932480",
+            "text": "Unconditional truth requires courage #musicIsTruthpic.twitter.com/vNUQr0wlZv",
+            "username": "mattkeech42",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "444256180664147969": {
+            "id": "444256180664147969",
+            "text": "Go @JessevanWestpic.twitter.com/iXpL62oMkJ",
+            "username": "BiomemeInc",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "427610046248546306": {
+            "id": "427610046248546306",
+            "text": "RT @plugusin: Engaging students shouldn't be our primary goal. #educonpic.twitter.com/doQc1pp49d",
+            "username": "mbteach",
+            "num_likes": 17,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "420702474719092738": {
+            "id": "420702474719092738",
+            "text": "Wait a minute: It doesn't sound right. Is this even possible? Mandated Collaboration http://newtechusa.net/agile/mandated-agile-part2/\u00a0\u2026",
+            "username": "DanielMezick",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "395884056295907328": {
+            "id": "395884056295907328",
+            "text": "The real meaning of Halloween gets lost in all the costumes and marketing. Most people don't even know Jesus fought a dragon, let alone why.",
+            "username": "macaulaybalkan",
+            "num_likes": 70,
+            "num_retweets": 207,
+            "num_replies": 8
+        },
+        "390537675864031232": {
+            "id": "390537675864031232",
+            "text": "2mrw delightful experience @YardsBrew @DesignPhilly THROWDOWN GALA topped off with good food from Phoebe's on Wheels! http://nfstud.io/19IGafV\u00a0",
+            "username": "NextFab_PHL",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "360614278656565250": {
+            "id": "360614278656565250",
+            "text": "\u201cI am thankful for all of those who said NO to me. Its because of them I\u2019m doing it myself.\u201d \u2013 Albert Einstein",
+            "username": "mattmuns",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "336516909417766915": {
+            "id": "336516909417766915",
+            "text": "\"I went from 2X/week to 1X/three weeks. Centering the strategy on quality. Traffic's up and to the right, S2N works.:)\" - RT @avinash",
+            "username": "randfish",
+            "num_likes": 5,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "336510846576500736": {
+            "id": "336510846576500736",
+            "text": "Historically, posting daily was really important to a blog's success. I wonder if now, signal-to-noise ratio is the more important metric?",
+            "username": "randfish",
+            "num_likes": 9,
+            "num_retweets": 22,
+            "num_replies": 17
+        },
+        "336313454422028288": {
+            "id": "336313454422028288",
+            "text": "Links are (were?) merely the most scalably correlated method for identifying good sites. Over time, we should expect that to fade.",
+            "username": "randfish",
+            "num_likes": 10,
+            "num_retweets": 24,
+            "num_replies": 12
+        },
+        "336313105518850048": {
+            "id": "336313105518850048",
+            "text": "Myth: Google wants to rank the site with the most links. Reality: They want to rank the site that best serves searchers.",
+            "username": "randfish",
+            "num_likes": 23,
+            "num_retweets": 60,
+            "num_replies": 12
+        },
+        "299519421087633408": {
+            "id": "299519421087633408",
+            "text": "'Remember me on this computer'",
+            "username": "muxmool",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "324231657357991936": {
+            "id": "324231657357991936",
+            "text": "Now playing Quasimoto \"Yessir Whatever\" test press LP",
+            "username": "madlib",
+            "num_likes": 209,
+            "num_retweets": 325,
+            "num_replies": 49
+        },
+        "322436880157274112": {
+            "id": "322436880157274112",
+            "text": "\"Experience isn\u2019t interesting until it begins to repeat itself - in fact, till it does that, it hardly is experience\"http://butdoesitfloat.com/Experience-isn-t-interesting-until-it-begins-to-repeat-itself-in-fact\u00a0\u2026",
+            "username": "pieratt",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "316637084477706240": {
+            "id": "316637084477706240",
+            "text": "Love the oldschool @depthcore stuff sometimes: \"1986\" by David Garvin + Edward Mazurek  http://www.depthcore.com/artist/edward-mazurek/work/2962/\u00a0\u2026",
+            "username": "justinmaller",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "307578509956612096": {
+            "id": "307578509956612096",
+            "text": "24 HOURS LEFT!!! @OurNixon @kickstarterhttp://www.kickstarter.com/projects/1222291754/our-nixon-premiere-at-sxsw-and-beyond\u00a0\u2026",
+            "username": "lennypane",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "307473252215832576": {
+            "id": "307473252215832576",
+            "text": "\"Be extremely honest with yourself. Know what you are selfishly passionate about.\" - @davemcclure #GOAP #wisdom",
+            "username": "dorkitude",
+            "num_likes": 16,
+            "num_retweets": 39,
+            "num_replies": 2
+        },
+        "307511813367545857": {
+            "id": "307511813367545857",
+            "text": "Realize that you're not most people.",
+            "username": "ThatEricAlper",
+            "num_likes": 13,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "306070433764106240": {
+            "id": "306070433764106240",
+            "text": "A good writer possesses not only his own spirit but also the spirit of his friends.  #Nietzsche",
+            "username": "NietzscheQuotes",
+            "num_likes": 73,
+            "num_retweets": 167,
+            "num_replies": 5
+        },
+        "299563358779224064": {
+            "id": "299563358779224064",
+            "text": "Only sick music makes money today.  #Nietzsche",
+            "username": "NietzscheQuotes",
+            "num_likes": 48,
+            "num_retweets": 183,
+            "num_replies": 14
+        },
+        "291968383568728064": {
+            "id": "291968383568728064",
+            "text": "Its really sad to think about how many lonely people passed by their soul mates while texting.",
+            "username": "razmesinai",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "278233424798564352": {
+            "id": "278233424798564352",
+            "text": "Stop wasting time with non_believers http://www.captainmurphy.xxx\u00a0",
+            "username": "xCaptainMurphyx",
+            "num_likes": 60,
+            "num_retweets": 121,
+            "num_replies": 1
+        },
+        "277166970225442816": {
+            "id": "277166970225442816",
+            "text": "Still can't decide what to pay for \"In Rainbows.\"",
+            "username": "ohmyrockness",
+            "num_likes": 9,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "277138780031418368": {
+            "id": "277138780031418368",
+            "text": "Here's the amazing cover art for NIGHT PROWL MIKE GAO's upcoming release, #BETAWORLDPEACE.. dropping 12/21 on HW&W! http://fb.me/Phl8ROlQ\u00a0",
+            "username": "HuhWhatandWhere",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "276428170356473856": {
+            "id": "276428170356473856",
+            "text": "The only art is to omit",
+            "username": "calebcolestock",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "275891369644548096": {
+            "id": "275891369644548096",
+            "text": "Revamping the interface to give you more control over what you can and can't/shouldn't play. @MIKEGAO #Polyplaygroundpic.twitter.com/pexG6NHY",
+            "username": "johnhanacek",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "273395203174449153": {
+            "id": "273395203174449153",
+            "text": "Mike Gao is about to release his new album via HW&W Recordings this December & I love so much the artwork by... http://fb.me/2tenUpPtc\u00a0",
+            "username": "9uillaume6onte",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "272581698808598528": {
+            "id": "272581698808598528",
+            "text": "My new icon is new cover for next album Beta World Peace out on @huhwhatandwhere art by Ed Mazurek",
+            "username": "MIKEGAO",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "257241934291156992": {
+            "id": "257241934291156992",
+            "text": "I think @marcweil did a good job on this. Building your startup's team on @slidesharehttp://www.slideshare.net/marcweil/building-your-startups-team\u00a0\u2026",
+            "username": "dmansen",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "258621611664621568": {
+            "id": "258621611664621568",
+            "text": "It's like the lottery, you'll never win, but for $1 you get to sit and imagine what you'd do with all that money. That's the product.",
+            "username": "muxmool",
+            "num_likes": 1,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "122407820565032960": {
+            "id": "122407820565032960",
+            "text": "The cover of Nirvana \u2018Nevermind\u2019 where the $1 bill is replaced with an Applebee\u2019s gift card http://tumblr.com/ZeX9pwAOdX1h\u00a0",
+            "username": "imaginaryimage",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "121653872077971456": {
+            "id": "121653872077971456",
+            "text": "A cool thing to do is to tell other people how much you don't like something they just said they enjoy. That is a neat and cool thing to do.",
+            "username": "NoPattern",
+            "num_likes": 10,
+            "num_retweets": 14,
+            "num_replies": 7
+        },
+        "78181473240354816": {
+            "id": "78181473240354816",
+            "text": "New meaning occurs when there is a shift in perspective. When you interpret a problem as an opportunity, that is a shift in meaning.",
+            "username": "DeepakChopra",
+            "num_likes": 128,
+            "num_retweets": 325,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1125748803498401792": {
+            "id": "1125748803498401792",
+            "text": "I just attended @RadxChange Tokyo meetup. I was really impressed by @YasuMasahiro. It was clear he prepared a lot. The attendees were so engaged. The Q&A took an hour and didn't want to stop.https://twitter.com/WatanabeSota/status/1125705459288010752\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113610025912557568": {
+            "id": "1113610025912557568",
+            "text": "Last night I visited @HashHub_Tokyo for a @blockstackio workshop. Before the workshop began, a HashHub intern, Takato (@R9rT9t), summarized Blockstack for everyone there. Takato's capability for researching and presenting left me very impressed.",
+            "username": "wildmolasses",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1106948801452036096": {
+            "id": "1106948801452036096",
+            "text": "Fitting conclusion to an awesome @RadxChange:Philly kickoff... a natural polity forming in front of Henry George's house.pic.twitter.com/3OrwFx9f5U",
+            "username": "wildmolasses",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1102769184864382976": {
+            "id": "1102769184864382976",
+            "text": "my williams classmate doing big things :)https://twitter.com/linamkhan/status/1102702462715265024\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097943710828875776": {
+            "id": "1097943710828875776",
+            "text": "i can't post to reddit because i have no karma there so here is what i wanted to say to the people getting mad at @5chdn https://hackmd.io/s/By7Gi0tHN\u00a0 tldr i admire that guy immensely",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096532155126161409": {
+            "id": "1096532155126161409",
+            "text": "Loved the ethql presentation at #ETHDenver. Think I'll be hacking on it this wknd. Thanks @raggamuffin_rox @egalanopic.twitter.com/YfmhBhLqQ3",
+            "username": "wildmolasses",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093663751935614977": {
+            "id": "1093663751935614977",
+            "text": "\"Does everyone agree that solving the prisoners dilemma will take us to a place we've never been before?\" @tjayrush at @PHLblockchain meetuppic.twitter.com/nWvMba9Uyq",
+            "username": "wildmolasses",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1078757564593119232": {
+            "id": "1078757564593119232",
+            "text": "Anyone else going to @EthereumDenver looking to split an airbnb for the retreat in Breckinridge?",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1051931796831694848": {
+            "id": "1051931796831694848",
+            "text": "TrueBlocks got a grant from the Ethereum foundation! Congrats & thanks to @tjayrush. It is a pleasure working with this unwavering decentralist.https://twitter.com/quickblocks/status/1051897640164708354\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1019438042006872064": {
+            "id": "1019438042006872064",
+            "text": "I'm participating in @foamspace's token sale (my first). I'm excited to interact with the protocol, and the sale's responsible design choices (i.e. equal access, fair pricing, and proof of use) are innovations unto themselves. It's my pleasure to learn from FOAM's example.https://twitter.com/foamspace/status/1018905480058597376\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1015274887932506112": {
+            "id": "1015274887932506112",
+            "text": "I'd invite all ethereum users to check out QuickBlocks and complain loudly to me if it's not really easy (frictionless) to usehttps://twitter.com/quickblocks/status/1015242822851747841\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1010548880788938752": {
+            "id": "1010548880788938752",
+            "text": "Awesome analysis of @cryptocup_io secondary market by Gonzalo. I put my money where the math was and bought the undervalued token he identifiedhttps://twitter.com/gomox_ar/status/1009905749307346944\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1000428984973316097": {
+            "id": "1000428984973316097",
+            "text": "@cryptowanderer @eordano the problem was a race condition. working transaction trie root hash now. thanks so much for your help. #ETHBuenosAires https://gist.github.com/emazurek/51a9f1ae0759cd1bbf0961f4a455fb53\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1000242674857897984": {
+            "id": "1000242674857897984",
+            "text": "Spent the better part of the evening trying to construct block #450000's transactionRoot out of its 2 transactions via merkle-patricia-tree js module but can't get a match. Thanks @cryptowanderer @eordano for working on it w me at 2am and being nerd sniped. #ETHBuenosAires",
+            "username": "wildmolasses",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1000165929899167744": {
+            "id": "1000165929899167744",
+            "text": "Upcoming ethereum hackathons https://twitter.com/liamihorne/status/1000165394055942147\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "997210006775914497": {
+            "id": "997210006775914497",
+            "text": "Yesterday #buidling at @Balance_io, today at @nyc_crypto. Thanks for the hospitality and inspiring setting.",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "997149039232630785": {
+            "id": "997149039232630785",
+            "text": "@ yoriko09\u3000\u3053\u3093\u306b\u3061\u306f\uff01\u4eca\u30af\u30ea\u30d7\u30c8NYC\u306b\u3044\u307e\u3059\u3088\u3002\u3088\u308a\u3053\u3055\u3093\u4f1a\u3044\u305f\u3044\u3067\u3059\uff01\u3058\u3083\u3042\u3001\u6771\u4eac\u3067\uff1f",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "993867330559074304": {
+            "id": "993867330559074304",
+            "text": "0x175890F93A2eDaad0267c1B611CBa42454c7665D",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "935734252049747969": {
+            "id": "935734252049747969",
+            "text": "Bought a device replacement plan from @Google @projectfi, now they don't have my phone in stock. Their response: \"After you pay your deductible of $69, we'll send you a check for $59.\" I've been paying them monthly for the privilege of getting scammed.  #pixel #pixel2 #pixel2XL",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "935624958465757184": {
+            "id": "935624958465757184",
+            "text": "Bought a device replacement plan from @Google @projectfi, now they don't have my phone in stock. Their response: \"After you pay your deductible of $69, we'll send you a check for $59.\" I've been paying them monthly for the privilege of getting scammed. #pixel #pixel2 #pixel2XL",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "933371769834168321": {
+            "id": "933371769834168321",
+            "text": "#philly #phillydev check out this meetup I'm helping to organizehttps://twitter.com/foamspace/status/933366033682923525\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "933365312535302144": {
+            "id": "933365312535302144",
+            "text": "0xe4ed7567f8bec5ad8b8969e6b0c9e745d6224bee",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "828030420163846145": {
+            "id": "828030420163846145",
+            "text": "Hong Kong  Tokyo https://nomadlist.com/wildmolasses\u00a0 @nomadlistpic.twitter.com/YWnbzx2usF",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "826223485714182144": {
+            "id": "826223485714182144",
+            "text": "Philadelphia  Hong Kong https://nomadlist.com/wildmolasses\u00a0 @nomadlistpic.twitter.com/ANKTa6nzG7",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "781587078660366336": {
+            "id": "781587078660366336",
+            "text": "@logan_crossan I want to check out your talk but going to react workshop. if I miss you, I hope it's recorded! Anyway break a leg!#libertyjs",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "776115837480697856": {
+            "id": "776115837480697856",
+            "text": "Their advice: Find what gets you out of bed every morning.\nOur advice: Decline the kool-aid, commit a funky crime.pic.twitter.com/GRe9oofYxw",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "761612377536262144": {
+            "id": "761612377536262144",
+            "text": "Hey @mandym_webdev, thanks for your awesome posts on nomadforum!",
+            "username": "wildmolasses",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "715256917728178176": {
+            "id": "715256917728178176",
+            "text": "Hi Eric @zedruid mind if I join you for lunch. Dying to ask you about studying in Japan (@strataconf)",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "623584630990577664": {
+            "id": "623584630990577664",
+            "text": "@ResistorSings @kylestetz the meetup made me jolly. would look forward to meeting up with you guys again",
+            "username": "wildmolasses",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "540848121983799297": {
+            "id": "540848121983799297",
+            "text": "#MediaSummit",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "538453503665262592": {
+            "id": "538453503665262592",
+            "text": "\"I, on my side, require of every writer, first or last, a simple and sincere account of his own life, and not... http://amzn.com/k/MW-khaPrTfWnjDp8Y3OOFg\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "433982480233021440": {
+            "id": "433982480233021440",
+            "text": "I'm going to Ignite Philly. #ignitephilly http://tkt.ly/MOfHYs\u00a0 via @ticketleap",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "406100588129030144": {
+            "id": "406100588129030144",
+            "text": "I understand the need to monetize but @Spotify should respectfully disable ads on certain albums e.g. Dark Side of The Moon",
+            "username": "wildmolasses",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "399923137308925952": {
+            "id": "399923137308925952",
+            "text": "I'm attending @RJMetrics and @Jeff webinar - Raising Venture Capital with Data - Join me! #DataDrivenPitch",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "398842618861584384": {
+            "id": "398842618861584384",
+            "text": "My friend needs software engineers at his company Lucidity Health. Get in touch if at all interested! http://lnkd.in/dr_fsCZ\u00a0",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "397405243853393921": {
+            "id": "397405243853393921",
+            "text": "Check out Biomeme \u201cMobile real-time DNA analysis on your smartphone\u201dhttps://angel.co/biomeme\u00a0",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "396332677038891008": {
+            "id": "396332677038891008",
+            "text": "For anyone even mildly interested in learning HTML, check out this tool and let me know what you think: http://lnkd.in/dWJX-4d\u00a0",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "364773860698099712": {
+            "id": "364773860698099712",
+            "text": "Reply to @jesuisjc @IFTTT Thanks for working this out, was having the same problem with @desandro's @metafizzyco -- WizardRSS did the trick!",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "332194496123113472": {
+            "id": "332194496123113472",
+            "text": "\"We are all the heroes of our own stories, not passive participants in a self-serving corporate fairy tale\" http://lnkd.in/zesdre\u00a0 #cmworld",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "327867903103868928": {
+            "id": "327867903103868928",
+            "text": "I just bought: 'Pocket Notebook | Narrow Ruled | (3 3/4\"x6\") | Pack of 12' by Portage Notebooks via @amazon http://www.amazon.com/dp/B007XUB9VO/ref=cm_sw_r_tw_asp_vMhSF.0WPABY8\u00a0\u2026",
+            "username": "wildmolasses",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "322459910875013120": {
+            "id": "322459910875013120",
+            "text": "My sister!! We had just eaten a pound of meat! @ Fette Sau http://instagram.com/p/X-rl6Orh3L/\u00a0",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "289107634911576064": {
+            "id": "289107634911576064",
+            "text": "Hey I'm going to this @venturef0rth. I'd recommend it to any interested minds in philly. http://tkt.ly/13j7FKD\u00a0 #ticketleap",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "66535759666102272": {
+            "id": "66535759666102272",
+            "text": "HAHAHAHAHAHAHAHA im eating an omelet with collared greens!! #georgebush #stampcollecting #midlifecrisis",
+            "username": "wildmolasses",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "otduet": 1,
+        "quickblocks": 8,
+        "ChainSafeth": 1,
+        "virgilgr": 1,
+        "glenweyl": 3,
+        "erinroseglass": 1,
+        "lrettig": 3,
+        "lenadroid": 1,
+        "PHLblockchain": 6,
+        "evabeylin": 2,
+        "RaffiSapire": 1,
+        "SebAaltonen": 1,
+        "gakonst": 1,
+        "EleanorClarinet": 1,
+        "terencechain": 1,
+        "claytoncubitt": 1,
+        "kelvinfichter": 1,
+        "kosamari": 1,
+        "spencernoon": 1,
+        "Haaroony": 1,
+        "lkngtn": 1,
+        "tjayrush": 1,
+        "randal_olson": 3,
+        "dataandme": 1,
+        "gitcoin": 1,
+        "EFDevcon": 1,
+        "ConsenSys": 1,
+        "gomox_ar": 1,
+        "msantoriESQ": 1,
+        "maraoz": 1,
+        "_gernge": 1,
+        "ethbuenosaires": 1,
+        "mattdlockyer": 1,
+        "C2FOLab": 1,
+        "foamspace": 3,
+        "pbartstephens": 1,
+        "davidzmorris": 1,
+        "arpit": 1,
+        "BenDiFrancesco": 1,
+        "beeonaposy": 1,
+        "LisaDeBruine": 1,
+        "Yarcom": 1,
+        "sarahmei": 2,
+        "crswll": 1,
+        "coates": 1,
+        "steveluscher": 1,
+        "DanielMezick": 2,
+        "wattenberg": 1,
+        "benderlm": 1,
+        "eyealem": 1,
+        "taraemcg": 1,
+        "KyleGiunta": 1,
+        "RacWinters": 1,
+        "AlfBrand": 1,
+        "davidmcullen3": 1,
+        "NoPattern": 2,
+        "hmason": 1,
+        "mattkeech42": 1,
+        "BiomemeInc": 1,
+        "mbteach": 1,
+        "macaulaybalkan": 1,
+        "NextFab_PHL": 1,
+        "mattmuns": 1,
+        "randfish": 4,
+        "muxmool": 2,
+        "madlib": 1,
+        "pieratt": 1,
+        "justinmaller": 1,
+        "lennypane": 1,
+        "dorkitude": 1,
+        "ThatEricAlper": 1,
+        "NietzscheQuotes": 2,
+        "razmesinai": 1,
+        "xCaptainMurphyx": 1,
+        "ohmyrockness": 1,
+        "HuhWhatandWhere": 1,
+        "calebcolestock": 1,
+        "johnhanacek": 1,
+        "9uillaume6onte": 1,
+        "MIKEGAO": 1,
+        "dmansen": 1,
+        "imaginaryimage": 1,
+        "DeepakChopra": 1
+    },
+    "users_retweeted": [
+        "quickblocks",
+        "PHLblockchain",
+        "randfish",
+        "glenweyl",
+        "lrettig",
+        "randal_olson",
+        "foamspace",
+        "evabeylin",
+        "sarahmei",
+        "DanielMezick",
+        "NoPattern",
+        "muxmool",
+        "NietzscheQuotes",
+        "otduet",
+        "ChainSafeth",
+        "virgilgr",
+        "erinroseglass",
+        "lenadroid",
+        "RaffiSapire",
+        "SebAaltonen",
+        "gakonst",
+        "EleanorClarinet",
+        "terencechain",
+        "claytoncubitt",
+        "kelvinfichter",
+        "kosamari",
+        "spencernoon",
+        "Haaroony",
+        "lkngtn",
+        "tjayrush",
+        "dataandme",
+        "gitcoin",
+        "EFDevcon",
+        "ConsenSys",
+        "gomox_ar",
+        "msantoriESQ",
+        "maraoz",
+        "_gernge",
+        "ethbuenosaires",
+        "mattdlockyer",
+        "C2FOLab",
+        "pbartstephens",
+        "davidzmorris",
+        "arpit",
+        "BenDiFrancesco",
+        "beeonaposy",
+        "LisaDeBruine",
+        "Yarcom",
+        "crswll",
+        "coates",
+        "steveluscher",
+        "wattenberg",
+        "benderlm",
+        "eyealem",
+        "taraemcg",
+        "KyleGiunta",
+        "RacWinters",
+        "AlfBrand",
+        "davidmcullen3",
+        "hmason",
+        "mattkeech42",
+        "BiomemeInc",
+        "mbteach",
+        "macaulaybalkan",
+        "NextFab_PHL",
+        "mattmuns",
+        "madlib",
+        "pieratt",
+        "justinmaller",
+        "lennypane",
+        "dorkitude",
+        "ThatEricAlper",
+        "razmesinai",
+        "xCaptainMurphyx",
+        "ohmyrockness",
+        "HuhWhatandWhere",
+        "calebcolestock",
+        "johnhanacek",
+        "9uillaume6onte",
+        "MIKEGAO",
+        "dmansen",
+        "imaginaryimage",
+        "DeepakChopra"
+    ]
+}

@@ -1,0 +1,1336 @@
+{
+    "is_complete": true,
+    "username": "graphprotocol",
+    "retweeted": {
+        "1107825052408401920": {
+            "id": "1107825052408401920",
+            "text": "Love when high-quality presentations are shared publicly! Just in the past day, both @GraphProtocol and @MITBitcoinClub uploaded talks from their recent events (i.e., #GraphDay and #MITBitcoinExpo). Very much appreciated!\n\n https://www.youtube.com/channel/UCAzO0qviMMiEdq90B90pvGQ/videos\u00a0\u2026\n https://www.youtube.com/user/MITBitcoinClub/videos\u00a0\u2026pic.twitter.com/ihEHrxd0OC",
+            "username": "mwill_crypto",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1114195633295044608": {
+            "id": "1114195633295044608",
+            "text": "1/ If you want to know which sector I predict to give rise to the next crypto unicorns, read my new article in @tokendaily's TD research: \nhttps://www.tokendaily.co/blog/the-next-wave-of-crypto-unicorns\u00a0\u2026\nBut for now, keep reading this thread ",
+            "username": "MohamedFFouda",
+            "num_likes": 61,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "1108853928748351490": {
+            "id": "1108853928748351490",
+            "text": "Enjoy my convo w/ @yanivgraph talking about how @graphprotocol will make it easier for decentralized applications to query the data they need to run smoothly and serve their users! Yaniv is awesome and this is an important layer for Web3.0 cc: @KyleSamanihttps://itunes.apple.com/us/podcast/token-talks-interviews-with-the-best-projects-in-crypto/id1362129613?mt=2\u00a0\u2026",
+            "username": "ZacharyDeWitt",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1108951743637798914": {
+            "id": "1108951743637798914",
+            "text": "Looks like it. We should have support for block and transaction triggers in the next week and then you could port most of ETHGasStation on to The Graph.",
+            "username": "yanivgraph",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "1107830230964727808": {
+            "id": "1107830230964727808",
+            "num_replies": 9,
+            "username": "ETHGasStation",
+            "num_retweets": 16,
+            "num_likes": 130,
+            "text": "About 2 years ago, I got interested in ethereum but was having issues with gas prices.  I decided to create http://ethgasstation.info\u00a0 as an experiment and had a great time building it. Today I am happy to announce that @ConcourseOpen is taking over the site."
+        },
+        "1107757613603667968": {
+            "id": "1107757613603667968",
+            "text": "Graph Day was one of the coolest crypto conferences I've attended. Really sick mix of modern art and crypto. And everyone who went was quality, especially the Graph team.\n\nDefinitely recommend checking their YouTube recordings out!https://twitter.com/graphprotocol/status/1107733487887351809\u00a0\u2026",
+            "username": "AndrewTu_",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1108950256559902720": {
+            "id": "1108950256559902720",
+            "text": "Could the ETH Gas Station API be built as a subgraph?",
+            "username": "lastmjs",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1107790515381170181": {
+            "id": "1107790515381170181",
+            "text": "Graph day was epic - if you couldn\u2019t make it then you can peruse what went on here:https://twitter.com/graphprotocol/status/1107733487887351809\u00a0\u2026",
+            "username": "JRossTreacher",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108748549045444609": {
+            "id": "1108748549045444609",
+            "text": "Just spent a week implementing our own graphql query layer, only to find out @graphprotocol is already doing a solid job  wish we know sooner. Now switching and filing request ticket  \n\nAny index portal that aggregates all these blockchain tools?",
+            "username": "SSrinawakoon",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1110676451626348544": {
+            "id": "1110676451626348544",
+            "text": "This is absolutely what events were designed for. We shouldn't be storing anything more in the state than we have to, particularly not for the convenience of offchain consumers, who can build whatever indexes they want. @graphprotocol are helping with making that indexing easier.",
+            "username": "nicksdjohnson",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1108879015086034951": {
+            "id": "1108879015086034951",
+            "num_replies": 1,
+            "username": "fubuloubu",
+            "num_retweets": 1,
+            "num_likes": 2,
+            "text": "Yeah what @lastmjs said, it's just a format that the ETH community seems to be adopting because it's new and solves problems with REST APIs.\n\nAlso mentioned because of a potential collaboration with @graphprotocol on an ETH Gas Station subgraph for advanced gas pricing queries."
+        },
+        "1118309366866669570": {
+            "id": "1118309366866669570",
+            "text": "We are excited to announce that the next CoinList Build Hackathon will be kicking off on May 6th with @graphprotocol with more details coming soon! Sign up herehttps://coinlist.co/build/the-graph\u00a0",
+            "username": "CoinList",
+            "num_likes": 21,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1125036172416360449": {
+            "id": "1125036172416360449",
+            "text": "On Scalability and transactions per second. \nToday I worked on caching and traffic routing based on jsonrpc req type for xDai/POA RPCs.\nGot stats for the last 2 hours:\neth_sendRawTransaction - 23 requests vs eth_call - 1,229,654 requests\nWrites are overestimated for adoption ",
+            "username": "barinov",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1124363761526222854": {
+            "id": "1124363761526222854",
+            "text": "4/ Investors are often inquiring whether decentralizing the data query layer would make sense. I think that decentralizing this layer is an essential prequisite for decentralizing any layer above, i.e. dApps. This promotes an open and accurate data-marketplace for dApp adoption.",
+            "username": "Drmelseidy",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1123905447851900929": {
+            "id": "1123905447851900929",
+            "text": "Looking forward to judging the @coinlist & @graphprotocol Hackathon!\n\n- Index all the dApps! \n- $10k in prizes \n- Starting 9th of May (online) \n- Great teams coming together \n\nSign up here:https://coinlist.co/build/the-graph\u00a0",
+            "username": "MerschMax_",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1123743506651074560": {
+            "id": "1123743506651074560",
+            "text": "Super excited to be judging the @coinlist & @graphprotocol hackathon. $10k in prizes to be given away! The Graph is building an important piece of infrastructure for indexing data from blockchains & making it queryable over #GraphQL.\nSign up here:https://coinlist.co/build/the-graph\u00a0",
+            "username": "nicksdjohnson",
+            "num_likes": 31,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1106153714304409600": {
+            "id": "1106153714304409600",
+            "text": "Over the last year or so, the core problem of smart contract development transitioned from \u201chow do I write a smart contract?\u201d to \u201chow do I create a UI for a smart contract?\u201d.",
+            "username": "jbrukh",
+            "num_likes": 44,
+            "num_retweets": 5,
+            "num_replies": 7
+        },
+        "1103008602560827393": {
+            "id": "1103008602560827393",
+            "text": "An Intro to The Graph: Indexed Data for dApps https://link.medium.com/ByduLkWGOU\u00a0 #web3 #blockchain #graphql",
+            "username": "QuikNode",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1098783042628333568": {
+            "id": "1098783042628333568",
+            "text": "And we\u2019re live on @Twitch with some stellar thinkers! Debating the status on proof of stake, crypto systems, #zksnarks & what\u2019s on the horizon in 2019- a tonne of great folks in the room tonight ! #fullhouse #cryptography #cryptocurrency #devweek https://www.twitch.tv/events/Z1EIzXLPTQSY4l2RT9coUw\u00a0\u2026pic.twitter.com/37FoZazXKe",
+            "username": "CodaProtocol",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1098276034925998080": {
+            "id": "1098276034925998080",
+            "text": "Impressed with the graph\u2019s new specs, hosting, and reliability after launch! Great work.https://twitter.com/graphprotocol/status/1095792184052219904\u00a0\u2026",
+            "username": "isiain",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1097883199865348097": {
+            "id": "1097883199865348097",
+            "text": "If you missed the panel \"#Buidling the Infrastructure for Adoption\" at @EthereumDenver with @ramonrecuero @yanivgraph @shapeshed @barinov and Neil Bly, you can now watch the recording https://youtu.be/Sy7qdlUMF_A\u00a0",
+            "username": "ZeppelinOrg",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1097269103012790272": {
+            "id": "1097269103012790272",
+            "text": "19/20 #ethvelcro send and receive notifications when #ethereum smart contract events happen! \n\nUsing @graphprotocol and webhooks for better event listening \n@b_asselstine",
+            "username": "kauri_io",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1097598905590509568": {
+            "id": "1097598905590509568",
+            "text": "Here\u2019s the panel on building blockchain infrastructure I did with @ramonrecuero @barinov and friends at ETHDenverhttps://youtu.be/Sy7qdlUMF_A\u00a0",
+            "username": "yanivgraph",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1097525347699044353": {
+            "id": "1097525347699044353",
+            "text": "3, Proof of Opposum created a leaderboard of the \u201c3 word device ID\u201d status creates for your profile. They built with @fortmatic, @ZeppelinOrg @graphprotocol and worked some with our extensions! Great job Exhilarated Spicy Mules!",
+            "username": "ethstatus",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1097040352765108224": {
+            "id": "1097040352765108224",
+            "text": "@graphprotocol team staying late to support hackers on their final stretch at @EthereumDenver #solidarity #soliditypic.twitter.com/GIv5678PD1",
+            "username": "RezBrandon",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095742085309714432": {
+            "id": "1095742085309714432",
+            "text": "We\u2019re particularly interested in #Layer2 hubs (eg @ConnextNetwork), cryptoeconomic arbitrage, content curation (@SteemNetwork @cent @relevantfeed), software service provision (@graphprotocol @NuCypher), registries/address space (@foamspace @urbit).https://twitter.com/jbrukh/status/1095662587356733445\u00a0\u2026",
+            "username": "jbrukh",
+            "num_likes": 41,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1093648415509172224": {
+            "id": "1093648415509172224",
+            "text": "Spoke with @adamSoffer about his implementation of @LivepeerOrg subgraph and his eyes lit up talking about the devex at @graphprotocol.  Clearly solves the problem, great documentation, responsive team!  Lots of cool stuff in the nooks and crannies of the ETH community right now",
+            "username": "robbiebent1",
+            "num_likes": 80,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1093554680469381125": {
+            "id": "1093554680469381125",
+            "text": "Just think about this deeply for 3 seconds to realize how huge it is. A company (@makerdao) shuts down a service because reasons, someone decides that they want to keep using it and they can just do it for themselves and everyone else.\n\nLong web3 https://twitter.com/eduadiez/status/1093547099235516416\u00a0\u2026",
+            "username": "izqui9",
+            "num_likes": 167,
+            "num_retweets": 36,
+            "num_replies": 7
+        },
+        "1093566139404144640": {
+            "id": "1093566139404144640",
+            "text": "This keynote by @AragonProject's @licuende is magnificent. You can get the sense for the magnitude of what they're building. I'm glad someone's leading the way for decentralized governance so we can learn from their experiences.https://www.youtube.com/watch?v=Zgov_4BxFEo\u00a0\u2026",
+            "username": "yanivgraph",
+            "num_likes": 24,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1091421819569983488": {
+            "id": "1091421819569983488",
+            "text": "Graph Explorer is one of the slickest apps around \n\nSide note: @graphprotocol creates insanely elegant user experienceshttps://twitter.com/graphprotocol/status/1091408019575824386\u00a0\u2026",
+            "username": "spencernoon",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1091427975248183296": {
+            "id": "1091427975248183296",
+            "text": "Best alternative to Infura I've seen\n\nMore than an API for Eth nodes this is a data index for Eth smart-contract protocols that devs can build on \n\nIt's exciting to see what entrepreneurs can create on a financial system that's open. The Infrastructure is getting betterhttps://twitter.com/graphprotocol/status/1091408019575824386\u00a0\u2026",
+            "username": "RyanSAdams",
+            "num_likes": 29,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1089950868982513665": {
+            "id": "1089950868982513665",
+            "text": "+1 on The Graph team\u2019s ability to communicate. Agreed. \n\nFriday\u2019s conference was great, as well.",
+            "username": "lwsnbaker",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1089924542087249925": {
+            "id": "1089924542087249925",
+            "text": "Excited to share our investment thesis in The Graph!\n\nThe Graph is going to be one of the most important protocols in the Web3 stack. And founders \u2066@yanivgraph\u2069 and \u2066@RezBrandon\u2069 have been amazing to work with.https://multicoin.capital/2019/01/28/our-investment-in-the-graph/\u00a0\u2026",
+            "username": "KyleSamani",
+            "num_likes": 83,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "1088960330829422592": {
+            "id": "1088960330829422592",
+            "text": ".@taratan dropping knowledge on the history of the bicycle, which had its own hype cycle, too! #GraphDaypic.twitter.com/V2LMK38rra",
+            "username": "ImNotJK",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088960939473301504": {
+            "id": "1088960939473301504",
+            "text": "Glad to attend the Graph Day #graphday and meet with the community! \n\nGreat comparison of web2 & web3 by Yaniv @yanivgraph and mentioning about the missing pieces in the blockchain ecosystem. \n\nAnd we\u2019re here to solve the Oracle problem :)pic.twitter.com/nKS8oCXe2S",
+            "username": "DOSNetwork",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1088963617016373248": {
+            "id": "1088963617016373248",
+            "text": "Using new UX patterns such as universal logins (@avsa) and gasless metatransactions (@austingriffith), we can cut the number of steps from fresh onboarding to creating a @MakerDAO CDP down from ~40 to just 10.  - @taratan at #GraphDaypic.twitter.com/pR54Ypx9om",
+            "username": "lrettig",
+            "num_likes": 109,
+            "num_retweets": 21,
+            "num_replies": 7
+        },
+        "1088970913255571456": {
+            "id": "1088970913255571456",
+            "text": "Thanks to @graphprotocol for putting on a great #graphday. Was good to serendipity bump into some friends.pic.twitter.com/AWDzkZ5E8j",
+            "username": "benarent",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088951809694027776": {
+            "id": "1088951809694027776",
+            "text": "@josh_nussbaum of @CompoundVC sharing how he thinks about investing in Web3. #GraphDaypic.twitter.com/hpRWEAW6II",
+            "username": "yanivgraph",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088886759704809472": {
+            "id": "1088886759704809472",
+            "text": "@ericxtang dropping knowledge on probabilistic micropayments for @LivepeerOrg #GraphDaypic.twitter.com/7iqk2oG8XB",
+            "username": "yanivgraph",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088890161067249665": {
+            "id": "1088890161067249665",
+            "text": "\u2066@jannispohlmann\u2069 praying to the demo gods before doing some live coding on stage at #graphdaypic.twitter.com/hs5FEcHuJ7",
+            "username": "RezBrandon",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088937609072726017": {
+            "id": "1088937609072726017",
+            "text": "Couldn't attend Graph Day but following the #graphday hashtag is the next best thing. Floored by the design and execution of The Graph explorer UI and hosted service - an important milestone towards organizing the world's *decentralized* information. Congrats @graphprotocol team!",
+            "username": "adamSoffer",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088949241462980608": {
+            "id": "1088949241462980608",
+            "text": "My favorite presentation at #graphday is @NearProtocol \u2018s overview of current sharding research. Best diagrams!! Here is a sharding hyperpentagram pic.twitter.com/kudXFsJecC",
+            "username": "AAAinsley",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1088889608031649792": {
+            "id": "1088889608031649792",
+            "text": "Love seeing a timeline of papers cited in a research talk. Great presentation by @ericxtang on the @LivepeerOrg micropayments design at #graphdaypic.twitter.com/7wHXGGJYHa",
+            "username": "RezBrandon",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088927586489491456": {
+            "id": "1088927586489491456",
+            "text": "Cofounder of Origin, @joshfraser, speaking about the future of decentralized marketplaces during #GraphDaypic.twitter.com/KAG7DNvzHV",
+            "username": "originprotocol",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088932712193372160": {
+            "id": "1088932712193372160",
+            "text": "Epic to hear @RezBrandon go through @graphprotocol at #graphday\n\nMake sure to watch when it goes up onlinepic.twitter.com/3zLSeYtlnp",
+            "username": "JRossTreacher",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1088933606741790720": {
+            "id": "1088933606741790720",
+            "text": "Meeting lots OF CT friends at #GraphDay \n\nAlso, holy shit building a Dapp is 100x different then last year this time",
+            "username": "grahammcbain",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088937023845601284": {
+            "id": "1088937023845601284",
+            "text": "Congratulations to The Graph (@graphprotocol) on Graph Day!\n\n\u201cDelivering consumer-grade performance is one of the biggest hurdles to Web3 adoption\u201d - @RezBrandon working on solving the hard things @GraphProtocol #graphdaypic.twitter.com/xO9jPnEbAF",
+            "username": "coinfund_io",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088937245371904000": {
+            "id": "1088937245371904000",
+            "text": "Congrats to @graphprotocol for launching their hosted service and Graph explorer with some kick-ass launch partners! \n@DharmaProtocol @compoundfinance @UniswapExchange @ensdomains @originprotocol @decentraland @LivepeerOrg #graphday",
+            "username": "dberenzon",
+            "num_likes": 30,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1088901667913752576": {
+            "id": "1088901667913752576",
+            "text": "Really enjoyed @lrettig\u2019s state of dapps talk at #graphday. Highlighting a lot of great progress of 2018 and the opportunities of 2019!",
+            "username": "andrewxhill",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088913270310760448": {
+            "id": "1088913270310760448",
+            "text": "Noticing a trend where more and more projects are using Ethereum accounts for identity and signing but NOT using smart contracts or storage. @peepethApp and @originprotocol as two examples. Could Ethereum become an identity standard? \n@johnfraser at @graphprotocol #GraphDaypic.twitter.com/UdMctbXcSo",
+            "username": "lrettig",
+            "num_likes": 89,
+            "num_retweets": 11,
+            "num_replies": 13
+        },
+        "1088922256221204480": {
+            "id": "1088922256221204480",
+            "text": "I\u2019m convinced that the single biggest thing web3 gives us is built-in identity. #graphdayhttps://twitter.com/lrettig/status/1088913270310760448\u00a0\u2026",
+            "username": "benwerd",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1088926255200624641": {
+            "id": "1088926255200624641",
+            "text": "@RezBrandon getting philosophical at #GraphDaypic.twitter.com/AJY2AfLoIk",
+            "username": "JTremback",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088890834487992320": {
+            "id": "1088890834487992320",
+            "text": "\u2066@yanivgraph\u2069 launching our new explorer UI and hosted service at #graphday w/ some great launch partners on the screen. Check it out live at http://thegraph.com\u00a0 !!pic.twitter.com/Hqk0iynctz",
+            "username": "RezBrandon",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1088873050815131648": {
+            "id": "1088873050815131648",
+            "text": "We're here today at #GraphDay by @graphprotocol \n\nHappy to meet if anyone's around! \n#FutureIsNEAR #Blockchain #SanFranciscopic.twitter.com/seAJt8nc9Q",
+            "username": "NEARProtocol",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088876733317541888": {
+            "id": "1088876733317541888",
+            "text": "Great talk on \"State of the dApps\" by @lrettig at @graphprotocol #GraphDay. Shoutout for using @ConnextNetwork's \"State Channels For Babies\" slide to explain counterfactual instantiation.pic.twitter.com/mhstlo0NFP",
+            "username": "RHLSTHRM",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1088783089663262720": {
+            "id": "1088783089663262720",
+            "text": "14/  The day's here! @GraphProtocol\u2019s Graph Day in #SanFrancisco is a matter of hours away.\n\nSpeakers include: @LRettig (Core Dev, eWasm), @EricxTang (CTO, @LivepeerOrg), @JoshFraser (CTO, @OriginProtocol), @EOrdano (CTO, @Decentraland), and @AlexSkidanov (CEO, @NearProtocol).pic.twitter.com/TuBSXhdL0A",
+            "username": "mwill_crypto",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1088596040658444288": {
+            "id": "1088596040658444288",
+            "text": "If you are in San Francisco tomorrow and you are working on an Ethereum project, I highly recommend checking out Graph Day from the team behind @graphprotocol.\n\nThe presenters are fantastic, the crowd will be worth meeting, and the focus is on shipping.\n\nhttp://thegraph.com/graphday\u00a0pic.twitter.com/yJHjrkTGNh",
+            "username": "ricburton",
+            "num_likes": 31,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1088543384845729793": {
+            "id": "1088543384845729793",
+            "text": "Our Co-Founder @AlexSkidanov will be speaking on #Sharding there. \n\nCatch-up  with him at 3.30pm at the Grand Theater, SF. \n\nMore details: https://thegraph.com/graphday\u00a0\n#GraphDay #Blockchain #FutureIsNEARpic.twitter.com/VSRLbPKj0F",
+            "username": "NEARProtocol",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1087887506123751425": {
+            "id": "1087887506123751425",
+            "text": "This is what a graph of high signal-to-noise looks like.\n\nIt just so happens that the @graphprotocol are putting on a day-long event with a similar ratio of signal to noise.\n\nIt\u2019s this Friday in San Francisco. If you can make it, you should come along:\n\nhttp://thegraph.com/graphday\u00a0pic.twitter.com/eNHxDT2bys",
+            "username": "ricburton",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1087393171938656256": {
+            "id": "1087393171938656256",
+            "text": "Will you be at @graphprotocol's Graph Day this Friday? CoLab's @taratan will be presenting\u2014see you there! More info on the rest of the great lineup at the event here: https://thegraph.com/graphday\u00a0pic.twitter.com/YcXrFme96A",
+            "username": "ideocolab",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1087142208648691713": {
+            "id": "1087142208648691713",
+            "text": "Working on some updates to the @LivepeerOrg Subgraph for an email digest application. Thanks to @graphprotocol I can now easily look up individual delegator earnings for past rounds since the protocol's genesis, as well as lists of delegators associated with each transcoder.",
+            "username": "adamSoffer",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1085926475994263553": {
+            "id": "1085926475994263553",
+            "text": "I predict @graphprotocol will play a big part in the accelerating rate of app development\n\nAs someone who tried to build a @CryptoKitties autobirther & spent 90% of their time syncing chain data..\n\nTrust me, the amount of time-consuming toil they've abstracted away is staggering",
+            "username": "bohendo",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1084413074248028161": {
+            "id": "1084413074248028161",
+            "text": "The line up for @graphprotocol\u2019s Graph Day in SF on Friday 25 Jan is great:\n\n@lrettig\u30fbeWasm\n@ericxtang\u30fb@LivepeerOrg\n@joshfraser \u30fb@originprotocol\n@eordano\u30fb@decentraland\n@AlexSkidanov\u30fb@NearProtocol\n@josh_nussbaum\u30fb@CompoundVC\n@taratan\u30fb@ideocolab\n\nhttps://thegraph.com/graphday\u00a0pic.twitter.com/u1ya3CfSBj",
+            "username": "ricburton",
+            "num_likes": 34,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1084620892896923649": {
+            "id": "1084620892896923649",
+            "text": "I'll be speaking about The State of Dapps at Graph Day in SF in two weeks. Web3 has potential to radically change not only how people interact with machines but how we interact with each other too, but we're only about 5% of the way to realizing this vision. Excited to share morehttps://twitter.com/graphprotocol/status/1075495313517862912\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1084565764978475009": {
+            "id": "1084565764978475009",
+            "text": "We are looking forward to being part of @graphprotocol's Graph Day event on Jan 25th in SF.\n\nAn incredible lineup with talks from core members of @LivepeerOrg, @decentraland, @originprotocol, @NearProtocol, @CompoundVC & @ideocolab\n\nRegister here -> https://thegraph.com/graphday\u00a0",
+            "username": "originprotocol",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1082649759364591618": {
+            "id": "1082649759364591618",
+            "text": "I agree, maybe one of the other @ETHGlobal hackatons too \n\n@dappcon_berlin was great last year \n\nIf you are in sf at the end of Jan @graphprotocol have graph day which will be full of smart people",
+            "username": "JRossTreacher",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1082308510359216128": {
+            "id": "1082308510359216128",
+            "text": "I am heading to San Francisco for the last week of January to check out Graph Day. \n\nIt\u2019s a one day event from the team at @graphprotocol on the latest progress in developer tooling for apps that built on Ethereum. The line up is looking fantastic.\n\nWho wants to catch up?https://twitter.com/graphprotocol/status/1075495313517862912\u00a0\u2026",
+            "username": "ricburton",
+            "num_likes": 35,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "1075040902312280064": {
+            "id": "1075040902312280064",
+            "text": "New technology in action! Team just deployed an update to the http://explorer.livepeer.org\u00a0 DApp that leverages the new @graphprotocol. Fast load times, aggregations, and fallback to web3 calls if the cacheing layer fails.pic.twitter.com/1nJCYZUKrN",
+            "username": "petkanics",
+            "num_likes": 82,
+            "num_retweets": 24,
+            "num_replies": 4
+        },
+        "1045780210791141377": {
+            "id": "1045780210791141377",
+            "text": "Interesting meeting with @yanivgraph and @nicksdjohnson today about The Graph query protocol. A lot of it went over my head, but it\u2019s important architecture that needs to be built for not just @ensdomains but all dapps to be usable in the wild.",
+            "username": "_jefflau",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1042290604523155456": {
+            "id": "1042290604523155456",
+            "text": "\"Right now we\u2019re seeing tremendous infrastructure being developed for web 3, it\u2019s just a matter of time before all of it starts coming together to create applications that haven\u2019t been imagined till date.\"\n\nHere's Protocol Weekly #9! https://medium.com/8xprotocol/protocol-weekly-issue-9-fe88f2d7859c\u00a0\u2026",
+            "username": "8x_Protocol",
+            "num_likes": 130,
+            "num_retweets": 56,
+            "num_replies": 2
+        },
+        "1037450598386425856": {
+            "id": "1037450598386425856",
+            "text": "Syncing nodes at \u2066@IndexVentures\u2069 #buidlersdinner w the amazing crews of \u2066@MessariCrypto\u2069 \u2066@graphprotocol\u2069 \u2066@theairtm\u2069 \u2066@centrifuge\u2069 \u2066@foamspace\u2069 \u2066@joincolony\u2069 \u2066@argentHQ\u2069 \u2066@MaxClaussen\u2069 \u2066@blueyard\u2069 \u2066\u2066@nucypher\u2069pic.twitter.com/48ayuMWBcu",
+            "username": "AlexRuppertVC",
+            "num_likes": 41,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1029786287870541824": {
+            "id": "1029786287870541824",
+            "text": "Some very impressive things going on with @GraphProtocol according to Andre Cronje - distributed query processing should help #dApp developers get their work away from #datasilos and help efficiently move data off the #blockchain. Sexy stuff!https://crypp.to/TheGraphCR\u00a0",
+            "username": "crypto_briefing",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1022293416925847553": {
+            "id": "1022293416925847553",
+            "text": "Join us this Monday for a special SF TCR meetup with Nick from @Join_Civil who will share how they built their TCR for ethical & reliable newsrooms.https://www.meetup.com/meetup-group-jOIZWemn/events/253075162/\u00a0\u2026",
+            "username": "yanivgraph",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1020358635749355522": {
+            "id": "1020358635749355522",
+            "text": "A good example that comes to mind is the decentralized query layer\n\nRight now dapp developers have to build custom index servers themselves which is a massive time-suck, and it's also hidden point of failure/centralization \n\nThis is why I'm excited about @graphprotocol",
+            "username": "spencernoon",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1007189709905416192": {
+            "id": "1007189709905416192",
+            "text": "Heading to @graphqleu tomorrow! Hit me up if you want to talk #GraphQL, #blockchain, #Rust or if you want to learn more about @graphprotocol!",
+            "username": "jannispohlmann",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1005182037437960193": {
+            "id": "1005182037437960193",
+            "text": " ~40 days ago we wrote about a problem we have\n\n ~30 nerds reached out to offer their help\n\n ~20 teams said they could solve this\n\n ~10 projects shared their code\n\n 1 team blew us away\n\n @Balance_io +  @graphprotocol = \u00a0Token Balances\n\n https://medium.com/balance-io/open-protocol-interfaces-b1e631e41777\u00a0\u2026pic.twitter.com/olzdrFKXOn",
+            "username": "ricburton",
+            "num_likes": 127,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1004136631442472966": {
+            "id": "1004136631442472966",
+            "text": "1) Costs of running your own node \n2) Indexer requirements\n3) Customers hate downtime - you need to have high uptime even for small Dapp - even if funds are save, the lack of notifications or status about transaction can scare them",
+            "username": "kacperwikiel",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1004136207272628225": {
+            "id": "1004136207272628225",
+            "text": "Seconded - also I think I would be an early adopter - I know firsthand that parsing and indexing ethereum/ipfs transactions for useful API is hard",
+            "username": "kacperwikiel",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1118517172429393920": {
+            "id": "1118517172429393920",
+            "text": "Our project lead @yanivgraph was on @epicenterbtc to discuss why the world needs a query protocol for blockchains.\n\nThanks for having us on @crainbf and @seb2point0!\n\nhttps://podcasts.apple.com/us/podcast/yaniv-tal-graph-marketplace-for-web3-data-indexes-based/id792338939?i=1000435072411\u00a0\u2026pic.twitter.com/6tSJCUmAag",
+            "username": "graphprotocol",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1120697846074724352": {
+            "id": "1120697846074724352",
+            "text": "In the dead of winter it\u2019s easy to lose faith. Starvation on corpses strewn astray. But the busy bees and ants and cockroaches kept buzzing away and post May the sun shone on a new summer\u2019s day ",
+            "username": "graphprotocol",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121543978661208065": {
+            "id": "1121543978661208065",
+            "text": "Read more about our upcoming CoinList hackathon. $10k in prizes and anyone can participate!https://twitter.com/CoinList/status/1121542549267730432\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1117925232168198144": {
+            "id": "1117925232168198144",
+            "text": "The @compoundfinance team just released Compound V2 on Rinkeby today \n\nWe collaborated to get a GraphQL API ready for developers at launch. Read more here https://medium.com/graphprotocol/https-medium-com-graphprotocol-compound-v2-subgraph-highlight-a5f38f094195\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 57,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1118929095566303232": {
+            "id": "1118929095566303232",
+            "text": "The Graph is the next project to run a @CoinList Build hackathon! This is an online hackathon that runs over 2 weeks so anyone can join.\n\nRegister now at https://coinlist.co/build/the-graph\u00a0\n\nMore details on themes, judges, and prizes soon.",
+            "username": "graphprotocol",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1110924620557737991": {
+            "id": "1110924620557737991",
+            "text": "The Rust blockchain gang in Latin America. Find Leo, our Brazilian Rust Engineer, if you\u2019re going to Rust Latam! https://twitter.com/RustLatamConf/status/1110920391281790976\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1091408019575824386": {
+            "id": "1091408019575824386",
+            "text": "Last Friday at Graph Day we launched our Hosted Service and Graph Explorer \n\nWith Graph Explorer you can find all the data being indexed on The Graph and easily pull it into your dApps. \n\nRead the announcement here:https://medium.com/graphprotocol/announcing-graph-explorer-a39318ffb569\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 89,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "1108951914492760065": {
+            "id": "1108951914492760065",
+            "text": "$1,000 bounty for whoever does this first",
+            "username": "graphprotocol",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1116045568709554176": {
+            "id": "1116045568709554176",
+            "text": "Our engineering team has been busy. Checkout the latest features including: Big decimals, IPFS stream processing, and GraphQL interfaces, in the latest Development Update.https://medium.com/graphprotocol/march-development-update-c6342fd7168e\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1126195570064781313": {
+            "id": "1126195570064781313",
+            "text": "The Graph + Coinlist hackathon starts tomorrow!\n\nThe theme is Indexing the New Economy. Protocols are making more economic data publicly available but that information needs to be indexed before it can be used.\n\n$10k in prizes for the best new subgraphs!https://coinlist.co/build/the-graph\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1125440597790040066": {
+            "id": "1125440597790040066",
+            "text": "NY Blockchain Week: Happy to be joining our friends @NuCypher and @ZeppelinOrg for a Web3 Stack meetup right before @ETHNewYork in Brooklyn. Thursday 5/16 from 5-7pm. Limited seats, RSVP early. Refreshments served. See you there! https://www.eventbrite.com/e/web3-stack-meetup-w-the-graph-nucypher-zeppelin-tickets-61196430170\u00a0\u2026pic.twitter.com/kzNBITNaEU",
+            "username": "graphprotocol",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1124390485630439424": {
+            "id": "1124390485630439424",
+            "text": "Our Web2 counterparts are killing it with their GraphQL tooling  @onegraphio @sgrovehttps://twitter.com/danielwoelfel/status/1124388615499345921\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107734724091404289": {
+            "id": "1107734724091404289",
+            "text": "CC: @lrettig @yanivgraph @RezBrandon @ericxtang @joshfraser @rleshner @eordano @AlexSkidanov @josh_nussbaum @taratan",
+            "username": "graphprotocol",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107733487887351809": {
+            "id": "1107733487887351809",
+            "text": "Couldn't attend Graph Day this past January? Or just want to replay some of the fantastic talks? Here's the recap with links to every video presentation on YouTube:https://medium.com/graphprotocol/graph-day-video-highlights-eee20074a9c7\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 28,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1105874532106100736": {
+            "id": "1105874532106100736",
+            "text": "People often ask us: Why use GraphQL for querying blockchain data?\n\nIn this article, our Research Lead, @RezBrandon, answers that question and provides a deep exploration of how blockchains, as a database primitive, influence #Web3 app interoperability.https://medium.com/graphprotocol/graphql-will-power-the-decentralized-web-d7443a69c69a\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 32,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1105179375840911361": {
+            "id": "1105179375840911361",
+            "text": "Thanks again to @ethdenver for a fantastic event last month. Here's a recap highlighting the winners of our two bounties: https://medium.com/graphprotocol/ethdenver-recap-c13bfd1e61ec\u00a0\u2026 \nCongratulations to the winning teams, and thank you to all who submitted projects built on The Graph! ",
+            "username": "graphprotocol",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1100847044195889152": {
+            "id": "1100847044195889152",
+            "text": "Come join our Community Lead @rodventures at Starfish Mission in SF this Thursday at 6:30pm. He'll be on a panel to kick off the first of a series of monthly meetups entitled \"Marketing in Blockchain.\" Hope to see you there!https://www.meetup.com/Starfish-Mission/events/258983789/\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1098004223264837632": {
+            "id": "1098004223264837632",
+            "text": "Join @jblazensky, our newest research hire at Crypto{graphy, currency} this Thursday! He\u2019ll be joining a great panel with @izmeckler @bkase_ @vanishree_rao (@CodaProtocol) @jonathantallen1 (@DekryptCapital) and @zmanian (@tendermint_team).https://www.eventbrite.com/e/cryptography-currency-feat-snarkside-chats-sf-devweek-tickets-56603510624\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1097917088000282624": {
+            "id": "1097917088000282624",
+            "text": "Our Project Lead @yanivgraph sat down with @twobitidiot of @MessariCrypto to chat about the latest updates and plans for The Graph.https://twitter.com/twobitidiot/status/1096857577177133059\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097250722586988544": {
+            "id": "1097250722586988544",
+            "text": "One of our resident Rust experts Leo at our booth late last night supporting hackers at #ETHDenver. We had a great time meeting everyone and working with the teams building on The Graph. Our bounty winners will be announced soon!pic.twitter.com/3OUG5lVX4Y",
+            "username": "graphprotocol",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1097006559991877633": {
+            "id": "1097006559991877633",
+            "text": "Yesterday @rezbrandon gave a workshop on building your first subgraph at #ETHDenver. Already seeing some great community subgraphs roll in!pic.twitter.com/vNBkCVpnkg",
+            "username": "graphprotocol",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1096466960290697216": {
+            "id": "1096466960290697216",
+            "text": "We\u2019re headed to ETHDenver and we\u2019re awarding $5,000 in bounties for projects building on The Graph. Check out the details here. https://kauri.io/article/4d7af74855534454a5d57ca98ab8432a/v1/the-graph-sponsor-bounty-at-ethdenver-2019\u00a0\u2026!",
+            "username": "graphprotocol",
+            "num_likes": 17,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1095792184052219904": {
+            "id": "1095792184052219904",
+            "text": "We're excited to announce that we've open sourced the draft specs for The Graph's Hybrid Network \n\nWe've made it easier than ever to query data from Ethereum and IPFS and the team is full steam ahead on decentralization. Read more here!https://medium.com/graphprotocol/the-graphs-research-and-specifications-are-now-open-source-4e9edb279790\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 77,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "1092895352208875520": {
+            "id": "1092895352208875520",
+            "text": "We had an issue with our GitHub authorization flow over the weekend that resulted in certain users not being able to signup. This bug affected users that don't have a public email address in their GitHub profile. If you encountered this issue it's now resolved. Please try again!",
+            "username": "graphprotocol",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092525092846759936": {
+            "id": "1092525092846759936",
+            "text": "We had a previous version linked in our Graph Explorer announcement on Friday but we uploaded a new version this morning to fix some editing issues. We'll be posting the rest of the Graph Day videos over the next 2 weeks.",
+            "username": "graphprotocol",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092502882350329856": {
+            "id": "1092502882350329856",
+            "text": "Watch @yanivgraph deliver the Graph Day keynote. In this talk he outlines a path for making Web3 mainstream ready and introduces Graph Explorer on stage.https://www.youtube.com/watch?v=fZcbWkrTMtg\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 60,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1091455790622244864": {
+            "id": "1091455790622244864",
+            "text": "A few shots from #GraphDay. Thank you to everyone who made it out! We\u2019ll be sharing more announcements and videos in the next few weeks.pic.twitter.com/sc2qYwYvBn",
+            "username": "graphprotocol",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090741367830077441": {
+            "id": "1090741367830077441",
+            "text": "Congratulations @AragonProject for shipping an awesome Aragon desktop client! \n\nWe'll be happy to work together on integrating The Graph to make the UX even faster with a seamless path to full decentralization with users in control.https://twitter.com/AragonProject/status/1090565851546308608\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088865655883948032": {
+            "id": "1088865655883948032",
+            "text": "Aaand with that, Lane is up! #GraphDaypic.twitter.com/L8icyYpomh",
+            "username": "graphprotocol",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088841041904422912": {
+            "id": "1088841041904422912",
+            "text": "We\u2019re moments away from the big day and rockets are firing up. #GraphDay",
+            "username": "graphprotocol",
+            "num_likes": 20,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1087440575899418625": {
+            "id": "1087440575899418625",
+            "text": "We\u2019ll be making some news at Graph Day on Friday. Are you ready to see the future of Web3?\n\nhttp://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 58,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1086027074035376128": {
+            "id": "1086027074035376128",
+            "text": "What do you know, turns out our Twitter followers are influential according to these metrics \nhttps://iconomist.com\u00a0pic.twitter.com/30cTCMO8oF",
+            "username": "graphprotocol",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1084897266979155970": {
+            "id": "1084897266979155970",
+            "text": "We've released the full agenda for Graph Day. We curated the talks to form a cohesive narrative around how to get Web3 mainstream ready. Less than two weeks to go!\n\nhttp://thegraph.com/graphday\u00a0pic.twitter.com/0moJYq1UwD",
+            "username": "graphprotocol",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1083416626555318272": {
+            "id": "1083416626555318272",
+            "text": "Tara Tan from IDEO CoLab is speaking at Graph Day about fixing dApp UX \nTara has worked with prominent projects on product design and is a leading thinker on blockchain UX.\n\nUser experience is one of the biggest things we need to fix. Let's learn how!\nhttp://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1083097297263550465": {
+            "id": "1083097297263550465",
+            "text": "Esteban Ordano from Decentraland will be speaking at Graph Day about imagineering experiences on Ethereum. Learn how @decentraland is pioneering the use of NFT\u2019s and building infra for gaming and entertainment.\n\nhttp://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1082391160671227904": {
+            "id": "1082391160671227904",
+            "text": "Alex Skidanov from Near Protocol will be speaking at Graph Day about the frontier of sharding research. Near is an elite team and Alex is working at the forefront of scaling.\n\nMake sure to get your ticket today!\nhttps://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1081256861154738176": {
+            "id": "1081256861154738176",
+            "text": "Robert Leshner, CEO of Compound Finance, is going to speak at Graph Day about open financial primitives! Compound's money market is one of those primitives that just makes sense and is brilliantly executed.\n\nLearn from the best. Get your ticket today!\nhttps://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1080940407469498368": {
+            "id": "1080940407469498368",
+            "text": "We're happy to share that Josh Nussbaum of Compound VC is speaking at Graph Day on investing in Web3. @josh_nussbaum is one of the most thoughtful and technical investors that we've met.\n\nMake sure to get your ticket today!\nhttps://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1078723308676276224": {
+            "id": "1078723308676276224",
+            "text": "Want to work with a passionate team focused on pushing decentralization forward? Are you a Linux, networking, scaling, reliability, automation expert? The Graph is hiring a Devops Engineer!\n\nhttps://thegraph.com/careers?job=1\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1077607035309457409": {
+            "id": "1077607035309457409",
+            "text": "Happy holidays! Remember to take some time for yourself, family, and friends. Happy people make better products and technology ",
+            "username": "graphprotocol",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1076144506360086529": {
+            "id": "1076144506360086529",
+            "text": "Eric Tang, CTO of Livepeer will be speaking at Graph Day! @LivepeerOrg is one of the few decentralized networks with nontrivial mechanisms to successfully ship. @ericxtang will be sharing about their protocol design and roadmap.\n\nGet your ticket today!\nhttps://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1075784332575264768": {
+            "id": "1075784332575264768",
+            "text": "We\u2019re excited to announce that Lane Rettig will be speaking at Graph Day about the state of dApps! @lrettig is a core developer on eWasm and has a great lens into the cool things people are hacking on. \n\nGet your ticket today!\nhttps://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1075526673955573760": {
+            "id": "1075526673955573760",
+            "text": "new logo who dis",
+            "username": "graphprotocol",
+            "num_likes": 44,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "1075495313517862912": {
+            "id": "1075495313517862912",
+            "text": "Today we're announcing Graph Day at the historic Grand Theater in SF on January 25th! \n\nCalling all dreamers  Join the leading protocol and dApp developers working to build a vibrant future with Web3. \n\nSee you at Graph Day! \n\u00a0\n\nhttps://thegraph.com/graphday\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 87,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "1072181850905460738": {
+            "id": "1072181850905460738",
+            "text": "We're thrilled to announce the addition of Jackson Blazensky to our research team working alongside @RezBrandon on our decentralized network design. A recent UCSB grad, he's skilled at cryptography and is incredibly driven. We're excited to watch him make his mark!pic.twitter.com/EnjwhNfGZ5",
+            "username": "graphprotocol",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1070091473377357824": {
+            "id": "1070091473377357824",
+            "text": "Check out our November Development Update \n\nWe've been hard at work on the Hosted Service while continuing to add new features and bug fixes for existing developers. Come see what's new!https://medium.com/graphprotocol/the-graph-development-update-67ec232fbc81\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1069622626631524354": {
+            "id": "1069622626631524354",
+            "text": "Our cofounder and Research Lead @RezBrandon presented \"Designing a Decentralized Query Layer for Web3\" in Prague following #Devcon4. This is the first presentation outlining our decentralized network design and future research  Watch it here! \nhttp://ow.ly/Cv6m50jPPrU\u00a0pic.twitter.com/Zil8RGExzS",
+            "username": "graphprotocol",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1059866058482319360": {
+            "id": "1059866058482319360",
+            "text": "Another installment of our Development Update is out! \n\nRead about all the new goodies we've landed for developers.https://medium.com/graphprotocol/the-graph-development-update-c58d64d49a78\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 21,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1057212067722211328": {
+            "id": "1057212067722211328",
+            "text": "This Saturday in Prague, @RezBrandon is going to share The Graph's decentralized network design along talks from @dfinity, @nucypher, Avalanche and others. Space is filling up!https://www.meetup.com/The-Innovation-Department/events/255417177\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1055427408705343489": {
+            "id": "1055427408705343489",
+            "text": "Web3 Summit was a blast. Tonight @RezBrandon is giving a talk on designing a decentralized query layer at Unicorn in Berlin https://www.meetup.com/The-Innovation-Department/events/255417144\u00a0\u2026pic.twitter.com/BJEKFMzSVG",
+            "username": "graphprotocol",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1047975348208422912": {
+            "id": "1047975348208422912",
+            "text": "Hacking at @ETHSanFrancisco? If you use The Graph to query data from smart contracts using GraphQL, you can win $3,500 (1st place) or $1,500 (2nd place) in ETH!\n\nFor more info seehttps://github.com/graphprotocol/graph-node/issues/449\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 44,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1047858351621595137": {
+            "id": "1047858351621595137",
+            "text": "Related: Our Graph Node repo just crossed 1,000 commits and we're not slowing down! pic.twitter.com/Gln70HMCwO",
+            "username": "graphprotocol",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047591017338159105": {
+            "id": "1047591017338159105",
+            "text": "We just published our latest development update \n\nCheck out what the team has been up to as we head into ETHSanFrancisco https://medium.com/graphprotocol/the-graph-development-update-dbede6136dab\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 30,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1042526057851609088": {
+            "id": "1042526057851609088",
+            "text": "You only have FOUR days left to apply as a hacker to @ETHSanFrancisco. We'll be there, everybody will be there, you should be there too! See you there https://ethsanfrancisco.com\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1042106944524124161": {
+            "id": "1042106944524124161",
+            "text": "Congrats @MakerDAO on releasing formal verification proofs for multi-collateral Dai using K Framework and KEVMhttps://medium.com/makerdao/the-code-is-ready-2aee2aa62e73\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1040337193024143361": {
+            "id": "1040337193024143361",
+            "text": "Related: We've had multiple people complain that they've had to disable GitHub notifications for our repo because we've been merging too many PR's ",
+            "username": "graphprotocol",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1040272166242148355": {
+            "id": "1040272166242148355",
+            "text": "We just published our first Development Update! Catch up on what our dev team has been up to and read about our latest features https://medium.com/graphprotocol/the-graph-development-update-d90321e22748\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 41,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1039159746081763330": {
+            "id": "1039159746081763330",
+            "text": "We'll be at @ETHSanFrancisco and hackathons across the globe. Come find us and let's #buidl ",
+            "username": "graphprotocol",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1038894586805071872": {
+            "id": "1038894586805071872",
+            "text": "Artonomous took 1st place  and won $3,000 for their self-sustaining, self-improving, autonomous artist. Awesome job @isiain @tarrenceva and team! Code herehttps://github.com/artonomous/ethberlin\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1038892026371170304": {
+            "id": "1038892026371170304",
+            "text": "Meetup dApp took 2nd place and won $1,500 for building a subgraph indexing meetup groups and events. Shout out to @Wip_ID @sabinebertram_ and team. Code herehttps://github.com/JohannesHa/meet-up\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1038890601511636998": {
+            "id": "1038890601511636998",
+            "text": "Thank you so much to all the teams who built on The Graph at @ETHBerlin! It was a blast of a weekend and so awesome working with all of you ",
+            "username": "graphprotocol",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1038090114373705728": {
+            "id": "1038090114373705728",
+            "text": "We funded a bounty for $4,500 to build a dApp on The Graph at @ETHBerlin. https://gitcoin.co/issue/ethberlin-hackathon/ETHBerlin-Bounties/10/1145\u00a0\u2026. Thanks @GetGitcoin. We'll be back!",
+            "username": "graphprotocol",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1037989803873251328": {
+            "id": "1037989803873251328",
+            "text": "The team getting ready for that hackathon @ETHBerlin.pic.twitter.com/JSEY2TuQvB",
+            "username": "graphprotocol",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1037093516382355456": {
+            "id": "1037093516382355456",
+            "text": "@ETHBerlin hackers, we are very excited to announce two bounties for the Hackathon \u2014 build a dApp on The Graph or create a Subgraph: https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues/10\u00a0\u2026 https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues/11\u00a0\u2026 The prizes will be distributed via @GetGitcoin and our team is happy to answer all your Qs!",
+            "username": "graphprotocol",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1037092198032896000": {
+            "id": "1037092198032896000",
+            "text": "The Graph is coming to @ETHBerlin! Looking forward to a fun weekend of hacking, meeting with friends and absorbing the incredible momentum of the #Ethereum community. A significant part of our team will be there - come find us at our booth!",
+            "username": "graphprotocol",
+            "num_likes": 33,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1029513719674331136": {
+            "id": "1029513719674331136",
+            "text": "What a lovely write up. Thanks @katerinastro for illustrating the value of indexing blockchain data in a way anyone can understand https://twitter.com/katerinastro/status/1029483211032748032\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1024456771115438080": {
+            "id": "1024456771115438080",
+            "text": "So excited to announce The Graph is now open source \n\nWe'll be continuing development of our query protocol for blockchains in public alongside our growing developer community. See you on GitHub and in the Discord!https://medium.com/graphprotocol/the-graph-is-now-open-source-bab53cda6de3\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 201,
+            "num_retweets": 47,
+            "num_replies": 1
+        },
+        "1019271043251204097": {
+            "id": "1019271043251204097",
+            "text": "We got included in this week's Token Economy \nhttps://tokeneconomy.co/issue-57-fae8990cb343\u00a0\u2026pic.twitter.com/3kb7kD6OUL",
+            "username": "graphprotocol",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1017855957898964992": {
+            "id": "1017855957898964992",
+            "text": "Congrats to the Augur team for shipping this week \n\nTo remain decentralized users have to download a desktop app and sync for 20min\n\nSomeone created an untrusted centralized API to make it faster https://augur.casino\u00a0\n\nWhen The Graph launches we could offer a 3rd option\n\n",
+            "username": "graphprotocol",
+            "num_likes": 78,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1016852048531185664": {
+            "id": "1016852048531185664",
+            "text": "\"To the best of my knowledge, The Graph is the only team building a decentralized query layer for Ethereum. Previously, every single team building dapps on Ethereum had to build a proprietary indexing infrastructure.\"https://multicoin.capital/2018/07/10/the-web3-stack\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 40,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1016402156809641984": {
+            "id": "1016402156809641984",
+            "text": "We just published the first chapter of our story  Please share and give it a read https://medium.com/graphprotocol/introducing-the-graph-4a281b28203e\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 105,
+            "num_retweets": 33,
+            "num_replies": 1
+        },
+        "1006371384811876354": {
+            "id": "1006371384811876354",
+            "text": "John Resig, creator of jQuery, released a book on GraphQL today. \"GraphQL is the best way to fetch data for your app\" he says. We agree!https://blog.graphql.guide/introducing-the-graphql-guide-11a5ae48628a\u00a0\u2026",
+            "username": "graphprotocol",
+            "num_likes": 30,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1004765909452447746": {
+            "id": "1004765909452447746",
+            "text": "We're so thrilled by the overwhelming positive response to our announcement. Thank you for subscribing to our channels. Expect more details in the coming weeks ",
+            "username": "graphprotocol",
+            "num_likes": 42,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1004111942900826113": {
+            "id": "1004111942900826113",
+            "text": "We\u2019re so excited to be announcing The Graph!  A decentralized query protocol for blockchains. The Graph lets you build dApps more easily on Ethereum and IPFS using GraphQL. Together we can build a new generation of the web free from monopolies. https://thegraph.com\u00a0",
+            "username": "graphprotocol",
+            "num_likes": 517,
+            "num_retweets": 169,
+            "num_replies": 24
+        }
+    },
+    "num_retweets_by_originator": {
+        "yanivgraph": 7,
+        "nicksdjohnson": 3,
+        "JRossTreacher": 4,
+        "lastmjs": 2,
+        "MohamedFFouda": 2,
+        "ETHGasStation": 1,
+        "AndrewTu_": 2,
+        "CoinList": 2,
+        "fubuloubu": 1,
+        "ZacharyDeWitt": 2,
+        "mwill_crypto": 3,
+        "SSrinawakoon": 2,
+        "barinov": 1,
+        "Drmelseidy": 1,
+        "MerschMax_": 1,
+        "jbrukh": 2,
+        "QuikNode": 1,
+        "CodaProtocol": 1,
+        "isiain": 1,
+        "ZeppelinOrg": 1,
+        "kauri_io": 1,
+        "ethstatus": 1,
+        "RezBrandon": 4,
+        "robbiebent1": 1,
+        "izqui9": 1,
+        "spencernoon": 2,
+        "RyanSAdams": 1,
+        "lwsnbaker": 1,
+        "KyleSamani": 1,
+        "ImNotJK": 1,
+        "DOSNetwork": 1,
+        "lrettig": 3,
+        "benarent": 1,
+        "adamSoffer": 2,
+        "AAAinsley": 1,
+        "originprotocol": 2,
+        "grahammcbain": 1,
+        "coinfund_io": 1,
+        "dberenzon": 1,
+        "andrewxhill": 1,
+        "benwerd": 1,
+        "JTremback": 1,
+        "NEARProtocol": 2,
+        "RHLSTHRM": 1,
+        "ricburton": 5,
+        "ideocolab": 1,
+        "bohendo": 1,
+        "petkanics": 1,
+        "_jefflau": 1,
+        "8x_Protocol": 1,
+        "AlexRuppertVC": 1,
+        "crypto_briefing": 1,
+        "jannispohlmann": 1,
+        "kacperwikiel": 2
+    },
+    "users_retweeted": [
+        "yanivgraph",
+        "ricburton",
+        "JRossTreacher",
+        "RezBrandon",
+        "nicksdjohnson",
+        "mwill_crypto",
+        "lrettig",
+        "lastmjs",
+        "MohamedFFouda",
+        "AndrewTu_",
+        "CoinList",
+        "ZacharyDeWitt",
+        "SSrinawakoon",
+        "jbrukh",
+        "spencernoon",
+        "adamSoffer",
+        "originprotocol",
+        "NEARProtocol",
+        "kacperwikiel",
+        "ETHGasStation",
+        "fubuloubu",
+        "barinov",
+        "Drmelseidy",
+        "MerschMax_",
+        "QuikNode",
+        "CodaProtocol",
+        "isiain",
+        "ZeppelinOrg",
+        "kauri_io",
+        "ethstatus",
+        "robbiebent1",
+        "izqui9",
+        "RyanSAdams",
+        "lwsnbaker",
+        "KyleSamani",
+        "ImNotJK",
+        "DOSNetwork",
+        "benarent",
+        "AAAinsley",
+        "grahammcbain",
+        "coinfund_io",
+        "dberenzon",
+        "andrewxhill",
+        "benwerd",
+        "JTremback",
+        "RHLSTHRM",
+        "ideocolab",
+        "bohendo",
+        "petkanics",
+        "_jefflau",
+        "8x_Protocol",
+        "AlexRuppertVC",
+        "crypto_briefing",
+        "jannispohlmann"
+    ]
+}

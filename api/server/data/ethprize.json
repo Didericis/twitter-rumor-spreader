@@ -1,0 +1,60 @@
+{
+    "is_complete": true,
+    "username": "ethprize",
+    "retweeted": {
+        "1008672605249986561": {
+            "id": "1008672605249986561",
+            "text": "The @ethprize team has interviewed 95(!!) ethereum devs on insights into what's great, what's broken, and what needs fixin'. But now we could use a designer to help visualize and share these insights. Bounty avail. Details here: https://github.com/status-im/ETHPrize/issues/13\u00a0\u2026 cc: @cryptowanderer",
+            "username": "AsherT",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "973157501381332992": {
+            "id": "973157501381332992",
+            "text": "#ETHPrize and what we learned interviewing 50 Ethereum developers https://www.youtube.com/watch?v=3tKLUkRLhRc\u00a0\u2026 #activebounties @AsherT @0xstark @sinahab @web3foundation @L4ventures #builddevtoolsnotICOs",
+            "username": "Truebitprotocol",
+            "num_likes": 38,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "972081734492835840": {
+            "id": "972081734492835840",
+            "text": "W3F's @AsherT is at #ETHCC presenting ETHPrize, a collaborative effort with @Truebitprotocol and @L4ventures to support devs and fund critical Ethereum infrastructure projects. First two funded projects will be announced tomorrow at 9:40am CET.",
+            "username": "web3foundation",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "972394798844870656": {
+            "id": "972394798844870656",
+            "text": "Bounties galore! $250,000 bounties for an open-source block explorer and a smart contract package manager. http://ethprize.io\u00a0 @ethprize #ethccpic.twitter.com/2WAvkDxYO3",
+            "username": "ph_lux",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "974284598359314437": {
+            "id": "974284598359314437",
+            "text": "Our launch video from #ETHcchttps://www.youtube.com/watch?v=3tKLUkRLhRc\u00a0\u2026",
+            "username": "ethprize",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "AsherT": 1,
+        "Truebitprotocol": 1,
+        "web3foundation": 1,
+        "ph_lux": 1
+    },
+    "users_retweeted": [
+        "AsherT",
+        "Truebitprotocol",
+        "web3foundation",
+        "ph_lux"
+    ]
+}

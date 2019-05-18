@@ -1,0 +1,48 @@
+{
+    "is_complete": true,
+    "username": "algofabrik",
+    "retweeted": {
+        "1117946119453962240": {
+            "id": "1117946119453962240",
+            "text": "\uc624\ub298 \uc800\ub141 \ub17c\uc2a4\uc5d0\uc11c \ud55c\uad6d \ucee4\ubba4\ub2c8\ud2f0\ub97c \ub9cc\ub098\uae30 \uae30\ub300\ub429\ub2c8\ub2e4!https://twitter.com/RSKsmart/status/1117750968433684480\u00a0\u2026",
+            "username": "dieguito",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1118091997330456576": {
+            "id": "1118091997330456576",
+            "text": "We're excited to announce the @Algorand TestNet is open to the public & anyone can participate! Businesses, developers & users are invited to engage with our platform. Another step forward in making possible a new #borderlesseconomy.\n\nRead the news here: https://bit.ly/2UQyRnI\u00a0pic.twitter.com/D8qwLfj5q4",
+            "username": "Algorand",
+            "num_likes": 158,
+            "num_retweets": 47,
+            "num_replies": 9
+        },
+        "1115252001632333824": {
+            "id": "1115252001632333824",
+            "text": "To be clear: The @Algorand Network has not yet launched and there are no token sales. Any information to the contrary is false. We will be sure to keep our channels updated as soon as there are important announcements.",
+            "username": "Algorand",
+            "num_likes": 68,
+            "num_retweets": 23,
+            "num_replies": 11
+        }
+    },
+    "tweeted": {
+        "1115289133222703104": {
+            "id": "1115289133222703104",
+            "text": "Anyone looking to use Ledger Nano on Algorand:\n\u2022 We created some scripts to ease the signing interaction. Full instructions in our repo: https://github.com/CoinFabrik/algorand-ledger\u00a0\u2026\n\u2022 We are also creating a web interface to interact with it (stay tuned here)",
+            "username": "algofabrik",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "dieguito": 1,
+        "Algorand": 2
+    },
+    "users_retweeted": [
+        "Algorand",
+        "dieguito"
+    ]
+}

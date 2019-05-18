@@ -1,0 +1,3454 @@
+{
+    "is_complete": true,
+    "username": "paulcowgill",
+    "retweeted": {
+        "1123775311332745217": {
+            "id": "1123775311332745217",
+            "text": "Great thread on crypto ux! Here are some major design patterns i see: traditional key management(metamask, hardware), simplified versions of that - (portis, fortmatic), mobile signers (walletconnect, tasit,  Samsung ?), and smart-contract (gnosis/tasit). Last 2 are my favhttps://twitter.com/tomhschmidt/status/1123655807202054149\u00a0\u2026",
+            "username": "ps2_comptroller",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1121183671891791872": {
+            "id": "1121183671891791872",
+            "text": "In about a week and a half, ENS is upgrading, and users will have 1 year to migrate to the new system. Are you ready?\n\nHere's what you need to know ---> https://medium.com/the-ethereum-name-service/ens-is-upgrading-heres-what-you-need-to-do-f26423339fcf\u00a0\u2026\n#ENSeverywhere #ethereum",
+            "username": "ensdomains",
+            "num_likes": 35,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1115640809012047873": {
+            "id": "1115640809012047873",
+            "text": "Want a mobile app for your web dapp so you can attract more users? Let\u2019s talk.",
+            "username": "TasitProject",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1113397652299948032": {
+            "id": "1113397652299948032",
+            "text": "To make the Gnosis Safe one of the most secure multisigs on the market, we worked with formal verification pros @rv_inc and updated our smart contracts. Check out the full report here https://github.com/runtimeverification/verified-smart-contracts/blob/master/gnosis/GnosisSafe_RuntimeVerification.pdf\u00a0\u2026",
+            "username": "gnosisSafe",
+            "num_likes": 32,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1098164923119620101": {
+            "id": "1098164923119620101",
+            "text": "The future of dApps is mobile. The @TasitLabs SDK will make it easy to bootstrap native mobile dApps. We are happy to support the development. Parts of the grant will be used to integrate the @gnosisSafe allowing users to use the Safe as wallet in Tasit powered dApps.https://twitter.com/TasitProject/status/1097978832529821698\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1097889930141986818": {
+            "id": "1097889930141986818",
+            "text": "We just announced the winners of the first round of the Gnosis Ecosystem Fund (GECO)! Check out our blogpost to find out which teams will be #buidling with us #geco https://blog.gnosis.pm/gnosis-ecosystem-fund-update-i-f64dfd185f33\u00a0\u2026pic.twitter.com/Uk2zAVAwD8",
+            "username": "gnosisPM",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1096673235859431424": {
+            "id": "1096673235859431424",
+            "text": " PR for Crypto in @Expo is about to land  I'll probably finish everything on the http://expo.canny.io\u00a0 before I finish Bluetooth  Also thanks @JI for ensuring it actually works  https://github.com/expo/expo/pull/3501\u00a0\u2026pic.twitter.com/qTZZXEJia8",
+            "username": "Baconbrix",
+            "num_likes": 52,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1096110445281329152": {
+            "id": "1096110445281329152",
+            "text": "Like, where are they? https://decryptmedia.com/5181/four-things-mobile-dapps-apps-crypto\u00a0\u2026 @TrustWalletApp @peepethApp @PaulCowgill @Philiff\n@cybercodetwins @BerndLapp @kvhnuke_ @loomnetwork",
+            "username": "AdrianaHamacher",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1069762935994499072": {
+            "id": "1069762935994499072",
+            "text": "Hey Magicians! Who is going to ETHDenver and what do you want to discuss? Thread from @mattdlockyer on the forum for further discussion.https://twitter.com/mattdlockyer/status/1069759114891292672\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 24,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1093606513216815106": {
+            "id": "1093606513216815106",
+            "text": "Today we completed our milestone to convert a bunch of @expo modules into universal modules \nMost of them can be used in bare #ReactNative apps \n\nBig shoutout to @sjchmiela and @bbarthec for their enormous contribution on this!  You rock dudes https://github.com/expo/expo/tree/master/packages\u00a0\u2026",
+            "username": "tsapeta",
+            "num_likes": 200,
+            "num_retweets": 48,
+            "num_replies": 9
+        },
+        "1090949333032280064": {
+            "id": "1090949333032280064",
+            "text": "Tasit @TasitLabs - SDK React Native DApps \nhttps://github.com/tasitlabs/TasitSDK\u00a0\u2026\n\nWell documented repository \nMain language: #JavaScript, React Native\n\n- 12 Good first issues\n- 4 Help wanted",
+            "username": "wslyvh",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1082077920590327816": {
+            "id": "1082077920590327816",
+            "text": "Calling all Magicians!!!\nRE: Thursday, FEB 14th, right before @EthereumDenver\nSpace was provided to host Rings and Content! \nInterested?\n!FILL THIS OUT ASAP!https://goo.gl/forms/YKQ1eGsYFHGUZBxD2\u00a0\u2026",
+            "username": "mattdlockyer",
+            "num_likes": 22,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "1080880579120263168": {
+            "id": "1080880579120263168",
+            "text": "We've released our JavaScript i18n framework, FBT, as open source today!  Go check it out:https://github.com/facebookincubator/fbt\u00a0\u2026",
+            "username": "fbt_js",
+            "num_likes": 57,
+            "num_retweets": 29,
+            "num_replies": 5
+        },
+        "1079390159924277249": {
+            "id": "1079390159924277249",
+            "text": "Feeling the post-holiday blues? Brighten your day with the Gnosis Ecosystem Fund! We're providing funding, mentoring, and community to qualified applicants. Apply today! #GECOhttps://github.com/gnosis/Gnosis-Ecosystem-Fund/blob/master/Proposals/ProposalTemplate.md\u00a0\u2026",
+            "username": "gnosisPM",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1071655458585436165": {
+            "id": "1071655458585436165",
+            "text": "Spread the word!\n\nWe\u2019re bringing Africa\u2019s FIRST @ETHGlobal hackathon to the beautiful tech hub of Cape Town, South Africa for the WILDEST ETH hackathon yet!\n\nCheck out our website for more details (http://ethcapetown.com/\u00a0) \n\nIt\u2019s time to #BUIDL in Cape Town! \n#ETHCapeTownpic.twitter.com/BJ1lUjXBFm",
+            "username": "ETHCapeTown",
+            "num_likes": 169,
+            "num_retweets": 61,
+            "num_replies": 7
+        },
+        "1071469860079702016": {
+            "id": "1071469860079702016",
+            "text": "Are you interested in attending a #React conference for #Chicago in 2019? If so, express your interest here: http://react.carrd.co\u00a0",
+            "username": "ReactJSChicago",
+            "num_likes": 10,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1068671376993775618": {
+            "id": "1068671376993775618",
+            "text": "@huangspenser and the NU Blockchain Group hosted a technical workshop yesterday on Crypto & Web 3.0 led by @paulcowgill from @TasitLabs.\n\nLivestream: https://m.facebook.com/story.php?story_fbid=331162057673421&id=140377950023535\u00a0\u2026",
+            "username": "BlockchainEDU",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1058000888004980736": {
+            "id": "1058000888004980736",
+            "text": "Applications are now open for ETHDenver 2019! Read our full announcement here and apply on our website: https://medium.com/ethdenver/applications-are-now-open-for-ethdenver-2019-the-worlds-largest-ethereum-blockchain-buidlathon-57b8f7be9bd7\u00a0\u2026 #buidl #beabufficorn #letshackpic.twitter.com/r1gfeerwJt",
+            "username": "EthereumDenver",
+            "num_likes": 168,
+            "num_retweets": 79,
+            "num_replies": 8
+        },
+        "1058668944121315328": {
+            "id": "1058668944121315328",
+            "text": "So many great conversations about native mobile dapps at this year\u2019s #devcon4! Feel free to join our Telegram to keep the discussion going.https://t.me/tasitlabs\u00a0",
+            "username": "TasitProject",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058013106511773698": {
+            "id": "1058013106511773698",
+            "text": "About our experience auditing OpenZeppelin 2.0, maintained by @ZeppelinOrg and an amazing developer community.https://medium.com/@level_k/auditing-openzeppelin-2-0-1bdb24d468c7\u00a0\u2026",
+            "username": "levelk_io",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1057535153487183872": {
+            "id": "1057535153487183872",
+            "text": "We also met our auditors: OpenZeppelin <3 @levelk_iopic.twitter.com/GKW5z7Niyy",
+            "username": "yoelopio",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1052237733232545792": {
+            "id": "1052237733232545792",
+            "text": "Peepeth is now completely free!\n\nEther is no longer required to sign up, and peeping is free for everyone. It's one of the first (the only?) free dapps on Ethereum.\n\nThanks to everyone who helped make this possible! https://peepeth.com/\u00a0",
+            "username": "peepethApp",
+            "num_likes": 190,
+            "num_retweets": 61,
+            "num_replies": 15
+        },
+        "1050119611885207556": {
+            "id": "1050119611885207556",
+            "text": "Incredibly excited to share http://magic.co\u00a0. Magic is a decentralized supernetwork. We are building Magic to make Internet access more affordable, more performant, and more private. Check it out! https://medium.com/helloitsmagic/introducing-magic-decentralized-internet-service-from-the-future-80250cd037fa\u00a0\u2026 @helloitsmagic #Decentralization #telco",
+            "username": "bforgan",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1046784440121389056": {
+            "id": "1046784440121389056",
+            "text": "USV colleagues @thedanigrant and @nickgrossman have synthesized some thoughts around the current state of Web 3.0. Read more here: https://www.usv.com/blog/the-myth-of-the-infrastructure-phase\u00a0\u2026",
+            "username": "usv",
+            "num_likes": 78,
+            "num_retweets": 28,
+            "num_replies": 5
+        },
+        "1038141169384017921": {
+            "id": "1038141169384017921",
+            "text": "The first release candidate of OpenZeppelin 2.0 was just published! Come take a look! https://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v2.0.0-rc.1\u00a0\u2026",
+            "username": "frangio_",
+            "num_likes": 30,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1020210381107605505": {
+            "id": "1020210381107605505",
+            "text": "I occasionally get emails like \"We started building this thing. We don't want to ICO, but we don't have biz model yet, but we need some $$$ to keep dev-ing. What do?\"\n\nMy answer is always this amazing article by @MPtherealMVP & @gabriellemichttps://medium.com/ecf-review/mapping-out-grants-in-ethereum-and-beyond-41394b7ca3ba\u00a0\u2026",
+            "username": "tayvano_",
+            "num_likes": 80,
+            "num_retweets": 22,
+            "num_replies": 6
+        },
+        "1020179966749749248": {
+            "id": "1020179966749749248",
+            "text": "#DappCon in Berlin has been great so far! @paulcowgill is there, so feel free to reach out if you\u2019d like to chat about dapp UIs and/or smart contract standards. Thanks to @gnosisPM for organizing the conference!",
+            "username": "TasitProject",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1004080395045015552": {
+            "id": "1004080395045015552",
+            "text": " Chicago\u2019s first ever JS Conference is happening Sept 22!\n\nSubmit a talk and learn more at https://ChicagoJS.org\u00a0\n\nFirst time speakers are encouraged!!pic.twitter.com/yaK8P9Hrc5",
+            "username": "chicago_js",
+            "num_likes": 110,
+            "num_retweets": 45,
+            "num_replies": 4
+        },
+        "991391379380146177": {
+            "id": "991391379380146177",
+            "text": "Early stage founder? Wondering what to do about diversity and inclusion? You're not alone. Take this survey to see where you stand:https://goo.gl/forms/Bq0IAZ1y01kBVsxZ2\u00a0\u2026",
+            "username": "alliebotHQ",
+            "num_likes": 4,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "953734808424902656": {
+            "id": "953734808424902656",
+            "text": ". @JoinPaladin is hiring! We're looking for a couple awesome engineers and a design lead to join our team in NYC. Write code, push pixels, fight for #accesstojustice !https://medium.com/join-paladin/paladin-is-hiring-5ea6c6a440f8\u00a0\u2026",
+            "username": "mtucker",
+            "num_likes": 12,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "941721601544015872": {
+            "id": "941721601544015872",
+            "text": "I just published \u201cA Primer on Opportunities for Decentralized Data Platforms\u201dhttps://medium.com/p/a-primer-on-opportunities-for-decentralized-data-platforms-c6d6dc41873\u00a0\u2026",
+            "username": "dgmason",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "930823643462021120": {
+            "id": "930823643462021120",
+            "text": " @elemetric_ Trying to lead the charge & help Chicago catch up as blockchain community! @danielmason1 @paulcowgillhttps://twitter.com/builtinchicago/status/930476933183430656\u00a0\u2026",
+            "username": "loganlahive",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "930476933183430656": {
+            "id": "930476933183430656",
+            "text": "Buy electricity from your neighbor: 5 Chicago startups finding new uses for blockchain @bloqinc @OmegaGridInc @JoinCFX http://bit.ly/2zA63Fo\u00a0pic.twitter.com/oM4xMIFJnG",
+            "username": "BuiltInChicago",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "930435170288656384": {
+            "id": "930435170288656384",
+            "text": "Close to 7 million lines of changed code later and we present the BRAND NEW FIREFOX.\n\nFast, fierce & for good.https://mzl.la/2jolNon\u00a0",
+            "username": "firefox",
+            "num_likes": 5435,
+            "num_retweets": 3301,
+            "num_replies": 293
+        },
+        "918922017440755712": {
+            "id": "918922017440755712",
+            "text": "Just published \u2014> Techstars Chicago 2017 Recap, including Demo Day videos! Check it out & share ur favorite!https://medium.com/@loganlahive/techstars-chicago-2017-recap-653fac029ed4\u00a0\u2026",
+            "username": "loganlahive",
+            "num_likes": 42,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "918616786483994624": {
+            "id": "918616786483994624",
+            "text": ".@elemetric_ is already working with @springcm to bring off-chain contract data onto the Blockchain #tsdemoday @techstars #Chicagopic.twitter.com/Xw57bzK27d",
+            "username": "loganlahive",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "918502746654994432": {
+            "id": "918502746654994432",
+            "text": ".@techstars Chicago Demo Day is TONIGHT! 10 amazing companies will present - Starting @ 5pm & wrapping by 7:08pm!https://chicago2017demoday.eventbrite.com\u00a0",
+            "username": "loganlahive",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "914953978575773697": {
+            "id": "914953978575773697",
+            "text": "Today we're excited to announce the open-source SAFT project, including the release of the SAFT whitepaper. Join us!https://protocol.ai/blog/announcing-saft-project/\u00a0\u2026",
+            "username": "protocollabs",
+            "num_likes": 119,
+            "num_retweets": 43,
+            "num_replies": 0
+        },
+        "912524753948291078": {
+            "id": "912524753948291078",
+            "text": "I just want the confidence of Kelsey Grammer demanding to sing the theme song to \"Frasier\" and for it to be nonsense.",
+            "username": "joshgondelman",
+            "num_likes": 917,
+            "num_retweets": 83,
+            "num_replies": 16
+        },
+        "907290594250280960": {
+            "id": "907290594250280960",
+            "text": "Entrepreneurship in Blockchain Meetup tonight at 1871! Check out the invite here: https://www.meetup.com/Chicago-Blockchain-Meetup/events/242952201/\u00a0\u2026. Should be a great presentation.https://twitter.com/loganlahive/status/907290198232518657\u00a0\u2026",
+            "username": "dgmason",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "901618535054663680": {
+            "id": "901618535054663680",
+            "text": "Want to support #Cville2DC but can\u2019t join us in person? $5 or $10 goes a long way! We need your support! https://www.youcaring.com/thepeoplesconsortiumforhumanandcivilrights-914108\u00a0\u2026",
+            "username": "cville2dc",
+            "num_likes": 239,
+            "num_retweets": 234,
+            "num_replies": 11
+        },
+        "898547594200309760": {
+            "id": "898547594200309760",
+            "text": "I just published \u201cAccelerating into Growth Month: Techstars Chicago \u201917 Company Updates & Asks\u201dhttps://medium.com/p/accelerating-into-growth-month-techstars-chicago-17-company-updates-asks-c825daac125d\u00a0\u2026",
+            "username": "loganlahive",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "896030983119654913": {
+            "id": "896030983119654913",
+            "text": "Save your seat for a webinar on 8/17 to learn about tech vs. business challenges of implementing #IoT . @myheatworks http://bit.ly/2vtOx16\u00a0pic.twitter.com/KDbN5zUhF4",
+            "username": "XivelyIOT",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "850036258982182913": {
+            "id": "850036258982182913",
+            "text": "Edyn announces support for @IFTTT !!!!https://medium.com/@edyn/announcing-ifttt-support-3c9f3a967e45\u00a0\u2026",
+            "username": "EdynGarden",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "597888161222524928": {
+            "id": "597888161222524928",
+            "text": "Dozens of hospitals to deploy IBM Watson computer in fight against cancer  via @FierceMedDev http://23me.co/YTPlmb\u00a0",
+            "username": "23andMe",
+            "num_likes": 10,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "486602021219213313": {
+            "id": "486602021219213313",
+            "text": "Mac DeMarco (@Msldemarco) plays a free/all-ages show @AmoebaSF tomorrow at 3pm! Details --> http://ow.ly/yFVp4\u00a0pic.twitter.com/koVv3hP2r0",
+            "username": "amoebamusic",
+            "num_likes": 77,
+            "num_retweets": 27,
+            "num_replies": 6
+        },
+        "485188822544568322": {
+            "id": "485188822544568322",
+            "text": "3 days left to back @EdynGarden! Pledge today at: http://ow.ly/yNrUJ\u00a0 #gardening",
+            "username": "EdynGarden",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "434400656493801473": {
+            "id": "434400656493801473",
+            "text": "YouTube and Pandora Control 65% of all Streaming Music In the US... http://wp.me/p40mAq-5ty\u00a0",
+            "username": "digitalmusicnws",
+            "num_likes": 3,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "433722212512985090": {
+            "id": "433722212512985090",
+            "text": "First ever Bay Area Record Label Fair (B.A.R.F.) hits Thee Parkside @ProFans_ @theeparksidehttp://bit.ly/1kCG8ih\u00a0",
+            "username": "thebaybridged",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "423242389093109761": {
+            "id": "423242389093109761",
+            "text": ". @Betaspring Expands Hardware/Phystech Accelerator Track (& applications are open) http://t.gan.co/1cjzsfM\u00a0",
+            "username": "GANConnect",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "410514987892080640": {
+            "id": "410514987892080640",
+            "text": "We made a map of all of Providence's startups. Check out the Providence Startup Map thx @laprestif for design work http://ow.ly/rDV19\u00a0",
+            "username": "Founders_League",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "397791427041562624": {
+            "id": "397791427041562624",
+            "text": "Improve your website\u2019s performance with the new Speed Suggestions report:http://goo.gl/h6xvXl\u00a0",
+            "username": "googleanalytics",
+            "num_likes": 35,
+            "num_retweets": 57,
+            "num_replies": 2
+        },
+        "390959446362320896": {
+            "id": "390959446362320896",
+            "text": "Stuff is better! Invite friends to join your raft through Facebook, Twitter, or texts. http://blog.raftout.com/post/64274338232/stuff-is-better\u00a0\u2026",
+            "username": "RaftOut",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "388345072997003264": {
+            "id": "388345072997003264",
+            "text": "Google trying to patent bill splitting while lobbying Splitwise for patent reform http://wp.me/p1J0lP-IQ\u00a0",
+            "username": "splitwise",
+            "num_likes": 2,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "375689889636831232": {
+            "id": "375689889636831232",
+            "text": "We just relocated from Boston to San Francisco yesterday! (Classic, right?) Dear San Francisco startups: Let's hang.",
+            "username": "RaftOut",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "357510803013894145": {
+            "id": "357510803013894145",
+            "text": "@RaftOut Really nifty idea you got there. Looks like last.fm's \"find a Gig Buddy\" on steroids",
+            "username": "groovemusicapp",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "337956094385217536": {
+            "id": "337956094385217536",
+            "text": "Beautiful, Deeply Disturbing Read: How Free Information Will Enslave Us All http://qz.com/87795/free-information-as-great-as-it-sounds-will-enslave-us-all/\u00a0\u2026",
+            "username": "ChrisBolman",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "335561546136694784": {
+            "id": "335561546136694784",
+            "text": "Great to see @_And_Hall @startuppaul @trishofthetrade at #music2 #tgthr2013",
+            "username": "rrridges",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "329701995709620224": {
+            "id": "329701995709620224",
+            "text": "Last rehearsal before Launch Day, lots of laughing and camaraderie. As of tomorrow, 72 alumni startups!",
+            "username": "revupcapital",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "328954836823441410": {
+            "id": "328954836823441410",
+            "text": "Greentape Brings Reviews To Consumers And Data To Merchants http://tcrn.ch/188kc6Y\u00a0 by @getdonovan",
+            "username": "TechCrunch",
+            "num_likes": 3,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "316382888155299840": {
+            "id": "316382888155299840",
+            "text": "OH at startup drinks \"it's all hypothesis\" @stephaniecaress",
+            "username": "laprestif",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "312692691542622208": {
+            "id": "312692691542622208",
+            "text": "Dropbox Acquires Mailbox https://blog.dropbox.com/2013/03/welcome-mailbox/\u00a0\u2026 (http://bit.ly/15QXtu6\u00a0)",
+            "username": "newsyc150",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "309488391345541121": {
+            "id": "309488391345541121",
+            "text": "Facebook is about to redesign News Feed: Here's what to expect http://bit.ly/XS8aZS\u00a0",
+            "username": "TrepLaw",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "309454845616726017": {
+            "id": "309454845616726017",
+            "text": "Our 1st raft ever just launched! 15 people are going to see @MagicMan with @stolenjars at @fetemusic tmrw night thanks to @RaftOut",
+            "username": "RaftOut",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1113669227678978048": {
+            "id": "1113669227678978048",
+            "text": "If you would like an invite to try out our Decentraland mobile app, my DMs are open! #",
+            "username": "paulcowgill",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 8
+        },
+        "1126150266036871169": {
+            "id": "1126150266036871169",
+            "text": "Our project just went live on @gitcoin Grants!\n\nIt's set up so that the @AragonProject DAO for @TasitProject receives the funds.\n\nSo basically we're living in the future.",
+            "username": "paulcowgill",
+            "num_likes": 26,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1124702140751020033": {
+            "id": "1124702140751020033",
+            "text": "(Technically I should say that I rented it.)",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1124701816342614016": {
+            "id": "1124701816342614016",
+            "text": "I just bought paulcowgill.eth with the new version of @ensdomains. Very simple process!",
+            "username": "paulcowgill",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1124429907352805378": {
+            "id": "1124429907352805378",
+            "text": "There would be so many more startups if it were easier to get $5k and $10k checks when a startup is at a very early stage.",
+            "username": "paulcowgill",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1123596559092985857": {
+            "id": "1123596559092985857",
+            "text": "Wallet is to dapp as square is to rectangle.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1122212639067836417": {
+            "id": "1122212639067836417",
+            "text": "The email-login-without-a-password approach that @multisHQ is using is interesting.\n\nIf your \"password reset\" flow is good enough, why not have people use that for every single login and never actually set a password?",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1121882838008311808": {
+            "id": "1121882838008311808",
+            "text": "Hmm, this isn't ideal for SEO.pic.twitter.com/NVx9qSvw4V",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121882023625465857": {
+            "id": "1121882023625465857",
+            "text": "Just voted in the Aragon vote.\n\nIt feels a little anticlimactic without receiving an \"I voted\" NFT though.",
+            "username": "paulcowgill",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1121445352912183296": {
+            "id": "1121445352912183296",
+            "text": "Simple name registrations thread:https://discuss.ens.domains/t/mobile-app-for-simple-name-registrations/928\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121445352035557376": {
+            "id": "1121445352035557376",
+            "text": "Short name auction thread:https://discuss.ens.domains/t/mobile-app-for-short-name-auction/927\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1121445119494893568": {
+            "id": "1121445119494893568",
+            "text": "I just created two proposals for building an @ensdomains native mobile app, for the upcoming short name auction and/or the new simple registration feature.",
+            "username": "paulcowgill",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1121279404540346368": {
+            "id": "1121279404540346368",
+            "text": "Okay, just so we\u2019re all on the same page:\n\n5 more years of breaking down our social networks into small Telegrams/Discords/Slacks and then we rebundle them, right?",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1121272661244616705": {
+            "id": "1121272661244616705",
+            "text": "http://xkcd.com/2141\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120675766491131906": {
+            "id": "1120675766491131906",
+            "text": "Thanks to @LeaFilipo for the cool cartoon version of our team!",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120672566828515329": {
+            "id": "1120672566828515329",
+            "text": "Gnosis wrote about our project in their blog!https://twitter.com/gnosisPM/status/1120621082082410496\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1120426529366925312": {
+            "id": "1120426529366925312",
+            "text": "Here are some things I\u2019ve done for the first time ever in the past few days:\n\n* Set up Argent wallet\n* Set up Ledger Nano S wallets\n* Created a mainnet Aragon DAO\n* Exchanged ETH for DAI using Uniswap",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1119754868716179456": {
+            "id": "1119754868716179456",
+            "text": "Is there a tool like Ghost for blogging but where the blog is a static site and the content is saved as markdown on GitHub? And still with an editor UI and SEO? That\u2019s what I want.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1119348596057497603": {
+            "id": "1119348596057497603",
+            "text": "If this account ever starts tweeting random questions just to get \"engagement\", that's how you'll know I've been kidnapped. Or adultnapped?",
+            "username": "paulcowgill",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1119334503204438016": {
+            "id": "1119334503204438016",
+            "text": "This is good news for crypto mobile apps that could be censored by Apple or Google:\n\n\"We recently announced beta support for creating progressive web apps in addition to native Android and iOS apps from Expo projects.\"https://blog.expo.io/preview-upcoming-changes-for-expo-sdk-33-67a4bac611a4\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118988143817109514": {
+            "id": "1118988143817109514",
+            "text": "https://thegraph.com/explorer/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118982347481866240": {
+            "id": "1118982347481866240",
+            "text": "TIL CoinTracker doesn\u2019t support internal transactions for Ethereum yet, but they will soon.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118520915703271424": {
+            "id": "1118520915703271424",
+            "text": "I tried out @gitcoin Requests (one of the Gitcoin Labs tools) for the first time, and I was really impressed with how well it worked for this issue:https://github.com/tasitlabs/tasit/issues/206\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116739481489543168": {
+            "id": "1116739481489543168",
+            "text": "I just created this funding proposal for building an @AragonProject native mobile app!https://forum.aragon.org/t/funding-proposal-aragon-native-mobile-app/811\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115634298021789696": {
+            "id": "1115634298021789696",
+            "text": "Opera + Ethereum FTWhttps://blogs.opera.com/desktop/2019/04/opera-60-reborn-3-web-3-0-vpn-ad-blocker/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1115603479794290690": {
+            "id": "1115603479794290690",
+            "text": "Someone should make a new version of Basis as a DAO.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114226062676959232": {
+            "id": "1114226062676959232",
+            "text": "FYI my DMs weren't successfully \"opened\" before, but now they are.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1110909672750530567": {
+            "id": "1110909672750530567",
+            "text": "The Tasit project sure could use some ETH or DAI sometime soon.",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1109465948812124160": {
+            "id": "1109465948812124160",
+            "text": "Instagram is almost entirely made up of ads trying to convert me to the basic way of life at this point.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1108393552969719809": {
+            "id": "1108393552969719809",
+            "text": "Using shallow rendering with Jest snapshots is harder after seeing A Star Is Born.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103756599363985408": {
+            "id": "1103756599363985408",
+            "text": "I'm in New York today and tomorrow! Hit me up if you'd like to grab coffee and talk about Ethereum, mobile, Decentraland, and/or Aragon.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103134562123575297": {
+            "id": "1103134562123575297",
+            "text": "https://open.spotify.com/track/6AMz2plMmDIbE7JLEOSxEA?si=-vwKWTilQzKxyxWs95ydgw\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102983437814644736": {
+            "id": "1102983437814644736",
+            "text": "I'm in SF today and tomorrow! Hit me up if you'd like to grab coffee and talk about Ethereum, mobile, Decentraland, and/or Aragon.",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1101258514029256704": {
+            "id": "1101258514029256704",
+            "text": "Oh weird, with the Twitter preview of the URL it doesn't even show what the domain is. It's tasit dot dev.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101258112122667010": {
+            "id": "1101258112122667010",
+            "text": "We've got a brand new .dev domain that redirects to our GitHub!http://tasit.dev\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1101127533796438017": {
+            "id": "1101127533796438017",
+            "text": "Welp, I\u2019m now on team \u201cemojis in my display name\u201d",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100797875649462272": {
+            "id": "1100797875649462272",
+            "text": "cc @ricburton",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100785730836680704": {
+            "id": "1100785730836680704",
+            "text": "I finalized the dates for this trip - I'll be in New York on Thu Mar 7 and Fri Mar 8.\n\nI'm looking to meet up with high-quality crypto investors, engineers, and designers while I'm there.\n\nLet me know if there's anyone who comes to mind!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1100785398823964673": {
+            "id": "1100785398823964673",
+            "text": "I finalized the dates for this trip - I'll be in SF on Tue Mar 5 and Wed Mar 6.\n\nI'm looking to meet up with high-quality crypto investors, engineers, and designers while I'm there.\n\nLet me know if there's anyone who comes to mind!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100642944267227137": {
+            "id": "1100642944267227137",
+            "text": "It\u2019s really awesome that a black woman is going to be the mayor of Chicago.",
+            "username": "paulcowgill",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1099072738512257026": {
+            "id": "1099072738512257026",
+            "text": "The Live Share feature in VS Code is so cool.https://visualstudio.microsoft.com/services/live-share/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097980881233424393": {
+            "id": "1097980881233424393",
+            "text": "I\u2019m happy to say that @gnosisPM will be providing funding to @TasitLabs through the Gnosis Ecosystem Fund (GECO) to build an integration between the @gnosisSafe and the Tasit SDK! Thanks so much!!https://blog.gnosis.pm/gnosis-ecosystem-fund-update-i-f64dfd185f33\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1095778516472348673": {
+            "id": "1095778516472348673",
+            "text": "Flying to #ETHDenver now!",
+            "username": "paulcowgill",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094001762103689217": {
+            "id": "1094001762103689217",
+            "text": "The Gitcoin community livestream is going on right now! https://gitcoin.co/livestream\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093591045256949760": {
+            "id": "1093591045256949760",
+            "text": "Starting now!",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093574592638128128": {
+            "id": "1093574592638128128",
+            "text": "I'll be in SF later this month to meet with crypto investors about @TasitLabs.\n\nKnow of anyone you'd highly recommend I grab coffee with while I'm there?",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1093574531359363078": {
+            "id": "1093574531359363078",
+            "text": "I'll be in New York later this month to meet with crypto investors about @TasitLabs.\n\nKnow of anyone you'd highly recommend I grab coffee with while I'm there?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093546533105086464": {
+            "id": "1093546533105086464",
+            "text": "#EthMagicians Mobile Ring call in ~3 hours!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093328031668678656": {
+            "id": "1093328031668678656",
+            "text": "The #EthMagicians Mobile Ring open organizing call is in < 24 hours! Details on how to participate here:https://ethereum-magicians.org/t/mobile-ring-organizing-call-ahead-of-ethdenver/2513/4\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1092919878707826692": {
+            "id": "1092919878707826692",
+            "text": "A good resource on how to optimize the performance of your React Native app in production:\n\nhttps://docs.expo.io/versions/latest/react-native/performance/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1091827468904869890": {
+            "id": "1091827468904869890",
+            "text": "Should I be switching from Sketch, InVision, and Zeplin over to Figma? Is that what all the cool kids are doing now?",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "1091732055703072768": {
+            "id": "1091732055703072768",
+            "text": "Even \u201c21 kgas\u201d vs. \u201c21k gas\u201d makes a big difference in how people think about it.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1091731789486403585": {
+            "id": "1091731789486403585",
+            "text": "Smart contract, middleware, and dapp devs will remember how much gas is used in a given transaction better if we measure it in kilogas. 21 kgas vs. 21,000 gas. (And we should still abstract gas away wherever possible too.)",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090996816705916928": {
+            "id": "1090996816705916928",
+            "text": "hiring a designer, a react native engineer, & a full-stack blockchain engineer at @TasitLabs - DM to find out more!\n\nremote \n create: new onboarding flow + 2 native mobile ethereum dapps\n mission: dapps helping 1 billion people\n values: inclusion, clarity, integrity",
+            "username": "paulcowgill",
+            "num_likes": 15,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1090798627734384642": {
+            "id": "1090798627734384642",
+            "text": "I'm sure plenty of people have already said this, but I still can't believe DFINITY chose that name with XFINITY already being a thing.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1090710687712772096": {
+            "id": "1090710687712772096",
+            "text": "https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090642913795756035": {
+            "id": "1090642913795756035",
+            "text": "I feel like we need to split the React and React Native repos off of the Facebook org on GitHub pretty soon if we want their \u201cbrands\u201d to stay likeable.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090398895996391426": {
+            "id": "1090398895996391426",
+            "text": "If you\u2019ll be at #ETHDenver, hit me up so we can talk native mobile dapps.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090125481440088064": {
+            "id": "1090125481440088064",
+            "text": "http://xkcd.com/2104\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1089907867166142467": {
+            "id": "1089907867166142467",
+            "text": "Etherscan just moved 13.1 ETH from their donations address.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1089558036958580736": {
+            "id": "1089558036958580736",
+            "text": "For an npm package maintained as part of a project with a monorepo consisting of multiple packages, what naming style do you prefer?",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1088475553886281729": {
+            "id": "1088475553886281729",
+            "text": "Mobile Ringers of Twitter ^ @mr_ligi @Victor928 @pedrouid @drwasho @mandrigin @jeluard @dnbespalov @tschubotz @rimeissner @brunobar79 @CharlesSWE @o_rourke @luyzdeleon @BenScholtz @pi0neerpat @stskeeps",
+            "username": "paulcowgill",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088437417596645376": {
+            "id": "1088437417596645376",
+            "text": "The catch-all term I\u2019m using to include both \u201ctransactions\u201d and \u201cmeta-transactions\u201d is:\n\n\u201cactions\u201d",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088264073748402176": {
+            "id": "1088264073748402176",
+            "text": "We're going to have a Mobile Ring organizing call ahead of the Magicians Gathering before @EthereumDenver. The forum post below has a link to the Doodle we'll use to pick a date for the call.https://ethereum-magicians.org/t/mobile-ring-organizing-call-ahead-of-ethdenver/2513\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1088259287372177408": {
+            "id": "1088259287372177408",
+            "text": "It would be cool if I could prefill the info for a potential @GetGitcoin issue/bounty that lots of projects are likely to need. They could associate an instance of it with their project and fund it with minimal clicks and typing. Less work on their end to define deliverables.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088252841544900608": {
+            "id": "1088252841544900608",
+            "text": "In particular it would be great to see some @draftbit people there ",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088228283110567943": {
+            "id": "1088228283110567943",
+            "text": "Chicago tech people: At the @ReactJSChicago meetup in February I'll be giving a lightning talk on \"Using React Native to build 3rd-party mobile clients for Ethereum dapps\". Hope to see you there!https://www.meetup.com/React-Chicago/events/255167635/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1088138330359906305": {
+            "id": "1088138330359906305",
+            "text": "The \"default\" way to apply for a job at Tasit Labs is through the AngelList jobs link on our website. But an even better way is by helping us out with an open issue on GitHub. (This goes for designers too - we also have design issues posted there!)https://github.com/orgs/tasitlabs/projects/1\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1088128216919883777": {
+            "id": "1088128216919883777",
+            "text": "Here are the details for the Eve of ETH Denver Council of Ethereum Magicians. It's permissionless, so edit it to your heart's content (within reason).https://hackmd.io/s/rklzFyVX4\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1083383166558240774": {
+            "id": "1083383166558240774",
+            "text": "This is really awesome news about @BlackGirlsCode and Ethereum!https://www.forbes.com/sites/rogerhuang/2019/01/09/consensys-partners-with-black-girls-code-for-national-blockchain-training-program/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1082723770316607490": {
+            "id": "1082723770316607490",
+            "text": "I just created a new Mobile Ring on @EthMagicians!\n\nFeel free to join if you're interested in discussing Ethereum on mobile devices (native mobile dapps, mobile dapp browsers, mobile wallets, etc.).https://ethereum-magicians.org/t/forming-a-ring-mobile-ring/2358\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1082378769095147522": {
+            "id": "1082378769095147522",
+            "text": "I really like this move by @startinglinevc to have their operating manual on GitHub.https://github.com/startinglinevc/Overview\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082375125062873091": {
+            "id": "1082375125062873091",
+            "text": "https://blog.coinbase.com/ethereum-classic-etc-is-currently-being-51-attacked-33be13ce32de\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082328721791598594": {
+            "id": "1082328721791598594",
+            "text": "The ETH ecosystem has lots of community-building efforts, but it's a shame what a key role the hackathons play. Only people with lots of free time and money can go to them, and only young people can forgo sleep and hack all night on things. This reinforces existing inequities.",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1081635244711780353": {
+            "id": "1081635244711780353",
+            "text": "What UI do you usually use for calling arbitrary functions on smart contracts?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1081392094005075973": {
+            "id": "1081392094005075973",
+            "text": "I realized that the previous version of the Tasit website was targeting an audience of people who have tried Ethereum dapps and been unsatisfied with the UX. I reworked it so that it should make sense to people new to Ethereum (since that\u2019s ~everyone).\n\nhttps://tasit.io\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1081332107610333187": {
+            "id": "1081332107610333187",
+            "text": "Could we use a carrot rather than a stick to achieve the goals of Ethereum storage rent?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1081060271328845826": {
+            "id": "1081060271328845826",
+            "text": "For any of you React Native people out there, we have plenty of good first issues open for the first Tasit demo app. (The code is all open-source, and it\u2019s a great way to learn about Ethereum along the way.)https://github.com/tasitlabs/tasit/issues\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1080954442944602115": {
+            "id": "1080954442944602115",
+            "text": "\"The Dynamics of Network Effects\"https://a16z.com/2018/12/13/network-effects-dynamics-in-practice/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1080534169699172352": {
+            "id": "1080534169699172352",
+            "text": "This is the time of year when you find out which companies bothered to code a variable year in the copyright section at the bottom of their website.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1076611186676895745": {
+            "id": "1076611186676895745",
+            "text": "I just found out about @GetGitcoin Grants! Cool stuff.https://gitcoin.co/grants/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1076561985154605056": {
+            "id": "1076561985154605056",
+            "text": "Is there a service that makes it simple for US-based companies to pay contractors in DAI and that handles the tax stuff like Gusto does?",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075530208042778630": {
+            "id": "1075530208042778630",
+            "text": "Cool, Ganache 2.0 beta is outhttps://github.com/trufflesuite/ganache/releases/tag/v2.0.0-beta.1\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1075455502186962944": {
+            "id": "1075455502186962944",
+            "text": "5. Connecting with a wallet // Using @WalletConnectpic.twitter.com/h6TLWURfmA",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1075455500781846532": {
+            "id": "1075455500781846532",
+            "text": "4. \"Connecting\" with a wallet // Using ERC functions: Not sure who to credit for this one. It may be a @TasitLabs original, but the odds of that seem vanishingly low.pic.twitter.com/DfIggNFnP0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1075455499267649543": {
+            "id": "1075455499267649543",
+            "text": "3. Meta-transactions + smart contract identity // Using universal login by @avsa + @ethworkspic.twitter.com/9uDoCO97oo",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1075455497455718400": {
+            "id": "1075455497455718400",
+            "text": "2. Meta-transactions + smart contract identity // Using @gnosisSafepic.twitter.com/MLKWslp4II",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1075455496306483200": {
+            "id": "1075455496306483200",
+            "text": "1. Read-only modepic.twitter.com/v5oo63QxSK",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1075455495421472768": {
+            "id": "1075455495421472768",
+            "text": "A thread with 5 different options for onboarding users in a mobile dapp",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1075093881497272320": {
+            "id": "1075093881497272320",
+            "text": "Put your test files right next to the files under test. (As opposed to having a test dir with parallel directory structure to your production code.) It makes it sooo much easier to quickly visually confirm that each file is being tested.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1074780102926454785": {
+            "id": "1074780102926454785",
+            "text": "If you\u2019re a PoC or a woman and you aren\u2019t already coming to ETHDenver, please consider applying!https://twitter.com/EthereumDenver/status/1074722641192247296\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1074730551842619392": {
+            "id": "1074730551842619392",
+            "text": "Does anyone have a list they like (centralized or decentralized) of the current address for popular smart contract interfaces and whether or not they're upgradeable?https://github.com/tasitlabs/TasitSDK/issues/5\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1074727641712865282": {
+            "id": "1074727641712865282",
+            "text": "I'm looking forward to this month's Decentralized Software Chicago meeting about Secure Scuttlebutt tonight!\n\nWe'll have @dominictarr from SSB, Cel from git-ssb, and @whimful from Dark Crystal (@BlockadesOrg) video-calling in.https://github.com/decentralized-software/chicago/issues/27\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 10,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1074713318416355328": {
+            "id": "1074713318416355328",
+            "text": "Crypto projects need both dist and src files in version control on GitHub for auditability.  A tradiitional project would .gitignore the dist files and generate them locally or in CI before using them. How can I keep the dist files on GitHub without making PR review confusing?",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1072235727738601474": {
+            "id": "1072235727738601474",
+            "text": "I did a brain dump on interacting with smart contracts from a dapp front end.\n\nTL;DR: Use a pubsub-like style.\n\nI'm proposing what I think is the right level of abstraction for reading data from and writing data to contracts (and listening for events).\n\nhttps://github.com/tasitlabs/TasitSDK/blob/develop/packages/tasit-act/README.md\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1071107021892739077": {
+            "id": "1071107021892739077",
+            "text": "Here are my slides from this meetup. Thanks!https://bit.ly/2018-12-04-chicago-ethereum-meetup\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1069836141107560448": {
+            "id": "1069836141107560448",
+            "text": "I\u2019m giving a talk tomorrow at the Chicago Ethereum Meetup!\n\nThe working title is \u201cBuilding 3rd-party mobile dapp clients\u201d.http://meetu.ps/e/G26lq/fj76H/a\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1069631340050636801": {
+            "id": "1069631340050636801",
+            "text": "This GitHub issue about JavaScript crypto functions in a React Native env has been a real emotional roller coaster. (It ended on a positive note!)https://github.com/tasitlabs/TasitSDK/issues/24\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1069617085133803520": {
+            "id": "1069617085133803520",
+            "text": "If you haven\u2019t thought about @mattereum yet, I recommend taking a few minutes and doing that now. They\u2019re working to create a collection of legal entities that technically own physical assets but in practice delegate all control of their ownership to smart contracts. Ambitious.",
+            "username": "paulcowgill",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1068648598840188928": {
+            "id": "1068648598840188928",
+            "text": "I made a quick video showing what a mobile app for Decentraland would look like if you built it using the Tasit SDK. (Disclaimer: Just a wireframe at this point.)https://youtu.be/iJQtDPQrRsE\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1068557142855217153": {
+            "id": "1068557142855217153",
+            "text": "Here are the notes from the workshop:https://bit.ly/intro-to-ethereum\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1067966270451195905": {
+            "id": "1067966270451195905",
+            "text": "I'm doing an \"Intro to Ethereum\" workshop tomorrow at @theGarageNU at Northwestern. Should be fun!https://www.eventbrite.com/e/crypto-web-3-workshop-tickets-53044914768\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1067946310848995328": {
+            "id": "1067946310848995328",
+            "text": "I recorded a one-minute video of my pitch for @TasitLabs. Feedback appreciated!https://youtu.be/PPbwf1-4Jpk\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1065009471569707008": {
+            "id": "1065009471569707008",
+            "text": "I wonder if the vast majority of the DAI created so far was created by generalized miners trying to bootstrap network effect. And if that\u2019s the rational move for investors, is it essentially meaningless to look at early DAI metrics since you can assume they\u2019re being gamed?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063479716978536454": {
+            "id": "1063479716978536454",
+            "text": "According to @pi0neerpat, I should ask for free fake ETH in cooler ways from now on. He's not wrong. 0x32351cC47170015FeE88B9F793fE8829e8d81360",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063102386674262016": {
+            "id": "1063102386674262016",
+            "text": "Requesting faucet funds into 0x662127bF82B794A26B7DDB6B495F6A5A20b81738 on the #Rinkeby #Ethereum test network.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1062784908148596742": {
+            "id": "1062784908148596742",
+            "text": "When someone asks, \u201cWhy do you need a blockchain for this?\u201d, often the answer should be something like this: \u201cInteroperability and removing platform risk for teams making apps on top of apps on top of standards on top of protocols on top of protocols.\u201d",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1062513364012810240": {
+            "id": "1062513364012810240",
+            "text": "Julien Baker, Phoebe Bridgers, and Lucy Dacus tonight at Thalia Hallhttps://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH?si=-7kc0PB2S8G6zzPIybTnzg\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1062445699495800834": {
+            "id": "1062445699495800834",
+            "text": "I just staked my application for @EthereumDenver (a.k.a. #ETHDenver) using @uport_me, @metamask_io, and #TaigaMarket!",
+            "username": "paulcowgill",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1060621517858451457": {
+            "id": "1060621517858451457",
+            "text": "As a core contributor to a project, using a monorepo for all the code simplifies things. But when tracking another team's project by watching the repo on GitHub, I'm usually mainly interested in one particular subproject - the fire hose of monorepo GitHub notifications is rough.",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1060570550010109953": {
+            "id": "1060570550010109953",
+            "text": "The new GitHub feature that shows potentially related issues while you\u2019re creating a new issue is great. It\u2019ll save open-source devs a lot of time.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060546731342028806": {
+            "id": "1060546731342028806",
+            "text": "Right now I follow 5,000 people on Twitter, but I built up that list over the course of 6 years. Twitter seems to think I can't possibly want to follow more than that. Time to try to weed out some accounts I followed a while back. Any non-spammy 3rd party apps to help with this?",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060541920336850944": {
+            "id": "1060541920336850944",
+            "text": "For those of you active on @EthMagicians, I'd like to propose we start a new mobile ring. If you like that idea (or don't like it), feel free to weigh in here! https://ethereum-magicians.org/t/about-the-mobile-wallet-ring-category/1783/2\u00a0\u2026\n\nI've chatted about this idea with James Levy from @taptrust, @pedrouid, and others at #devcon4",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1060532067472171008": {
+            "id": "1060532067472171008",
+            "text": "Crypto people, you're all using https://1.1.1.1/ by now, right? I hope so.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060245976529731585": {
+            "id": "1060245976529731585",
+            "text": "Is there consensus at this point that we\u2019re going to go with project lead and tech lead instead of CEO and CTO for crypto projects (and \u201cprojects\u201d instead of \u201cstartups\u201d)?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060224163288416257": {
+            "id": "1060224163288416257",
+            "text": "I\u2019m looking forward to discussing the inner workings of @graphprotocol tonight at Decentralized Software Chicago. @yanivgraph will be joining us remotely!https://github.com/decentralized-software/chicago/issues/26\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060169882204102656": {
+            "id": "1060169882204102656",
+            "text": "Let\u2019s stop prefixing digital things with \u201ce\u201d or \u201ccrypto\u201d and start prefixing things in meatspace with \u201cm\u201d. Like \u201cm-mail\u201d. Maybe a baseball card is a decryptocollectible? Also let\u2019s call dapps apps and call most iPhone and Android apps capps (centralized apps). Only half kidding.",
+            "username": "paulcowgill",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059449761584025605": {
+            "id": "1059449761584025605",
+            "text": "The most confusing thing about Blockchains LLC at #devcon4 was why they would choose to be an LLC.",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058637328045035520": {
+            "id": "1058637328045035520",
+            "text": "Narrator: \u201cThey ended up chatting in meatspace.\u201d",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057993312433565696": {
+            "id": "1057993312433565696",
+            "text": "Managing Director of e-Residency for Estonia, @kasparkorjus, made an interesting point about opting into nations as a service at #devcon4pic.twitter.com/bMQBfEiOKG",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057988856283361282": {
+            "id": "1057988856283361282",
+            "text": "Interesting preview of how an eWASM-compatible ERC20 in JavaScript will look from @lrettig at #devcon4. (Technically it\u2019s in AssemblyScript which is a subset of TypeScript.)pic.twitter.com/jHVJqCZwlM",
+            "username": "paulcowgill",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1057985983323496451": {
+            "id": "1057985983323496451",
+            "text": "Know of any investors at #devcon4 who have an investment thesis compatible with Ethereum dapps?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1057942180508155905": {
+            "id": "1057942180508155905",
+            "text": "Great slide from @zooko showing the trade-offs between different cryptography techniques for Zcash 3.0 now that Sapling is out. #devcon4pic.twitter.com/9X3g0FM61x",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057667708949540864": {
+            "id": "1057667708949540864",
+            "text": "There was an interesting @meta_cartel discussion today at #devcon4 about how best to incentivize and coordinate meta-transaction relayers.",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056713429954768897": {
+            "id": "1056713429954768897",
+            "text": "I'm off to @EFDevcon this week!\n\nIf you want to talk React Native, dapps, Solidity, UX, meta tx., universal logins, auditing, ERC standards, testing, Expo, APM, GraphQL, CI/CD, dapp business models, etc., let\u2019s meet up and chat!\n\nI\u2019m pcowgill on Telegram.",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1054390874619166720": {
+            "id": "1054390874619166720",
+            "text": "It was a real pleasure working on the audit of #OpenZeppelin 2.0 for @ZeppelinOrg with @levelk_io!\n\nhttps://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v2.0.0\u00a0\u2026\n\nRelease notes for version 2.0 above ^ and Zeppelin's blog post with a link to the audit below:\n\nhttps://blog.zeppelin.solutions/announcing-openzeppelin-2-0-afb70aaa298d\u00a0\u2026pic.twitter.com/E90Jb1BMxt",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052654031297044481": {
+            "id": "1052654031297044481",
+            "text": "Hey, people in the U.S.: Use http://ballotready.org\u00a0 to figure out who\u2019s running for your local elections. Or if you insist on doing no research, just vote for anyone who isn\u2019t a straight white guy whenever possible and you\u2019re probably good.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052583947165724673": {
+            "id": "1052583947165724673",
+            "text": "It\u2019s pretty ridiculous that the C in B2C means \u201cconsumer\u201d. B2P (people) would be better.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052294367967363075": {
+            "id": "1052294367967363075",
+            "text": "Hey @peepethApp, early access please! I want to make Web 3.0 a force for good. @peepethApp https://peepeth.com\u00a0 #peepeth",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1051853862888460288": {
+            "id": "1051853862888460288",
+            "text": "I think we need a TCR for the founders of Ethereum.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1051853517902831616": {
+            "id": "1051853517902831616",
+            "text": "The testnets for deploying new contract versions should be different testnets than the testnets for trying new Ethereum core releases.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1050445350450937856": {
+            "id": "1050445350450937856",
+            "text": "In open-source software, it's funny to me when the code has a line saying the author is one person.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1048576863541452800": {
+            "id": "1048576863541452800",
+            "text": "Would using eWASM mean losing the network effect from ERC standards?\n\nOr is having a spec + a reference implementation in one high-level language good enough?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047977767374127105": {
+            "id": "1047977767374127105",
+            "text": "Is there a tool for visualizing the \"momentum\" and/or \"quality\" of ERC standards? I'm picturing something like this tool for npm packages https://npms.io/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047905976999989250": {
+            "id": "1047905976999989250",
+            "text": "I'm looking forward to @trufflesuite #TruffleCon this weekend!\n\nI\u2019m pcowgill on Telegram - feel free to DM me so we can meet up and chat!\n\nReact Native, Solidity, UX, meta tx., universal logins, auditing, APM, ERC standards, testing, React, Expo, GraphQL, CI/CD, startups, etc.",
+            "username": "paulcowgill",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1047870315148316673": {
+            "id": "1047870315148316673",
+            "text": "I really hope there\u2019s a conviction for the police shooting of Laquan McDonald. This city has some major problems, and that would be a good step one.https://www.breaker.audio/16-shots\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047705650195779584": {
+            "id": "1047705650195779584",
+            "text": "Crypto people, read \u201cThinking, Fast and Slow\u201d. And everyone else too. K thx bye.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1047503047394570242": {
+            "id": "1047503047394570242",
+            "text": "I bought my flights for @EFDevcon before finding out about the @ethstatus and @EthMagicians events right before it, so I'm going to miss those. Rookie mistake. Never again! I'm just going to start assuming these conferences last a couple weeks even before everything is announced.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047502094847107072": {
+            "id": "1047502094847107072",
+            "text": "Even if a project doesn't need a token, requiring a token to use the product doesn't necessarily introduce any friction for users, as long as ETH <-> token conversion is automated and hidden from the UX.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1047160163369672704": {
+            "id": "1047160163369672704",
+            "text": "Is README-driven development a thing yet? Should we make it a thing? #RDD",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047157083081203713": {
+            "id": "1047157083081203713",
+            "text": "Tomorrow (Wednesday) at Decentralized Software Chicago, we\u2019ll be chatting about @IPFSbot and @MineFilecoin. Chicago-based software engineers and designers, we hope to see you there!https://github.com/decentralized-software/chicago/issues/25\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1046930250507198465": {
+            "id": "1046930250507198465",
+            "text": "Great pitches by all of the @techstars Chicago startups tonight!pic.twitter.com/nRBIGjDgTd",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044935029107957760": {
+            "id": "1044935029107957760",
+            "text": "@EthMagicians Would you say Ethereum Magicians is the best place to start? I\u2019m looking for feedback on an open-source dev tool for making mobile dapps that I\u2019m working on. Thanks!",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044712426585935873": {
+            "id": "1044712426585935873",
+            "text": "How is a blockchain different from a database? It introduces trust as a core feature.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044258560719421440": {
+            "id": "1044258560719421440",
+            "text": "This is great news from @expo: \"We\u2019re continuing to split our SDK into individual modules that can be omitted from ExpoKit projects, or included in any vanilla React Native project without ExpoKit.\"https://blog.expo.io/expo-sdk-30-0-0-is-now-available-e64d8b1db2a7\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044245659430408192": {
+            "id": "1044245659430408192",
+            "text": "I wish I could auto-snooze crypto Twitter tweets in my feed after 10pm until the next morning, and auto-snooze comedy tweets during the day until after 6pm.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1043477010054561795": {
+            "id": "1043477010054561795",
+            "text": "I\u2019ll be at #JSCampChi today. I\u2019m pcowgill on Telegram - feel free to DM me and we can arrange to meet up and chat!\n\nReact Native, Ethereum, Node.js, testing, Serverless, React, Gatsby, Expo, GraphQL, CI/CD, JAMstack, AWS, startups, etc.\n\nThanks to @chicago_js for organizing.",
+            "username": "paulcowgill",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1042099690156769280": {
+            "id": "1042099690156769280",
+            "text": "Oooh and now there\u2019s APM from @AragonProject!!!http://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042090670838751237": {
+            "id": "1042090670838751237",
+            "text": "I just updated the README for the Tasit SDK. I think it's a lot clearer now (fingers crossed).",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042073415082016768": {
+            "id": "1042073415082016768",
+            "text": "Haha never mind. It looks like I can do this on Name Bazaar.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042072417802366979": {
+            "id": "1042072417802366979",
+            "text": "Request for app: I wish I could sign up for notifications whenever an auction starts for any of the ENS domains I've decided to subscribe to.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1041432860450795521": {
+            "id": "1041432860450795521",
+            "text": "I recently learned about EthPM too, but it doesn\u2019t seem to have gotten very popular yet.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1041377716468150272": {
+            "id": "1041377716468150272",
+            "text": "Is there an ERC standard for marketplaces yet? It feels like there should be.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1041376109294772225": {
+            "id": "1041376109294772225",
+            "text": "Idea*: A smart contract where you can self-report your address (account or contract) as a user of another contract\n\n* I\u2019m almost certainly not the first person with this idea.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1040616772825739265": {
+            "id": "1040616772825739265",
+            "text": "What are the best online forums, chats, etc. to post about an open-source tool for Ethereum to get feedback from other devs?\n\nhttp://ethresear.ch\u00a0\nhttp://ethereum-magicians.org\u00a0\nhttp://forum.ethereum.org\u00a0\n\nAny Telegrams, Slacks, Gitters, Discords, Keybases, or GitHub repos come to mind?",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1040005833646657537": {
+            "id": "1040005833646657537",
+            "text": "Can anyone help me out with a @SuperhumanCo invite? Thanks!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039942834609111048": {
+            "id": "1039942834609111048",
+            "text": "This blog post helps explain why I'm so excited to be working on something in a \"toy market\" (dapps).\n\nhttps://blog.ycombinator.com/toy-markets/\u00a0\n\nTL;DR: The biggest products always start out looking like toys.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039940564475670528": {
+            "id": "1039940564475670528",
+            "text": "I'm looking for generalist software engineers interested in Ethereum and React Native to work with me at @TasitLabs. If you care about culture, you've found the right place.https://angel.co/tasit/jobs\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1039869810811830273": {
+            "id": "1039869810811830273",
+            "text": "One of the ways a permissionless dapp can win purely based on UX is by removing some of the delays and complexity introduced by bureaucracy.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039207444055056385": {
+            "id": "1039207444055056385",
+            "text": "Is anyone working on a common place to publish smart contract source code? I know @etherscan has a beta API feature for this. Maybe npm is a good fit for now? Ideally it would be decentralized and specifically for smart contracts. @osarrouy maybe a future feature for pando?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1039199723180249093": {
+            "id": "1039199723180249093",
+            "text": "I'm so happy GitHub finally supports org-level projects.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039192524181708800": {
+            "id": "1039192524181708800",
+            "text": "TypeScript sure seems to have won the dev adoption battle with Flow, at least for now.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038486757417906176": {
+            "id": "1038486757417906176",
+            "text": "For a crypto app in React Native, I\u2019m thinking Expo may not be a good fit because (A) it\u2019s an additional centralized potential point of failure and (B) users likely will want to know when they\u2019re updating to a new version to allow for auditability. Agree/disagree?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1038134708541042688": {
+            "id": "1038134708541042688",
+            "text": "Requesting faucet funds into 0x662127bf82b794a26b7ddb6b495f6a5a20b81738 on the #Rinkeby #Ethereum test network.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038117480626040833": {
+            "id": "1038117480626040833",
+            "text": "I like this tool for tracking code coverage for Solidity testshttps://www.npmjs.com/package/solidity-coverage\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038093097639526401": {
+            "id": "1038093097639526401",
+            "text": "I'm working on this open source JavaScript SDK that helps you make a React Native app for an Ethereum dapp. If you'd like to hack on it with me or have any questions or thoughts, please reach out!\n\nhttps://github.com/tasitlabs/TasitSDK\u00a0\u2026https://twitter.com/TasitProject/status/1038091484950679552\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1037546126231195648": {
+            "id": "1037546126231195648",
+            "text": "http://xkcd.com/2042\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037412749784088576": {
+            "id": "1037412749784088576",
+            "text": "I'm looking forward to the Decentralized Software Chicago meeting tonight!\n\nWe'll have technical folks joining from @statechannels, @ConnextNetwork, and @magmoHQ to talk state channels.\n\nThanks to @ConsenSys for covering food and drinks!https://github.com/decentralized-software/chicago/issues/22\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1036994107384758273": {
+            "id": "1036994107384758273",
+            "text": "Medium doesn\u2019t work for me on iOS when I\u2019m on a VPN. Has anyone else noticed that?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1036681732236435458": {
+            "id": "1036681732236435458",
+            "text": "\u201cToni Erdmann\u201d is a great movie. It\u2019s a little long and starts off slow, but it\u2019s sooo worth it.https://www.metacritic.com/movie/toni-erdmann\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1035940245362094080": {
+            "id": "1035940245362094080",
+            "text": "Is anyone working on a calendar dapp yet?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1035668472020303872": {
+            "id": "1035668472020303872",
+            "text": "Personal DAOs could help with lots of Ethereum dapp UX issueshttp://blog.aragon.one/enter-the-world-of-personal-daos/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033805013410349057": {
+            "id": "1033805013410349057",
+            "text": "This new GitHub feature is pretty cool. Here\u2019s my breakdown.pic.twitter.com/xnKYB86npp",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1032664880975937536": {
+            "id": "1032664880975937536",
+            "text": "I'm planning on using this for images of code snippets in lots of future blog posts and slides https://carbon.now.sh\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1029391601771208704": {
+            "id": "1029391601771208704",
+            "text": "I used to think (A) a platform that charges fees and (B) a feeless platform that uses tokens and holds its own tokens were ~equivalent. But one key difference is that power users aren\u2019t penalized in (B). This is good, because they\u2019re the ones who make the platform relevant.",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1026863370564239362": {
+            "id": "1026863370564239362",
+            "text": "Tomorrow at Decentralized Software Group Chicago, @smpalladino from @ZeppelinOrg will be joining via video call for our discussion about @zeppelin_os\nDetails here:https://github.com/decentralized-software/chicago/issues/16\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1020964007598088192": {
+            "id": "1020964007598088192",
+            "text": "@fiiiu_ @facuspagnuolo Both of your workshops at DappCon were great. If you\u2019d be up for joining via a quick video call during this ^ discussion of @zeppelin_os, let me know! Thanks!",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1019280861705986049": {
+            "id": "1019280861705986049",
+            "text": "This podcast episode captured a lot of the reasons I find crypto and blockchain so inspiring.https://www.breaker.audio/a16z/e/35542740\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1018904845401632769": {
+            "id": "1018904845401632769",
+            "text": "I just got my ticket to @trufflesuite TruffleCon 2018! (It's a conference for dapp developers.) Oct 5-7 in Portland.",
+            "username": "paulcowgill",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1017979592701771776": {
+            "id": "1017979592701771776",
+            "text": "Sorry to Bother You is sooo good",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1017487398203215873": {
+            "id": "1017487398203215873",
+            "text": "We'll be doing a deep dive on @zeppelin_os at the next Decentralized Software Group Chicago meeting. Feel free to reach out if you'd like to join us!https://github.com/decentralized-software/chicago/issues/16\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1012371376815079424": {
+            "id": "1012371376815079424",
+            "text": "Got my ticket for @dappcon_berlin! Please reach out if you or anyone you know will be there - I\u2019d love to chat about Ethereum, Truffle, dapps, crypto UX, and what we\u2019re working on at @TasitLabs",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1012028010839597057": {
+            "id": "1012028010839597057",
+            "text": "Today is the only day where the answer to \"When mainnet?\" is \"Now!\" for @ethstatushttps://blog.status.im/status-beta-is-here-8f70469974da\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1008753227289055234": {
+            "id": "1008753227289055234",
+            "text": "Decentralized Software Group Chicago used to be gated behind a Typeform, but we decided there was a little too much friction to find us. Here's the GitHub repo!\n\nhttps://github.com/decentralized-software/chicago/\u00a0\u2026\n\nThe more the merrier, but please take a look at our code of conduct.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "999391002023677952": {
+            "id": "999391002023677952",
+            "text": "https://medium.com/loom-network/announcing-zombiechain-an-eos-like-dpos-sidechain-for-ethereum-dapps-e0eba6c244da\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "995065816755376128": {
+            "id": "995065816755376128",
+            "text": "Shabazz Palaces tonight",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "989956590081134595": {
+            "id": "989956590081134595",
+            "text": "Nice, dockless bikes are coming to Chicagohttps://www.americaninno.com/chicago/inno-news-chicago/dockless-bikes-are-coming-to-chicago-in-a-south-side-pilot-program/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "989932383813144582": {
+            "id": "989932383813144582",
+            "text": "Working on @TasitLabs out of @thebluelacuna today",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "989257016194617344": {
+            "id": "989257016194617344",
+            "text": "https://serverless.com/blog/what-are-serverless-components-how-use/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "989224539820355584": {
+            "id": "989224539820355584",
+            "text": "http://xkcd.com/1985\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "988168555534438401": {
+            "id": "988168555534438401",
+            "text": "https://blog.hellobloom.io/how-to-make-a-user-friendly-ethereum-dapp-5a7e5ea6df22\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "987393320178671617": {
+            "id": "987393320178671617",
+            "text": "Building an Inclusive Company Culturehttps://www.breaker.audio/y-combinator/e/32303240\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "987099654193106945": {
+            "id": "987099654193106945",
+            "text": "https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "986096504329957377": {
+            "id": "986096504329957377",
+            "text": "I want to go to @EtherealSummit, but the ticket price is out of control.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "980844982398529537": {
+            "id": "980844982398529537",
+            "text": "I wish Slack would let people move specific messages into or out of a thread. It would be useful when an older topic is reopened and there's a risk of people losing some of the context.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "980660807955570688": {
+            "id": "980660807955570688",
+            "text": "Configuring my iPhone to use https://1.1.1.1/ for privacy-first DNS on the Wi-Fi network in my apartment was easier than I expected.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "979361167452852224": {
+            "id": "979361167452852224",
+            "text": ".@AragonProject 0.5 is live on the Rinkeby Test Net! http://app.aragon.one/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "979360727797501952": {
+            "id": "979360727797501952",
+            "text": "Requesting faucet funds into 0x662127bF82B794A26B7DDB6B495F6A5A20b81738 on the #Rinkeby #Ethereum test network.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "977220051966283777": {
+            "id": "977220051966283777",
+            "text": "Tasit Labs (@TasitBlockchain) is doing a three-hour brand sprint on Sat Apr 7 in the afternoon. PoC, women, LGBTQ folks, and people of any age are very welcome! Details and RSVP herehttps://bit.ly/tasit-labs-brand-sprint\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "976118799681417216": {
+            "id": "976118799681417216",
+            "text": "What\u2019s the state of the art for a crypto startup accepting ETH donations? I can think of a few options, but I\u2019m wondering what has been successful in \u201cproduction\u201d.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "975741526855880704": {
+            "id": "975741526855880704",
+            "text": "I wish @thebluelacuna members could work out of @1871Chicago occasionally and vice versa.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "974681162667974656": {
+            "id": "974681162667974656",
+            "text": "Just signed the Blockchain Inclusive and Diverse (BID) Pledge! http://collectivefuture.io/bid-pledge/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "972875919944712192": {
+            "id": "972875919944712192",
+            "text": "Pad Thai on the Cob",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "967495759179517952": {
+            "id": "967495759179517952",
+            "text": "Who\u2019s the best software engineer you know in Chicago? They probably should be working on @TasitBlockchain with me.",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "966322382834225152": {
+            "id": "966322382834225152",
+            "text": "Great panel by @KendrickEsq from @joinrepublic & @pmenchov from @coinlist last night at @Technori #startupshowcasepic.twitter.com/CbrNR65e7K",
+            "username": "paulcowgill",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "964681973204705280": {
+            "id": "964681973204705280",
+            "text": "https://techcrunch.com/2018/02/16/ethereum-community-fund/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "963561876985647104": {
+            "id": "963561876985647104",
+            "text": "Diversity + tech + startups + Chicagohttps://medium.com/midwest-vc-musings/sources-for-diverse-talent-in-tech-9084661a756f\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "963472121887326209": {
+            "id": "963472121887326209",
+            "text": "Know of a promising startup that you think should apply for Techstars Chicago? Here's the referral form:https://docs.google.com/forms/d/e/1FAIpQLScds5y_V8wwQd9tk765AnOHj2V6YNkNBYY3a4tgl9DCknA6eA/viewform\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "962736591826554880": {
+            "id": "962736591826554880",
+            "text": "I\u2019m founding a blockchain startup in Chicago, @TasitBlockchain! In short, Tasit is Firebase for Blockchain. I\u2019m a software engineer looking for another software engineer cofounder. Details here:https://bit.ly/tasit-lead-engineer\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "961695683270103041": {
+            "id": "961695683270103041",
+            "text": "The Three-Body Problem is so good.",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "951511485506781184": {
+            "id": "951511485506781184",
+            "text": "Haha I should explain that the person who said this was trying to say \u201cI have Cardi B stuck in my head.\u201d",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "951507872403410944": {
+            "id": "951507872403410944",
+            "text": "Popularity and growth of front-end web frameworks from October 2016 to October 2017 based on npm\u2019s download statistics. Source: https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1\u00a0\u2026pic.twitter.com/I77SyiAxPj",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "951297500647968768": {
+            "id": "951297500647968768",
+            "text": "#TheChi is so good",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "946943889553969152": {
+            "id": "946943889553969152",
+            "text": "\u201cI have Cardi B stuck in my face.\u201d",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "940981521586016258": {
+            "id": "940981521586016258",
+            "text": "Don't let the FCC #breaktheinternet. We can stop this: http://battleforthenet.com\u00a0 #NetNeutrality #StopTheFCC",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "936611148664852480": {
+            "id": "936611148664852480",
+            "text": "https://mobile.nytimes.com/2017/11/30/opinion/im-not-ready-for-the-redemption-of-men.html\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "933333442317684736": {
+            "id": "933333442317684736",
+            "text": "https://www.eff.org/deeplinks/2017/11/today-and-every-day-we-fight-defend-open-internet\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "930461871727144960": {
+            "id": "930461871727144960",
+            "text": "More people like Colin Kaepernick, please.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "930146335101210624": {
+            "id": "930146335101210624",
+            "text": "I'm loving @hapijs v17 with async/await so far. Great work @eranhammer",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "926880306723983360": {
+            "id": "926880306723983360",
+            "text": "Verifying my Blockstack ID is secured with the address 1PAZvYKYUH5AkoWoqkL9o3SWhBrP3Phjc1 https://explorer.blockstack.org/address/1PAZvYKYUH5AkoWoqkL9o3SWhBrP3Phjc1\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "923707687652569089": {
+            "id": "923707687652569089",
+            "text": "https://www.nytimes.com/reuters/2017/10/26/business/26reuters-multicoin-investing-blockchain.html\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "922849675409088512": {
+            "id": "922849675409088512",
+            "text": "I'll be out in the Bay Area this week, and I'm looking to meet interesting people in the blockchain startup world. Any recommendations?",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "918197400883298304": {
+            "id": "918197400883298304",
+            "text": "https://angel.co/talent-hacks/how-to-get-a-job-at-a-crypto-startup\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "910207608400867333": {
+            "id": "910207608400867333",
+            "text": "Verifying myself: I am pcowgill on Keybase.io. 0BVkexwUdyfDtzPZ2Zu7T8zn5eVg8EmlXhrf / https://keybase.io/pcowgill/sigs/0BVkexwUdyfDtzPZ2Zu7T8zn5eVg8EmlXhrf\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "909181162765062147": {
+            "id": "909181162765062147",
+            "text": "Good track on the new Fleet Foxes albumhttps://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "902175793727643648": {
+            "id": "902175793727643648",
+            "text": "https://blog.intercom.com/psychological-safety/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "900871661091684352": {
+            "id": "900871661091684352",
+            "text": "https://thenewstack.io/node-js-forked-complaints-repeated-harassment/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "898540708696530944": {
+            "id": "898540708696530944",
+            "text": "Data-driven tips on how to remove some of the noise from the interview process http://blog.triplebyte.com/how-to-interview-engineers\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "898178120724959233": {
+            "id": "898178120724959233",
+            "text": "If you work at a startup, you should think about using @cannyHQ so your users can upvote feature requests. Simple and awesome. canny.io",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "888193193036177409": {
+            "id": "888193193036177409",
+            "text": "https://fivethirtyeight.com/features/technology-is-biased-too-how-do-we-fix-it/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "885356606921334785": {
+            "id": "885356606921334785",
+            "text": "http://www.npr.org/sections/therecord/2017/07/12/536670493/spotify-is-accused-of-creating-fake-artists-but-what-is-a-fake-artist\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "839340539937869825": {
+            "id": "839340539937869825",
+            "text": "https://medium.com/@SonofBaldwin/get-the-fuck-outta-here-a-dialogue-on-jordan-peeles-get-out-831fef18b2b3\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "839276106268057600": {
+            "id": "839276106268057600",
+            "text": "https://www.bloomberg.com/graphics/2017-fifty-best-startups/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "838447424523878402": {
+            "id": "838447424523878402",
+            "text": "Stoked for all the hindsight jokes in 2020!",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "830212893232680960": {
+            "id": "830212893232680960",
+            "text": "we (@edyngarden) are hiring a senior software engineer, mobile in oakland! you can play with react native... https://angel.co/l/XKcco\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "822004508070793216": {
+            "id": "822004508070793216",
+            "text": "https://www.fastcodesign.com/3066983/infographic-of-the-day/what-you-buy-is-permanently-changing-the-world-heres-how\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "817825292521615361": {
+            "id": "817825292521615361",
+            "text": "\"San Francisco residents may receive up to 10 free sandbags each for pickup at its operations yard, 2323 Cesar Chavez Street...\"",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "792088750746546177": {
+            "id": "792088750746546177",
+            "text": "I'm moving from SF to Oakland in about a month! If you know of any cool people to live with or apartments with open rooms, let me know!",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "783421083160412160": {
+            "id": "783421083160412160",
+            "text": "Short non-partisan guide to California's state propositions http://ballot.fyi/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "740038149703753729": {
+            "id": "740038149703753729",
+            "text": "1 of the top 3 priorities of a US Senate candidate in CA: \"...put an end to electromagnetic human behavior and cognitive Mind Control...\"",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "715954275126390784": {
+            "id": "715954275126390784",
+            "text": "Lately when I see a photo, I have to look at it for a while to convince myself it hasn't been face-swapped.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "709515386459324418": {
+            "id": "709515386459324418",
+            "text": "There are enough data points that \"data\" shouldn't be plural anymore. \"There is a lot of data.\" is like \"There is a lot of water.\"",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "688813944715132929": {
+            "id": "688813944715132929",
+            "text": "Service as a service",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "682275007519563776": {
+            "id": "682275007519563776",
+            "text": "Songkick is suing Live Nationhttp://www.latimes.com/entertainment/envelope/cotown/la-et-ct-songkick-ticketmaster-lawsuit-20151222-story.html\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672858956507701248": {
+            "id": "672858956507701248",
+            "text": "Any recommendations for a Bay Area personal accountant who knows about startups?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "659791822768640000": {
+            "id": "659791822768640000",
+            "text": "Edyn is an awesome place to work, and we're hiring senior back-end and iOS engineers http://bit.ly/1PT3CPH\u00a0 http://bit.ly/1LZYq6K\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "649332099019763712": {
+            "id": "649332099019763712",
+            "text": "In the future, will there be a video game called Laptop Hero that you play using a toy laptop?",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "637311329703886848": {
+            "id": "637311329703886848",
+            "text": "I miss planking.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "626189678677352448": {
+            "id": "626189678677352448",
+            "text": "digging my spotify discover weekly playlist.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "624033309744443392": {
+            "id": "624033309744443392",
+            "text": "The singer from Hop Along has a really cool voice.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "621202153063841792": {
+            "id": "621202153063841792",
+            "text": "Stellaaa!!!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "618655915244326912": {
+            "id": "618655915244326912",
+            "text": "Everything In Its Right Placepic.twitter.com/Y618UgDhhW",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "612020200230158336": {
+            "id": "612020200230158336",
+            "text": "I wish you could buy evil offsets for Uber rides that are like the carbon offsets you can buy for flights.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "605157427319844864": {
+            "id": "605157427319844864",
+            "text": "Listening to Enrique Iglesias in public is hilarious - highly recommended.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "605150642596917249": {
+            "id": "605150642596917249",
+            "text": "HOW DID IT TAKE ME UNTIL AGE 28 TO FIND OUT THAT ASMR WAS A THING?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "603673550365597696": {
+            "id": "603673550365597696",
+            "text": "We're looking to contract out some work on Edyn's website to a web dev shop or a freelancer. Any recommendations?",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "601483746567684096": {
+            "id": "601483746567684096",
+            "text": "I'm X-ray blind.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "599996668692402176": {
+            "id": "599996668692402176",
+            "text": "You don't actually have to read mail.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "599352130059644928": {
+            "id": "599352130059644928",
+            "text": "Sign that I've been in San Francisco for a while: I heard someone say Social Security, and I assumed it had something to do with an app.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "598377522544250880": {
+            "id": "598377522544250880",
+            "text": "Give your money somewhere other than Ivy League colleges http://www.vox.com/2015/5/12/8590639/stephen-schwarzman-yale-donation\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "594182897038307328": {
+            "id": "594182897038307328",
+            "text": "It feels like there's starting to be enough awareness of the absurd levels of inequality in America that meaningful change is possible.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "593900076075917312": {
+            "id": "593900076075917312",
+            "text": "Interesting read about people who like music starting companies -https://medium.com/cuepoint/music-startups-and-the-passion-problem-753872a3e042?source=tw-c21e85c0101b-1430431325482\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "580850038462488576": {
+            "id": "580850038462488576",
+            "text": "This is a cool idea: Pop-up coworking. Cooler than coworking spaces & more welcoming than coffee shops http://smallknot.com/makespace-community-coworking\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "577624404651163648": {
+            "id": "577624404651163648",
+            "text": "The new Kendrick Lamar is so good.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "568519722330820608": {
+            "id": "568519722330820608",
+            "text": "OH: \"You should write down absolutely everything you know and everything you think you know.\"",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "550368814584434689": {
+            "id": "550368814584434689",
+            "text": "Stand-up comedy, the internet, and straight white male privilegehttp://www.newyorker.com/culture/cultural-comment/social-media-ruining-comedy\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "550035826118127616": {
+            "id": "550035826118127616",
+            "text": "That last tweet probably should have been \"Vegan Burger & Vegan Burger Go to White Castle\"",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "550035237611130880": {
+            "id": "550035237611130880",
+            "text": "Vegan burgers coming to White Castle!http://money.cnn.com/2014/12/30/news/companies/white-castle-veggie-burger/index.html\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "544227156595720193": {
+            "id": "544227156595720193",
+            "text": "This Spotify feature is pretty cool. Here are the genres I listened to most in 2014 https://www.spotify-yearinmusic.com/us/\u00a0pic.twitter.com/LQJ9ygwRaL",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "543462634708664321": {
+            "id": "543462634708664321",
+            "text": "The Permanent Emperor is a really creepy name for a hospital.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "541373187380879360": {
+            "id": "541373187380879360",
+            "text": "People think of time as the \"fourth dimension\". Does anyone ever Fourier transform the universe so that it's frequency instead?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "540974562184138753": {
+            "id": "540974562184138753",
+            "text": "Black lives matter.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "540702398331637760": {
+            "id": "540702398331637760",
+            "text": "At @sfnode!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "532296607102812160": {
+            "id": "532296607102812160",
+            "text": "I'd like to hire as many women and minorities as I can for our engineering team. Know of any good resources I should check out?",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "524261876792713216": {
+            "id": "524261876792713216",
+            "text": "Nas tomorrow. Dry the River on Wednesday. Gonna be a good week.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "523986008379912192": {
+            "id": "523986008379912192",
+            "text": "Edyn is hiring software engineers! Embedded systems, full stack, mobile, etc. Tell all your friends.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "512736323296194560": {
+            "id": "512736323296194560",
+            "text": "Prediction: In the future, ADD won't be considered a disorder, but Attention Excess Disorder, the opposite condition, will.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "500885674086518784": {
+            "id": "500885674086518784",
+            "text": "Best line in Hook: \"You're humongous.\"",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "496084971774156800": {
+            "id": "496084971774156800",
+            "text": "Siri, drop the bass.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "494644214991314944": {
+            "id": "494644214991314944",
+            "text": "Heading over to @oaklandjs",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "492124331191709697": {
+            "id": "492124331191709697",
+            "text": "Hey everybody. Gluten sensitivity isn't a thing. Okay? Cool.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "492057815989493760": {
+            "id": "492057815989493760",
+            "text": "How did I miss that you can send money through Gmail now?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "490340682674888704": {
+            "id": "490340682674888704",
+            "text": "Utilitarians usually end up defending rights, because it's rare for them to have enough data for the tough hypotheticals to come up.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "489507690410803200": {
+            "id": "489507690410803200",
+            "text": "Oakland is cool.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "488760185368739842": {
+            "id": "488760185368739842",
+            "text": "Watch this movie: 'Terms and Conditions May Apply'http://www.rottentomatoes.com/m/terms_and_conditions_may_apply/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "487671087132467201": {
+            "id": "487671087132467201",
+            "text": "T.J. Miller is hilarious.http://www.youtube.com/watch?v=EGmlkOP6WMs\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "486602031474294785": {
+            "id": "486602031474294785",
+            "text": "Just one hour left to back Edyn on Kickstarter! See any gardeners nearby?https://www.kickstarter.com/projects/edyn/edyn-welcome-to-the-connected-garden\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "486564640692764672": {
+            "id": "486564640692764672",
+            "text": "Only three and a half hours left to preorder the Edyn smart garden system at the special Kickstarter prices!https://www.kickstarter.com/projects/edyn/edyn-welcome-to-the-connected-garden\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "486411335555497984": {
+            "id": "486411335555497984",
+            "text": "Uber should set up a charitable arm that recycles / disposes of weird items like batteries, light bulbs, tennis balls, etc.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "486018877667549184": {
+            "id": "486018877667549184",
+            "text": "This song is awesome. \"Lost It To Trying\" by Son Lux. http://open.spotify.com/track/7frqaCMi7gVCD7JBuDrmEd\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "482306728826896384": {
+            "id": "482306728826896384",
+            "text": "Smart bike?pic.twitter.com/FT7NiUw4Cw",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "482280581720338432": {
+            "id": "482280581720338432",
+            "text": "We're hiring! Lead Mobile Engineer at @EdynGarden. Tell your iOS engineer friends. https://angel.co/edyn/jobs/24886-lead-mobile-engineer\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "479680472163704832": {
+            "id": "479680472163704832",
+            "text": "Why have so few websites and apps taken xkcd's advice about password requirements? http://xkcd.com/936/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "474615429264973824": {
+            "id": "474615429264973824",
+            "text": "Nest for gardens!https://www.kickstarter.com/projects/edyn/edyn-welcome-to-the-connected-garden/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "470000485865623552": {
+            "id": "470000485865623552",
+            "text": "daybus. fighter of the nightbus. http://blogs.sfweekly.com/exhibitionist/2014/05/night_school_stay_out_late_tak.php\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "468830681468907520": {
+            "id": "468830681468907520",
+            "text": "I keep wanting to use 'datetime' as a word in a lot of my emails.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "467181963439112192": {
+            "id": "467181963439112192",
+            "text": "Interesting. \"Circle Emerges From Stealth To Bring Bitcoin To The Masses\" http://techcrunch.com/2014/05/15/circle-emerges-from-stealth-to-bring-bitcoin-to-the-masses/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "456997339245199360": {
+            "id": "456997339245199360",
+            "text": "Foxygen tonight. At long last.",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "456569251151634433": {
+            "id": "456569251151634433",
+            "text": "When I first heard the expression 'internet of things', I didn't realize it was being contrasted with 'internet of computers'.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "456507063087026176": {
+            "id": "456507063087026176",
+            "text": "Network Link Conditioner is sooo useful for testing apps under different network conditions.http://nshipster.com/network-link-conditioner/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "455848998125838336": {
+            "id": "455848998125838336",
+            "text": "Beautiful record for fans of Bon Iver: Post Tropical by James Vincent McMorrow http://open.spotify.com/album/5oXfO26Js29rB7FvKFI2Ud\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "454318299019374592": {
+            "id": "454318299019374592",
+            "text": "GMOs and cloud computing have a similar security issue: Decreased diversity -> worse failures. But if we're careful, they're both awesome.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "450736968813391872": {
+            "id": "450736968813391872",
+            "text": "Am I the only one who sings \"Will You Be There\" by Michael Jackson every time a Mac computer turns on?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "449258435066875905": {
+            "id": "449258435066875905",
+            "text": "Playlist of good concerts coming up - http://bop.fm/p/3tDZ\u00a0 The War on Drugs, Schoolboy Q, Halcyonaire, Foxygen, Kishi Bashi, Foals, Baths",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "444335430301794304": {
+            "id": "444335430301794304",
+            "text": "Infinity free concerts and UberXs. Not bad.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "443416271460122624": {
+            "id": "443416271460122624",
+            "text": "On my way to SXSW",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "441786167789232128": {
+            "id": "441786167789232128",
+            "text": "I'll be hacking next week at the first ever SXSW Music Hackathon. Want to join me? Not many slots left. http://sxsw.com/music/hackathon\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "441637457155473408": {
+            "id": "441637457155473408",
+            "text": "\"...89 percent of our time browsing the Internet on our mobile phones ... takes place in apps.\"http://pando.com/2014/03/05/how-the-rise-of-mobile-apps-will-help-apple-google-and-facebook-kill-the-internet-as-we-know-it/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "441625801566339072": {
+            "id": "441625801566339072",
+            "text": "Huge news for the music streaming landscape: Spotify is buying The Echo Nest http://techcrunch.com/2014/03/06/spotify-acquires-the-echo-nest/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "441316892980940800": {
+            "id": "441316892980940800",
+            "text": "Is Microsoft's 'Honestly' campaign supposed to imply that everyone who likes Microsoft is normally a liar? Cuz that's what it sounds like.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "440995394026106880": {
+            "id": "440995394026106880",
+            "text": "new ava luna album out today! so good. nice and experimental. sf people, see them live tonight.https://play.spotify.com/album/1IDSsHsrKfbQcKw6ZHi7TC\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "440682659983814656": {
+            "id": "440682659983814656",
+            "text": "T.J. Miller at The New Parish tonight",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "439976727066857472": {
+            "id": "439976727066857472",
+            "text": "Dale Earnhardt Jr. Jr. tonight",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "438524905311584256": {
+            "id": "438524905311584256",
+            "text": "Papercuts and Vetiver at The Chapel in SF tomorrow.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "431295160719130624": {
+            "id": "431295160719130624",
+            "text": "Twittered my way into finding a great music blog today: @apesontape. Concert reviews for bands like Mutual Benefit, Trails and Ways, etc.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "430909734267269120": {
+            "id": "430909734267269120",
+            "text": "Do you think \"tech\" people actually spend more money to see live music than people with \"normal\" jobs? #nightlifesf",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "430448689656512512": {
+            "id": "430448689656512512",
+            "text": "Cool event tomorrow for music tech people. See you there? NIGHTLIFE & NEW TECH: THE STATE OF THE SF MUSIC SCENE http://blog.getwillcall.com/post/74997854279/nightlife-new-tech-the-state-of-the-sf-music-scene\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "426514953952960512": {
+            "id": "426514953952960512",
+            "text": "Sooo many guys at the bouldering gym look like they could be estranged cousins of mine.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "426103550842634240": {
+            "id": "426103550842634240",
+            "text": "The good witches of music tech http://www.sfbg.com/2014/01/21/good-witches-music-tech\u00a0\u2026 via @emmaruthless at @sfbg",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "425840568439017472": {
+            "id": "425840568439017472",
+            "text": "My startup is in the market for an accountant, ideally one based out of SF. Any recommendations?",
+            "username": "paulcowgill",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "424672033398464512": {
+            "id": "424672033398464512",
+            "text": "Why good grammar is lame. Such words. Wow.http://techcrunch.com/2014/01/11/such-dfw-very-orwell-so-doge-wow/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "424307561504858112": {
+            "id": "424307561504858112",
+            "text": "Today Al Jazeera was at my coworking space filming Afghanistan's first rock band playing some songs. Pretty cool.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "423579895667511296": {
+            "id": "423579895667511296",
+            "text": "I miss net neutrality already. http://www.avc.com/a_vc/2014/01/vc-pitches-in-a-year-or-two.html\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "423552507172749312": {
+            "id": "423552507172749312",
+            "text": "When something unlikely happens to me, I think: \"Welp, most universes in the multiverse just went the other way on that one.\"",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "420307780637958144": {
+            "id": "420307780637958144",
+            "text": "Just changed my Twitter handle to @paulcowgill, so please use that handle to get in touch with me!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "410906989334499328": {
+            "id": "410906989334499328",
+            "text": "Trying @munchery for the first time tonight. They deliver quick, healthy meals made by top local chefs. http://munchery.com/invite/9EZE9FZG/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "408010570659401728": {
+            "id": "408010570659401728",
+            "text": "I should probably receive a salary from @Simplify, considering how often I tell my friends to try it.  https://bank.simple.com/friends/ae684ceb-ee7d-cbe4-4d01-4fa0075706cd\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "407967099554762753": {
+            "id": "407967099554762753",
+            "text": "The Hyper-Efficient, Highly Scientific Scheme to Help the World\u2019s Poorhttp://www.wired.com/wiredscience/2013/11/jpal-randomized-trials/\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "397499823001047040": {
+            "id": "397499823001047040",
+            "text": "\"4 Reasons You Should Consider Building For Web First, Mobile Second\" http://federisgroup.com/2013/11/04/4-reasons-you-should-consider-building-for-web-first-mobile-second/#.UngiXZTwLH8\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "394881892580741120": {
+            "id": "394881892580741120",
+            "text": "I want to see Atlas Genius with Family of the Year and Dale Earnhardt Jr. Jr. on Thu 11/07. Anyone else down? http://raftout.com/rafts/6260020060618752\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "392545656981577728": {
+            "id": "392545656981577728",
+            "text": "I'm getting a group together to see Okkervil River w/ Matthew E. White at The Fillmore tomorrow. Anyone else in?http://www.raftout.com/rafts/5125787917221888\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "385099012023406592": {
+            "id": "385099012023406592",
+            "text": "Had fun playing around with the @GracenoteDev @rdioapi and @echonest APIs for our hack at @HellaHack Oakland on Saturday",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "385096682771206144": {
+            "id": "385096682771206144",
+            "text": "Mike's about to pitch @RaftOut at the elevator pitch session at #sfmusictech. Looking forward to seeing what everyone's working on.",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "384003715826348032": {
+            "id": "384003715826348032",
+            "text": "At @HellaHack Oakland music hack day today. @mtruskowski & I are thinking about making something for listening to albums (not just songs).",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "380794919998078976": {
+            "id": "380794919998078976",
+            "text": "Dear Mailbox, I'm not trying to get to inbox zero. Sincerely, Paul",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "375681067404910592": {
+            "id": "375681067404910592",
+            "text": "just moved to the bay area and i'm looking for a place to live. let me know if you have any cool friends looking for people to live with",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "365108177563418624": {
+            "id": "365108177563418624",
+            "text": "12 ways to find out about a concert in the year 2013 http://blog.raftout.com/post/57549511081/12-ways-to-find-out-about-a-concert-in-the-year-2013\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "364495106377654272": {
+            "id": "364495106377654272",
+            "text": "So far, no Spotify app has been able to handle scanning my listening history. Methinks I have a music addiction.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "362321466643054594": {
+            "id": "362321466643054594",
+            "text": "Faxing something right now. This is hilarious.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "362265592046166020": {
+            "id": "362265592046166020",
+            "text": "Check out Plates by @split_wise, an easy way to split the bill at dinner. https://itunes.apple.com/us/app/plates-by-splitwise-split/id669801762\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "357149204784754692": {
+            "id": "357149204784754692",
+            "text": "Exactly what I needed to read right now.  Do things that don't scale, people.  http://paulgraham.com/ds.html\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "355716000290832384": {
+            "id": "355716000290832384",
+            "text": "Just entered to win @KAHBANG tickets via @allstonpudding http://bit.ly/APKahBang\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "349649777505476608": {
+            "id": "349649777505476608",
+            "text": "Can someone please just make using mobile websites on iPhone cool and easy so we all can stop making apps? K thx",
+            "username": "paulcowgill",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "345570048078921728": {
+            "id": "345570048078921728",
+            "text": "A Perverted View of \u201cImpact\u201dhttp://www.sciencemag.org/content/340/6138/1265.full\u00a0\u2026",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "335117821375832065": {
+            "id": "335117821375832065",
+            "text": "AM switches to PM at 12, but the number doesn't reset until 1.  Annoying.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "329241155571167232": {
+            "id": "329241155571167232",
+            "text": "\"Strikingly (YC W13) raises $1.5M...\" <-- I read that and thought, okay, but what's the name of the company?",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "328536990524006400": {
+            "id": "328536990524006400",
+            "text": "just made this list of 19 good concerts coming up in boston\n\nhttp://www.raftout.com/boston\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "318417894138576897": {
+            "id": "318417894138576897",
+            "text": "I think this is actually a pretty good thing to have a day for. Back up your files today. http://www.worldbackupday.com/\u00a0",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "312695174700617731": {
+            "id": "312695174700617731",
+            "text": "Dropbox acquired Mailbox?? Huuuge news.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "267331303291092992": {
+            "id": "267331303291092992",
+            "text": "#musichackday I pitched a website for discovering local artists similar to a national touring artist you like. Hit me up if interested.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "267104161244520448": {
+            "id": "267104161244520448",
+            "text": "Looking forward to doing some hacking tomorrow w/ @mtruskowski at #musichackday Boston. Looking for an idea to work on? Let's talk.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "261207524009713665": {
+            "id": "261207524009713665",
+            "text": "Giving @FancyHands a try. I feel sort of ridiculous, but it just makes so much sense.",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "255055471470321664": {
+            "id": "255055471470321664",
+            "text": "Hello, world!",
+            "username": "paulcowgill",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "ps2_comptroller": 1,
+        "ensdomains": 1,
+        "TasitProject": 3,
+        "gnosisSafe": 1,
+        "StefanDGeorge": 1,
+        "gnosisPM": 2,
+        "Baconbrix": 1,
+        "AdrianaHamacher": 1,
+        "EthMagicians": 1,
+        "tsapeta": 1,
+        "wslyvh": 1,
+        "mattdlockyer": 1,
+        "fbt_js": 1,
+        "ETHCapeTown": 1,
+        "ReactJSChicago": 1,
+        "BlockchainEDU": 1,
+        "EthereumDenver": 1,
+        "levelk_io": 1,
+        "yoelopio": 1,
+        "peepethApp": 1,
+        "bforgan": 1,
+        "usv": 1,
+        "frangio_": 1,
+        "tayvano_": 1,
+        "chicago_js": 1,
+        "alliebotHQ": 1,
+        "mtucker": 1,
+        "dgmason": 2,
+        "loganlahive": 5,
+        "BuiltInChicago": 1,
+        "firefox": 1,
+        "protocollabs": 1,
+        "joshgondelman": 1,
+        "cville2dc": 1,
+        "XivelyIOT": 1,
+        "EdynGarden": 2,
+        "23andMe": 1,
+        "amoebamusic": 1,
+        "digitalmusicnws": 1,
+        "thebaybridged": 1,
+        "GANConnect": 1,
+        "Founders_League": 1,
+        "googleanalytics": 1,
+        "RaftOut": 3,
+        "splitwise": 1,
+        "groovemusicapp": 1,
+        "ChrisBolman": 1,
+        "rrridges": 1,
+        "revupcapital": 1,
+        "TechCrunch": 1,
+        "laprestif": 1,
+        "newsyc150": 1,
+        "TrepLaw": 1
+    },
+    "users_retweeted": [
+        "loganlahive",
+        "TasitProject",
+        "RaftOut",
+        "gnosisPM",
+        "dgmason",
+        "EdynGarden",
+        "ps2_comptroller",
+        "ensdomains",
+        "gnosisSafe",
+        "StefanDGeorge",
+        "Baconbrix",
+        "AdrianaHamacher",
+        "EthMagicians",
+        "tsapeta",
+        "wslyvh",
+        "mattdlockyer",
+        "fbt_js",
+        "ETHCapeTown",
+        "ReactJSChicago",
+        "BlockchainEDU",
+        "EthereumDenver",
+        "levelk_io",
+        "yoelopio",
+        "peepethApp",
+        "bforgan",
+        "usv",
+        "frangio_",
+        "tayvano_",
+        "chicago_js",
+        "alliebotHQ",
+        "mtucker",
+        "BuiltInChicago",
+        "firefox",
+        "protocollabs",
+        "joshgondelman",
+        "cville2dc",
+        "XivelyIOT",
+        "23andMe",
+        "amoebamusic",
+        "digitalmusicnws",
+        "thebaybridged",
+        "GANConnect",
+        "Founders_League",
+        "googleanalytics",
+        "splitwise",
+        "groovemusicapp",
+        "ChrisBolman",
+        "rrridges",
+        "revupcapital",
+        "TechCrunch",
+        "laprestif",
+        "newsyc150",
+        "TrepLaw"
+    ]
+}

@@ -1,0 +1,27 @@
+
+version: '3.5'
+
+services:
+  api:
+    build: './api'
+    ports:
+      - 4001:5000
+    volumes:
+      - './api/backend:/code/backend'
+    environment:
+      - FLASK_ENV=development
+    command: python /code/server/manager.py runserver -h 0.0.0.0 -d
+
+  ui:
+    build: ./ui
+    volumes:
+      - './ui/src:/code/src'
+    ports:
+      - 4000:3000
+    links:
+      - api
+    depends_on:
+      - api
+    environment:
+      - REACT_APP_API_PORT=4001
+    command: yarn start

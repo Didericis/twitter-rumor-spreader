@@ -1,0 +1,2276 @@
+{
+    "is_complete": true,
+    "username": "madeof_tin",
+    "retweeted": {
+        "1122901907427618816": {
+            "id": "1122901907427618816",
+            "text": "99% managing I've had is reactive: \"So how's it going?\" for 30 min every week. One day I'd love a proactive manager who goes \"I thought about you this week and what you said last week, here's a book I think you should read\". Is that too much to ask?",
+            "username": "fionaosaurusrex",
+            "num_likes": 2461,
+            "num_retweets": 233,
+            "num_replies": 58
+        },
+        "1123249514024984576": {
+            "id": "1123249514024984576",
+            "text": "Every word of this (which is from the git website) should be at top of mind for every dApp developer. #RunYourOwnNodepic.twitter.com/TkLzYw3sxT",
+            "username": "quickblocks",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1122856363292545026": {
+            "id": "1122856363292545026",
+            "text": "We have another Ethereum 1x working group, EVM evolution, which de-factor existed already, but here is the formation post (BTW, we have 6 groups in total so far, but there will be at least 7):https://ethereum-magicians.org/t/evm-evolution-working-group-formation/3218\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 41,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1112305608047427584": {
+            "id": "1112305608047427584",
+            "text": "1/ Ok I think I sort of get it now. Thanks @nicksdjohnson for bearing with me. A longish thread. #eipsarentgovernance #eipsaretechnicalstandards",
+            "username": "cyber_hokie",
+            "num_likes": 83,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "1122486709944487936": {
+            "id": "1122486709944487936",
+            "text": "The address 0x0000....0dead has been involved more than 200,000 transactions (external and internal). It has an ETH balance of nearly two million dollars and an insanely large balance of ERC20 tokens. Way to coordinate guys.  Good job. https://etherscan.io/address/0x000000000000000000000000000000000000dead\u00a0\u2026",
+            "username": "quickblocks",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1122522621264969728": {
+            "id": "1122522621264969728",
+            "text": "Finally found an example of IETF humming to form rough consensus. It's incredible how well this works. Thank you to @greg_colvin for teaching us that this exists!https://twitter.com/BiellaColeman/status/1021138393252712449\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1121927122442969088": {
+            "id": "1121927122442969088",
+            "text": "Ah, yes... I can see this train of thought. I'm optimistic about the current 1x client teams, but it's possible they get tired of underappreciation. That would be a community mess.",
+            "username": "hackdomTEX",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1121053428019417088": {
+            "id": "1121053428019417088",
+            "text": "Working Groups for #eth1x are kind of a new thing. It\u2019s clear that research + implementation needs to continue. \n\n@realLedgerwatch is looking for a lead for Finality Gadget ETH2 / ETH1. Post if you want to get involvedhttps://ethereum-magicians.org/t/finality-gadget-for-ethereum1x-working-group/3177\u00a0\u2026",
+            "username": "bmann",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1120451991145209856": {
+            "id": "1120451991145209856",
+            "text": "8,194 Ethereum nodes reported on Etherscan as of 4/2/2019. Can we get to 10,000 by July 12th? If the Challenge is completed, rewards will be dispersed 50/50 to the @ethereum ecosystem improvement projects @gitcoin grants Open Source Fund, and @Givethio's Giveth DAC! https://twitter.com/WeTrustPlatform/status/1116410533291315200\u00a0\u2026",
+            "username": "TheOfficeMystic",
+            "num_likes": 29,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1119513343834959872": {
+            "id": "1119513343834959872",
+            "text": "If it's unclear that your on-chain notifications actually reach end users, there is something fundamentally wrong with the mechanism design and system as a whole. In this case I think it's fairly easy to fix, luckily.https://twitter.com/timothyjcoulter/status/1119444476940836865\u00a0\u2026",
+            "username": "AFDudley0",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1119460868239101952": {
+            "id": "1119460868239101952",
+            "text": "The eth1x initiative currently has almost zero funding. This came up again and again during the Berlin meetings. We have a lot we want to do, and no resources to do it. Would you like to fund it?",
+            "username": "lrettig",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 6
+        },
+        "1118241199410831360": {
+            "id": "1118241199410831360",
+            "text": "If you care about Ethereum, take this survey. It's your civic duty. Give back to the community that has given to you even if the only thing you've received is escape from boredom. Be a mensch.https://twitter.com/evabeylin/status/1117810047436779522\u00a0\u2026",
+            "username": "quickblocks",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1117981958737408000": {
+            "id": "1117981958737408000",
+            "text": "Let exchanges delist whatever they want, if you care about this you probably should be atomic swapping or using a regulated exchange anyway.",
+            "username": "AFDudley0",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1116753118547419136": {
+            "id": "1116753118547419136",
+            "text": "Free Kudos Friday!\n\n0 RT this tweet! \n1st shalt thou take out the Holy Pin \n2 Shalt thou count to three, no more, no less \n3 Once the number 3 is reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe \n4 Profit, Getya Kudos => https://gitcoin.co/kudos/redeem/hhg20190412\u00a0\u2026pic.twitter.com/DA7f3fHwYg",
+            "username": "gitcoin",
+            "num_likes": 24,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1115768107753017344": {
+            "id": "1115768107753017344",
+            "text": "The best way to see a man's insecurities is to follow who he insults, and why.",
+            "username": "fubuloubu",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1115695850351550464": {
+            "id": "1115695850351550464",
+            "text": "The #ETH community needs better signaling for controversial EIPS!  I'm excited about what @madeof_tin / Tennagraph has done so far.  Support them on Gitcoin Grants below https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2\u00a0\u2026",
+            "username": "owocki",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1115489418641649664": {
+            "id": "1115489418641649664",
+            "text": "So great to see @tennagraph now supports @peepethapp - thanks to @madeof_tin and bohdan!\nWill add some stances later. IMHO only a signed stance like the ones from peepeth are really meaningful - all twitter stances could be manipulated by twitter - not possible with peepeth.pic.twitter.com/Qti0RWT6kL",
+            "username": "mr_ligi",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1114870354080673792": {
+            "id": "1114870354080673792",
+            "text": "@madeof_tin This: https://ethresear.ch/t/deep-dive-into-current-pow-difficulty-adjustment-algorithm-and-a-possible-alternative/5267\u00a0\u2026, made all the more pleasant because it reminds me of one of my favorites days in 2018 spent thinking about difficulty bombs and probability distributions with James and @wildmolasses. Nerdy math is why this space is interesting!",
+            "username": "quickblocks",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1114569072031748097": {
+            "id": "1114569072031748097",
+            "text": "\"The end of an era is usually a period of intense corruption. As the bonds of the old system dissolve, the social ethos dissolves with it\"",
+            "username": "licuende",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1114182369982976001": {
+            "id": "1114182369982976001",
+            "text": "We are in an odd moment in history where important work is so fundamentally abstract that it does not get funded properly. This is not a problem \"free markets\" can fix.https://twitter.com/sgrif/status/1113150283809525760\u00a0\u2026",
+            "username": "AFDudley0",
+            "num_likes": 24,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1113455046081912832": {
+            "id": "1113455046081912832",
+            "text": "Large amounts of money carry with it distortions and pressures. This is why any allocation mechanisms and governance need to shard or fan out with an increase in asset value. Concentration of power is dangerous.",
+            "username": "jemenger",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1113164964158681090": {
+            "id": "1113164964158681090",
+            "text": " We have had over 100 bot accounts submit to http://www.tennagraph.com/eip/1057\u00a0 What should we do with them??? (They have been for both Yea and Nay positions) Our current policy is to accept any stance that is :\n* About the Relevant EIP\n* Accurately represents the stance sourced",
+            "username": "tennagraph",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1112776792157220864": {
+            "id": "1112776792157220864",
+            "text": "Ethereum governance is failing (with @lrettig)https://www.pscp.tv/w/b3JJRDFlVmpZWFptRFJlS0x8MW5BSkV5RWtidllKTAGHOY_R4cUl-s3CKNlRmFaSaC3udNxdNMOnxBCyjywB\u00a0\u2026",
+            "username": "iam_preethi",
+            "num_likes": 79,
+            "num_retweets": 22,
+            "num_replies": 10
+        },
+        "1112073070460747777": {
+            "id": "1112073070460747777",
+            "text": "Ethereum governance has failed.\n\nWe are a de facto technocracy, where a small group of technocrats, the core devs, have final say over what goes into the protocol.",
+            "username": "lrettig",
+            "num_likes": 868,
+            "num_retweets": 256,
+            "num_replies": 92
+        },
+        "1111014383289659392": {
+            "id": "1111014383289659392",
+            "text": "It's clear to me that we need better signaling in the ETH community (*cough* ProgPOW *cough). \n\nI hope the community will join me in supporting this @tennagraph Gitcoin Grant.  They could build the tool that builds Consensus!https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2/\u00a0\u2026",
+            "username": "owocki",
+            "num_likes": 24,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1110287396682121216": {
+            "id": "1110287396682121216",
+            "text": "You should read around fifty fifty fiction/nonfiction, and minimum one third fiction, to be a good human!",
+            "username": "lrettig",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1103720488088436737": {
+            "id": "1103720488088436737",
+            "text": "isnt that what https://tennagraph.com/\u00a0 is for?",
+            "username": "owocki",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1103325235183579137": {
+            "id": "1103325235183579137",
+            "text": "Hey! Did you know that Tennagraph, an EIP-focused signalling software for Ethereum, is now live??!!  https://tennagraph.com/\u00a0\n@madeof_tin is happy to have shipped! #ethccpic.twitter.com/ZU5tguWrfg",
+            "username": "bmann",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1102947355891060741": {
+            "id": "1102947355891060741",
+            "text": "Everyone\u2019s super power @ethBounties @madeof_tin #ETHCC2019 #ParisBlockchainWeekpic.twitter.com/ALQxJvwOLI",
+            "username": "Sim_Pop",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1101945636402987009": {
+            "id": "1101945636402987009",
+            "text": "Promised myself I'd release a tiny side project each month of 2019. I'm way behind, but my first one is Dai Stats, a site that reads data from the Dai Credit System straight from Mainnet.https://daistats.com/\u00a0",
+            "username": "nanexcool",
+            "num_likes": 110,
+            "num_retweets": 18,
+            "num_replies": 7
+        },
+        "1099444323609792512": {
+            "id": "1099444323609792512",
+            "text": "My daughter overcoming her fear in real time (wait for it). I might have been more nervous than she was.\npic.twitter.com/IG6awFIHA3",
+            "username": "tonyhawk",
+            "num_likes": 914151,
+            "num_retweets": 131090,
+            "num_replies": 5479
+        },
+        "1099804825385123840": {
+            "id": "1099804825385123840",
+            "text": "I've devoted myself to Ethereum not for the tech, not for hype or glory, certainly not for material gain, but first and foremost for the community. If the community turns sour, I (and many others) will seek (or establish) kinder pastures elsewhere. We are all in this together. ",
+            "username": "lrettig",
+            "num_likes": 271,
+            "num_retweets": 29,
+            "num_replies": 25
+        },
+        "1096408367734632448": {
+            "id": "1096408367734632448",
+            "text": "1/ Cypherpunks weren't looking for global payment innovations; they weren't staking out a new asset class to invest in.",
+            "username": "joshmh",
+            "num_likes": 553,
+            "num_retweets": 203,
+            "num_replies": 12
+        },
+        "1096549399562469377": {
+            "id": "1096549399562469377",
+            "text": "@madeof_tin we had @ph_lux shilling tennagraph pretty hard  first I\u2019d heard of it, looks like an awesome tool!",
+            "username": "trent_vanepps",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1094661362280591361": {
+            "id": "1094661362280591361",
+            "text": "As far as I can tell, the only remaining reason for Java is Minecraft?",
+            "username": "zooko",
+            "num_likes": 264,
+            "num_retweets": 34,
+            "num_replies": 51
+        },
+        "1085430287612309510": {
+            "id": "1085430287612309510",
+            "text": "Looking for something to read?\nhttps://docs.google.com/spreadsheets/d/1UJ7wrib47TAUCKeUSU1HOSqpTxwe3mFitZ5xlyk4_sE/edit?usp=sharing\u00a0\u2026\nI made a list of books spanning a wide range from science fiction to science to history and  philosophy.",
+            "username": "mZargham",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1070972625235505153": {
+            "id": "1070972625235505153",
+            "text": "Oh and on this topic, here's a discussion we need more community input on today!https://mobile.twitter.com/drakefjustin/status/1070785586917711872\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 31,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1069601047730167808": {
+            "id": "1069601047730167808",
+            "text": "\"The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.\" - F. Scott Fitzgerald. This goes for communities as well as for individuals.",
+            "username": "lrettig",
+            "num_likes": 29,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1069420167321591809": {
+            "id": "1069420167321591809",
+            "text": "Scam fatigue here \n\nCan we all please go back to building now? They'll all be scams if we don't make them workhttps://twitter.com/RyanSAdams/status/1068957821096665088\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 20,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1067026092970729475": {
+            "id": "1067026092970729475",
+            "text": "Episode #1 is live! We're proud to bring you our first full episode, featuring @thegrifft Griff Green's talk about how @Givethio is Decentralizing Charity from the 2018 Web3 Summit in Berlin, Germany!\n#Decentralize #Charity #Blockchain #Web3 #Technologyhttp://dattpodcastnetwork.libsyn.com/web3-summit-decentralize-now-1-griff-green-of-givethio-decentralizing-charity?tdest_id=889379\u00a0\u2026",
+            "username": "DATTPod",
+            "num_likes": 40,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1067152141280837632": {
+            "id": "1067152141280837632",
+            "text": "I\u2019d say that\u2019s still too much for some. I\u2019d go with:\n\nPick one concrete thing. Visualise it meticulously.\n\nTake first step toward it, whatever that may be. Adjust visualisation to reflect progress.\n\nEach day/action creates a new self, that\u2019s ever closer to intended \u201cfinal boss\u201d.",
+            "username": "Sim_Pop",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1060141948030386178": {
+            "id": "1060141948030386178",
+            "text": "All the videos from #Web3Summit talks and workshops are online now!https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g\u00a0\u2026",
+            "username": "web3foundation",
+            "num_likes": 54,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1058385623319527424": {
+            "id": "1058385623319527424",
+            "text": "\"Civilization is an argument and sometimes blood is shed in that argument.\" - Stuart Brand. This sent shivers down my spine. It's the most powerful thought I've heard expressed here at @EFDevcon",
+            "username": "lrettig",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1057697092695719936": {
+            "id": "1057697092695719936",
+            "text": "pic.twitter.com/Otj1LtNMgV",
+            "username": "beesandbombs",
+            "num_likes": 1436,
+            "num_retweets": 250,
+            "num_replies": 16
+        },
+        "1055495947386609666": {
+            "id": "1055495947386609666",
+            "text": "Five new teams have been awarded grants with funding from Aragon Project. We're excited to have more teams working on the Aragon & #Ethereum ecosystems.\n\nWe welcome Decentralized Design Lab, @levelk_io, @wetonomy, @FSFL302 & TennaGraph to the Nest family!https://blog.aragon.org/aragon-nest-third-round-of-grants\u00a0\u2026",
+            "username": "AragonProject",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1054458499604787200": {
+            "id": "1054458499604787200",
+            "text": "Just pressed the buttons to invite everyone on the waiting list to register for Council of Prague -- one week from today https://ethereumevents.global/events/2018-council-of-prague/\u00a0\u2026\n\nOur ~13 topic/ring areas are set, plus room for unconference additions.",
+            "username": "EthMagicians",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1053420377597128704": {
+            "id": "1053420377597128704",
+            "text": "Sad news: http://youtube.com/givethio\u00a0 just got hacked. \n100s of hours of demos, meeting streams, documentary, interviews... All gone. \n\nIf you have a direct @YouTube contact to recover our vids, we'll be eternally grateful. Plz help us spread this message. pic.twitter.com/lV3yiPCC0i",
+            "username": "Givethio",
+            "num_likes": 50,
+            "num_retweets": 45,
+            "num_replies": 12
+        },
+        "1050080717562990592": {
+            "id": "1050080717562990592",
+            "text": "We did not exclude any patents from our OIN commitment to license our portfolio to the Linux System. We signed the standard OIN License Agreement, and didn\u2019t negotiate any exclusions. We actually clicked through the OIN agreement like any other licensee!",
+            "username": "natfriedman",
+            "num_likes": 667,
+            "num_retweets": 97,
+            "num_replies": 22
+        },
+        "1047950046963097601": {
+            "id": "1047950046963097601",
+            "text": "In July at @EthMagicians, I gave a talk on the challenges of measuring community sentiment and signaling.https://drive.google.com/open?id=1bQiSw8UveVT_R2f3Yhla61ad6FRefptf\u00a0\u2026",
+            "username": "ph_lux",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1044637365539614720": {
+            "id": "1044637365539614720",
+            "text": "The arc of blockchain is long, but it bends towards decentralization.",
+            "username": "lrettig",
+            "num_likes": 25,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1042671256783532032": {
+            "id": "1042671256783532032",
+            "text": "Decision making & information gathering can be a uniquely difficult challenge in the decentralised space. In this episode, we chat with @hudsonjameson about how #EIPs works and governance in the @ethereum community https://www.zeroknowledge.fm/43\u00a0 #ethereumcommunity #ethereum #coredevs",
+            "username": "zeroknowledgefm",
+            "num_likes": 27,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1038024887691091968": {
+            "id": "1038024887691091968",
+            "text": "Really interesting point by @izqui9 on governance: \"The threat of not evolving your governance model may be worse than the threat of allowing it change\" #ethberlin",
+            "username": "ph_lux",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1037262637040644101": {
+            "id": "1037262637040644101",
+            "text": "#ZK0x02 kicking off with my favorite @AnnaRRose and @fredhrson giving a badass introduction  @zeroknowledgefmpic.twitter.com/ECqSHesBHj",
+            "username": "jennaszenk",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1035659433739603968": {
+            "id": "1035659433739603968",
+            "text": "Proof of Work is a Sybil control mechanism NOT a consensus mechanism. It's Nakamoto consensus, not PoW consensus!",
+            "username": "snarkyzk",
+            "num_likes": 45,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1035080720962572288": {
+            "id": "1035080720962572288",
+            "text": "Someone said it's unfair to compare Binance with Deutsche Bank (Exchange vs Bank) so I made this  Now it's apple to apple I suppose? @cz_binance @heyibinancepic.twitter.com/HxCBSKIAnx",
+            "username": "DoveyWan",
+            "num_likes": 1770,
+            "num_retweets": 652,
+            "num_replies": 86
+        },
+        "1036349731436417024": {
+            "id": "1036349731436417024",
+            "text": "13. A final thought. I forget who said this but it also deeply moved me: \"There is no 'them,' only 'us'.\" This applies equally to Ethereum, Web3, blockchain, and also, I think, to the wider world.",
+            "username": "lrettig",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1035599534653628416": {
+            "id": "1035599534653628416",
+            "text": "This is the only version of a group photo I know to exist from the first ethereum conference. I have never been able to find a higher resolution of it, because that one was sent via skype to the group (don't remember from whom).\nAnyone out there has any HiRes photo from DevCon0?pic.twitter.com/zh8j0TiZTJ",
+            "username": "avsa",
+            "num_likes": 110,
+            "num_retweets": 13,
+            "num_replies": 6
+        },
+        "1031859138542878720": {
+            "id": "1031859138542878720",
+            "text": "Zooko's triangle was solved with blockchain. PoW provided an abstraction of financial capital. \n\nDecentralized Identity Trilemma would be trivial to solve if there was an objective metric providing an abstraction for human capital.",
+            "username": "MaciekLaskus",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1031684855967477763": {
+            "id": "1031684855967477763",
+            "text": "Coin voting should be one of many signaling methods for measuring support for important community decisions. However, it usually isn't a great signal because hodlers won't take their accounts out of cold storage to vote.",
+            "username": "hudsonjameson",
+            "num_likes": 54,
+            "num_retweets": 3,
+            "num_replies": 16
+        },
+        "1030808436353773569": {
+            "id": "1030808436353773569",
+            "text": "Becoming a capital allocator should be permissionless. Period. That's the world I want to live in, and the world I'm building.https://twitter.com/Steven_McKie/status/1030623108938358789\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1029907726145478657": {
+            "id": "1029907726145478657",
+            "text": "74. The long-run goal of this research is to reduce reliance on the social layer as much as possible, and maximizing the cost of destabilizing the chain enough so that reverting to the social layer is necessary.",
+            "username": "VitalikButerin",
+            "num_likes": 176,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "1030155995081625600": {
+            "id": "1030155995081625600",
+            "text": "One can easily hide their lack-of-understanding within complexity.\n\nPut another way, you can't hide lack-of-understanding within simplicity. \n\nHence, why I seek out simplicity, clarity, and ease-of-understanding when I assess candidates - engineering or otherwise.",
+            "username": "iam_preethi",
+            "num_likes": 1583,
+            "num_retweets": 350,
+            "num_replies": 37
+        },
+        "1030094490772463618": {
+            "id": "1030094490772463618",
+            "text": "Wait what? That looks like a transcription error. There are plenty of transcription errors in the forbes article, eg.\n\n> and make the protocol alignment centers better and more efficient\n\nThat's clearly \"make the protocol align incentives better and more efficiently\"",
+            "username": "VitalikButerin",
+            "num_likes": 310,
+            "num_retweets": 19,
+            "num_replies": 24
+        },
+        "1029046152350642182": {
+            "id": "1029046152350642182",
+            "text": "My findings on signaling after #ethereum core dev feedbackhttps://medium.com/dgov/voting-based-on-media-influence-score-lessons-learned-a860078cbb40\u00a0\u2026",
+            "username": "maxsemenchuk",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1025815703373455361": {
+            "id": "1025815703373455361",
+            "text": "I'm noticing a theme here. The biggest, best, most impactful ideas and proposals are the simplest.",
+            "username": "lrettig",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1015049411276300289": {
+            "id": "1015049411276300289",
+            "text": "That $35 that scientific journals charge you to read a paper goes 100% to the publisher, 0% to the authors. If you just email us to ask for our papers, we are allowed to send them to you for free, and we will be genuinely delighted to do so.https://twitter.com/mantia/status/1013559718759956481\u00a0\u2026",
+            "username": "hwitteman",
+            "num_likes": 131600,
+            "num_retweets": 54863,
+            "num_replies": 838
+        },
+        "1011949253118386177": {
+            "id": "1011949253118386177",
+            "text": "I just finished writing a barebones, proof of concept ERC-20 implementation in #AssemblyScript, compiled to #WebAssembly and running successfully on the #ewasm stack. Code and notes to follow. https://github.com/lrettig/wrc20-challenge/blob/master/assembly/main.ts\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 36,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1010674735322140672": {
+            "id": "1010674735322140672",
+            "text": "Something about a long, deep bear market makes me think of King Solomon offering to cut the baby in half.\n\nThe true believers shall be revealed.https://twitter.com/jon_choi_/status/1010569806133645312\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1008118080155914240": {
+            "id": "1008118080155914240",
+            "text": "If you as a father are only concerned about your children, and not the children of all other fathers and mothers in the world, then you are only a father as a noun, not as a verb.  Fathering means to love all children and the vulnerable.",
+            "username": "matthewjdowd",
+            "num_likes": 17054,
+            "num_retweets": 4438,
+            "num_replies": 265
+        },
+        "1009149229783060480": {
+            "id": "1009149229783060480",
+            "text": "If you don't appreciate an honest creator, then maybe Litecoin is not for you. ",
+            "username": "SatoshiLite",
+            "num_likes": 52,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1002552069071532032": {
+            "id": "1002552069071532032",
+            "text": "Join #OpenBlockExplorersNOW! at 1PM EDT (10AM PDT - 7PM CET - 1AM SGT)! @thegrifft from Giveth talks w/ @kvhnuke_ @BenjaminBollen @ankitchiplunkar @aldoborrero @Mitch_Kosowski & @andrew_cravenho on the creation of quality open-source #EVM #blockexplorershttps://www.youtube.com/watch?v=A78opcM7veI\u00a0\u2026",
+            "username": "Givethio",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1001445006853459969": {
+            "id": "1001445006853459969",
+            "text": "We just announced this event tomorrow eve at @crypto_nyc: Fireside chat with @jon_choi_ of the @Ethereum Foundation. Come ask Jon about all things Ethereum: research, grants, crypto-economics, and the evolving role of the  Foundation in the ecosystem https://www.meetup.com/Crypto-NYC/events/251195169/\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 41,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1002195408238596096": {
+            "id": "1002195408238596096",
+            "text": "In the other industries where I've worked, finance and tech, everyone is climbing over everyone else to climb the greasy pole and take charge.\n\nIn Ethereum, the developers I know are competing to stay _out_ of the limelight and stay heads down. It's refreshing.",
+            "username": "lrettig",
+            "num_likes": 47,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "997541402547548160": {
+            "id": "997541402547548160",
+            "text": "Join #OpenBlockExplorersNOW! at 3PM EDT (12PM PDT - 9PM CET - 3AM SGT) ! @thegrifft from Giveth talks with @prylabs @aldoborrero @tjayrush @Mitch_Kosowski @lrettig on the creation of quality open-source #EVM #blockexplorers\n#EthVM #opensource #EthCommonshttps://www.youtube.com/watch?v=4-rF9V1LsHU\u00a0\u2026",
+            "username": "Givethio",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "997475377122566144": {
+            "id": "997475377122566144",
+            "text": "We're livestreaming today's @ethereum All Core Devs call on @LivepeerOrg for the first time. One small step for Ethereum, one giant leap for decentralization  About to kick off here: http://crypto.livepeer.tv/\u00a0 agenda: https://github.com/ethereum/pm/issues/40\u00a0\u2026pic.twitter.com/LmW69cxxa2",
+            "username": "lrettig",
+            "num_likes": 120,
+            "num_retweets": 30,
+            "num_replies": 4
+        },
+        "996970716380581889": {
+            "id": "996970716380581889",
+            "text": "The hardest part about being a young entrepreneur is saying no to the good opportunities to be able to say yes to the great opportunities.",
+            "username": "AriMNazir",
+            "num_likes": 259,
+            "num_retweets": 35,
+            "num_replies": 6
+        },
+        "996459970521714688": {
+            "id": "996459970521714688",
+            "text": "\"Why do we open source our tech? We want our tech to be useful. If we keep it to ourselves, it's useful to us, but that's it. We know other teams and we know they could use it.\" \u2014 @rphmeier presenting #ParitySubstrate at @Truebitprotocol's Lightning Talks night in Berlinpic.twitter.com/RAalHKGimA",
+            "username": "ParityTech",
+            "num_likes": 32,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "996246183730470917": {
+            "id": "996246183730470917",
+            "text": "I'm no uber driver but I ended up picking @SatoshiLite up from the airport.  We then enjoyed a bowl of ramen together pic.twitter.com/auPB0Rlijt",
+            "username": "LitecoinLoyal",
+            "num_likes": 843,
+            "num_retweets": 52,
+            "num_replies": 52
+        },
+        "996205744797167616": {
+            "id": "996205744797167616",
+            "text": "UX and product management are real issues to solve now. Awesome supernerds are sorting out scaling (thank you ). But, Bringing decentralized tech to the masses, is a different kind of effort, human design optimization, UX empathy, and product embedded education.pic.twitter.com/pW3zgSpiPJ",
+            "username": "danieltbar",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "980777525310828545": {
+            "id": "980777525310828545",
+            "text": "I just published \u201cWhy Bitcoin is Different\u201dhttps://medium.com/p/why-bitcoin-is-different-e17b813fd947\u00a0\u2026",
+            "username": "jimmysong",
+            "num_likes": 2012,
+            "num_retweets": 849,
+            "num_replies": 89
+        },
+        "980689506629124096": {
+            "id": "980689506629124096",
+            "text": "And once again, thank you my fans, new and old, for allowing me to do magical things like this. I'm truly blessed to have such amazing fans. Kinda speechless.",
+            "username": "deadmau5",
+            "num_likes": 7898,
+            "num_retweets": 581,
+            "num_replies": 146
+        },
+        "976852451797164033": {
+            "id": "976852451797164033",
+            "text": "Welcome to the family, @ZclassicCoin! Now our users can easily exchange #Zclassic $ZCL against almost 100 other tokens and coins via Changelly! Give it a try now!pic.twitter.com/ICsz1RRTWy",
+            "username": "Changelly_team",
+            "num_likes": 28,
+            "num_retweets": 3,
+            "num_replies": 5
+        },
+        "973236374013964289": {
+            "id": "973236374013964289",
+            "text": "I just want to say @spikevegeta is a legend for beating battletoads. What a gamer.",
+            "username": "Iateyourp1e",
+            "num_likes": 136,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "968977291748417536": {
+            "id": "968977291748417536",
+            "text": "For those of you that are upset that I posted something positive about a \"competitor\", all I can say is too bad. There's room for more than 1 coin. I call it as I see it. If you have been following me for a bit, you've seen that I also like Monero & Decred. Now, back to Litecoin! https://twitter.com/SatoshiLite/status/968931625001140224\u00a0\u2026",
+            "username": "SatoshiLite",
+            "num_likes": 3226,
+            "num_retweets": 470,
+            "num_replies": 359
+        },
+        "964524356251607040": {
+            "id": "964524356251607040",
+            "text": "Vote for integrating Groestlcoin [GRS] donations into @StreamlabsHQ!\n\nGroestlcoin's transactions are super-fast, with almost zero fees, making it perfect for supporting your favorite streamers.\n\nHelp us get Groestlcoin on Streamlabs! Vote & comment here: https://ideas.streamlabs.com/ideas/SL-I-2915\u00a0pic.twitter.com/LmzKo1nPiC",
+            "username": "GroestlcoinTeam",
+            "num_likes": 96,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "963496707911757824": {
+            "id": "963496707911757824",
+            "text": "I'm all for helping streamers be more financially stable, but not at the cost of making more and more viewers feel like they mean even less for not having cash to support.",
+            "username": "Iateyourp1e",
+            "num_likes": 33,
+            "num_retweets": 1,
+            "num_replies": 5
+        },
+        "960611954216833024": {
+            "id": "960611954216833024",
+            "text": " Transaction Speed Test \n#Groestlcoin $GRS [VS] #Litecoin $LTC\n\nComing soon... stay tuned!pic.twitter.com/1D0wxiOhko",
+            "username": "GroestlcoinTeam",
+            "num_likes": 146,
+            "num_retweets": 52,
+            "num_replies": 13
+        },
+        "960971919519600640": {
+            "id": "960971919519600640",
+            "text": "We are giving away 5 VTC to one lucky winner! For your chance to win with just 2 clicks, retweet this and follow our page. Winner announced on Friday. Best of luck and may your nerves still be intact after this dip. Stay strong #crypto community!  #blockchain #vertcoinpic.twitter.com/pj8CNQLOU1",
+            "username": "cryptocardowl",
+            "num_likes": 29,
+            "num_retweets": 89,
+            "num_replies": 5
+        },
+        "951133199685468161": {
+            "id": "951133199685468161",
+            "text": "Like I've said, I don't control when companies release news. Asking me daily won't make it happen faster. And the news might not even move the price. \n\nSo, instead of asking me to increase the LTC price with announcements, ask yourself what you can do to help Litecoin adoption!",
+            "username": "SatoshiLite",
+            "num_likes": 7368,
+            "num_retweets": 1157,
+            "num_replies": 730
+        },
+        "894469916488855553": {
+            "id": "894469916488855553",
+            "text": "Hey you.\n\nI'm back. And live from Germany, right now.\n\nCome give me a brain massage. http://twitch.tv/rendhammertv\u00a0pic.twitter.com/PzNwUjBewv",
+            "username": "Rendhammer",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "877920282710859776": {
+            "id": "877920282710859776",
+            "text": "I added some music to this.pic.twitter.com/UwjhTKpaeu",
+            "username": "BobHagh",
+            "num_likes": 105230,
+            "num_retweets": 63403,
+            "num_replies": 1752
+        }
+    },
+    "tweeted": {
+        "1124373975423967232": {
+            "id": "1124373975423967232",
+            "text": "I am re-organzing my life a bit. I'll be using this twitter for music/Twitch and using my old twitter @jhancock for Personal/CryptoTwitter \nUnderscores are too much a bother.\n\nTwitter: @JHancock\nGithub: MadeofTin\nTwitch/Music Twitter: Madeof_Tin\n\nWill phase out of this one slowly",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1124728266164719617": {
+            "id": "1124728266164719617",
+            "text": "(3/3) Bumbling into lyrical melodies within a percussive instrument FeelsGoodMan\n\n#piano #composition #original #melody @ Tiergarten, Berlin, Germany https://www.instagram.com/p/BxDIx84oZrm/?igshid=12wjodnfjymay\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1124726910070743042": {
+            "id": "1124726910070743042",
+            "text": "(2.5/3) There is also a lot of bumbling around in the process :-) @ Tiergarten, Berlin, Germany https://www.instagram.com/p/BxDIN_ZInOj/?igshid=1mmvwof189nm3\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1122707770086760449": {
+            "id": "1122707770086760449",
+            "text": "Eth1.X:\nBreaking changes to eth1.0 that keep the network healthy while we work towards Eth2. \n\nSome currently being explored:\n- Block propagation\n- State size\n- Gas fees\n- Security (finality)\n- Precompiles\nBest place to look is at the working groups forming.",
+            "username": "madeof_tin",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1119242333415985152": {
+            "id": "1119242333415985152",
+            "text": "Is there a computational coat to discovering if a transaction has a fee? Thinking on EIP 1559 changes. A miner doesn\u2019t know if a transaction has a miner-tip until he checks it has one.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1118338584287817728": {
+            "id": "1118338584287817728",
+            "text": "Anyone explain what is going on here? Over 225 days Uncle Rate went down while transaction activity in the network didn't change much. \nR Coefficients for Uncles to:\n    0.229 - TxVolume\n    0.589 - GasUsed\n    0.129 - Blocksize\n\nWhat other data should I check?pic.twitter.com/fEBHn7Eak8",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118188693804724225": {
+            "id": "1118188693804724225",
+            "text": "https://twitter.com/meeseeking/status/1118179444668157954\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1117247755930558464": {
+            "id": "1117247755930558464",
+            "text": "This is refreshingly candid  More of this pls twitterhttps://twitter.com/cz_binance/status/1116630727968219136\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116948480721862656": {
+            "id": "1116948480721862656",
+            "text": "Please, let\u2019s call archive nodes Baked Nodes from now on. \n\u201cLike dough rises to form bread, we cook our full node to transform it into an archive node.\u201dhttps://twitter.com/quickblocks/status/1116877876224303104\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115998610951417856": {
+            "id": "1115998610951417856",
+            "text": "This blows my mind. If you told me someone is trying to build this I would have a hard time believing. Telling me it is already done https://twitter.com/jbaylina/status/1115990958342955008\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115742947444703232": {
+            "id": "1115742947444703232",
+            "text": "Only 20 seconds in and I found the best definition of a blockchain I have heard to date!\n\u201c\u201d\u201d\nKeep in mind that blockchains are simply a set of machines all over the world coming to an agreement about what a collection of data should look like.\n\u201c\u201d\u201dhttps://twitter.com/kermankohli/status/1115244354484850688\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1114521722605191169": {
+            "id": "1114521722605191169",
+            "text": "I predict within a year from now an emergence or popularity of \u201cslow-coins\u201d which focus on network security over fast block-times. \n\nThis due too:\n* innovation in layer two scaling solutions\n* more existing networks being attacked",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113566326948343809": {
+            "id": "1113566326948343809",
+            "text": "Or die* damn spelling errors will be the death of me ",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113439890862157824": {
+            "id": "1113439890862157824",
+            "text": "This thread got me thinking: Traditional mindset ->\nSoV requires moving slowing or die && \nInnovation requires moving quickly due\n\nThese two things don\u2019t seem to mix.https://twitter.com/lrettig/status/1113435072315711488\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1112714953755115521": {
+            "id": "1112714953755115521",
+            "text": "Welcome to international \u201ctwitter is even more messed up then usual day\u201d  Some of these tweets got me for a second crypto twitter. You sly dogs ",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1110485926881476608": {
+            "id": "1110485926881476608",
+            "text": "Transparency is the enemy of in self interest.",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107229651703922690": {
+            "id": "1107229651703922690",
+            "text": "I\u2019m a Naval sheeple , and have no problem with that.https://twitter.com/naval/status/1106783366907453440\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105419760383283200": {
+            "id": "1105419760383283200",
+            "text": "Relevant tweethttps://twitter.com/vitalikbuterin/status/1103997378967810048?s=21\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105419129668939776": {
+            "id": "1105419129668939776",
+            "text": "Wild shower thought. What if we increased the gas limit by 1gwei but limited it to only be used as the developer funding  idea as Vitalik proposed. @VitalikButerin",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1105033039627857920": {
+            "id": "1105033039627857920",
+            "text": "Three types of signal processing. My observation is that we; \n    Fear 3 so much,\n    We prefer 1, \n    Instead of working towards 2.pic.twitter.com/BNIBSTCz0B",
+            "username": "madeof_tin",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1103562243495604225": {
+            "id": "1103562243495604225",
+            "text": "Morning view from my hotel in Paris :-) FeelsGoodMan FeelsGoodVibes #EthCC2019 final day let\u2019s go!pic.twitter.com/df420vhY9Y",
+            "username": "madeof_tin",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1098108693143527424": {
+            "id": "1098108693143527424",
+            "text": "3/3 Unity in narrative is overrated. Unity in action is the better measure.\nPerfection is Fantasy\nExecution is Existence",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1098108692124368896": {
+            "id": "1098108692124368896",
+            "text": "2/3 Imagine any #FAGMA speaker talking about the tradeoffs they are making, or weakspots in their plan. We know they exist. They have to exist. It just isn't acceptable to talk about them. Any doubt expressed somehow equals weakness, so we aren't \"allowed\" to have them.",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1098108691075788800": {
+            "id": "1098108691075788800",
+            "text": "1/3 it is sad to me corporate america has normalized \"perfection in narrative\"\n\nAccepted to be true\n- Everyone is individual / unique\n- No one / nothing is perfect\n\nParaded at conferences/web-events/whatever\n- Everyone on our team has the same opinions\n- Our plan is perfect",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1098098929504317440": {
+            "id": "1098098929504317440",
+            "text": "My friend asked me , rather intensely \u2014 \u201cdo you still have your beard?\u201d \n\nMe - \u201cyeah...\u201d \n\nHim - \u201cperfect! I need your face for a series I\u2019m working on\u201d\n...\n#NewProfilePicpic.twitter.com/GSqftYxo3c",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097548217984696320": {
+            "id": "1097548217984696320",
+            "text": "Ethereum, go sit in the corner and put yourself in a time out!That is how I feel about this. so, childish of the community to react this way. Power to you Afri  #teamAfri https://twitter.com/5chdn/status/1097228989372997633\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097186996559192066": {
+            "id": "1097186996559192066",
+            "text": "We don\u2019t win UX by focusing on UX. We win UX by focusing on User Adoption.",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095644638109675520": {
+            "id": "1095644638109675520",
+            "text": "Best wildly important goals for Ethereum I have heard!https://twitter.com/jemenger/status/1095595157943009280\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1095458720396513283": {
+            "id": "1095458720396513283",
+            "text": "If Ethereum is going into war mode what are the key battles we **HAVE** to win if we are going to win the war. @ameensol",
+            "username": "madeof_tin",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "1084677201474215936": {
+            "id": "1084677201474215936",
+            "text": "I am fine calling it a network upgrade because that is the intent of the people behind it. If the intent is to fork the chain, (bchSV) then start off calling it a fork. Let\u2019s call it by what it is, not by what it might be.https://twitter.com/VitalikButerin/status/1084478252222099456\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1073011426682437637": {
+            "id": "1073011426682437637",
+            "text": "A must listen for everyone in the community. Seriously a highlight of devcon for me. Thanks Lane   https://twitter.com/lrettig/status/1072524676499472384\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1073010378597117952": {
+            "id": "1073010378597117952",
+            "text": "Will this time be known as a crucible or a melting pot for the community. ",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1071169948536463360": {
+            "id": "1071169948536463360",
+            "text": "\u201c Web3 is the Fast and Furious of project management \u201d \n\n- Highlight of a recent discussion with @pet3rpan_ ",
+            "username": "madeof_tin",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1069288062037962753": {
+            "id": "1069288062037962753",
+            "text": "You can\u2019t #buidl when your hands are busy pointing fingers \n\n\u201cI am legit because they are not legit\u201d is also not valid logic. Yes, I am tired of all of this fault finding finger pointing nonsense. No, it isn\u2019t going to stop any time soon.https://twitter.com/RyanSAdams/status/1068957821096665088\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1067318501789048833": {
+            "id": "1067318501789048833",
+            "text": "A bit of piano to sleep to.pic.twitter.com/lqXGzdM0ay",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1067186319359700992": {
+            "id": "1067186319359700992",
+            "text": "I want this to not be truehttps://twitter.com/elonmusk/status/1067173497909141504\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1067173304333754369": {
+            "id": "1067173304333754369",
+            "text": "Hey look at that, the bomb got clicked. Thanks for including us Evan <3 https://twitter.com/evan_van_ness/status/1067166434722226176\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1064144563609120769": {
+            "id": "1064144563609120769",
+            "text": "Please let us conquer time zones, as they are the true enemy. https://twitter.com/jemenger/status/1062763891535437825\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1064079969356177415": {
+            "id": "1064079969356177415",
+            "text": "Reflections on the #BCHABC #BCHSV Fork. \nIn times of \u201cpeace\u201d Miners and Exchanges are easily overlooked by the community. In times of \u201cwar\u201d they become the focus.https://twitter.com/JihanWu/status/1063839394178621441\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063970507807182848": {
+            "id": "1063970507807182848",
+            "text": "I was perplexed, and I still am perplexed https://twitter.com/tweetsauce/status/1063897206585847808\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063726743977103360": {
+            "id": "1063726743977103360",
+            "text": "First comes _IPs\nthen comes signaling :)\n#predictinghttps://twitter.com/bmann/status/1063140986660896768\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060317569201135616": {
+            "id": "1060317569201135616",
+            "text": "Within repeating simple patterns emerges complexity. #designGoalspic.twitter.com/skWZ4Hli6q",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060316145377599489": {
+            "id": "1060316145377599489",
+            "text": "Testing, 1 , 2 , 3 (I borked the last one)\nhttps://instagram.com/p/Bp5bnpbh4Zh/\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060315841340813314": {
+            "id": "1060315841340813314",
+            "text": "I could delete it, but here is to radical transparency :-) ",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060315443469213697": {
+            "id": "1060315443469213697",
+            "text": "Of course I borked it",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060314806849298432": {
+            "id": "1060314806849298432",
+            "text": "Can you play video from in an Instagram tweet? Testing for science. I want to find a better way to share piano vids I have been working on. bhttps://instagram.com/p/Bp5bnpbh4Zh/",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1060125382505099267": {
+            "id": "1060125382505099267",
+            "text": "Yep. Dot your \u201ci\u201ds before you cross your \u201ct\u201ds.https://twitter.com/VladZamfir/status/1059752376322658306\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059859732264075264": {
+            "id": "1059859732264075264",
+            "text": "New melody! Nice to get home to some piano :-) \non a short #cryptoholiday post #Devcon4https://soundcloud.com/madeoftin/audio-11-06-2018-11-24-05\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059018998212366336": {
+            "id": "1059018998212366336",
+            "text": "Pants and socks.  https://twitter.com/k4l1r/status/1058382780147621888\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059018696931323904": {
+            "id": "1059018696931323904",
+            "text": "That feeling when you get on a train after devcon and chat with a really awesome guy and only after a few days pass realize it was @glenweyl. Wow Devcon was/is full of so many great and humble people.   @EFDevcon",
+            "username": "madeof_tin",
+            "num_likes": 26,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1057372255708213249": {
+            "id": "1057372255708213249",
+            "text": "Open hearts , open minds.\nWe can all do a little better @spankchain @infurapic.twitter.com/MiPxedFGhw",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1056541306384719872": {
+            "id": "1056541306384719872",
+            "text": "\u201cVDFs are most likely going to remain a primitive moving forward indefinitely.\u201d \n #EthMagicianspic.twitter.com/Rg5qhvpSFf",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056141826875424768": {
+            "id": "1056141826875424768",
+            "text": "A Bountiful Bounty :\n\u201cA system that rewards anyone for picking up trash, cause the world is way too dirty\u201d @ethBounties #hiveofideas #cryptolifepic.twitter.com/VOTZd4nS9q",
+            "username": "madeof_tin",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1055710805059088384": {
+            "id": "1055710805059088384",
+            "text": "I would really like a system that uses a ZK-SNARK to:\n1 ) Prove how many verifications a Keybase User has performed\n2 ) Prove that the user hasn't registered to maintain uniqueness.\nThen I would be happy to test governance on a lite-DAO with anonymous voting. @AragonProject",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054706421202333696": {
+            "id": "1054706421202333696",
+            "text": "#blockscout is an amazing alternative to etherscan. A large step forward in decentralization for Ethereum!   @poanetwork  #web3summithttps://twitter.com/Givethio/status/1054705688721670144\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054361696058392576": {
+            "id": "1054361696058392576",
+            "text": "Thanks to all who joined the signaling discussion! Come to studio 2 Decentralize Now for more great conversations all day every day! @Givethio #web3summitpic.twitter.com/YqpnKt79Bx",
+            "username": "madeof_tin",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1053935657620566016": {
+            "id": "1053935657620566016",
+            "text": "Woke up this morning feeling the good #Web3Summit vibes\nLet\u2019s go  @web3foundation",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1053401339672358913": {
+            "id": "1053401339672358913",
+            "text": "Would love for Tennagraph to host the fork monitor as part of its information solution! If it is looking for a home the door is always open. Want to help with information dissemination wherever we can. \n@lrettig @nicksdjohnson",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1053156696800063489": {
+            "id": "1053156696800063489",
+            "text": "10/10 \n5) The funds could go to help maintain and develop the network, or to charity. There are a lot of good options and thoughts for funds like this already.\n \nThis is the rambling of a man on twitter. Not a professional. Feedback is welcome and encouraged. #fibonacciScaling",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1053156695583657984": {
+            "id": "1053156695583657984",
+            "text": "9/ Either way:\n\n1) Paying for more then you intend to use is discouraged \n2) Squatting on domains that you don't really care about is less likely\n3) The cost is pretty fair overall. Both for starting and maintaining an existing domain \n4) A shorter time scale encourages recycling",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156694287626240": {
+            "id": "1053156694287626240",
+            "text": "8/ If you are further along and more time conscious then price conscious, you could pay 6 months to a year at a time to maintain ownership. $120.00 every 6 months is not that much for an established business or project.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156692978995200": {
+            "id": "1053156692978995200",
+            "text": "7/ This series has the nice property that for any month you can continue paying for the domain name at the same base price. So if you are price conscious one could every month pay the $5.00 (n2 in the series) required to maintain ownership.",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156691645267968": {
+            "id": "1053156691645267968",
+            "text": "6/ Example: If the starting value is $5. To pay in advanced it would cost :\n1 Months = $ 5.00.\n2 Months = $ 10.00 (5+5)\n3 Months = $ 20.00 (5 + 5 + 10)\n6 Months = $ 120.00 (5 + 5 + 10 + 15 + 35 + 50)",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156690294697984": {
+            "id": "1053156690294697984",
+            "text": "5/ One way to do this is with Fibonacci scaled \"renting\" of the domain name. To buy a domain for 1 month in advanced it would cost n1 in the fibonacci sequence. To buy for 3 months it would cost n3 in the sequence. https://en.wikipedia.org/wiki/Fibonacci_number\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156688835104768": {
+            "id": "1053156688835104768",
+            "text": "4/ This means monthly or yearly held Vickrey auctions are unlikely to help keep prices fair to the owner. What is left is to discourage people holding names when they don't need to maintain them.",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156687505510401": {
+            "id": "1053156687505510401",
+            "text": "3/ Further problem, is an asymmetry in the consequences for the owner of a domain. The value of disrupting your service (e.g. buying your domain name from under you) to a bad actor can be more valuable to them then it is to you to maintain it.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156686238756864": {
+            "id": "1053156686238756864",
+            "text": "2/ Best mechanism for pricing is the Vickrey auction. This doesn't work well for domains because \"when a domain is valuable\" is difficult to determine. Speculation is the enemy of fair prices. https://en.wikipedia.org/wiki/Vickrey_auction\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1053156684972154880": {
+            "id": "1053156684972154880",
+            "text": "1/10  Thoughts on Domain Name Pricing\nTL;DR - It is a tough one  Fibonacci scaled \"renting\" could discourage squatting on names  Also, I'm not a doctor. \n@nicksdjohnson @lrettig @DeanEigenmann #ENS #domainNames",
+            "username": "madeof_tin",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 6
+        },
+        "1053140257342939136": {
+            "id": "1053140257342939136",
+            "text": "I\u2019ll say it again. Hallelujah https://twitter.com/poanetwork/status/1052942298768498688\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1053061456416120832": {
+            "id": "1053061456416120832",
+            "text": "#InTheNotSoDistantFuture progressive cities will start to have streets where you are only allowed to drive electric cars. Now may be the loudest our cities will ever be.",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052850494480244738": {
+            "id": "1052850494480244738",
+            "text": "This is a great resource! Thank you for putting this together. I see the effort you\u2019ve been making throughout the whole Ropsten Fork and am very grateful  Ethereum is full of rockstars like you @lrettig https://twitter.com/lrettig/status/1052577535689719810\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1051977939162673153": {
+            "id": "1051977939162673153",
+            "text": "There has got to be a way to be a better way of getting out this information and visualizing it\u2019s current status.  will get back to youhttps://twitter.com/lrettig/status/1051933396065288192\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1050628557762752512": {
+            "id": "1050628557762752512",
+            "text": "In Berlin where does one go to print things? Asking for a friend :-)",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1050123659485085698": {
+            "id": "1050123659485085698",
+            "text": "Stop.\n  Pause.\n        Go.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1049345384127123456": {
+            "id": "1049345384127123456",
+            "text": "A little lore goes a long way.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1049227017021997056": {
+            "id": "1049227017021997056",
+            "text": "#finalityis when you remember you need to exchange cash after you walk out of the airporthttps://twitter.com/lrettig/status/1047774423795847168\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1049217801133674496": {
+            "id": "1049217801133674496",
+            "text": "Verifying myself: I am madeof_tin on http://Keybase.io\u00a0. X_3_xO6Wjifj5R5e7Z5pQxXXJkQ-szOQw0DO / https://keybase.io/madeof_tin/sigs/X_3_xO6Wjifj5R5e7Z5pQxXXJkQ-szOQw0DO\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047865675195305989": {
+            "id": "1047865675195305989",
+            "text": "I met a man on a recent plane trip. He is living in the UK from #Zimbabwe.He called me up asking how #ethereum can be a solution for the recent monetary change in his home country. Help me help him! What can we do? @EthMagicians @Givethio @lrettig @thegrifft @AnnaRRose @MakerDAO",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1044053246833291265": {
+            "id": "1044053246833291265",
+            "text": "We never have nor ever will have Freedom from consequence. Any attempt to remove this removes one from the reality of choice and accountability. #SundayThoughts",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038688546700242944": {
+            "id": "1038688546700242944",
+            "text": "So this is what they mean by Effiecient Market Hypothesis  https://twitter.com/naval/status/1038479545983164416\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038292219025739777": {
+            "id": "1038292219025739777",
+            "text": "The brain is in constant battle between abstraction and optimization. Abstraction leads to greater capacity and flexibility; optimization leads to greater efficiency.  You need both and it is best when you are conscious about which is happening. #deepPractice",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037567480078594048": {
+            "id": "1037567480078594048",
+            "text": "Edit* @DAppNode",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037560603471007744": {
+            "id": "1037560603471007744",
+            "text": "#dappnode #giveth @thegrifft \nBehold, the future of Dapnodehttps://twitter.com/SatoshiLite/status/1037037095712215041\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1037342102324039680": {
+            "id": "1037342102324039680",
+            "text": "Sounds like solving the Tragedy of the Commons is more and more possible every day. Thank you #cryptotwitterhttps://twitter.com/lrettig/status/1037294923702317056\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037335760330842112": {
+            "id": "1037335760330842112",
+            "text": "Best of luck to @AnnaRRose and @zeroknowledgefm for their #zk0x02 conference today. I hear Blockchain week is poppin in Berlin ",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037333570375712768": {
+            "id": "1037333570375712768",
+            "text": " https://twitter.com/k4l1r/status/1037256279859838976\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037326054921138178": {
+            "id": "1037326054921138178",
+            "text": " yes https://twitter.com/lrettig/status/1037302444856958976\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1036523665423122432": {
+            "id": "1036523665423122432",
+            "text": "\"Where is the Life we have lost in living?\nWhere is the wisdom we have lost in knowledge?\nWhere is the knowledge we have lost in information?\" -  T.S. Elliot wrote this in 1934. Dang dude... and to think he didn't even live to see the birth of the internet",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1034144024129626113": {
+            "id": "1034144024129626113",
+            "text": "Working on it  #EthSignalshttps://twitter.com/licuende/status/1033956827027922945\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033350766872866817": {
+            "id": "1033350766872866817",
+            "text": "Secrets secrets are no fun. Secrets are for everyone. https://twitter.com/ShasperS/status/1033028742019461120\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033348920791818240": {
+            "id": "1033348920791818240",
+            "text": "Just ran across this, and love it. Anyone who says they \u201conly believe what they can see\u201d forgets what we see isn\u2019t what is real. Reality is experienced only through processing and reprocessing.https://twitter.com/NovickProf/status/1019592963259691008\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033341173576790016": {
+            "id": "1033341173576790016",
+            "text": "I love this \u201clike most things that are terrifying (but not actually dangerous), I should probably try it.\u201d  Have fun storming the castle.https://twitter.com/lrettig/status/1033209885184290816\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1031939087337324544": {
+            "id": "1031939087337324544",
+            "text": "Just like they didn\u2019t fake the moon landing https://twitter.com/GabrielDVine/status/1031674155165474822\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1030584476768714752": {
+            "id": "1030584476768714752",
+            "text": "Imo we are too worried about overtaking fiat, and not worried enough about these guys taking over crypto.  There are a words for it \u2014Oppressive Exclusionary Policyhttps://twitter.com/lrettig/status/1030556649285722112\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1029658800515514368": {
+            "id": "1029658800515514368",
+            "text": "This is a luxury we don't have with Ethereum. The complexity is sufficient that iteration is a requirement for successful implementation. Bitcoin could exist relatively unchanged for 10 more years and be fine. If Ethereum stayed as it is for 10 years it would wither and die.https://twitter.com/BenDiFrancesco/status/1029367769811300352\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1026961415729377280": {
+            "id": "1026961415729377280",
+            "text": "Everything about this is great! FeelsGoodMan #teamShardyMcShardfacehttps://twitter.com/lrettig/status/1026129182735171585\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1025064601308651521": {
+            "id": "1025064601308651521",
+            "text": "I was going to ask you for the reading list you mentioned, then I found it https://twitter.com/DeanEigenmann/status/1008394545304948738\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1022667295661936643": {
+            "id": "1022667295661936643",
+            "text": "Simple is Beautiful - Pt II\n#piano #composition #acoustic @ Toronto, Ontario https://www.instagram.com/p/Blt9DRQlk5K/?utm_source=ig_twitter_share&igshid=tleambtbsbtr\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1019914255003410432": {
+            "id": "1019914255003410432",
+            "text": "There exists a fundamental limit on objectivity in curation when the following is true:\n - a very large set of data\n - finite viewing space (screen)\n\nThis limits what is consumable and sortable and requires a filtering mechanism with either explicit or implicit biases.",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1019800942189993984": {
+            "id": "1019800942189993984",
+            "text": "Simple is Beautiful - Pt I\n#piano #composition #acoustic @ Toronto, Ontario https://www.instagram.com/p/BlZlijSlTEt/?utm_source=ig_twitter_share&igshid=6lcb5mhb9jhc\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1019186112173142021": {
+            "id": "1019186112173142021",
+            "text": "Piano composition #piano #composition #acoustic @ Toronto, Ontario https://www.instagram.com/p/BlVNnAuHGf-/?utm_source=ig_twitter_share&igshid=lwkuqxqhubvr\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1018437177443790850": {
+            "id": "1018437177443790850",
+            "text": "2) To the Devs the roadmap and next steps are clear. To an outsider this is very opaque and takes much effort to distill. \n3) The idea of roadmaps as dependent graph structures  FeelsGoodMan",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1018429314864439296": {
+            "id": "1018429314864439296",
+            "text": "#ethmagicians 2018 Takeaways.\n1) How the greater crypto community talks about the Core Dev Team is very different from how the Core Dev team actually talks and is. I wish more people could see the later as I have from my experience interacting with them.",
+            "username": "madeof_tin",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1018132359714045954": {
+            "id": "1018132359714045954",
+            "text": "Great Session @lrettig ! admire the effort you made in the beginning to create a group discussion. Keep up the good work #ethmagicians ",
+            "username": "madeof_tin",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1010410951261216768": {
+            "id": "1010410951261216768",
+            "text": "Composition part 1 of some. https://www.instagram.com/p/BkWgasbgNhw/?utm_source=ig_twitter_share&igshid=2rsy8hkyw37u\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1005201452913094656": {
+            "id": "1005201452913094656",
+            "text": "Remove the Opportunity for Corruption - a Universal  #Ethereum Core Value?",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1004890177389678592": {
+            "id": "1004890177389678592",
+            "text": "The best ideas emerge from silent pools of consciousnesshttps://twitter.com/troy7laws/status/1004301948495986693\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1003845382575714304": {
+            "id": "1003845382575714304",
+            "text": "How about this? Cascade Delegate Voting Mechanism:\n1) I am given n-votes\n2) I maintain an ordered list of people I trust to represent me\n3) On any issue my votes go with the highest person on that list\n4) I can change that list anytime\n5) I am always the first person on the list",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002684152041365507": {
+            "id": "1002684152041365507",
+            "text": "Now I really have to go to #ETHBerlin this is the kind of talk I have been waiting for.https://twitter.com/mptherealmvp/status/1002643796595806208\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1002563904399138816": {
+            "id": "1002563904399138816",
+            "text": "How does one find non-determinism in world where the Halting Problem is still a thing?https://twitter.com/bytemaster7/status/1001228283843895296\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002561393802047489": {
+            "id": "1002561393802047489",
+            "text": "That is why you live in downtown and you never leave https://twitter.com/knotjeffgordon/status/1001585759340650496\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002560932814508033": {
+            "id": "1002560932814508033",
+            "text": "Keeping barriers keeps the good guys out just as it can keep out the bad guys. It encourages the status quo. Choose a better way cryptofans. #inclusionByDesignhttps://twitter.com/vladzamfir/status/1001513701936193539\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002558328764018689": {
+            "id": "1002558328764018689",
+            "text": "Facotorio devs FeelsGoodManhttps://twitter.com/factoriogame/status/1001463543361875968\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "998943267818532864": {
+            "id": "998943267818532864",
+            "text": "The Golden Rule of #Cryptocurency : He who has the Keys, has the Gold.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "997930482686980099": {
+            "id": "997930482686980099",
+            "text": "See you in Berlin  #goalshttps://twitter.com/ethberlin/status/997101445919920128\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "997523907132444679": {
+            "id": "997523907132444679",
+            "text": "Math is baehttps://twitter.com/laurianna90/status/996148411048124417\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "996468094112534533": {
+            "id": "996468094112534533",
+            "text": "Been reading about orbital mechanics. How massive does the sun need to grow to pull Jupiter in 1/2 it\u2019s distance from the sun? (Forgetting all other planets) #orbits #planets #solarsystem #jupiter",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "992778286651641857": {
+            "id": "992778286651641857",
+            "text": "Odin is a Norse God known for his knowledge and wisdom. In many legends he aids adventurers disguised as a elderly one-eyed wise man\n\nHe also uses Ravens to gather information, similar to your client nodes.  It is a great name!\n@lrettig",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "991367954578239494": {
+            "id": "991367954578239494",
+            "text": "Nice melody for a nice day.\n.\n.\n.\n#composition #piano #hopeful @ Arlington,\u2026 https://www.instagram.com/p/BiPjUd-gfzo/?utm_source=twitter\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "989481505926901760": {
+            "id": "989481505926901760",
+            "text": "Springtime FeelsGoodMan @ Arlington, Virginia https://www.instagram.com/p/BiCJ8euAHdo/\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "982076273399881730": {
+            "id": "982076273399881730",
+            "text": "A melody for April :-) #piano #composition jamesmontanapope ( finally posting piano XD ) @\u2026 https://www.instagram.com/p/BhNiIR6Fs7a/\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "982011823397462016": {
+            "id": "982011823397462016",
+            "text": "Will miss you Arlington House (Moving out on the 20th) #vagabond #dontKnowWhereNext @ Arlington,\u2026 https://www.instagram.com/p/BhNFIYClF78/\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "981258169849696256": {
+            "id": "981258169849696256",
+            "text": "Everybody wants this Twitch @Twitchhttps://twitter.com/admiralbahroo/status/981257258817458177\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "958974659978039296": {
+            "id": "958974659978039296",
+            "text": "Graph Theory Porn #maths #graphtheoryhttps://twitter.com/talyarkoni/status/935374592293720065\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "958974162558701568": {
+            "id": "958974162558701568",
+            "text": "Ark's final patch. #ArkSurvivalEvolvedhttps://twitter.com/RealPunkJob/status/934557782673625088\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "958522598375219200": {
+            "id": "958522598375219200",
+            "text": "About to go live with some piano composing.http://www.twitch.tv/madeof_tin\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "951585666621689859": {
+            "id": "951585666621689859",
+            "text": "Getting back on to remove duplicates from my recordings. I am up to 34 hours of recorded piano. Hopefully I can get that number down a bit XD",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "951550192448360449": {
+            "id": "951550192448360449",
+            "text": "Back to streaming baby #piano . Days of relaxing piano musichttps://www.twitch.tv/madeof_tin\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "951155431090552832": {
+            "id": "951155431090552832",
+            "text": "#vertcoin #p2pool #vertcoinmining Winner from today recieved 0.5 vertcoin.  Address VoK5...  on the Westcost node http://13.56.194.218:9171/static/",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "948635940091809792": {
+            "id": "948635940091809792",
+            "text": "About ready to launch the Olorion Mining Network on the #vertcoin Network 1 . The testing phase is complete and efficiency averages around 106% Let's Go ",
+            "username": "madeof_tin",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "943344474100510720": {
+            "id": "943344474100510720",
+            "text": "Why I vertcoin? Cause green is the new black baby. #VTCember",
+            "username": "madeof_tin",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "936524495325503488": {
+            "id": "936524495325503488",
+            "text": "My other friend is a guitar. #guitar #improv #snug @ Redwood City, California https://www.instagram.com/p/BcJ3G0YAXoq/\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "925857469712121856": {
+            "id": "925857469712121856",
+            "text": "Halp me D: .https://www.digitalocean.com/community/questions/vertcoin-p2pool-is-not-maintaining-connection-to-my-miners-what-can-i-do?utm_content=vertcoin-p2pool-is-not-maintaining-connection-to-my-miners-what-can-i-do\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "911648150661795840": {
+            "id": "911648150661795840",
+            "text": "New a Jam Piano Improv 2017.09.19 22.48.30 https://soundcloud.com/madeoftin/piano-improv-20170919-224830\u00a0\u2026 on #SoundCloud",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "911647658091139072": {
+            "id": "911647658091139072",
+            "text": "New a Jam 2017.09.15 18.28.19 {guitar and lyrics} https://soundcloud.com/madeoftin/20170915-182819-guitar-and-lyrics\u00a0\u2026 on #SoundCloud",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "892102954773168128": {
+            "id": "892102954773168128",
+            "text": "He has done it again. FeelsGoodMan pieSnughttps://twitter.com/Iateyourp1e/status/892102680268738560\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "888329981998145536": {
+            "id": "888329981998145536",
+            "text": "This is legit the most snug thing I have watched a while. and I don't even play poker!https://twitter.com/Iateyourp1e/status/888329747859742720\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "888301510018428928": {
+            "id": "888301510018428928",
+            "text": "This is called maximize screen real estate. Streaming composition in creative!pic.twitter.com/b82EF8zcD5",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887751639460790272": {
+            "id": "887751639460790272",
+            "text": "Also, not feeling so hot, will resume stream tomorrow FeelsBadMan",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887751162664853504": {
+            "id": "887751162664853504",
+            "text": "I still love the bork, still miss the Gabe the dog. Found this, must tweet.https://twitter.com/teenyleeni/status/822633799058157568\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887579314232766464": {
+            "id": "887579314232766464",
+            "text": "Dang Dude.... LETS GOO!!!   Affiliate Hype!  @TheFaellu @Mr4Damage @brocknordstrompic.twitter.com/xgfuXHdpqR",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "887409079479554048": {
+            "id": "887409079479554048",
+            "text": "going live in 5!http://www.twitch.tv/madeof_tin\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "887376650081509376": {
+            "id": "887376650081509376",
+            "text": "Streaming at 1:00pm today. XD See you in a bit.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "885558484279861248": {
+            "id": "885558484279861248",
+            "text": "Stream in 5m, lets go",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "885197765088653312": {
+            "id": "885197765088653312",
+            "text": "Live in Five \u2026 minutes\u2026 ash",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "884836572473851904": {
+            "id": "884836572473851904",
+            "text": "Streaming in 5m XD",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "884465850060636162": {
+            "id": "884465850060636162",
+            "text": "Going live in 30 @ http://twitch.tv/madeof_tin\u00a0 @TheFaellu",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "883402755473195008": {
+            "id": "883402755473195008",
+            "text": "LetS Go! Hoping on Stream in 10 Minutes.",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "882847101163642880": {
+            "id": "882847101163642880",
+            "text": "New a Jam Years - Alesso (Acoustic Guitar No Vocals) https://soundcloud.com/madeoftin/years-alesso-acoustic-guitar-no-vocals\u00a0\u2026 on #SoundCloud",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "882668312492101632": {
+            "id": "882668312492101632",
+            "text": "Going live. XD Short Stream, have class in a bit. :( http://www.twitch.tv/madeof_tin\u00a0)",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "881929369429475328": {
+            "id": "881929369429475328",
+            "text": "Going live in 30. 11:00am PST !!http://www.twitch.tv/madeof_tin\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "881887425756135426": {
+            "id": "881887425756135426",
+            "text": "Only the snuggest channel on twitchhttps://twitter.com/Iateyourp1e/status/881551909424910337\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "880609605331570688": {
+            "id": "880609605331570688",
+            "text": "I Feel that Doghttps://twitter.com/fazilsaymusic/status/879632360416976896\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "880287406846377985": {
+            "id": "880287406846377985",
+            "text": "LIVE - Little sunburned and ready to go! http://twitch.tv/madeof_tin\u00a0 @TheFaellu @Mr4Damage @fuslie",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "880281994659155968": {
+            "id": "880281994659155968",
+            "text": "Lets GOOOOOOOO!!!! A whole other level of snug to be achieved.https://twitter.com/iateyourp1e/status/880273940962308096\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "880155565896327169": {
+            "id": "880155565896327169",
+            "text": "Streaming will be tonight, tonight! Probably around 9:30 pst.",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "879747565914210304": {
+            "id": "879747565914210304",
+            "text": "T minus one hour till streaming. See y'all at 11:00am ESTpic.twitter.com/RBMWn2ZMKA",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "879365136938524672": {
+            "id": "879365136938524672",
+            "text": "Have a class this morning, will not he streaming this morning. Will resume tomorrow at 11:00am pst. See you there!",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "878292628151820288": {
+            "id": "878292628151820288",
+            "text": "5/5 days this week. #twitchgoals live at 11:00 am pst. http://Twitch.tv/Madeof_Tin\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "878283014689529856": {
+            "id": "878283014689529856",
+            "text": "When the VodCast is so good, not even Twitch can tell if it is live or not. LULhttps://twitter.com/Consensual_Sax/status/877741709630689281\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "878264919317139456": {
+            "id": "878264919317139456",
+            "text": "Too cute not to repost. SeemsGoodhttps://twitter.com/cityofpaloalto/status/877951007438675968\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "878158355541381120": {
+            "id": "878158355541381120",
+            "text": "Congrats on the win Will!! Chat never had a chance. https://clips.twitch.tv/CrypticDrabLadiesCurseLit\u00a0\u2026 @Colwillgaming #factorio",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "878058249206898688": {
+            "id": "878058249206898688",
+            "text": "Hurry!! Will launches a rocket for each sub. He is about to make his goal. STOP HIM!!!! https://www.twitch.tv/colonelwill\u00a0 @Colwillgaming #factoriopic.twitter.com/FPCnOROc7s",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "877943191286054912": {
+            "id": "877943191286054912",
+            "text": "@falleu Dansgame :)",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "877943013028249600": {
+            "id": "877943013028249600",
+            "text": "Trying a new layout. Live in 30 minutes. Singing Guitar and chill at http://twitch.tv/madeof_tin\u00a0pic.twitter.com/MBXCVtG5bH",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "877803940842151937": {
+            "id": "877803940842151937",
+            "text": "mmmhmmm, you know ithttps://twitter.com/fuslie/status/875160259693760513\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "877576685628960768": {
+            "id": "877576685628960768",
+            "text": "@TheFaellu  come take a listen :-)",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "877576443676434434": {
+            "id": "877576443676434434",
+            "text": "Stream station at the ready. Live at 11:00 am pst! http://Twitch.tv/madeof_tin\u00a0pic.twitter.com/UIeBRR1YMZ",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "877204274987417600": {
+            "id": "877204274987417600",
+            "text": "11:00 am PST stream starts  - gonna get gud at Clean Bandits Symphony!",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "876855906394284032": {
+            "id": "876855906394284032",
+            "text": "Stream starts 11:00am everyday this week (m-f)!! Let's Go!! See ya in a bit http://Twitch.tv/madeof_tin\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "875187235712229376": {
+            "id": "875187235712229376",
+            "text": "Streaming tonight. Playing guitar and singing some tunes. 9:30 pm PST http://twitch.tv/madeof_tin\u00a0 @TheFaellu @saythorlar @fuslie",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "850921115140603905": {
+            "id": "850921115140603905",
+            "text": "What is your favorite unanswered question? @braincandylivepic.twitter.com/Nbprx0HTlI",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "829155316583407616": {
+            "id": "829155316583407616",
+            "text": "Can confirm. Dogs do Math.https://twitter.com/tehMorag/status/829154749601636353\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "809561694271746048": {
+            "id": "809561694271746048",
+            "text": "@RendhammerTV Check out this cheer cup! https://www.twitch.tv/tehmorag\u00a0 & http://yat0.work/cheer.php?caster=tehmorag\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "808990939947503616": {
+            "id": "808990939947503616",
+            "text": "I was there PogChamphttps://twitter.com/coL_Asmodai/status/808990824621031424\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "789072013318946816": {
+            "id": "789072013318946816",
+            "text": "Getting back at it. Second Draft of my latest piano song. FeelsGoodMan\nhttps://soundcloud.com/madeoftin/let-34\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "774143599336230913": {
+            "id": "774143599336230913",
+            "text": "Guess mage can make it. :) @TheFaelluhttps://twitter.com/coL_Asmodai/status/774143084951056384\u00a0\u2026",
+            "username": "madeof_tin",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "773024888957313024": {
+            "id": "773024888957313024",
+            "text": "Cool as Bell.\n#carillon @ Stanford University Palo Alto Ca. https://www.instagram.com/p/BKAI4mJAUR6/\u00a0",
+            "username": "madeof_tin",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "fionaosaurusrex": 1,
+        "quickblocks": 4,
+        "realLedgerwatch": 1,
+        "cyber_hokie": 1,
+        "lrettig": 17,
+        "hackdomTEX": 1,
+        "bmann": 2,
+        "TheOfficeMystic": 1,
+        "AFDudley0": 3,
+        "gitcoin": 1,
+        "fubuloubu": 1,
+        "owocki": 3,
+        "mr_ligi": 1,
+        "licuende": 1,
+        "jemenger": 1,
+        "tennagraph": 1,
+        "iam_preethi": 2,
+        "Sim_Pop": 2,
+        "nanexcool": 1,
+        "tonyhawk": 1,
+        "joshmh": 1,
+        "trent_vanepps": 1,
+        "zooko": 1,
+        "mZargham": 1,
+        "VitalikButerin": 3,
+        "DATTPod": 1,
+        "web3foundation": 1,
+        "beesandbombs": 1,
+        "AragonProject": 1,
+        "EthMagicians": 1,
+        "Givethio": 3,
+        "natfriedman": 1,
+        "ph_lux": 2,
+        "zeroknowledgefm": 1,
+        "jennaszenk": 1,
+        "snarkyzk": 1,
+        "DoveyWan": 1,
+        "avsa": 1,
+        "MaciekLaskus": 1,
+        "hudsonjameson": 1,
+        "maxsemenchuk": 1,
+        "hwitteman": 1,
+        "matthewjdowd": 1,
+        "SatoshiLite": 3,
+        "AriMNazir": 1,
+        "ParityTech": 1,
+        "LitecoinLoyal": 1,
+        "danieltbar": 1,
+        "jimmysong": 1,
+        "deadmau5": 1,
+        "Changelly_team": 1,
+        "Iateyourp1e": 2,
+        "GroestlcoinTeam": 2,
+        "cryptocardowl": 1,
+        "Rendhammer": 1,
+        "BobHagh": 1
+    },
+    "users_retweeted": [
+        "lrettig",
+        "quickblocks",
+        "AFDudley0",
+        "owocki",
+        "VitalikButerin",
+        "Givethio",
+        "SatoshiLite",
+        "bmann",
+        "iam_preethi",
+        "Sim_Pop",
+        "ph_lux",
+        "Iateyourp1e",
+        "GroestlcoinTeam",
+        "fionaosaurusrex",
+        "realLedgerwatch",
+        "cyber_hokie",
+        "hackdomTEX",
+        "TheOfficeMystic",
+        "gitcoin",
+        "fubuloubu",
+        "mr_ligi",
+        "licuende",
+        "jemenger",
+        "tennagraph",
+        "nanexcool",
+        "tonyhawk",
+        "joshmh",
+        "trent_vanepps",
+        "zooko",
+        "mZargham",
+        "DATTPod",
+        "web3foundation",
+        "beesandbombs",
+        "AragonProject",
+        "EthMagicians",
+        "natfriedman",
+        "zeroknowledgefm",
+        "jennaszenk",
+        "snarkyzk",
+        "DoveyWan",
+        "avsa",
+        "MaciekLaskus",
+        "hudsonjameson",
+        "maxsemenchuk",
+        "hwitteman",
+        "matthewjdowd",
+        "AriMNazir",
+        "ParityTech",
+        "LitecoinLoyal",
+        "danieltbar",
+        "jimmysong",
+        "deadmau5",
+        "Changelly_team",
+        "cryptocardowl",
+        "Rendhammer",
+        "BobHagh"
+    ]
+}

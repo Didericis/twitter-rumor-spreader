@@ -1,0 +1,826 @@
+{
+    "is_complete": true,
+    "username": "L4ventures",
+    "retweeted": {
+        "1108362861712207872": {
+            "id": "1108362861712207872",
+            "text": "Want to learn more about the Counterfactual framework? Check out @Nima_Vaziri 's recent talk from the @MITBitcoinClub Expo 2019 https://youtu.be/_8MPy--YQTI\u00a0",
+            "username": "statechannels",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1108072528403156994": {
+            "id": "1108072528403156994",
+            "text": "1. Today we're excited to release an alpha version of the Playground, a full end-to-end demo/sandbox for generalized state channels built with the Counterfactual framework. Go play! \u2192https://playground.counterfactual.com\u00a0",
+            "username": "statechannels",
+            "num_likes": 305,
+            "num_retweets": 117,
+            "num_replies": 10
+        },
+        "1104422902898798592": {
+            "id": "1104422902898798592",
+            "text": "@Nima_Vaziri presenting @statechannels at the #MITBitcoinExpo #TheNext10Yearspic.twitter.com/m9NKYnKyjI",
+            "username": "MITBitcoinClub",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1101659712007925760": {
+            "id": "1101659712007925760",
+            "text": "We're excited to have @Nima_Vaziri, contributer at @statechannels speak about how they\u2019re getting ready for #TheNext10Years at the #MITBitcoinExpo. Get your tickets here: http://mitbitcoinexpo.org/\u00a0pic.twitter.com/elIndSOkqK",
+            "username": "MITBitcoinClub",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1085550161265348608": {
+            "id": "1085550161265348608",
+            "text": "a long, in-depth look at the last year in ethereumhttps://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276\u00a0\u2026",
+            "username": "0xstark",
+            "num_likes": 243,
+            "num_retweets": 101,
+            "num_replies": 9
+        },
+        "1083488035004694529": {
+            "id": "1083488035004694529",
+            "text": "Development Update #1https://medium.com/statechannels/development-update-1-01-10-2019-18983bd41bc2\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1075768828162846724": {
+            "id": "1075768828162846724",
+            "text": "My talk about state channels as a layer 2 scaling solution on Ethereum with @liamihorne of @L4ventures and @statechannels is now available!https://podcast.ethhub.io\u00a0",
+            "username": "econoar",
+            "num_likes": 35,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1072943648931639296": {
+            "id": "1072943648931639296",
+            "text": ".@liamihorne's talk on @statechannels from DevconIV is now online:https://slideslive.com/38911873/state-channels-on-ethereum-with-counterfactual\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 23,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1072533774477520897": {
+            "id": "1072533774477520897",
+            "text": "I've just published a walkthrough on using the @statechannels framework to channelise the #MixEth protocol by @Istvan_A_Sereshttps://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc\u00a0\u2026",
+            "username": "yahgwai",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1063576160972492802": {
+            "id": "1063576160972492802",
+            "text": "Solid dev update from @L4ventures @liamihorne. Nice to see the counterfactual collaborators list.https://medium.com/statechannels/development-update-0-11-12-2018-b7002de5282e\u00a0\u2026",
+            "username": "mark_dago",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1062350971022532609": {
+            "id": "1062350971022532609",
+            "text": "Development Update #0https://medium.com/statechannels/development-update-0-11-12-2018-b7002de5282e\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 56,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1057936265499328514": {
+            "id": "1057936265499328514",
+            "text": "Next up is @liamihorne from the @statechannels project. An open-source initiative to make secure off-chain applications easy to build on Ethereum. They want to try to make those type of things as easy as possible to build.",
+            "username": "paddykcl",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1057933672463130624": {
+            "id": "1057933672463130624",
+            "text": "The excellent @liamihorne now headed to the stage here in Prism to speak about Counterfactual @statechannels #Ethereum #devcon #devcon4 #devconiv",
+            "username": "technocrypto",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1022108250026729472": {
+            "id": "1022108250026729472",
+            "text": "thrilled that our paper \"Counterfactual: Generalized State Channels\" has been accepted to #CESC2018 @CalBlockchain https://cesc.io/\u00a0",
+            "username": "statechannels",
+            "num_likes": 30,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1019063951529730048": {
+            "id": "1019063951529730048",
+            "text": "Borrow funds to take advantage of arbitrage opportunities on decentralized exchanges and pay back all within one transaction.\n\nVery exciting! Big ups @maxcwolff and @richmcateerhttps://twitter.com/marbleprotocol/status/1018995475867828230\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1019287206383575042": {
+            "id": "1019287206383575042",
+            "text": "Interested in hacking at @ETHBerlin September 7-9? The deadline is only a few weeks away on August 7. Come build the future of web3 with us.https://ethberlin.com/hacker-application/\u00a0\u2026",
+            "username": "ETHGlobal",
+            "num_likes": 24,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1015614131611807744": {
+            "id": "1015614131611807744",
+            "text": "Scaling panel with @liamihorne, Heiko Hees,  @karl_dot_tech, Hsiao-Wei and @VitalikButerin #Ethereummeetup2018pic.twitter.com/snQPHUjRjb",
+            "username": "golemproject",
+            "num_likes": 42,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1006882203245031429": {
+            "id": "1006882203245031429",
+            "text": "great summary of some of the key points in our paper from @sinahabhttps://twitter.com/sinahab/status/1006692701084045312\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1006691867713462272": {
+            "id": "1006691867713462272",
+            "text": "One of the coolest new scaling strategies of the year, now in more detail than ever. \u201cGeneralized State Channels on Ethereum\u201d by @liamihornehttps://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44?source=twitterShare-9cdd320de5c9-1528848948\u00a0\u2026",
+            "username": "danfinlay",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1006575224559505408": {
+            "id": "1006575224559505408",
+            "text": "Excited our @statechannels paper has been published! We'll be presenting it and demoing our reference implementation at @BinaryDistrict's Off the Chain event on June 30th: http://binarydistrict.com/courses/master-workshop-off-the-chain/\u00a0\u2026https://twitter.com/statechannels/status/1006536423086977024\u00a0\u2026",
+            "username": "ebryn",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1006538047800860672": {
+            "id": "1006538047800860672",
+            "text": "Excited to release our paper on generalized state channels today! @lixuanji @technocrypto @L4ventureshttps://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 165,
+            "num_retweets": 46,
+            "num_replies": 7
+        },
+        "1006536423086977024": {
+            "id": "1006536423086977024",
+            "text": "1. Hello, world! We\u2019ve just published \"Counterfactual: Generalized State Channels\", our paper describing the most advanced state channels design on ethereum https://counterfactual.com/statechannels\u00a0",
+            "username": "statechannels",
+            "num_likes": 270,
+            "num_retweets": 104,
+            "num_replies": 8
+        },
+        "1005185106569580546": {
+            "id": "1005185106569580546",
+            "text": "The unstoppable @ethereum community combined with the power of the unstoppable @ETHGlobal organization. Welcome @ethindiaco!https://twitter.com/ethindiaco/status/1005181368463077376\u00a0\u2026",
+            "username": "golemproject",
+            "num_likes": 97,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1000167587689398278": {
+            "id": "1000167587689398278",
+            "text": "4 more ETHGlobal events coming in 2018: https://medium.com/ethglobal/expanding-ethglobal-7d673f6555f2\u00a0\u2026 #buidl #ethereum",
+            "username": "ETHGlobal",
+            "num_likes": 53,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "1000161457516969984": {
+            "id": "1000161457516969984",
+            "text": "The Stable Fund offers more than money - business development, strategy and follow-on fundingpic.twitter.com/8iRiEStcxk",
+            "username": "ethbuenosaires",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1000165394055942147": {
+            "id": "1000165394055942147",
+            "text": "At @ETHGlobal we said hackathons mattered. We've already organized 3 hackathons bringing in over 1000 developers to the ecosystem. Now, we're going to bring in thousands more from across the world. #BUIDL @ethbuenosaireshttps://medium.com/ethglobal/expanding-ethglobal-7d673f6555f2\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 130,
+            "num_retweets": 38,
+            "num_replies": 5
+        },
+        "1000154914818023425": {
+            "id": "1000154914818023425",
+            "text": "Here\u2019s @TheRealKartik from @ETHGlobal (also now he\u2019s totally Argentinian) talking about the Ethos of our hackathons and our community: over 200 projects have shipped so far - we\u2019re right on track #BUIDLpic.twitter.com/EZvjXqRs8I",
+            "username": "ethbuenosaires",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1000067056329424897": {
+            "id": "1000067056329424897",
+            "text": "#ETHBuenosAires has begun! The decentralized future is on its way #buidl Watch the live stream at http://ethbuenosaires.com/live\u00a0",
+            "username": "ETHGlobal",
+            "num_likes": 50,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "992104931585912832": {
+            "id": "992104931585912832",
+            "text": "Friends don't let friends add needless tokens to their projects.pic.twitter.com/uSQlLwoE1s",
+            "username": "liamihorne",
+            "num_likes": 319,
+            "num_retweets": 65,
+            "num_replies": 10
+        },
+        "978300335981776896": {
+            "id": "978300335981776896",
+            "text": "Check out our new post detailing the #ScalingNOW Summit Summary w/ @Givethio and @ethereum community leaders: @cosmos @decentraland @FunFairTech @L4ventures @omise_go @poanetwork @ParityTech @raiden_network @SpankChain @Truebitprotocol & more!https://medium.com/@web3/scalingnow-scaling-solution-summit-summary-be30047047bf\u00a0\u2026",
+            "username": "web3foundation",
+            "num_likes": 87,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "976866703505264642": {
+            "id": "976866703505264642",
+            "text": "Hey all! I have just posted a new article on how Ethereum contract addresses are assigned and some fun things we can do with them. Any feedback in welcome. :)https://blog.ricmoo.com/contract-addresses-549074919ec8\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "975429514246340608": {
+            "id": "975429514246340608",
+            "text": "Dapp devs, in times like this your users will love you for using a stablecoin vs ETH... @MakerDAO @stablefund",
+            "username": "panashemahachi",
+            "num_likes": 46,
+            "num_retweets": 12,
+            "num_replies": 5
+        },
+        "972464712117030912": {
+            "id": "972464712117030912",
+            "text": "Excited for the future of Maker and Dai :) @RuneKek @stablefund #EthCCpic.twitter.com/GcpGdgFJ0T",
+            "username": "liamihorne",
+            "num_likes": 52,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "971916688273809408": {
+            "id": "971916688273809408",
+            "text": "Come build the future with us!https://l4.ventures/jobs\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "971916687225188352": {
+            "id": "971916687225188352",
+            "text": "As a member of the investment team you can work on @stablefund - a $45 million fund working to increase adoption of Dai, a stable cryptocurrency to replace the US dollar.",
+            "username": "panashemahachi",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "971916686273081344": {
+            "id": "971916686273081344",
+            "text": "As an engineer / researcher you can work on https://counterfactual.com\u00a0 \u2013 a scaling solution that will allow decentralized applications to be usable by regular people. Imagine working on TCP/IP in the early days of the internet \u2014 this is similar in scale and opportunity.",
+            "username": "panashemahachi",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "971916685497188352": {
+            "id": "971916685497188352",
+            "text": ",@L4ventures is at the forefront of two key pieces of blockchain infrastructure: scalability and volatility of cryptocurrencies. We\u2019re looking for engineers, researchers, and investment associates/partners to move faster.",
+            "username": "panashemahachi",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "971452590444527616": {
+            "id": "971452590444527616",
+            "text": "Thank you #Ethereum Foundation for your generous grant! https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/\u00a0\u2026 And if you're a technical wizard who wants to help make distributed applications fast, cheap, and usable for everyone, check out the open positions at https://jobs.lever.co/l4v\u00a0 to apply!",
+            "username": "technocrypto",
+            "num_likes": 186,
+            "num_retweets": 42,
+            "num_replies": 14
+        },
+        "970717609879572482": {
+            "id": "970717609879572482",
+            "text": "Hey all! I just posted a quick article on how to use ethers.js with the the new Solidity ABIv2 coder; let me know if you have any questions. :)https://blog.ricmoo.com/solidity-abiv2-a-foray-into-the-experimental-a6afd3d47185\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "970602091826810880": {
+            "id": "970602091826810880",
+            "text": "Generalised state channels by @technocrypto at #ScalingNow .\n\n#counterfactualpic.twitter.com/SGmFMTe79e",
+            "username": "adrian_brink",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "963851289166671872": {
+            "id": "963851289166671872",
+            "text": "We\u2019re proud to announce the launch of ETHGlobal - the world\u2019s largest ethereum hackathon organizationhttps://medium.com/ethglobal/ethglobal-supporting-ethereum-hackathons-around-the-world-5e32fa991a55\u00a0\u2026",
+            "username": "ETHGlobal",
+            "num_likes": 835,
+            "num_retweets": 284,
+            "num_replies": 25
+        },
+        "963207726766551041": {
+            "id": "963207726766551041",
+            "text": "Many thanks to @DesjardinsLab for hosting our ETHMontreal event, and to @L4ventures and Inception Block Ventures for sponsoring us. #ethereum #blockchain Full house. Strong developer community here.pic.twitter.com/hT6u6kLQCH",
+            "username": "ethanwilding",
+            "num_likes": 25,
+            "num_retweets": 9,
+            "num_replies": 5
+        },
+        "958827072582856704": {
+            "id": "958827072582856704",
+            "text": "MerryMerkle is officially closed with a total of $200K!  Huge thanks to the Global crypto community for bringing it together.  Check out the amazing story of how it happened - we wanted to share our learnings in a playbook for community engagementhttps://medium.com/truebit/merrymerkle-how-the-crypto-community-raised-200k-for-a-homeless-youth-shelter-in-10-days-876477460f22\u00a0\u2026",
+            "username": "Truebitprotocol",
+            "num_likes": 74,
+            "num_retweets": 31,
+            "num_replies": 3
+        },
+        "956199192938057728": {
+            "id": "956199192938057728",
+            "text": "Source code for the $5 DIY #ethereum hardware wallet released.  It's called the Firefly, has an extremely tiny attack surface, and is small enough to fit in your pocket.  This thing is awesome! Site: https://firefly.city\u00a0 announcement:https://www.reddit.com/r/ethereum/comments/7snulz/firefly_source_released_httpsfireflycity/?ref=share&ref_source=twitter\u00a0\u2026",
+            "username": "technocrypto",
+            "num_likes": 94,
+            "num_retweets": 54,
+            "num_replies": 3
+        },
+        "955947434248736768": {
+            "id": "955947434248736768",
+            "text": "Standing room only at the @TwitterCanada #crypto event with @L4ventures and @TES_canadapic.twitter.com/El30p4CYRa",
+            "username": "KevGCallahan",
+            "num_likes": 44,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "954574858163167232": {
+            "id": "954574858163167232",
+            "text": "Spotted an early @HyperloopOne prototype at the @Truebitprotocol house in San Franciscopic.twitter.com/jwdzGzjyGt",
+            "username": "liamihorne",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "950804701049651201": {
+            "id": "950804701049651201",
+            "text": "Great story on @CryptoKitties and @ETHWaterloohttps://bitcoinmagazine.com/articles/how-hackathon-birthed-cryptokitties-origin-story1/\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 24,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "948219192917991424": {
+            "id": "948219192917991424",
+            "text": "Scalability research and development subsidy programs:https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 1625,
+            "num_retweets": 552,
+            "num_replies": 89
+        },
+        "938874732169986048": {
+            "id": "938874732169986048",
+            "text": "We\u2019ve been talking scaling all morning. @raiden_network will not work for CryptoKitties. We have some new ideas. Thanks to @technocrypto @liamihorne @metamask_io @infura_io @ConsenSys ",
+            "username": "CryptoKitties",
+            "num_likes": 286,
+            "num_retweets": 81,
+            "num_replies": 50
+        },
+        "936047902572662785": {
+            "id": "936047902572662785",
+            "text": "Awesome turnout for #ethereum meetup in Montreal! Great community here.  @austinhill @Drixer @CGchenard @inovia @fredericdionne @ethereumproject @L4ventures @realventures @Blockgkspic.twitter.com/IoNn3NcdIK",
+            "username": "ethanwilding",
+            "num_likes": 64,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "935127604566339585": {
+            "id": "935127604566339585",
+            "text": "Ethereum Montreal meetup, Nov 29th. 6pm at Notman House. Come out and be part of our community. Info at http://ethmontreal.com\u00a0 andhttps://www.eventbrite.ca/e/ethereum-blockchain-meetup-speakers-demos-and-updates-tickets-40037148188\u00a0\u2026",
+            "username": "ethanwilding",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "933856272037720064": {
+            "id": "933856272037720064",
+            "text": "Full house at @UofT Bahen Centre for the Toronto #Ethereum Developers Meetup w/  @Blockgks @blockgeekslab @L4ventures @Truebitprotocol @0xProject @lendroidproject @cryptochickspic.twitter.com/eDWT60NZLf",
+            "username": "ProjectOaken",
+            "num_likes": 37,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "933483320519921664": {
+            "id": "933483320519921664",
+            "text": "Really liking the look of this new lib from @ricmoo ,  can\u2019t wait to try it out in more depth!!  Separation of accounts and providers is brilliant. #ethereum @L4ventures https://docs.ethers.io/ethers.js/html/getting-started.html\u00a0\u2026",
+            "username": "adamjlemmon",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "932971519952785408": {
+            "id": "932971519952785408",
+            "text": "Lady Ethereum -- We have a new oil painting in the L4 @L4ventures office. Thanks Nelly! #ethereum #artpic.twitter.com/HOraVcaDtd",
+            "username": "ethanwilding",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "925717873191825409": {
+            "id": "925717873191825409",
+            "text": "One of the first major donations out of my OMG/KNC fund.https://twitter.com/liamihorne/status/925713545366528000\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 632,
+            "num_retweets": 162,
+            "num_replies": 34
+        },
+        "925713545366528000": {
+            "id": "925713545366528000",
+            "text": "Excited to share that @technocrypto and I are working together on generalized state channels on Ethereum! https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44\u00a0\u2026 #Devcon3",
+            "username": "liamihorne",
+            "num_likes": 193,
+            "num_retweets": 54,
+            "num_replies": 16
+        },
+        "923951222243049472": {
+            "id": "923951222243049472",
+            "text": "http://bit.ly/ETHWaterloo\u00a0 -- Check out the highlights from @ETHWaterloo here!!",
+            "username": "Truebitprotocol",
+            "num_likes": 55,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "923197982924771331": {
+            "id": "923197982924771331",
+            "text": "A web3 alternative by @ricmoo! https://medium.com/@l4v/announcing-ethers-js-a-web3-alternative-6f134fdd06f3\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "922511870015221767": {
+            "id": "922511870015221767",
+            "text": "Most of the @L4ventures team together at last in our first group photo @VitalikButerin @technocrypto @0xstark @ricmoo @ChiefApricotpic.twitter.com/jNp1AW22LM",
+            "username": "ethanwilding",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "921111262573953024": {
+            "id": "921111262573953024",
+            "text": "Several big announcements by L4 @L4ventures at the Toronto Ethereum Developers meetup this Tuesday. Stay tuned.https://www.meetup.com/Ethereum-Developers/events/243985686/\u00a0\u2026",
+            "username": "ethanwilding",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "919687152199487488": {
+            "id": "919687152199487488",
+            "text": "\"Forget people for a while. Let's just talk about blockchains\" - @technocrypto",
+            "username": "VitalikButerin",
+            "num_likes": 1080,
+            "num_retweets": 258,
+            "num_replies": 46
+        },
+        "919059278975119360": {
+            "id": "919059278975119360",
+            "text": "@L4ventures #ethwaterloopic.twitter.com/dnXkAbGIkI",
+            "username": "ETHGlobal",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "919222750149038080": {
+            "id": "919222750149038080",
+            "text": "We\u2019re doing something new with our partners at @blockgeekslab. Check out @L4ventures for more!pic.twitter.com/Iyfl3tPP9V",
+            "username": "weareledger",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "919211237489172480": {
+            "id": "919211237489172480",
+            "text": "What do you get when you combine @blockgeekslab + Ledger Labs @weareledger = @L4ventures ! Exciting things to come.pic.twitter.com/dAvZZjcdVh",
+            "username": "blockgeekslab",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1006543147290292224": {
+            "id": "1006543147290292224",
+            "text": "Our paper \"Counterfactual: Generalized State Channels\" is now available - follow @statechannels for future updateshttps://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 69,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1067837273410961409": {
+            "id": "1067837273410961409",
+            "text": "If you're in Montreal, come see @liamihorne talk about @statechannels - tonight at 6PMhttps://www.meetup.com/Ethereum-Blockchain-Montreal/events/255996519/\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1058310094272843776": {
+            "id": "1058310094272843776",
+            "text": "LIVE edition of plasma implementers call getting started at #DevconIV, featuring @lixuanji from @L4venturespic.twitter.com/NEA2eJgmTu",
+            "username": "L4ventures",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1026503893012951042": {
+            "id": "1026503893012951042",
+            "text": "excited to collaborate with @CelerNetwork on making state channels easy to use in distributed applicationshttps://medium.com/l4-media/l4-and-celer-better-state-channels-through-collaboration-ea1cb153b413\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 57,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1019568665522507776": {
+            "id": "1019568665522507776",
+            "text": "Come join us on Tuesday July 31 at @RyersonU for a meetup all about @statechannels and other layer 2 scaling technologieshttps://www.meetup.com/Ethereum-Developers/events/252571512/\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 16,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1006543528753811456": {
+            "id": "1006543528753811456",
+            "text": "https://twitter.com/statechannels/status/1006536423086977024\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "997483975621906432": {
+            "id": "997483975621906432",
+            "text": "\"Cryptoeconomics is the practical science of using economic mechanisms to build distributed systems, where important properties of that system are guaranteed by financial incentives, and the economic mechanisms are guaranteed by cryptography\" by @0xstarkhttps://youtu.be/ljL3fXcdadc\u00a0",
+            "username": "L4ventures",
+            "num_likes": 31,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "992101385540915202": {
+            "id": "992101385540915202",
+            "text": "Jeff Coleman (@technocrypto) presenting on unnecessary rent-seeking in existing token models at #EDCONTorontopic.twitter.com/8Vajy2WPnF",
+            "username": "L4ventures",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "991680078676414464": {
+            "id": "991680078676414464",
+            "text": "huge thanks to @lightcoin, @lrettig, @thegrifft, @heather_claire and everyone else who worked to make this event happen.",
+            "username": "L4ventures",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991679734261211137": {
+            "id": "991679734261211137",
+            "text": "There\u2019s an AMA starting at 10AM EST, and we\u2019ll be streaming throughout the day https://www.youtube.com/c/Givethio/live\u00a0",
+            "username": "L4ventures",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "991679279103651840": {
+            "id": "991679279103651840",
+            "text": "Also on Day 1, @hudsonjameson and @nicksdjohnson gave a summary of how the EIP process works, helpfully diagrammed by @danfinlay here:https://twitter.com/danfinlay/status/991521043939504129\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "991679041571827713": {
+            "id": "991679041571827713",
+            "text": "Day 1 saw conversations about how to learn from non-blockchain governance, the current EIP process and role of editors, how to define the community, how to measure community sentiment, and much more",
+            "username": "L4ventures",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "991678879982063616": {
+            "id": "991678879982063616",
+            "text": "Over the last 24 hours we\u2019ve been lucky to host EIP0, a governance meetup aimed at better understanding the challenges and risks in ethereum governance",
+            "username": "L4ventures",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "971444389263429632": {
+            "id": "971444389263429632",
+            "text": "by the way - we're hiring:https://jobs.lever.co/l4v\u00a0",
+            "username": "L4ventures",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971444048304238604": {
+            "id": "971444048304238604",
+            "text": "We're proud to be receiving support from the @ethereumproject foundation for our work on Counterfactual, a framework for generalized state channels https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 52,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "971064342182375424": {
+            "id": "971064342182375424",
+            "text": "In Barcelona for #ScalingNow, @liamihorne presenting on Counterfactual, our framework for generalized state channelspic.twitter.com/7VjFQDB9nL",
+            "username": "L4ventures",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "964963259488104448": {
+            "id": "964963259488104448",
+            "text": "Announcing the @stablefund - $45 million partnership with @MakerDAO to support the use of Dai and the Maker ecosystemhttps://medium.com/@stablefund/introducing-the-stable-fund-45-million-for-the-makerdao-ecosystem-def79afc4b2a\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 58,
+            "num_retweets": 13,
+            "num_replies": 4
+        },
+        "957996031463120896": {
+            "id": "957996031463120896",
+            "text": "https://twitter.com/globeandmail/status/957967862748057600\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "953041925241757697": {
+            "id": "953041925241757697",
+            "text": "\u201c[2018] will be the year where all of the ideas around scalability, Plasma, proof-of-stake, and privacy that we have painstakingly worked on and refined over the last four years are finally going to turn into real, live working code\u201chttps://techcrunch.com/2018/01/15/vitalik-buterin-fenbushi-capital-exit/\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 87,
+            "num_retweets": 34,
+            "num_replies": 1
+        },
+        "936637787360710662": {
+            "id": "936637787360710662",
+            "text": "Great innovation from our friends at @Truebitprotocol :)https://medium.com/truebit/announcing-the-steak-network-c3d44290d53d\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "928375043838550016": {
+            "id": "928375043838550016",
+            "text": "\"Jeff Coleman and Liam Horne are working on a generalized state channels project called Counterfactual. This is an important layer of infrastructure and arguably as vital as anything announced during DevCon talks.\" #ethereumhttp://www.weekinethereum.com/post/167279242888/november-8-2017\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 105,
+            "num_retweets": 45,
+            "num_replies": 6
+        },
+        "926187233912246274": {
+            "id": "926187233912246274",
+            "text": "Panel on the Underhanded Solidity Coding Contest w/ @nicksdjohnson Martin Swende, Joao Gabriel Carvalho, and L4\u2019s own @ricmoopic.twitter.com/6UODX7rqlr",
+            "username": "L4ventures",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "925786249209802752": {
+            "id": "925786249209802752",
+            "text": ".@el33th4xor on how ethereums constructive, science-driven community is core to its value proposition #ethereum #devcon3pic.twitter.com/uydGmPzR7r",
+            "username": "L4ventures",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "925743021928402945": {
+            "id": "925743021928402945",
+            "text": "Audience applause for Ralph Merkle #devcon3 #ethereumpic.twitter.com/fmWx8P6tLf",
+            "username": "L4ventures",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "925737124367884289": {
+            "id": "925737124367884289",
+            "text": "Proud to be working with @liamihorne and @technocrypto to make generalized state channels a realityhttps://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44?source=linkShare-d2400e27a419-1509547895\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "922966044049858561": {
+            "id": "922966044049858561",
+            "text": "Richard Moore (@ricmoo) introducing and explaining ethers.js, a web3 alternative for #ethereumpic.twitter.com/XHPWI1q0c4",
+            "username": "L4ventures",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "922957093354835968": {
+            "id": "922957093354835968",
+            "text": "Great turnout at our first ethereum developer meetup in the new offices!pic.twitter.com/urEpHiv75A",
+            "username": "L4ventures",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "921397002918944774": {
+            "id": "921397002918944774",
+            "text": "We're accepting applications for Hackers in Residence - free office space, your own project, no strings attached: http://l4v.io/hackers/\u00a0pic.twitter.com/I9MfTB4hYB",
+            "username": "L4ventures",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "919959441960767489": {
+            "id": "919959441960767489",
+            "text": "https://www.reddit.com/r/ethereum/comments/76r1mm/announcing_l4_a_home_for_blockchain_startups_in/\u00a0\u2026",
+            "username": "L4ventures",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "919345600650530816": {
+            "id": "919345600650530816",
+            "text": "Richard Moore (@ricmoo) talking about using ENS in applications at #ethwaterloopic.twitter.com/TBIhoSlqGL",
+            "username": "L4ventures",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "913432831774400513": {
+            "id": "913432831774400513",
+            "text": "(25 + \u221a621) / 2 \u2248 24.9599357944",
+            "username": "L4ventures",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "statechannels": 8,
+        "MITBitcoinClub": 2,
+        "0xstark": 1,
+        "econoar": 1,
+        "yahgwai": 1,
+        "mark_dago": 1,
+        "paddykcl": 1,
+        "technocrypto": 3,
+        "panashemahachi": 6,
+        "ETHGlobal": 5,
+        "golemproject": 2,
+        "danfinlay": 1,
+        "ebryn": 1,
+        "liamihorne": 8,
+        "ethbuenosaires": 2,
+        "web3foundation": 1,
+        "ricmoo": 2,
+        "adrian_brink": 1,
+        "ethanwilding": 6,
+        "Truebitprotocol": 2,
+        "KevGCallahan": 1,
+        "VitalikButerin": 3,
+        "CryptoKitties": 1,
+        "ProjectOaken": 1,
+        "adamjlemmon": 1,
+        "weareledger": 1,
+        "blockgeekslab": 1
+    },
+    "users_retweeted": [
+        "statechannels",
+        "liamihorne",
+        "panashemahachi",
+        "ethanwilding",
+        "ETHGlobal",
+        "technocrypto",
+        "VitalikButerin",
+        "MITBitcoinClub",
+        "golemproject",
+        "ethbuenosaires",
+        "ricmoo",
+        "Truebitprotocol",
+        "0xstark",
+        "econoar",
+        "yahgwai",
+        "mark_dago",
+        "paddykcl",
+        "danfinlay",
+        "ebryn",
+        "web3foundation",
+        "adrian_brink",
+        "KevGCallahan",
+        "CryptoKitties",
+        "ProjectOaken",
+        "adamjlemmon",
+        "weareledger",
+        "blockgeekslab"
+    ]
+}

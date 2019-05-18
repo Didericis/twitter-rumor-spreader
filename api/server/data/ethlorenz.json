@@ -1,0 +1,1094 @@
+{
+    "is_complete": true,
+    "username": "ethlorenz",
+    "retweeted": {
+        "1118544900054761472": {
+            "id": "1118544900054761472",
+            "text": "https://etherscan.io/txs?a=0xf17f52151ebef6c7334fad080c5704d77216b732\u00a0\u2026pic.twitter.com/uBGhoZfvzm",
+            "username": "phildaian",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1116155236433956865": {
+            "id": "1116155236433956865",
+            "text": "Just published \"Flash Boys 2.0: Frontrunning, Transaction Reordering, and\nConsensus Instability in Decentralized Exchanges\" - https://arxiv.org/abs/1904.05234\u00a0\n\nKey takeaways and some pretty graphs below! ",
+            "username": "phildaian",
+            "num_likes": 462,
+            "num_retweets": 197,
+            "num_replies": 29
+        },
+        "1115726071364632576": {
+            "id": "1115726071364632576",
+            "text": "OS hackers: have you ever thought about how fork() is deeply peculiar? For HotOS, @jappavoo, @okrieg, Mothy Roscoe and I wrote a polemic about fork: its quirky history, the problems it causes today, and why after 50 years it may be time to deprecate it.https://www.microsoft.com/en-us/research/publication/a-fork-in-the-road/\u00a0\u2026",
+            "username": "0xabU",
+            "num_likes": 364,
+            "num_retweets": 130,
+            "num_replies": 40
+        },
+        "1112837656210227201": {
+            "id": "1112837656210227201",
+            "text": "Checkout https://libsubmarine.org/\u00a0 by @ethlorenz and co\n\nVery cool project!",
+            "username": "fubuloubu",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1100902243715420160": {
+            "id": "1100902243715420160",
+            "text": "Sometimes Proofs of Work take twenty years. https://en.wikipedia.org/wiki/Client_Puzzle_Protocol\u00a0\u2026pic.twitter.com/XwPWWnJ7Vp",
+            "username": "initc3org",
+            "num_likes": 45,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1097605046198517766": {
+            "id": "1097605046198517766",
+            "text": "So I\u2019m a little torn. Yesterday for fun (yes, I have bad work-life balance) I took a look at some of the @swisspost e-voting code that the agency recently provided under bug bounty. Apparently it\u2019s being used in real elections. 1/",
+            "username": "matthew_d_green",
+            "num_likes": 346,
+            "num_retweets": 179,
+            "num_replies": 9
+        },
+        "1096023293440806913": {
+            "id": "1096023293440806913",
+            "text": "If you've missed a talk and want to know what's going on at the @EPFL @ETH @initc3org Swiss #blockchain winter school, my (best effort) published notes are here: https://drive.google.com/open?id=1SpBlCjNsnxEi5-tJAftZ38FctTB8MVd7\u00a0\u2026\n\nAll talks except Dahlias should be covered (sorry!)",
+            "username": "relyt29",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1089956320806084608": {
+            "id": "1089956320806084608",
+            "text": "Learn about IC3's amazing LibSubmarine from this short video: https://www.youtube.com/watch?v=N8PDKoptmPs\u00a0\u2026 \u2026\nhttps://libsubmarine.org/\u00a0. Perhaps the only practical way for continuous-time DEXes to prevent bots from frontrunning users.",
+            "username": "initc3org",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1088880528302968832": {
+            "id": "1088880528302968832",
+            "text": "At first sight this sounds like a terrible idea, but in fact there's peer reviewed research on measuring the security-usability tradeoff in correcting password typos, and it turns out it makes a lot of sense to do this. https://www.cs.cornell.edu/~rahul/papers/pwtypos.pdf\u00a0\u2026\nScreenshot HT @amunchbachpic.twitter.com/iXCPvkKRyI",
+            "username": "random_walker",
+            "num_likes": 447,
+            "num_retweets": 209,
+            "num_replies": 16
+        },
+        "1087755288441208832": {
+            "id": "1087755288441208832",
+            "text": "New blog post out about the broken fee market used in cryptocurrencies today and how to fix it.\n\nWork done with David Easley, Maureen O\u2019Hara and @el33th4xorhttp://hackingdistributed.com/2019/01/22/doing-fees-right/\u00a0\u2026",
+            "username": "soumyab8",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1083732652488904704": {
+            "id": "1083732652488904704",
+            "text": "Now that Constantinople is around the corner seems like a good time to re-read this old article by @ethlorenz & @phildaian\nhttp://hackingdistributed.com/2017/08/28/submarine-sends/\u00a0\u2026\n\nand then take a look at https://libsubmarine.org\u00a0\n\nExciting times! ",
+            "username": "GNSPS",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1075304722515529728": {
+            "id": "1075304722515529728",
+            "text": "PSA: every time you \"update\" your rebuttal on HotCRP all the reviewers get an email with the new text. Thanks for the 40+ emails. @xexd would it make sense to send out rebuttals only once after the timeout?",
+            "username": "gannimo",
+            "num_likes": 28,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1066967905412268032": {
+            "id": "1066967905412268032",
+            "text": "The Swiss Blockchain Winter School is new open for registration - please join us!\nhttps://blockchainschool.epfl.ch\u00a0\nThe Winter School will be held in beautiful Interlaken during the week of February 10-15, and is organized jointly by EPFL, ETHZ, and IC3.\n@initc3org @EPFL_en @ETH_en",
+            "username": "brynosaurus",
+            "num_likes": 25,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "1066822783852789760": {
+            "id": "1066822783852789760",
+            "text": "How to start an NYC startup in 3 steps -\n\n1 - Pick any consumer good - bedsheets, lingerie, viagra, luggage etc\n\n2 - Spend all your VC $ on the best branding agency you can buy\n\n3 - Buy out Bedford Ave subway stop and target millennials with bold fonts and whitespace",
+            "username": "ankurnagpal",
+            "num_likes": 17676,
+            "num_retweets": 2102,
+            "num_replies": 182
+        },
+        "1066009668122755073": {
+            "id": "1066009668122755073",
+            "text": "Ok, here is what happen from my (definitely very incomplete) perspective:\nWhile there is a lot of focus on Ethereum 2.0, during the first days of Devcon a few people came together to discuss a few minor changes that could be made right now to improve Ethereum 1.0. (1/10)https://twitter.com/coindesk/status/1065953960807272450\u00a0\u2026",
+            "username": "koeppelmann",
+            "num_likes": 204,
+            "num_retweets": 65,
+            "num_replies": 9
+        },
+        "1065319272619130881": {
+            "id": "1065319272619130881",
+            "text": "Here's an ELI5 for the exchange vulnerability I Tweeted about last night, discovered by @levelk_io.\n\nBasically, when an exchange processes a withdrawal to an Ethereum address, that address might be a smart contract. That smart contract might have a default function that uses gas.",
+            "username": "phildaian",
+            "num_likes": 139,
+            "num_retweets": 56,
+            "num_replies": 2
+        },
+        "1062811718399807489": {
+            "id": "1062811718399807489",
+            "text": "#HashWar",
+            "username": "acityinohio",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1062059461613891584": {
+            "id": "1062059461613891584",
+            "text": "My Devcon4 talk video on smart contract security, blockchain dex HFT, on-chain voting attacks, and philosophical musings on complexity & systemic risk is out!  Had a lot of fun with it, hope you do too!https://slideslive.com/38911605/smart-contract-security-incentives-beyond-the-launch\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 238,
+            "num_retweets": 62,
+            "num_replies": 6
+        },
+        "1060210314304802818": {
+            "id": "1060210314304802818",
+            "text": "This is my favourite festive GDPR gag of Christmas 2018 so far.pic.twitter.com/2HheWIkviV",
+            "username": "charlietheking",
+            "num_likes": 40549,
+            "num_retweets": 15363,
+            "num_replies": 316
+        },
+        "1060211658969223168": {
+            "id": "1060211658969223168",
+            "text": "Guys if you really want to destroy democracy just put voting on a blockchain",
+            "username": "acityinohio",
+            "num_likes": 158,
+            "num_retweets": 20,
+            "num_replies": 12
+        },
+        "1060166147251810304": {
+            "id": "1060166147251810304",
+            "text": "An important report on voting security by the National Academies has a succinct section explaining why blockchains and voting don't mix. Worth a read, on page 103. https://people.csail.mit.edu/rivest/pubs/NASEM18.pdf\u00a0\u2026pic.twitter.com/vZrwimgxZ4",
+            "username": "random_walker",
+            "num_likes": 52,
+            "num_retweets": 27,
+            "num_replies": 9
+        },
+        "1059435094421712896": {
+            "id": "1059435094421712896",
+            "text": "Several SSDs with hardware encryption appear to be busted. But the really terrible thing is that Bitlocker apparently relies totally on the SSD encryption if you have it. https://www.ru.nl/publish/pages/909275/draft-paper_1.pdf\u00a0\u2026 via @ProfWoodwardpic.twitter.com/vZUXb6FprE",
+            "username": "matthew_d_green",
+            "num_likes": 2368,
+            "num_retweets": 1982,
+            "num_replies": 59
+        },
+        "1059529731668881408": {
+            "id": "1059529731668881408",
+            "text": "Also front running in L2 challenge games!https://twitter.com/ljxie/status/1058025385856847874\u00a0\u2026",
+            "username": "gakonst",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1058321577782185984": {
+            "id": "1058321577782185984",
+            "text": "The costumes brought the crowds!\u2066 Take a look at http://libsubmarine.org\u00a0 to learn how to prevent reordering attacks and reduce on chain signalling. By @ethlorenz\u2069 & \u2066@relyt29\u2069pic.twitter.com/sKYtgbIxYj",
+            "username": "thegostep",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1057990948523819014": {
+            "id": "1057990948523819014",
+            "text": "Those outfits lolpic.twitter.com/5ydWOmi7Tn",
+            "username": "paddykcl",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1058025385856847874": {
+            "id": "1058025385856847874",
+            "text": "Interesting work by the LibSubmarine team to temporarily hide transactions on Ethereum. This can be useful for things like preventing front running on decentralized exchanges, on chain voting, and sealed-bid auctions. No token or fees. https://libsubmarine.org/\u00a0pic.twitter.com/xzx8G2TEjE",
+            "username": "ljxie",
+            "num_likes": 62,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1058048992989323267": {
+            "id": "1058048992989323267",
+            "text": "The commitment-in-a-signature is one of the coolest hacks I've seen this year. Great work in the fight against front running!https://twitter.com/initc3org/status/1057978187701985280\u00a0\u2026",
+            "username": "streamOfCo",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1057978187701985280": {
+            "id": "1057978187701985280",
+            "text": "@ethlorenz and Tyler Kell presenting at DevCon now on Libsubmarine. Beat front-running! Check out https://libsubmarine.org/\u00a0!",
+            "username": "initc3org",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1057677076172599296": {
+            "id": "1057677076172599296",
+            "text": "What Bitcoin's White Paper Got Right, Wrong and What We Still Don't Know https://www.coindesk.com/what-bitcoins-white-paper-got-right-wrong-and-what-we-still-dont-know/\u00a0\u2026 via @CoinDesk",
+            "username": "josephbonneau",
+            "num_likes": 65,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "1055164672586977280": {
+            "id": "1055164672586977280",
+            "text": "IC3 will be at DevCon next week! Upcoming annoucements will tell you where you can see the IC3 team members present. Make sure you say hello to them and check out their talks! #devcon4",
+            "username": "initc3org",
+            "num_likes": 33,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1052507678348664832": {
+            "id": "1052507678348664832",
+            "text": "Now three of the four top security conferences (@IEEESSP, @USENIXSecurity and @acm_ccs) have adopted a rolling submission model - exciting times!https://twitter.com/paul_pearce/status/1052344878045298688\u00a0\u2026",
+            "username": "thorstenholz",
+            "num_likes": 38,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1046621651004264448": {
+            "id": "1046621651004264448",
+            "text": "It is now official that Kenny Patterson @kennyog will join @CSatETH as well as the Zurich Information Security and Privacy Center. \nWelcome Kenny!\nhttps://www.ethrat.ch/en/media/releases/appointments-sept18\u00a0\u2026 \nMore good news to come soon :-)",
+            "username": "SrdjanCapkun",
+            "num_likes": 67,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1045708597500563456": {
+            "id": "1045708597500563456",
+            "text": "We have released Securify on GitHub: https://github.com/eth-sri/securify\u00a0\u2026\n\nRelease notes: https://medium.com/chainsecurity/securify-is-now-on-github-d3bec281eafc\u00a0\u2026\n@ethereum @CSatETHhttps://twitter.com/chain_security/status/1045705023949348865\u00a0\u2026",
+            "username": "ptsankov",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1045000957678047232": {
+            "id": "1045000957678047232",
+            "text": "pic.twitter.com/acBBMTvPvI",
+            "username": "tehjh",
+            "num_likes": 362,
+            "num_retweets": 120,
+            "num_replies": 8
+        },
+        "1044947869936095232": {
+            "id": "1044947869936095232",
+            "text": "Rightfully tagging @musalbas  and @alberto_sonnino who were first and second authors of this awesome paper, may not be famous but imho require more of a tag than the last authorhttps://twitter.com/el33th4xor/status/1044936068095766529\u00a0\u2026",
+            "username": "Haaroony",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1040508964608389121": {
+            "id": "1040508964608389121",
+            "text": "What should be the result of this expression in Solidity: uint8(0) ** uint8(uint8(2) ** uint8(8))?",
+            "username": "ptsankov",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1039592541656633344": {
+            "id": "1039592541656633344",
+            "text": "The recursive centaur: half horse, half recursive centaurpic.twitter.com/fG6yToSmlf",
+            "username": "jplur_",
+            "num_likes": 32174,
+            "num_retweets": 7759,
+            "num_replies": 233
+        },
+        "1038889897300553728": {
+            "id": "1038889897300553728",
+            "text": "#ETHBerlin #Buidl @Mitch_Kosowski @ethlorenz @evan_van_ness @koholaapic.twitter.com/0zFNr4BCJv",
+            "username": "OKDunc",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1036416759056818177": {
+            "id": "1036416759056818177",
+            "text": "You are logged into an old server. The uptime is 788 days.\nThere are a lot of kernels here.\n\n>",
+            "username": "FiloSottile",
+            "num_likes": 1186,
+            "num_retweets": 249,
+            "num_replies": 105
+        },
+        "1034406316603654144": {
+            "id": "1034406316603654144",
+            "text": "\u201cLibSubmarine: Temporarily hide transactions on ethereum (cheaply!)\u201d by @thegostep, \u2066@relyt29\u2069 , \u2066@sbetamc\u2069 , and \u2066@ethlorenz\u2069https://hackernoon.com/libsubmarine-temporarily-hide-transactions-on-ethereum-cheaply-6910191f46f2?source=twitterShare-1aa2e52b3196-1535456579\u00a0\u2026",
+            "username": "thegostep",
+            "num_likes": 27,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1032435659665862657": {
+            "id": "1032435659665862657",
+            "text": "The longest running blockchain started in 1995 and is still running strong today. Current hash circled in red. Based on Stuart Haber and W. Scott Stornetta  https://link.springer.com/content/pdf/10.1007%2FBF00196791.pdf\u00a0\u2026pic.twitter.com/eGEhqFSl7U",
+            "username": "ittaia",
+            "num_likes": 534,
+            "num_retweets": 216,
+            "num_replies": 22
+        },
+        "1032033166800945159": {
+            "id": "1032033166800945159",
+            "text": "This is fun!  Write an on-chain arbitrage bot without the up-front capital requirements.\n\nI see first-slot gas auctions heating up soon!https://twitter.com/AriannaSimpson/status/1018992799373406208\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 25,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1031570237462851584": {
+            "id": "1031570237462851584",
+            "text": "Slides out from my USENIX talk on http://thehydra.io\u00a0!  Looking forward to the video, one of my favorite talks I've given in a while .\n\nhttps://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_daian.pdf\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1026856994030977025": {
+            "id": "1026856994030977025",
+            "text": "Next up in underfunded critical infrastructure: package managers.https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab\u00a0\u2026",
+            "username": "FiloSottile",
+            "num_likes": 443,
+            "num_retweets": 232,
+            "num_replies": 11
+        },
+        "1026602010991312897": {
+            "id": "1026602010991312897",
+            "text": "New on _Hacking, Distributed_, new IC3 solution to a key problem in Filecoin @MineFilecoin: \"One File for the Price of Three: Catching Cheating Servers in Decentralized Storage Networks\": http://hackingdistributed.com/2018/08/06/PIEs/\u00a0\u2026\n@EthanCecchetti @secparam @AriJuels",
+            "username": "initc3org",
+            "num_likes": 174,
+            "num_retweets": 61,
+            "num_replies": 2
+        },
+        "1022186712917856257": {
+            "id": "1022186712917856257",
+            "text": "Congratulations to Dr. Kosba for successfully defending his PhD dissertation!pic.twitter.com/wMpHoMTL6m",
+            "username": "ElaineRShi",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1022312391105757185": {
+            "id": "1022312391105757185",
+            "text": "Now available on your favorite Internet:\n\n\nInternet Law: Cases and Problems (8th ed. 2018)\n\nhttp://internetcasebook.com\u00a0",
+            "username": "grimmelm",
+            "num_likes": 128,
+            "num_retweets": 42,
+            "num_replies": 12
+        },
+        "1019327752032391168": {
+            "id": "1019327752032391168",
+            "text": "Filecoin and other DSNs need you to do a proof of replication (PoR) of files. It's simple to check if someone has a file. Proving there are actually 3 replicas and not just one compressed file pretending to be 3, is not. Especially if the attacker has ASICs. Thus the work on PIEs",
+            "username": "secparam",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1017778014841602048": {
+            "id": "1017778014841602048",
+            "text": "How Jens Groth fits in with the wider work in zero knowledge proofs. Two main points: 1) Reduce communication complexity when proving to Log(N) based on discrete log (BCCPG16) and 2) How to prove cryptographic languages using pairing based cryptography (Groth-Sahi06)pic.twitter.com/qcEygWW0Gf",
+            "username": "paddykcl",
+            "num_likes": 24,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1016659968194379776": {
+            "id": "1016659968194379776",
+            "text": "#IntegriKey: a new way to make sending messages safe, even in a #hostile environment! First product of its kind on the market: #WANTED academics and industrial partners for further development. @SrdjanCapkun http://www.syssec.ethz.ch/\u00a0 http://bit.ly/IntegriKey\u00a0pic.twitter.com/HjwZLfipYb",
+            "username": "CSatETH",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1014699423266373632": {
+            "id": "1014699423266373632",
+            "text": "Please retweet. What is a nonfiction book that I *must* read? Trying to pad out my library hold list.",
+            "username": "tmagrino",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1013875840889884674": {
+            "id": "1013875840889884674",
+            "text": "Just published: \"On-Chain Vote Buying and the Rise of Dark DAOs\"\n... on new mechanisms for influencing coin voting, on-chain governance, and blockchain security.http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 325,
+            "num_retweets": 128,
+            "num_replies": 21
+        },
+        "1012416851089879040": {
+            "id": "1012416851089879040",
+            "text": "EDCON Interview Series Unrolled Ep. 8 of 27: Enter the Hydra - Cryptoeconomic Smart Contract Security on #Ethereum with Hydra Project's (https://thehydra.io/\u00a0) @phildaian https://youtu.be/ck4axKVG5jo\u00a0pic.twitter.com/XXHLSqi8jp",
+            "username": "chjango",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1011590575039053824": {
+            "id": "1011590575039053824",
+            "text": "The Financial Crypto conference, in what appears to be an elaborate and rather bizarre spoof of conferences that extend the submission deadline, has announced that the deadline will be quasi-randomly determined by the block hashes of the Bitcoin blockchain http://fc19.ifca.ai/cfp.html\u00a0pic.twitter.com/ZksUxb8L6C",
+            "username": "random_walker",
+            "num_likes": 115,
+            "num_retweets": 45,
+            "num_replies": 5
+        },
+        "1010272692304523264": {
+            "id": "1010272692304523264",
+            "text": "Alright folks! This is how we spend a Friday night!\n\n @NationalSawdust in New York for #ETH2NY to discuss Blockchain, IoT & more \n\nwith @arupforesight @christinayiotis @bossardt @ethlorenz @dguido @Holland_Knight @raffaelmarty @OpenSystemsAG http://eth2nyc.org\u00a0pic.twitter.com/v6gK5IH0IF",
+            "username": "dobrygowski",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1006882449450782721": {
+            "id": "1006882449450782721",
+            "text": "The most successful people I know:\n\n1) Recognize the thin veneer of reality masking the deep Unknown\n2) Siphon the dreams of the unawakened\n3) Fill Themselves with the inconceivable Horror of the Old Ones\n4) \n5) Oh God they aren't people, they're Cthulhu, Ancient and Terrible",
+            "username": "acityinohio",
+            "num_likes": 419,
+            "num_retweets": 100,
+            "num_replies": 4
+        },
+        "991722106210549761": {
+            "id": "991722106210549761",
+            "text": "We\u2019re excited to announce the May 2018 cohort of @Ethereum Foundation grants! We funded 22 recipients for a total of $2.84M. Congratulations!!!https://blog.ethereum.org/2018/05/02/announcing-may-2018-cohort-ef-grants/\u00a0\u2026",
+            "username": "jon_choi_",
+            "num_likes": 246,
+            "num_retweets": 79,
+            "num_replies": 8
+        },
+        "983335912338853889": {
+            "id": "983335912338853889",
+            "text": "We\u2019ve finalized the speaker setup of the @EPFL Summer Research Institute 2018. Check it out!\n\nhttps://suri.epfl.ch/\u00a0pic.twitter.com/j9UgAcxio7",
+            "username": "Daeinar",
+            "num_likes": 43,
+            "num_retweets": 19,
+            "num_replies": 8
+        },
+        "980807974049517568": {
+            "id": "980807974049517568",
+            "text": "In which I argue against anti-ASIC forks (eg on Ethereum and Monero): https://pdaian.com/blog/anti-asic-forks-considered-harmful/\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 49,
+            "num_retweets": 22,
+            "num_replies": 11
+        },
+        "981261256375095296": {
+            "id": "981261256375095296",
+            "text": "It's @Spotify's big day! The company is going public and @NYSE intended to pay homage to the company's Swedish roots, but flew our flag instead  It only took 15 minutes to fix this mistake, but no worries our Nordic friends are humble and we are neutral, so no tiff will ensuepic.twitter.com/9k8wAtYVBQ",
+            "username": "SwissCGNY",
+            "num_likes": 7346,
+            "num_retweets": 2601,
+            "num_replies": 83
+        },
+        "976885038108368897": {
+            "id": "976885038108368897",
+            "text": "No surprise to see exciting tech @CV_Labs by @ethlorenz and @SinisaMatetic. Sure they learned a lot @cornell_tech @el33th4xor @AriJuels. Proud to be a @CornellAlumnipic.twitter.com/4xXNbC2wMj",
+            "username": "RRKUBLI",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "977316522988396545": {
+            "id": "977316522988396545",
+            "text": "... and Yan Ji and Phil Daian @phildaian from IC3 @initc3org!https://twitter.com/icebearhww/status/976404249008459776\u00a0\u2026",
+            "username": "initc3org",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 4
+        },
+        "977168280904347648": {
+            "id": "977168280904347648",
+            "text": "0/ No one likes talking about rent, but we need to have this conversation. The fact that time-value of storage is not accounted for in the current Ethereum protocol is a massive problem we need to address.",
+            "username": "raulitojordan",
+            "num_likes": 113,
+            "num_retweets": 29,
+            "num_replies": 11
+        },
+        "974464530477735937": {
+            "id": "974464530477735937",
+            "text": "Who get's the ETH balance?\n\ncontract A {\n  address alice = 0x14723a09acff6d2a60dcdf7aa4aff308fddc160c;\n  address bob = 0x4b0897b0513fdc7c541b6d9d7e929c4e5364d2db;\n  \n  function foo() public { \n    selfdestruct(alice);\n    selfdestruct(bob);\n  }\n\n  function () public payable{}\n}",
+            "username": "maurelian_",
+            "num_likes": 21,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "973686736466440193": {
+            "id": "973686736466440193",
+            "text": "We're hiring in NYC!  Help work on cool, cutting-edge blockchain infrastructure projects that don't have to be profit driven.\n\nhttps://cornell.wd1.myworkdayjobs.com/en-US/CornellCareerPage/job/New-York-City-Cornell-Tech/Research-Engineer_WDR-00013499-1\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "973302359236513798": {
+            "id": "973302359236513798",
+            "text": "Florian Tram\u00e8r will be there talking about http://GasToken.io\u00a0 and broader cryptoeconomic lessons we've learned in the Ethereum jungle; please join him, it's going to be an incredible talk!https://twitter.com/MITBitcoinClub/status/973296921157783553\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "973064778217226240": {
+            "id": "973064778217226240",
+            "text": "One of the weirder tokens that seems to actually make sense, is fully decentralized and doesn't have an #ICO\nhttps://gastoken.io\u00a0\nWarning: requires some understanding of #Ethereum and primary school maths!\nThank you @ProjectChicago_",
+            "username": "validitylabs",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "972175412230049792": {
+            "id": "972175412230049792",
+            "text": "Today we released Echidna, our next generation EVM smart fuzzer at #EthCC. It's the first-ever fuzzer to target smart contracts! https://blog.trailofbits.com/2018/03/09/echidna-a-smart-fuzzer-for-ethereum/\u00a0\u2026pic.twitter.com/t3BZGeKXn9",
+            "username": "trailofbits",
+            "num_likes": 265,
+            "num_retweets": 152,
+            "num_replies": 6
+        },
+        "972011106758619142": {
+            "id": "972011106758619142",
+            "text": "Pretty cool idea for lowering gas costs using gas refunds on storage and contract deletionhttps://twitter.com/phildaian/status/971781982849064960\u00a0\u2026",
+            "username": "owenarden",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "971811605754318854": {
+            "id": "971811605754318854",
+            "text": "Announcing http://www.gastoken.io\u00a0 - part of Project Chicago!\n\nStay tuned for more details and fun facts.  And catch author Florian Tramer's talk at http://mitbitcoinexpo.org/\u00a0 soon!https://twitter.com/initc3org/status/971494099860770816\u00a0\u2026",
+            "username": "ProjectChicago_",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "972134669767585795": {
+            "id": "972134669767585795",
+            "text": "I love http://gastoken.io\u00a0 and hope it succeeds. It forces us to fix the platform.https://twitter.com/nicksdjohnson/status/972016478441656320\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 71,
+            "num_retweets": 17,
+            "num_replies": 6
+        },
+        "972082620648558594": {
+            "id": "972082620648558594",
+            "text": "http://Gastoken.io\u00a0 is an important contribution to a wider discussion around fee mechanisms. While revealing flaws it might contribute to more elastic demand for transactions which might lead to more predictable gas prices.",
+            "username": "koeppelmann",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "972079932665925633": {
+            "id": "972079932665925633",
+            "text": "Demonstrating how easy it is to use this style of contract - will hopefully make the community consider changing the mechanism. I love this type of work too - a mechanism to incentivise cleaning up the state - actually incentivises people to store junk! mechanism design is hard",
+            "username": "paddykcl",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "971900447207411712": {
+            "id": "971900447207411712",
+            "text": "Ari Juels presenting at Cambridge Blockchain tonight at MITpic.twitter.com/ZwKsZoP2MV",
+            "username": "ahcastor",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "971890242776129539": {
+            "id": "971890242776129539",
+            "text": "This is a project from @initc3org that allows people to buy gas when it's cheap, and to use it later (e.g. buying into ICOs) when it's more expensive.https://twitter.com/phildaian/status/971781982849064960\u00a0\u2026",
+            "username": "el33th4xor",
+            "num_likes": 48,
+            "num_retweets": 10,
+            "num_replies": 7
+        },
+        "971832225816858624": {
+            "id": "971832225816858624",
+            "text": "Congrats to @initc3org et al on this cool project! I think it strengthens the case that storage costs should be independent of gas prices (see also @SDLerner comment to the same effect)https://twitter.com/phildaian/status/971781982849064960\u00a0\u2026",
+            "username": "ArthurB",
+            "num_likes": 63,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "971840366776324097": {
+            "id": "971840366776324097",
+            "text": "Fantastic hack by IC3 crew. In a monetary system, any economic deficiency can be exploited for arbitrage. Allows you to store junk when it\u2019s cheap, just to get a refund later and save on transaction costs.https://twitter.com/phildaian/status/971781982849064960\u00a0\u2026",
+            "username": "avsa",
+            "num_likes": 48,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "970977060134023168": {
+            "id": "970977060134023168",
+            "text": "As one of the security researchers, I urge to update now. This article doesn't make it clear enough how dangerous this issue can be.\n\nPotential issues include compromised recovery seed generation or private key extraction.https://twitter.com/LedgerHQ/status/970975950333759489\u00a0\u2026",
+            "username": "saleemrash1d",
+            "num_likes": 404,
+            "num_retweets": 293,
+            "num_replies": 40
+        },
+        "963157787437133825": {
+            "id": "963157787437133825",
+            "text": "Just released a new version of The Hydra for Decentralized Security Bounties & Cryptoeconomic Contract Security paper: https://eprint.iacr.org/2017/1090.pdf\u00a0\n\nNow with experimental results & implementation (Section 6)!",
+            "username": "phildaian",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1106230340492951552": {
+            "id": "1106230340492951552",
+            "text": "My #EthCC talk about LibSubmarine, an open-source smart contract library that defends against front-running on Ethereum, is now available on YouTube:https://www.youtube.com/watch?v=ZGDL8aHHAow\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1118620852394835968": {
+            "id": "1118620852394835968",
+            "text": "Great argument/thread between @tqbf and @matthew_d_green. (Warning: it's loong)https://twitter.com/tqbf/status/1117929651274489857\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1112732562416455683": {
+            "id": "1112732562416455683",
+            "text": "My favorite April fool's joke so far. Spawned a lively 20 minute discussion with a few colleagues. https://twitter.com/VitalikButerin/status/1112580682885165057\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1106230342095196161": {
+            "id": "1106230342095196161",
+            "text": "This project wouldn't be possible without my awesome collaborators from @initc3org and elsewhere: @phildaian , Florian Tram\u00e8r, @AriJuels, @relyt29, @thegostep",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105469930084941825": {
+            "id": "1105469930084941825",
+            "text": "Cryptographic researchers discovered a flaw in the Swiss Post evoting system. From a public perception perspective, this doesn't look good for the Swiss Post.https://twitter.com/SarahJamieLewis/status/1105378257317191680\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1103199782095470592": {
+            "id": "1103199782095470592",
+            "text": "Neat gas-golfing with the new CREATE2 opcodehttps://twitter.com/z0age/status/1102959945396506624\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1098193190295867392": {
+            "id": "1098193190295867392",
+            "text": "+ @GCPcloud",
+            "username": "ethlorenz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1085860526926647296": {
+            "id": "1085860526926647296",
+            "text": "Regarding option 2, I would actually argue that we should be MORE CONSERVATIVE and require that at least 5000 gas be available (instead of 2300), to prevent reentrancies not just in transfer()/send(), but also in hypothetical code like  `call.gas(4999)()`.",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085549793252986882": {
+            "id": "1085549793252986882",
+            "text": "My two favorite proposals for fixing EIP-1283 so far (both don't modify the semantics of existing contracts):\n1. Don't modify SSTORE at all. Make a new opcode SSTORE2 that implements EIP-1283 gas metering.\n2. Any SSTORE with less than 2300 gas available causes revert.",
+            "username": "ethlorenz",
+            "num_likes": 34,
+            "num_retweets": 5,
+            "num_replies": 9
+        },
+        "1067744520408899584": {
+            "id": "1067744520408899584",
+            "text": "I just donated to @internetarchive. Support free access to knowledge!https://archive.org/donate?donated=1\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1067128860163141632": {
+            "id": "1067128860163141632",
+            "text": "1. Ask inactive maintainer of popular NPM package to transfer ownership to you. \n2. Replace package with malicious version containing obfuscated code stealing cryptocurrency\n3. PROFIThttps://github.com/dominictarr/event-stream/issues/116\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1065321344391368704": {
+            "id": "1065321344391368704",
+            "text": "Public disclosure for the exchange vulnerability I tweeted about last week. Nice work by @levelk_io https://twitter.com/levelk_io/status/1065310068718088192\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1062729519205941248": {
+            "id": "1062729519205941248",
+            "text": "\"Amazon Coretto\" is my favorite product-name pun in a while.https://twitter.com/AWSOpen/status/1062639394262315010\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1062650488313782272": {
+            "id": "1062650488313782272",
+            "text": "abi.decode has landed https://twitter.com/alexberegszaszi/status/1062435516103225345\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060945444380033024": {
+            "id": "1060945444380033024",
+            "text": "The @levelk_io folks contacted several of us at @initc3org about this vulnerability. It's legit, sign up to the list if you're running an exchange or other system transferring funds to users.\nhttps://twitter.com/levelk_io/status/1060936542028480513\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 41,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1060556813979009025": {
+            "id": "1060556813979009025",
+            "text": "https://www.sec.gov/news/press-release/2018-258\u00a0\u2026\n\n\u201c[The Etherdelta founder] consented to the order and agreed to pay $300,000 in disgorgement plus $13,000 in prejudgment interest and a $75,000 penalty.\u201d",
+            "username": "ethlorenz",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1060485683247284224": {
+            "id": "1060485683247284224",
+            "text": "Rinkeby Faucet \u2192 0xFc9920e35bBFC24b4806216E10769318204ddfB6",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052601847339466752": {
+            "id": "1052601847339466752",
+            "text": "IBM accidentally releases April 1st prank page half a year early. #cyberhttps://www.ibm.com/security/services/managed-security-services/xforce-command-cyber-tactical-operations-center\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1039151302062866437": {
+            "id": "1039151302062866437",
+            "text": "Gemini launches a USD-pegged stablecoin:https://medium.com/gemini/gemini-launches-the-gemini-dollar-62787f963fb4\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1037701885199826945": {
+            "id": "1037701885199826945",
+            "text": "List of lists of Ethereum security resources and tools:\n1. https://consensys.github.io/smart-contract-best-practices/security_tools/\u00a0\u2026\n2. https://github.com/trailofbits/awesome-ethereum-security\u00a0\u2026\n3. https://github.com/ethereum/wiki/wiki/Safety\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1037637169094041600": {
+            "id": "1037637169094041600",
+            "text": "I am in Berlin for @ETHBerlin and surrounding events until Monday. DM me if you want to meet/catch up!",
+            "username": "ethlorenz",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1037626577222295552": {
+            "id": "1037626577222295552",
+            "text": "https://github.com/trailofbits/slither\u00a0\u2026 @trailofbits just open sourced slither, their Solidity static analysis tool. Excited to try it out!",
+            "username": "ethlorenz",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1030458223617368065": {
+            "id": "1030458223617368065",
+            "text": "And the award for the best title goes to ....https://twitter.com/martinralbrecht/status/1030421344998105088\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1021438649110540289": {
+            "id": "1021438649110540289",
+            "text": "Verifying myself: I am ethlorenz on http://Keybase.io\u00a0. GeTJfDjUz1PygLhygjnjg8JHiCMFnYgUofU- / https://keybase.io/ethlorenz/sigs/GeTJfDjUz1PygLhygjnjg8JHiCMFnYgUofU-\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1020329456148406274": {
+            "id": "1020329456148406274",
+            "text": "I had a great time at the @initc3org Ethereum Bootcamp in Ithaca this past week. A big thanks to @paddyucl @hudsonjameson @suryabakshi @jimballingall for the smooth organization!",
+            "username": "ethlorenz",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1019224498854334464": {
+            "id": "1019224498854334464",
+            "text": "Cool, counterintuitive and fundamentally applicable work by the awesome @EthanCecchetti, @secparam, @AriJuels.https://twitter.com/iacr_news/status/1019221702859948032\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1011382474713255936": {
+            "id": "1011382474713255936",
+            "text": "@ETH_en",
+            "username": "ethlorenz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1011382228595675136": {
+            "id": "1011382228595675136",
+            "text": "A big thanks to the amazing team from Bloomberg's CTO office (@jvanegue, @realkpfleming, @petemartin, Ilona Murynets, Roger Jover) for taking time out of their busy schedules to mentor the winners of the @ETH New York Security Challenge for the past week. They had a blast!https://twitter.com/TechAtBloomberg/status/1010227438675210246\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "991713280510038016": {
+            "id": "991713280510038016",
+            "text": "Wohoo, our paper \"Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts\" was just accepted into @USENIXSecurity 2018.https://twitter.com/phildaian/status/991711548895834113\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 36,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "982291996155920385": {
+            "id": "982291996155920385",
+            "text": "Just deployed the GasToken contracts on the testnets.\nYou can now easily experiment with GasToken on Kovan, Rinkeby, and Ropsten.\n@ProjectChicago_https://github.com/projectchicago/gastoken#deployments\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "981520792453287936": {
+            "id": "981520792453287936",
+            "text": "for rinkeby faucet:\n0x470F1C3217A2F408769bca5AB8a5c67A9040664A",
+            "username": "ethlorenz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "980434276444459010": {
+            "id": "980434276444459010",
+            "text": "So glad I got in on the pre-pre! #HODL #PumpAndDumphttps://twitter.com/initc3org/status/980427756713467905\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "979406733671043075": {
+            "id": "979406733671043075",
+            "text": "Also, looks like these exchanges didn't sanity check that \neth.getBalance(exchAcc, b) - eth.getBalance(exchAcc, b-1) == deposits(b) - withdrawals(b) \n",
+            "username": "ethlorenz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "979406731729162240": {
+            "id": "979406731729162240",
+            "text": "Wondering about the relationship between these vulns. Anybody want to venture a guess?\nhttps://hackerone.com/reports/300748\u00a0\nhttp://www.coinroundup.com/white-hat-hacker-traces-vulnerabilities-in-8-top-rated-cryptocurrency-exchanges/\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "978706184877330432": {
+            "id": "978706184877330432",
+            "text": "Fresh paper on Sybil/Eclipse-Attack against geth's p2p layer by @ymarcus93 @Ethan_Heilman @goldbehttps://twitter.com/IACRePrint/status/978701282570579973\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "978668900123664385": {
+            "id": "978668900123664385",
+            "text": "#cryptohttps://twitter.com/tqbf/status/978633046651035648\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "978647112048095233": {
+            "id": "978647112048095233",
+            "text": "Monero is defending its position as the premier cryptojacking coin. \n\n</troll>https://www.coindesk.com/crypto-kill-switch-monero-going-war-big-miners/\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "977452699175268352": {
+            "id": "977452699175268352",
+            "text": "Photos of \u201cthe piles of debris left behind after the bubble bursts.\u201d\nhttps://www.theatlantic.com/photo/2018/03/bike-share-oversupply-in-china-huge-piles-of-abandoned-and-broken-bicycles/556268/\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "975997479064924160": {
+            "id": "975997479064924160",
+            "text": "Florian Tram\u00e8r's talk on http://Gastoken.io\u00a0 and Blockchain Resource Arbitrage  from MIT Bitcoin Expo 2018 is online:\nhttps://www.youtube.com/watch?v=ZmVzRmBVzWk&t=9394s\u00a0\u2026 #mitbitcoinexpo @phildaian @AriJuels @initc3org @ProjectChicago_",
+            "username": "ethlorenz",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "971797095698042881": {
+            "id": "971797095698042881",
+            "text": "We just launched http://GasToken.io\u00a0 (ERC-20 token for storing gas) on the Ethereum mainnet.\n@phildaian, +Florian Tram\u00e8r, @AriJuels.pic.twitter.com/fb975bdunk",
+            "username": "ethlorenz",
+            "num_likes": 14,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "971499398319558656": {
+            "id": "971499398319558656",
+            "text": "Very entertaining malware analysis of FinFisher peeling back 8 (!) layers of obfuscation, including two custom virtual machines. \nKudos to @aall86 and Elia Florio from @WDSecurity\nhttps://cloudblogs.microsoft.com/microsoftsecure/2018/03/01/finfisher-exposed-a-researchers-tale-of-defeating-traps-tricks-and-complex-virtual-machines/\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971496623594500097": {
+            "id": "971496623594500097",
+            "text": "Tick, tick, tick, ...https://twitter.com/phildaian/status/971494292425510913\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971495951377555461": {
+            "id": "971495951377555461",
+            "text": "Nice to see the Ethereum Foundation using their funds for improving the underlying tech: https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/\u00a0\u2026",
+            "username": "ethlorenz",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "phildaian": 11,
+        "0xabU": 1,
+        "fubuloubu": 1,
+        "initc3org": 6,
+        "matthew_d_green": 2,
+        "relyt29": 1,
+        "random_walker": 3,
+        "soumyab8": 1,
+        "GNSPS": 1,
+        "gannimo": 1,
+        "brynosaurus": 1,
+        "ankurnagpal": 1,
+        "koeppelmann": 2,
+        "acityinohio": 3,
+        "charlietheking": 1,
+        "gakonst": 1,
+        "thegostep": 2,
+        "paddykcl": 3,
+        "ljxie": 1,
+        "streamOfCo": 1,
+        "josephbonneau": 1,
+        "thorstenholz": 1,
+        "SrdjanCapkun": 1,
+        "ptsankov": 2,
+        "tehjh": 1,
+        "Haaroony": 1,
+        "jplur_": 1,
+        "OKDunc": 1,
+        "FiloSottile": 2,
+        "ittaia": 1,
+        "ElaineRShi": 1,
+        "grimmelm": 1,
+        "secparam": 1,
+        "CSatETH": 1,
+        "tmagrino": 1,
+        "chjango": 1,
+        "dobrygowski": 1,
+        "jon_choi_": 1,
+        "Daeinar": 1,
+        "SwissCGNY": 1,
+        "RRKUBLI": 1,
+        "raulitojordan": 1,
+        "maurelian_": 1,
+        "validitylabs": 1,
+        "trailofbits": 1,
+        "owenarden": 1,
+        "ProjectChicago_": 1,
+        "VladZamfir": 1,
+        "ahcastor": 1,
+        "el33th4xor": 1,
+        "ArthurB": 1,
+        "avsa": 1,
+        "saleemrash1d": 1
+    },
+    "users_retweeted": [
+        "phildaian",
+        "initc3org",
+        "random_walker",
+        "acityinohio",
+        "paddykcl",
+        "matthew_d_green",
+        "koeppelmann",
+        "thegostep",
+        "ptsankov",
+        "FiloSottile",
+        "0xabU",
+        "fubuloubu",
+        "relyt29",
+        "soumyab8",
+        "GNSPS",
+        "gannimo",
+        "brynosaurus",
+        "ankurnagpal",
+        "charlietheking",
+        "gakonst",
+        "ljxie",
+        "streamOfCo",
+        "josephbonneau",
+        "thorstenholz",
+        "SrdjanCapkun",
+        "tehjh",
+        "Haaroony",
+        "jplur_",
+        "OKDunc",
+        "ittaia",
+        "ElaineRShi",
+        "grimmelm",
+        "secparam",
+        "CSatETH",
+        "tmagrino",
+        "chjango",
+        "dobrygowski",
+        "jon_choi_",
+        "Daeinar",
+        "SwissCGNY",
+        "RRKUBLI",
+        "raulitojordan",
+        "maurelian_",
+        "validitylabs",
+        "trailofbits",
+        "owenarden",
+        "ProjectChicago_",
+        "VladZamfir",
+        "ahcastor",
+        "el33th4xor",
+        "ArthurB",
+        "avsa",
+        "saleemrash1d"
+    ]
+}

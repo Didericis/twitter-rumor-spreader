@@ -1,0 +1,2242 @@
+{
+    "is_complete": true,
+    "username": "rustwasm",
+    "retweeted": {
+        "1123946272442998786": {
+            "id": "1123946272442998786",
+            "text": "TIL: @parceljs supports bundling of @rustlang code out-of-the-box (automatically compiles your `import`-ed Rust code to WebAssembly w/@rustwasm) AND with that firing up a new Rust+Wasm project in @codesandbox takes mere seconds!\nhttps://parceljs.org/rust.html\u00a0\nhttps://twitter.com/NikkitaFTW/status/1123512865976127488\u00a0\u2026pic.twitter.com/F9PGDlGXMH",
+            "username": "slsoftworks",
+            "num_likes": 41,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1123323351940812800": {
+            "id": "1123323351940812800",
+            "text": "I wrote down a bunch of thoughts & experiences building sandspiel! \n\nhttps://maxbittker.com/making-sandspiel/\u00a0\u2026\n\ncovered some of the inspiration and goals behind the game, the architecture, my experience using rust+wasm, and some highlights from the communitypic.twitter.com/YYa0yJZj47",
+            "username": "MaxBittker",
+            "num_likes": 71,
+            "num_retweets": 30,
+            "num_replies": 4
+        },
+        "1121871699086123008": {
+            "id": "1121871699086123008",
+            "text": "If you're considering using WebAssembly, and you've not tried @rustwasm's wasm-bindgen, you should! Take a look at two versions of a simple function written in Rust and callable from JS: one version written with wasm-bindgen and the other hand-written. The difference is huge!pic.twitter.com/MmBFSwUb0V",
+            "username": "ryan_levick",
+            "num_likes": 119,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "1118130711108685826": {
+            "id": "1118130711108685826",
+            "text": "Last week I gave a talk about putting Rust+WASM in our electron application (Compass!) at MongoDB.local \n\nIf you wanted to check out the slides, they are here:https://slides.com/lrlna/document-analysis-with-rust-wasm\u00a0\u2026",
+            "username": "_lrlna",
+            "num_likes": 109,
+            "num_retweets": 24,
+            "num_replies": 4
+        },
+        "1115547833552314368": {
+            "id": "1115547833552314368",
+            "text": "We are happy to announce a very special guest and speaker for our \"Rust and Tell\" April event \n@linclark is going to talk about WASI, the system interface to run WebAssembly outside of the web!https://www.meetup.com/Rust-Berlin/events/szgnqqyzgbfc/\u00a0\u2026",
+            "username": "RustBerlin",
+            "num_likes": 92,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "1115655754931941378": {
+            "id": "1115655754931941378",
+            "text": "New fun weekend project: a ray tracing engine written from scratch in @rustlang that can also run in the browser thanks to @rustwasm and #webassembly.\nEngine source: https://github.com/alesgenova/ray-tracer\u00a0\u2026\nLive demo: https://alesgenova.github.io/ray-tracer-app/\u00a0pic.twitter.com/qGXjsBcDpD",
+            "username": "alesgeno",
+            "num_likes": 95,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1114574977041338369": {
+            "id": "1114574977041338369",
+            "text": "My \"flashback\" project has a web interface now, btw!\n\nIt downloads arbitrary URLs (using a CORS proxy) and runs \"flashback\" in WebAssembly:\nhttps://lykenware.github.io/flashback/#zombo.com/inrozxa.swf\u00a0\u2026\n\nI also have shorthands (homestuck & http://z0r.de\u00a0 rn):\nhttps://lykenware.github.io/flashback/#hs:13294\u00a0\u2026\nhttps://lykenware.github.io/flashback/#z0r:2140\u00a0\u2026",
+            "username": "eddyb_r",
+            "num_likes": 137,
+            "num_retweets": 29,
+            "num_replies": 9
+        },
+        "1113918537142288384": {
+            "id": "1113918537142288384",
+            "text": " wasm-pack 0.8.1 is out! \n fail whale! we accidentally broke wasm-pack on docker- but there's a fix in this release- along with a few small niceties for folks on non-rustup setups!\n\n thanks so much to @jhakansson_ for the fix + CHANGELOG entry!https://github.com/rustwasm/wasm-pack/releases/tag/v0.8.1\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 48,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1113407908526661633": {
+            "id": "1113407908526661633",
+            "text": "Here comes your reminder that the CFP for DevFest Toulouse is open and looking for more @rustlang or @rustwasm (and plenty of other stuff!)\nsubmissions from int'l speakers. Make sure to check out the perks for speakers:https://devfesttoulouse.fr/blog/cfp/\u00a0",
+            "username": "simach",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1113153870514061317": {
+            "id": "1113153870514061317",
+            "text": " wasm-pack 0.8.0 is out! \n\na couple of fixes and docs for non-rustup env users, and a new feature that lets you customize the names of generated files!\n\n thanks to ibaryshnikov, @alex_crichton, and @jhakansson_ who is now a co-maintainer!https://github.com/rustwasm/wasm-pack/releases/tag/v0.8.0\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 93,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1112747908640604163": {
+            "id": "1112747908640604163",
+            "text": "I also noticed that #rustlang support for the wasi target landed over the weekend, so I wrote a quick blog post this morning on how to write a wasi program using Rust. https://hermanradtke.com/2019/04/01/wasi-example-using-rust-and-lucet.html\u00a0\u2026\n\nThis uses the same \"lucet in 5 minutes\" strategy as my last post.",
+            "username": "hermanradtke",
+            "num_likes": 92,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "1111304165819584512": {
+            "id": "1111304165819584512",
+            "text": "yeehaa! \n\nwriting @rustwasm just got more awesome! happy to release this CLI for generating, building, previewing, and publishing @cloudflare Workers! \n\ncargo install wranglerhttps://twitter.com/Cloudflare/status/1111299645546758145\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 167,
+            "num_retweets": 48,
+            "num_replies": 1
+        },
+        "1110942685664346114": {
+            "id": "1110942685664346114",
+            "text": "And the PR to land WASI support in Rust Nightly is up! \n\nThis means it\u2019s ~1 week until you can target WASI with out-of-the-box Nightlyhttps://github.com/rust-lang/rust/pull/59464\u00a0\u2026",
+            "username": "linclark",
+            "num_likes": 100,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "1110920999061594113": {
+            "id": "1110920999061594113",
+            "text": "WebAssembly running outside the web has a huge future. And that future gets one giant leap closer today with...\n\n Announcing WASI: A system interface for running WebAssembly outside the web (and inside it too)https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/\u00a0\u2026",
+            "username": "linclark",
+            "num_likes": 2837,
+            "num_retweets": 1286,
+            "num_replies": 49
+        },
+        "1110586694565314560": {
+            "id": "1110586694565314560",
+            "text": "Successful stream today! We worked on @rustwasm's gloo project (https://github.com/rustwasm/gloo\u00a0), and we attempted to create a nicer more \"rustic\" API for the browser's FileApi. Recording is coming soon! Code can be found here: https://github.com/rylev/gloo/tree/files/crates/file\u00a0\u2026",
+            "username": "ryan_levick",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1109093256334397440": {
+            "id": "1109093256334397440",
+            "text": "hidden gem in the 0.2.40 release of @rustwasm's wasm-bindgen... `--no-modules` target will now *just work* on @Cloudflare workers! it will also work on applications that use frames and windows that want to share a single wasm resource!https://github.com/rustwasm/wasm-bindgen/blob/master/CHANGELOG.md#0240\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 34,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1108419430596382721": {
+            "id": "1108419430596382721",
+            "text": "Pssst. Did you know that Godbolt supports WebAssembly inspection, with mapping back to the original code just like with native assembly? https://rust.godbolt.org/z/PZqG56\u00a0 #rustlang #wasmpic.twitter.com/F9CLp8Aerh",
+            "username": "RReverser",
+            "num_likes": 130,
+            "num_retweets": 44,
+            "num_replies": 2
+        },
+        "1108393134365523968": {
+            "id": "1108393134365523968",
+            "text": "Ohhh I somehow missed this, but wasm-bindgen has JS snippets now.\n\nIt allows linking JavaScript in your Rust crate, and it will get properly embedded in the final JavaScript output, much like a `js!` / `EM_ASM` macro in other solutions.\n\nhttps://rustwasm.github.io/docs/wasm-bindgen/reference/js-snippets.html\u00a0\u2026",
+            "username": "RReverser",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1107662063168614400": {
+            "id": "1107662063168614400",
+            "text": "@rustwasm I created a real time pitch detector to experiment with @rustlang and #webassembly. It was a fun and surprisingly smooth experience!\nLive demo: https://alesgenova.github.io/pitch-detection-app/\u00a0\u2026\nLibrary source: https://github.com/alesgenova/pitch-detection\u00a0\u2026pic.twitter.com/WAnx1Q3YQP",
+            "username": "alesgeno",
+            "num_likes": 65,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1107648125177602048": {
+            "id": "1107648125177602048",
+            "text": " wasm-pack 0.7.0 is out!\n\nthanks so much to our collaborators @jhakansson_ @alex_crichton @chinedufn @linda_pp jscheffner @fitzgen @mstallmo huangjj27 @DebugSteven @DasSurma @killercup ! \n\nhead to https://rustwasm.github.io/wasm-pack/installer/\u00a0\u2026 to update now!https://github.com/rustwasm/wasm-pack/releases/tag/v0.7.0\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 72,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1106238920046444545": {
+            "id": "1106238920046444545",
+            "text": "Excited to share something I've been working on: a fast, bump-allocated virtual dom library built with Rust and Wasm :)https://hacks.mozilla.org/2019/03/fast-bump-allocated-virtual-doms-with-rust-and-wasm/\u00a0\u2026",
+            "username": "fitzgen",
+            "num_likes": 419,
+            "num_retweets": 123,
+            "num_replies": 10
+        },
+        "1105230957395640320": {
+            "id": "1105230957395640320",
+            "text": "oh hey this blogpost is all about my @qconlondon talk!https://twitter.com/TechRepublic/status/1105213211878608897\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 29,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1104670067701104640": {
+            "id": "1104670067701104640",
+            "text": "\u3053\u308c\u3092\u3084\u3063\u305f\u3060\u3051\nhttps://rustwasm.github.io/docs/book/\u00a0pic.twitter.com/26I7EKhJ3R",
+            "username": "MikuroXina",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1103467106023047169": {
+            "id": "1103467106023047169",
+            "text": "Spent today learning #rustlang Rust and porting the plasma effect I wrote about from Go #GoLang. The #WebAssembly experience is amazing and it generates a 67 kilobyte #WASM file compared to 2 megabytes in Go. I enjoy both languages but Rust is definitely on point for WASM work.",
+            "username": "jeremylikness",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1103553650008444929": {
+            "id": "1103553650008444929",
+            "text": "\u0627\u06af\u0631 \u0645\u06cc \u062e\u0648\u0627\u0647\u06cc\u062f \u0627\u0632 \u0627\u062e\u0628\u0627\u0631 \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u062a\u0648\u0633\u0639\u0647\u200c\u06cc WebAssembly \u062f\u0631 \u0632\u0628\u0627\u0646 Rust \u0645\u0637\u0644\u0639 \u0634\u0648\u06cc\u062f\u060c \u0645\u06cc \u062a\u0648\u0627\u0646\u06cc\u062f \u0648\u0628\u0644\u0627\u06af \u0632\u06cc\u0631 \u0631\u0627 \u062f\u0646\u0628\u0627\u0644 \u0646\u0645\u0627\u06cc\u06cc\u062f:\n\nhttps://rustwasm.github.io/\u00a0\n#rustlang #rustlangfa",
+            "username": "rustlangfa",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1102891550487572480": {
+            "id": "1102891550487572480",
+            "text": "today\u2018s the day! come see me chat at #webassembly in 30min on the 4th floor, @qconlondon - i brought @rustlang @rustwasm and @mozilla stickers https://twitter.com/ag_dubs/status/1101906807318966277?s=21\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 42,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1101257262285369353": {
+            "id": "1101257262285369353",
+            "text": "Hey Rust and WebAssembly fans! I created a tween animation library in Rust called Tweek. Check it out here: https://medium.com/@hughlang/introducing-tweek-a-tween-animation-kit-for-rust-7d6f1ce7503d\u00a0\u2026  \u2013\u2013 And on Github:https://github.com/wasm-network/tweek-rust\u00a0\u2026",
+            "username": "hughlang",
+            "num_likes": 32,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1100499645401366535": {
+            "id": "1100499645401366535",
+            "text": "Here's some snow using @rustlang and WebAssembly (@rustwasm)! Thank you @aerotwist for the wonderful tutorial! \nCode --> https://github.com/renjithgr/wasm-make-some-snow\u00a0\u2026 \nDemo --> https://zen-liskov-772f98.netlify.com/\u00a0\n#wasm #webassembly #rust",
+            "username": "HelloRenj",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1098418821591957504": {
+            "id": "1098418821591957504",
+            "text": "Deserializing and rendering a PSD in the browser (after a bunch of bug fixes)!\n\nFinal color looks off - but that should come down to looking through the bits of the spec that I left as TODOs and implementing some of them.\n\nNext up adding controls to toggle layers on/off !pic.twitter.com/Suv4hAi3gg",
+            "username": "chinedufn",
+            "num_likes": 56,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "1097941877884473344": {
+            "id": "1097941877884473344",
+            "text": "A while back @johanneshoff and I implemented the \"Polygons in Contact\" method for generating Islamic stars on the GPU with Rust and glium.\n\nAnd then we compiled it to Wasm and Web GL ;)\n\nWeb demo: https://johanneshoff.com/geotoy/\u00a0\nSource: https://github.com/fitzgen/geotoy\u00a0pic.twitter.com/7sGcfGlbvd",
+            "username": "fitzgen",
+            "num_likes": 33,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1096254088834998274": {
+            "id": "1096254088834998274",
+            "text": "twiggy is a code size profiler. https://rustwasm.github.io/twiggy/\u00a0",
+            "username": "chikoski",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1096389338211016705": {
+            "id": "1096389338211016705",
+            "text": "I am so impressed with @rustlang support for #WebAssembly using the wasm-bindgen tools! Just finished implementing a #WebGL backend to my toy renderer in addition to #OpenGL. This makes it possible to build the same application to both desktop and web!\n\n@rustwasm #rustwasmpic.twitter.com/hhOMXUFphv",
+            "username": "AsgerNyman",
+            "num_likes": 407,
+            "num_retweets": 99,
+            "num_replies": 9
+        },
+        "1094194636778803202": {
+            "id": "1094194636778803202",
+            "text": "My list of good Rust learning material:\n- Niko's into_rust(probably first thing to practice along): http://intorust.com/\u00a0\n- Rust by Example: https://doc.rust-lang.org/rust-by-example/\u00a0\u2026\n- Rust and WebAssembly: https://rustwasm.github.io/book/\u00a0\n- Embedded Rust: https://rust-embedded.github.io/book/\u00a0\nhttps://rust-lang-nursery.github.io/rust-cookbook/\u00a0",
+            "username": "lilian_moraru",
+            "num_likes": 38,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1090240824883978240": {
+            "id": "1090240824883978240",
+            "text": "I am trying to put together some information about how people are setting up their projects when using wasm-pack. \n\nIf you were unable to use create-wasm-pack template, I'd love to see what you had to do (if anything) with your setup. \nIssue setup here:https://github.com/rustwasm/wasm-pack/issues/533\u00a0\u2026",
+            "username": "_lrlna",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1088611686699933697": {
+            "id": "1088611686699933697",
+            "text": "if you want to learn more about the @rustwasm stuff i spoke about, check out http://bit.ly/hello-wasm-bindgen\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1086964620630417408": {
+            "id": "1086964620630417408",
+            "text": "Exhibit 92: Out of the box support for headless browser testing. Installs necessary drivers transparently on the first run if they're missing.pic.twitter.com/YJCTisiqMc",
+            "username": "passy",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1085143056523902976": {
+            "id": "1085143056523902976",
+            "text": "Just started learning WASM  with @rustlang .\n\nI can't find a phrase that adequetly describes how blown away I am with the tutorials and tooling surrounding it. Absolutely amazing. \nhttps://rustwasm.github.io/book/\u00a0",
+            "username": "Gisleburt",
+            "num_likes": 36,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1086593799160250368": {
+            "id": "1086593799160250368",
+            "text": "Following the WebAssembly Game Of Life in Rust book and I'm so damn impressed by the tooling. https://rustwasm.github.io/book/introduction.html\u00a0\u2026",
+            "username": "passy",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1087755468804681729": {
+            "id": "1087755468804681729",
+            "text": "I wrote a blog on @rustwasm: Write performance-sensitive code in Rust, build out your frontend in TypeScript, and get compile time type-checking for both. #rustlang #webassembly \u00a0http://timryan.org/2019/01/22/exporting-serde-types-to-typescript.html\u00a0\u2026",
+            "username": "trimryan",
+            "num_likes": 92,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "1085939753101463555": {
+            "id": "1085939753101463555",
+            "text": "Fantastic news! It looks like I'm going to be presenting on #rust and #WebAssembly at @RustLatamConf in March! So excited!! /cc @rustlang",
+            "username": "KevinHoffman",
+            "num_likes": 35,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1085661292600352769": {
+            "id": "1085661292600352769",
+            "text": "Just published a new release of wasm-bindgen \n polish for the wasm32 test runner\n\n support for Web IDL sequences (used in WebGL2 bindings)\n\n and more!\n\nChangelog:https://github.com/rustwasm/wasm-bindgen/blob/master/CHANGELOG.md#0232\u00a0\u2026",
+            "username": "fitzgen",
+            "num_likes": 30,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1085339757075410944": {
+            "id": "1085339757075410944",
+            "text": "wasm-pack 0.6.0 is here!\n\nnewly configurable build profiles, full cargo feature flag support, cargo workspace support, and more!\n\nthanks to @fitzgen @alex_crichton @RReverser @cs_moe @mstallmo @jhakansson_ @macclark + everyone else who contributed! https://github.com/rustwasm/wasm-pack/releases/tag/v0.6.0\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 77,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1085262098907709441": {
+            "id": "1085262098907709441",
+            "text": "just finished making up envelopes of stickers for my supporters on @Patreon !\n\nif you\u2018d also like to support my @rustwasm work- you can do so at https://www.patreon.com/ag_dubs\u00a0pic.twitter.com/JTzQ0uJKRS",
+            "username": "ag_dubs",
+            "num_likes": 29,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1085238597211639808": {
+            "id": "1085238597211639808",
+            "text": "#RustWasm2019https://twitter.com/wasmerio/status/1085233264653037568\u00a0\u2026",
+            "username": "fish0398",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1085183580081348611": {
+            "id": "1085183580081348611",
+            "text": "Rust WASM 2019 https://blog.yoshuawuyts.com/wasm-2019/\u00a0 #RustWasm2019",
+            "username": "yoshuawuyts",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1084540484587003904": {
+            "id": "1084540484587003904",
+            "text": "hello @rustwasm frens. @QEDunham and i have been conspiring on a fun thing pic.twitter.com/lbpTJdTXHj",
+            "username": "ag_dubs",
+            "num_likes": 130,
+            "num_retweets": 12,
+            "num_replies": 7
+        },
+        "1083537937407520768": {
+            "id": "1083537937407520768",
+            "text": "If you're interested in @rustlang, WebAssembly, compilers, and what to work on some of the latest tech in the field, definitely check this out.https://twitter.com/Sunfishcode/status/1083518633530118144\u00a0\u2026",
+            "username": "jntrnr",
+            "num_likes": 43,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1082625306199031808": {
+            "id": "1082625306199031808",
+            "text": "I wrote about a few thoughts I have with regard to @rustwasm in 2019. Most of all, I hope this year I can be more involved! https://blog.ryanlevick.com/posts/rust-wasm-2019/\u00a0\u2026",
+            "username": "ryan_levick",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1082244069638762496": {
+            "id": "1082244069638762496",
+            "text": "Building the controls was also fun - Just quick little Rust types!\n\nI'm still floored by how easy it is to write WebAssembly with the `wasm-bindgen` libs/tools and by how well documented everything it is... Definitely take a look if you haven't already!\n\nhttps://github.com/rustwasm/wasm-bindgen\u00a0\u2026pic.twitter.com/VYdq2bNS0p",
+            "username": "chinedufn",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1082095971222327297": {
+            "id": "1082095971222327297",
+            "text": "I just published a tutorial on using WebGL + Rust + WebAssembly to render some basic water!\n\nPost - http://chinedufn.com/3d-webgl-basic-water-tutorial/\u00a0\u2026\n\nCode - https://github.com/chinedufn/webgl-water-tutorial\u00a0\u2026\n\nLet's take a ......... \n\n(don't say it .........)\n\ndeep dive into water rendering techniques ;)pic.twitter.com/jyKsRBiCJM",
+            "username": "chinedufn",
+            "num_likes": 292,
+            "num_retweets": 72,
+            "num_replies": 6
+        },
+        "1078770696921235456": {
+            "id": "1078770696921235456",
+            "text": "Rust and wasm is starting to feel ready for more mainstream uses. I'm excited by the recent progress in the ecosystem. I'll share some of what I've been experimenting with in the next week or so. (image generated in Firefox with wasm)pic.twitter.com/RYiwOfxXHB",
+            "username": "TatumCreative",
+            "num_likes": 71,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1075424438663962626": {
+            "id": "1075424438663962626",
+            "text": "Happy to announce that I'll be speaking and giving a workshop on @rustlang at @GOTOamst!\n\n\"Learning Webassembly and Rust\" and \"Rust 2018: Access All Areas\"\nhttps://gotoams.nl/2019/workshops/164\u00a0\u2026\nhttps://gotoams.nl/2019/sessions/751\u00a0\u2026\n\nAlso, they have 24h flash sale ongoing today!",
+            "username": "Argorak",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1074106921571864577": {
+            "id": "1074106921571864577",
+            "text": "I presented about wasm-bindgen.\nI translated into English and hope you'll like it \n +  = \n@rustwasm @rustlang #rustlang #WebAssembly #rustwasmhttps://speakerdeck.com/tsukushi/attractions-and-interests-of-wasm-bindgen\u00a0\u2026",
+            "username": "T5uku5hi",
+            "num_likes": 93,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "1074018677274505216": {
+            "id": "1074018677274505216",
+            "text": "one of my favorite parts of building this game was how well Rust integrates with JS and WebGL via wasm-bindgen. 60fps without fighting against the tools!",
+            "username": "MaxBittker",
+            "num_likes": 33,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1073703094771273728": {
+            "id": "1073703094771273728",
+            "text": "My thoughts on Rust and WebAssembly in 2019\n\nhttp://fitzgeraldnick.com/2018/12/14/rust-and-webassembly-in-2019.html\u00a0\u2026\n +  = \n#RustWasm2019",
+            "username": "fitzgen",
+            "num_likes": 96,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "1073436559574151169": {
+            "id": "1073436559574151169",
+            "text": "yesterday attended the @rustwasm working group meeting out of curiosity.  one can actually be part of the discussion about upcoming features etc in @rustwasm  or ask questions to the library authors .Thank you @fitzgen @alex_crichton #rust #wasm #rustwasm",
+            "username": "surajdjagtap",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1073362787567579137": {
+            "id": "1073362787567579137",
+            "text": "headed out to Russia tonight- see you soon @rustrush1 ! v excited to talk about @rustlang and @rustwasm ",
+            "username": "ag_dubs",
+            "num_likes": 35,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1072936093689868288": {
+            "id": "1072936093689868288",
+            "text": "I wrote about how @rustwasm fits into the Terrarium programming model @fastly:https://www.fastly.com/blog/edge-programming-rust-web-assembly\u00a0\u2026",
+            "username": "path1ckey",
+            "num_likes": 26,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1072644436239269889": {
+            "id": "1072644436239269889",
+            "text": "My first PR for OSS in my life was merged. I\u2019m really happy to contribute wasm-bindgen. Thanks you for supporting @fitzgen @alex_crichtonhttps://github.com/rustwasm/wasm-bindgen/pull/1103\u00a0\u2026",
+            "username": "T5uku5hi",
+            "num_likes": 23,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1072236634148626433": {
+            "id": "1072236634148626433",
+            "text": "Working on my first @rustwasm project called Tiny Alchemy Box (TAB), creating markup-based guitar tabs, using http://pest.rs\u00a0 for parsing, drawing on html canvas. Awesome experience with @rustlang.\nhttps://github.com/bsoptei/tiny_alchemy_box\u00a0\u2026\n#programming #rust #rustlang #guitar #tabpic.twitter.com/aNUUO4fDSO",
+            "username": "BSoptei",
+            "num_likes": 71,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1070080013448433664": {
+            "id": "1070080013448433664",
+            "text": "hey folks! here's a link to the @npmjs survey: http://go.npm.me/rDevrX\u00a0\n\ni got to \"sneak\" some wasm questions into it ;) we hope to use the data to help direct outreach and work on @rustwasm! i'd really appreciate if you took a sec to fill it out <3<3",
+            "username": "ag_dubs",
+            "num_likes": 28,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1069967402585206784": {
+            "id": "1069967402585206784",
+            "text": "We also noticed that the Rust and WebAssemly book can be read as a self-help guide and turned some choice quotes into \"inspirational\" posters pic.twitter.com/fQbCxnLQ6D",
+            "username": "jviide",
+            "num_likes": 274,
+            "num_retweets": 155,
+            "num_replies": 5
+        },
+        "1069965662297210881": {
+            "id": "1069965662297210881",
+            "text": "The Rust and WebAssembly book is a good introduction to #rustlang + #wasm tooling. Bookmarking it for future reference. Thanks @fitzgen et al.! https://rustwasm.github.io/book/\u00a0",
+            "username": "jviide",
+            "num_likes": 93,
+            "num_retweets": 26,
+            "num_replies": 2
+        },
+        "1069137901080985600": {
+            "id": "1069137901080985600",
+            "text": "Time to start learning #rust and #wasm",
+            "username": "k33g_org",
+            "num_likes": 26,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1069283085194166272": {
+            "id": "1069283085194166272",
+            "text": "wasm-bindgen \u2014 how does it work?! \n\nhttp://fitzgeraldnick.com/2018/12/02/wasm-bindgen-how-does-it-work.html\u00a0\u2026",
+            "username": "fitzgen",
+            "num_likes": 56,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1069122042568613888": {
+            "id": "1069122042568613888",
+            "text": "Create #webassembly applications faster and easy in @rustlang and bundle with either @webpack or @parceljs with (just published) https://www.npmjs.com/package/generator-wasm-app\u00a0\u2026 \n\ncc @rustwasm @WasmWeekly",
+            "username": "sendilkumarn",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1068587999653449728": {
+            "id": "1068587999653449728",
+            "text": "Well... it took a fair amount of work to set up all the internal tooling, but our CI is finally able to publish internal Rust repos straight to npm as private WASM-based packages.\n\nThanks to wasm-bindgen + wasm-pack for simplifying lots of the process.",
+            "username": "RReverser",
+            "num_likes": 51,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1068368937484722176": {
+            "id": "1068368937484722176",
+            "text": "I helped add a testing section to the rust wasm game of life tutorial! Check it out!\nhttps://rustwasm.github.io/book/game-of-life/testing.html\u00a0\u2026",
+            "username": "DebugSteven",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1068390997393108997": {
+            "id": "1068390997393108997",
+            "text": "#wasm #rustlang Working group will have open office hours ! Have a question ? Just join the meeting !https://twitter.com/rustwasm/status/1068200054425436160\u00a0\u2026",
+            "username": "twify93",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1068526296227934213": {
+            "id": "1068526296227934213",
+            "text": "Just published 0.1.6 https://www.npmjs.com/package/@wasm-tool/wasm-pack-plugin\u00a0\u2026  Now you can live-reload your WebAssembly modules when you change @rustlang with @webpack and @rustwasm \n@WasmWeekly",
+            "username": "sendilkumarn",
+            "num_likes": 44,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1068170686282285057": {
+            "id": "1068170686282285057",
+            "text": "Woahhh! :D A patch by @alex_crichton landed on wasm-bindgen yesterday to create @rustwasm binaries! (As opposed to currently just libraries).\n\nhttps://github.com/rustwasm/wasm-bindgen/pull/1057\u00a0\u2026\n\nThis is the first step to getting support for a `main` fn that works like you'd expect it to!",
+            "username": "yoshuawuyts",
+            "num_likes": 27,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1066848909564280832": {
+            "id": "1066848909564280832",
+            "text": "I just published Generating Sudoku Boards pt. 3: Rust for WebAssembly https://link.medium.com/b1Liwi048R\u00a0\n#rust #rustlang #wasm",
+            "username": "rosstdharrison",
+            "num_likes": 16,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1067011183474089984": {
+            "id": "1067011183474089984",
+            "text": "Here are the slides of my last talk https://speakerdeck.com/_rvidal/the-road-to-webassembly-is-paved-with-rust\u00a0\u2026. For all things Rust + Wasm follow @rustwasm. For all things Rust in Madrid, come have fun with us in @madrustaceans  #commitconf #rustlang #webassemblypic.twitter.com/n8KzbDWbfW",
+            "username": "_rvidal",
+            "num_likes": 37,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1066255866381385731": {
+            "id": "1066255866381385731",
+            "text": "Esta tarde en @commitconf: c\u00f3mo empezar a exprimir las posibilidades de WebAssembly  usando Rust.  Todo el m\u00e9rito es del trabajo de primera de la comunidad de @rustwasm pic.twitter.com/enqL9261w0",
+            "username": "_rvidal",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1065232071797264384": {
+            "id": "1065232071797264384",
+            "text": "In two hours I'm getting on a flight to Siberia so I can talk about @rustlang and #WebAssembly at DevFest Siberia 2018. Super excited!\n\nCheck it: https://gdg-siberia.com/schedule?show=25-11\u00a0\u2026\n\n/cc @rustwasm",
+            "username": "ankurs3thi",
+            "num_likes": 29,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1063651618669903872": {
+            "id": "1063651618669903872",
+            "text": "\u201cNote how much the rust code resembles the Elm code. The Msg is translated from an Elm type to a Rust enum, but apart from having different names and syntax, it is exactly the same. \u201c\n\nBringing @elmlang\u2019s architecture to @rustwasmhttps://sindrejohansen.no/blog/willow/rust/elm/2018/11/16/willow-elm-in-rust.html\u00a0\u2026",
+            "username": "kevinSuttle",
+            "num_likes": 26,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1063363760281264130": {
+            "id": "1063363760281264130",
+            "text": "It was my pleasure to be talking about @rustlang & #WebAssembly yesterday at @vuejsbcn. Special thanks to people that showed up despite the heavy rain in #Barcelona! \nSpreading the word! @rustwasm\nIf you want to check out the slides of the talk: https://1drv.ms/p/s!AryBZoXBIJ4uldI9mAvYlDu3yZH3RA\u00a0\u2026pic.twitter.com/Yxi6DWcmhI",
+            "username": "robertohuertasm",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1062507076415438848": {
+            "id": "1062507076415438848",
+            "text": "Shoutout to Mozilla and @rustwasm at #ChromeDevSummit!!!  #WebAssemblypic.twitter.com/yJ4QJ7PJGs \u2013 at Yerba Buena Center for the Arts Theater",
+            "username": "slsoftworks",
+            "num_likes": 20,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1060819675431473153": {
+            "id": "1060819675431473153",
+            "text": "An implementation of the Core War programming game https://github.com/Globidev/corewa-rs\u00a0\u2026 #rust #typescript #wasm",
+            "username": "rydgel",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1059882679561216000": {
+            "id": "1059882679561216000",
+            "text": "Thanks for the shout-out, @_jayphelps  #QConSFpic.twitter.com/l7ij5OlvdB",
+            "username": "rustlang",
+            "num_likes": 134,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1059885194948227072": {
+            "id": "1059885194948227072",
+            "text": "you may already be using #webassembly ! (and not even know it!) shoutout to @fitzgen\u2019s sourcemap impl in @rustwasm ! #QConSF #21stCenturyLangspic.twitter.com/xhvEHY468b",
+            "username": "ag_dubs",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1058100094753538050": {
+            "id": "1058100094753538050",
+            "text": "I love @rustwasm so much. City Simulation runs in a webworker now, talks to render engine via serde_json.pic.twitter.com/H85OGv5CJo",
+            "username": "arvidep",
+            "num_likes": 134,
+            "num_retweets": 21,
+            "num_replies": 6
+        },
+        "1056575017654177793": {
+            "id": "1056575017654177793",
+            "text": "Awesome introduction talk about WebAssembly by Sendil Kumar #rust #wasmhttps://youtu.be/T5787gaVCSE\u00a0",
+            "username": "mattsmithabb",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054805456407969794": {
+            "id": "1054805456407969794",
+            "text": "Multithreading Rust and Wasm  https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html\u00a0\u2026 an epic post that looks at the wasm threads proposal, shared memory, and ultimately demonstrates a functional demo of threading in Rust using wasm-bindgen. Awesome stuff!pic.twitter.com/iMYLlJWYRs",
+            "username": "WasmWeekly",
+            "num_likes": 119,
+            "num_retweets": 33,
+            "num_replies": 1
+        },
+        "1054818746592829440": {
+            "id": "1054818746592829440",
+            "text": "thanks so mich for having us @smashingconf! if you\u2019d like to check out our materials on @rustwasm #webassembly here they are! https://ashleygwilliams.github.io/helloWASM\u00a0\n#SmashingConfpic.twitter.com/hpoW3gWucI",
+            "username": "ag_dubs",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1053686657143267329": {
+            "id": "1053686657143267329",
+            "text": "hey @rustbeltrust ! i brought @rustlang and @rustwasm stickers! come chat with me about #webassembly! pic.twitter.com/CsYZDNj6sZ",
+            "username": "ag_dubs",
+            "num_likes": 43,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1053304288494174209": {
+            "id": "1053304288494174209",
+            "text": "If you are interested in Rust & WebAssembly come to Monday nights @trianglerust Monday night.I'm giving an intro talk  on Rust+wasm and will be followed by a Q&A with @bstrie https://www.meetup.com/triangle-rustaceans/events/mfglwpyxnbdc/\u00a0\u2026 #rust #rustlang #webassembly #wasm",
+            "username": "rippinrobr",
+            "num_likes": 20,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1052908808668934144": {
+            "id": "1052908808668934144",
+            "text": "Gave out a workshop last Tuesday on browser multi-threading with Web Workers and Web Assembly (along with Wasm S-expressions) and Rust! Code examples and workshop slides in PDF format at https://github.com/alastairparagas/advanced-web-apps\u00a0\u2026.",
+            "username": "aparagas021",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1052548833106939905": {
+            "id": "1052548833106939905",
+            "text": "Checkout my new video course on \"Using WebAssembly with Rust\" covering\n- rust-webpack template\n- running WebAssembly in Node\n- wasm-bindgen\n- wasm-pack for publishing wasm to NPM\n\n https://egghead.io/courses/using-webassembly-with-rust\u00a0\u2026\nEnjoy watching \n\nThe course is 25min long and will be free forever ",
+            "username": "nikgraf",
+            "num_likes": 287,
+            "num_retweets": 89,
+            "num_replies": 9
+        },
+        "1052517478914392065": {
+            "id": "1052517478914392065",
+            "text": "Check out the new course \"Using WebAssembly with Rust\" by @nikgraf on @eggheadio\n#wasm #rust #javascripthttps://egghead.io/courses/using-webassembly-with-rust\u00a0\u2026",
+            "username": "vka_me",
+            "num_likes": 17,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1052285967070060544": {
+            "id": "1052285967070060544",
+            "text": "Hey @rustwasm, @nikgraf just released this community resource on @eggheadio. Free for everyone :woohoo:https://egghead.io/courses/using-webassembly-with-rust\u00a0\u2026",
+            "username": "_jonesian",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1051838655147466753": {
+            "id": "1051838655147466753",
+            "text": "Giving my first ACM FIU workshop tomorrow as an FIU/FIU Honors alumni (Tuesday, October 16, PG6 114, 3:30PM-4:45PM) on making advanced and performant Web Apps with WebWorkers, WebAssembly and Rust - a systems programming language! @FIUSCIS @fiuhonors @rustlang @rustwasm @acmfiupic.twitter.com/QFSzlMee1x",
+            "username": "aparagas021",
+            "num_likes": 29,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1051460709622665216": {
+            "id": "1051460709622665216",
+            "text": "While @rustlang is not the only language one could accomplish the \u201csmall, purpose-built modules, compiled to #wasm for speed & portability\u201d\u2013utopia in, the @rustwasm project is exemplar in pushing the envelope on accessible, integrated tooling & paving the way forward #ruhrjs18pic.twitter.com/hI3aBo0zTE",
+            "username": "slsoftworks",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1051476915884871681": {
+            "id": "1051476915884871681",
+            "text": "see ya soon @githubuniverse and @rustbeltrust ! i have... a lot of @rustwasm stickers for u pic.twitter.com/08WXVRrwDK",
+            "username": "ag_dubs",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1050895391552626694": {
+            "id": "1050895391552626694",
+            "text": "I just finished a TODO MVC implementation in pure @rustwasm using web-sys https://github.com/jonathanKingston/todomvc-wasm\u00a0\u2026 it's been a real slog but a really great learning exercise for @rustlang itself. The size is about 28kb with brotli without any real perf work yet.pic.twitter.com/YYKXlD1GMg",
+            "username": "KingstonTime",
+            "num_likes": 115,
+            "num_retweets": 28,
+            "num_replies": 2
+        },
+        "1050121042859982849": {
+            "id": "1050121042859982849",
+            "text": "New wasm-bindgen point release! 0.2.25\n\nFixes embarrassing bug where default wasm allocator (dlmalloc) was getting pulled into the binary even when you configured a custom global allocator (eg wee_alloc)!https://github.com/rustwasm/wasm-bindgen/blob/master/CHANGELOG.md#0225\u00a0\u2026",
+            "username": "fitzgen",
+            "num_likes": 15,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1050083535594409984": {
+            "id": "1050083535594409984",
+            "text": "My @rustwasm tip of the day is impl Drop with a console log to debug when structs in WASM are getting dropped by Rust.",
+            "username": "KingstonTime",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1050074334562213888": {
+            "id": "1050074334562213888",
+            "text": "New mentored issue for Twiggy , to improve usability of the `twiggy  garbage` sub command!\n\nWant to help out?  https://github.com/rustwasm/twiggy/issues/183\u00a0\u2026\n\n(Twiggy  is a wasm code size profiler)",
+            "username": "fitzgen",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1049908414091067393": {
+            "id": "1049908414091067393",
+            "text": "Slides for tonight's talk on @rustwasm at the @nodejs community hangout are here:\n\nhttps://docs.google.com/presentation/d/1eaLh4NIKBvGjCu_IMkUmgQkgtrQ8gEnU9m3Buo-V9pY/edit?usp=sharing\u00a0\u2026 \n\nThanks for having us!",
+            "username": "yoshuawuyts",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1050039207635247110": {
+            "id": "1050039207635247110",
+            "text": "Finally, I colored a Mario pixel art with CanvasRenderingContext2d set_fill_style method \nCongratulations on the 1st release of the web-sys crate \nSo amazing!!! @rustwasm @rustlangpic.twitter.com/trt3qiUf32",
+            "username": "T5uku5hi",
+            "num_likes": 60,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1049765416971751425": {
+            "id": "1049765416971751425",
+            "text": " wasm-pack 0.5.1 is out! \nmore responsible child process output (no more eating ur stdout)   an errant error msg fix less scary warnings + no more nightly for wasm-pack test!\n\nthx to @fitzgen @alex_crichton @jhakansson_ @mstallmo + konstinhttps://github.com/rustwasm/wasm-pack/releases/tag/v0.5.1\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 57,
+            "num_retweets": 23,
+            "num_replies": 3
+        },
+        "1049334155539038208": {
+            "id": "1049334155539038208",
+            "text": "Calls between WebAssembly and JavaScript are finally fast (In FireFox) https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/\u00a0\u2026 a great post by @linclark that expands on an earlier post by @bnjbvr",
+            "username": "WasmWeekly",
+            "num_likes": 137,
+            "num_retweets": 43,
+            "num_replies": 2
+        },
+        "1049388811376046088": {
+            "id": "1049388811376046088",
+            "text": "next Monday- @steveklabnik and i will be teaching a workshop at @MozSF on Rust and WebAssembly- targeting web developers who are new to @rustlang ! it's free :) so sign up now if you are interested! cc @rustwasmhttps://events.mozilla.org/rustwasmworkshop\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 32,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1048861958999617536": {
+            "id": "1048861958999617536",
+            "text": "Yay, it's confirmed! I'll be in London talking all things @rustlang & @rustwasm at @LNUGorg on Jan 23rd. So excited to be exploring & sharing some cutting-edge tech :) https://github.com/lnug/speakers/issues/155\u00a0\u2026 ",
+            "username": "shaneOsbourne",
+            "num_likes": 38,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1049109461586141184": {
+            "id": "1049109461586141184",
+            "text": "im not crying ur cryingpic.twitter.com/SO2rIwTEIl",
+            "username": "ag_dubs",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1047894009731923973": {
+            "id": "1047894009731923973",
+            "text": "Also this week I ran my first rust code in a browser so yeah I guess you could say things are getting pretty serious.https://twitter.com/rustwasm/status/1046843280535613440\u00a0\u2026",
+            "username": "ReinH",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1047911414449496065": {
+            "id": "1047911414449496065",
+            "text": "\"In terms of portability [for #webassembly] the clear winner is the #rustlang compiler toolchain in combination with the dynamic memory allocator wee_alloc. \"https://frehberg.wordpress.com/webassembly-and-dynamic-memory/\u00a0\u2026",
+            "username": "rustlang",
+            "num_likes": 83,
+            "num_retweets": 30,
+            "num_replies": 1
+        },
+        "1047620515102244864": {
+            "id": "1047620515102244864",
+            "text": "Just published the 0.3 release of the Twiggy code size profiler for WebAssembly!\n\nhttps://github.com/rustwasm/twiggy/blob/master/CHANGELOG.md#030\u00a0\u2026\n\n* Bug fixes\n* More polish and CLI flags\n* Experimental/WIP support for ELF and Mach-O if the binary has DWARF (thanks to @6b766e!)pic.twitter.com/BuqWZX0ys3",
+            "username": "fitzgen",
+            "num_likes": 47,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1046769642285363202": {
+            "id": "1046769642285363202",
+            "text": "I gave a talk on Rust and WebAssembly for SFHTML5; watch the recording!\n\nhttp://fitzgeraldnick.com/2018/10/01/sfhtml5-rust-and-wasm-talk.html\u00a0\u2026",
+            "username": "fitzgen",
+            "num_likes": 41,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1045881246750920704": {
+            "id": "1045881246750920704",
+            "text": "The Rust language integration of WebAssembly presented by @fitzgen from Mozilla looks really tidy.  Looks like a great way to write performance critical modules in web applications. #sfhtml5",
+            "username": "ICDavidson",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1045665859849596928": {
+            "id": "1045665859849596928",
+            "text": "I just published \u201cProgramming WebAssembly with Rust \u2014 The Book!!\u201dhttps://medium.com/p/programming-webassembly-with-rust-the-book-7c4a890fcf97\u00a0\u2026",
+            "username": "KevinHoffman",
+            "num_likes": 310,
+            "num_retweets": 99,
+            "num_replies": 10
+        },
+        "1044984014447300608": {
+            "id": "1044984014447300608",
+            "text": "Now that @rustwasm published web-sys, I just published my first crate it's literally the Wurst. https://github.com/jonathanKingston/wurst\u00a0\u2026\nIt's the start of exposing a simple abstraction around web-sys that's a little closer to jQuery whilst trying to be idiomatic @rustlang.",
+            "username": "KingstonTime",
+            "num_likes": 24,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1044970779765542913": {
+            "id": "1044970779765542913",
+            "text": "\"The host bindings proposal will allow WebAssembly ... even-faster-than-JS DOM performance since calls from wasm can be statically validated to type check once at compilation time, rather than dynamically on every single call.\"https://twitter.com/rustwasm/status/1044966382910066688\u00a0\u2026",
+            "username": "Sander_Spies",
+            "num_likes": 44,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1044719385603014658": {
+            "id": "1044719385603014658",
+            "text": "Woot, first @rustwasm code!pic.twitter.com/sbqfHKCnK4",
+            "username": "yoshuawuyts",
+            "num_likes": 38,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1044627656967430144": {
+            "id": "1044627656967430144",
+            "text": "if u love @rustlang or wanna talk @rustwasm come find me! would love to chat",
+            "username": "ag_dubs",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1044416661229645825": {
+            "id": "1044416661229645825",
+            "text": "thanks so much to @cs_moe @fitzgen @alex_crichton @mstallmo @6b766e and all the folks who filed issues! you are all the best ",
+            "username": "ag_dubs",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1043237918586810368": {
+            "id": "1043237918586810368",
+            "text": "next Monday, the @rustwasm team will be releasing a long awaited new version of wasm-pack- 0.5.0!\n\nas a tease... check out these benchmarks. i'm not even gonna do the math, just look. it's next level. \n\nbig thx to @6b766e for their work on this! \nhttps://gist.github.com/fitzgen/5607e3c2560926f04a4dfb2a945894dc\u00a0\u2026pic.twitter.com/jbkpOb9XT6",
+            "username": "ag_dubs",
+            "num_likes": 136,
+            "num_retweets": 41,
+            "num_replies": 4
+        },
+        "1042377216246640640": {
+            "id": "1042377216246640640",
+            "text": " \"Hacker's guide to Web Assembly\" by @dvigneshwer\nhttps://youtu.be/W2jKZxMY4cA\u00a0\n#scotlandjs2018",
+            "username": "ScotlandJS",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1040680531317481473": {
+            "id": "1040680531317481473",
+            "text": "hey js fam- do you have favorite examples of packages that support es6 modules and commonjs? ideally without a build step? the @rustwasm working group would like to have wasm-pack produce more flexible packages and we'd love some examples to work from!",
+            "username": "ag_dubs",
+            "num_likes": 15,
+            "num_retweets": 10,
+            "num_replies": 8
+        },
+        "1040654052822900736": {
+            "id": "1040654052822900736",
+            "text": "So (on stage) @TejasKumar_ just published a rust wasm package to npm, installed it in a JavaScript project and it works! #UtahJS2018pic.twitter.com/tnpzeYYphM",
+            "username": "kentcdodds",
+            "num_likes": 63,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1040526200219885568": {
+            "id": "1040526200219885568",
+            "text": "Thanks for the 100th commit @rustwasm @dependabot (your request addressed )https://github.com/rustwasm/rust-webpack-template/pull/40#issuecomment-421281996\u00a0\u2026",
+            "username": "sendilkumarn",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1040311196459520000": {
+            "id": "1040311196459520000",
+            "text": "13 September Meeting: http://youtu.be/r-VTeRCpnBA?a\u00a0 via @YouTube",
+            "username": "RustVideos",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1040114195054899201": {
+            "id": "1040114195054899201",
+            "text": "While learning #WebAssembly I got confused about the sort-of-documented boundary layer between JS and wasm. I wrote a piece hoping to shine a brighter light on all the shim and glue code we write to make wasm more pleasant. @rustwasmhttps://www.toomanybees.com/storytime/gluing-the-web-and-webassembly-together\u00a0\u2026",
+            "username": "TooManyBees",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1040044113134071810": {
+            "id": "1040044113134071810",
+            "text": "the #rustlang wasm-pack project sets a really great example for oss project management and automation. from gh release binaries, mdbook docs, pr templates, a really nice contributor guide, to some of the most emojiful release notes youll find anywhere https://github.com/rustwasm/wasm-pack/releases\u00a0\u2026 ",
+            "username": "softprops",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1039856964073873409": {
+            "id": "1039856964073873409",
+            "text": "I've been using @rustlang compiled to WebAssembly in a bunch of personal projects lately. I wrote a blog post on how the Wasm-Bindgen tool that makes interop between Rust and JavaScript super simple actually works: https://blog.ryanlevick.com/posts/wasm-bindgen-interop/\u00a0\u2026",
+            "username": "ryan_levick",
+            "num_likes": 70,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "1039570045683347462": {
+            "id": "1039570045683347462",
+            "text": "wasm-bindgen + serde is \n\nJust added experimental WASM support to an internal @rustlang crate and WASM-specific code is just a 12-line file (out of which only 3 are doing something useful and not importing/declaring stuff).",
+            "username": "RReverser",
+            "num_likes": 53,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1037448640028127232": {
+            "id": "1037448640028127232",
+            "text": "Let's make the web better and faster #WebAssembly FTW @rustwasm Join me @VoxxedTicino to take a sneak peek on the future of web applications and how WebAssembly makes it blazingly fasthttps://twitter.com/VoxxedTicino/status/1036526439322083328\u00a0\u2026",
+            "username": "sendilkumarn",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1037730970609307648": {
+            "id": "1037730970609307648",
+            "text": "I drew a Mario pixel art using web-sys and js-sys crates in wasm-bindgen + = \n@rustwasm @rustlangpic.twitter.com/XxNwGuxIY2",
+            "username": "T5uku5hi",
+            "num_likes": 74,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1028861434145386496": {
+            "id": "1028861434145386496",
+            "text": "Just published a new post: Ray Tracing: WebAssembly vs JavaScript: http://matt-harrison.com/raytracing-webassembly-vs-javascript/\u00a0\u2026 #webassembly #Rustpic.twitter.com/kqtht734UB",
+            "username": "mt_harrison",
+            "num_likes": 56,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "1034206952773935104": {
+            "id": "1034206952773935104",
+            "text": "Blog post! \"Oxidizing sourmash: WebAssembly\" and the road to client-side browser bioinformatics using @rustwasm  =)\nhttps://blog.luizirber.org/2018/08/27/sourmash-wasm/\u00a0\u2026\n(With a shout out to @munkium for the great example!)\n#rustlang",
+            "username": "luizirber",
+            "num_likes": 41,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "1034113507493597184": {
+            "id": "1034113507493597184",
+            "text": "got my first PR into @rustwasm merged today: https://github.com/rustwasm/weedle/pull/14\u00a0\u2026\n\nmight doesn't look like much, but will eventually enable support the WebCrypto-APIs \\o/https://github.com/rustwasm/wasm-bindgen/pull/745\u00a0\u2026",
+            "username": "gnunicornBen",
+            "num_likes": 26,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1034112644033269760": {
+            "id": "1034112644033269760",
+            "text": "CHIP-8 emulator progress: I can load a game and play a beep sound with #Rust, a bit of JavaScript, #WebAssembly and thanks to @rustwasm!pic.twitter.com/wQ1YMqBlwc",
+            "username": "LudwigPacifici",
+            "num_likes": 20,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1033461323521290242": {
+            "id": "1033461323521290242",
+            "text": "\u00a0In @FirefoxNightly you can debug your #rustlang code in #devtools\nhttps://www.youtube.com/watch?v=kRPYg9hzEZQ&feature=youtu.be&t=20m24s\u00a0\u2026\n#webassemblypic.twitter.com/tJ71dhwOVn",
+            "username": "denar90_",
+            "num_likes": 124,
+            "num_retweets": 55,
+            "num_replies": 3
+        },
+        "1032176694285791232": {
+            "id": "1032176694285791232",
+            "text": " Next episode of the series From Rust to beyond !\n\nEpisode 2, The WebAssembly galaxy, https://mnt.io/2018/08/22/from-rust-to-beyond-the-webassembly-galaxy/\u00a0\u2026.\n\nIn this episode, we will explore what #webassembly is, how to communicate with #javascript & #nodejs, and finally compare performances!\n\n#rustlang #fromRustToBeyondpic.twitter.com/LeJ31VLga8",
+            "username": "mnt_io",
+            "num_likes": 40,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1032313967924768768": {
+            "id": "1032313967924768768",
+            "text": "First project is an encrypted chat client demo using 100% @rustlang compiled to @rustwasm for use in a @reactjs app: https://github.com/ColbyCypherSociety/ChatDemo\u00a0\u2026\n#WASM",
+            "username": "ColbyCypherSoc",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1031993893099728896": {
+            "id": "1031993893099728896",
+            "text": "Sign up now for our September 28 event about WebAssembly with experts @ThomasTheDane @binjimint from Google and @fitzgen from Mozilla:https://www.meetup.com/sfhtml5/events/253855867\u00a0\u2026",
+            "username": "sfhtml5",
+            "num_likes": 18,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1031612643977490432": {
+            "id": "1031612643977490432",
+            "text": "Played with creating web workers, @rustlang and @rustwasm with wasm_bindgen to downloading and pulling stats out of a 70MB dataset on the browser! Rust is so easy to learn - literally overnight (functional programming styles reminiscent of my experience with Haskell and Scala)!pic.twitter.com/P4PIDqkVSv",
+            "username": "aparagas021",
+            "num_likes": 99,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1030528589454688256": {
+            "id": "1030528589454688256",
+            "text": "Come check out my WebAssembly project at #RustConf! A collaborative text editor in your browser. Looking for feedback  #wasm #rustlangpic.twitter.com/InY1mtTlg9",
+            "username": "trimryan",
+            "num_likes": 48,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "1030166869448093696": {
+            "id": "1030166869448093696",
+            "text": "Wow! @ag_dubs made some @rustwasm stickers! Find her or me at #rustconf if you want some!pic.twitter.com/81oZe3E825",
+            "username": "fitzgen",
+            "num_likes": 46,
+            "num_retweets": 6,
+            "num_replies": 5
+        },
+        "1028874374970003456": {
+            "id": "1028874374970003456",
+            "text": "WebAssembly: 22.0fps\nJavaScript: 2.5fpshttps://twitter.com/WasmWeekly/status/1028873460494331904\u00a0\u2026",
+            "username": "_jayphelps",
+            "num_likes": 178,
+            "num_retweets": 63,
+            "num_replies": 5
+        },
+        "1027471050416775168": {
+            "id": "1027471050416775168",
+            "text": "a  #rust 2D and 3D real-time physics engine able to compile to #WASM :-) impressive\n\nhttp://nphysics.org/\u00a0pic.twitter.com/YhkF9pO8Jz",
+            "username": "waxzce",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1024917199801147392": {
+            "id": "1024917199801147392",
+            "text": "I gave a talk about art, AR, http://three.ar\u00a0.js, and WebAssembly/Rust tonight at @wafflejs! \n\nHere are the slides if you're curious & as always feel free to reach out with questions!\n\n\nhttps://slides.cwervo.com/wafflejs-webar-2018-08/#/\u00a0\u2026pic.twitter.com/mfI5B5L7mM",
+            "username": "acwervo",
+            "num_likes": 45,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1024766470729949191": {
+            "id": "1024766470729949191",
+            "text": "This week in Rust and WebAssembly Issue #5 is out now https://rustwasm.github.io/2018/08/01/this-week-in-rust-wasm-005.html\u00a0\u2026",
+            "username": "sendilkumarn",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1024392629763624960": {
+            "id": "1024392629763624960",
+            "text": "Have you built (building) an awesome and exciting product with @rustlang & #webassembly @rustwasm ? Wanna showcase it, let us know. (DM is open )\n#",
+            "username": "sendilkumarn",
+            "num_likes": 13,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1022544528811679744": {
+            "id": "1022544528811679744",
+            "text": "Just finished building my simple/minimalistic personal webpage which I used as an excuse to learn WebAssembly + @rustlang @rustwasm -> http://viktor.kunovski.com\u00a0; source:https://github.com/viktorku/kunovski\u00a0\u2026",
+            "username": "progsmog",
+            "num_likes": 39,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1022078705890471938": {
+            "id": "1022078705890471938",
+            "text": "@ag_dubs talks about #wasm + #rustlang and does some live coding also in order to show us what we can achieve with @rustlang @rustwasm. Absolutely amazing!\n#barcelona @TeamAtAlphahttps://www.youtube.com/watch?v=47M3TvrfmeY\u00a0\u2026",
+            "username": "bcnrust",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1018478590013386752": {
+            "id": "1018478590013386752",
+            "text": "Mood - \"Holla at a playa when you see him in the streets\"\n\nStatus - \"Wrote a Rust virtual dom that supports both client side and server side rendering. Complete with an `html!` macro\"\n\nThis is another Rust + WebAssembly thing that I'll be open sourcing ~soon (;pic.twitter.com/YcKPbR69g6",
+            "username": "chinedufn",
+            "num_likes": 480,
+            "num_retweets": 82,
+            "num_replies": 10
+        },
+        "1017934106318032901": {
+            "id": "1017934106318032901",
+            "text": "Want math support in @rustwasm and in core / no_std?\n\nHelp us port libm to @rustlang!https://github.com/japaric/libm#libm\u00a0\u2026",
+            "username": "japaricious",
+            "num_likes": 90,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "1017933712720318464": {
+            "id": "1017933712720318464",
+            "text": "wasm-pack 0.4.1 is out!\n\nfixes a bug in package.json when targeting @nodejs, but also has a secret super power: full API docs! \n\nthanks so much to @fitzgen, mciantyre, Brooooooklyn, SoryRawyer, @mnt_io, and @steveklabnik for the awesome work! https://github.com/rustwasm/wasm-pack/releases/tag/v0.4.1\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 59,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1016930512382889985": {
+            "id": "1016930512382889985",
+            "text": "Progress in the WASM space is super amazing \u2013 especially seeing how cross-integrated all this work is. Don't forget wasm-bindgen outputs TypeScript definitions!https://twitter.com/rustwasm/status/1016759779207700480\u00a0\u2026",
+            "username": "killercup",
+            "num_likes": 68,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1015039230198800385": {
+            "id": "1015039230198800385",
+            "text": "I built a web-based toy from @Atrix256's explanation of noise frequencies: https://blog.demofox.org/2017/10/25/transmuting-white-noise-to-blue-red-green-purple/\u00a0\u2026\n\nBuilt using @rustlang / @rustwasm running on a web worker. No attempt at efficiency but still not bad! Source/writeup coming soon.\n\nhttps://tom.shea.at/noise/\u00a0pic.twitter.com/RiVbrA8iCi",
+            "username": "thristhart",
+            "num_likes": 112,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "1015165662178828290": {
+            "id": "1015165662178828290",
+            "text": "Look forward to speaking at the conference. I will be covering everything (tools, sample codes, success stories & more) that one would need to get started with building real-world applications using webassmbly @mozTechSpeakers @rustwasmhttps://twitter.com/ScotlandJS/status/1014835380078694400\u00a0\u2026",
+            "username": "dvigneshwer",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1014941982827991042": {
+            "id": "1014941982827991042",
+            "text": "I made a thing. With @rustwasm: https://migerh.github.io/rustwasm-gif/\u00a0 It reverses #gifs in the browser without a server backend using a #wasm module & can process multiple gifs in parallel (depending on the number of cpu cores). See the source here: https://github.com/migerh/rustwasm-gif\u00a0\u2026 #rust #webapp",
+            "username": "migerh",
+            "num_likes": 23,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1014215712754290689": {
+            "id": "1014215712754290689",
+            "text": "Yay! I was invited to join the @rustwasm wasm-bindgen team! As part of that opensource initiative, I will be reviewing pull requests, helping with issues and making the Rust+WebAssembly more accessible! ",
+            "username": "marcin_ba",
+            "num_likes": 36,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1011628109421039618": {
+            "id": "1011628109421039618",
+            "text": "Yesterday my 3 PRs to @rustwasm's bindings were merged, marking my first contribution to #rustlang community.  Finally! I am so happy that I can contribute to the community!\nCheckout the project here:https://github.com/rustwasm/wasm-bindgen\u00a0\u2026",
+            "username": "twify93",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1011309526421684224": {
+            "id": "1011309526421684224",
+            "text": "Rust + WebAssembly has mind-blowing potential. Here's a post that lays out the story with great clarity.https://twitter.com/ag_dubs/status/1011307466519433216\u00a0\u2026",
+            "username": "aaron_turon",
+            "num_likes": 32,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1011307466519433216": {
+            "id": "1011307466519433216",
+            "text": "curious about what the @rustwasm team's vision is for @rustlang and #webassembly ? check out this post about our goals for the 2018 edition!https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 52,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "1009888148267196418": {
+            "id": "1009888148267196418",
+            "text": "\u201cY'all are already using #WebAssembly \u2014 without even realizing!\u201d \u2014 @_jayphelps's intro to WebAssembly and shoutout to Mozilla's \u201coxidized\u201d @rustlang-to-wasm sourcemaps parser #dinojs\nhttps://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/\u00a0\u2026pic.twitter.com/RKlQIwkM2Q \u2013 at The Studio Loft",
+            "username": "slsoftworks",
+            "num_likes": 30,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1009166827996438528": {
+            "id": "1009166827996438528",
+            "text": "buried lead on the @Dropbox article about their fancy new compression system: it's all written in @rustlang and a WASM demo is running in the browser!pic.twitter.com/rJdYYF8Kco",
+            "username": "adam_n_p",
+            "num_likes": 116,
+            "num_retweets": 42,
+            "num_replies": 1
+        },
+        "1008784679229587461": {
+            "id": "1008784679229587461",
+            "text": " wasm-pack 0.4.0 is out! \n\nso many awesome things in this release- brought to you by 8 new contributors to the project! \n\nthanks so much to kohensu, @clanehin, @kedromelon, @robertohuertasm, @FreeMasen, @migerh, @TomasHubelbauer, and @spacekookie!https://github.com/ashleygwilliams/wasm-pack/releases/tag/v0.4.0\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 54,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "1006303677638995968": {
+            "id": "1006303677638995968",
+            "text": "Dont know how to get started with Rust and WebAssembly? Dont worry here is an intro blog post #rustlang @rustwasm #wasm @WasmWeekly #gohackingonwasmhttps://medium.com/@sendilkumarn/getting-started-into-rust-and-webassembly-458b284f17ac\u00a0\u2026",
+            "username": "sendilkumarn",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1004796605067939845": {
+            "id": "1004796605067939845",
+            "text": "Want to contribute to wasm-bindgen's parse typescript definition files? check this out https://github.com/rustwasm/wasm-bindgen/labels/frontend%3Atypescript\u00a0\u2026 #rust #wasm",
+            "username": "spastorino",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1004996548437176320": {
+            "id": "1004996548437176320",
+            "text": "Yet another awesome blog post by @linclark \"\"\"Instead, it\u2019s useful because it gives you a mental model of how JavaScript and WebAssembly work together\"\"\"  @rustwasmhttps://hacks.mozilla.org/2018/06/babys-first-rustwebassembly-module-say-hi-to-jsconf-eu/\u00a0\u2026",
+            "username": "sendilkumarn",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1004355808480591872": {
+            "id": "1004355808480591872",
+            "text": "I've implemented a first prototype of wasm-bindgen-typescript https://github.com/rustwasm/wasm-bindgen/pull/228\u00a0\u2026 and it's now merged. There are still a lot of things to fix and do. If you want to contribute, please ping me, I will be more than happy to mentor/help with the pending tasks here. #rust #wasm",
+            "username": "spastorino",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1002398427009781760": {
+            "id": "1002398427009781760",
+            "text": "Crates You Should Know: the wasm tools\u2014with a #WebAssembly intro, and then a look at wasm-bindgen and wasm-pack.\n\nhttps://newrustacean.com/show_notes/cysk/wasm/index.html\u00a0\u2026\n@WasmWeekly @rustwasm @rustlang",
+            "username": "newrustacean",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1002185432581492736": {
+            "id": "1002185432581492736",
+            "text": " wasm-pack 0.3.0 is out! \n\nlots of great stuff in this release: typescript type files generated by default, @nodejs target flag, logging, and more! thanks so much to @mgattozzi @6b766e @djfarly @yoshuawuyts @_ojkwon! #rustlang #webassemblyhttps://github.com/ashleygwilliams/wasm-pack/releases/tag/v0.3.0\u00a0\u2026",
+            "username": "ag_dubs",
+            "num_likes": 68,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1000305919442464768": {
+            "id": "1000305919442464768",
+            "text": "hello #RustFest - come say hi if u wanna talk about @rustwasm !! i have stickers pic.twitter.com/RgvdeYHCuH",
+            "username": "ag_dubs",
+            "num_likes": 69,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "996320296708853760": {
+            "id": "996320296708853760",
+            "text": "How can we do awesome things with #Webassembly? What does it offer? How easy it is to kick start WebAssembly in your application? We can compare the performance differences with native #JavaScript.\n\nWatch @sendilkumarn's talk: https://www.youtube.com/watch?v=V8tXLos5UKg\u00a0\u2026pic.twitter.com/cCjRCmTM9L",
+            "username": "amsterdamjs",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "992149635610234880": {
+            "id": "992149635610234880",
+            "text": "Just published the Twiggy  code size profiler to http://crates.io\u00a0!\n\nhttps://crates.io/crates/twiggy\u00a0",
+            "username": "fitzgen",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "992108136726085632": {
+            "id": "992108136726085632",
+            "text": "Here is our next @GSOC Student Post by Jevan Chan. I am his mentor for Google Summer of Code, and I'm thrilled to be working with him on this project. @ag_dubs @rustlang fams, expect some awesome collab! \nhttps://medium.com/webpack/webpack-with-webassembly-gsoc-2018-week-0-f77f9841b01\u00a0\u2026\n#webpack #webassembly #wasm #rustlang @rustlang",
+            "username": "TheLarkInn",
+            "num_likes": 54,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "991446674613592065": {
+            "id": "991446674613592065",
+            "text": "Reminder: we are meeting tomorrow evening for a hands-on Rust and WebAssembly workshop!\n\nhttps://www.meetup.com/PDXRust/events/249474845/\u00a0\u2026\n\nSee you there!",
+            "username": "PDXRust",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "989527579357990913": {
+            "id": "989527579357990913",
+            "text": "If you are like me, then you have wondered how dynamic dispatch works in WebAssembly. \n\nLet's dig into the wasm and x86-64 disassemblies for Rust trait objects and compare them!\n\nhttp://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html\u00a0\u2026",
+            "username": "fitzgen",
+            "num_likes": 103,
+            "num_retweets": 35,
+            "num_replies": 0
+        },
+        "984484635953397761": {
+            "id": "984484635953397761",
+            "text": "Tutorial: Conway's Game of Life in Rust and WebAssembly\n\nhttps://rust-lang-nursery.github.io/rust-wasm/game-of-life/introduction.html\u00a0\u2026\n\nCovers:\n* Setting up the toolchain and making a hello world\n* Designing Rust programs for WebAssembly\n* Debugging\n* Time profiling\n* Code size profiling\n\nPlease give us feedback!",
+            "username": "fitzgen",
+            "num_likes": 160,
+            "num_retweets": 54,
+            "num_replies": 3
+        },
+        "982028604673372161": {
+            "id": "982028604673372161",
+            "text": "Our next meetup will be a hands-on Rust and WebAssembly workshop!\n\nWednesday, May 2nd at 6:30pm!https://www.meetup.com/PDXRust/events/249474845/\u00a0\u2026",
+            "username": "PDXRust",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1111374325192392704": {
+            "id": "1111374325192392704",
+            "text": "It's that time again: This Week in Rust and WebAssembly 15!https://rustwasm.github.io/2019/03/28/this-week-in-rust-and-wasm-015.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1110932283337273344": {
+            "id": "1110932283337273344",
+            "text": "A progress update on our Gloo toolkit: we've got onion layers, timers, and events!https://rustwasm.github.io/2019/03/26/gloo-onion-layers.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1110270748331929600": {
+            "id": "1110270748331929600",
+            "text": "Welcome Pauan to the Rust and WebAssembly domain working group core team! https://internals.rust-lang.org/t/welcome-pauan-to-the-rust-and-webassembly-domain-working-group-core-team/9707\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 26,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1109124403239907328": {
+            "id": "1109124403239907328",
+            "text": " PSA: You don't have to use npm or a JS bundler to use wasm-pack and wasm-bindgen!\n\n(Of course, you can if you want to!)\n\nSeen some people mistakenly believe that they are required and wanted to clear the air. More docs improvements on the way too :)\n\nhttps://rustwasm.github.io/docs/wasm-bindgen/examples/without-a-bundler.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 73,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1108854032750145536": {
+            "id": "1108854032750145536",
+            "text": "This Week in Rust and WebAssembly 14!!\n\nRead all about it! https://rustwasm.github.io/2019/03/21/this-week-in-rust-and-wasm-014.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 34,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1105529920719998977": {
+            "id": "1105529920719998977",
+            "text": " Let's Build Gloo Together \n\nThis is a call for participation on Gloo, the modular toolkit for building Rust and Wasm libraries and apps that we planned in our 2019 roadmap https://rustwasm.github.io/2019/03/12/lets-build-gloo-together.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 133,
+            "num_retweets": 41,
+            "num_replies": 1
+        },
+        "1103759315205206017": {
+            "id": "1103759315205206017",
+            "text": "Check out our thirteenth weekly summary of all the happenings in Rust and WebAssembly!https://rustwasm.github.io/2019/03/07/this-week-in-rust-and-wasm-013.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1101248056786247680": {
+            "id": "1101248056786247680",
+            "text": "TWiRaWA #12!\n\n\n\nThis Week in Rust and WebAssembly #12!\n\nhttps://rustwasm.github.io/2019/02/28/this-week-in-rust-and-wasm-012.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1101178376012718080": {
+            "id": "1101178376012718080",
+            "text": "Want to join us for the next WG meeting? Details here:https://github.com/rustwasm/team/issues/258\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1101177034397474816": {
+            "id": "1101177034397474816",
+            "text": "Couldn't make it to today's Rust and WebAssembly working group meeting? No problem, the recording is up on youtube!https://youtu.be/3YjN69U6ySE\u00a0",
+            "username": "rustwasm",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1098670978362617856": {
+            "id": "1098670978362617856",
+            "text": "This Week in Rust and WebAssembly issue 11 just published!\n\n(Yes, it is actually \"week\" and not \"month\" this time!)https://rustwasm.github.io/2019/02/21/this-week-in-rust-and-wasm-011.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 38,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1098647019873230849": {
+            "id": "1098647019873230849",
+            "text": "Can't make it to our Rust and WebAssembly working group meetings? No problem! We record them and upload the recordings to youtube!\n\nPlaylist: https://www.youtube.com/playlist?list=PL85XCvVPmGQjEZGR6k-M7VBG-2OrEqoaI\u00a0\u2026\n\nToday's meeting:https://www.youtube.com/watch?v=T_Ub-s9SEYY&t=0s&index=16&list=PL85XCvVPmGQjEZGR6k-M7VBG-2OrEqoaI\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1095767987485761536": {
+            "id": "1095767987485761536",
+            "text": "This Week (er Month) in Rust and WebAssembly issue #10 is out!\n\nGet your updates on:\n\n* #RustWasm2019 posts! \n\n* Wasm at the 2019 Rust All Hands \n\n* New releases of wasm-pack, wasm-bindgen, and Twiggy\n\n* and more!https://rustwasm.github.io/2019/02/13/this-week-in-rust-and-wasm-010.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 38,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1089994111514341376": {
+            "id": "1089994111514341376",
+            "text": "New RFC: The 2019 roadmap for the Rust and WebAssembly working group!\n\nhttps://github.com/rustwasm/rfcs/pull/7\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 113,
+            "num_retweets": 38,
+            "num_replies": 3
+        },
+        "1088518727027482624": {
+            "id": "1088518727027482624",
+            "text": "Here are some crates for Rust and WebAssembly development that you should get familiar with \nhttps://rustwasm.github.io/book/reference/crates.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 39,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1084861289397014529": {
+            "id": "1084861289397014529",
+            "text": "Good first issue for Twiggy code size profiler for wasm (and other kinds of binaries)!\n\nOur code to sniff what kind of binary (wasm vs elf vs ...) we are given when there isn't a file extension is subpar, and could use some help!https://github.com/rustwasm/twiggy/issues/226\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1082332041914372097": {
+            "id": "1082332041914372097",
+            "text": "We are resuming working group meetings for 2019 this Thursday, 17:00 UTC!\n\nhttps://github.com/rustwasm/team/issues/244\u00a0\u2026\n\nInterested in Rust and WebAssembly? Have a question? Come join us! We'll be holding open office hours again!",
+            "username": "rustwasm",
+            "num_likes": 32,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1072555526616162305": {
+            "id": "1072555526616162305",
+            "text": "Have ideas about what Rust and Wasm should look like in 2019? Share your thoughts with us and help us come up with a 2019 roadmap!\n\n......\n#RustWasm2019https://twitter.com/rustwasm/status/1070732396184698881\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 36,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1073255031569149952": {
+            "id": "1073255031569149952",
+            "text": "Our next WG meeting is starting in fifteen minutes! We'll be holding open office hours, so if you have some questions about Rust and WebAssembly, be sure to stop by!https://github.com/rustwasm/team/issues/240\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1072911693867450368": {
+            "id": "1072911693867450368",
+            "text": "Seed is a new Elm-inspired frontend framework for Rust and Wasm!\n\nhttps://github.com/David-OConnor/seed\u00a0\u2026 ",
+            "username": "rustwasm",
+            "num_likes": 39,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1072238680599814146": {
+            "id": "1072238680599814146",
+            "text": "New good first issue! Help us port wasm-bindgen's examples to Rust 2018 edition!\n\nhttps://github.com/rustwasm/wasm-bindgen/issues/1099\u00a0\u2026\n",
+            "username": "rustwasm",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1070732396184698881": {
+            "id": "1070732396184698881",
+            "text": "Reflecting on Rust and WebAssembly in 2018https://rustwasm.github.io/2018/12/06/reflecting-on-rust-and-wasm-in-2018.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 63,
+            "num_retweets": 33,
+            "num_replies": 1
+        },
+        "1068200054425436160": {
+            "id": "1068200054425436160",
+            "text": "At next week's WG meeting, we will be holding open office hours! \n\n\n\nHave a question about Rust and Wasm? Come stop by and we can discuss it as a group!https://github.com/rustwasm/team/issues/240\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1067928793824804865": {
+            "id": "1067928793824804865",
+            "text": "This week in Rust and WebAssembly #9\n\nHuge week https://rustwasm.github.io/2018/11/28/this-week-in-rust-wasm-009.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 48,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1057580802127642626": {
+            "id": "1057580802127642626",
+            "text": "Did you know that we have Rust and Wasm working group meetings every Thursday at 17:00 UTC? \n\nDid you know that _anyone_ who is interested in Rust and Wasm is invited? \n\nAre you interested in Rust and Wasm? Come join us! https://github.com/rustwasm/team/issues/235\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 75,
+            "num_retweets": 24,
+            "num_replies": 7
+        },
+        "1054724935174811648": {
+            "id": "1054724935174811648",
+            "text": "Multithreading Rust and Wasm! \n\nUsing SharedArrayBuffer to share wasm memory between workers in wasm-bindgenhttps://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 177,
+            "num_retweets": 66,
+            "num_replies": 2
+        },
+        "1052944439734349824": {
+            "id": "1052944439734349824",
+            "text": "Our weekly working group meeting is starting in 1.5 hours. Interested in rust+wasm? Come join us!https://github.com/rustwasm/team/issues/234\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1052941717945618433": {
+            "id": "1052941717945618433",
+            "text": "Serverless Rust+Wasm on Amazon Lambda!https://blog.scottlogic.com/2018/10/18/serverless-rust.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 22,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1052243354799497216": {
+            "id": "1052243354799497216",
+            "text": "How to compile Rust to wasm and run it on @CIoudfare workers!https://twitter.com/Cloudflare/status/1052168033949618176\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 37,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1050428421036072961": {
+            "id": "1050428421036072961",
+            "text": "Our working group meeting is starting in ten minutes, come join us :)https://github.com/rustwasm/team/issues/233\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1047889741130084352": {
+            "id": "1047889741130084352",
+            "text": "Rust+Wasm working group meeting starting in twenty minutes!\n\nCome one, come all!https://github.com/rustwasm/team/issues/231\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1046843280535613440": {
+            "id": "1046843280535613440",
+            "text": "This Week in Rust and WebAssembly #8\n\nhttps://rustwasm.github.io/2018/10/01/this-week-in-rust-wasm-008.html\u00a0\u2026\n\nBig week:\n\n Published the web-sys crate!\n Big wasm-pack release!\n and more!",
+            "username": "rustwasm",
+            "num_likes": 45,
+            "num_retweets": 19,
+            "num_replies": 0
+        },
+        "1045352753201967105": {
+            "id": "1045352753201967105",
+            "text": "Come join our working group meeting! Starting in 20 minutes!https://github.com/rustwasm/team/issues/230\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1044971008883478528": {
+            "id": "1044971008883478528",
+            "text": "The great thing about the Web is it is so easy to include live examples!\n\n We have a simple paint program written with `web-sys` embedded right in the `web-sys` announcement blog post!\n\n And an FM synthesizer built with `web-sys` and Web Audio in an iframe!pic.twitter.com/7u0anGLXe6",
+            "username": "rustwasm",
+            "num_likes": 77,
+            "num_retweets": 30,
+            "num_replies": 2
+        },
+        "1044968394657689600": {
+            "id": "1044968394657689600",
+            "text": "I can't believe I forgot to include the link the announcement...\n\n\nhttps://rustwasm.github.io/2018/09/26/announcing-web-sys.html\u00a0\u2026https://twitter.com/rustwasm/status/1044966382910066688\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1044967812635099136": {
+            "id": "1044967812635099136",
+            "text": "OMG I FORGOT THE LINK TO THE ANNOUNCEMENThttps://rustwasm.github.io/2018/09/26/announcing-web-sys.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 76,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1044967108591804418": {
+            "id": "1044967108591804418",
+            "text": "HUGE THANKS to everyone who helped make this happen! Be sure to check out the credits roll at the end of the announcement for everyone's name! ",
+            "username": "rustwasm",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1044966609821958145": {
+            "id": "1044966609821958145",
+            "text": "Additionally, the `js-sys` crate (bindings to ECMAScript APIs) is now 100% feature complete!",
+            "username": "rustwasm",
+            "num_likes": 58,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1044966382910066688": {
+            "id": "1044966382910066688",
+            "text": "Announcing the `web-sys` crate! \n\nBindings to\n\n the DOM\n Web Audio\n 2D canvas\n Web GL\n fetch\n\nand the whole Web API!",
+            "username": "rustwasm",
+            "num_likes": 672,
+            "num_retweets": 243,
+            "num_replies": 9
+        },
+        "1044590669707149317": {
+            "id": "1044590669707149317",
+            "text": "This is our biggest `wasm-pack` release yet! https://rustwasm.github.io/2018/09/24/the-biggest-wasm-pack-release-yet.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 50,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "1042816449046175744": {
+            "id": "1042816449046175744",
+            "text": "Join us in fifteen minutes for the next @rustwasm WG meeting!https://github.com/rustwasm/team/issues/228\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1040369375499485185": {
+            "id": "1040369375499485185",
+            "text": "We're making a list of Awesome Rust and WebAssembly projects, tools, libraries, and resources -- help us fill it out!https://github.com/rustwasm/awesome-rust-and-webassembly\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 94,
+            "num_retweets": 28,
+            "num_replies": 4
+        },
+        "1040311620700971008": {
+            "id": "1040311620700971008",
+            "text": "Just published the video of this meeting! \n\nCheck it out, lots of fun planning and goals discussion!https://youtu.be/r-VTeRCpnBA\u00a0",
+            "username": "rustwasm",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1040282718443995136": {
+            "id": "1040282718443995136",
+            "text": "Our working group meeting is starting in five minutes! Come help us plan for the next six week sprint :)https://github.com/rustwasm/team/issues/227\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1039928282995613696": {
+            "id": "1039928282995613696",
+            "text": "If you find this interesting, you may also enjoy reading the wasm-bindgen guide's internal design section: https://rustwasm.github.io/wasm-bindgen/contributing/design/index.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1039927965453180928": {
+            "id": "1039927965453180928",
+            "text": "How does wasm-bindgen get JS and @rustwasm talking to each other? \n\nRyan Levick dug into wasm-bindgen's internals and wrote up a report! \nhttps://blog.ryanlevick.com/posts/wasm-bindgen-interop/\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 33,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1038105177037791233": {
+            "id": "1038105177037791233",
+            "text": "Format your rust code in the browser w/ rustfmt compiled to wasm!\n\nWhy not?\n\nhttps://alexcrichton.github.io/rustfmt-wasm/\u00a0",
+            "username": "rustwasm",
+            "num_likes": 48,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1037793747046608896": {
+            "id": "1037793747046608896",
+            "text": "Recordings of all our WG meetings are up on youtube!\n\nSorry for the delay with some of the last few meetings, all up to date now :)https://twitter.com/RustVideos/status/1037785364914552832\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1037745914507550720": {
+            "id": "1037745914507550720",
+            "text": "Rust and WebAssembly working group meeting is starting in 5 minutes!\n\nCome one, come all!https://github.com/rustwasm/team/issues/225\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1037740262783471616": {
+            "id": "1037740262783471616",
+            "text": "New RFC: how to express dependencies on npm packages!\n\nhttps://github.com/rustwasm/rfcs/pull/4\u00a0\u2026\n",
+            "username": "rustwasm",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1037034993850015744": {
+            "id": "1037034993850015744",
+            "text": "The seventh issue of \"This Week in Rust and WebAssembly\" is fresh off the presses!\n\nhttps://rustwasm.github.io/2018/09/04/this-week-in-rust-wasm-007.html\u00a0\u2026\n\n* Parsing Wordpress's Gutenberg document format in Rust+Wasm\n* New wasm-bindgen release\n* and more!",
+            "username": "rustwasm",
+            "num_likes": 39,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1035222967905447936": {
+            "id": "1035222967905447936",
+            "text": "Thanks for the meeting y'all! ^_^",
+            "username": "rustwasm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1035208878919569408": {
+            "id": "1035208878919569408",
+            "text": "The Rust and WebAssembly domain WG weekly meeting is starting in 7 minutes! Come join us!https://github.com/rustwasm/team/issues/223\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1034927154016837633": {
+            "id": "1034927154016837633",
+            "text": "New good first issue for helping improve the Rust+WebAssembly book!https://github.com/rustwasm/book/issues/81\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1031664176454762496": {
+            "id": "1031664176454762496",
+            "text": "Enjoy @rustwasm *and* writing? Help us pull reference material out of our Game of Life tutorial!https://github.com/rustwasm/book/issues/74\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1029423510609788930": {
+            "id": "1029423510609788930",
+            "text": "Catch up with the last week (or so) of Rust and WebAssembly in...\n\n(drumroll )\n\nThis Week in Rust and WebAssembly Issue #6!!\n\n(applause )https://rustwasm.github.io/2018/08/14/this-week-in-rust-wasm-006.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1029124483720785920": {
+            "id": "1029124483720785920",
+            "text": "Just published `wasm-bindgen` 0.2.16 \n\nChangelog: https://github.com/rustwasm/wasm-bindgen/blob/master/CHANGELOG.md#0216\u00a0\u2026\n\nAt the same time, we also published the first release of `wasm-bindgen-futures`, a crate for seamlessly converting between JavaScript Promises and Rust Futures!  https://crates.io/crates/wasm-bindgen-futures\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 170,
+            "num_retweets": 66,
+            "num_replies": 2
+        },
+        "1029123124481024000": {
+            "id": "1029123124481024000",
+            "text": "Made with Rust, wasm-bindgen, and wasm-pack https://twitter.com/WasmWeekly/status/1028873460494331904\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1028027533558599680": {
+            "id": "1028027533558599680",
+            "text": "We are REALLY close to having bindings for ALL the JS global things in `js-sys`. Help us get across the finish line!\n\nHere is a summary of the few bits still left:https://github.com/rustwasm/wasm-bindgen/issues/275#issuecomment-412208533\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 92,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "1027332585926475776": {
+            "id": "1027332585926475776",
+            "text": "New mega good-first-issue! Help wanted!\n\nWe need to add inheritance relationships between all the imported JS types in the `js-sys` crate!https://github.com/rustwasm/wasm-bindgen/issues/670\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1025524349934043136": {
+            "id": "1025524349934043136",
+            "text": "New good-first-issue for Twiggy, our wasm code size profiler! Help us help folks keep their wasm binaries small :)https://github.com/rustwasm/twiggy/issues/104\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 19,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1025088321091817473": {
+            "id": "1025088321091817473",
+            "text": "Want to help out Rust and WebAssembly? Ever wanted to hack on an allocator? Here is a good-first-issue for making wee_alloc work on stable rust, now that `GlobalAlloc` is stable!https://github.com/rustwasm/wee_alloc/issues/57\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 38,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1024766555379232769": {
+            "id": "1024766555379232769",
+            "text": "What's happened the last couple weeks in Rust and WebAssembly land?\n\nFind out here:https://rustwasm.github.io/2018/08/01/this-week-in-rust-wasm-005.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 63,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "1024359118755098624": {
+            "id": "1024359118755098624",
+            "text": "The RFC for expressing imported JS types' inheritance relationships in wasm-bindgen is entering its Final Comment Period!\n\nhttps://github.com/rustwasm/rfcs/pull/2\u00a0\u2026\n\nLast chance to voice any concerns with the design, if you have them!",
+            "username": "rustwasm",
+            "num_likes": 45,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "1022609480394002434": {
+            "id": "1022609480394002434",
+            "text": "SUPER excited to announce the initial release of the `js-sys` crate!\n\nhttps://rustwasm.github.io/2018/07/26/announcing-the-js-sys-crate.html\u00a0\u2026\n\nContains bindings to all the JS globals guaranteed to exist by the ECMAScript standard all in one place, eg Array, Function, Map, Set, etc...",
+            "username": "rustwasm",
+            "num_likes": 220,
+            "num_retweets": 104,
+            "num_replies": 3
+        },
+        "1020051987834867712": {
+            "id": "1020051987834867712",
+            "text": "wasm-bindgen 0.2.12 is out the door! \n\nFixes breakage due to wasm custom sections stabilizing in today's nightly. That's the kind of breakage we can get behind \nhttps://crates.io/crates/wasm-bindgen/0.2.12\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 42,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1017516619835174912": {
+            "id": "1017516619835174912",
+            "text": "RFC: Support single inheritance and up/down casting in `wasm-bindgen`\n\nHave opinions about how to bind Web APIs that use inheritance in `wasm-bindgen`? Share 'em here!https://github.com/rustwasm/rfcs/pull/2\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1017477134879780866": {
+            "id": "1017477134879780866",
+            "text": "We've started recording and publishing our meetings to @Youtube! \n\n\nCheck out the playlist here:https://www.youtube.com/playlist?list=PL85XCvVPmGQjEZGR6k-M7VBG-2OrEqoaI\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 67,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1017076712763371523": {
+            "id": "1017076712763371523",
+            "text": "This Week in Rust and WebAssembly issue #4 is out now! https://rustwasm.github.io/2018/07/10/this-week-in-rust-wasm-004.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 64,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1016759779207700480": {
+            "id": "1016759779207700480",
+            "text": "We just landed the beginnings of a `web-sys` crate that is entirely mechanically generated from WebIDL! \n\nBut we need help enabling support for web audio, canvas 2D, webgl, etc!\n\nInfo on contributing: https://rustwasm.github.io/wasm-bindgen/web-sys.html\u00a0\u2026\n\nIssues: https://github.com/rustwasm/wasm-bindgen/issues?q=is%3Aissue+is%3Aopen+label%3Aweb-sys\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 111,
+            "num_retweets": 39,
+            "num_replies": 1
+        },
+        "1014276936221188096": {
+            "id": "1014276936221188096",
+            "text": "We're implementing bindings to `Generator` in our bindings generator\n\n<yo-dawg.jpg>\n\nhttps://github.com/rustwasm/wasm-bindgen/pull/380\u00a0\u2026\n\n(Want to help us implement more bindings? Check out https://github.com/rustwasm/wasm-bindgen/issues/275\u00a0\u2026!)",
+            "username": "rustwasm",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1013832647104069633": {
+            "id": "1013832647104069633",
+            "text": "Our Vision for `wasm-bindgen`\n\nWhere it is going, and how you can help us get it there https://rustwasm.github.io/2018/07/02/vision-for-wasm-bindgen.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 53,
+            "num_retweets": 28,
+            "num_replies": 0
+        },
+        "1011299090007642114": {
+            "id": "1011299090007642114",
+            "text": "Our Vision for Rust and WebAssembly\n\n+------https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 181,
+            "num_retweets": 80,
+            "num_replies": 1
+        },
+        "1009173005077868544": {
+            "id": "1009173005077868544",
+            "text": "We need *lots* of help implementing bindings for ALL the ECMAScript global functions and objects! Come get involved in wasm-bindgen development :)https://github.com/rustwasm/wasm-bindgen/issues/275\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 65,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "1005229495316566016": {
+            "id": "1005229495316566016",
+            "text": "Looking for a good first issue to contribute in #rustwasm check this outhttps://github.com/rustwasm/book/issues/4\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1003749892500611074": {
+            "id": "1003749892500611074",
+            "text": "This week in Rust and WebAssembly Issue 3: project templates, better panic debugging,  and s!https://rustwasm.github.io/2018/06/04/this-week-in-rust-wasm-003.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 45,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "999430367441440768": {
+            "id": "999430367441440768",
+            "text": "Debug panics on `wasm32-unknown-unknown` easier with the  `console_error_panic_hook` cratehttps://github.com/rustwasm/console_error_panic_hook\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "999318050464714752": {
+            "id": "999318050464714752",
+            "text": "We're creating a template for jump-starting Rust and WebAssembly projects.\n\nWhat goodies, boilerplate, and batteries should come included?https://github.com/rustwasm/rust_wasm_template\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 148,
+            "num_retweets": 60,
+            "num_replies": 1
+        },
+        "996465866048000000": {
+            "id": "996465866048000000",
+            "text": "This Week in Rust  and WebAssembly  #002\n#rustlang #webassemblyhttps://rustwasm.github.io/2018/05/14/this-week-in-rust-wasm-002.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 48,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "990374351714299904": {
+            "id": "990374351714299904",
+            "text": "That moment when your issue is turned into a new crate @rustlang #webassembly https://github.com/rustwasm/wasm-bindgen/issues/176#issuecomment-385125353\u00a0\u2026  + https://crates.io/crates/wbg-rand\u00a0",
+            "username": "rustwasm",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "988866766506897409": {
+            "id": "988866766506897409",
+            "text": "This Week in Rust  and WebAssembly  #001\n\nhttps://rustwasm.github.io/2018/04/21/this-week-in-rust-wasm-001.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 18,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "982291856074526720": {
+            "id": "982291856074526720",
+            "text": "Issue #1 of the Rust and WebAssembly newsletter is hot off the presses!\n\nWelcome to this week in Rust and WebAssembly! +https://rustwasm.github.io/2018/04/05/welcome-to-this-week-in-rust.html\u00a0\u2026",
+            "username": "rustwasm",
+            "num_likes": 56,
+            "num_retweets": 26,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "slsoftworks": 4,
+        "MaxBittker": 2,
+        "ryan_levick": 4,
+        "_lrlna": 2,
+        "RustBerlin": 1,
+        "alesgeno": 2,
+        "eddyb_r": 1,
+        "ag_dubs": 29,
+        "simach": 1,
+        "hermanradtke": 1,
+        "linclark": 2,
+        "RReverser": 4,
+        "fitzgen": 13,
+        "MikuroXina": 1,
+        "jeremylikness": 1,
+        "rustlangfa": 1,
+        "hughlang": 1,
+        "HelloRenj": 1,
+        "chinedufn": 4,
+        "chikoski": 1,
+        "AsgerNyman": 1,
+        "lilian_moraru": 1,
+        "passy": 2,
+        "Gisleburt": 1,
+        "trimryan": 2,
+        "KevinHoffman": 2,
+        "fish0398": 1,
+        "yoshuawuyts": 4,
+        "jntrnr": 1,
+        "TatumCreative": 1,
+        "Argorak": 1,
+        "T5uku5hi": 4,
+        "surajdjagtap": 1,
+        "path1ckey": 1,
+        "BSoptei": 1,
+        "jviide": 2,
+        "k33g_org": 1,
+        "sendilkumarn": 8,
+        "DebugSteven": 1,
+        "twify93": 2,
+        "rosstdharrison": 1,
+        "_rvidal": 2,
+        "ankurs3thi": 1,
+        "kevinSuttle": 1,
+        "robertohuertasm": 1,
+        "rydgel": 1,
+        "rustlang": 2,
+        "arvidep": 1,
+        "mattsmithabb": 1,
+        "WasmWeekly": 2,
+        "rippinrobr": 1,
+        "aparagas021": 3,
+        "nikgraf": 1,
+        "vka_me": 1,
+        "_jonesian": 1,
+        "KingstonTime": 3,
+        "shaneOsbourne": 1,
+        "ReinH": 1,
+        "ICDavidson": 1,
+        "Sander_Spies": 1,
+        "ScotlandJS": 1,
+        "kentcdodds": 1,
+        "RustVideos": 1,
+        "TooManyBees": 1,
+        "softprops": 1,
+        "mt_harrison": 1,
+        "luizirber": 1,
+        "gnunicornBen": 1,
+        "LudwigPacifici": 1,
+        "denar90_": 1,
+        "mnt_io": 1,
+        "ColbyCypherSoc": 1,
+        "sfhtml5": 1,
+        "_jayphelps": 1,
+        "waxzce": 1,
+        "acwervo": 1,
+        "progsmog": 1,
+        "bcnrust": 1,
+        "japaricious": 1,
+        "killercup": 1,
+        "thristhart": 1,
+        "dvigneshwer": 1,
+        "migerh": 1,
+        "marcin_ba": 1,
+        "aaron_turon": 1,
+        "adam_n_p": 1,
+        "spastorino": 2,
+        "newrustacean": 1,
+        "amsterdamjs": 1,
+        "TheLarkInn": 1,
+        "PDXRust": 2
+    },
+    "users_retweeted": [
+        "ag_dubs",
+        "fitzgen",
+        "sendilkumarn",
+        "slsoftworks",
+        "ryan_levick",
+        "RReverser",
+        "chinedufn",
+        "yoshuawuyts",
+        "T5uku5hi",
+        "aparagas021",
+        "KingstonTime",
+        "MaxBittker",
+        "_lrlna",
+        "alesgeno",
+        "linclark",
+        "passy",
+        "trimryan",
+        "KevinHoffman",
+        "jviide",
+        "twify93",
+        "_rvidal",
+        "rustlang",
+        "WasmWeekly",
+        "spastorino",
+        "PDXRust",
+        "RustBerlin",
+        "eddyb_r",
+        "simach",
+        "hermanradtke",
+        "MikuroXina",
+        "jeremylikness",
+        "rustlangfa",
+        "hughlang",
+        "HelloRenj",
+        "chikoski",
+        "AsgerNyman",
+        "lilian_moraru",
+        "Gisleburt",
+        "fish0398",
+        "jntrnr",
+        "TatumCreative",
+        "Argorak",
+        "surajdjagtap",
+        "path1ckey",
+        "BSoptei",
+        "k33g_org",
+        "DebugSteven",
+        "rosstdharrison",
+        "ankurs3thi",
+        "kevinSuttle",
+        "robertohuertasm",
+        "rydgel",
+        "arvidep",
+        "mattsmithabb",
+        "rippinrobr",
+        "nikgraf",
+        "vka_me",
+        "_jonesian",
+        "shaneOsbourne",
+        "ReinH",
+        "ICDavidson",
+        "Sander_Spies",
+        "ScotlandJS",
+        "kentcdodds",
+        "RustVideos",
+        "TooManyBees",
+        "softprops",
+        "mt_harrison",
+        "luizirber",
+        "gnunicornBen",
+        "LudwigPacifici",
+        "denar90_",
+        "mnt_io",
+        "ColbyCypherSoc",
+        "sfhtml5",
+        "_jayphelps",
+        "waxzce",
+        "acwervo",
+        "progsmog",
+        "bcnrust",
+        "japaricious",
+        "killercup",
+        "thristhart",
+        "dvigneshwer",
+        "migerh",
+        "marcin_ba",
+        "aaron_turon",
+        "adam_n_p",
+        "newrustacean",
+        "amsterdamjs",
+        "TheLarkInn"
+    ]
+}

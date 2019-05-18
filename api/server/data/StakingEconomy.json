@@ -1,0 +1,550 @@
+{
+    "is_complete": true,
+    "username": "StakingEconomy",
+    "retweeted": {
+        "1118556814726004737": {
+            "id": "1118556814726004737",
+            "text": "What is the price of blockchain security? In PoW, all rewards go to miners. In PoS, they are split between stakers and infrastructure providers.\n\nIn this post @FelixLts clears up some misconceptions around staking yields using a current snapshot of data:https://blog.chorus.one/the-truth-about-staking-yields/\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1113700050767495168": {
+            "id": "1113700050767495168",
+            "text": "Staking is one of the most important trends in crypto. If you want to keep up I recommend the @StakingEconomy newsletter. Interesting metrics from latest issue:\n- Cosmos hub launch = almost 50% of circulating token supply at stake \n- Almost $5B staked across all staking projectspic.twitter.com/FyF2HnIGjW",
+            "username": "ljxie",
+            "num_likes": 135,
+            "num_retweets": 44,
+            "num_replies": 8
+        },
+        "1113235495721402369": {
+            "id": "1113235495721402369",
+            "text": "Check out #14 of the @StakingEconomy https://medium.com/staking-economy/14-staking-goes-mainstream-c2de66ca5985\u00a0\u2026. Discussing the @cosmos launch, @EnigmaMPC secret nodes, @NuCypher lockdrop, the recent PoS decentralization debate @ChorusOne hosted & more",
+            "username": "crainbf",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1107791012586508289": {
+            "id": "1107791012586508289",
+            "text": "With more PoS protocols launching, Staking as a Service (\"SaaS\") ecosystem will keep expanding. When the cost to run a validator infrastructure is higher than the commission paid to these service providers, one would lean towards delegation to earn token denominated returns.",
+            "username": "manasilvora",
+            "num_likes": 64,
+            "num_retweets": 21,
+            "num_replies": 2
+        },
+        "1106947917649199105": {
+            "id": "1106947917649199105",
+            "text": "The most popular staking services in the crypto community :\n\n @staked_us\n @ChorusOne\n @vest\n  4  @CryptiumLabs\n  5  @mythoscapital\n  6  @StakingEconomy\n  7  @StakeCapital\n  8  @StakingFac\n  9  @FigmentNetworks\n 10 @bitfishlabs\n\nThe complete ranking : https://fifty.one/blockchain/staking\u00a0\u2026",
+            "username": "fiftydotone",
+            "num_likes": 103,
+            "num_retweets": 38,
+            "num_replies": 5
+        },
+        "1105243799389794305": {
+            "id": "1105243799389794305",
+            "text": "Less than 48 hours until #cosmoslaunch! Time to get up to speed with the key ideas behind @cosmos Cosmos and how they fit into the history of blockchains:https://medium.com/chorus-one/the-key-ideas-behind-the-cosmos-network-part-i-f659697e818d\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1101161800744255493": {
+            "id": "1101161800744255493",
+            "text": "Amazing overview of the complete Cosmos vision and associated tools (Tendermint, Cosmos SDK, IBC etc.) by @sunnya97:\n\nhttps://www.youtube.com/watch?v=hREydu6Llac\u00a0\u2026\n\nIf you only have 2hrs to get up to speed with what @cosmos is about, this has everything you need! ",
+            "username": "ChorusOne",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1100431208704589826": {
+            "id": "1100431208704589826",
+            "text": "15M LOOM are already in the delegation contract representing around 2.26% of the total circulating supply. \n\nGreat start with lots of room for growth, let's revisit this chart in a few weeks! pic.twitter.com/pPh6DOZnLI",
+            "username": "ChorusOne",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1098941679892131842": {
+            "id": "1098941679892131842",
+            "text": "Great comprehensible comparison of Proof-of-Stake implementations in #ethereum #tezos #cardano and #EOS by @FelixLts from @ChorusOne: https://blog.chorus.one/classifying-staking-implementations-a-framework/\u00a0\u2026pic.twitter.com/hvmCjUEDqy",
+            "username": "andimule",
+            "num_likes": 43,
+            "num_retweets": 20,
+            "num_replies": 4
+        },
+        "1097544275729022976": {
+            "id": "1097544275729022976",
+            "text": "1/ @ethereum Layer 2 scaling has arrived!  \n\nPlasma is now live and #decentralized (well it's getting there). \n\nYou can now buy @loomnetwork tokens and stake them for 12 months to earn 15% returns. \n\nSo how risky is it? https://www.slideshare.net/chorusone/loom-investment-thesis-chorus-one-131984382\u00a0\u2026",
+            "username": "rflxvty",
+            "num_likes": 35,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1096363652284928000": {
+            "id": "1096363652284928000",
+            "text": "1/ The @cosmos adversarial testnet competition \u201cGame of Stakes\u201d has just concluded. We want to take the time while waiting for the final results to congratulate the amazing distributed validator community that Cosmos was able to attract.",
+            "username": "ChorusOne",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "1095272552543354880": {
+            "id": "1095272552543354880",
+            "text": "We're thrilled to reveal the upcoming launch of our validator on the @loomnetwork!\n\nRead our announcement below and learn why and how we are planning to support Loom and their vision.https://blog.chorus.one/announcing-the-chorus-one-loom-validator/\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 54,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1093521192475078661": {
+            "id": "1093521192475078661",
+            "text": " Awesome new feature on the @onchainfx dashboard. We have added staking details from our friends at @StakingRewards \n\nGive them a follow and check out their site: https://stakingrewards.com/\u00a0\n\nAnd as always, you can build your own custom dashboard here:\n\nhttps://messari.io/onchainfx/view/699C129C\u00a0\u2026pic.twitter.com/Aq2iWibove",
+            "username": "MessariCrypto",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1090374581938995200": {
+            "id": "1090374581938995200",
+            "text": "Live now: listen to @crainbf explain PoS and what to expect in this space in the coming months\n\nhttp://decentralizedsummit.com/agenda/brian-f\u00a0\u2026\n\nThanks to @Mainframe_HQ for hosting!",
+            "username": "ChorusOne",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1090237939408404480": {
+            "id": "1090237939408404480",
+            "text": "@StakingEconomy - similar to TE, focus instead on PoS\n@unbankd_co - usually filler material I already get from elsewhere, follow it on the off chance that they catch something I didn't - happens a few times a week\n@nlw - jack of all trades utility - something between Bent/Unbankd",
+            "username": "anambroid",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1081350522882408448": {
+            "id": "1081350522882408448",
+            "text": "I\u2019m feeling excited to be included in this week\u2019s issue  Hope to hear and engage in more discussion about encouraging greater decentralization in #ProofOfStake networks https://twitter.com/StakingEconomy/status/1081250199857778688\u00a0\u2026",
+            "username": "cjremus",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1068163554174476289": {
+            "id": "1068163554174476289",
+            "text": "Learn about the top projects building on @cosmos and what made them chose the Cosmos Network to host their applications\n\n@irisnetwork, @Sentinel_co, @foamspace, @isTruStory, @monaxHQhttps://medium.com/chorus-one/the-top-5-projects-building-on-cosmos-934c1eef1e18\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 66,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "1067795490832560128": {
+            "id": "1067795490832560128",
+            "text": "Designing the right economic incentives for PoS protocols is non-trivial. The jury's out about what is the right balance of profit, risk, & number of validators, among many considerations. This post by @chjango & @ChorusOne explores the economics of PoS http://bit.ly/2Aq2wI1\u00a0pic.twitter.com/NKjE93yBuT",
+            "username": "cosmos",
+            "num_likes": 28,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1066743113450950656": {
+            "id": "1066743113450950656",
+            "text": "While PoW miners fight hash wars and unwind their unprofitable ASICs, a new ecosystem of stakeholders is emerging in the PoS world. Learn about the next generation of blockchain maintainers on our blog:https://blog.chorus.one/proof-of-stake-ecosystem-103/\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1065283749926051842": {
+            "id": "1065283749926051842",
+            "text": "Get an overview of the stakeholders involved in a Proof-of-Stake network in the third part of our ongoing \"Proof-of-Stake Ecosystem\" series:https://blog.chorus.one/proof-of-stake-ecosystem-103/\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 22,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1061256156922945536": {
+            "id": "1061256156922945536",
+            "text": "2) Supply Side Services | Generalized Mining and The Third-Party Economy - https://youtu.be/Cr6H2FcidjY\u00a0\n\nModerated by: @flexthought (@coinfund_io)\nPanelists: \n@adrian_brink (@CryptiumLabs)\n@ericsson_axel (@vest)\n@crainbf (@ChorusOne)\n@langerstwit (@Rocket_Pool)",
+            "username": "coinfund_io",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1060221077950025729": {
+            "id": "1060221077950025729",
+            "text": "Find out why staking could mean the end of hodling and learn about the associated rewards, costs and risks of participating in PoS in the second part of our \"Proof-of-Stake Ecosystem\" series.https://medium.com/chorus-one/proof-of-stake-ecosystem-102-the-end-of-the-hodl-meme-fdb79151480c\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1058020414016884736": {
+            "id": "1058020414016884736",
+            "text": "Casper CBC paper (draft) released!\nhttps://github.com/cbc-casper\u00a0\n\nBrought to you by: @VladZamfir @naterush1997 @adiasg Georgios Piliouras & many other collaborators over the years!",
+            "username": "adiasg",
+            "num_likes": 31,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1057623474187816961": {
+            "id": "1057623474187816961",
+            "text": "Ethermint 2.0: @cosmos SDK + EVM talk at #DevCon4 by @cwgoes starts in 10 minutes. You can livestream it here: \n\nhttp://devcon4.tv/channels/0x35e4465cB9bF055c4459E418097Dfa4cEB9BE0e9\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1055848663992406018": {
+            "id": "1055848663992406018",
+            "text": "Check out our overview of the @cosmos network released as part of the \"Proof-of-Stake Contenders\" series that will introduce promising PoS projects on our blog:https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 23,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1055074214510759936": {
+            "id": "1055074214510759936",
+            "text": "We will from now on publish our posts on both Medium and our website blog! You can find the Medium publication including the first two posts here:https://medium.com/chorus-one\u00a0",
+            "username": "ChorusOne",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1054458119785455616": {
+            "id": "1054458119785455616",
+            "text": "Join @coinfund_io, @CambrialCapital, @ChorusOne, @nucypher, @zkCapital, @fabric_vc, @MakerDAO + more in Prague during @EFDevcon for \"Generalized Mining and The Third-Party Economy\" Meetup on October 30, 6pm. Details here - https://www.eventbrite.com/e/coinfund-x-cambrial-generalized-mining-and-the-third-party-economy-tickets-51589887743\u00a0\u2026 #devcon4 #blockchainpic.twitter.com/elgOoRih6v",
+            "username": "coinfund_io",
+            "num_likes": 28,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1053313487240355845": {
+            "id": "1053313487240355845",
+            "text": "The first post of our new introductory series on the emerging Proof-of-Stake Ecosystem is out! The post explains the basics of Proof-of-Stake and how validation and delegation work. Find it here:https://blog.chorus.one/pos-ecosystem-101/\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 22,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1049943451570249729": {
+            "id": "1049943451570249729",
+            "text": "Check out issue #5 of the @StakingEconomy by @FelixLts: https://medium.com/staking-economy/5-the-stakes-are-high-cd9dbc72f777\u00a0\u2026. Featuring coverage of PoW vs PoS, PoS vs DPoS and updates on @cosmos, @EnigmaMPC, @oceanprotocol and others",
+            "username": "crainbf",
+            "num_likes": 31,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1049198213524312064": {
+            "id": "1049198213524312064",
+            "text": "\"An example is the Ocean Protocol, which will utilize the @EnigmaMPC network to enable secret voting within their protocol.\" @StakingEconomy on Ocean #ANewDataEconomy #DataScience #Blockchainhttps://medium.com/staking-economy/5-the-stakes-are-high-cd9dbc72f777\u00a0\u2026",
+            "username": "oceanprotocol",
+            "num_likes": 56,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1048285993596477440": {
+            "id": "1048285993596477440",
+            "text": "This overview about different kinds of Proof-of-Stake was very helpful for clearing up a lot of misunderstandings I had. Turns out \"Delegated PoS\" is a different thing than \"PoS with delegation\".  https://blog.chorus.one/classifying-staking-implementations-a-framework/\u00a0\u2026 Thanks, @ChorusOne!",
+            "username": "zooko",
+            "num_likes": 116,
+            "num_retweets": 43,
+            "num_replies": 4
+        },
+        "1047820022675066881": {
+            "id": "1047820022675066881",
+            "text": "The first post of our new blog shedding light on some of the confusion around the concept of staking is out! It introduces a framework to differentiate between staking implementations and goes into detail regarding the concept of delegation in PoS.https://blog.chorus.one/classifying-staking-implementations-a-framework/\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 31,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1047089258299682817": {
+            "id": "1047089258299682817",
+            "text": "1/ This Friday at @delta_summit, I'll do a talk on the transition from Proof-of-Work to Proof-of-Stake. Here is my attempt to put core argument into a tweetstorm:",
+            "username": "crainbf",
+            "num_likes": 241,
+            "num_retweets": 97,
+            "num_replies": 16
+        },
+        "1043395471581081601": {
+            "id": "1043395471581081601",
+            "text": "Our #crypto #mining report featuring also @crainbf view on PoS: \"#PoS has massive advantages in terms of being cheaper, scaling better, being faster, having stronger game theoretic security properties and not being an environmental disaster.\" #miningconfhttps://medium.com/@konfidio/report-cryptocurrency-mining-in-2018-f1c202dc434f\u00a0\u2026",
+            "username": "konfidio",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1040181880111489025": {
+            "id": "1040181880111489025",
+            "text": "part III is about value creation of a @cosmos validator and a lot of similarities between validator biz model and a VC, bank, exchange, mining pool and custodian. Thx @LunamintVC @StakingFac @ChorusOne for great discussions, critical feedback appreciated!https://medium.com/astratum/part-iii-validator-a-mining-pool-a-vc-a-bank-or-an-exchange-89bfbfae65d2\u00a0\u2026",
+            "username": "heygleb",
+            "num_likes": 14,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1035897045813522432": {
+            "id": "1035897045813522432",
+            "text": "On Tuesday during @BerBlockWeek, we'll be organizing a meetup together with @coinfund_io at @heckerhut's Blockchain Embassy. We hope to see you there!https://www.eventbrite.com/e/disruptive-thinking-in-blockchain-by-coinfund-chorus-one-tickets-49746541244\u00a0\u2026",
+            "username": "ChorusOne",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1121817892708913152": {
+            "id": "1121817892708913152",
+            "text": "This issue is the first with @cjremus, who will contribute to Staking Economy with his unique insights as a solo validator operator. With Chris assisting the newsletter, we'll be back to publishing every 2 weeks!",
+            "username": "StakingEconomy",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121817010579681281": {
+            "id": "1121817010579681281",
+            "text": "New issue out featuring Eth2.0 staking rewards, @polkadotnetwork's NPoS, staking wallets, @0xProject's stake-based liquidity and thoughts on staking yields, Cosmos economics and the Atom transfer upgrade.https://medium.com/staking-economy/staking-economy-15-rewards-and-representation-6614e2907f52\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 7,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1113838417769639936": {
+            "id": "1113838417769639936",
+            "text": "Welcome to all new followers that came in through @ljxie (thanks again for the appreciation)!\n\nYou can read the latest Staking Economy issue (and all the older ones going back all the way to Aug 2018) on Medium:https://medium.com/staking-economy/14-staking-goes-mainstream-c2de66ca5985\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1112736311876743170": {
+            "id": "1112736311876743170",
+            "text": "#14 is out with updates on @cosmos launch, @tezos staking via @CoinbaseCustody, @enigmaMPC secret node announcements, the @NuCypher worklock, and @StakingRewards total volume locked in staking!https://medium.com/staking-economy/14-staking-goes-mainstream-c2de66ca5985\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1101781385428299776": {
+            "id": "1101781385428299776",
+            "text": "Issue #13 is out covering the @loomnetwork\nstaking launch, @cosmos mainnet preparations, other updates like @getstaker's staking wallet preview, and thoughts on validator architectures and attack vectors:https://medium.com/staking-economy/13-launch-time-51f16c5298c9\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1098973778888007681": {
+            "id": "1098973778888007681",
+            "text": "Starting today you can also find Staking Economy issues on the @StakingRewards blog. Visit the platform with the most comprehensive data collection on staking assets that are in operation at https://stakingrewards.com\u00a0.",
+            "username": "StakingEconomy",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093881857907834880": {
+            "id": "1093881857907834880",
+            "text": "ICYMI: Last week's update covering the Game of Stakes cartel showdown, lots of PoS consensus research updates, thoughts on in-protocol delegation and more. \n\nhttps://blog.chorus.one/staking-economy-issue-12\u00a0\u2026\n\nFollow @ChorusOne for more project-specific content that we'll be launching soon!",
+            "username": "StakingEconomy",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1091380810630995969": {
+            "id": "1091380810630995969",
+            "text": "Featured articles and tweets by @CertusOne, @StakeCapital, @FigmentNetworks, @rzurrer, @CollinMyers15, @sanket1729, @gakonst and @SamAI_Software",
+            "username": "StakingEconomy",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1091379612817522688": {
+            "id": "1091379612817522688",
+            "text": "Issue #12 is out covering the @cosmos Game of Stakes anti-cartel hard fork, a review of half a year of @tezos staking, ETH2.0 validator profitability analysis, watchtower economics, and much more!https://blog.chorus.one/staking-economy-issue-12/\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 32,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1081250199857778688": {
+            "id": "1081250199857778688",
+            "text": "Welcome to 2019 with the 11th issue covering among others: @cosmos Game of Stakes, @loomnetwork staking economics & @maticnetwork tokenized validator slots.https://medium.com/staking-economy/11-proof-of-game-of-stakes-336ffca95f54\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1075369665671647232": {
+            "id": "1075369665671647232",
+            "text": "Last week's newsletter issue covered: thoughts on PoW and PoS death spirals, $VTC's 51% attacks and the impact of obsolete ASICs on PoW security, breakeven analysis of $EOS block producers, and new staking services and updates.\nCheck it out on Medium:https://medium.com/staking-economy/10-death-spirals-derivatives-and-differentiation-d0bb4ea1467a\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1073612466846920706": {
+            "id": "1073612466846920706",
+            "text": "The 10th Staking Economy issue exploring death spiral and generalized mining narratives is out. Also covered are @ethhub_io's crowdsourced educational efforts and many other staking ecosystem updates.https://medium.com/staking-economy/10-death-spirals-derivatives-and-differentiation-d0bb4ea1467a\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1070692438333972481": {
+            "id": "1070692438333972481",
+            "text": "ICYMI: Last week's newsletter featuring two @ChorusOne posts: a breakdown of the top projects building on @cosmos and stakeholders in a PoS system.\n\nhttps://medium.com/staking-economy/9-adversaries-actors-and-amendments-b1cb8327ade3\u00a0\u2026https://twitter.com/ChorusOne/status/1068163554174476289\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1068548237982879744": {
+            "id": "1068548237982879744",
+            "text": "Issue #9 with a series on adversaries in consensus protocols from @mechanism_labs, thoughts on economics and stakeholders in PoS, as well as @cosmos and @tezos ecosystem coverage.\nhttps://medium.com/staking-economy/9-adversaries-actors-and-amendments-b1cb8327ade3\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 23,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1064520908721831936": {
+            "id": "1064520908721831936",
+            "text": "ICYMI: the 8th newsletter of Staking Economy with updates on Casper CBC, inflation in eth2.0, @MessariCrypto's \"Generalized Mining\" canon, @loomnetwork validator onboarding, some interesting podcast episodes and much more! https://medium.com/staking-economy/8-the-third-party-stakonomy-29ab19f8bc34\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1063464587520020481": {
+            "id": "1063464587520020481",
+            "text": "An overview of #GeneralizedMining by @CambrialCapital, staking and fractional banking by @tokenfoundry and many more staking relevant updates in the 8th issue of Staking Economy:https://medium.com/staking-economy/8-the-third-party-stakonomy-29ab19f8bc34\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1060479489174585344": {
+            "id": "1060479489174585344",
+            "text": "Issue #7 now with links to recordings of the #GeneralizedMining event at #DevCon4 that was filled with insights about the future of staking!https://twitter.com/StakingEconomy/status/1059479621287198720\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059479621287198720": {
+            "id": "1059479621287198720",
+            "text": "Issue #7 recapping #Web3Summit and #DevCon4, as well as opinion pieces on staking providers by @AriannaSimpson and the dynamics of borrowing tokens to stake by @jbrukh.https://medium.com/staking-economy/7-conferences-calling-6b66b80df492\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 17,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1053610826047913984": {
+            "id": "1053610826047913984",
+            "text": "I just published the sixth Staking Economy issue with an introduction to the PoS Ecosystem series on the @ChorusOne blog and updates from @numerai and @decredproject.https://medium.com/staking-economy/6-stake-the-truth-6ad32196cf5d\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1048241228381388800": {
+            "id": "1048241228381388800",
+            "text": "The latest issue of Staking Economy is all about contrasts: #PoW vs. #PoS, #PoS vs. #DPoS, @cosmos validators vs. each other and secret vs. smart contracts.\n\nhttps://medium.com/staking-economy/5-the-stakes-are-high-cd9dbc72f777\u00a0\u2026\n\nFeatured are amongst others @zooko, @crainbf, @juliankoh and @EnigmaMPC.",
+            "username": "StakingEconomy",
+            "num_likes": 37,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1043906552514695168": {
+            "id": "1043906552514695168",
+            "text": "Find out about @TezosFoundation grants, what is to come for @tezos after the mainnet launch and more in the most recent @StakingEconomy issue.https://medium.com/staking-economy/4-mining-2-0-mainnet-and-milestones-1e7c8bb62c47\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 33,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1043161424128815104": {
+            "id": "1043161424128815104",
+            "text": "Issue #4 is out featuring a primer on Mining 2.0 by @eriktorenberg, @tezos mainnet launch, ecosystem updates on @polkadotnetwork\nand @cosmos, as well as @dannyryan 's deep dive into eth2.0 on the @HashingItOutPod.https://medium.com/staking-economy/4-mining-2-0-mainnet-and-milestones-1e7c8bb62c47\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 30,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1038089783359225857": {
+            "id": "1038089783359225857",
+            "text": "Staking Economy Issue #3 is out with updates on @MakerDAO, @rchain_coop, @dfinity and an article from @mechanism_labs, as well as a discussion of secondary fee token models from @gnosisPM and @SpankChain.https://medium.com/staking-economy/3-secondary-fee-tokens-and-finality-in-blockchains-954e41e47920\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 31,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1034846047229685760": {
+            "id": "1034846047229685760",
+            "text": "\u201c[52 Week Cosmos] Week #34, 2018\u201dhttps://medium.com/lunamint-atlas/52-week-cosmos-week-34-2018-ac29a9744787\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033072137576357888": {
+            "id": "1033072137576357888",
+            "text": "The second Staking Economy issue  featuring @tonysheng, @MeherRoy, @jbrukh, @thunderprotocol, @prylabs and @VitalikButerin is out!https://medium.com/staking-economy/2-token-voting-thunder-and-tweetstorms-1aa95f3df9e6\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1027944969762422785": {
+            "id": "1027944969762422785",
+            "text": "Check out the first issue of Staking Economy on Medium:https://medium.com/staking-economy/1-nuances-of-proof-of-stake-ce3ef75d3d2c\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1027944513560555525": {
+            "id": "1027944513560555525",
+            "text": "Find out what the Staking Economy newsletter is about in this introductory post:https://medium.com/staking-economy/0-introducing-staking-economy-11ce910b17f1\u00a0\u2026",
+            "username": "StakingEconomy",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "ChorusOne": 17,
+        "ljxie": 1,
+        "crainbf": 3,
+        "manasilvora": 1,
+        "fiftydotone": 1,
+        "andimule": 1,
+        "rflxvty": 1,
+        "MessariCrypto": 1,
+        "anambroid": 1,
+        "cjremus": 1,
+        "cosmos": 1,
+        "coinfund_io": 2,
+        "adiasg": 1,
+        "oceanprotocol": 1,
+        "zooko": 1,
+        "konfidio": 1,
+        "heygleb": 1
+    },
+    "users_retweeted": [
+        "ChorusOne",
+        "crainbf",
+        "coinfund_io",
+        "ljxie",
+        "manasilvora",
+        "fiftydotone",
+        "andimule",
+        "rflxvty",
+        "MessariCrypto",
+        "anambroid",
+        "cjremus",
+        "cosmos",
+        "adiasg",
+        "oceanprotocol",
+        "zooko",
+        "konfidio",
+        "heygleb"
+    ]
+}

@@ -1,0 +1,862 @@
+{
+    "is_complete": true,
+    "username": "jake_theripper",
+    "retweeted": {
+        "1125918088355033088": {
+            "id": "1125918088355033088",
+            "text": "pic.twitter.com/09cciU8XBA",
+            "username": "googboog",
+            "num_likes": 408,
+            "num_retweets": 50,
+            "num_replies": 13
+        },
+        "1124422888801689600": {
+            "id": "1124422888801689600",
+            "text": "FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK",
+            "username": "gitlost",
+            "num_likes": 277,
+            "num_retweets": 54,
+            "num_replies": 9
+        },
+        "1114528903564017664": {
+            "id": "1114528903564017664",
+            "text": "Someone made a video of @electronjshttps://twitter.com/nixcraft/status/1113443483308765185\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 25,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1113198868211077120": {
+            "id": "1113198868211077120",
+            "text": "just do code ",
+            "username": "DeanEigenmann",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1109064501494603776": {
+            "id": "1109064501494603776",
+            "text": "I've always been told their are two types of fucking up.\n1. Regular fucking up\n2. Rolling your own cryptography fucking up",
+            "username": "josephdelong",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1108461623042342913": {
+            "id": "1108461623042342913",
+            "text": "Ok Jake Clang.",
+            "username": "ricburton",
+            "num_likes": 23,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1107396409551175681": {
+            "id": "1107396409551175681",
+            "text": "If I ever become the CEO or CTO of a company that writes Rust, every usage of Rc/Arc or channels in the source code would need my explicit approval.\n\nAnd it would be hard to get my approval.",
+            "username": "tomaka17",
+            "num_likes": 27,
+            "num_retweets": 2,
+            "num_replies": 9
+        },
+        "1104148083414368256": {
+            "id": "1104148083414368256",
+            "text": "Infinite scroll is a public health issue",
+            "username": "nikillinit",
+            "num_likes": 1238,
+            "num_retweets": 239,
+            "num_replies": 25
+        },
+        "1103611894487834624": {
+            "id": "1103611894487834624",
+            "text": "Cool to see this library from @hughlang called Tweek, an animation kit for Rust and compatible with WebAssembly. I played a lot of games that used Flash so altho Flash was a mess I was sad to see it go...https://medium.com/@hughlang/introducing-tweek-a-tween-animation-kit-for-rust-7d6f1ce7503d\u00a0\u2026",
+            "username": "Mitch_Kosowski",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1099264185211539456": {
+            "id": "1099264185211539456",
+            "text": "YOU NEED TO STOP REUSING YOUR DAMN PASSWORDS BEFORE YOU CAN WORRY ABOUT LOCAL MACHINE MEMORY MANAGEMENT HYGIENE OF PASSWORD MANAGERS AGAINST ATTACKERS THAT HAVE RAW RAM ACCESS BUT SOMEHOW ARENT JUST MONITORING YOUR KEYBOARD DRIVERpic.twitter.com/kaZfjOKZUA",
+            "username": "SwiftOnSecurity",
+            "num_likes": 4118,
+            "num_retweets": 1286,
+            "num_replies": 70
+        },
+        "1093221629897990144": {
+            "id": "1093221629897990144",
+            "text": "Dear Crypto People: you don\u2019t need 7 community managers, 10 technical writers, 4 event managers, 9 PR people and a douche to oversee it all. You just need at most two resourceful people that can manage all, and products that don\u2019t suck. We are not even near needing such teams.",
+            "username": "MPtherealMVP",
+            "num_likes": 123,
+            "num_retweets": 10,
+            "num_replies": 16
+        },
+        "1090107933185241089": {
+            "id": "1090107933185241089",
+            "text": "If advanced aliens ever contact the IACR, what is the firet technology we should ask from them?",
+            "username": "FakeIACR",
+            "num_likes": 17,
+            "num_retweets": 10,
+            "num_replies": 9
+        },
+        "1075436984036773888": {
+            "id": "1075436984036773888",
+            "text": "The US tech giants are building the most sophisticated censorship regime the world has ever seen, involving tens of thousands of manual reviewers and the brightest minds in AI",
+            "username": "cryptochamomile",
+            "num_likes": 1737,
+            "num_retweets": 720,
+            "num_replies": 72
+        },
+        "1072992009479208960": {
+            "id": "1072992009479208960",
+            "text": "Introducing #HyperledgerSawtooth version 1.1, an enterprise-grade #blockchain platform with support for #WebAssembly smart contracts and great performance with @rustlang. Empower your business.  https://intel.ly/2GagFPB\u00a0 #HyperledgerForumpic.twitter.com/5vurpbVMP1",
+            "username": "IntelSecurity",
+            "num_likes": 33,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1062670602333573121": {
+            "id": "1062670602333573121",
+            "text": "The #ewasm testnet's roadmap is up here: https://github.com/orgs/ewasm/projects\u00a0\u2026\n\nWe plan to make updates to the testnet once a month. 15th Nov, 10th Dec, 14th Jan.\n\nThe plan is to not drag dates, but rather change the scope as we are near to the deadlines.\n\nLet me know what you think?",
+            "username": "alexberegszaszi",
+            "num_likes": 79,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "1061623835634614273": {
+            "id": "1061623835634614273",
+            "text": "Switching from EVM to eWASM be like\n\nhttps://twitter.com/JohnBick4/status/1060302955541397504/video/1\u00a0\u2026",
+            "username": "MihailoBjelic",
+            "num_likes": 447,
+            "num_retweets": 103,
+            "num_replies": 7
+        },
+        "1044302756029374464": {
+            "id": "1044302756029374464",
+            "text": "Deep Thought: Airplanes are a Great Metaphor for The Government taking away Our Freedom: We are Happy to give up our Leg Room if we have The Screen in front of Our Face.",
+            "username": "rphmeier",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1061345590359937024": {
+            "id": "1061345590359937024",
+            "text": "Revisiting the UNIX philosophy in 2018 (comparison with microservices approach):\nhttps://opensource.com/article/18/11/revisiting-unix-philosophy-2018\u00a0\u2026\n#opensource #programming",
+            "username": "BobSummerwill",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1059974280891363328": {
+            "id": "1059974280891363328",
+            "text": "First they ignore you.\nThen they laugh at you.\nThen they attack you.\nThen you win.\nThen you rewrite history.\nThen you give advice that leaves out the sketchy stuff you did while they were ignoring you.",
+            "username": "backus",
+            "num_likes": 404,
+            "num_retweets": 68,
+            "num_replies": 5
+        },
+        "1056542775162953729": {
+            "id": "1056542775162953729",
+            "text": "Just found this is on the table in the #ewasm #devcon house. The change from last night's burritos. What are the odds that it is exactly 66 -- the chain id of the ewasm testnet??\n\nP.S. dont actually give me the odds pic.twitter.com/1n0IbYkCet",
+            "username": "alexberegszaszi",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1055554275529682945": {
+            "id": "1055554275529682945",
+            "text": "The ideal PhD for a startup is one that acedemics thinks of as a hack but the hackers thinks of as an academic.",
+            "username": "sebastroy",
+            "num_likes": 41,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1054754506267938816": {
+            "id": "1054754506267938816",
+            "text": "Watch this to hear some of the background why #webassembly has so far the best potential to fuel #web3 (and #ethereum's #ewasm along the way). \n\nThanks @jbrukh and @lrettig, it was a great discussion!https://twitter.com/coinfund_io/status/1054753317073707010\u00a0\u2026",
+            "username": "alexberegszaszi",
+            "num_likes": 13,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1048265770491203584": {
+            "id": "1048265770491203584",
+            "text": "Check out the recording from the Ewasm Community Meetup here in SF last night! @alexberegszaszi introduces #Wasm and #Ewasm and @__jakelang discusses how Ewasm makes Ethereum precompiles great again. Thank you again to our host-sponsor, @starfishsf  https://youtu.be/DYBafiahBCA?t=112\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1044041711910039554": {
+            "id": "1044041711910039554",
+            "text": "Join us for an #Ewasm community meetup next week in San Francisco! We'll be in town for blockchain week @SFBWofficial and @ETHSanFranciscohttps://www.eventbrite.com/e/ewasm-community-meetup-tickets-50560821779\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 35,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1042913390111412225": {
+            "id": "1042913390111412225",
+            "text": "I am so, so, so proud of the #Ewasm team and the enormous work done on the testnet and all the associated tooling these past few months. We did our first (live!) demo today: https://www.youtube.com/watch?v=apIHpBSdBio\u00a0\u2026. Even having seen the daily progress, it's remarkable to see it all come together.",
+            "username": "lrettig",
+            "num_likes": 68,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1012966260135661568": {
+            "id": "1012966260135661568",
+            "text": "#ethereum developer and up for the challenge?\n\nWrite an #ewasm contract compatible with the WRC20 challenge and be featured on the ewasm repo. Choose your favourite language to write it in.\n\nMore at:https://gist.github.com/axic/16158c5c88fbc7b1d09dfa8c658bc363\u00a0\u2026",
+            "username": "alexberegszaszi",
+            "num_likes": 27,
+            "num_retweets": 8,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1126197763413356545": {
+            "id": "1126197763413356545",
+            "text": "...And having a company podcast(s)!\nYou can even embrace the burgeoning culture of celebrity CEOs by setting your profile pic to an anime character, posting memes and generally pandering to the younger generations.\n21st century!",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1126197229172162560": {
+            "id": "1126197229172162560",
+            "text": "Everyone knows that PR is important. This game gives you complete authority to cut out a huge chunk of your budget for marketing.\nNot only can you outsource writers for a torrent of medium articles, alternative strategies are available such as 12-year old social media managers...",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1126196272573100033": {
+            "id": "1126196272573100033",
+            "text": "Even the little details make a big difference in creating an authentic executive experience\u2122\n\nWhen under pressure from disgruntled employees, you can:\n- Stock the office with craft beer\n- Get a ping pong table\n- Direct complaints to HR, the management equivalent of 2>/dev/null.",
+            "username": "jake_theripper",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1126193233346822144": {
+            "id": "1126193233346822144",
+            "text": "Savor the experience of always being on the run from the SEC!\nSide quests include:\n- Being nagged by employees for a company dental plan\n- Processing expense reports consisting solely of weekend uber rides and Postmates.\n- Finding an available conference room\n- Damage control",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1126192700099891201": {
+            "id": "1126192700099891201",
+            "text": "As CEO, you'll have the power to make pivotal decisions in the form of company initiatives.\nSome of these include:\n- Beginning to migrate to discord but never finishing.\n- Blowing money on a conference in NYC\n- Getting an enterprise CI plan\n- Buying a .io domain name",
+            "username": "jake_theripper",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1126192233571606528": {
+            "id": "1126192233571606528",
+            "text": "Meet your team:\n- The guy who abuses @ all\n- The one person who uses the IRC bridge\n- The guy with absolutely no respect for the git history. There's a minigame where you drink each time he rebases\n- T\u0328\u032f\u033f\u0304\u0351\u0346\u0307\u033e\u0345h\u0338\u035a\u031e\u0313\u0312\u0351\u0369\u034b\u033e\u0342e\u0359 \u0323\u0332\u034d\u036b\u036d\u0342\u0363\u0357\u033f\u035cb\u0339\u0355\u0365o\u0354\u0332\u032f\u0326\u0353\u0320\u034ea\u031f\u032e\u0332\u036c\u034br\u0354\u032e\u0363\u036e\u036e\u0352\u0308\u0303\u0350d\u0317\u0354\u031c\u0331\u0311\u030f\u0345\n- Lawyers",
+            "username": "jake_theripper",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1126191666954756096": {
+            "id": "1126191666954756096",
+            "text": "Complete with a fully integrated Zoom client, and a Slack server which will always send you notifications at 3am despite muting every channel!",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1126191537895944192": {
+            "id": "1126191537895944192",
+            "text": "When I retire I'm making a game called \"Blockchain Startup Simulator\".\nImmerse yourself in the vibrant environment of a fledgling company working on a scalable solution to a problem that doesn't exist yet.\nAttend calls with people you don't feel like talking to, all while in bed!",
+            "username": "jake_theripper",
+            "num_likes": 24,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1125925045480632322": {
+            "id": "1125925045480632322",
+            "text": "so i spent 6ish hours today working on and debugging a yuuuge procedural macro, operating on a flawed understanding of rust attributes.\n\ni can now levitate and walk thru walls. people around me are having vivid night terrors and waking up with their ears bleeding.\nthx @rustlang",
+            "username": "jake_theripper",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1125418087874990082": {
+            "id": "1125418087874990082",
+            "text": "my grand vision for blockchainhttps://twitter.com/gitlost/status/1125376673254391808\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1124387730249650178": {
+            "id": "1124387730249650178",
+            "text": "Interesting thread. However, it seems like we're all a bit too eager to mess with civilization's older-than-ancient legacy code :)\nImagine breaking one fundamental invariant like the definition of ownership and then trying to reason about what could happenhttps://twitter.com/abbey_titcomb/status/1124383770881220610\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1124124149880971264": {
+            "id": "1124124149880971264",
+            "text": "also just another note for the legal crabs that this is not related to either of the entities i work for in any way, only related to my bad decision making skills",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1124110890448687110": {
+            "id": "1124110890448687110",
+            "text": "psa that i will be watching yall in this thread for any sneaky deletion of twitter history in the next week. no fuckery allowed\nand that you will likely have to DM me to claim the reward",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1124088734696259584": {
+            "id": "1124088734696259584",
+            "text": "So... nobody is going to talk about how someone made this and didn't even put the two puzzle pieces together?\nF in chat boispic.twitter.com/1jnynTknqv",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1124068233261322240": {
+            "id": "1124068233261322240",
+            "text": "To all the people who responded to my last tweet and said they have no life outside crypto: you likely do but if you really don't you probably should. Living and breathing this whole shitshow is basically walking yourself into a wall of burnout.",
+            "username": "jake_theripper",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 5
+        },
+        "1124014192355368966": {
+            "id": "1124014192355368966",
+            "text": "challenge: one week where you only tweet about your side projects and/or non-crypto work/life.\nI'll send 0.5 ETH to the first three nerds on ct who verifiably do this and post the most interesting content.\nI doubt I'll have to send any money but hope to be proven wrong.",
+            "username": "jake_theripper",
+            "num_likes": 33,
+            "num_retweets": 0,
+            "num_replies": 34
+        },
+        "1123345580485484546": {
+            "id": "1123345580485484546",
+            "text": "unix device files are just digital ouija boards.",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1123335538558275584": {
+            "id": "1123335538558275584",
+            "text": "new ethereum website opinion goes here",
+            "username": "jake_theripper",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121952775980691457": {
+            "id": "1121952775980691457",
+            "text": "do you ever convince ur normal friends to use signal and then like 3 days later you're talking in Instagram/twitter dms again?",
+            "username": "jake_theripper",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1121089624376524806": {
+            "id": "1121089624376524806",
+            "text": "don't do macros, kids.https://twitter.com/alexberegszaszi/status/1121053634895204360\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120482492253970432": {
+            "id": "1120482492253970432",
+            "text": "anyone know when the next conference/meetup-free week is? i swear i just want one more and then yall can do whatever u want",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1120017668269051905": {
+            "id": "1120017668269051905",
+            "text": "guys im so hyped about dev con five in \u041e\u0439\u043c\u044f\u043a\u043e\u043d siberia",
+            "username": "jake_theripper",
+            "num_likes": 20,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1119774671275200513": {
+            "id": "1119774671275200513",
+            "text": "crypto twitter bios be like:\n$(NAME)\u00a0of the House Ethereum, the First of Her Name, The Unforked, Queen of the shills and the First Core Devs, Khaleesi of the Great Node Sea, Protector of the Chain, Lady Regent of the Seven Validators, Poster of shit and Mother of Unicorns",
+            "username": "jake_theripper",
+            "num_likes": 46,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1119761216786903041": {
+            "id": "1119761216786903041",
+            "text": "a plant is not a substitute for a personality, thx for coming to my ted talk",
+            "username": "jake_theripper",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1119761009999269893": {
+            "id": "1119761009999269893",
+            "text": "DUDE WEED LMAO ITS 4/20 THATS LIKE THE WEED NUMBER BRO AHAHAHAHAHA WEEEEEEED 420 BRO! DUDE DUDE DUDE WEED HAHAHA ROLL UP BRO ITS WEED DAY BECAUSE LIKE 420 GET IT?? HAHAHA DUDE SMOKE THE WEEEEEEEEEED WAKE N BAKE BROOOOO SMOKE THE KUSH ON 420 BRO HAHAHA WEEEEEEED DUDE LMAO",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1119637047499796480": {
+            "id": "1119637047499796480",
+            "text": "New day, same routine. \n\nzzz\n\u3000\uff1c\u2312\uff0f\u30fd-\uff64_\uff3f_\n\uff0f\uff1c_/\uff3f\uff3f\uff3f\uff3f\uff0f\n\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\nzzz\n\u3000\uff1c\u2312\uff0f\u30fd-\uff64_\uff3f_\n\uff0f\uff1c_/\uff3f\uff3f\uff3f\uff3f\uff0f\n\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3pic.twitter.com/Rh3PJYyoRq",
+            "username": "jake_theripper",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1119399044550471681": {
+            "id": "1119399044550471681",
+            "text": "if ur a dev and u have more followers than green squares on github in the past year, u need to rethink ur life",
+            "username": "jake_theripper",
+            "num_likes": 27,
+            "num_retweets": 0,
+            "num_replies": 5
+        },
+        "1119325850237796354": {
+            "id": "1119325850237796354",
+            "text": "protip: set your alarm tone to bass boosted Mongolian throat singing on max volume so you can wake up every day and stare directly into t\u0334\u0322\u0321\u0319\u035a\u0332\u031e\u0348\u0354\u0301\u0351h\u0334\u031f\u0346\u0342\u0352\u0309\u0301\u0306\u035de\u0337\u0321\u0318\u0329\u0331\u0355\u0351\u0346\u0315 \u0338\u0327\u0354\u0325\u0354\u0304\u0312\u0300\u0303\u0310\u0303\u0358v\u0336\u0326\u0347\u0300\u0307\u0304\u035do\u0335\u0327\u0322\u032f\u0317\u0354\u0347\u033a\u0349\u0310\u0300\u034c\u0314\u0308\u0301\u0357\u0314\u035d\u012f\u0335\u031b\u031d\u0301\u034a\u0352\u0350\u030c\u0360\u035dd\u0337\u0318\u0303\u0351\u0310\u035b\u033f\u031a\u0315\u0360 for inspiration",
+            "username": "jake_theripper",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1118931494335057925": {
+            "id": "1118931494335057925",
+            "text": "i know what I'm fucking with this weekendhttps://twitter.com/benediktbuenz/status/1118643224887697408\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118561761530085379": {
+            "id": "1118561761530085379",
+            "text": "guys we really don't need an event every week",
+            "username": "jake_theripper",
+            "num_likes": 24,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1118559242280108032": {
+            "id": "1118559242280108032",
+            "text": "how many hours have been spent laneposting that could've been spent doing more useful things? ",
+            "username": "jake_theripper",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1116518762176548864": {
+            "id": "1116518762176548864",
+            "text": "holy fuck guys is all this drama some huge extended april fool's joke?",
+            "username": "jake_theripper",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1116512095284101120": {
+            "id": "1116512095284101120",
+            "text": "me: RUST_BACKTRACE=full cargo test\n\nrust trace:\n0x69696969 - std::fuckyou::panic::{{closure}}<Box<FnMut(somethingdumb)>>\n    at /unnecessarily/long/path/somefileyoudontknow.rs:4201337\n    at /unnecessarily/long/path/anotherfile.rs:99999999",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116373450917068801": {
+            "id": "1116373450917068801",
+            "text": "bartception",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116101882915762184": {
+            "id": "1116101882915762184",
+            "text": "crypto prices: *go up a small amount*\ntwitter: TIME FOR SOME CRYPTO SPRING DRAMApic.twitter.com/YV1pmGYwod",
+            "username": "jake_theripper",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1113859118488596481": {
+            "id": "1113859118488596481",
+            "text": "In this thread we write a crypto paper word by word.\nrules: one word per reply, you respond as many times as you want as long as you aren't responding to yourself.\ncc @DeanEigenmann @gakonst @badcryptobitch get in bois\nI'll start:\nWe introduce a...",
+            "username": "jake_theripper",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1113852008061177856": {
+            "id": "1113852008061177856",
+            "text": "crypto spring my asspic.twitter.com/xgl6dSaNqI",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1113541281542823941": {
+            "id": "1113541281542823941",
+            "text": "@badcryptobitch you literally have the term \"core dev\" in your bio, tf u doin retweeting this lmao",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1113539402125463553": {
+            "id": "1113539402125463553",
+            "text": "can people go ahead and stop using the term \"core dev\" like it means something",
+            "username": "jake_theripper",
+            "num_likes": 22,
+            "num_retweets": 1,
+            "num_replies": 5
+        },
+        "1113132698674049025": {
+            "id": "1113132698674049025",
+            "text": "obligatory market commentarypic.twitter.com/uvDatZFlB1",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1113119000593162242": {
+            "id": "1113119000593162242",
+            "text": "\"talk is cheap, show me the code\" means nothing if you don't contribute to the code, let alone look at or review it.",
+            "username": "jake_theripper",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1113114096453455872": {
+            "id": "1113114096453455872",
+            "text": "this has probably been said 1000x before me but it's pretty appalling how fast crypto became an events and media industry",
+            "username": "jake_theripper",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111251687359107072": {
+            "id": "1111251687359107072",
+            "text": "pic.twitter.com/jDdeiU07VW",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111242129089675264": {
+            "id": "1111242129089675264",
+            "text": "\"...and a grants program.\nand a weekly call.\nand a bunch of medium articles.\nmaybe a pm repo somewhere in the mix.\nsome hackmds as well.\nhow about we just fund a whole fuckin conference?\ndid i say medium articles?\"\n\"oh yeah, we'll figure out the work part later\"",
+            "username": "jake_theripper",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111241204870598657": {
+            "id": "1111241204870598657",
+            "text": "Nobody:\nCrypto space: \"Looks like this could use a new working group\"",
+            "username": "jake_theripper",
+            "num_likes": 17,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1110472145241550848": {
+            "id": "1110472145241550848",
+            "text": "Guitar hero but the notes are git commits on different branches",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1110236980615499776": {
+            "id": "1110236980615499776",
+            "text": "Me, in europe, surrounded by different cuisines: *subsists solely on turkish food and cheap beer*",
+            "username": "jake_theripper",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108683732867641345": {
+            "id": "1108683732867641345",
+            "text": "https://twitter.com/WasmWeekly/status/1108615601801646081\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105440723036450816": {
+            "id": "1105440723036450816",
+            "text": "summoning circle, hope this works \n\n                       \n \n       people       \n     stop using this     \n  shitty meme  \n \n",
+            "username": "jake_theripper",
+            "num_likes": 53,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "1105212374368301056": {
+            "id": "1105212374368301056",
+            "text": "stay classy bois\n\nstory: a pipe burst and my Airbnb's room became a puddle the other nightpic.twitter.com/HDnVKznAqd",
+            "username": "jake_theripper",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1104858036017913861": {
+            "id": "1104858036017913861",
+            "text": "The only beacon chain visualization that matterspic.twitter.com/8scX7SbyXJ",
+            "username": "jake_theripper",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1104780377237999618": {
+            "id": "1104780377237999618",
+            "text": "hot dogs are zero knowledge meat\ncc @zooko",
+            "username": "jake_theripper",
+            "num_likes": 87,
+            "num_retweets": 12,
+            "num_replies": 7
+        },
+        "1104523502831443969": {
+            "id": "1104523502831443969",
+            "text": "this touches my soulhttps://twitter.com/IanColdwater/status/1104031169505619968\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1104443048841355264": {
+            "id": "1104443048841355264",
+            "text": "My ethCC slides, for anyone who wants to try out wasm-chisel.https://docs.google.com/presentation/d/1EPWOXuZRtYAB3h5DVmF39f0seeBzf2eGWwCEmDjoQ6w/edit?usp=sharing\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1103027290781425664": {
+            "id": "1103027290781425664",
+            "text": "If my life was a github repo it would have way too many issues labeled \"wontfix\"",
+            "username": "jake_theripper",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1100099618854105088": {
+            "id": "1100099618854105088",
+            "text": "In pre-school, being left-handed, I would write numbers backwards (larger place value to the right, e.g. 12 is 21). When confronted about this, I stated that it was \"my way\" of writing numbers.https://twitter.com/KEBrightbill/status/1098106429628694528\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1098332543382827008": {
+            "id": "1098332543382827008",
+            "text": "you just achieved a new, worse level of virtue signaling.\nand i did too i guess.https://twitter.com/BenLLS/status/1098290801724018689\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093594052463943681": {
+            "id": "1093594052463943681",
+            "text": "If anyone opens another org and/or discourse forum for something that doesn't need its own org/forum, I am going to lose my shit.",
+            "username": "jake_theripper",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092122728797274112": {
+            "id": "1092122728797274112",
+            "text": "The reference manual didn't mention anything about my \"Ph'nglui mglw'nafh Cthulhu\u00a0R'lyeh\u00a0wgah'nagl\u00a0fhtagn\" brand toilet making my ears bleed and giving me visions of ominous non-Euclidean landscapes upon flushing.\n\n3/5 stars @IKEAUSAhttps://twitter.com/elonmusk/status/1091947949578317824\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1087748014234578945": {
+            "id": "1087748014234578945",
+            "text": "how to actually break the internethttps://twitter.com/FakeIACR/status/1085501900496211968\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085605353419665408": {
+            "id": "1085605353419665408",
+            "text": "tag yourselfhttps://twitter.com/huwyca/status/1085572758128467969\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085223660472975361": {
+            "id": "1085223660472975361",
+            "text": "Realistic prediction: web devs are not actually going to use WebAssembly directly, most of the time. Major JS frameworks will instead use Wasm behind the scenes, providing high performance functionality through a high-level JS wrapper.",
+            "username": "jake_theripper",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1083122791602376704": {
+            "id": "1083122791602376704",
+            "text": "thought leaderhttps://twitter.com/VitalikButerin/status/1083036400872636416\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1083069116771115008": {
+            "id": "1083069116771115008",
+            "text": "Thou shalt not count thy lines of code greater than that of thy unit tests.",
+            "username": "jake_theripper",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082413844646055937": {
+            "id": "1082413844646055937",
+            "text": "how is this allowedhttps://twitter.com/paddykcl/status/1082317162235285510\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1078012746405433344": {
+            "id": "1078012746405433344",
+            "text": "holidays: that time of year when you don't wake up to GitHub notifications.\n:(",
+            "username": "jake_theripper",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1063526383652151298": {
+            "id": "1063526383652151298",
+            "text": "OCaml as a wasm contract language? yes pleasehttps://twitter.com/Sander_Spies/status/1063086741689643008\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063083067840098304": {
+            "id": "1063083067840098304",
+            "text": "bestnethttps://twitter.com/alexberegszaszi/status/1063082636351078400\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1061312377969430529": {
+            "id": "1061312377969430529",
+            "text": "help build the decentralized future!!1!https://twitter.com/backus/status/1060383976064315392\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060511024368046080": {
+            "id": "1060511024368046080",
+            "text": "No clue why everyone hates jet lag. Today I woke up at a reasonable time because of it!",
+            "username": "jake_theripper",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1058752269389389824": {
+            "id": "1058752269389389824",
+            "text": "pro-tip: If you, like myself, are using the swag bag from the @ethstatus hackathon to carry laundry, do NOT wash it!\nIt will probably shrink and you will have to make a secondary bag out of a spare shirt to get your clothes back from the laundromat.pic.twitter.com/QRczoJAHl6",
+            "username": "jake_theripper",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1057245259636322305": {
+            "id": "1057245259636322305",
+            "text": "Forget the content, this is my favorite place at @EFDevconpic.twitter.com/qIi9EiAeJQ",
+            "username": "jake_theripper",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056576062820368390": {
+            "id": "1056576062820368390",
+            "text": "unsung herohttps://twitter.com/alexberegszaszi/status/1056567102541365248\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1056575502822051842": {
+            "id": "1056575502822051842",
+            "text": "the best part was that this was solved in the context of watching anime series in every possible permutation of its episodes. thx 4chan",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056574816067743744": {
+            "id": "1056574816067743744",
+            "text": "/sci/ best board?https://twitter.com/avsa/status/1054996918617755650\u00a0\u2026",
+            "username": "jake_theripper",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "googboog": 1,
+        "gitlost": 1,
+        "peter_szilagyi": 1,
+        "DeanEigenmann": 1,
+        "josephdelong": 1,
+        "ricburton": 1,
+        "tomaka17": 1,
+        "nikillinit": 1,
+        "Mitch_Kosowski": 1,
+        "SwiftOnSecurity": 1,
+        "MPtherealMVP": 1,
+        "FakeIACR": 1,
+        "cryptochamomile": 1,
+        "IntelSecurity": 1,
+        "alexberegszaszi": 4,
+        "MihailoBjelic": 1,
+        "rphmeier": 1,
+        "BobSummerwill": 1,
+        "backus": 1,
+        "sebastroy": 1,
+        "lrettig": 3
+    },
+    "users_retweeted": [
+        "alexberegszaszi",
+        "lrettig",
+        "googboog",
+        "gitlost",
+        "peter_szilagyi",
+        "DeanEigenmann",
+        "josephdelong",
+        "ricburton",
+        "tomaka17",
+        "nikillinit",
+        "Mitch_Kosowski",
+        "SwiftOnSecurity",
+        "MPtherealMVP",
+        "FakeIACR",
+        "cryptochamomile",
+        "IntelSecurity",
+        "MihailoBjelic",
+        "rphmeier",
+        "BobSummerwill",
+        "backus",
+        "sebastroy"
+    ]
+}

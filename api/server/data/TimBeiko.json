@@ -1,0 +1,1404 @@
+{
+    "is_complete": true,
+    "username": "TimBeiko",
+    "retweeted": {
+        "1126177889102118913": {
+            "id": "1126177889102118913",
+            "text": "One of the biggest takeaways from the first @ethhub_io community call was the suggestion of dropping the 1.x name and just calling it Ethereum. Everyone on the call thought 1.x just brings confusion when it's really just roadmap items.",
+            "username": "econoar",
+            "num_likes": 33,
+            "num_retweets": 3,
+            "num_replies": 8
+        },
+        "1123244427680591872": {
+            "id": "1123244427680591872",
+            "text": "Huge day for the @PegaSysEng team and Enterprise #Ethereum! Pantheon 1.1 marks a big step towards establishing robust privacy solutions desired by companies interested in #blockchain.\n\nDon't miss their 'Privacy in Pantheon' webinar today at 3:30pm EST. \n\nhttps://pages.consensys.net/privacy-in-pantheon-webinar\u00a0\u2026https://twitter.com/PegaSysEng/status/1123235857023033344\u00a0\u2026",
+            "username": "ethereumJoseph",
+            "num_likes": 53,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1121884526819651585": {
+            "id": "1121884526819651585",
+            "text": "Hello world! We're live with our first post - notes from the ETH Core Devs call today:https://note.garden/blog/call-summary-ethereum-core-devs-no-60-april-26-2019/\u00a0\u2026",
+            "username": "notegarden",
+            "num_likes": 25,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1121890121173827592": {
+            "id": "1121890121173827592",
+            "text": "We want to confirm the news that the ProgPow Audit funding has been secured as per Hudson\u2019s comments on today\u2019s AllCoreDevs call. A blog post will be released with all of the details including the audit timeline.",
+            "username": "EthCatHerders",
+            "num_likes": 65,
+            "num_retweets": 18,
+            "num_replies": 6
+        },
+        "1121056203256344579": {
+            "id": "1121056203256344579",
+            "text": "Thanks @fubuloubu for being first to use updated EIP233 to formally add EIP1344 as a proposed addition to Istanbul http://eips.ethereum.org/EIPS/eip-1679\u00a0\n\nIn short, make PRs to 1679 to propose EIPs, and they will show up automatically when merged in the link.",
+            "username": "bmann",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1120404648026955785": {
+            "id": "1120404648026955785",
+            "text": "Diagram of a 6mo vs a 4mo cadence for Ethereum protocol upgrades. Thanks, @shemnon! @EthCatHerdershttps://ethereum-magicians.org/t/more-frequent-smaller-hardforks-vs-less-frequent-larger-ones/2929/28\u00a0\u2026",
+            "username": "jemenger",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1117694897291767809": {
+            "id": "1117694897291767809",
+            "text": "Something that's been in the back of my head for a long time. I wish we built blockchain clients differently, with more focus on users. #lesstwittermorelongformhttps://medium.com/@folsen/the-future-is-a-myriad-of-blockchain-clients-d05e1d7ac181\u00a0\u2026",
+            "username": "fredhrson",
+            "num_likes": 191,
+            "num_retweets": 64,
+            "num_replies": 9
+        },
+        "1116807660882530305": {
+            "id": "1116807660882530305",
+            "text": "1/ Every now and then someone will argue on CT that Ethereum full nodes are not complete nodes because archive nodes exist. I decided to run a little experiment to disprove a few thingshttps://medium.com/@marcandrdumas/are-ethereum-full-nodes-really-full-an-experiment-b77acd086ca7\u00a0\u2026",
+            "username": "marcandu",
+            "num_likes": 194,
+            "num_retweets": 72,
+            "num_replies": 8
+        },
+        "1115973145985454080": {
+            "id": "1115973145985454080",
+            "text": "Computer scientist Katie Bouman and her awesome stack of hard drives for #EHTblackhole image data  \u2014 reminds me of Margaret Hamilton and her Apollo Guidance Computer source code. pic.twitter.com/MgOXiDCAKi",
+            "username": "floragraham",
+            "num_likes": 53245,
+            "num_retweets": 19754,
+            "num_replies": 200
+        },
+        "1115739538872258561": {
+            "id": "1115739538872258561",
+            "text": "2/ ok, now you get a bit more detail about chain v forked chain.\n\ndoes it change which #bitcoin you buy? does it change which #ethereum you buy?pic.twitter.com/0r9q9pph9Y",
+            "username": "Melt_Dem",
+            "num_likes": 88,
+            "num_retweets": 5,
+            "num_replies": 16
+        },
+        "1115739079935705096": {
+            "id": "1115739079935705096",
+            "text": "1/ gripe on crypto forks, user experience, design, and ethics\n\nyou're new to #crypto. you don't know much, but you've heard of bitcoin and ethereum. \n\nyou open an account on some crypto platform. you see this \n\nwhich #bitcoin do you buy? which #ethereum do you buy?pic.twitter.com/dQzi6esH3J",
+            "username": "Melt_Dem",
+            "num_likes": 489,
+            "num_retweets": 135,
+            "num_replies": 88
+        },
+        "1114264429959376898": {
+            "id": "1114264429959376898",
+            "text": "Our first Gitcoin bounty is up for work on Pantheon development: https://github.com/PegaSysEng/BountiedWork/issues/1\u00a0\u2026\nGood way to get into developing an Ethereum client and get paid for it.",
+            "username": "ajsutton",
+            "num_likes": 15,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1113914334600679434": {
+            "id": "1113914334600679434",
+            "text": "We\u2019re working on Ethereum Core Dev workshop agenda, coming up April 17th & 18th Berlin. \n\nBut, I\u2019m trying to stay ahead of things & starting to think about the NEXT one. \n\nWho wants to volunteer to host / organize the next one? Leave a comment on GitHubhttps://github.com/ethereum-cat-herders/PM/issues/32\u00a0\u2026",
+            "username": "bmann",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1113459974355660806": {
+            "id": "1113459974355660806",
+            "text": "Tweetstorm about #eth2 development\n\n\"The ETH 2.0 testing saga\"\n\nIn context of some of my traveling\n    \n#ethereum #serenity\n\nRead\n",
+            "username": "protolambda",
+            "num_likes": 153,
+            "num_retweets": 46,
+            "num_replies": 5
+        },
+        "1113411147321966592": {
+            "id": "1113411147321966592",
+            "text": "So much work went into this. I'm so proud of our team.https://twitter.com/JonnyRhea/status/1113410824553385989\u00a0\u2026",
+            "username": "josephdelong",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1112165571725066246": {
+            "id": "1112165571725066246",
+            "text": "It might be the beer talking but I\u2019m feeling really confident that #cryptotwitter is going to solve governance tonight.",
+            "username": "panekkkk",
+            "num_likes": 77,
+            "num_retweets": 5,
+            "num_replies": 4
+        },
+        "1112073070460747777": {
+            "id": "1112073070460747777",
+            "text": "Ethereum governance has failed.\n\nWe are a de facto technocracy, where a small group of technocrats, the core devs, have final say over what goes into the protocol.",
+            "username": "lrettig",
+            "num_likes": 867,
+            "num_retweets": 256,
+            "num_replies": 92
+        },
+        "1111657753645408262": {
+            "id": "1111657753645408262",
+            "text": "RTing for visibility. From my perspective as an institutional investor, including ProgPoW without an audit would be absolutely reckless, an unmitigated DAO-level disaster.https://twitter.com/ameensol/status/1111655537140289542\u00a0\u2026",
+            "username": "spencernoon",
+            "num_likes": 46,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1111655537140289542": {
+            "id": "1111655537140289542",
+            "text": "Today I attended my first #Ethereum call and was concerned to discover that the ProgPow switch may proceed even in the absence of an audit. I think this is a terrible idea and said as much on the eth magicians forum.https://ethereum-magicians.org/t/motion-to-not-include-progpow-without-audit/3027\u00a0\u2026",
+            "username": "ameensol",
+            "num_likes": 174,
+            "num_retweets": 28,
+            "num_replies": 11
+        },
+        "1111655085845766144": {
+            "id": "1111655085845766144",
+            "text": "I don't think this was Ewasm. I think you're referring to this (https://github.com/ethereum/pm/issues/89#issuecomment-478030037\u00a0\u2026) which is from Ganache!",
+            "username": "lrettig",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1111263117927944192": {
+            "id": "1111263117927944192",
+            "text": "Meanwhile, #ethereum R&D progresses towards PoS. As a holder, I don't know ETH 2.0's final details but I still support it by having a stake.\n\nAt the bear market lows a few months ago, a recurring theme was how cheap 32 ETH was to qualify as a PoS validator. The narrative matters.",
+            "username": "Syncubate",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1111260941935620097": {
+            "id": "1111260941935620097",
+            "text": "Thus far, only about $1K has been contributed towards the $50K sought for a technical audit of #ProgPoW.\n\nMiners who predominantly favor its implementation won't contribute to an audit because they don't know the details, yet they're still for the change?https://twitter.com/sawinyh/status/1111049354201059329\u00a0\u2026",
+            "username": "Syncubate",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1111107443667464192": {
+            "id": "1111107443667464192",
+            "text": "PSA: http://progpowcarbonvote.com\u00a0 will be shut down and archived in two weeks, on April 10. If you haven't voted yet and still intend to, please do so ASAP.",
+            "username": "EthCatHerders",
+            "num_likes": 43,
+            "num_retweets": 23,
+            "num_replies": 7
+        },
+        "1110699442573897728": {
+            "id": "1110699442573897728",
+            "text": "Artemis, PegaSys\u2019s ETH 2.0 client, processing attestations, blocks and finalizing epochs. No biggie.pic.twitter.com/F3jvtGILwq",
+            "username": "cemozer_",
+            "num_likes": 292,
+            "num_retweets": 85,
+            "num_replies": 17
+        },
+        "1110544206647476224": {
+            "id": "1110544206647476224",
+            "text": "Meeting 8 of the @EthCatHerders is live now https://www.youtube.com/watch?v=xLR5V0DGZxE\u00a0\u2026 @EthereumLive",
+            "username": "lrettig",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1110042338045378560": {
+            "id": "1110042338045378560",
+            "text": "ProgPoW Audit: Goals and Expectations by @EthCatHerders. Includes a link to our @GetGitcoin bounty!https://medium.com/ethereum-cat-herders/progpow-audit-goals-expectations-75bb902a1f01\u00a0\u2026",
+            "username": "hudsonjameson",
+            "num_likes": 51,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "1109199771774812161": {
+            "id": "1109199771774812161",
+            "text": "It seems to me that the biggest problem with Ethereum governance right now is in bridging the wide gap between the core dev calls and the places where discussion happens (CT/Reddit/Github/etc). @hudsonjameson does this almost single-handedly right now, but he shouldn't be alone. https://twitter.com/evan_van_ness/status/1109179582828212224\u00a0\u2026",
+            "username": "MarkBeylin",
+            "num_likes": 50,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1108604509608005632": {
+            "id": "1108604509608005632",
+            "text": "One big lesson @AugurProject and @veil taught us is how difficult it is to write precise markets. Below is a list of all controversial, ambiguous, and misleading markets so far: ",
+            "username": "richardchen39",
+            "num_likes": 144,
+            "num_retweets": 49,
+            "num_replies": 9
+        },
+        "1108392741132795904": {
+            "id": "1108392741132795904",
+            "text": "The first eth2.0-specs commit is 6 month old  Tons of phase 0 and phase 1 progress. Plausible timing for 2019:\n\n* Q2: phase 0 spec freeze\n* Q3: phase 1 spec freeze\n* Q4: phase 0 launch\n\nhttps://github.com/ethereum/eth2.0-specs/blob/0001b7b9de2bf87ff267547acdb99788cf9b463c/specs/casper_sharding_v2.1.md\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 207,
+            "num_retweets": 69,
+            "num_replies": 9
+        },
+        "1105771162963976193": {
+            "id": "1105771162963976193",
+            "text": "BitMEX Research Launches Ethereum Node Metrics Website \u2013 https://www.nodestats.org\u00a0\n\nThe site was produced in collaboration with @thetokenanalyst\nhttps://blog.bitmex.com/bitmex-research-launches-ethereum-node-monitoring-website-nodestats-org/\u00a0\u2026pic.twitter.com/5OVk35jBPC",
+            "username": "BitMEXResearch",
+            "num_likes": 209,
+            "num_retweets": 67,
+            "num_replies": 10
+        },
+        "1104090434295529473": {
+            "id": "1104090434295529473",
+            "text": "I'll be speaking 2-2:50pm on 3/14 in Austin at the Blockchain House! Come see me speak about Ethereum 2.0  @ConsenSys @EtherealSummit @PegaSysEng @sxsw #PiDay #Ethereum #SXSW #SXSW2019https://twitter.com/ethereumJoseph/status/1104073221895307264\u00a0\u2026",
+            "username": "akhilasraju",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1103682353543696384": {
+            "id": "1103682353543696384",
+            "text": "0/ We\u2019re excited to release our \u201cEntering The Ethereum\u2019 report. Read it in full here!http://www.delphidigital.io/ethereum\u00a0",
+            "username": "Delphi_Digital",
+            "num_likes": 277,
+            "num_retweets": 97,
+            "num_replies": 15
+        },
+        "1101198361183600641": {
+            "id": "1101198361183600641",
+            "text": "On January 18 we chose block 7280000 for Constantinople take 2 and forecast that it would occur on 2019-02-27 between 00:51-08:56 UTC. Looks like we were off by ~36 hrs, but the upgrade is still happening mid-week as planned.  This is like a solar eclipse in Eth-land https://twitter.com/lrettig/status/1086282903401705472\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 72,
+            "num_retweets": 9,
+            "num_replies": 5
+        },
+        "1098196855467491330": {
+            "id": "1098196855467491330",
+            "text": "Some thoughts on Eth governance and what happened with @5chdn. Note: my context into this situation is just what I have read on Twitter/Reddit.\n\nhttps://twitter.com/jemenger/status/1098014630213967873\u00a0\u2026",
+            "username": "Arjun_Bhuptani",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1093325958369570816": {
+            "id": "1093325958369570816",
+            "text": "Notes and video from the ETH 1.x / ETH Roadmap AMA. This is just the greatest! Thanks for organizing the session @bmann, @timbeiko, @realLedgerwatch, and others.https://ethereum-magicians.org/t/eth-roadmap-ama-webinar-feb-6th-8am-pst-1700-utc-1/2518\u00a0\u2026",
+            "username": "jemenger",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093177807637790720": {
+            "id": "1093177807637790720",
+            "text": "Excited to be a part of this! More AMAs! Kicking off now, check it out #eth1x AMA, also discussing @EthCatHerdershttps://twitter.com/bmann/status/1093177567132016642\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1090987552956395520": {
+            "id": "1090987552956395520",
+            "text": "Really glad @angela_walch wrote this paper. A very useful reality check on how \"decentralization\" is used as political collateral by projects trying to avoid the security moniker. She also asks very tough questions of BTC & ETH. \n\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244\u00a0\u2026",
+            "username": "nic__carter",
+            "num_likes": 73,
+            "num_retweets": 21,
+            "num_replies": 9
+        },
+        "1087983994996703233": {
+            "id": "1087983994996703233",
+            "text": "Today I discovered a \u201ccoinmarketcap\u201d for permission blockchains.  Also featuring Ethereum for comparison. https://unbounded.network\u00a0",
+            "username": "virgilgr",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1090329028060422144": {
+            "id": "1090329028060422144",
+            "text": "Must-read thread. @ameensol clearly gets it. We need more people in the Ethereum community to think about $ETH value accrual because it directly relates to the security of the network.https://twitter.com/ameensol/status/1090319128810815489\u00a0\u2026",
+            "username": "spencernoon",
+            "num_likes": 69,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1088286587157340161": {
+            "id": "1088286587157340161",
+            "text": "0/ Achieving trust-minimization is a really hard problem at so many layers of the stack\n\nA thread on a near-invisible layer: the UX",
+            "username": "KyleSamani",
+            "num_likes": 39,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1087118615927816200": {
+            "id": "1087118615927816200",
+            "text": "\u201cEthereum governance is centralized.\u201d Mmmkay.\n\nPhase 1:\n1. Developer, researcher, community member drafts an EIP\n2. EIP is discussed on reddit, twitter, github, and @EthMagicians. Users signal intent.\n3. Coinvotes/polls created ad hoc (if contentious) to roughly gauge sentiment",
+            "username": "cyber_hokie",
+            "num_likes": 58,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1085302182310752257": {
+            "id": "1085302182310752257",
+            "text": "One great thing about rough consensus as opposed to voting is that valid objections are effective at stopping decisionshttps://twitter.com/peter_szilagyi/status/1085301341977751552\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 76,
+            "num_retweets": 6,
+            "num_replies": 8
+        },
+        "1084652403889065989": {
+            "id": "1084652403889065989",
+            "text": "1/ Over the last year, several of us have worked in our spare time to design and build a grants-DAO/Guild called  Moloch . If everything goes as planned, Moloch will launch in 1 month at @EthereumDenver.https://github.com/molochventures/moloch\u00a0\u2026",
+            "username": "ameensol",
+            "num_likes": 359,
+            "num_retweets": 83,
+            "num_replies": 20
+        }
+    },
+    "tweeted": {
+        "1126251047767412739": {
+            "id": "1126251047767412739",
+            "text": "Great overview of the current state of the EIPs process in Ethereum and how 1.x aims to be different https://twitter.com/realLedgerwatch/status/1126248647300198402\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1125543960317976578": {
+            "id": "1125543960317976578",
+            "text": "To gather feedback on this, I've shared it both to @EthMagicians (https://ethereum-magicians.org/t/definitions-of-governance-layers/3054/17\u00a0\u2026) and @ethhub_io's new forum (https://community.ethhub.io/t/making-the-eip-process-more-transparent/258\u00a0\u2026). Let's see what happens!",
+            "username": "TimBeiko",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1124392151528427521": {
+            "id": "1124392151528427521",
+            "text": "In the spirit of not creating \"yet another thing to maintain\", I've merged most of the content from the previous attempt into EIP-1: https://github.com/ethereum/EIPs/pull/1991\u00a0\u2026 #Ethereum #EIPhttps://twitter.com/TimBeiko/status/1116064231563112448\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1124008354077130752": {
+            "id": "1124008354077130752",
+            "text": "Enjoyed this post about Ethereum's UX issues. Perhaps we should have this as an Ethereum Working Group? https://hackernoon.com/https-medium-com-okduncan-research-is-not-enough-moreexperiementation-404f69d20e52#---0-201\u00a0\u2026pic.twitter.com/nd97861Tm2",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1123290752207990785": {
+            "id": "1123290752207990785",
+            "text": "I like that it links to great ressources developed by the community, but I wonder if there would be a better way to preview them ",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1123290096768364544": {
+            "id": "1123290096768364544",
+            "text": "Woah, there is a new https://ethereum.org\u00a0 ... and, it's fully open-source https://github.com/ethereum/ethereum-org-website\u00a0\u2026 !",
+            "username": "TimBeiko",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1123037353717768192": {
+            "id": "1123037353717768192",
+            "text": "https://twitter.com/elonmusk/status/1123033196642201600\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121115906510397443": {
+            "id": "1121115906510397443",
+            "text": "https://twitter.com/rbhar90/status/1121111783186391040\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1121027566981095425": {
+            "id": "1121027566981095425",
+            "text": "The weirdest timelinehttps://twitter.com/GoldmanSachs/status/1120815583321313280\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120317637077213184": {
+            "id": "1120317637077213184",
+            "text": "https://twitter.com/EFDevcon/status/1120312795902377994\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1116699769840254977": {
+            "id": "1116699769840254977",
+            "text": "Won't be live-tweeting today's AllCoreDevs call because @hudsonjameson is out and I will be facilitating  Agenda is here https://github.com/ethereum/pm/issues/93\u00a0\u2026, Livestream is here: https://www.youtube.com/c/ethereumfoundation/live\u00a0\u2026 and I will share notes/tweets/summaries here after the call https://twitter.com/TimBeiko/status/1111628119629271043\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1113067435870117888": {
+            "id": "1113067435870117888",
+            "text": "Stumbled across this via @EthMagicians: a proposal to add a \"Review\" phase to EIPs between Draft and Accepted so that relevant stakeholders may formally weigh in before Core Devs schedule it for inclusion in a hard fork:https://github.com/ethereum/EIPs/pull/1725\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1112754508503887872": {
+            "id": "1112754508503887872",
+            "text": ".@coindesk months ago you said you wanted to add more data sources to your cryptocurrency comparison tool. PRs have been opened and sitting there since January and nothing has ever been merged. Is there any plan to do so?https://github.com/CoindeskData/CEX-Methodology/pulls\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1112399655021752320": {
+            "id": "1112399655021752320",
+            "text": "The transcript for the last #Ethereum #AllCoreDevs call is out. It now includes a \"Summary\" section listing action items & decisions made. You can thank @DBrettRobertson for it  https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2058.md#summary\u00a0\u2026https://twitter.com/TimBeiko/status/1111645123916558338\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1112084761265258496": {
+            "id": "1112084761265258496",
+            "text": "One last thing: I think people _still_ underestimate the fact that Ethereum has more known unknowns than unknown unknowns, which makes it look much messier than earlier projects (can't FUD unknown unknowns) _and_ Bitcoin (less known unknowns as a function of time passing).",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1112084359379644416": {
+            "id": "1112084359379644416",
+            "text": "It's great to see people like you & @hudsonjameson trying to kickstart the Cat Herders effort, to see @bmann & @jemenger trying to broaden the scope of the Magicians and to see @econoar and @ameensol push for developers' and investors' voice.",
+            "username": "TimBeiko",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1112083732738072576": {
+            "id": "1112083732738072576",
+            "text": "Once these begin to coordinate, we'll hopefully see these groups coordinate amongst themselves. There may be a lot of overlap at first, as most of them are seeded by \"core devs\", but hopefully they each grow to become more diverse.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1112083543348400128": {
+            "id": "1112083543348400128",
+            "text": "I think AllCoreDevs was used as the main governance mode when Ethereum was small, and we're now at the point where we need \"institutions\" to represent various stakeholders in the community (i.e. developers, miners or stakers, devs, end users, etc.).",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1112083278494949377": {
+            "id": "1112083278494949377",
+            "text": "This isn't a perfect analogy, but IMO Ethereum governance is right around here. We're disillusioned by the current process, there are a few initiatives that are starting to take shape, but none have worked or paid dividends yet. There clearly is a desire to improve, though!pic.twitter.com/EapNWAWURf",
+            "username": "TimBeiko",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1111722113906429952": {
+            "id": "1111722113906429952",
+            "text": "So this is the most concise rebuttal I've seen so far: https://gitter.im/ethereum/governance?at=5c9e7b0708f8e7361a6c7af8\u00a0\u2026https://twitter.com/TimBeiko/status/1111247644100317184\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111645123916558338": {
+            "id": "1111645123916558338",
+            "text": "And we are done! Hudson won't be on the call in two weeks, as he'll be at a star wars convention! Someone else will be moderating. TBD. And that's a wrap ",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111644891866644481": {
+            "id": "1111644891866644481",
+            "text": "Aleth: working on implementing new discovery protocol (v5)",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111644777479659520": {
+            "id": "1111644777479659520",
+            "text": "eWASM: beta release this week, which introduced a more accurate gas estimator. Planning on writing a detailed description of how the algorithm works.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1111644395693096961": {
+            "id": "1111644395693096961",
+            "text": "Research updates: progress on proof of custody game. Design space is quite large, so need to narrow it down. Lots of ETH 2.0 clients are getting close to having single-client test nets. Look out for them over the next few weeks ",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111644058814955521": {
+            "id": "1111644058814955521",
+            "text": "There is currently no lead for this, so it would be great for someone or a group to step up and own this ",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111643748864270336": {
+            "id": "1111643748864270336",
+            "text": "One update, though: @realLedgerwatch wants to create a new working group within ETH 1.x with the goal of creating a prototype of the finality gadget from the beacon chain to finalize the 1.0 chain.https://ethereum-magicians.org/t/eth2-in-eth1-light-clients/2880\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1111643465211936768": {
+            "id": "1111643465211936768",
+            "text": "Proposal: get updates posted as text on the agenda, and use the call for others to ask questions about the updates.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1111643351768539137": {
+            "id": "1111643351768539137",
+            "text": "Similar for eWASM: if they have an update, signal it on the agenda before the call. For Research, leaving space is probably reasonable, but this depends on the week. OTOH, most core devs don't attend the 2.0 calls, so those may be valuable.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111643041490702337": {
+            "id": "1111643041490702337",
+            "text": "For client developers, it's unclear how much or little to include in upgrades. Not enough time to give more than superficial updates. We will move to a model where clients can comment on the agenda if they want to share an update.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111642535347269632": {
+            "id": "1111642535347269632",
+            "text": "Now we would move on to client updates, but Hudson wonders if these are still valuable. Do we still want them, or are they just about people shilling their clients ?",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111642228450050049": {
+            "id": "1111642228450050049",
+            "text": "This way, the genesis format would be consistent across clients. There is a bare minimum already defined to run the blockchain state tests, but this could be improved upon.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111641985696317440": {
+            "id": "1111641985696317440",
+            "text": "Testing updates, now. Finished blockchain tests that can now run on any client that uses JSON RPC, and also provides a docker interface. For Genesis files, we could fix the fork names similarly to how we fix the EIP names, so that they aren't changed when accepted.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111641179647545344": {
+            "id": "1111641179647545344",
+            "text": "Hudson: if the carbonvote says something wildly different than it does now, or if the community seems to change their opinion, then decisions can change. Otherwise, we would go ahead with the previous decision to include ProgPow.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111640924667502592": {
+            "id": "1111640924667502592",
+            "text": "Q: is the audit a nice-to-have or show-stopper? Has a decision already been made on this? A: @hudsonjameson not sure. Clients eventually decide what they implement. @greg_colvin says he's more confused now. @lrettig says we should move the discussion to another forum ",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111640240979091459": {
+            "id": "1111640240979091459",
+            "text": "Second, audit update. @EthCatHerders are continuing to fundraise for the audit. The Gitcoin link is here: https://gitcoin.co/grants/82/official-progpow-technical-audit-funding\u00a0\u2026 and @hudsonjameson is also doing some fundraising.",
+            "username": "TimBeiko",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1111639915362770945": {
+            "id": "1111639915362770945",
+            "text": "Next: ProgPow updates! First, http://progpowcarbonvote.com\u00a0 is shutting down in 13 days. If you feel strongly, please vote before then. There will be a block number to get the final tally announced soon.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111639514085318656": {
+            "id": "1111639514085318656",
+            "text": "A call is made for more developers from Geth or @ParityTech to join, as their input is very valuable to these events. Also, if we end up with a more predictable HF schedule, it would be easier to schedule events such as these well in advance.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111639187504148481": {
+            "id": "1111639187504148481",
+            "text": "An in-person Istanbul / ETH 1.x meeting _is_ happening in Berlin on April 17-18 (https://ethereum-magicians.org/t/istanbul-eth1x-roadmap-planning-meeting-april-17th-18th-in-berlin/2899\u00a0\u2026) A lot of people have proposed to present EIPs (remote presentations are possible!) ~25 attendees right now, there will be a livestream too.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111638806925594624": {
+            "id": "1111638806925594624",
+            "text": "Yesterday, the stateless client prototype was published. [missed a couple things here because I was following links ]. Alexey says people can reach out to him for questions / suggestions!",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111638010334973954": {
+            "id": "1111638010334973954",
+            "text": "And now, working group updates! First up state fees. There was an async update posted to the Agenda (https://github.com/ethereum/pm/issues/89#issuecomment-477954769\u00a0\u2026)",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111637746668457985": {
+            "id": "1111637746668457985",
+            "text": "Next EIP is about repricing the SLOAD and BALANCE opcodes: https://github.com/ethereum/EIPs/blob/dcc573e74adc0e6dd25821ddaabf862e8f85e107/EIPS/eip-1884.md\u00a0\u2026 \n\nThe main goal is to make sure that opcodes that have a large impact on state size are priced accordingly (i.e. made more expensive). Two versions of price change are proposed in the EIP.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111637033439633408": {
+            "id": "1111637033439633408",
+            "text": "Quick comment about EIP-1559, proposed by Vitalik, not being formatted according to the EIP standards. Needs to update that if it is to be considered for Istanbul \u00a0https://github.com/ethereum/EIPs/issues/1559\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111635950365564929": {
+            "id": "1111635950365564929",
+            "text": "Now moving onto discussing EIPs. First one up by @shemnon: https://github.com/shemnon/EIPs/blob/4e3069b4f9a30a639b142151dc6295f634712786/EIPS/eip-network_upgrade_windows.md\u00a0\u2026\n\nThe goal of the EIP is to provide a calendar for which weeks in the year (4x/year) potential HFs could happen. This would provide predictability to engineers, businesses and node operators.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111635504456495112": {
+            "id": "1111635504456495112",
+            "text": "In general, it seems like there is some consensus on doing smaller hardforks in general. Potentially even before Istanbul!",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111634541410746370": {
+            "id": "1111634541410746370",
+            "text": "Proposal to change the process to be more EIP-centered vs. HF-centered: ex: Step 1: EIP accepted, Step 2: implemented in Geth + Parity, Step 3: Tests, etc. Once all steps are done, we find a date to include EIP. This would allow more parallelization of EIP implementations.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111633455778054144": {
+            "id": "1111633455778054144",
+            "text": "Last roadmap question: what state of specification are we expecting by May 17th? A: Kind of depends on how frequently we decide to do HFs. Lower cost to \"missing a deadline\" if the next HF is 3 months outs vs. 9-12.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111633152521523200": {
+            "id": "1111633152521523200",
+            "text": "Talking about EIP1, there is a lot that needs to be improved: How do we define when things get rejected? How can we better separate ERC vs. EIPs? @EthCatHerders have already started some work on this, see here:https://github.com/ethereum-cat-herders/PM/issues/19\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1111632641823068160": {
+            "id": "1111632641823068160",
+            "text": "Right now, the biggest time sink is writing the test cases. Could be made easier by requiring EIPs to write tests, especially for more intricate EIPs. Testing team could review proposed tests vs. writing them themselves. Could update EIP1 or 233 to reflect this.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111631188245000192": {
+            "id": "1111631188245000192",
+            "text": "Related to this: there has been discussion on @EthMagicians about the frequency of HFs we want in Ethereum. https://ethereum-magicians.org/t/more-frequent-smaller-hardforks-vs-less-frequent-larger-ones/2929\u00a0\u2026 \n\nCurrent HFs are very intensive test-wise, given we need to test interactions between EIPs. Smaller HFs may be easier to tests.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111630768671993857": {
+            "id": "1111630768671993857",
+            "text": "And we're on! First up, roadmap discussions. Current timeline for Istanbul is here: https://en.ethereum.wiki/roadmap/istanbul\u00a0\u2026. May 17: Hard deadline for EIP proposals. July 19: Soft deadline for major client implementations. Oct. 16: Potential Mainnet upgrade date.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111628119629271043": {
+            "id": "1111628119629271043",
+            "text": "Continuing with more #Ethereum #AllCoreDevs snippets for today's call, starting in 5 minutes. There will also be a summary of the call published to @EthMagicians by the @EthCatHerders, along with the usual livestream and transcript.https://twitter.com/TimBeiko/status/1106557410779512832\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1111248049349775360": {
+            "id": "1111248049349775360",
+            "text": "*opposes. Thanks twitter.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1111247644100317184": {
+            "id": "1111247644100317184",
+            "text": "Would be great to see someone who oppose ProgPow write a rebuttal to this. This is what will move the conversation out of a deadlock. cc: @ameensol @licuende @koeppelmann @econoar @RyanSAdams @Syncubatehttps://twitter.com/mhswende/status/1111218029835272192\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1110534257158565888": {
+            "id": "1110534257158565888",
+            "text": ".@econoar not sure how serious you are about running with this, but I think announcing it on EthMagicians for the opposite Friday of AllCoreDevs could be good. Happy to help!",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1110191471594897409": {
+            "id": "1110191471594897409",
+            "text": "You can imagine Ethereum governance having an end state with 3 branches: Core Devs code the changes, Community (@EthMagicians ?) accepts/rejects and @EthCatHerders facilitate the process.",
+            "username": "TimBeiko",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1110190924083032065": {
+            "id": "1110190924083032065",
+            "text": "This could be valuable. @EthMagicians in person meetings serve this purpose today (to some extent!) but aren\u2019t very inclusive. \n\nIf we don\u2019t want \u201cgovernance by forks\u201d, the community needs a way to \u201cdisagree and commit\u201d. Perhaps such a call could help. \n\nHappy to assist @econoarhttps://twitter.com/econoar/status/1109996623243837440\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1109440252349943808": {
+            "id": "1109440252349943808",
+            "text": "cc: @EthCatHerders @EthMagicians @ethereum",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1109440251481808896": {
+            "id": "1109440251481808896",
+            "text": "While everyone is discussing #ProgPow on Twitter, there hasn't been a single other EIP added for discussion to the Github #Ethereum #AllCoreDevs agenda yet https://github.com/ethereum/pm/issues/89\u00a0\u2026 \n\nIf there is something you strongly feel should be part of #Istanbul, please speak up.",
+            "username": "TimBeiko",
+            "num_likes": 25,
+            "num_retweets": 9,
+            "num_replies": 4
+        },
+        "1109410627917938690": {
+            "id": "1109410627917938690",
+            "text": "I tried livetweeting the call last time, but even that can be a lot to swift through.https://mobile.twitter.com/TimBeiko/status/1106579265607344128\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1109410216909697024": {
+            "id": "1109410216909697024",
+            "text": "IMO it\u2019s unrealistic to expect founders of dapps to watch the 2h call. Would a TL;DR/highlights help, @ameensol @evan_van_ness @haydenzadams ? ProgPow won\u2019t be the last contentious topic/EIP. HF schedules, state rent and minimum fees are all coming down the pipeline.",
+            "username": "TimBeiko",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1109409592151363584": {
+            "id": "1109409592151363584",
+            "text": "Could the @ethereum account either live-tweet the calls, or at least share a summary of them (vs full transcript)? cc: @hudsonjameson ?",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1108752322212040706": {
+            "id": "1108752322212040706",
+            "text": "TFW you click on a link that claims a new blockchain product has launched and you get redirected to a twitter thread linking to a medium post talking which vaguely describes an upcoming product ",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108001062294876160": {
+            "id": "1108001062294876160",
+            "text": "https://twitter.com/owocki/status/1107999544212520961\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1106622579798917120": {
+            "id": "1106622579798917120",
+            "text": ".@econoar not sure if you are aware of the meetings, but I know you've been spearheading the revival of this, so wanted to point it out.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1106622374244466688": {
+            "id": "1106622374244466688",
+            "text": "I've opened an @EthMagicians thread to discuss the issue of smaller, more frequent vs. larger, less frequent hard forks: https://ethereum-magicians.org/t/more-frequent-smaller-hardforks-vs-less-frequent-larger-ones/2929\u00a0\u2026 https://twitter.com/TimBeiko/status/1106560480670294016\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1106579265607344128": {
+            "id": "1106579265607344128",
+            "text": "... and that's it for this call! More details are available here:https://github.com/ethereum/pm/issues/83\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106578164254425089": {
+            "id": "1106578164254425089",
+            "text": "Re: precompiles, there is another proposal for Istanbul, EIP-1829, which may be complementary but doesn't provide all the functionality for the ETH2/ETH1 client above.https://eips.ethereum.org/EIPS/eip-1829\u00a0",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106578163411374080": {
+            "id": "1106578163411374080",
+            "text": "Looking to write an EIP for a BLS precompile in the EVM, in order to have an ETH2.0 in ETH1 light client, and improve compatibility with other chains, such as ZCash. More details on this thread:https://ethereum-magicians.org/t/eth2-in-eth1-light-clients/2880\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106577341881483268": {
+            "id": "1106577341881483268",
+            "text": "Phase 0 is stabilizing, Phase 1 is starting to make good progress, and looking for more feedback on Phase 2. Here's a link for the @EthMagicians feedback thread:https://ethereum-magicians.org/t/things-to-decide-for-phase-2-copy-from-eth2-0-specs-github-issues/2895\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106577341097168897": {
+            "id": "1106577341097168897",
+            "text": "Research updates: v0.5 of the Beacon Chain spec just got release  Made spec into an executable with tests. Will be ETH 2.0 meetings near EDCON. Vitalik made progress on light client protocol. At the point where we can see whether or not it makes sense to start implementing.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106576751440871430": {
+            "id": "1106576751440871430",
+            "text": "Nimbus: syncing farther along the chain  Web3J: ERC20 interface baked into Web3j 4.2. After this, focus will move to JVM implementation of libp2p.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106576750715301894": {
+            "id": "1106576750715301894",
+            "text": "Client Updates: Geth: LevelDB optimizations for archive databases. Archive sync now down from 6 weeks to 7-10 days  Trinity: Constantinople support live. Harmony: demonstrated 1.5 months of stable runtime  TurboGeth: no updates aside from stateless client prototype. (cont'd)",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106574881653690369": {
+            "id": "1106574881653690369",
+            "text": "Testing Updates: main goal right now is to make all of the state tests for Constantinople be able to run via RPC. Trying to develop generic genesis file formats, considering submitting an EIP for it, as the genesis RPC initialization is crucial to state tests.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106574468812546051": {
+            "id": "1106574468812546051",
+            "text": ".@VitalikButerin brings up EIP-1559, which he won't be there to talk about. Wondering if we can have remote presenters too.https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/2\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1106573938937790464": {
+            "id": "1106573938937790464",
+            "text": "In Person Meetings organized for ETH 1.0/1.x in Berlin on April 17-18. Goal: go over EIPs for Istanbul, similar to Stanford Meetings, try to look ahead to future work and multi-HF planning.https://ethereum-magicians.org/t/istanbul-eth1x-roadmap-planning-meeting-april-17th-18th-in-berlin/2899\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106573567729303552": {
+            "id": "1106573567729303552",
+            "text": "eWASM update: some people met in Paris & Budapest. Should have updates on benchmarks next week! (and something else that I missed, my bad!).",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106572474584576001": {
+            "id": "1106572474584576001",
+            "text": "One comment: there is already an implementation in Geth/Parity, and suggests that a better path may be to highlight what is wrong with those vs. having a more open proposal which may result in a *lot* of suggestions. I think this is it: https://notes.ethereum.org/0v_W4E8lROazqYymPAF7Ew\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106572065270890497": {
+            "id": "1106572065270890497",
+            "text": "Now onto ethv64! Motivation: there hasn't been an upgrade to this stuff in a while, but there are a lot of good discussions. Opened a call for proposal which will stay open for another week, and then they could move to EIPs and reference implementations.https://ethereum-magicians.org/t/forming-a-ring-eth-v64-wire-protocol-ring/2857\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106571463170113536": {
+            "id": "1106571463170113536",
+            "text": "So far, the rough numbers for the stateless client are: size of hash and proofs for accounts 140kb/block (expected to rise, 200kb/block for contracts). Keys/values not in contracts: 6kbs/block. Contracts keys: 5kbs/block. Expect a blog post from Alexey when more results are in.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106570867268558848": {
+            "id": "1106570867268558848",
+            "text": "And now, Working Group updates: first up State Fees! Alexey has continued his work on stateless clients. Has been able to get to block ~4M. For more info on this work, this thread seems to be most up-to-date:https://ethereum-magicians.org/t/state-fees-formerly-state-rent-pre-eip-proposal-version-3/2654\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1106570048779575297": {
+            "id": "1106570048779575297",
+            "text": "For Discovery v5, the original plan was to have two EIPs, but that was weird given the large scope. Will use the repository to keep editing a draft, and likely eventually create an EIP with an overview and a pointer to that repository's spec.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106569288528416768": {
+            "id": "1106569288528416768",
+            "text": "For EIPs like this (i.e. the JSON RPC one, EIP-1474), it's good to have the EIP point to other repos where people can discuss and iteratehttps://github.com/ethereum/EIPs/blob/master/EIPS/eip-1474.md\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106568716190470146": {
+            "id": "1106568716190470146",
+            "text": "Seems like people agree with the EIP, no objections voiced. Will likely get implemented. @fredhrson says that having the bigger picture helps take this from \"just another data structure\" to \"something we should do\" ",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106566670410309633": {
+            "id": "1106566670410309633",
+            "text": "The big picture about these is that the information in the current protocol doesn't reveal much information about the nodes, so we get a lot of irrelevant nodes (i.e. dead forks, other chains, etc.). This EIP would allow better filtering of nodes one can connect to.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1106565827497742336": {
+            "id": "1106565827497742336",
+            "text": "EIP778 doesn't require a HF because it doesn't touch consensus. Backwards compatible, already implemented in Geth, and would be used as part of EIP-868:https://github.com/ethereum/EIPs/blob/master/EIPS/eip-868.md\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106564465439502336": {
+            "id": "1106564465439502336",
+            "text": "Moving on from ProgPow to Ethereum Node Record (ENR) https://eips.ethereum.org/EIPS/eip-778\u00a0. What is it? Data structure that can be added to node discovery protocol to agree on a common format for node information.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106563475227230210": {
+            "id": "1106563475227230210",
+            "text": "There is talk about shifting the burden of proof from \"people who want ProgPow to justify it\" to \"people who oppose ProgPow to raise the specific points they oppose to them\".",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106562589365059585": {
+            "id": "1106562589365059585",
+            "text": "Lots of talk about ProgPow audits, and it's unclear who the point person about the audits is. @hudsonjameson says there is discussion about it in @EthCatHerders and we should come up with someone and announce it.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106560663353208833": {
+            "id": "1106560663353208833",
+            "text": ".@VitalikButerin: there are a lot of advantages to smaller work (less to worry about, more can happen in parallel, etc.).",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106560480670294016": {
+            "id": "1106560480670294016",
+            "text": "Other other comment: should ProgPow be its own HF? Should we think about re-structuring HFs to be more spread out (vs. a chunk of changes every 6-9 months)?",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106560219100954624": {
+            "id": "1106560219100954624",
+            "text": "Other comment: all EIPs are always accepted conditionally on things going well anyways. Given that, we could probably accept ProgPow and remove it if we find something wrong about it.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106559883250487297": {
+            "id": "1106559883250487297",
+            "text": ".@shemnon adds that given the overwhelming support from miners for ProgPow, then benchmarking isn't as much of an issue as auditing the inner workings of ProgPow / its crypto.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106559308924403713": {
+            "id": "1106559308924403713",
+            "text": "Suggestion by @hudsonjameson: could we have ProgPow slotted for Istanbul and removed if something bad comes out of the audit?",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106558861417287680": {
+            "id": "1106558861417287680",
+            "text": "OTOH, someone from the community livestreamed a DIY audit showing ProgPow running on various cards.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106558658756907009": {
+            "id": "1106558658756907009",
+            "text": "For the ProgPow benchmarking, @whiteblock is on the fence about next steps given the lack of funding.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1106558270620225537": {
+            "id": "1106558270620225537",
+            "text": ".@EthCatHerders are looking at auditing proposals and should be taking a decision over the next week.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1106557972250050562": {
+            "id": "1106557972250050562",
+            "text": "#ProgPow update! The audit has two components: benchmarking, and how efficient ProgPow would be vs. potential ASICS",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1106557810056286208": {
+            "id": "1106557810056286208",
+            "text": "Proposal by to allow people to signal the EIPs they want in Istanbul by opening a PR against the Meta EIPhttps://eips.ethereum.org/EIPS/eip-1679\u00a0",
+            "username": "TimBeiko",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1106557410779512832": {
+            "id": "1106557410779512832",
+            "text": "A few snippets from the #Ethereum AllCoreDevs call today:",
+            "username": "TimBeiko",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1106205735279570945": {
+            "id": "1106205735279570945",
+            "text": "Requesting faucet funds into 0x016d3ADE18d80202b39C4c8BE561799C9bfF5c7E on the #Goerli #Ethereum test network.",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1105169918381735936": {
+            "id": "1105169918381735936",
+            "text": "Requesting faucet funds into 0x016d3ADE18d80202b39C4c8BE561799C9bfF5c7E on the #Rinkeby #Ethereum test network.",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1104112032024997888": {
+            "id": "1104112032024997888",
+            "text": "Despite having good teams, a differentiated approach, an emerging community and actual live software, both @blockstack and @urbit seem mostly ignored by CT/investors. Why ?",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1101228645966848000": {
+            "id": "1101228645966848000",
+            "text": "Fascinating thread comparing status games in social media to proof of work mining in crypto https://twitter.com/eugenewei/status/1100882295970394112\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100798802057924610": {
+            "id": "1100798802057924610",
+            "text": "Interesting case for decentralized computing: compete on integrity, and improve developer UX over time. Very well put, @thedanigrant! https://www.usv.com/blog/the-distributed-computing-update-3\u00a0\u2026pic.twitter.com/9oHOiDxHC2",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1098596375321817089": {
+            "id": "1098596375321817089",
+            "text": "Interesting throwback: Vitalik\u2019s description of Ethereum in Bitcoin Magazine in 2014. A lot of his use case predictions turned out right, 40% inflation is gone, and ETH 2.0 *is* happening !https://bitcoinmagazine.com/articles/ethereum-next-generation-cryptocurrency-decentralized-application-platform-1390528211/\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1097235074314104832": {
+            "id": "1097235074314104832",
+            "text": "@ParityTech ping :-)",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096500159465308161": {
+            "id": "1096500159465308161",
+            "text": "... and to end on a shameless plug: in a world where personalized data of any kind can and will be generated at 0 marginal cost, then global, shared, \"true\" data, which is costly to update, will be scare & valuable.",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096499191243829249": {
+            "id": "1096499191243829249",
+            "text": "It's also interesting how the model was biased by the format of the training data, in this case linked Reddit articles. \"Scroll down for video\" appears halfway through a paparazzi-ish generation.pic.twitter.com/AyaPQjdOT3",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1096498647146074112": {
+            "id": "1096498647146074112",
+            "text": "Full model hasn't been open-sourced due to ethical concerns. Will be interesting to see if this becomes more common when working on potentially \"dangerous\" models/problems.pic.twitter.com/JWqfOglth7",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1096498645187379201": {
+            "id": "1096498645187379201",
+            "text": "These results by OpenAI are something else! Language generation that stays coherent across several paragraphs, over multiple domains and beats SOTA across several benchmarks. https://blog.openai.com/better-language-models/\u00a0\u2026pic.twitter.com/wsJ7vtgVRh",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1096461297934389248": {
+            "id": "1096461297934389248",
+            "text": "So... could this be the 1.x roadmap ?https://twitter.com/bramcohen/status/1096458234490019840\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1096408538505756672": {
+            "id": "1096408538505756672",
+            "text": "Let's see how this plays out https://twitter.com/MolochDAO/status/1095962124537552896\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095039775659229184": {
+            "id": "1095039775659229184",
+            "text": "... which caps the upside that participants in the network can have once it goes live? Seems rarely discussed, and to be one of the reasons why BTC and ETH have such a strong community today. Thanks! cc: @NeerajKA",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1095039773268422658": {
+            "id": "1095039773268422658",
+            "text": ".@coincenter are there any reports/blogs/etc. in which you talk about the fact that Securities Law may prevent projects from ever being decentralized because of the fact that not raising $ from the public results in private investors owning a too large % of the supply ...",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093969598100197383": {
+            "id": "1093969598100197383",
+            "text": "Seems like Vitalik wasted no time moving from the Phase 0 to Phase 1 spec of ETH 2.0 now that the former has stabilized. 4 open PRs in the past 2 days!pic.twitter.com/M2cwTzTKq9",
+            "username": "TimBeiko",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093966082799517697": {
+            "id": "1093966082799517697",
+            "text": "Good counterpoints on the recent \"State of Eth 2.0\" report in here! +1 on the people making Ethereum special https://twitter.com/benjaminion_xyz/status/1093964025493372928\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093915443897749506": {
+            "id": "1093915443897749506",
+            "text": "Fun and accessible overview of the game theory of trust in society and how it's evolved over time https://ncase.me/trust\u00a0 h/t @benjaminion_xyz",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092871170406469634": {
+            "id": "1092871170406469634",
+            "text": "Thorough and balanced overview of the state of ETH 2.0. Happy to see this knowledge formalized and shared with the community https://twitter.com/ameensol/status/1092863143854755841\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1092478141203914756": {
+            "id": "1092478141203914756",
+            "text": "KYC 2.0: send us a picture of you holding your passport, with the hash of one of the last 10 BTC or 100 ETH blocks https://twitter.com/tayvano_/status/1092442630921670656\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1088831993947787264": {
+            "id": "1088831993947787264",
+            "text": "Applicable to more than AI https://twitter.com/togelius/status/1088681750858002432\u00a0\u2026",
+            "username": "TimBeiko",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1086334877522374656": {
+            "id": "1086334877522374656",
+            "text": "Interesting experiment: 1M BOMB tokens, distributed in waves, each time you send some, 1% gets burned. https://bombtoken.com\u00a0\n\nFeels live reverse FOMO3d!pic.twitter.com/mdU72EYndg",
+            "username": "TimBeiko",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1084848494320467968": {
+            "id": "1084848494320467968",
+            "text": "Of course, these calls wouldn't be atomic, but that's true of most things on the web today, and you could revert everything if some critical condition isn't true at the end of the sequence (although it's shitty UX).",
+            "username": "TimBeiko",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1084848076098015233": {
+            "id": "1084848076098015233",
+            "text": "Assuming that you have cross-chain messages, and block finality, couldn't you have multi-shard composability in O(num_shards)? If time to finality is a few minutes (i.e. 50x6 sec blocks on ETH2), then couldn't you get finalized composed calls in the equiv. of 2-3 BTC confs?",
+            "username": "TimBeiko",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "econoar": 1,
+        "ethereumJoseph": 1,
+        "notegarden": 1,
+        "EthCatHerders": 2,
+        "bmann": 2,
+        "jemenger": 2,
+        "fredhrson": 1,
+        "marcandu": 1,
+        "floragraham": 1,
+        "Melt_Dem": 2,
+        "ajsutton": 1,
+        "protolambda": 1,
+        "josephdelong": 1,
+        "panekkkk": 1,
+        "lrettig": 5,
+        "spencernoon": 2,
+        "ameensol": 2,
+        "Syncubate": 2,
+        "cemozer_": 1,
+        "hudsonjameson": 1,
+        "MarkBeylin": 1,
+        "richardchen39": 1,
+        "drakefjustin": 1,
+        "BitMEXResearch": 1,
+        "akhilasraju": 1,
+        "Delphi_Digital": 1,
+        "Arjun_Bhuptani": 1,
+        "nic__carter": 1,
+        "virgilgr": 1,
+        "KyleSamani": 1,
+        "cyber_hokie": 1,
+        "VladZamfir": 1
+    },
+    "users_retweeted": [
+        "lrettig",
+        "EthCatHerders",
+        "bmann",
+        "jemenger",
+        "Melt_Dem",
+        "spencernoon",
+        "ameensol",
+        "Syncubate",
+        "econoar",
+        "ethereumJoseph",
+        "notegarden",
+        "fredhrson",
+        "marcandu",
+        "floragraham",
+        "ajsutton",
+        "protolambda",
+        "josephdelong",
+        "panekkkk",
+        "cemozer_",
+        "hudsonjameson",
+        "MarkBeylin",
+        "richardchen39",
+        "drakefjustin",
+        "BitMEXResearch",
+        "akhilasraju",
+        "Delphi_Digital",
+        "Arjun_Bhuptani",
+        "nic__carter",
+        "virgilgr",
+        "KyleSamani",
+        "cyber_hokie",
+        "VladZamfir"
+    ]
+}

@@ -1,0 +1,2890 @@
+{
+    "is_complete": true,
+    "username": "hello_techie",
+    "retweeted": {
+        "1116534692767887360": {
+            "id": "1116534692767887360",
+            "text": "What's it like being a woman in tech? \n\nYou're an MIT grad who worked on creating the first pictures ever taken of a black hole and a bunch of tech bros scour your Github check-ins to prove you wrote less code than the men on the project. \n\nUgh. https://www.reddit.com/r/unpopularopinion/comments/bbykvf/katie_bouman_should_not_be_getting_credit_for_the/\u00a0\u2026",
+            "username": "Carnage4Life",
+            "num_likes": 7951,
+            "num_retweets": 3807,
+            "num_replies": 213
+        },
+        "1113008524131516416": {
+            "id": "1113008524131516416",
+            "text": "The future of manufacturing is open!  @Microsoft and @BMW have launched the Open Manufacturing Platform based on open standards and interoperability.  https://azure.microsoft.com/en-us/blog/the-future-of-manufacturing-is-open/\u00a0\u2026 @MicrosoftIoT @Azure #IoT @MicrosoftIoT @OPCFoundation",
+            "username": "samjgeorge",
+            "num_likes": 38,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "1111024805283840000": {
+            "id": "1111024805283840000",
+            "text": "#IoT updates: you can now edit your #MicrosoftFlow directly in your @Azure #IoTCentral application... and more https://azure.microsoft.com/blog/what-s-new-in-azure-iot-central-march-2019/\u00a0\u2026 @MicrosoftIoT",
+            "username": "obloch",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1109888567147417600": {
+            "id": "1109888567147417600",
+            "text": "Setting up another @Raspberry_Pi for @Azure #IoT #Edge to do some #MachineLearning tests. Thanks to inspiration from @hello_techie \n\n...also should go back into my office with this & not have this & gadgets all over the house  @AzureIoT #GeekGirlpic.twitter.com/1DBQ1iiA3D",
+            "username": "taraw",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1108571737900253184": {
+            "id": "1108571737900253184",
+            "text": "Our #IoT MVPs are awesome!https://twitter.com/RangaVadlamudi/status/1108544367378067456\u00a0\u2026",
+            "username": "obloch",
+            "num_likes": 37,
+            "num_retweets": 12,
+            "num_replies": 5
+        },
+        "1108456432494612485": {
+            "id": "1108456432494612485",
+            "text": "We get to talk to @noopkat again! This time about the #MXChip, an amazing #IoT dev kit. https://msdv.sh/2HxWrPU\u00a0pic.twitter.com/U0BXo9T0Eu",
+            "username": "msdevshow",
+            "num_likes": 37,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1108008164446953474": {
+            "id": "1108008164446953474",
+            "text": "This new whiteboard feature for Microsoft Teams is REALLY clever. It works by letting remote workers see the whiteboard in a meeting room, even if someone steps in front of it. It will even create a digital version of the physical whiteboard too https://www.theverge.com/2019/3/19/18272357/microsoft-teams-video-background-customization-whiteboard-live-events-features\u00a0\u2026pic.twitter.com/ghkm4COncn",
+            "username": "tomwarren",
+            "num_likes": 978,
+            "num_retweets": 352,
+            "num_replies": 21
+        },
+        "1106950626393509894": {
+            "id": "1106950626393509894",
+            "text": "We lost one of our MVP community members in the Christchurch terror attacks this week. All for nothing. I\u2019m thinking of you, my beloved kiwi friends @thenewnumber2 @xarcrius and so many more.https://twitter.com/hadynz/status/1106813477350338561\u00a0\u2026",
+            "username": "donasarkar",
+            "num_likes": 352,
+            "num_retweets": 74,
+            "num_replies": 25
+        },
+        "1107426232272994305": {
+            "id": "1107426232272994305",
+            "text": "If you've ever been confused about the diff between #IaaS, #PaaS and #SaaS, this 2 minute video is the most comprehensive I've seen. Thanks @WirelessLife! #InsiderUp https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/5-types-of-cloud-services\u00a0\u2026pic.twitter.com/3zmCvys7Yl",
+            "username": "donasarkar",
+            "num_likes": 147,
+            "num_retweets": 42,
+            "num_replies": 6
+        },
+        "1106657574227607552": {
+            "id": "1106657574227607552",
+            "text": "Wait... whaaaat? it's already Friday? If like for me your week was just  crazy non stop, here is your digest for what happened around @MicrosoftIoT while you were heads down https://techcommunity.microsoft.com/t5/Azure-IoT/Your-catch-up-list-for-this-week-end/td-p/371468#.XIwOJdzLJuU.twitter\u00a0\u2026 #IoT #ThisWeekInIoT",
+            "username": "obloch",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1098353845040803846": {
+            "id": "1098353845040803846",
+            "text": "\"Why do you need a current limiting resistor with an LED?\" This is why you need a current limiting resistor with an LED. #poof #magicbluesmoke #electronics #Arduinopic.twitter.com/ahoeuuk39U",
+            "username": "ShawnHymel",
+            "num_likes": 214,
+            "num_retweets": 55,
+            "num_replies": 32
+        },
+        "1098262903650570240": {
+            "id": "1098262903650570240",
+            "text": "Tune in in less than 15 min to the new #IoTShow #DeepDive series with @hello_techie live from @ch9 studios. Today's guests are Joseph Biron, @PTC CTO of #IoT and Chafia Aoussi, PM in the @Azure IoT team. They are ready for you! http://aka.ms/iotshow/iotdeepdive/001\u00a0\u2026 @MicrosoftIoT @msdevpic.twitter.com/P1STsNg9tk",
+            "username": "obloch",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1095789574670888960": {
+            "id": "1095789574670888960",
+            "text": "#AzureMaps just got a load of cool new features and updates.  New SDKs for #Android and Web apps, Spatial Operations, Data service, #ActiveDirectory integration and more. Check out some shiny demos of some of these on the #IoTShow https://aka.ms/iotshow/120\u00a0 @MicrosoftIoT @ch9 @msdevpic.twitter.com/MIo9CBXON4",
+            "username": "obloch",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1095049898821599233": {
+            "id": "1095049898821599233",
+            "text": "Did you know you can run @Azure #IoTEdge in an #Ubuntu VM from the Azure Marketplace? Learn how to jumpstart your #IoT Edge projects and scale out your testing on the #IoTShow https://aka.ms/iotshow/119\u00a0 @MicrosoftIoT @ch9 @msdevpic.twitter.com/quZZK8LTDW",
+            "username": "obloch",
+            "num_likes": 13,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1094240769697824770": {
+            "id": "1094240769697824770",
+            "text": "Hey, I know these guys! Can\u2019t wait to see the new show.https://twitter.com/obloch/status/1093939166990069761\u00a0\u2026",
+            "username": "carlschweitzer",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1091079968971476993": {
+            "id": "1091079968971476993",
+            "text": "Tech billionaires who donate biggest % of wealth to charity. After Bill Gates it\u2019s a disaster.\n \n1 Bill Gates 46%\n2 Michael Dell 9%\n3 Carlos Slim 6%\n4 Sergey Brin 5%\n5 Ma Huateng 4%\n6 Larry Page 3%\n7 Mark Zuckerberg 2.4%\n8 Larry Ellison 2.1%\n9 Jeff Bezos 1.9%\n \n-@businessinsider",
+            "username": "ianbremmer",
+            "num_likes": 22274,
+            "num_retweets": 10988,
+            "num_replies": 1569
+        },
+        "1049626212329549824": {
+            "id": "1049626212329549824",
+            "text": "Hottest programming skills in 2018:\n5.  Fixing git merge conflicts\n4. Correctly mapping ports in Docker containers to host machines\n3.  Getting info from AWS documentation\n2. Pulling summary stats from a data stream\n1.  Turning any of the above into a conference talk about AI",
+            "username": "vboykis",
+            "num_likes": 6196,
+            "num_retweets": 2092,
+            "num_replies": 89
+        },
+        "1050035501569167362": {
+            "id": "1050035501569167362",
+            "text": "Microsoft is pledging our massive patent portfolio \u2013 over 60,000 patents \u2013 to Linux and open source by joining OIN this morning. If you're looking for signs that we are serious about being the world's largest open source company, look no further.https://www.zdnet.com/article/microsoft-open-sources-its-entire-patent-portfolio/\u00a0\u2026",
+            "username": "natfriedman",
+            "num_likes": 10222,
+            "num_retweets": 5097,
+            "num_replies": 185
+        },
+        "1045792123877031938": {
+            "id": "1045792123877031938",
+            "text": "\"Look to your left. Look to your right. Now promise me that you will make sure that 100% of you succeed.\"\n\n\n#GHC18 #WeAreHere @AnitaB_org",
+            "username": "tess_distefano",
+            "num_likes": 44,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1045680292898451457": {
+            "id": "1045680292898451457",
+            "text": "Turned off the news. Watching Anita Hill speak before I go on stage at #GHC18. Overwhelmed by how far we have come and how far behind we still are.pic.twitter.com/vh1rq8h3vy",
+            "username": "emilychangtv",
+            "num_likes": 136,
+            "num_retweets": 25,
+            "num_replies": 7
+        },
+        "1044308389059223552": {
+            "id": "1044308389059223552",
+            "text": "At #GHC17, recruiters told me I couldn\u2019t be a software engineer with my background. Tomorrow I fly out for #GHC18 as a full time software engineer at @Microsoft and a part time CS student at @SeattleU. Thank you @LeapMicrosoft for creating a path for me!https://twitter.com/jalorenci/status/917449982759673856\u00a0\u2026",
+            "username": "jalorenci",
+            "num_likes": 301,
+            "num_retweets": 35,
+            "num_replies": 21
+        },
+        "1045711809746006016": {
+            "id": "1045711809746006016",
+            "text": "For those of you who couldn't be at @ghc to feel the energy in this room, it\u2019s important to remember that over the last three days more women technologists gathered together in one place than ever before. We enter the last day of #GHC18 feeling inspired, empowered, and motivated.pic.twitter.com/ds0MVtB06D",
+            "username": "googlestudents",
+            "num_likes": 276,
+            "num_retweets": 65,
+            "num_replies": 5
+        },
+        "1044984520989016064": {
+            "id": "1044984520989016064",
+            "text": "Over 900 @MicrosoftWomen are here to join the #GHC18 celebration with 20,000+ #WomenInTech! Can you feel the energy & excitement!? #MicrosoftLifepic.twitter.com/HOcsMDsNg2",
+            "username": "MicrosoftWomen",
+            "num_likes": 642,
+            "num_retweets": 141,
+            "num_replies": 21
+        },
+        "1032012308564795392": {
+            "id": "1032012308564795392",
+            "text": "Are you passionate about auth and cloud? Want to be a senior dev and work closely with me? Let me know if this opportunity seems up your alley! https://careers.microsoft.com/us/en/job/489107/Senior-Software-Engineer\u00a0\u2026",
+            "username": "tess_distefano",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1045001994048589824": {
+            "id": "1045001994048589824",
+            "text": "Representing at #GHC18 in Houston, TX like the superstar ladies that we are heading to a #PyTorch talk.  @hello_techie #LadiesOfMicrosoftpic.twitter.com/6sAJ3ucTAu",
+            "username": "rheartpython",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1028473553878888451": {
+            "id": "1028473553878888451",
+            "text": "\"While the hacks learnt by kids @defcon #r00tz wouldn\u2019t change vote counts(if carried out for real),they could alter the results displayed officially. Easy to imagine the furor were an official website to declare the wrong candidate the winner\" @DaveLeeBBChttps://www.bbc.com/news/technology-45154903\u00a0\u2026",
+            "username": "r00tzasylum",
+            "num_likes": 17,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1028358159620952064": {
+            "id": "1028358159620952064",
+            "text": "At DEF CON, an 11-year-old girl hacked a replica of the Florida secretary of state's website within 10 minutes and changed the results   https://www.buzzfeednews.com/article/kevincollier/voting-hackers-defcon-failures-manufacturers-ess?bftwnews&utm_term=4ldqpgc#4ldqpgc\u00a0\u2026pic.twitter.com/7QghO9cNG8",
+            "username": "BuzzFeedNews",
+            "num_likes": 2221,
+            "num_retweets": 1512,
+            "num_replies": 46
+        },
+        "1028034354650341376": {
+            "id": "1028034354650341376",
+            "text": "Talking badges and wearable tech with @hello_techie @r00tzasylumpic.twitter.com/7nUXLnLZu3",
+            "username": "BiaSciLab",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1027980136514183168": {
+            "id": "1027980136514183168",
+            "text": "A heartfelt thank you to all #r00tz supporters, volunteers & goons for your ongoing commitment to teaching kids ethical hacking so we can make the world a safer place We couldn't do it without you @awscloud @ATT @myWickr @NeverLanCTF @AllClearID @Hacker0x01 @uber @Atlassianpic.twitter.com/cZ75mX8UUy",
+            "username": "r00tzasylum",
+            "num_likes": 48,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1028035480892321792": {
+            "id": "1028035480892321792",
+            "text": "#MidtermElection #defconhttps://twitter.com/p0wnyb0y/status/1028032535392018432\u00a0\u2026",
+            "username": "r00tzasylum",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "993554208786759681": {
+            "id": "993554208786759681",
+            "text": "I just saw something awesome at #MSBuild #AzureIoTDemo! Here's how you can try it yourself: http://aka.ms/azureiotdemo\u00a0 -- Sent from Build Stage",
+            "username": "AzureIoTDemo",
+            "num_likes": 303,
+            "num_retweets": 131,
+            "num_replies": 17
+        },
+        "993552757607940101": {
+            "id": "993552757607940101",
+            "text": "The industry\u2019s best end-to-end Kubernetes experience is on @Azure. #MSBuild https://azure.microsoft.com/en-us/blog/kubernetes-on-azure/\u00a0\u2026",
+            "username": "gabrtv",
+            "num_likes": 176,
+            "num_retweets": 118,
+            "num_replies": 6
+        },
+        "993520678295912449": {
+            "id": "993520678295912449",
+            "text": "I will say that Microsoft has been far ahead of other major cloud vendors for IoT. Now with the open sourcing of Azure IoT Edge it provides  confidence for folks wanting to use Azure IoT Edge. Smart. #MSBuild",
+            "username": "gigastacey",
+            "num_likes": 68,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "993529715322335233": {
+            "id": "993529715322335233",
+            "text": "Microsoft and Amazon on stage talking Alexa and Cortana interoperability. Is hell freezing over? #MSBuildpic.twitter.com/18ejqHjJEh",
+            "username": "onovotny",
+            "num_likes": 35,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "993521130416713728": {
+            "id": "993521130416713728",
+            "text": "Azure Sphere will secure devices on the intelligent edge. #MSBuildpic.twitter.com/HlVmzVT9Qt",
+            "username": "Microsoft",
+            "num_likes": 389,
+            "num_retweets": 211,
+            "num_replies": 2
+        },
+        "954163924718444544": {
+            "id": "954163924718444544",
+            "text": "Are you attending a #WomensMarch in your area? Wear a red scarf to show solidarity with #MMIW #MMIWG. #NoMoreStolenSisterspic.twitter.com/uU3UxqQRK7",
+            "username": "lakotalaw",
+            "num_likes": 682,
+            "num_retweets": 577,
+            "num_replies": 14
+        },
+        "954818943612461056": {
+            "id": "954818943612461056",
+            "text": "SEATTLE WOMEN MARCH: Thousands marched through Seattle for the Women's March 2.0 - 2018. \n\nReal-time updates and livestream from the ground and Chopper 7 at http://kiro.tv/2mX7O7R\u00a0.pic.twitter.com/weie3VlB3j",
+            "username": "KIRO7Seattle",
+            "num_likes": 157,
+            "num_retweets": 82,
+            "num_replies": 6
+        },
+        "951667932613943296": {
+            "id": "951667932613943296",
+            "text": "Shenzhen's women are all over @make: @RealSexyCyborg, Vicky Xie @szoil001, Shirley Feng @SZIDF, Lin Jie (aka 00), Lit Liao @Litchee_Lab, Carrie Leung http://www.szsais.org/\u00a0. Our very own #TinyButStrong @violetsu219 wrote a piece to recap @MakeFaireSZ 17 https://makezine.com/2017/12/05/maker-faire-shenzhan-maker-pro-focus/\u00a0\u2026pic.twitter.com/0oISJ45SeN",
+            "username": "chaihuomaker",
+            "num_likes": 74,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "952914779458424832": {
+            "id": "952914779458424832",
+            "text": "Dr. King was 26 when the Montgomery bus boycott began. He started small, rallying others who believed their efforts mattered, pressing on through challenges and doubts to change our world for the better. A permanent inspiration for the rest of us to keep pushing towards justice.",
+            "username": "BarackObama",
+            "num_likes": 1420641,
+            "num_retweets": 358230,
+            "num_replies": 28058
+        },
+        "887642769157636096": {
+            "id": "887642769157636096",
+            "text": "Announcing @particle's $20 million Series B, led by @sparkcapital. Welcome to the team @andrewparker!https://medium.com/@zsupalla/on-particle-iot-and-solving-hard-problems-cf3a210a36b1\u00a0\u2026",
+            "username": "zs",
+            "num_likes": 123,
+            "num_retweets": 39,
+            "num_replies": 9
+        },
+        "872458207251189761": {
+            "id": "872458207251189761",
+            "text": "Great post from @williamberryiii on using Webtask CRON to create a simple IoT simulator: http://www.lucidmotions.net/2017/06/getting-started-with-webtaskio-and-iot.html\u00a0\u2026",
+            "username": "gblock",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "871820912307298304": {
+            "id": "871820912307298304",
+            "text": " @gblock\u2019s daughter giving a lightning talk on @jewelbots at @dotnetfringe!! My heart can\u2019t handle it (((<3)))pic.twitter.com/hDEYdGu3rG",
+            "username": "TashasEv",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "871579755006406656": {
+            "id": "871579755006406656",
+            "text": "The universal architecture diagram c/o @tednewardpic.twitter.com/Dp7c0o1aJF",
+            "username": "gblock",
+            "num_likes": 16,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "871450800563699712": {
+            "id": "871450800563699712",
+            "text": "I'll give y'all a head-starthttps://github.com/electron/electron-compilers/blob/master/src/js/typescript.js\u00a0\u2026",
+            "username": "anaisbetts",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "870777215310381058": {
+            "id": "870777215310381058",
+            "text": "Working at the Intersection of #OSS and #IoT? \n@hello_techie & I want to talk to you @dotnetfringe!",
+            "username": "williamberryiii",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "866458215352999936": {
+            "id": "866458215352999936",
+            "text": ".@Microsoft had a great #MakerFaire booth theme of Making & Coding #MFBA17 #MakeInventDo #makerfaire2017pic.twitter.com/FDKOpbpOqr",
+            "username": "wkmyrhang",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "862717904776814592": {
+            "id": "862717904776814592",
+            "text": "Microsoft's Project Emma is a wearable that helps with Parkinson's tremors https://www.theverge.com/2017/5/11/15624314/microsoft-project-emma-wearable-health-parkinsons-tremor-writing-vibrations?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter\u00a0\u2026pic.twitter.com/PeiENB67z6",
+            "username": "verge",
+            "num_likes": 79,
+            "num_retweets": 45,
+            "num_replies": 3
+        },
+        "845337793484144640": {
+            "id": "845337793484144640",
+            "text": "Service Fabric takes first steps towards open sourcing https://blogs.msdn.microsoft.com/azureservicefabric/2017/03/24/service-fabric-net-sdk-goes-open-source/\u00a0\u2026 available here https://github.com/Azure/service-fabric\u00a0\u2026 #servicefabric",
+            "username": "mfussell",
+            "num_likes": 43,
+            "num_retweets": 59,
+            "num_replies": 1
+        },
+        "835652528909869056": {
+            "id": "835652528909869056",
+            "text": "Balancing robot by @MekaMonDevpic.twitter.com/yi2eEqlbIG",
+            "username": "MachinePix",
+            "num_likes": 1615,
+            "num_retweets": 832,
+            "num_replies": 31
+        },
+        "834553358967042048": {
+            "id": "834553358967042048",
+            "text": "Join @hello_techie & @irjudson at 4:20 PM as they discuss prototyping new ideas with #ESP32 & Azure at #OpenIoT:http://msft.social/cigL3F\u00a0",
+            "username": "MicrosoftIoT",
+            "num_likes": 15,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "798919779914379264": {
+            "id": "798919779914379264",
+            "text": "Never thought I'd see the day, but way to go @Microsoft http://venturebeat.com/2016/11/16/microsoft-joins-the-linux-foundation-as-a-platinum-member/\u00a0\u2026 @hello_techie #win #TechNews",
+            "username": "ShawnHymel",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "789573313567784960": {
+            "id": "789573313567784960",
+            "text": "The 50 Most Influential Women in IoT http://bit.ly/2ecx0qb\u00a0 Check some of them @RyaneBohm @SMC_on_IoT @hello_techie #IoT #women #influencerpic.twitter.com/84fKgkUHbV",
+            "username": "middlefly1002",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "786472268494938112": {
+            "id": "786472268494938112",
+            "text": "some guy from Microsoft, using a MacBook, talking about linux IoT, in a Linux Conference. omg...https://twitter.com/ritazzhang/status/785961824864706560\u00a0\u2026",
+            "username": "mustafakutsal",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "786522094460768257": {
+            "id": "786522094460768257",
+            "text": " Slides for our talk on OSS development for the #ESP8266 & #Azure http://slides.com/irjudson/openiot-summit-2016-berlin\u00a0\u2026 @irjudson @hello_techie @EventsLF",
+            "username": "ritazzhang",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "785961824864706560": {
+            "id": "785961824864706560",
+            "text": "Guten Tag! Checkout our session on #ESP8266 & #Azure http://sched.co/8Q2e\u00a0 at Embedded Linux conf @irjudson @hello_techie @EventsLF #lfelc",
+            "username": "ritazzhang",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "762050530659053569": {
+            "id": "762050530659053569",
+            "text": "One of many #r00tz hit stations: soldering and coding badges #defcon Kids are having a blast!!!pic.twitter.com/dcH2UPBK12",
+            "username": "r00tzasylum",
+            "num_likes": 56,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "762328490234425344": {
+            "id": "762328490234425344",
+            "text": "Don't baby these kid hackers     - CNET: Defcon event puts children's hacking skills front an... http://cnet.co/2b4oVBN\u00a0 #microsoft #tfb",
+            "username": "tsairox",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "761269217848995841": {
+            "id": "761269217848995841",
+            "text": "Damn it!! Another record badge. #defconpic.twitter.com/uy13x5skgW",
+            "username": "defconparties",
+            "num_likes": 47,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "760521985319317508": {
+            "id": "760521985319317508",
+            "text": "Kazakh dissidents & lawyers hit with cyber attacks; EFF's @cooperq and @evacide to present research at #BlackHat2016\nhttp://mobile.reuters.com/article/idUSL1N1AI1RW\u00a0\u2026",
+            "username": "EFF",
+            "num_likes": 27,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "744643842750685184": {
+            "id": "744643842750685184",
+            "text": "Found @pjdecarlo Paul (sans mustache), @hello_techie Pamela and some Microsoft folks at the DC Maker Faire! )pic.twitter.com/TvHhNi2NAj",
+            "username": "shahedC",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "743936002574671872": {
+            "id": "743936002574671872",
+            "text": ".@hello_techie @Microsoft & @adafruit #WHChamps #NationOfMakers @WhiteHouse #WeekOfMaking @WhiteHouseOSTPpic.twitter.com/XqRNZiHbQO",
+            "username": "adafruit",
+            "num_likes": 28,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "743858458815041537": {
+            "id": "743858458815041537",
+            "text": "Limor @adafruit #WHChamps @WhiteHouse #NationOfMakers shares first making project - as a 7yr oldpic.twitter.com/mHk1Yoe2rd",
+            "username": "kippworks",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "743851132829732864": {
+            "id": "743851132829732864",
+            "text": "#WHChamps #NationOfMakers @WhiteHouse @adafruit gettng started!pic.twitter.com/LyKgZApfh3",
+            "username": "adafruit",
+            "num_likes": 54,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "743860757037711360": {
+            "id": "743860757037711360",
+            "text": "RT @IoTDan: 50% of this #whchamps panel are women. 100% are awesome. @make #nationofmakerspic.twitter.com/hFRG0j5oYs",
+            "username": "makerfaire",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "743151882307178496": {
+            "id": "743151882307178496",
+            "text": ".@donttrythis plugs our #WHChamps event this Friday with @USCTO to kick off the National #WeekOfMaking.http://www.tested.com/art/makers/573861-adam-savage-celebrates-national-week-making/\u00a0\u2026",
+            "username": "PAniskoff44",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "732967478578532352": {
+            "id": "732967478578532352",
+            "text": "MAKER-kids @makerfaire this weekend? Record why YOU should win an kick-start making your own tech collection! #MAKEpic.twitter.com/r0Kag92ryj",
+            "username": "AnoukWipprecht",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "733017925586653191": {
+            "id": "733017925586653191",
+            "text": "RT if you\u2019ll be joining us for @mbanzi's annual State of Arduino address on Saturday at 12:30pm! #MFBA16pic.twitter.com/fqf0gHaZAu",
+            "username": "arduino",
+            "num_likes": 46,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "733471090232590336": {
+            "id": "733471090232590336",
+            "text": "Want to try out the #microbit at #MFBA16? Swing by the #Microsoft booth! #makerfairepic.twitter.com/BR1bN3xxYU",
+            "username": "pelikhan",
+            "num_likes": 3,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "728513144679706624": {
+            "id": "728513144679706624",
+            "text": "Micro-controllers and micro-processors 4 Internet of Things w @hello_techie #decodedconf #Techwoman #diversitypic.twitter.com/hQfNhw7KEM",
+            "username": "dromescu",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "715584997218979840": {
+            "id": "715584997218979840",
+            "text": "NEW PRODUCTS \u2013 Microsoft Azure IoT Starter Kits \u2013 with Adafruit Feather M0 WiFi / with Adafruit Feather HUZZAHhttp://adafru.it/mvA\u00a0",
+            "username": "adafruit",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "715567343502553088": {
+            "id": "715567343502553088",
+            "text": "You get a Xamarin, you get a Xamarin, EVERYONE GETS A XAMARIN!! #Build2016pic.twitter.com/Q5g8T8XXmU",
+            "username": "clemensv",
+            "num_likes": 334,
+            "num_retweets": 452,
+            "num_replies": 5
+        },
+        "715278879015866368": {
+            "id": "715278879015866368",
+            "text": "New #Microsoftie #womenintech networking @hello_techie #Build2016 rocking some #IoTpic.twitter.com/eoJ7ZzfGa2",
+            "username": "heddanewman",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "715210723610243072": {
+            "id": "715210723610243072",
+            "text": "And there it is, folks, Bash on Windows 10 http://www.engadget.com/2016/03/30/build-2016-liveblog/#!post=86300\u00a0\u2026 #Build2016 @Microsoftpic.twitter.com/ul0wuPDRYA",
+            "username": "engadget",
+            "num_likes": 150,
+            "num_retweets": 212,
+            "num_replies": 9
+        },
+        "714914345688260608": {
+            "id": "714914345688260608",
+            "text": "If only Cortana could help us set up all these chairs.\n\n#Build2016 starts tomorrow: http://msft.it/6019B9IoW\u00a0pic.twitter.com/pTbSfGBzdo",
+            "username": "Microsoft",
+            "num_likes": 460,
+            "num_retweets": 208,
+            "num_replies": 29
+        },
+        "706870923752640512": {
+            "id": "706870923752640512",
+            "text": "Shortly after these stock photos were taken, all three models were taken to the ER with third degree hand burns.pic.twitter.com/X5koBsGkPP",
+            "username": "rgriff",
+            "num_likes": 2356,
+            "num_retweets": 2396,
+            "num_replies": 103
+        },
+        "703762657044606976": {
+            "id": "703762657044606976",
+            "text": "Thanks to everyone who participated and contributed to today\u2019s event! @WomenWhoCodeBD @SpotX @hello_techie @sparkfunpic.twitter.com/HwriiPAKAq",
+            "username": "unicornzero",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "686560939513110528": {
+            "id": "686560939513110528",
+            "text": "Life on Mars? We hope to find it. 'Til then, thank you, David Bowie, for your creativity and inspiration. pic.twitter.com/RdluTGsC0v",
+            "username": "MIT",
+            "num_likes": 240,
+            "num_retweets": 173,
+            "num_replies": 1
+        },
+        "671437234676105217": {
+            "id": "671437234676105217",
+            "text": "We compare two capable, sub-$10 computers for Makers - the C.H.I.P vs. Pi Zero http://ow.ly/Vi5hZ\u00a0pic.twitter.com/RzeFtfkSbZ",
+            "username": "make",
+            "num_likes": 30,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "665367914661330944": {
+            "id": "665367914661330944",
+            "text": "Vive la Francepic.twitter.com/r45riuiGU5",
+            "username": "stephenfry",
+            "num_likes": 13821,
+            "num_retweets": 8550,
+            "num_replies": 162
+        },
+        "653697544531394560": {
+            "id": "653697544531394560",
+            "text": "No.1 Major for Women at @Stanford? It's Now Computer Sciencehttp://www.nbcnews.com/tech/tech-news/no-1-major-women-stanford-its-now-computer-science-n441966\u00a0\u2026",
+            "username": "WomenWhoCode",
+            "num_likes": 59,
+            "num_retweets": 42,
+            "num_replies": 0
+        },
+        "653629307718270976": {
+            "id": "653629307718270976",
+            "text": "Looking for awesome speaker(s) for the November WWC Boulder meetup! Tweet/message @hello_techie if you are interested!",
+            "username": "wwcodecolorado",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "652889095056683008": {
+            "id": "652889095056683008",
+            "text": "It's lighting up! Kids making LED pop-up cards at #GDGDevFestpic.twitter.com/AD0rNP3xHt",
+            "username": "chiuki",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "652893999989043200": {
+            "id": "652893999989043200",
+            "text": "Makey Makey + Banana + Game = Fun! #GDGDevFestpic.twitter.com/CY4xNFk8XD \u2013 at Google",
+            "username": "chiuki",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "652892457022046208": {
+            "id": "652892457022046208",
+            "text": "Teaching circuitry with a giant board. @hello_techie at #GDGDevFestpic.twitter.com/SWpjyRQRQZ",
+            "username": "chiuki",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "651598913514811392": {
+            "id": "651598913514811392",
+            "text": "On @element14, I looked at the @sparkfun Thing vs. the @particle Photon:\nhttp://www.element14.com/community/blogs/linker/2015/10/07/wifi-platform-comparison-things-vs-photon\u00a0\u2026pic.twitter.com/2h8GdYmTQi",
+            "username": "logicalelegance",
+            "num_likes": 4,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "646896997673254912": {
+            "id": "646896997673254912",
+            "text": "Let's dance! Glad you came to our #QLHackfesthttps://twitter.com/Java1Guy/status/646893740137709568\u00a0\u2026",
+            "username": "quickleft",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "646053560115851264": {
+            "id": "646053560115851264",
+            "text": "Want to be a SparkFun engineer? All your dream is coming true! https://www.sparkfun.com/jobs/83\u00a0",
+            "username": "sparkfun",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 4
+        },
+        "644569695408930816": {
+            "id": "644569695408930816",
+            "text": "#DEFCON isn't normally where u bring kids, but wait, there's #r00tz! via @sparkfun https://www.sparkfun.com/news/1927\u00a0 #hackerfunpic.twitter.com/IVrhURA1mD",
+            "username": "r00tzasylum",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "644558368158277633": {
+            "id": "644558368158277633",
+            "text": "For this week's installment of Enginursday, Pam shares her sage advice & experiences at DEF CON & r00tz Asylum:https://www.sparkfun.com/news/1927\u00a0",
+            "username": "sparkfun",
+            "num_likes": 3,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "644193755814342656": {
+            "id": "644193755814342656",
+            "text": "Cool clock, Ahmed. Want to bring it to the White House? We should inspire more kids like you to like science. It's what makes America great.",
+            "username": "POTUS44",
+            "num_likes": 411500,
+            "num_retweets": 372895,
+            "num_replies": 15072
+        },
+        "641295501896249344": {
+            "id": "641295501896249344",
+            "text": "Had a great time at #PebbleRocksBoulder with @hello_techie, @ajaswa, and Beth. Thanks @Pebble @viget @galvanize!pic.twitter.com/EUupToPhpR",
+            "username": "ShawnHymel",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "639592131779125248": {
+            "id": "639592131779125248",
+            "text": "Time for @WomenWhoCodeBD tonight at the QL #Boulder office! #REST #APIpic.twitter.com/569i4lVal9",
+            "username": "quickleft",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "639598457842372608": {
+            "id": "639598457842372608",
+            "text": "Great talk tonight @womenwhocode by @elemdoubleu !",
+            "username": "whitneyrogers",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "639596931795148800": {
+            "id": "639596931795148800",
+            "text": "Great turnout @WomenWhoCode \"WTF is REST\" talk! @hello_techie @TwitterBoulderpic.twitter.com/r9dGeUVGIo",
+            "username": "ShawnHymel",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "639458916439429120": {
+            "id": "639458916439429120",
+            "text": "1 day left to vote! Help us get into #SXSW to give a talk! https://shar.es/1vJp89\u00a0 #SXSW2016 @coloradojess @hello_techie",
+            "username": "ShawnHymel",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "634405799431925760": {
+            "id": "634405799431925760",
+            "text": "Robots assist, not replace experts #ACMLearning @acmeducation",
+            "username": "IAmMurendeni",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "634359958071570432": {
+            "id": "634359958071570432",
+            "text": "Noon ET: Dr. Robin Murphy, who inserted robots at 9/11, Katrina, Fukushima, talks #Disaster #Robotics. http://event.on24.com/wcc/r/1031012/013A7FF6DA2D67E67BCECBA1732E93FE\u00a0\u2026 #ACMLearning",
+            "username": "acmeducation",
+            "num_likes": 3,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "633689117239283712": {
+            "id": "633689117239283712",
+            "text": "We wrote a book! Well, Derek wrote a book. Read all about our upcoming release \"The SparkFun Guide to Processing\"http://www.prweb.com/releases/2015/08/prweb12909084.htm\u00a0\u2026",
+            "username": "SparkFunEDU",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "631465521557450752": {
+            "id": "631465521557450752",
+            "text": "Shields and kits by @sparkfun now listed in the @particle store https://store.particle.io\u00a0",
+            "username": "particle",
+            "num_likes": 6,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "631749275853193216": {
+            "id": "631749275853193216",
+            "text": "Want to hack Twitter with #scratch? Find extensions on http://scratchx.org/\u00a0 Thx @scratch ! #scratch2015ams",
+            "username": "EtClaude",
+            "num_likes": 8,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "630830413498314752": {
+            "id": "630830413498314752",
+            "text": "Please vote for the two panels I'm on at SXSW! Tech convergence: http://panelpicker.sxsw.com/vote/53938\u00a0 and Maker Marketing: http://panelpicker.sxsw.com/vote/53877\u00a0",
+            "username": "coloradojess",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "631480889566994432": {
+            "id": "631480889566994432",
+            "text": "Happy to celebrate another Boulderite in this week's #Women2Follow: @hello_techie develops for @SparkFun & organizes for @WomenWhoCodeBD!",
+            "username": "dfuzrindustries",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "629318299751284736": {
+            "id": "629318299751284736",
+            "text": "Got our homemade @_defcon_ record player working #BadgeChallenge #DEFCONpic.twitter.com/BSsGK54vze",
+            "username": "YourBuddyConner",
+            "num_likes": 97,
+            "num_retweets": 89,
+            "num_replies": 11
+        },
+        "629358802207313920": {
+            "id": "629358802207313920",
+            "text": "Hackaday is at DEFCON! http://hackaday.com/2015/08/03/the-right-way-to-do-a-hacker-conference/\u00a0\u2026pic.twitter.com/pg9VjPWw40",
+            "username": "hackaday",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "628367326572843009": {
+            "id": "628367326572843009",
+            "text": "My mom, Perl hacker, 20+ years sys analyst. Nuclear physicist. Started coding on punch cards! #iLookLikeAnEngineerpic.twitter.com/0VhMB56ps6",
+            "username": "marcosc",
+            "num_likes": 3276,
+            "num_retweets": 1912,
+            "num_replies": 92
+        },
+        "628694009767182337": {
+            "id": "628694009767182337",
+            "text": "#ILookLikeAnEngineer Destroys The Tech Nerd Stereotype http://www.huffingtonpost.com/entry/i-look-like-an-engineer_55c0be70e4b06363d5a35cfd?waru23xr\u00a0\u2026 by @lorenzowrites",
+            "username": "WomenWhoCode",
+            "num_likes": 126,
+            "num_retweets": 109,
+            "num_replies": 1
+        },
+        "618640576234319872": {
+            "id": "618640576234319872",
+            "text": "\"The Computer Girls,\" a 1967 Cosmopolitan piece about a weird new field, programming, that was dominated by women.pic.twitter.com/juZMBOqAdK",
+            "username": "pomeranian99",
+            "num_likes": 3735,
+            "num_retweets": 5000,
+            "num_replies": 114
+        },
+        "623386943955439616": {
+            "id": "623386943955439616",
+            "text": "Congratulations to @hello_techie on the new wheels! Let the hacking begin!pic.twitter.com/Y3R5w4iZbu",
+            "username": "flyingcircuits",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "619525477594574848": {
+            "id": "619525477594574848",
+            "text": "It's Friday & you know what that means: gesture sensors, robotic arms & an Edison sale, oh my. Happy birthday Tesla!https://www.sparkfun.com/news/1875\u00a0",
+            "username": "sparkfun",
+            "num_likes": 7,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "615624094369775616": {
+            "id": "615624094369775616",
+            "text": "We made a thing!  @hello_techie @wawisonhttp://makezine.com/projects/open-source-full-sized-bb-8-robot/\u00a0\u2026",
+            "username": "CaseyTheRobot",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "614435467120001024": {
+            "id": "614435467120001024",
+            "text": "Today is a big step in our march toward equality. Gay and lesbian couples now have the right to marry, just like anyone else. #LoveWins",
+            "username": "POTUS44",
+            "num_likes": 392665,
+            "num_retweets": 389373,
+            "num_replies": 9185
+        },
+        "610267580067131392": {
+            "id": "610267580067131392",
+            "text": "All of Twitter just collectively had a Star Wars moment. #GameofThronesFinalepic.twitter.com/nudVJzfG31",
+            "username": "Kali_Skywalker",
+            "num_likes": 213,
+            "num_retweets": 180,
+            "num_replies": 0
+        },
+        "609189102102163456": {
+            "id": "609189102102163456",
+            "text": "How do my male colleagues publish anything when I show up dressed so revealing? #distractinglysexypic.twitter.com/D3GYQQciyc",
+            "username": "scientistvan",
+            "num_likes": 1701,
+            "num_retweets": 1032,
+            "num_replies": 37
+        },
+        "593050826660151296": {
+            "id": "593050826660151296",
+            "text": "Thurs! @WomenWhoCodeBD Interview Panel w/ @whitneyrogers @Frencil @abigator @AdventureSteady http://www.meetup.com/Women-Who-Code-Boulder-Denver/events/221560121/\u00a0\u2026 @hello_techie @edatrix",
+            "username": "wwcodecolorado",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "586793498608869376": {
+            "id": "586793498608869376",
+            "text": "Armed rangers in Sudan guard the last male northern white rhino on earth. His species survived for 50 million years.pic.twitter.com/mIfpOA75fI",
+            "username": "JulianDutton1",
+            "num_likes": 12132,
+            "num_retweets": 18274,
+            "num_replies": 614
+        },
+        "584089465922064384": {
+            "id": "584089465922064384",
+            "text": "Insanity, just insanity. #robogames @sparkfun @SFE_Engineeringpic.twitter.com/qUKX68gX2o",
+            "username": "CaseyTheRobot",
+            "num_likes": 17,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "581542863936233472": {
+            "id": "581542863936233472",
+            "text": "Large Scale DDoS Attack on http://github.com\u00a0https://github.com/blog/1981-large-scale-ddos-attack-on-github-com\u00a0\u2026",
+            "username": "github",
+            "num_likes": 233,
+            "num_retweets": 847,
+            "num_replies": 52
+        },
+        "581142845349879808": {
+            "id": "581142845349879808",
+            "text": "What better way to celebrate #ArduinoD15 than by hacking some Hexbugs with Bob Martin? http://bit.ly/1OAXVnz\u00a0pic.twitter.com/iTi1OTqU6C",
+            "username": "MicrochipMakes",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "579776559378235392": {
+            "id": "579776559378235392",
+            "text": "@donasarkar and @hello_techie you are an inspiration! Going to buy a sewing machine and a @sparkfun sewing kit! Watch out tech shirt drawer!",
+            "username": "kgtole",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "579675242777415680": {
+            "id": "579675242777415680",
+            "text": "SAME (Sexual Assault eMpathy Experience) https://m.youtube.com/watch?v=2fUOGg7UeA4&feature=youtube_gdata_player\u00a0\u2026 @PearlHacks w/ @google angular.js @github shirts & @sparkfun #wearable",
+            "username": "eredmil1",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "579703498805243904": {
+            "id": "579703498805243904",
+            "text": ".@Raxsha on TV #PearlHackspic.twitter.com/e0TN6wgw4q",
+            "username": "jessiedotjs",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "579693048008994817": {
+            "id": "579693048008994817",
+            "text": ".@Raxsha and her team are famous #PearlHackspic.twitter.com/j4YomZgkih",
+            "username": "jessiedotjs",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "579656351829397504": {
+            "id": "579656351829397504",
+            "text": "SAME -Sexual Assault eMpathy Experience made w/ @sparkfun @twitter bootstrap http://ow.ly/i/a2Mza\u00a0 DEMO TODAY #PearlHacks2015 @hello_techie",
+            "username": "eredmil1",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "579449369780297728": {
+            "id": "579449369780297728",
+            "text": "Look at this repo name. Isn't it swell? Wouldn't you think you could host it on a github.io url? #PearlHackspic.twitter.com/y7tjydz7OV",
+            "username": "jessiedotjs",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "579286320142401536": {
+            "id": "579286320142401536",
+            "text": "Great to have so many amazing sponsors at #PearlHacks! @hello_techie @sparkfun @google @IBM @Pebblepic.twitter.com/4OdLdJM9tu",
+            "username": "donasarkar",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "579277567183568897": {
+            "id": "579277567183568897",
+            "text": "The show's about to start!#PearlHackspic.twitter.com/lXO0INM1Uw",
+            "username": "donasarkar",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "578716327616999424": {
+            "id": "578716327616999424",
+            "text": "The @WomenWhoCodeBD wearables hack night is starting! :D thanks @sparkfunpic.twitter.com/ut62RcLJjS",
+            "username": "KellyShuster",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "578723751434403840": {
+            "id": "578723751434403840",
+            "text": "Getting crafty with e-textiles during #WomenWhoCode hack night @sparkfun #wearablespic.twitter.com/4Eh6ffzyX4",
+            "username": "SparkFunEDU",
+            "num_likes": 22,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "574615896016183296": {
+            "id": "574615896016183296",
+            "text": "Happy International #WomensDay to our #WWCode family! Check out our page on @womensday http://www.internationalwomensday.com/womenwhocode#.VPjQOymR-fQ\u00a0\u2026 #MakeItHappen",
+            "username": "WomenWhoCode",
+            "num_likes": 26,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "574408766008913921": {
+            "id": "574408766008913921",
+            "text": "@womenwhostartup @google @MAKERSwomen @Inteliot @IntelEDU Pamela Cortez from SparkFun tells about great open src for wearables #wtmboulder",
+            "username": "pittrpatt",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "574392434345558016": {
+            "id": "574392434345558016",
+            "text": "At Google Boulder, for Women Techmakers. #wtmboulderpic.twitter.com/3cvyn2AAXA",
+            "username": "heylizelle",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "574408770203205632": {
+            "id": "574408770203205632",
+            "text": "#wtmboulder @hello_techie talking about wearable tech and open source being awesome! #WomenTechmakers //@sparkfunpic.twitter.com/PY77e3Trrg",
+            "username": "womenwhostartup",
+            "num_likes": 7,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "573978799538229248": {
+            "id": "573978799538229248",
+            "text": "Party tomorrow night @google #Boulder! Hear  talks from @zittrium @KellyShuster @techiejackie @beckyhuett @ryleekeys @4grim @hello_techie",
+            "username": "wwcodecolorado",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "572805818833244160": {
+            "id": "572805818833244160",
+            "text": "Tomorrow hear from: @chiuki @hello_techie @AdrianDeBarros @5280mark @WebMapAcademy @sparkfun @iTriage @GoCodeColoradohttp://www.meetup.com/Women-Who-Code-Boulder-Denver/events/217828092/\u00a0\u2026",
+            "username": "wwcodecolorado",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "571013821428400128": {
+            "id": "571013821428400128",
+            "text": "@hello_techie has planned AND judged #hackathons, big & small! Get her inside scoop next week at @SendGrid #Denverhttp://www.meetup.com/Women-Who-Code-Boulder-Denver/events/217828092/\u00a0\u2026",
+            "username": "wwcodecolorado",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "567446405682180098": {
+            "id": "567446405682180098",
+            "text": "Checkout this rockstar panel for our #hackathon event! @chiuki @hello_techie @AdrianDeBarros @5280mark @WebMapAcademyhttp://www.meetup.com/Women-Who-Code-Boulder-Denver/events/217828092/\u00a0\u2026",
+            "username": "wwcodecolorado",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "566329739044851712": {
+            "id": "566329739044851712",
+            "text": "SO EXCITED to announce a #wearables hack night at @sparkfun! Make a light up purse or the LED dress of your dreams!http://www.meetup.com/Women-Who-Code-Boulder-Denver/events/220505575/\u00a0\u2026",
+            "username": "wwcodecolorado",
+            "num_likes": 1,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "564575198137958400": {
+            "id": "564575198137958400",
+            "text": "Yummy food + techie convo with @techiejackie and @hello_techie at Dushanbe Tea House.pic.twitter.com/z9cC0qa098",
+            "username": "chiuki",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "562068563121299456": {
+            "id": "562068563121299456",
+            "text": "Can you solder like a girl? #LikeAGirlpic.twitter.com/Tg9cSS2a9T",
+            "username": "DIYGirls",
+            "num_likes": 61,
+            "num_retweets": 55,
+            "num_replies": 14
+        },
+        "554673665111883776": {
+            "id": "554673665111883776",
+            "text": "How can you support women in engineering and tech? We\u2019ve got a few ideas\u2026 https://www.sparkfun.com/news/1691\u00a0",
+            "username": "sparkfun",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "552643720948875264": {
+            "id": "552643720948875264",
+            "text": "Intel commits $300M over the next 5 years to a Diversity in Technology Initiative. #CES2015 http://intel.ly/1HIY0kG\u00a0pic.twitter.com/pEZtIfI3E2",
+            "username": "intel",
+            "num_likes": 451,
+            "num_retweets": 566,
+            "num_replies": 125
+        },
+        "552637192716435456": {
+            "id": "552637192716435456",
+            "text": "The Quark-powered, button-sized platform named \"Curie\" announced by @intel. #CES2015 @sparkfunpic.twitter.com/u7H2Z6sYcg",
+            "username": "ShawnHymel",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "540606458182635520": {
+            "id": "540606458182635520",
+            "text": "RT to help support #IntelAndroid donate to @GirlsWhoCode. Every RT equals $1. Help us reach our goal today!",
+            "username": "IntelSoftware",
+            "num_likes": 204,
+            "num_retweets": 168,
+            "num_replies": 3
+        },
+        "537661242023104513": {
+            "id": "537661242023104513",
+            "text": "On a Turkey day vacation, so watch out on SparkFun tutorial section soon for tutorials on installing ubilinux on Edison & Edison + Twitter.",
+            "username": "gobbletime",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "536967498239725568": {
+            "id": "536967498239725568",
+            "text": "Open-source Barbie has some thoughts about the Barbie book in the news.pic.twitter.com/v9EsPQs3NL",
+            "username": "sparkfun",
+            "num_likes": 65,
+            "num_retweets": 85,
+            "num_replies": 6
+        },
+        "535202048619585536": {
+            "id": "535202048619585536",
+            "text": "RT @flyingcircuits: High drama at the @sparkfun Actobotics challenge! #TeamPamelapic.twitter.com/IYKeRcrSIv",
+            "username": "sparkfun",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "509715787226312704": {
+            "id": "509715787226312704",
+            "text": "Happy Internet Slowdown Day! @sparkfun has joined the protest. https://www.sparkfun.com/news/1590\u00a0 #battleforthenet",
+            "username": "Frencil",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "497905130495160320": {
+            "id": "497905130495160320",
+            "text": "\"I don't know much about technology anymore.\" -- John McAfee. #defcon",
+            "username": "dannyyadron",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "483772874709536768": {
+            "id": "483772874709536768",
+            "text": "My favorite exhibitors were the awesome hacker grrls @sparkfun - I am totally bringing in kits for Ada's 1st graders this fall.  #alaac14",
+            "username": "lquilter",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "483336189810728960": {
+            "id": "483336189810728960",
+            "text": "@sparkfun at #alaac14 invited me to \"Make a circuit with me\"! http://youtu.be/Xo-4w9A6sVE\u00a0pic.twitter.com/8oGSkJpSiu",
+            "username": "colemanpj",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "481134676921565184": {
+            "id": "481134676921565184",
+            "text": "\"It's not enough to be \"just\" a hardware company or \"only\" a software maker these days\" #hardware + #software= futurehttp://buff.ly/V2vo33\u00a0",
+            "username": "hackaday",
+            "num_likes": 6,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "479274480053678080": {
+            "id": "479274480053678080",
+            "text": "We are participating in the first-ever White House Maker Faire today! Learn more and check out a live stream here: http://www.whitehouse.gov/maker-faire\u00a0",
+            "username": "sparkfun",
+            "num_likes": 3,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "321835879721205761": {
+            "id": "321835879721205761",
+            "text": "Control the AR.Drone with one or two Spheros https://github.com/Thanavath/ARDrone-x-Sphero\u00a0\u2026 @gosphero @ardrone",
+            "username": "thanavath",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "471002164630802432": {
+            "id": "471002164630802432",
+            "text": "Because I'm scared of the response for even tweeting about this topic. #YesAllWomen",
+            "username": "harto",
+            "num_likes": 3166,
+            "num_retweets": 1543,
+            "num_replies": 98
+        },
+        "459753530627465217": {
+            "id": "459753530627465217",
+            "text": "@sparkfun Pam rocks Makey Makey at the United States Science and Engineering Festivalpic.twitter.com/ipVEwn0OUO",
+            "username": "JeffBranson1",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "458354115894976512": {
+            "id": "458354115894976512",
+            "text": "A great video from the the CSGC Robotics Challenge -http://youtu.be/E7GEfQ0PP28\u00a0",
+            "username": "sparkfun",
+            "num_likes": 6,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "448721535181017088": {
+            "id": "448721535181017088",
+            "text": "Again a great Sparkfun tutorial to make your own fritzing parts. It's awesome!   https://learn.sparkfun.com/tutorials/make-your-own-fritzing-parts/pcb-view\u00a0\u2026",
+            "username": "FritzingOrg",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "426798979305578496": {
+            "id": "426798979305578496",
+            "text": "If you're still having problems just email me your gmail session key for testing.\nDon't worry - we never ask for your password!",
+            "username": "kevinmitnick",
+            "num_likes": 55,
+            "num_retweets": 92,
+            "num_replies": 23
+        },
+        "403338151277502464": {
+            "id": "403338151277502464",
+            "text": "Lots of lock picking going on here. #QLHackfestpic.twitter.com/ouvgi6EC2y",
+            "username": "quickleft",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "396793330744303617": {
+            "id": "396793330744303617",
+            "text": "Introducing Kros, a location-based social media app that allows for real-time file sharing. #IoTHackpic.twitter.com/0mzEhWnONS",
+            "username": "IoTHackathon",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "393381339765805056": {
+            "id": "393381339765805056",
+            "text": "After Kickstarter, Formlabs, Maker Of The High-Res Form 1 3D Printer, Bags $19M Series A To Keep Building http://tcrn.ch/17h2wcj\u00a0 by @riptari",
+            "username": "TechCrunch",
+            "num_likes": 10,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "393059742366445568": {
+            "id": "393059742366445568",
+            "text": "New post: 3D Printering: A Call for an Open Source Automated Build Platform http://bit.ly/17bPRF9\u00a0",
+            "username": "hackaday",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "392183547832057856": {
+            "id": "392183547832057856",
+            "text": "Arduino Support for Matlab and Simulink  http://bit.ly/1gZqCJV\u00a0",
+            "username": "arduino",
+            "num_likes": 22,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "391730560550182912": {
+            "id": "391730560550182912",
+            "text": "This is just the best thing we've seen all week: Google AI Team Lets You Build Quantum Computing Traps in #Minecrafthttp://bit.ly/18xwDdb\u00a0",
+            "username": "WIRED",
+            "num_likes": 54,
+            "num_retweets": 63,
+            "num_replies": 4
+        },
+        "391141634911383552": {
+            "id": "391141634911383552",
+            "text": "Calvin & Hobbes fans, you won't want to miss this rare interview with Bill Watterson:http://bit.ly/16fBfWH\u00a0",
+            "username": "WIRED",
+            "num_likes": 133,
+            "num_retweets": 169,
+            "num_replies": 10
+        },
+        "390794641756651520": {
+            "id": "390794641756651520",
+            "text": "New post: SparkFun Ponders Women in STEM Fields http://bit.ly/19SWRHx\u00a0",
+            "username": "hackaday",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "390790023777247232": {
+            "id": "390790023777247232",
+            "text": "Interested in sensors as a journalism tool? Come play at the @sparkfun \"make and take\" table in the Midway #ONA13 http://ona13.journalists.org/2013/10/09/tinker-with-sensors-and-blinky-lights-at-ona13/\u00a0\u2026",
+            "username": "jmfbrooks",
+            "num_likes": 5,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "388466465659047936": {
+            "id": "388466465659047936",
+            "text": "3D Printing #Graphene Project Goes Live http://3dprintingindustry.com/2013/10/11/3d-printing-graphene-project-goes-live/\u00a0\u2026 via @3dprintindustry",
+            "username": "akaziuna",
+            "num_likes": 1,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "388769929618419712": {
+            "id": "388769929618419712",
+            "text": "Furloughed by the government shutdown? For those of you currently short on work, we have free kits to pass the time.http://sfe.io/n1287\u00a0",
+            "username": "sparkfun",
+            "num_likes": 21,
+            "num_retweets": 110,
+            "num_replies": 3
+        },
+        "383286848212443136": {
+            "id": "383286848212443136",
+            "text": "@grahamwoodruff We\u2019ve got WordsFlow CC/Windows working in-house and are scrambling on the others (/Mac, DocsFlow). Coming soon!",
+            "username": "emsoftware",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1120411469080866817": {
+            "id": "1120411469080866817",
+            "text": "Have questions about ML on the Edge w/ AML & Azure IoT Edge? Ask your questions on DEEP DIVE LIVE w/ Mark & myself this WED 9-10:30am PT. We'll be building an IoT Edge Predictive Maintenance Solution while answering your questions!  #IoTShow @microsoftIoThttps://aka.ms/iotshow/deepdive/003\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 13,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1126248302544973824": {
+            "id": "1126248302544973824",
+            "text": "So honored!!! Thank you!!  #SwagMastershttps://twitter.com/msdevshow/status/1126245789640957952\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1126218914050920448": {
+            "id": "1126218914050920448",
+            "text": "Peer programming FTW @twilio + @MicrosoftIoT IoT Hackspace!!! There were only 24 seats, but folks volunteered to team up with other developers to do the hands on lab w/ the new Twilio Broadband IoT Dev Kit w/ Azure IoT!  #MSBuild #IoTpic.twitter.com/F0HFNuXIRh",
+            "username": "hello_techie",
+            "num_likes": 44,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1125806804493946881": {
+            "id": "1125806804493946881",
+            "text": "Hack with us at the IoT Hackspace booth!! We are running hands on labs all day in the Microsoft Showcase IoT area!  #msbuild #Azure #IoT #Microsoft #AzureSphere #IoTCentral #intelligentedgepic.twitter.com/m7dw4VUgbx",
+            "username": "hello_techie",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1125434751270117376": {
+            "id": "1125434751270117376",
+            "text": "Are you watching the Build Keynote? Starbucks is showcasing how they are using Azure IoT Central & Azure Sphere for end to end IoT security! Stop by the IoT Hackspace(next to the Starbucks demo!) to get hand on w/ Azure IoT Central, Azure Sphere, Windows IoT & a lot more!pic.twitter.com/gvZkJxfiG5",
+            "username": "hello_techie",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1121511395185422337": {
+            "id": "1121511395185422337",
+            "text": "The moment where you look at your past videos & noticed you only have one sweater.  I have this exact same sweater in different colors & both of them have holes in them. Shopping isn't one of my strong areas. #BackToBasicpic.twitter.com/ocZNOT89Pn",
+            "username": "hello_techie",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "1121073224228360192": {
+            "id": "1121073224228360192",
+            "text": "Deep Dive is happening today at 9:00am PT! We'll be on the chat answering your IoT questions until 10:30am! Today, Mark & I are building an Intelligent Edge Predictive Maintenance Solution with Azure Machine Learning. #IoT #ML @microsoftIoT #IoTShow\nhttps://aka.ms/iotshow/deepdive/003\u00a0\u2026pic.twitter.com/c2vlnfBodz",
+            "username": "hello_techie",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1118933500676022273": {
+            "id": "1118933500676022273",
+            "text": "Welcome to the family @Express_Logic_X! Excited to share that Microsoft acquired Express Logic to accelerated IoT development for billions of devices at scale. #RTOS #IoT #Microsofthttps://blogs.microsoft.com/blog/2019/04/18/microsoft-acquires-express-logic-accelerating-iot-development-for-billions-of-devices-at-scale/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118291491825147904": {
+            "id": "1118291491825147904",
+            "text": "I recognize those red boxes!! haha! :D #SparkFun #TensorFlowhttps://twitter.com/taraw/status/1116094734349557761\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1111276736589844480": {
+            "id": "1111276736589844480",
+            "text": "In a recent survey from Gemalto, half of the respondents said they had no way to know if their devices were compromised. Azure Security Center now extends its scope to the realm of #IoT and delivers an unified visibility across your IoT solution! https://channel9.msdn.com/Shows/Internet-of-Things-Show/Securing-your-IoT-application-with-Azure-Security-Center\u00a0\u2026 via @ch9",
+            "username": "hello_techie",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1110094193110716416": {
+            "id": "1110094193110716416",
+            "text": "I broke the cardinal rule of not checking in luggage when traveling internationally. I made it, but luggage didn't. I spent the morning trying to straighten my hair with a comb & wearing an outfit I brought last night that may or not be too small on me.  Don't be like me kids.",
+            "username": "hello_techie",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1108754559139115008": {
+            "id": "1108754559139115008",
+            "text": "\"Auto industry\u2019s first global and most ambitious connected vehicle program will be deployed utilizing cloud, artificial intelligence (AI), & IoT technologies provided by Microsoft Azure\" - Renault-Nissan-Mitsubishi launches Alliance Intelligent Cloud https://news.microsoft.com/2019/03/20/renault-nissan-mitsubishi-launches-alliance-intelligent-cloud-on-microsoft-azure/\u00a0\u2026 #IoT",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1108420629642907650": {
+            "id": "1108420629642907650",
+            "text": "NVIDIA and Microsoft Create Edge-to-Cloud Real-Time Streaming Video Analytics Solutionhttps://blogs.nvidia.com/blog/2019/03/18/deepstream-microsoft-azure-iot-edge/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1106691161186435072": {
+            "id": "1106691161186435072",
+            "text": "IoT Q/A - Q: \"What support do you have for Visual Studio for IoT Edge?\" \n\nA: I'm a fan girl for VS Code & the Azure IoT Hub Toolkit extension, but now we've made it easier for Edge support in @VisualStudio too! Here you go my VS friends <3: https://devblogs.microsoft.com/iotdev/easily-develop-and-debug-azure-iot-edge-c-modules-with-azure-iot-edge-tools-preview-0-3-1/\u00a0\u2026 #MicrosoftIoTpic.twitter.com/YrWhOTleIj",
+            "username": "hello_techie",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1103061201569759232": {
+            "id": "1103061201569759232",
+            "text": "Had a BLAST being on the @msdevshow! @ytechie & @carlschweitzer hands down on my list of faves...even if Jason calls me Pam! haha Listen to their podcasts to get the latest tech updates for developers. Plus, listen in to learn how you can get some sweet swag! #IoTShow #DeepDivehttps://twitter.com/msdevshow/status/1103057311562641408\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1103055134995623936": {
+            "id": "1103055134995623936",
+            "text": "I'm pretty sure for the rest of my career, I'll be answering the age old question: How can I build a cat/eagle/ostrich/rino/polarbear/dog/insert animal tracker? Doesn't matter if I'm in a startup, meetup, big tech company...I get this question. This will define me. haha #IoT",
+            "username": "hello_techie",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1102995363730874368": {
+            "id": "1102995363730874368",
+            "text": "Join us at 9am PT time for the latest IoT Deep Dive, to ask questions & learn about location intelligence. Great for developers building solutions for asset tracking, fleet management, & even drones! #IoTShow @MicrosoftIoT #IoT #AzureMapshttps://twitter.com/msdev/status/1102964742174507008\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1098261351393198080": {
+            "id": "1098261351393198080",
+            "text": "IoT Show Deep Dive is LIVE in 15mins!! 9am PT time! Come learn about building industrial solutions with PTC and Azure IoT!\nhttp://aka.ms/iotshow/iotdeepdive/001\u00a0\u2026https://twitter.com/msdev/status/1096457359159898114\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095023791267139584": {
+            "id": "1095023791267139584",
+            "text": "I'm the queen of long, over descriptive titles. I'm starting to get to Tolkien writing style, but without his talent. Goal: no more titles longer than 5-7 words. Maybe past background of writing datasheets might have created this bad habit of mine? haha",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1094997727962791936": {
+            "id": "1094997727962791936",
+            "text": "And so it begins! 1st IoT Deep Dive is live in 9 days!  Tweet questions w/ #IoTDeepDive now to potentially be answered by Joseph Biron, PTC CTO of IoT, Chafia, & yours truly! Set a reminder: Building End to End industrial Solutions w/ PTC ThingWorx & Azurehttps://youtu.be/lvP50J47Eho\u00a0",
+            "username": "hello_techie",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1092470585018339329": {
+            "id": "1092470585018339329",
+            "text": "Had a lot of fun meeting fellow developers at the #TheThingsConference & hearing what everyone was building! I already want to play w/ the ThingsNodes (Takes me down memory lane, since they're based off @sparkfun's Pro Micro) & Network Gateway!#SkipMondayEmails #PlayWithHardwarehttps://twitter.com/Azure/status/1091040919732846592\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090997463585116161": {
+            "id": "1090997463585116161",
+            "text": "The answer from @obloch to Arthur C Clarke's quote \"Any sufficiently advanced technology is indistinguishable from magic.\"  is \"Let's make magic advancing IoT\" #TheThingsConferencepic.twitter.com/Udmoe2DSyd",
+            "username": "hello_techie",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1090533728982626304": {
+            "id": "1090533728982626304",
+            "text": "Heading to #TheThingsConference too! Talking about IoT, playing with hardware, and enjoying the falling snow in Amsterdam... Yes please!https://twitter.com/obloch/status/1090266059653828608\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1086321760960532480": {
+            "id": "1086321760960532480",
+            "text": "Seattle NEEDS more affordable housing! Rent prices are crazy, very limited affordable rent options, buying a house is out of reach to most, & homeless population is growing. This a huge issue & glad that Microsoft is looking into new ways to help tackle this.  #affordablehousinghttps://twitter.com/BradSmi/status/1085914642776494081\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085214482912108544": {
+            "id": "1085214482912108544",
+            "text": "@ShawnHymel @williamberryiii @the_gella @NorthAllenPoole @ytechie @carlschweitzer @flyingcircuits - Any ideas? All of you are really great on names! Any votes on the current selection or other ones? :)",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 5
+        },
+        "1085212291098828800": {
+            "id": "1085212291098828800",
+            "text": "What about TechCast?",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085207613334122500": {
+            "id": "1085207613334122500",
+            "text": "Need help picking a name!! I'm going to start a new live streaming series on the Microsoft IoT Show that focuses on E2E & technical deep dives next month! Series is meant for devs & anyone building IoT solutions. Ideas so far: IoTDevCast, IoTDeepDive...Any suggestions? #IoTShow",
+            "username": "hello_techie",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 18
+        },
+        "1050577988645937153": {
+            "id": "1050577988645937153",
+            "text": "I can't unsee! @carlschweitzer looks like  @DaveBautista! @ytechiepic.twitter.com/j4sVHaHsDJ",
+            "username": "hello_techie",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1045040936361824256": {
+            "id": "1045040936361824256",
+            "text": "Teamed up with @rheartpython in the Think Like a Hacker & Defend Like a Pro hack-your-own-adventure challenge & we ended up with sweet fictional 1 million. Remember folks secure those IoT devices. ;) #GHC18 #iot #DreamHackerDuopic.twitter.com/PqjiRdnr14",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044646793105956864": {
+            "id": "1044646793105956864",
+            "text": "Ladies taking over business class! Love the fact that my flight is packed with women heading to #GHC18 too!  Different experience than my last couple conferences & business trips #Seattle #Houston #TechTraveler #Microsoft",
+            "username": "hello_techie",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1028750052880044032": {
+            "id": "1028750052880044032",
+            "text": "Looking to reprogram the @r00tzasylum badges this year? Go to http://github.com/hellotechie/r00tz_badge_defcon_26\u00a0\u2026 for getting started links and example code. #IoT #Esp8266 #Adafruit",
+            "username": "hello_techie",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1028314127494610949": {
+            "id": "1028314127494610949",
+            "text": "Can't wait to see @BiaSciLab next set of projects! Looking forward to chatting more about hardware & hacking at the next @defcon @r00tzasylumhttps://twitter.com/BiaSciLab/status/1028034354650341376\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1003769201985613824": {
+            "id": "1003769201985613824",
+            "text": "As a long time Open Source Advocate, couple years ago I was offered my dream job at @github.  Instead, I chose to go to Microsoft, because I believed in @satyanadella's commitment to Open Source and wanted to be a part of this change. THIS IS AWESOME! #GitHub #microsoftopenhttps://twitter.com/Microsoft/status/1003622903298998272\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "993542756919230464": {
+            "id": "993542756919230464",
+            "text": "Alexa at #MSBuild: \"I like Cortana. We both have experience with light rings, although hers is more of a #Halo.\"... Start of a new beautiful friendship? #Microsoft #Amazon #Cortana #Alexapic.twitter.com/DhI9PkYf8C",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "993527412523593730": {
+            "id": "993527412523593730",
+            "text": "Azure IoT continuing to bring my two loves together: IoT & Open Source! Microsoft is now Open Sourcing IoT Edge runtime and IoT Edge will support Kubernetes!  #MSBuildhttps://blogs.microsoft.com/iot/2018/05/07/unlocking-the-iot-promise-from-the-intelligent-cloud-to-the-intelligent-edge/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "876960431721467904": {
+            "id": "876960431721467904",
+            "text": "o.O I've used my Edison in so many projects! Intel Discontinues Joule, Galileo, And Edison Product Lines @hackadayhttp://hackaday.com/2017/06/19/intel-discontinues-joule-galileo-and-edison-product-lines/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "871806990942523393": {
+            "id": "871806990942523393",
+            "text": "Check out Sumeya's talk about @jewelbots at 1pm!! #dotnetfringe #CodeLikeAGirl #LEDBadgeSwagpic.twitter.com/6UTsS4lslU",
+            "username": "hello_techie",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "871445938581131265": {
+            "id": "871445938581131265",
+            "text": "Create a webtask typescript compiler + blog & @gblock will give you $50. It's official now, since it's on twitterverse... ;) #dotnetfringepic.twitter.com/KqgB0e5uvy",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "866855409557970944": {
+            "id": "866855409557970944",
+            "text": "Awesome to see all the young makers learning to code & teaching others @makerfaire w/ @adafruit Circuit Playground Express & @MSMakeCode!pic.twitter.com/G9GtYSGPRQ",
+            "username": "hello_techie",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "862382390043222016": {
+            "id": "862382390043222016",
+            "text": "#Azure IoT course is now live! Learn the fundamentals of #IoT w/ new course, videos, & labs @edXOnline #Build2017https://www.edx.org/course/developing-iot-solutions-azure-iot-microsoft-dev225x\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "831904904960634882": {
+            "id": "831904904960634882",
+            "text": "Chat with me at the #OpenIoT Summit in Portland next week! I'll be talking about ESP8266/ESP32 and Microsoft + open source. #OpenAtMicrosofthttps://twitter.com/EventsLF/status/831664328327696385\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "798932532787978240": {
+            "id": "798932532787978240",
+            "text": "We are super excited to be a platinum member! We've done sponsorships at events too. I'll be at future Linux events! @ShawnHymel @Microsoft",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "789839159686864896": {
+            "id": "789839159686864896",
+            "text": "I made the list! The 50 Most Influential Women in IoT http://www.ioti.com/iot-trends-and-analysis/50-most-influential-women-iot\u00a0\u2026 #IoT",
+            "username": "hello_techie",
+            "num_likes": 21,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "789837590077714432": {
+            "id": "789837590077714432",
+            "text": "This Is Why We Can't Have Nice (Internet of) Things... #IoT #Mirai #EvenYourConnectedToasterIsHackingYou #BadSecurity #WikiLeakshttps://twitter.com/motherboard/status/789760708628054016\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "762099530896543744": {
+            "id": "762099530896543744",
+            "text": "Coding pong on the @r00tzasylum badge! That T-shirt FTW @Brooklyn_Jerry @oshpark @c00ki3cutt3r13 @ShawnHymel #defconpic.twitter.com/g8wbZCfv2T",
+            "username": "hello_techie",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "743939382814609408": {
+            "id": "743939382814609408",
+            "text": "<3 Adafruit crew! Congrats Ladyada on being a #WHChamps. Let's hack/build something awesome together #NationOfMakershttps://twitter.com/adafruit/status/743936002574671872\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "743881003542908928": {
+            "id": "743881003542908928",
+            "text": "Thank you LisaMarie for reminding us to yell out loud to make changes! #WHChamps #NationOfMakers #Inspirationpic.twitter.com/PzMla6DVb5",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "742830456337367040": {
+            "id": "742830456337367040",
+            "text": "The biggest maker of Raspberry Pis (and micro:bits) acquired for $871 million by an industrial supplier!http://www.theverge.com/2016/6/14/11936428/raspberry-pi-premier-farnell-acquisition-daetwyler-holding?utm_campaign=theverge&utm_content=article&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "737667336472133635": {
+            "id": "737667336472133635",
+            "text": "Great board to teach kids how to code! BBC micro:bit learn-to-code device up for public pre-order in UK http://tcrn.ch/1THQw5H\u00a0 @techcrunch",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "734214740038189057": {
+            "id": "734214740038189057",
+            "text": "Ran into @habitforming @josefprusa - I want to 3D print that camera rig! #MFBA16pic.twitter.com/gJMMXwDWAt",
+            "username": "hello_techie",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "715584904352833536": {
+            "id": "715584904352833536",
+            "text": "Microsoft teamed up with @adafruit @seeedstudio @sparkfun to help you get started w/ your IoT prototypes & projects!https://twitter.com/Azure/status/715575017707278341\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 14,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "710242196524371969": {
+            "id": "710242196524371969",
+            "text": "Internet Controlled Flamethrower. A thing I didn't even know I wanted until now. #IoT #esp8266 @NorthAllenPoolehttps://www.youtube.com/watch?v=AI_m0yrUAlA\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "710199869651206145": {
+            "id": "710199869651206145",
+            "text": "It's been a little over a week & it still brings a smile to my face #opensource #Linux #SQLServer <3pic.twitter.com/gKDQR5DhXi",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "702981490213146624": {
+            "id": "702981490213146624",
+            "text": "WWC Boulder/Denver's first annual hackathon is this weekend! Thanks @9NEWS for the mention! http://www.9news.com/tech/home-gardens-go-high-tech/52397451\u00a0\u2026https://twitter.com/ryleekeys/status/702899294072762368\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "702583556460052480": {
+            "id": "702583556460052480",
+            "text": "Microsoft to acquire Xamarin and empower more developers to build apps on any device! http://blogs.microsoft.com/blog/2016/02/24/microsoft-to-acquire-xamarin-and-empower-more-developers-to-build-apps-on-any-device/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "699658288892239872": {
+            "id": "699658288892239872",
+            "text": "3D printer will be the iconic toy for the younger generation. @Mattel ThingMaker rebooted! #CreepyCrawlers #Mashablehttp://mashable.com/2016/02/16/mattel-thingmaker-3d-printer/#lE6e66Fgi05M\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "679726353864785920": {
+            "id": "679726353864785920",
+            "text": "Biohacking + RFID implant real world application w/ @NorthAllenPoole! Please do an electronic tattoo next! https://youtu.be/Gj5g454AD4E\u00a0 #SparkFun",
+            "username": "hello_techie",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "672138443808354304": {
+            "id": "672138443808354304",
+            "text": "\u201cWe\u2019ve come so far since the 1976 Cray-1 supercomputer came free with a magazine.\u201d Haha http://www.theonion.com/r/51928\u00a0 @theonion @Raspberry_Pi Zero",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "667751198624120832": {
+            "id": "667751198624120832",
+            "text": "Marshall @SparkFun made a DIY laser cutter! I just added @Shapeoko CNC on my Christmas want list.https://youtu.be/hx_2Wh5GZB4\u00a0",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "665215567595368448": {
+            "id": "665215567595368448",
+            "text": "Yes! SAMD21 boards are finally live!! http://sfe.io/p13664\u00a0 via @sparkfun #Arduino",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664945807540543488": {
+            "id": "664945807540543488",
+            "text": "Python script you can use to help generate your own graphical datasheets for hardware! http://sfe.io/n1947\u00a0 via @sparkfun #OpenSource",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "663731075047264256": {
+            "id": "663731075047264256",
+            "text": "This Piece Of Paper Could Be the Future of MicroRobots @SaraRao3 @vocativ http://voc.tv/1iLl0aS\u00a0",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659104698117390336": {
+            "id": "659104698117390336",
+            "text": "We are hiring Engineering Assistant(s) @sparkfun. Join my team! Students are welcome to apply https://www.sparkfun.com/jobs/86\u00a0 @CUBoulderSWE @cuatlas",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "654339811080204289": {
+            "id": "654339811080204289",
+            "text": "\u201cBright Ideas with @intel Edison\u201d at 12 pm MST. Chance to win 1 of 15 @sparkfun Starter Packs for the Edison! http://sfe.io/n1946\u00a0",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "653983710052675584": {
+            "id": "653983710052675584",
+            "text": "Happy #AdaLovelaceDay! Programming & building robots to celebrate. I get to do this every day! #ILookLikeAnEngineerpic.twitter.com/8aWLoskTfz",
+            "username": "hello_techie",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "651407544582189056": {
+            "id": "651407544582189056",
+            "text": "110 million devices are running Windows 10. I wonder how many Raspberry Pi 2s are running Windows 10! #Windows10devices #RaspberryPi #IoT",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "651091280320032768": {
+            "id": "651091280320032768",
+            "text": "Watch \"Hack the Arts Hackfest at QuickLeft in Boulder!\" on @Vimeohttps://vimeo.com/141129684?ref=tw-share\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "646795056133705728": {
+            "id": "646795056133705728",
+            "text": "Hack the Arts Hackfest @quickleft tonight! Excited to see all the creative projects! Come find me if you need help with hardware. #SparkFun",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "639637529721892864": {
+            "id": "639637529721892864",
+            "text": "Love the talk about REST by @switzerly! Pretty sure I am going to start craving burritos every time I think of #REST now. @WomenWhoCodeBD",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "639603333154537472": {
+            "id": "639603333154537472",
+            "text": "Awesome job @elemdoubleu! Great to hear about the positives about streaming APIs! @WomenWhoCodeBD",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "639120317407825920": {
+            "id": "639120317407825920",
+            "text": "Join us tomorrow @quickleft to hear @elemdoubleu talk about streaming APIs! @WomenWhoCodeBD #TwitterBoulder RSVP:http://meetu.ps/2LkjFC\u00a0",
+            "username": "hello_techie",
+            "num_likes": 10,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "638413782302109696": {
+            "id": "638413782302109696",
+            "text": "Join us @quickleft this Thursday to hear @switzerly talk about #REST! RSVP: http://meetu.ps/2LkjFC\u00a0 #Twitter @WomenWhoCodeBD",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "635817131943157760": {
+            "id": "635817131943157760",
+            "text": "Want to learn Ruby? Join @WomenWhoCodeBD Ruby Study Group tomorrow @galvanizeBLDR! Everyone is welcome! RSVP here: http://meetu.ps/2KDHF0\u00a0",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "634808362132070400": {
+            "id": "634808362132070400",
+            "text": "It's Photon Phriday! Which @sparkfun shield is your favorite? Enter to win a Photon Kit by telling us at http://sfe.io/n1909\u00a0! #particle",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "634405250967846912": {
+            "id": "634405250967846912",
+            "text": "Disaster Robots are not causing disasters. They help with emergency response, prevention, & recovery #ACMLearning #Disaster #Robotics #UAV",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "634394233776943105": {
+            "id": "634394233776943105",
+            "text": "Enginursday: Choose Your Photon IDE Adventure! http://sfe.io/n1907\u00a0  via #sparkfun @particle",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "631515399536775168": {
+            "id": "631515399536775168",
+            "text": "Thank you! Wonderful to see an awesome company celebrating people in their community! @dfuzrindustries @sparkfun @WomenWhoCodeBD",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "631102547256721409": {
+            "id": "631102547256721409",
+            "text": "Passionate about makers, open source, design, & marketing? SparkFun is hiring a Director of Marketing Communications https://www.sparkfun.com/jobs/81\u00a0",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "630893091218550784": {
+            "id": "630893091218550784",
+            "text": "Google is reorganizing and Sundar Pichai will become new CEO http://www.theverge.com/2015/8/10/9128083/sundar-pichai-ceo-google-larry-page-sergey-brin?utm_campaign=theverge&utm_content=article&utm_medium=social&utm_source=twitter#\u00a0\u2026 via @verge #Alphabet",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "628775820593500160": {
+            "id": "628775820593500160",
+            "text": "A perk that won't collect dust. Netflix Announces \u2018Unlimited\u2019 Maternity & Paternity Leave\u00a0Program http://on.tcrn.ch/l/s65W\u00a0 #SorryPingPong",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "627918883907764224": {
+            "id": "627918883907764224",
+            "text": "Google Impact Challenge: Disabilities | ADA 25th Anniversary https://youtu.be/o3mqgrmKz7s\u00a0 #Accessibility #ADA25 #CivilRights",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "627539327422103553": {
+            "id": "627539327422103553",
+            "text": "Now this is exciting news! Intel & Micron breakthrough non-volatile Memory Technology in production right now. #Want http://newsroom.intel.com/community/intel_newsroom/blog/2015/07/28/intel-and-micron-produce-breakthrough-memory-technology\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "626439241350823936": {
+            "id": "626439241350823936",
+            "text": "AT&T is hosting another caffeine filled Mobile App Hackathon this weekend! #WomenWhoCodeBD #WWCTakeover #atthack http://www.eventbrite.com/e/att-mobile-app-hackathon-boulder-iot-tickets-15621124203?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "615617760928763904": {
+            "id": "615617760928763904",
+            "text": "Excited to share our Open Source full-sized BB-8 Robot @Make! http://makezine.com/projects/open-source-full-sized-bb-8-robot/\u00a0\u2026 Follow @Make for updates! @CaseyTheRobot @wawison #BB8",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "614453396158808064": {
+            "id": "614453396158808064",
+            "text": "EXCITED! Huge victory for equal rights! @nprnews: Supreme Court Declares Same-Sex Marriage Legal http://n.pr/1dl4Geh\u00a0 #LoveWins",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "613371625535221760": {
+            "id": "613371625535221760",
+            "text": "Huge #SparkFun news! CEO will be stepping down to be Nate the Engineer. Great projects happening in the near future! http://sfe.io/n1853\u00a0",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "612279810065199104": {
+            "id": "612279810065199104",
+            "text": "Teams doing test runs! #SparkFunAVC Where is Mario's robot? #SparkFun #autonomouspic.twitter.com/VeNwTXR1CT",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "611559990390710273": {
+            "id": "611559990390710273",
+            "text": "Curious on what happened to your favorite SparkFun Demo? Enginursday: Demos of Days Past http://sfe.io/n1858\u00a0 via @sparkfun",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "598893483156312064": {
+            "id": "598893483156312064",
+            "text": "Excited that @AnoukWipprecht pink Teensy will be @sparkfun! Can't wait to use one in a wearables project!https://twitter.com/AnoukWipprecht/status/598741579516391424\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "596540742312407040": {
+            "id": "596540742312407040",
+            "text": "Thanks for the amazing advice @WomenWhoCodeBD event! @Frencil @whitneyrogers @tintegrity @abigator @AdventureSteadyhttps://twitter.com/jenanmannette/status/596518993223028737\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "593831757276844032": {
+            "id": "593831757276844032",
+            "text": "Arduino Announces Partnership with Microsoft! Excited to test Windows Virtual Shields http://sfe.io/n1817\u00a0 #SparkFun #BUILD2015 #Microsoft",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "593110166830092288": {
+            "id": "593110166830092288",
+            "text": "Internet of Tools for your Internet of Things projects! @temboo @ParseIt @Golgi_SDK http://sfe.io/n1814\u00a0 #SparkFun #makers",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "591659890084425728": {
+            "id": "591659890084425728",
+            "text": "Hacking the MiP? Step one: add a flamethrower! @CaseyTheRobot shows off his Mad Max MiP! https://youtu.be/QtfJmvjD1gA\u00a0 @TheMipsters #SparkFun",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "587691910510149634": {
+            "id": "587691910510149634",
+            "text": "Take the Test Driven Development for Beginners course for FREE! Thanks @ruby_plus! @WomenWhoCodeBD #Ruby #TDD #udemy https://www.udemy.com/learn-test-driven-development-in-ruby/?couponCode=railsfree\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "586610176326643713": {
+            "id": "586610176326643713",
+            "text": "Use a pressure sensor to make your own Indiana Jones inspired booby trap! https://youtu.be/5xFBn4Thmf0\u00a0 via #SparkFun",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "581488354983718912": {
+            "id": "581488354983718912",
+            "text": "I challenge @NorthAllenPoole to a rubber band duel. Nick's http://bit.ly/1IE1Co6\u00a0. Mine: http://bit.ly/1bBTppI\u00a0 This prank never gets old!",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "579837028885479424": {
+            "id": "579837028885479424",
+            "text": "@Pebble_Kat @donasarkar Yes!! You rock! Your Hack shirt with LEDs controlled with a Pebble? :) Look forward to see what you end up doing!",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "579458780666159105": {
+            "id": "579458780666159105",
+            "text": "@RainbowThyme Wouldn't you know I'm the girl...The girl who can hack everything. #PearlHacks",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "579352447791030272": {
+            "id": "579352447791030272",
+            "text": "Excited to teach the Arduino workshop at 4pm in Carroll 58 @PearlHacks! I have Arduino kits for teams to keep & hack!pic.twitter.com/j8rdRwrTfR",
+            "username": "hello_techie",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "579312547414847488": {
+            "id": "579312547414847488",
+            "text": "Free Makey Makey kits to hack with and keep at the hardware check out area!  @PearlHacks #sparkfun",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "579292423005872128": {
+            "id": "579292423005872128",
+            "text": "Know yourself, talk to everyone, identify role models, and other great advice from @donasarkar @PearlHacks!pic.twitter.com/dtHmjYyOzV",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "579288391310798848": {
+            "id": "579288391310798848",
+            "text": "Want to hack with Makey Makeys, Arduinos, or MicroViews @PearlHacks? Come pick up kits in Carroll Hall soon after the ceremony! #SparkFun",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "579059574763692032": {
+            "id": "579059574763692032",
+            "text": "Have an older kid who wants to learn how to build iOS apps in Boulder, CO? Check out CoderDojo's event @ATLAS http://bit.ly/19FuVLs\u00a0",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "572796361348816896": {
+            "id": "572796361348816896",
+            "text": "Panic at the Hackathon & Open Source Wearables are just a few talks @gdgboulder #WomenTechmakers Event! @KellyShuster http://meetu.ps/2GxfV6\u00a0",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "571315309094707202": {
+            "id": "571315309094707202",
+            "text": "Create games, desktop buddies, & wearable projects after learning about electronics with SIK for Microview: http://youtu.be/USY-KKpbWLU\u00a0 #SparkFun",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "569530820509110272": {
+            "id": "569530820509110272",
+            "text": "One week?! Support Boulder's local favorite @PieceLoveChoco! Must read: Open Letter to Katrina Markoff & @Vosges http://bit.ly/1FLshAV\u00a0",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "568560580400775172": {
+            "id": "568560580400775172",
+            "text": "Fan of The Oatmeal? Exploding Kittens kickstarter is ending today! http://kck.st/1ukxHcx\u00a0",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "568109848908288000": {
+            "id": "568109848908288000",
+            "text": "@theryanburke I had a list of chemicals I wanted to use...let's just say that got turned down fast. EMP was also shot down. Naysayers! haha",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "568090855170400257": {
+            "id": "568090855170400257",
+            "text": "Does your AVC robot each year end up being self-destructive? Consider competing in the Robot Combat at AVC! http://sfe.io/n1751\u00a0 @sparkfun",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "566323915870322688": {
+            "id": "566323915870322688",
+            "text": "Teaching a WWC Hack Night Wearables Workshop in March! RSVP and get a free ProtoSnap - LilyTwinkle! http://meetu.ps/2GxR87\u00a0 #WomenWhoCodeBD",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "564789755062145026": {
+            "id": "564789755062145026",
+            "text": "Watch out wedge bots! 'Battlebots' is coming back to TV this summer \"@engadget http://engt.co/1DWOasx\u00a0 pic.twitter.com/IzX6D8niAu\"",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "561216334680162304": {
+            "id": "561216334680162304",
+            "text": "@theryanburke Great if you want to hear about Crashlytics & Digits. I like going to meet other developers & see what they are working on too",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "559787060983119872": {
+            "id": "559787060983119872",
+            "text": "Excited to learn more about Twitter Fabric this Thursday! Hope to see some of you there! Register here: http://flock.fabric.io/\u00a0 #TwitterDrive",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "557585865250045957": {
+            "id": "557585865250045957",
+            "text": "Join us! Talk 2nite: Lessons in power conservation when developing for mobile. @BoulderiOS @boulderandroid @galvanize http://meetu.ps/2FrcZ8\u00a0",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "557584424490262529": {
+            "id": "557584424490262529",
+            "text": "Join us at the Mobile talk 2nite. Learn about lessons in power conservation when developing for mobile! @galvanize http://meetu.ps/2FrcZ8\u00a0",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "556576368763224064": {
+            "id": "556576368763224064",
+            "text": "Awesome, fun Scratch projects today @boulderlibrary with @CoderDojoBldr, @sparkfun, @bri_huang, and @ShawnHymelpic.twitter.com/Wk84LL7cJU",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "555777154332372993": {
+            "id": "555777154332372993",
+            "text": "Developers & hackers, what type of tutorials & products would you like to see more of? Share on SFE #Enginursday, http://sfe.io/n1710\u00a0",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "553648538333106176": {
+            "id": "553648538333106176",
+            "text": "SparkFun is hiring SysAdmins to wrangle our open source stack. We are hiring base & lead levels! #xkcd705 #SparkFun https://www.sparkfun.com/jobs/71\u00a0",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545298094984679425": {
+            "id": "545298094984679425",
+            "text": "Raspberry Pi, Beaglebone Black, Intel Edison - Benchmarked! http://www.davidhunt.ie/raspberry-pi-beaglebone-black-intel-edison-benchmarked/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545056025309478913": {
+            "id": "545056025309478913",
+            "text": "Great idea! Need to make one for my place. 555 Footstool: http://www.evilmadscientist.com/2011/555-footstool/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "540541697327771649": {
+            "id": "540541697327771649",
+            "text": "@theryanburke @marycutrali Hi Mary! I have taught girls to code and a part of WWC in Boulder. If you still have questions, feel free to DM.",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "540188605084209152": {
+            "id": "540188605084209152",
+            "text": "With the changes in privacy + security, speed, & internet connectivity, Bluetooth 4.2 is worth looking at! http://bit.ly/1tEx6lo\u00a0",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "537677182181867520": {
+            "id": "537677182181867520",
+            "text": "@theryanburke @sparkfun YES!!! I would love to do more of these videos. I am eying that first place spot, so bring on more challenges!",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "537664649748299777": {
+            "id": "537664649748299777",
+            "text": "Watch us battle it out on Robotics 101 - the Actobotics Challenge! https://www.sparkfun.com/news/1660\u00a0 @sparkfun",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "535220549602271232": {
+            "id": "535220549602271232",
+            "text": "@Tomm987 @sparkfun @flyingcircuits Don't worry, I had my hair in a pony tail during demo time. :P",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "522088471305805824": {
+            "id": "522088471305805824",
+            "text": "Watching Strong Bad to research for the video today. Life is good. SparkFun LIVE today at 3pm! See some fun costumes http://sfe.io/n1623\u00a0",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "522049082362052608": {
+            "id": "522049082362052608",
+            "text": "It\u2019s #AdaLovelaceDay - Celebrate female role models in STEM. Shout out to @MakerSylvia for being truly awesome! http://sfe.io/n1622\u00a0",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "520707664171384832": {
+            "id": "520707664171384832",
+            "text": "hahah Yeah, so true at the moment. An Honest Guide to Cosplay http://www.dorkly.com/post/68807/an-honest-guide-to-cosplay\u00a0\u2026 via @Dorkly",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "515889647093035008": {
+            "id": "515889647093035008",
+            "text": "@theryanburke :P Are the back rolls in photo, still consider sushi if they are about 90% cream cheese & spicy mayo? Mmm #SoUnhealthy Hehe",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "505029434122858496": {
+            "id": "505029434122858496",
+            "text": "Loving #MadeWithCode - Sew Electric has some fun projects posted here: http://sewelectric.org/misc/madewithcode/\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "488671522504970240": {
+            "id": "488671522504970240",
+            "text": "More USB ports & other great improvements to the Raspberry Pi! New Raspberry Pi - Model B+ in stock @SparkFun http://sfe.io/p12994\u00a0",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "483737613602275330": {
+            "id": "483737613602275330",
+            "text": "Angela showing off our warning for the shipping company. It was great to meet everyone! #alaac14 @sparkfunpic.twitter.com/khfd3DQnlo",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "481635924481028096": {
+            "id": "481635924481028096",
+            "text": "Starting to wonder why my dance time music was feeling old now. Google says a lot of songs have been played 50-190 times. #NeedNewPlaylists",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "481233519289462784": {
+            "id": "481233519289462784",
+            "text": "Preparing for my mom's wedding in Vegas. She was allowing showgirl outfits, but now there are mentions of coconut bras instead. #OnlyInVegas",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "479034820484276225": {
+            "id": "479034820484276225",
+            "text": "You know that calm before the storm feeling, when you decide to do a 180 on a project right before it should be done? #thiswillbeinteresting",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "472424341024411649": {
+            "id": "472424341024411649",
+            "text": "Just when LEDs (I have thousands) started moving down to my 2nd favorite component: http://sfe.io/p12877\u00a0 Must fight urge to buy hundreds!",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "471998514588045312": {
+            "id": "471998514588045312",
+            "text": "Butterfly in the sky, I can go twice high..take a look at this KS by LeVar Burton & Reading Rainbow! @kickstarterhttp://kck.st/1kKwSrD\u00a0",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "466262461897658368": {
+            "id": "466262461897658368",
+            "text": "Thanks @quickleft for another great HackFest! We had a blast. Here are some photos!  https://flic.kr/s/aHsjYaMXNH\u00a0 #QLHackfest #bsw14",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "459056513894871041": {
+            "id": "459056513894871041",
+            "text": "In Washington DC until next Monday. Will be at robot social on Friday. USASEF on Sat & Sun. I want to visit the spy museum before I leave!",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "458233781837512704": {
+            "id": "458233781837512704",
+            "text": "@theryanburke I know! I need one too! :P",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "457288300785463296": {
+            "id": "457288300785463296",
+            "text": "Afternoon drink. Check. Life size Dalek in parking lot.. Check. Just another day at @sparkfun :)pic.twitter.com/DKECbJOOla",
+            "username": "hello_techie",
+            "num_likes": 32,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "441970846387564544": {
+            "id": "441970846387564544",
+            "text": "Tie fighter bow tie / southwest spring in Austin town / thinking is so hard #SXSW @sparkfunpic.twitter.com/LOLdaSvkDT",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "430770257716707329": {
+            "id": "430770257716707329",
+            "text": "Exciting news for Makers! White House hosting a Maker Faire later this year! http://vrge.co/MTJIqy\u00a0 via @verge",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "427166538492174337": {
+            "id": "427166538492174337",
+            "text": "Storytelling is a great way to get children interested in programming! Hello Ruby - Linda Liukas http://kck.st/1hNiJag\u00a0  via @kickstarter",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "421086903484444672": {
+            "id": "421086903484444672",
+            "text": "Excited to try #projectspark. Looks like a fun way to create a game! #CES2014pic.twitter.com/uNISmdQKKX",
+            "username": "hello_techie",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "420636922583592960": {
+            "id": "420636922583592960",
+            "text": "YES please!  Smart kitchen from whirlpool #Whirlpool #CES2014pic.twitter.com/j5W2HAf8IR",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "420606030356049920": {
+            "id": "420606030356049920",
+            "text": "Going to be at the Venetian today with others from #sparkfun #CES2014",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "420292913088577536": {
+            "id": "420292913088577536",
+            "text": "Had a great time at #ATTDevSummit. Going to be at #CES2014  until Thursday!",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "403229343448436736": {
+            "id": "403229343448436736",
+            "text": "I didn't cover my face due to the sounds. It was to block the smell of those strong candles in @sparkfun Video! :)http://www.youtube.com/watch?v=Y66Iu3dBQO8&feature=share&list=PLDE2C612814F05A4D\u00a0\u2026",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "402972241870077953": {
+            "id": "402972241870077953",
+            "text": "\"@robacarp: @stilldavid @hello_techie, you win.\" YES!!!! :)",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "397819831560323072": {
+            "id": "397819831560323072",
+            "text": "Interested in learning how to connect tiny robots to tweets? WWC #gnip Data Science Arduino Night this Thursday! http://meetu.ps/1ZTrVM\u00a0",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "396362883656712192": {
+            "id": "396362883656712192",
+            "text": "PTO + getting a long-awaited package today + a new MacBook Pro + going to a hackathon 2night = a great way to start off a new month #bliss",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "396088402107326464": {
+            "id": "396088402107326464",
+            "text": "@theryanburke Thanks! Hope you have a great Halloween! :)",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "396044213860573184": {
+            "id": "396044213860573184",
+            "text": "Halloween at SparkFun! I was Alta from Forbidden Planet. Great day to bring in a ray gun coffee mug: http://youtu.be/ArUVdnGE4X0\u00a0 via @youtube",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "393726324004491264": {
+            "id": "393726324004491264",
+            "text": "Nice! Electric Imp used as badges! \"@WIRED: Conference Deploys Digital Name Badges in Data Mining Bonanza http://wrd.cm/Hla0yn\u00a0\" @sparkfun",
+            "username": "hello_techie",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "387763392733122560": {
+            "id": "387763392733122560",
+            "text": "Trying to find items in my room to decorate my work desk besides posted notes. Feel like the stars are more welcomingpic.twitter.com/qUQ8XG97hV",
+            "username": "hello_techie",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "383741164739764225": {
+            "id": "383741164739764225",
+            "text": "@theryanburke are you working on any hardware-base projects right now or bringing any projects to NoCo Maker Faire to showoff?",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "383731755976384512": {
+            "id": "383731755976384512",
+            "text": "@theryanburke Awesome! @sparkfun is going to be there and going to have a soldering booth! I'm going to try to go too. Going to be fun!",
+            "username": "hello_techie",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "383729747110281216": {
+            "id": "383729747110281216",
+            "text": "@theryanburke We sponsor a lot of events. We don't attend as many hackathons compare to a lot of other maker events & workshops we go to.",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "383706022881140736": {
+            "id": "383706022881140736",
+            "text": "@theryanburke hey! Yes, I just recently started a twitter account. It was great to see such a great turn out at hackfest this year",
+            "username": "hello_techie",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "382958060131450880": {
+            "id": "382958060131450880",
+            "text": "Going to HackFest @quickleft sponsored by @2lemetry  tonight! I am ready to get my #MaKeyMaKey on!",
+            "username": "hello_techie",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "Carnage4Life": 1,
+        "samjgeorge": 1,
+        "obloch": 6,
+        "taraw": 1,
+        "msdevshow": 1,
+        "tomwarren": 1,
+        "donasarkar": 4,
+        "ShawnHymel": 6,
+        "carlschweitzer": 1,
+        "ianbremmer": 1,
+        "vboykis": 1,
+        "natfriedman": 1,
+        "tess_distefano": 2,
+        "emilychangtv": 1,
+        "jalorenci": 1,
+        "googlestudents": 1,
+        "MicrosoftWomen": 1,
+        "rheartpython": 1,
+        "r00tzasylum": 5,
+        "BuzzFeedNews": 1,
+        "BiaSciLab": 1,
+        "AzureIoTDemo": 1,
+        "gabrtv": 1,
+        "gigastacey": 1,
+        "onovotny": 1,
+        "Microsoft": 2,
+        "lakotalaw": 1,
+        "KIRO7Seattle": 1,
+        "chaihuomaker": 1,
+        "BarackObama": 1,
+        "zs": 1,
+        "gblock": 2,
+        "TashasEv": 1,
+        "anaisbetts": 1,
+        "williamberryiii": 1,
+        "wkmyrhang": 1,
+        "verge": 1,
+        "mfussell": 1,
+        "MachinePix": 1,
+        "MicrosoftIoT": 1,
+        "middlefly1002": 1,
+        "mustafakutsal": 1,
+        "ritazzhang": 2,
+        "tsairox": 1,
+        "defconparties": 1,
+        "EFF": 1,
+        "shahedC": 1,
+        "adafruit": 3,
+        "kippworks": 1,
+        "makerfaire": 1,
+        "PAniskoff44": 1,
+        "AnoukWipprecht": 1,
+        "arduino": 2,
+        "pelikhan": 1,
+        "dromescu": 1,
+        "clemensv": 1,
+        "heddanewman": 1,
+        "engadget": 1,
+        "rgriff": 1,
+        "unicornzero": 1,
+        "MIT": 1,
+        "make": 1,
+        "stephenfry": 1,
+        "WomenWhoCode": 3,
+        "wwcodecolorado": 7,
+        "chiuki": 4,
+        "logicalelegance": 1,
+        "quickleft": 3,
+        "sparkfun": 9,
+        "POTUS44": 2,
+        "whitneyrogers": 1,
+        "IAmMurendeni": 1,
+        "acmeducation": 1,
+        "SparkFunEDU": 2,
+        "particle": 1,
+        "EtClaude": 1,
+        "coloradojess": 1,
+        "dfuzrindustries": 1,
+        "YourBuddyConner": 1,
+        "hackaday": 4,
+        "marcosc": 1,
+        "pomeranian99": 1,
+        "flyingcircuits": 1,
+        "CaseyTheRobot": 2,
+        "Kali_Skywalker": 1,
+        "scientistvan": 1,
+        "JulianDutton1": 1,
+        "github": 1,
+        "MicrochipMakes": 1,
+        "kgtole": 1,
+        "eredmil1": 2,
+        "jessiedotjs": 3,
+        "KellyShuster": 1,
+        "pittrpatt": 1,
+        "heylizelle": 1,
+        "womenwhostartup": 1,
+        "DIYGirls": 1,
+        "intel": 1,
+        "IntelSoftware": 1,
+        "gobbletime": 1,
+        "Frencil": 1,
+        "dannyyadron": 1,
+        "lquilter": 1,
+        "colemanpj": 1,
+        "thanavath": 1,
+        "harto": 1,
+        "JeffBranson1": 1,
+        "FritzingOrg": 1,
+        "kevinmitnick": 1,
+        "IoTHackathon": 1,
+        "TechCrunch": 1,
+        "WIRED": 2,
+        "jmfbrooks": 1,
+        "akaziuna": 1,
+        "emsoftware": 1
+    },
+    "users_retweeted": [
+        "sparkfun",
+        "wwcodecolorado",
+        "obloch",
+        "ShawnHymel",
+        "r00tzasylum",
+        "donasarkar",
+        "chiuki",
+        "hackaday",
+        "adafruit",
+        "WomenWhoCode",
+        "quickleft",
+        "jessiedotjs",
+        "tess_distefano",
+        "Microsoft",
+        "gblock",
+        "ritazzhang",
+        "arduino",
+        "POTUS44",
+        "SparkFunEDU",
+        "CaseyTheRobot",
+        "eredmil1",
+        "WIRED",
+        "Carnage4Life",
+        "samjgeorge",
+        "taraw",
+        "msdevshow",
+        "tomwarren",
+        "carlschweitzer",
+        "ianbremmer",
+        "vboykis",
+        "natfriedman",
+        "emilychangtv",
+        "jalorenci",
+        "googlestudents",
+        "MicrosoftWomen",
+        "rheartpython",
+        "BuzzFeedNews",
+        "BiaSciLab",
+        "AzureIoTDemo",
+        "gabrtv",
+        "gigastacey",
+        "onovotny",
+        "lakotalaw",
+        "KIRO7Seattle",
+        "chaihuomaker",
+        "BarackObama",
+        "zs",
+        "TashasEv",
+        "anaisbetts",
+        "williamberryiii",
+        "wkmyrhang",
+        "verge",
+        "mfussell",
+        "MachinePix",
+        "MicrosoftIoT",
+        "middlefly1002",
+        "mustafakutsal",
+        "tsairox",
+        "defconparties",
+        "EFF",
+        "shahedC",
+        "kippworks",
+        "makerfaire",
+        "PAniskoff44",
+        "AnoukWipprecht",
+        "pelikhan",
+        "dromescu",
+        "clemensv",
+        "heddanewman",
+        "engadget",
+        "rgriff",
+        "unicornzero",
+        "MIT",
+        "make",
+        "stephenfry",
+        "logicalelegance",
+        "whitneyrogers",
+        "IAmMurendeni",
+        "acmeducation",
+        "particle",
+        "EtClaude",
+        "coloradojess",
+        "dfuzrindustries",
+        "YourBuddyConner",
+        "marcosc",
+        "pomeranian99",
+        "flyingcircuits",
+        "Kali_Skywalker",
+        "scientistvan",
+        "JulianDutton1",
+        "github",
+        "MicrochipMakes",
+        "kgtole",
+        "KellyShuster",
+        "pittrpatt",
+        "heylizelle",
+        "womenwhostartup",
+        "DIYGirls",
+        "intel",
+        "IntelSoftware",
+        "gobbletime",
+        "Frencil",
+        "dannyyadron",
+        "lquilter",
+        "colemanpj",
+        "thanavath",
+        "harto",
+        "JeffBranson1",
+        "FritzingOrg",
+        "kevinmitnick",
+        "IoTHackathon",
+        "TechCrunch",
+        "jmfbrooks",
+        "akaziuna",
+        "emsoftware"
+    ]
+}

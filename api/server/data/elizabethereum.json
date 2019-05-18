@@ -1,0 +1,578 @@
+{
+    "is_complete": true,
+    "username": "elizabethereum",
+    "retweeted": {
+        "1118184832637423621": {
+            "id": "1118184832637423621",
+            "text": "Quick GitHub tip of the day: you can get the URL of your avatar by adding \u201c.png\u201d to your user page URL. So http://github.com/holman.png\u00a0 is mine, etc. I use this all the time instead of constantly re-uploading the same image manually on different services. Also I\u2019m lazy.",
+            "username": "holman",
+            "num_likes": 1640,
+            "num_retweets": 461,
+            "num_replies": 30
+        },
+        "1108476539417620480": {
+            "id": "1108476539417620480",
+            "text": "Introducing Gossamer, a #Golang #Polkadot Runtime Environment implementation!https://medium.com/chainsafe-systems/gossamer0-2ccf51ad0c91\u00a0\u2026",
+            "username": "ChainSafeth",
+            "num_likes": 70,
+            "num_retweets": 20,
+            "num_replies": 4
+        },
+        "1099073101923606528": {
+            "id": "1099073101923606528",
+            "text": "@GetGitcoin & @ChainSafeth are hosting an Ethereum Developers Meetup on February 27th in Toronto. Everyone is welcome! We will be discussing both of the host\u2019s work, Ethereum and open source community. Please RSVP below. We hope to see you there https://www.meetup.com/Ethereum-Developers/events/259199997/?action=rsvp&response=yes#_=_\u00a0\u2026",
+            "username": "CharlieStLouis",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1096094832525799427": {
+            "id": "1096094832525799427",
+            "text": "computer loves you do you love computer?",
+            "username": "computerfact",
+            "num_likes": 714,
+            "num_retweets": 228,
+            "num_replies": 26
+        },
+        "1093909296428056577": {
+            "id": "1093909296428056577",
+            "text": "Did you know you can do `geth --goerli` with the master branch? ;) #Ethereum #Goerli #golang",
+            "username": "peter_szilagyi",
+            "num_likes": 63,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "1090265823283802114": {
+            "id": "1090265823283802114",
+            "text": "W3F is excited to announce our first grant to @ChainSafeth who will be building the next @polkadotnetwork implementation in @golang!http://ow.ly/4Rmv30nuRrm\u00a0",
+            "username": "web3foundation",
+            "num_likes": 113,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "1086553100045991942": {
+            "id": "1086553100045991942",
+            "text": "Fuck it, keep coding.",
+            "username": "thefrankbraun",
+            "num_likes": 23,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1085604116909428736": {
+            "id": "1085604116909428736",
+            "text": "We are happy to announce #ETHUofT 2019. If you want to participate in Canada's largest student-run @ethereum hackathon, go check out http://ethuoft.ca\u00a0. #Ethereum #Students",
+            "username": "UofTBlockchain",
+            "num_likes": 17,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1083834751956541440": {
+            "id": "1083834751956541440",
+            "text": "The combination of solidity and node.js has aged me at least 25 years past where I am meant to be at.",
+            "username": "DeanEigenmann",
+            "num_likes": 58,
+            "num_retweets": 3,
+            "num_replies": 7
+        },
+        "1083109852120076312": {
+            "id": "1083109852120076312",
+            "text": "#Goerlicon needs you! Come join us for technical, non tech talks, an @ETHBerlin show & tell, delicious food in a brand new event space with A SURPRISE @5chdn loved at ofc @FactoryBerlin G\u00f6rli. https://kickback.events/event/0xe2d2c31c68626b6c1301a49ed50854e1cae0c8fa\u00a0\u2026pic.twitter.com/Nd12NGQtT3",
+            "username": "MPtherealMVP",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1082796945767362560": {
+            "id": "1082796945767362560",
+            "text": "I just published Deployment Automation for Goerli testnet in 10 minutes.\n@ChainSafeth @5chdn #ethereum #blockchain #terraform #devops #goerlihttps://medium.com/@priom/deployment-automation-for-goerli-testnet-in-10-minutes-5212cef5542a\u00a0\u2026",
+            "username": "pri0m",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1076670156871528448": {
+            "id": "1076670156871528448",
+            "text": "i really need a $DAI debit card",
+            "username": "mikedemarais",
+            "num_likes": 113,
+            "num_retweets": 7,
+            "num_replies": 10
+        },
+        "1075747277136789504": {
+            "id": "1075747277136789504",
+            "text": "It's happening! G\u00f6rliCon :)https://twitter.com/MPtherealMVP/status/1075695232472285186\u00a0\u2026",
+            "username": "ChainSafeth",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1075499795115053056": {
+            "id": "1075499795115053056",
+            "text": "Sometimes I wonder how beautiful the Universe is, and we do not even have to go that far. Imagine seeing Neptune and Uranus from their moons\u2026 https://mckitterick.tumblr.com/post/181230321535\u00a0\u2026 2/2pic.twitter.com/KufjsG6SO4",
+            "username": "doctorow",
+            "num_likes": 32,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1075072489837993986": {
+            "id": "1075072489837993986",
+            "text": "BEST BELIEVE I will smash the claps 50X\n\nMake DAI Cash Again: private, fungible, stable (+/- 4%)\n\nOne day we'll fondly look back at when public chains didn't have cash-like instruments widely available and sigh at our philistine wayshttps://medium.com/@atvanguard/zkdai-private-dai-transactions-on-ethereum-using-zk-snarks-9e3ef4676e22\u00a0\u2026",
+            "username": "trent_vanepps",
+            "num_likes": 85,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1075201234326323200": {
+            "id": "1075201234326323200",
+            "text": "We just got funding from @VitalikButerin for our beacon chain client in javascript/typescript. You can follow the development and contribute on Github.https://github.com/ChainSafeSystems/lodestar_chain\u00a0\u2026",
+            "username": "badcryptobitch",
+            "num_likes": 57,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1075445658679681026": {
+            "id": "1075445658679681026",
+            "text": "\u201cGoogle's secretive, data-hungry private city within Toronto will be much larger than previously disclosed,\u201d writes Cory @doctorow.https://boingboing.net/2018/12/17/harbourfront-and-cn-tower.html\u00a0\u2026",
+            "username": "BoingBoing",
+            "num_likes": 72,
+            "num_retweets": 71,
+            "num_replies": 6
+        },
+        "1072250971386974208": {
+            "id": "1072250971386974208",
+            "text": "every programmer has a \"how's my coding?\" sticker on the back of their chair and theres a number you can call",
+            "username": "computerfact",
+            "num_likes": 717,
+            "num_retweets": 154,
+            "num_replies": 8
+        },
+        "1072336460387418113": {
+            "id": "1072336460387418113",
+            "text": "@ethsingapore was epiccc. We did a ZCash like private DAI transactions using zKSnarks. Got the @MakerDAO API prize! Checkout our hack and demo video:https://devpost.com/software/ethsingapore-zk-dai\u00a0\u2026",
+            "username": "atvanguard",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1072309294069137408": {
+            "id": "1072309294069137408",
+            "text": "Thanks for having us @web3foundation!https://twitter.com/web3foundation/status/1072297873713303553\u00a0\u2026",
+            "username": "ChainSafeth",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1055664596139364352": {
+            "id": "1055664596139364352",
+            "text": "even humans need debugging sometimes they just call it \"therapy\"",
+            "username": "computerfact",
+            "num_likes": 809,
+            "num_retweets": 277,
+            "num_replies": 2
+        },
+        "1071655458585436165": {
+            "id": "1071655458585436165",
+            "text": "Spread the word!\n\nWe\u2019re bringing Africa\u2019s FIRST @ETHGlobal hackathon to the beautiful tech hub of Cape Town, South Africa for the WILDEST ETH hackathon yet!\n\nCheck out our website for more details (http://ethcapetown.com/\u00a0) \n\nIt\u2019s time to #BUIDL in Cape Town! \n#ETHCapeTownpic.twitter.com/BJ1lUjXBFm",
+            "username": "ETHCapeTown",
+            "num_likes": 169,
+            "num_retweets": 61,
+            "num_replies": 7
+        },
+        "1071396597127249921": {
+            "id": "1071396597127249921",
+            "text": "My favorite error message: \"Error: Lock file is already being hold\"",
+            "username": "josephdelong",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1070934622391791616": {
+            "id": "1070934622391791616",
+            "text": "This awful, misguided legislation augurs an epic battle that's just beginning and will play out over many years: ignorant, technophobic paternalism vs responsibility, self-sovereignty and freedom: Australia passes new law to thwart strong encryptionhttps://pocket.co/x8m4B3\u00a0",
+            "username": "lrettig",
+            "num_likes": 227,
+            "num_retweets": 80,
+            "num_replies": 25
+        },
+        "1069716481070546944": {
+            "id": "1069716481070546944",
+            "text": "Excited to be starting our travels to @ethsingapore :)pic.twitter.com/bh6met7oRg",
+            "username": "ChainSafeth",
+            "num_likes": 26,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1068868610846834689": {
+            "id": "1068868610846834689",
+            "text": "The first hardcore cypherpunk article about Paralel Polis at coindesk :-) \n\nCrypto Anarchists Are Building Tools to Resist the State in Eastern Europehttps://www.coindesk.com/crypto-anarchists-are-building-tools-to-resist-the-state-in-eastern-europe\u00a0\u2026",
+            "username": "wilderko",
+            "num_likes": 33,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1064877800413261824": {
+            "id": "1064877800413261824",
+            "text": "Is it too early to say I\u2019m a #Goerli testnet maximalist?",
+            "username": "MPtherealMVP",
+            "num_likes": 24,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1064343525871902720": {
+            "id": "1064343525871902720",
+            "text": "Say hello to our little Berliner friend! BlockScout is now running a G\u00f6rli Testnet explorer. How could we not take a part of the first PoA cross client testnet? \n\nhttp://blockscout.com/eth/goerli\u00a0https://twitter.com/cravenho_andrew/status/1064339463806074882\u00a0\u2026",
+            "username": "poanetwork",
+            "num_likes": 64,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1063873162046291968": {
+            "id": "1063873162046291968",
+            "text": "Bob Eggleton http://70sscifiart.tumblr.com/post/180198294060/bob-eggleton\u00a0\u2026pic.twitter.com/ZaO8yNbcHf",
+            "username": "doctorow",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1061623835634614273": {
+            "id": "1061623835634614273",
+            "text": "Switching from EVM to eWASM be like\n\nhttps://twitter.com/JohnBick4/status/1060302955541397504/video/1\u00a0\u2026",
+            "username": "MihailoBjelic",
+            "num_likes": 447,
+            "num_retweets": 103,
+            "num_replies": 7
+        },
+        "1063442630699294725": {
+            "id": "1063442630699294725",
+            "text": "Our next event before finals is a talk given by @Shyft and @ChainSafeth's @elizabethereum. It will be held November 28, in The Bahen Institute for Information technology, room 1240 at 7pm. Mark your Calendars.\n#Blockchain #Innovation #Toronto #UofT",
+            "username": "UofTBlockchain",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1060605030301085702": {
+            "id": "1060605030301085702",
+            "text": "\"Having surrounded ourselves with cameras, microphones, and a panoply of sensors, we now find ourselves enclosed in our own personal panopticon. It doesn\u2019t matter whether anyone is actually watching or listening as long as we can\u2019t be sure that they aren\u2019t.\"",
+            "username": "thefrankbraun",
+            "num_likes": 32,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1059902658390061056": {
+            "id": "1059902658390061056",
+            "text": "People need to realize that arts degrees are just as important as STEM degrees and that your degree doesn't define your interests and jobs prospects. Your skills do.https://twitter.com/DPeters416/status/1059889225737236480\u00a0\u2026",
+            "username": "badcryptobitch",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1058414695022018568": {
+            "id": "1058414695022018568",
+            "text": "#5yrsago Blue sky billboard in smoggy Beijing https://boingboing.net/2013/11/04/blue-sky-billboard-in-smoggy-b.html\u00a0\u2026pic.twitter.com/ylCvQA5xmN",
+            "username": "doctorow",
+            "num_likes": 41,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "1057271194204934145": {
+            "id": "1057271194204934145",
+            "text": "The only place on earth where there's no line to the women's bathroom. #Devcon4",
+            "username": "EtherGirlfriend",
+            "num_likes": 43,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1057957228156780544": {
+            "id": "1057957228156780544",
+            "text": "Decentralize, democratize or die with @doctorow from cypherpunks to decentralizationpic.twitter.com/kGXf2TVkWf",
+            "username": "MPtherealMVP",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1057691112209608707": {
+            "id": "1057691112209608707",
+            "text": "The kids are alright  @ChainSafeth @elizabethereumpic.twitter.com/s9IUDEYg3t",
+            "username": "MPtherealMVP",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1057226270025703424": {
+            "id": "1057226270025703424",
+            "text": "Stop by the grantee showcase today from now until 5! Meet the crem de la crem pushing Ethereum development. Lightning talks 2:30-4:15  @EFgrants @ethereumpic.twitter.com/YuAXrpSpAI",
+            "username": "OKDunc",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054131232508928004": {
+            "id": "1054131232508928004",
+            "text": "I independently discoverd this last week and also found an optimal sequence of log events. 344730 gas. Source: https://gist.github.com/Recmo/2288701dca6ea4a3ee8c2167d7d2705e\u00a0\u2026pic.twitter.com/xvwMehDAhH",
+            "username": "recmo",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1055830502895247360": {
+            "id": "1055830502895247360",
+            "text": "Hey #devcon & #praguebloclchainweek attendees, don't be afraid of the flags, tanks, helicopters and jets you might occasionally see! On the Oct 28th it will be 100 years of Czechoslovakian independence: \nhttps://en.m.wikipedia.org/wiki/Origins_of_Czechoslovakia\u00a0\u2026\n(it will be a national holiday = closed shops)",
+            "username": "JosefJelacic",
+            "num_likes": 30,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1056137904270032898": {
+            "id": "1056137904270032898",
+            "text": "Thank you so much for welcoming us into your incredible space Paraleni Polis.pic.twitter.com/DE5ZvpLzgp",
+            "username": "ChainSafeth",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056176062625918978": {
+            "id": "1056176062625918978",
+            "text": "Had to buy a shirt from the Institute of Cryptoanarchy in Bratislava with bitcoin.  On our way to @EFDevcon :)pic.twitter.com/Y7o2DlYYCv",
+            "username": "ChainSafeth",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1054456095622737922": {
+            "id": "1054456095622737922",
+            "text": "Get a sneak peak of my picks of restaurants for everyone (from vegan to keto people), cafes for coffee or just a good wifi & of course pubs for great beers! #Prague #Devcon4 #PragueBlockchainWeekhttps://drive.google.com/open?id=1kuXwf3nWF06App9evM87BTzPGA9U-6Rz&usp=sharing\u00a0\u2026",
+            "username": "JosefJelacic",
+            "num_likes": 107,
+            "num_retweets": 21,
+            "num_replies": 8
+        },
+        "1053429060750241792": {
+            "id": "1053429060750241792",
+            "text": "Starting our travels for @web3summit & @EFDevcon! Excited to see all our friends soon \uff61(\u27e0\u203f\u27e0)\uff61pic.twitter.com/FVWENEReFQ",
+            "username": "ChainSafeth",
+            "num_likes": 50,
+            "num_retweets": 1,
+            "num_replies": 5
+        }
+    },
+    "tweeted": {
+        "1108486315048386560": {
+            "id": "1108486315048386560",
+            "text": "our first update for our polkadot runtime environment implementation :) really excited to keep building~https://twitter.com/polkadotnetwork/status/1108480854408478726\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1091453274862092289": {
+            "id": "1091453274862092289",
+            "text": "pic.twitter.com/7ZGfiSlCw8",
+            "username": "elizabethereum",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1091017184237809670": {
+            "id": "1091017184237809670",
+            "text": "birth of a testnet :0https://twitter.com/lililashka/status/1091013713421889536\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1086678491179962368": {
+            "id": "1086678491179962368",
+            "text": "super excited for our Berlin reunion <3https://twitter.com/ETHBerlin/status/1086671650505019393\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085617189942689792": {
+            "id": "1085617189942689792",
+            "text": "check out the amazing website for the G\u00f6rli testnet and G\u00f6rlicon!!https://goerli.net\u00a0",
+            "username": "elizabethereum",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1081673816173105152": {
+            "id": "1081673816173105152",
+            "text": "hello sir, could you please direct me to the nearest cryptography atm",
+            "username": "elizabethereum",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072737400592322562": {
+            "id": "1072737400592322562",
+            "text": "to watch later https://twitter.com/jaydeem31/status/1072535078557896704\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1069304647473598464": {
+            "id": "1069304647473598464",
+            "text": "to read laterhttps://twitter.com/EthereumJesus/status/1069157444289421312\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1069304375074586626": {
+            "id": "1069304375074586626",
+            "text": "reading walkaway by @doctorow, very upset at certain character deaths :| otherwise an enjoyable read",
+            "username": "elizabethereum",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063498924789547008": {
+            "id": "1063498924789547008",
+            "text": "I wish I could angry react this.https://twitter.com/msdev/status/1063112391402102791\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060367347582676992": {
+            "id": "1060367347582676992",
+            "text": "really disturbing stuff happening, is there anything we can do other than watch these pop up on satellite photos? https://twitter.com/Narodism/status/1060317445146271744\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060189682112311297": {
+            "id": "1060189682112311297",
+            "text": "let's work together to include everyone and discuss how to spread ethereum hacking fun across the world :)https://twitter.com/ChainSafeth/status/1060170947473358848\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058038598178664448": {
+            "id": "1058038598178664448",
+            "text": "awesome talk and explanation of VDFs, will definitely need to look into them morehttps://twitter.com/drakefjustin/status/1057981173555781632\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058037720361111552": {
+            "id": "1058037720361111552",
+            "text": "was disappointed to hear this, especially when he said that darknet markets are a tiny percentage of crypto users. did he forget how much bitcoin was seized by the US government when they took down silk road? https://twitter.com/k4l1r/status/1057960184969117697\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058037193099350018": {
+            "id": "1058037193099350018",
+            "text": "such a joke lolhttps://twitter.com/badcryptobitch/status/1057963657647325185\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058028413997498368": {
+            "id": "1058028413997498368",
+            "text": "sunset at #devcon4 in #Prague :)pic.twitter.com/IVn506Wdq3",
+            "username": "elizabethereum",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1057266157038780417": {
+            "id": "1057266157038780417",
+            "text": "me having fun at the @EFgrants science fair :)https://twitter.com/ChainSafeth/status/1057264780321406976\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 22,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1055141686681182208": {
+            "id": "1055141686681182208",
+            "text": "such an enjoyable talk @Narodism it's impossible to know where you're going without a clear visionhttps://twitter.com/web3foundation/status/1055114497961156613\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1055140339277877250": {
+            "id": "1055140339277877250",
+            "text": "such a fun time, really inspired to work towards a better future :)https://twitter.com/ChainSafeth/status/1055138331229671425\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1052007274640748546": {
+            "id": "1052007274640748546",
+            "text": "really exciting <3 thank you @EFgrants @ethereumhttps://twitter.com/ethereum/status/1051886425753436166\u00a0\u2026",
+            "username": "elizabethereum",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "holman": 1,
+        "ChainSafeth": 7,
+        "CharlieStLouis": 1,
+        "computerfact": 3,
+        "peter_szilagyi": 1,
+        "web3foundation": 1,
+        "thefrankbraun": 2,
+        "UofTBlockchain": 2,
+        "DeanEigenmann": 1,
+        "MPtherealMVP": 4,
+        "pri0m": 1,
+        "mikedemarais": 1,
+        "doctorow": 3,
+        "trent_vanepps": 1,
+        "badcryptobitch": 2,
+        "BoingBoing": 1,
+        "atvanguard": 1,
+        "ETHCapeTown": 1,
+        "josephdelong": 1,
+        "lrettig": 1,
+        "wilderko": 1,
+        "poanetwork": 1,
+        "MihailoBjelic": 1,
+        "EtherGirlfriend": 1,
+        "OKDunc": 1,
+        "recmo": 1,
+        "JosefJelacic": 2
+    },
+    "users_retweeted": [
+        "ChainSafeth",
+        "MPtherealMVP",
+        "computerfact",
+        "doctorow",
+        "thefrankbraun",
+        "UofTBlockchain",
+        "badcryptobitch",
+        "JosefJelacic",
+        "holman",
+        "CharlieStLouis",
+        "peter_szilagyi",
+        "web3foundation",
+        "DeanEigenmann",
+        "pri0m",
+        "mikedemarais",
+        "trent_vanepps",
+        "BoingBoing",
+        "atvanguard",
+        "ETHCapeTown",
+        "josephdelong",
+        "lrettig",
+        "wilderko",
+        "poanetwork",
+        "MihailoBjelic",
+        "EtherGirlfriend",
+        "OKDunc",
+        "recmo"
+    ]
+}

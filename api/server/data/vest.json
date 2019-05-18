@@ -1,0 +1,38 @@
+{
+    "is_complete": true,
+    "username": "vest",
+    "retweeted": {
+        "142527321142865921": {
+            "id": "142527321142865921",
+            "text": "De beste 10 tweets van 2011 volgens Twitter http://bit.ly/vQLDax\u00a0",
+            "username": "MarcelRenes",
+            "num_likes": 0,
+            "num_retweets": 9,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1118935261826519040": {
+            "id": "1118935261826519040",
+            "text": "We've moved (again) to @CambrianDev. Follow us there!",
+            "username": "vest",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "964420115411251200": {
+            "id": "964420115411251200",
+            "text": "Coming soon",
+            "username": "vest",
+            "num_likes": 17,
+            "num_retweets": 0,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "MarcelRenes": 1
+    },
+    "users_retweeted": [
+        "MarcelRenes"
+    ]
+}

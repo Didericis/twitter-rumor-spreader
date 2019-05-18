@@ -1,0 +1,51 @@
+{
+    "is_complete": true,
+    "username": "fiiiu_",
+    "retweeted": {
+        "1125438424427708417": {
+            "id": "1125438424427708417",
+            "text": " Attention \nWe have found a critical vulnerability in the @MakerDAO system while working on an audit for the @coinbase team. No funds are at risk, but if you have $MKR in the Voting contract, action is requiredhttps://medium.com/@ZeppelinOrg/makerdao-critical-vulnerability-notice-d581b30c9b39\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 350,
+            "num_retweets": 182,
+            "num_replies": 65
+        },
+        "1058433914094739457": {
+            "id": "1058433914094739457",
+            "text": "In the last 48h hours we believed that the escape room will stay unchallenged. That was before @zeppelin_os team showed up! They escaped the Underworld in 26 minutes!\nThey finished the last step and saved @VitalikButerin soul by transferring ownership to his public key. pic.twitter.com/XvSRKBQvI2",
+            "username": "hellhound_eth",
+            "num_likes": 34,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1058379916767645696": {
+            "id": "1058379916767645696",
+            "text": "Zeppelin as the only ones winning the escape room at Devcon ! Well done guys\n@hellhound_ethpic.twitter.com/id6FuWYRub",
+            "username": "solenefeuillu",
+            "num_likes": 57,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1045306112910790657": {
+            "id": "1045306112910790657",
+            "text": "Introducing TPL v1.0 - a method for assigning attribute metadata to Ethereum addresses for use by regulatory-compliant securities tokens and other projectshttps://blog.zeppelin.solutions/tpl-architecture-private-draft-1-a64f168a2f88\u00a0\u2026",
+            "username": "z0age",
+            "num_likes": 60,
+            "num_retweets": 27,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {},
+    "num_retweets_by_originator": {
+        "ZeppelinOrg": 1,
+        "hellhound_eth": 1,
+        "solenefeuillu": 1,
+        "z0age": 1
+    },
+    "users_retweeted": [
+        "ZeppelinOrg",
+        "hellhound_eth",
+        "solenefeuillu",
+        "z0age"
+    ]
+}

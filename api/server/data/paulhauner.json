@@ -1,0 +1,1191 @@
+{
+    "is_complete": true,
+    "username": "paulhauner",
+    "retweeted": {
+        "1123806204696891393": {
+            "id": "1123806204696891393",
+            "text": "The latest #lighthouse update is out!\n\nAchievements:\n- Re-licensed to Apache 2.0\n- Passing state-transition tests.\n- 25x faster merkle-roots.\n- Assisting with BLS standardization.\n\nUpcoming:\n- Spec v0.6.x\n- Discv5\n- Progress towards multi-client testnet.https://lighthouse.sigmaprime.io/update-10.html\u00a0",
+            "username": "sigp_io",
+            "num_likes": 62,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "1115234140461211648": {
+            "id": "1115234140461211648",
+            "text": "This week in crypto:\n\n-@ConsenSys announces startups chosen for Tachyon accelerator program \n-@sigp_io Eth2.0 testnet client live \n-@Rocket_Pool April development update \n-@ConnextNetwork's @Arjun_Bhuptani on the Into the Ether podcast \n\nMore https://ethhub.substack.com/p/ethhub-weekly-56\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 53,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1117989925624745986": {
+            "id": "1117989925624745986",
+            "text": "We're very excited to announce that our #Ethereum 2.0 implementation #Lighthouse has been re-licensed from GPLv2 to Apache 2.0! Many thanks to all our contributors who agreed to this change! Curious about what this means? Short thread ",
+            "username": "ethZed",
+            "num_likes": 86,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1116519318265577472": {
+            "id": "1116519318265577472",
+            "text": ".@AgeManning About the Lighthouse (@sigp_io ETH 2.0 client) architecture, after a great overview presented by @paulhauner #ethereum #eth2 #EDCONpic.twitter.com/BE6BhyI2cs",
+            "username": "protolambda",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1112846587133231104": {
+            "id": "1112846587133231104",
+            "text": "Latest #Lighthouse development update is out!\n\nhttps://lighthouse.sigmaprime.io/update-09.html\u00a0\n\nKudos to @paulhauner, @agemanning and the rest of the @sigp_io crew for all the hard work. Our beacon node is alive! \n\n#Ethereum #Serenity",
+            "username": "ethZed",
+            "num_likes": 29,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1112623979313795072": {
+            "id": "1112623979313795072",
+            "text": "LIghthouse #Ethereum 2.0 beacon node!\nTop: #Lighthouse beacon node: #libp2p ready, simplified spec (8 validators - demonstrative)\nMiddle: Validator Client - Gets duties signs/publishes blocks/attestations\nBottom: Second node - Syncs and gossips via #libp2p to first node.pic.twitter.com/gdok9fym1h",
+            "username": "AgeManning",
+            "num_likes": 84,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1111759000893341697": {
+            "id": "1111759000893341697",
+            "text": "The Nimbus MVP testnet is here! \n\nYes, it's open to the public and yes you can join us in pretending to be a validator!https://our.status.im/the-nimbus-mvp-testnet-is-here/\u00a0\u2026",
+            "username": "ethnimbus",
+            "num_likes": 309,
+            "num_retweets": 118,
+            "num_replies": 12
+        },
+        "1112116284055937025": {
+            "id": "1112116284055937025",
+            "text": "Completing another round of testing and bug squashing today... #Ethereum 2.0, rust beacon node, running on #libp2p demonstration vids inbound!\n#lighthousehttps://twitter.com/ethZed/status/1111499764418240512\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1111499764418240512": {
+            "id": "1111499764418240512",
+            "text": "From @paulhauner on the #Ethereum 2.0 implementers call: \"We should be running a short lived, single client testnet, in the next couple of days.\"\n\n@sigp_io's been working really hard on Lighthouse to reach this milestone. Stay tuned for an exciting public announcement!\n\n#Serenityhttps://twitter.com/dannyryan/status/1111310594617933824\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 92,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "1103674726466183174": {
+            "id": "1103674726466183174",
+            "text": "Slides from my #EthCC talk about Lighthouse, @sigp_io's Eth2.0 implementation, are now online! Is it a coincidence that the fire alarm went off when I started talking about fuzzing ?\nhttps://github.com/sigp/presentations/blob/master/Sigma%20Prime%20-%20Lighthouse%20-%20EthCC.pdf\u00a0\u2026\n#Ethereum #Serenityhttps://twitter.com/protolambda/status/1103238798199136257\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1104659673649688576": {
+            "id": "1104659673649688576",
+            "text": "Introducing: ZRNT (\"ZehRehNehTee\") - the minimal Serenity spec implementation. Credits to @drakefjustin @CarlBeek and Dankrad for their help starting this during #EthCC. It implements the full slot/block/epoch transitions and includes a test-run.  https://github.com/protolambda/zrnt\u00a0\u2026\n#ETH2",
+            "username": "protolambda",
+            "num_likes": 60,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1104463334760435712": {
+            "id": "1104463334760435712",
+            "text": "ETH2.0 beacon chain visualizer using @PegaSysEng Artemis client \n\n@josephdelong @0xzakpic.twitter.com/ZFY342nOI9",
+            "username": "gregthegreek",
+            "num_likes": 66,
+            "num_retweets": 14,
+            "num_replies": 7
+        },
+        "1100601731208134656": {
+            "id": "1100601731208134656",
+            "text": "Latest #Lighthouse update is out! Lots of progress was made over the last fortnight #Ethereum #Serenityhttps://lighthouse.sigmaprime.io/update-08.html\u00a0",
+            "username": "ethZed",
+            "num_likes": 70,
+            "num_retweets": 22,
+            "num_replies": 4
+        },
+        "1096460447266496512": {
+            "id": "1096460447266496512",
+            "text": "Eth2.0 spec release v0.3.0 \u2014 Let There Be Liquidity\nhttps://github.com/ethereum/eth2.0-specs/releases/tag/v0.3.0\u00a0\u2026\n\nThank you everyone for all the bug fixes, clarifications, and feedback that went into this release!",
+            "username": "dannyryan",
+            "num_likes": 209,
+            "num_retweets": 70,
+            "num_replies": 3
+        },
+        "1090974895381598208": {
+            "id": "1090974895381598208",
+            "text": "Today marks the very first ETH2.0 version release. Congrats everyone! https://github.com/ethereum/eth2.0-specs/releases/tag/v0.1\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 996,
+            "num_retweets": 296,
+            "num_replies": 37
+        },
+        "1090272649421508609": {
+            "id": "1090272649421508609",
+            "text": "The Beacon Spec for Eth 2.0 is getting closer to completion everyday! \nI created a schematic to help everyone understand the technicals of the spec.\nSVG on GitHub (contributions welcome): https://github.com/protolambda/beacon-schematic\u00a0\u2026\n#ethereum #eth2 #beaconchainpic.twitter.com/E7EMgTitcv",
+            "username": "protolambda",
+            "num_likes": 321,
+            "num_retweets": 117,
+            "num_replies": 23
+        },
+        "1089322523282423809": {
+            "id": "1089322523282423809",
+            "text": "Great talk by Vitalik on CBCifying beacon chain:\nhttps://youtu.be/EoNQUGsPvuU\u00a0\nSlides:https://docs.google.com/presentation/d/1kIurbXVXSY0YDoC8BzrfW_xP9XOwXZyEAGPdqcMt7VQ\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 21,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1087958287256113152": {
+            "id": "1087958287256113152",
+            "text": "ETH2.0 researchers AMA. Don't forget to get yours questions in!https://www.reddit.com/r/ethereum/comments/aivyyj/eth_20_researchers_ama_send_in_your_questions/\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1084784224169713664": {
+            "id": "1084784224169713664",
+            "text": "Meet Mo Dong @no89thkey @CelerNetwork , Vlad Trifa @vladounet @AmbrosusAMB nd Paul Hauner @paulhauner @sigmaprimev !\nNext wave of speakers will be announced soon! \nFirst 200 tickets get 10% off with token payment! http://edcon.io\u00a0\n#EDCON #EDCON2019pic.twitter.com/dGmtdCgZlR",
+            "username": "Linktimetech",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1082539639129268225": {
+            "id": "1082539639129268225",
+            "text": "Happy New Year, friends! Thought I'd kick off the new year with some updates on what we've got going on at http://Cryptoeconomics.study\u00a0 lately",
+            "username": "kevinjho_",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1082178599212462080": {
+            "id": "1082178599212462080",
+            "text": "First speakers have been announced for #EDCON2019 in Syd. Including @ethereum's @VitalikButerin and @sigp_io's @paulhauner.\n90 days to go and we'll kick off with a hackathon!  Early bird tickers also available. \nVisit the official website for details \nhttps://www.edcon.io/#speakerId\u00a0pic.twitter.com/X2WP4gi9n7",
+            "username": "abelotti",
+            "num_likes": 77,
+            "num_retweets": 19,
+            "num_replies": 8
+        },
+        "1071944600170881025": {
+            "id": "1071944600170881025",
+            "text": "The Australian #Blockchain ecosystem has been updated to be a strong 124 different organisations!! Immensely looking forward to seeing this #crypto space grow nationally and internationally in the coming years @bitfwdxyz\n\nLink to all the projects: https://medium.com/bitfwd/whats-happening-in-the-australian-blockchain-ecosystem-3553c028d134t\u00a0\u2026pic.twitter.com/WdIGKKJrhn",
+            "username": "tomterado",
+            "num_likes": 194,
+            "num_retweets": 64,
+            "num_replies": 25
+        },
+        "1071706424324034560": {
+            "id": "1071706424324034560",
+            "text": "CoinDesk looks at the eight teams across the globe spearheading the push to create ethereum 2.0 \u2013 the next iteration of the blockchain network.http://ow.ly/QBZc30mUQTb\u00a0",
+            "username": "coindesk",
+            "num_likes": 267,
+            "num_retweets": 129,
+            "num_replies": 9
+        },
+        "1066807737865007104": {
+            "id": "1066807737865007104",
+            "text": "Here's my Ethereum @scratch extension. It can send ether, deploy token contracts and send token transactions. https://github.com/naddison36/eth-scratch/tree/master#scratchx-ethereum-extension-block\u00a0\u2026pic.twitter.com/bDj7i2SG9c",
+            "username": "naddison",
+            "num_likes": 112,
+            "num_retweets": 40,
+            "num_replies": 7
+        },
+        "1067715715342483456": {
+            "id": "1067715715342483456",
+            "text": "Finally got to publish this. @EthMagicians council of Prague Ethereum 2.0 Q&A with @dannyryan @lrettig @paulhauner @VitalikButerin @jcksie and morehttps://link.medium.com/7mJ4Bk72cS\u00a0",
+            "username": "MPtherealMVP",
+            "num_likes": 31,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "1067385282402619393": {
+            "id": "1067385282402619393",
+            "text": "10 Rules for the Secure Use of Cryptocurrency Hardware\u00a0Wallets http://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/\u00a0\u2026pic.twitter.com/aufjtaIs2q",
+            "username": "trailofbits",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1058723355308765184": {
+            "id": "1058723355308765184",
+            "text": "The Eth2.0 workshops on Monday were immensely productive. Sessions on attacks, fork choice rules, P2P, peer discovery, state execution, etc.\n\nWe walked through the @libp2p daemon, conducted architecture overviews, and brainstormed on ideas for sharded discovery \n#devcon4pic.twitter.com/7va9RbQwp7",
+            "username": "raulvk",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1056831593401237504": {
+            "id": "1056831593401237504",
+            "text": "The #ETH2 gathering kicks off in Prague. @dannyryan introduces the plan for the day and each client team working on Ethereum 2.0 introduces themselves and their project. It's really great to put faces to names after being on calls together for months.pic.twitter.com/DWJAg4KjOa",
+            "username": "lrettig",
+            "num_likes": 43,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1056105512125849600": {
+            "id": "1056105512125849600",
+            "text": "less trust, more rust",
+            "username": "ralexstokes",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1053965060979060739": {
+            "id": "1053965060979060739",
+            "text": "We've just released a new blog post on security considerations for lighthouse, our eth2.0 client: https://lighthouse.sigmaprime.io/fuzzing-lighthouse.html\u00a0\u2026 #Ethereum #infosec #shasper #fuzzing",
+            "username": "ethZed",
+            "num_likes": 28,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1047564137201512449": {
+            "id": "1047564137201512449",
+            "text": "Our first release including a local demo of Ethereum 2.0 so far, is live! https://medium.com/prysmatic-labs/ethereum-2-0-prysm-demo-release-v0-0-0-78d33e9cdbdf\u00a0\u2026\n\nCome check out the following:\n Spin up a beacon chain node from a genesis config\n Connect a validator to the beacon node\n Validator gets shuffled into a shard and slot",
+            "username": "prylabs",
+            "num_likes": 72,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "1048055567195942912": {
+            "id": "1048055567195942912",
+            "text": "Want to be part of a great project? Come help us develop Ethereum 2.0! https://github.com/sigp/lighthouse#contributing\u00a0\u2026 #Ethereum #Rust",
+            "username": "ethZed",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1047179216049958912": {
+            "id": "1047179216049958912",
+            "text": "Casper+sharding bi-weekly development update from @prylabs. Oh @ShasperS is gonna love this one.https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-14-prysmatic-labs-349a97a8c627\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1045114895228973057": {
+            "id": "1045114895228973057",
+            "text": "Curious about the potential use of VDFs in eth2.0?\n\n@drakefjustin published an in-depth explanation, analysis, and discussion of the technique herehttps://ethresear.ch/t/minimal-vdf-randomness-beacon/3566\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 41,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1042559355919298560": {
+            "id": "1042559355919298560",
+            "text": "I've released the slides for my talk \"Solidity security: Breaking smart contracts for fun and profit\" given @AssethFR meetup last week. https://github.com/sigp/presentations/blob/master/Sigma%20Prime%20-%20Solidity%20security%20-%20Breaking%20smart%20contracts%20for%20fun%20and%20profit.pdf\u00a0\u2026 \nThanks @OCTOTechnology for having us! #Ethereum #Infosec #Solidity",
+            "username": "ethZed",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1042157604397608960": {
+            "id": "1042157604397608960",
+            "text": "Notes from eth2.0 Implementers Call #3https://github.com/ethresearch/eth2.0-pm/blob/master/eth2.0-implementers-calls/call_003.md\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 35,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1041724560805175296": {
+            "id": "1041724560805175296",
+            "text": "If you've been wondering about what's going on with eth2.0, I highly recommend giving this a listen. I had a long conversation on @HashingItOutPod discussing the motivations, design, and roadmap of eth2.0.https://thebitcoinpodcast.com/hashing-it-out-22/\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 77,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1038364587995947008": {
+            "id": "1038364587995947008",
+            "text": "High-level sharding update in 25 minutes. Various cool concepts such as system/data/state separation, delay functions, honesty/rationality assumptions and committee sampling, attestations, Casper voting, crosslinks, proofs of custody, BLS signatures.https://youtu.be/J6xO7DH20Js\u00a0",
+            "username": "drakefjustin",
+            "num_likes": 71,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "1037943994766905344": {
+            "id": "1037943994766905344",
+            "text": "https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e\u00a0\u2026 Ethereum 2.0 is on the way and is being actively developed by the community. Get the lo-down on the who's who in the development scene. #ETHEREUM #casper #blockchain #sharding",
+            "username": "Rocket_Pool",
+            "num_likes": 33,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1021405766987796480": {
+            "id": "1021405766987796480",
+            "text": "\"VDFs are not Proof of Work -- At least not in the ways you were worried about\"https://medium.com/@djrtwo/vdfs-are-not-proof-of-work-91ba3bec2bf4\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1014002878162194432": {
+            "id": "1014002878162194432",
+            "text": "Tech team helping almost 500 people! Wow! Great team, thanks for your support!!pic.twitter.com/Bw4wq46tfK",
+            "username": "SydneyHC",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1011945708340109312": {
+            "id": "1011945708340109312",
+            "text": "\"A definition of purity in the Ethereum EVM with strategies for detecting purity on-chain\".\nNice document by @paulhaunerhttps://github.com/sigp/opcode-purity\u00a0\u2026",
+            "username": "maurelian_",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1003706132618207232": {
+            "id": "1003706132618207232",
+            "text": "pic.twitter.com/Dxz4vkyioa",
+            "username": "LefterisJP",
+            "num_likes": 174,
+            "num_retweets": 39,
+            "num_replies": 8
+        },
+        "998873951190376451": {
+            "id": "998873951190376451",
+            "text": "\"What is a security audit?\"\nWith insights shared by @fubuloubu, @davehoover, @mhswende, @paulhaunerhttps://ethereum-magicians.org/t/what-is-a-security-audit/358?u=maurelian\u00a0\u2026",
+            "username": "maurelian_",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "989164771420368896": {
+            "id": "989164771420368896",
+            "text": "This article in FT about IOTA is... wow.https://www.ft.com/content/f38d92ff-b2e4-3aff-8978-e70c6eefda73\u00a0\u2026",
+            "username": "matthew_d_green",
+            "num_likes": 35,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "984349040367296512": {
+            "id": "984349040367296512",
+            "text": "I just published \u201cHITB2018AMS: Smashing Smart Contracts for Fun and Real Profit\u201d https://medium.com/p/hitb2018ams-smashing-smart-contracts-for-fun-and-real-profit-720f5e3ac777\u00a0\u2026",
+            "username": "muellerberndt",
+            "num_likes": 117,
+            "num_retweets": 55,
+            "num_replies": 4
+        },
+        "981196194075602945": {
+            "id": "981196194075602945",
+            "text": "Simple & effective recent/upcoming improvements to make solidity safer and more readable (w/ PR#s):\n* Constructors are defined using the ``constructor`` keyword: 3635\n* `emit` keyword required to log an event: 3538\n* Interface functions default to `external` visibility: 3699",
+            "username": "maurelian_",
+            "num_likes": 32,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "977559925680467968": {
+            "id": "977559925680467968",
+            "text": "Want to freak yourself out? I'm gonna show just how much of your information the likes of Facebook and Google store about you without you even realising it",
+            "username": "iamdylancurran",
+            "num_likes": 254146,
+            "num_retweets": 158839,
+            "num_replies": 4461
+        },
+        "978740900128960513": {
+            "id": "978740900128960513",
+            "text": "Check out information about an upcoming course about the CBC Casper consensus protocols!\n\nRegister if you want to give us your data to contact you about this and other cbc-Casper related opportunities :)https://medium.com/blockchain-education-network/ben-presents-cbc-casper-crash-course-with-vlad-zamfir-4e0ae7e32cb2\u00a0\u2026",
+            "username": "VladZamfir",
+            "num_likes": 162,
+            "num_retweets": 60,
+            "num_replies": 17
+        },
+        "978559771212165120": {
+            "id": "978559771212165120",
+            "text": " @letsencrypt now offers free wildcard certs.https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579\u00a0\u2026",
+            "username": "heapwolf",
+            "num_likes": 92,
+            "num_retweets": 47,
+            "num_replies": 1
+        },
+        "975939868537835521": {
+            "id": "975939868537835521",
+            "text": "If we can raise $50m for decentralized (insert stupid ICO idea here), surely we can crowdfund for season 4 of Rick and Morty?  I'll give 0.25 ETH to whowever comes up with the best pun or witticism.https://www.highsnobiety.com/p/rick-and-morty-season-4-not-renewed/\u00a0\u2026",
+            "username": "AriDavidPaul",
+            "num_likes": 918,
+            "num_retweets": 229,
+            "num_replies": 144
+        },
+        "973318580350496768": {
+            "id": "973318580350496768",
+            "text": "Want the latest #Ethereum and #InfoSec news? Sign up to our weekly newsletter! http://newsletter.sigmaprime.io\u00a0  - Latest edition: https://mailchi.mp/11ec1e8359f4/sigma-prime-blockchain-cybersecurity-weekly-newsletter-185593\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "961973703838810112": {
+            "id": "961973703838810112",
+            "text": "Review of IOTA by @abrkn\n\ntl;dr: Useless for IoT because the Tangle DAG tech just adds complexity without changing the fundamental problem of needing all blockchain data to detect double-spend.\n\ntl;dr\u00b2: IOTA doesn't scale.\n\n https://shitcoin.com/iota-cannot-be-used-for-iot-loss-of-funds-may-occur-e45b1ed9dd6b\u00a0\u2026",
+            "username": "peterktodd",
+            "num_likes": 736,
+            "num_retweets": 292,
+            "num_replies": 85
+        }
+    },
+    "tweeted": {
+        "1123407012371488769": {
+            "id": "1123407012371488769",
+            "text": "You can find our library here: https://github.com/sigp/signature-schemes\u00a0\u2026https://twitter.com/sigp_io/status/1123406615573458944\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1112605017196756992": {
+            "id": "1112605017196756992",
+            "text": "8 #lighthouse nodes syncing with block and attestation production from our validator client. Networked with rust-libp2p gossipsub, via an AWS server!  #eth2 @sigp_io @AgeManning @sproulM_ @spble @ethZedpic.twitter.com/KRZq0hqbtN",
+            "username": "paulhauner",
+            "num_likes": 256,
+            "num_retweets": 60,
+            "num_replies": 25
+        },
+        "1108194497324683265": {
+            "id": "1108194497324683265",
+            "text": "We're super excited to be working with @sproulM_ on #lighthouse https://twitter.com/sproulM_/status/1102518324020240384\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1095202882360532992": {
+            "id": "1095202882360532992",
+            "text": "This is my 2**8'th tweet.",
+            "username": "paulhauner",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1094802510542336000": {
+            "id": "1094802510542336000",
+            "text": "Hear, hear!https://twitter.com/dannyryan/status/1094796259762700288\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093758055425044480": {
+            "id": "1093758055425044480",
+            "text": "Hopefully this provides some clarity! Of course, tweet back with questions. Special thanks to @ameensol for pointing out that some expectation-setting is required. ",
+            "username": "paulhauner",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1093758054200299520": {
+            "id": "1093758054200299520",
+            "text": "At a minimum, I think we should expect short-lived , single-client , public  testnets. I also suspect we're going to see some short-lived , multi-client , public  testnets. What I don't expect to see is a long-lived , multi-client , public  testnet. 9/n",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758053013323776": {
+            "id": "1093758053013323776",
+            "text": "Luckily, we don't need to sit on our hands until we have it on a platter from the EF. In the meantime, we can be working on short-lived single and multi-client testnets. These are great stepping stones towards the testnet and major achievements on their own.  8/n",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758051834707968": {
+            "id": "1093758051834707968",
+            "text": "The EF are designing the specification and they will most likely produce the test vectors, so ultimately, we're waiting on research to mature. That being said, it's our job as implementers to help them and we'll be doing so!  7/n",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758050626809857": {
+            "id": "1093758050626809857",
+            "text": "To get to the  testnet, we need:\n\n- A specification version that we all agree is fit for purpose.\n- Test-vectors so implementations can determine if their implementation is correct before attempting to debug a live system.  6/n",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758049519423490": {
+            "id": "1093758049519423490",
+            "text": "So ideally we want to see a long-lived, multi-client, public testnet. That's the holy grail . However, what do we need to get there? 5/n",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758048252776448": {
+            "id": "1093758048252776448",
+            "text": "Testnets can be short-lived  or long-lived . Short-lived testnets give no guarantee that the blockchain will still exist next week, whilst long-lived testnets are harder to maintain. A long-lived testnet more accurately reflects the real-world demands of Ethereum. 4/n",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758047120281600": {
+            "id": "1093758047120281600",
+            "text": "Testnets can also be public  or private . Private testnets are handy for developers but they're not realistic. Ethereum is a public blockchain and therefore needs to withstand all the harshness of the public internet. 3/n",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758045975236610": {
+            "id": "1093758045975236610",
+            "text": "Testnets can be single-client  or multi-client . Single-client testnets are a great achievement, but they don't test interoperability. Eth 2.0 seeks client diversity and interoperability is a must. 2/n",
+            "username": "paulhauner",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1093758044725342209": {
+            "id": "1093758044725342209",
+            "text": "The phrase \"Q1 2019 Beacon Chain Testnet\" has been thrown around lately.\n\nA testnet can have multiple different qualities and we seek to explore what to expect in Q1. 1/nhttps://twitter.com/sigp_io/status/1093750944590778368\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 63,
+            "num_retweets": 26,
+            "num_replies": 17
+        },
+        "1092591771626795008": {
+            "id": "1092591771626795008",
+            "text": "Thanks @GetGitcoin!https://twitter.com/gitcoin/status/1092547648446492672\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1090134949615652865": {
+            "id": "1090134949615652865",
+            "text": "Exciting news for #lighthouse!\n\nGossipsub allows efficiently segregating the p2p network into topics. Each shard will have its own topic, avoiding a noisy global broadcast domain.https://twitter.com/sigp_io/status/1090133542728654848\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 45,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1089799378645147648": {
+            "id": "1089799378645147648",
+            "text": "Bench-marking an Eth2 network with 300k validators.\n\nThere's something oddly satisfying about maxing out a hex-core i7. I think it's the programmers equivalent of a burnout.pic.twitter.com/2Cb2NfsSqd",
+            "username": "paulhauner",
+            "num_likes": 440,
+            "num_retweets": 115,
+            "num_replies": 18
+        },
+        "1085455025550196737": {
+            "id": "1085455025550196737",
+            "text": "We compiled some info on Sydney for #EDCON guests! We appreciated the  efforts from Prague locals, so we're paying it back.  https://bit.ly/2VWhFuA\u00a0\n\n- Accom and suburb info w/ map.\n- Transport tips\n- Culture\n- Australian-English\n- Safety\n\nDon't forget your pluggas!  ",
+            "username": "paulhauner",
+            "num_likes": 44,
+            "num_retweets": 13,
+            "num_replies": 9
+        },
+        "1084735363745103874": {
+            "id": "1084735363745103874",
+            "text": "I hope this was helpful and you have more of an understanding of the BN/VC relationship. Please let me know if you have any questions, comments or disagreements! 10/10",
+            "username": "paulhauner",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1084735362402942977": {
+            "id": "1084735362402942977",
+            "text": "As we build out the VC, the BN API will crystallize. Once we're across the requirements, we'll start liaising with other Eth 2.0 teams to ensure we all agree upon a common API. Personally, I'd love to see BN/VC interoperability across implementations. 9/10",
+            "username": "paulhauner",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1084735360762970112": {
+            "id": "1084735360762970112",
+            "text": "Our VC is taking shape in lighthouse PR#154 (https://bit.ly/2CorpFg\u00a0). Now, it's rough and focused on ensuring the gRPC APIs are solid. Later, we'll be focusing on security. Goals: security review from @trailofbits and formal verification from @rv_inc. 8/10",
+            "username": "paulhauner",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1084735358837747712": {
+            "id": "1084735358837747712",
+            "text": "Slash protection involves ensuring that a validator never signs two messages that are conflicting (equivocating, in CBC-speak). If a VC is fastidious about managing it's history, it's impossible for a malicious BN to cause it to produce \"slashable\" messages. 7/10",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1084735357587869696": {
+            "id": "1084735357587869696",
+            "text": "Apart from keeping a schedule, there are two other important roles filled by the VC:\n\n- Key management\n- Slash protection\n\nFor key management, an ideal VC will delegate signing to a hardware security module (HSM) (@LedgerHQ, etc). 6/10",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1084735356216389632": {
+            "id": "1084735356216389632",
+            "text": "The VC also keeps track of the time. Whenever it is time for a validator to act (e.g., produce a block, attest to a shard, etc) the VC requests some data from the BN, signs/completes that data and sends it back. 5/10",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1084735354836377600": {
+            "id": "1084735354836377600",
+            "text": "The VC is a specialized, thin program run by Eth 2.0 validators. It connects to the BN via gRPC and reads the \"shuffling\", the delegation of duties among validators. 4/10",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1084735353477566469": {
+            "id": "1084735353477566469",
+            "text": "A \"validator client\" (VC) is a separate program to the \"beacon node\" (BN). The BN connects to the p2p network and performs the heavy lifting in syncing the chain and choosing the canonical head. It's much like Parity or Geth. 3/10",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1084735352080723968": {
+            "id": "1084735352080723968",
+            "text": "We're using #gRPC for comms between the \"validator client\" and the \"beacon node\" binaries (programs). Community feedback suggests people are keen for gRPC. It's a great framework from Google, if you're not familiar with it, check it out. 2/10",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1084735350537211909": {
+            "id": "1084735350537211909",
+            "text": "Sorry Twitter , I've been quiet about #Lighthouse recently. Updates:\n\n- Notes + video from lighthouse call #0: https://bit.ly/2squTlN\u00a0\n- Text update (notes are better, IMO): https://bit.ly/2Fvs5LX\u00a0\n\nMost interestingly, we've started the validator client. Yay!  More... 1/10",
+            "username": "paulhauner",
+            "num_likes": 37,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1075243557127041024": {
+            "id": "1075243557127041024",
+            "text": "So, @VitalikButerin just contributed 1,000 ETH to #lighthouse development. We're very appreciative for this and will turn it into dev power!  We're going to progressively liquidate it into $$ as it is relatively stable compared to labor. Look forward to more Eth 2.0 progress!https://twitter.com/VitalikButerin/status/1075210851278295040\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 78,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1074897674929823744": {
+            "id": "1074897674929823744",
+            "text": "We're going to start processing applications in the next couple of days, so now's a good time to apply if you've been considering it! https://twitter.com/paulhauner/status/1072023255882452992\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 12,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1074837429423489024": {
+            "id": "1074837429423489024",
+            "text": "@threadreaderapp unroll :)",
+            "username": "paulhauner",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023269060993026": {
+            "id": "1072023269060993026",
+            "text": "That's all from me. I'll gauge how this new update format goes. If we get more input that from the blog posts, I'll stick with it and save the blog for large volume posts (and possible archiving these tweet storms)  Hit us up with any feedback! 12/12",
+            "username": "paulhauner",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023267647545344": {
+            "id": "1072023267647545344",
+            "text": ".@jcksie has raised discussion about swapping the endianness used in the spec. @ethstatus are targeting low-resource devices which is a challenging and necessary endeavor. Swapping from big to little gets us closer to the hardware. Get involved: https://bit.ly/2RHvFG6\u00a0 11/12",
+            "username": "paulhauner",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023266280169472": {
+            "id": "1072023266280169472",
+            "text": ".@drakefjustin has reached out to the community for input regarding the economics of interest rates for validators. I think this is a great initiative and would love to see more discussion here. Get involved: https://bit.ly/2L5l0m5\u00a0 10/12",
+            "username": "paulhauner",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023265017647104": {
+            "id": "1072023265017647104",
+            "text": "ETH 2.0 clients seem keen to replace the present JSON RPC with a gRPC alternative. I support this, but I'd love to hear some thoughts from existing client devs. I haven't heard any strong negative arguments yet, I'd love to hear some for the sake of a balanced discussion.  9/12",
+            "username": "paulhauner",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 5
+        },
+        "1072023263633563648": {
+            "id": "1072023263633563648",
+            "text": "The recent changes in the ETH 2.0 spec have made us reconsider how we go about building the client. We're planning to switch to some of the more static components (e.g., libp2p, RPC interfaces, helper functions, etc) until there's a release candidate of the spec. 8/12",
+            "username": "paulhauner",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1072023262459088896": {
+            "id": "1072023262459088896",
+            "text": "The ETH 2.0 spec has changed significantly in the past weeks which has antiquated some of our more complex functions (block validation, etc) which is painful. However, I support the updates so it's a long-term gain  Hopefully all involved can learn from this. 7/12",
+            "username": "paulhauner",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023261158883329": {
+            "id": "1072023261158883329",
+            "text": "I see two themes for funding open-source:\n\n1. A commercial offering \"around\" the product. E.g.  consultancy, \"wrapper\" products.\n2. Donations from profitable stakeholders. E.g. grants, in-protocol DAOs.\n\nBoth need profitable companies and (1) keeps profits closer to devs. 6/12",
+            "username": "paulhauner",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023259892174851": {
+            "id": "1072023259892174851",
+            "text": "At the last @SydEthereum meetup , I presented about #Lighthouse and the challenges for businesses producing open-source public goods. Their support was overwhelming and I'm keen to be more open about the challenges. 5/12",
+            "username": "paulhauner",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023258529026048": {
+            "id": "1072023258529026048",
+            "text": "We're excited to see some Rust-newbies contributing to the code base. To me this means that we've created an an approachable project and we're helping  contributors learn as they help us. I hope this is the case!  4/12",
+            "username": "paulhauner",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023257283358722": {
+            "id": "1072023257283358722",
+            "text": "#Lighthouse is seeing some repeat contributors from the community, which is really exciting. Our SSZ Tree Hash implementation is underway by mjkeating and g-r-a-n-t has been adding tests. These contributions are hugely appreciated, thank you  3/12",
+            "username": "paulhauner",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1072023255882452992": {
+            "id": "1072023255882452992",
+            "text": "#SigmaPrime is still in the process of hiring a new Rust developer . We've had some great applicants but we'd love to see some more. If you want to build and contribute to the security of Ethereum, you should apply: https://bit.ly/2QmGLnl\u00a0 2/12",
+            "username": "paulhauner",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1072023254322176000": {
+            "id": "1072023254322176000",
+            "text": "This #Lighthouse update will be in tweet-storm form!  This is an experiment in gaining more input from the community. If it's easier for y'all to comment, maybe we'll hear more from you!\n\nFYI, Lighthouse is a security-first Ethereum 2.0: Serenity client in @rustlang! 1/12",
+            "username": "paulhauner",
+            "num_likes": 103,
+            "num_retweets": 31,
+            "num_replies": 4
+        },
+        "1067170316768632839": {
+            "id": "1067170316768632839",
+            "text": "Are you interested in\n\n- Rust \n- PoS systems\n- Being a core ETH 2.0 dev\n- Infosec and exploiting software\n\nWe're hiring in a bear market as we built our business on hard work and core services (and modesty, of course). \n\nSydney-based preferred. Apply: https://goo.gl/Z4tXDR\u00a0 ",
+            "username": "paulhauner",
+            "num_likes": 82,
+            "num_retweets": 25,
+            "num_replies": 3
+        },
+        "1066506895353999360": {
+            "id": "1066506895353999360",
+            "text": "New lighthouse update! Quiet on the technology side, but news on the team side! @ralexstokes has joined as a regular contributor and we've posted an listing for a Rust dev! Check out the listing here: https://goo.gl/BTVVuN\u00a0\n\nThe blog post lives here:https://goo.gl/AesNc9\u00a0",
+            "username": "paulhauner",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1063704056315723776": {
+            "id": "1063704056315723776",
+            "text": "I had an uncontrollable urge to retweet this and I\u2019m not sure why... https://twitter.com/evan_van_ness/status/1063579004190498816\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1062823146351460353": {
+            "id": "1062823146351460353",
+            "text": "I imagine such state-run chains would be a hybrid of PoS/PoA.\n\nState authority would be required to become a block producer and stake would not necessarily be financial; potentially just points that are recognised in some extra-protocol judicial system.https://twitter.com/IMFNews/status/1062519248659070977\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060188770790559744": {
+            "id": "1060188770790559744",
+            "text": "New lighthouse update, thanks to @spble!\n\n#Devcon4 was a great chance to communicate with the other parties working on Serenity. It was nice to put some faces to Github handles. Although it was fun, I'm keen to get back to producing software.https://lighthouse.sigmaprime.io/update-03.html\u00a0",
+            "username": "paulhauner",
+            "num_likes": 31,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1058828773972496384": {
+            "id": "1058828773972496384",
+            "text": "It would be great to see hardware wallets designed for Ethereum PoS validation that keep internal state to protect validators from slashing.\n\nIf a device keeps a consistent history of previously signed attestations it can protect a validator from creating slashable messages.",
+            "username": "paulhauner",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1057766078321958913": {
+            "id": "1057766078321958913",
+            "text": "Today is the 10th anniversary of the Bitcoin white paper, day one of Ethereum #devcon and the second birthday of @sigp_io ",
+            "username": "paulhauner",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1057599870964547584": {
+            "id": "1057599870964547584",
+            "text": "I'm personally a fan of \"Serenity\" over \"2.0\" or \"Shasper\". It accurately reflects the Ethereum road map and I find it a pleasing word. I hope that this term catches on.https://github.com/sigp/lighthouse/pull/65\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1057269189659058176": {
+            "id": "1057269189659058176",
+            "text": "Hanging out in the grantees room at #devcon, representing lighthouse. If you want to chat Eth 2.0 come join me ",
+            "username": "paulhauner",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1054760656900157441": {
+            "id": "1054760656900157441",
+            "text": "We performed a security review for @ethstatus! Check out @ethZed's write-up for more info. Unsurprisingly, they were a pleasure to work with! https://twitter.com/ethZed/status/1054759111710011392\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054431989942628353": {
+            "id": "1054431989942628353",
+            "text": "Lighthouse update by @AgeManning:\n \n- EF grant \n- libp2p collabs with @ParityTech\n- fuzzing for vulns by @ethZed\n- block pre-processing merged\n- more contributors \n\nWe\u2019re at the @web3foundation summit this week, come say hello!https://lighthouse.sigmaprime.io/update-02.html\u00a0",
+            "username": "paulhauner",
+            "num_likes": 27,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1052089802353496064": {
+            "id": "1052089802353496064",
+            "text": "#55 is the best one, IMO. Involves touching core consensus code and is fairly easy.https://goo.gl/c21tPn\u00a0",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1052086415205502976": {
+            "id": "1052086415205502976",
+            "text": "Interested in being the n'th contributor to an open-source Eth 2.0 client where n < 10? Look no further: Lighthouse is producing good_first_issues for those who wish to help! Thank you! \nhttps://goo.gl/FqVKQs\u00a0",
+            "username": "paulhauner",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1051935107496300544": {
+            "id": "1051935107496300544",
+            "text": "We\u2019re very excited to receive a grant for our Shasper client from the Ethereum Foundation! \n\nWe\u2019ve been building Lighthouse since the earliest days of the spec and we\u2019ll continue building with maximal intensity! Eth is gonna scale!!https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 108,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1048457088253317120": {
+            "id": "1048457088253317120",
+            "text": "In case you were wondering, producing fortnightly updates was 100% our original idea and not stolen from @prylabs. Theirs are bi-weekly. Big difference.",
+            "username": "paulhauner",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1048052979465510912": {
+            "id": "1048052979465510912",
+            "text": "We just published an update on our Eth 2.0 progress! Achievements this fortnight:\n\n- BLS aggregate signature verification\n- Block pre-processing & benchmarks\n- SimpleSerialize implementation and draft spec\n\nhttps://lighthouse.sigmaprime.io/update-01.html\u00a0\n@ethZed @AgeManning @_chrisnatoli",
+            "username": "paulhauner",
+            "num_likes": 178,
+            "num_retweets": 44,
+            "num_replies": 14
+        },
+        "1047042204819173377": {
+            "id": "1047042204819173377",
+            "text": "If you were in the Eth 2.0 call, you might have heard that Lighthouse has been doing block processing benchmarks!\n\nOn my consumer laptop (X1 carbon, i5) and w/ 10% of ETH supply staking we can validate a block and its BLS signatures in 0.066 seconds.https://github.com/ethereum/beacon_chain/issues/103#issuecomment-425100871\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 77,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1045280682082062339": {
+            "id": "1045280682082062339",
+            "text": "If you\u2019re having trouble viewing it on your phone, switch Github to desktop mode ",
+            "username": "paulhauner",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1045279151744118785": {
+            "id": "1045279151744118785",
+            "text": "Sigma Prime has two core offerings; our Eth 2.0 client and infosec services. On our core team we have experienced security professionals targeting smart contract security. \n\nHere\u2019s an example of what you can expect when you engage us: https://github.com/sigp/havven-audit/tree/master/2018-06-06_b5a6cdb\u00a0\u2026 (It\u2019s the PDF)",
+            "username": "paulhauner",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1042996127820181504": {
+            "id": "1042996127820181504",
+            "text": "I'm sharing because I've never met someone else who uses it and I found it by accident. I think it's a great tool, well done to the contributors.",
+            "username": "paulhauner",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1041607706392506374": {
+            "id": "1041607706392506374",
+            "text": "Just to be clear, this is a work in progress!",
+            "username": "paulhauner",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1041597854731493376": {
+            "id": "1041597854731493376",
+            "text": "We're excited to announce a brand-new Ethereum 2.0 implementation in Rust! We've been working on this publicly for a couple of months now but we're making it official with a blog post. Watch this space, we'll keep you posted with regular updates. @sigp_iohttps://lighthouse.sigmaprime.io/update-00.html\u00a0",
+            "username": "paulhauner",
+            "num_likes": 135,
+            "num_retweets": 41,
+            "num_replies": 5
+        },
+        "1038148113146556416": {
+            "id": "1038148113146556416",
+            "text": "Good luck to the @ETHBerlin hackers! It was a pleasure to volunteer on the registration desk.",
+            "username": "paulhauner",
+            "num_likes": 28,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1033250889610350592": {
+            "id": "1033250889610350592",
+            "text": "How the Ethereum 2.0 shuffling algorithm works. It's a deterministic, pseudo-random shuffle designed to ensure validators are distributed evenly across blocks and shards.https://notes.ethereum.org/s/HJJwWYCUX\u00a0",
+            "username": "paulhauner",
+            "num_likes": 38,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1031488568340824064": {
+            "id": "1031488568340824064",
+            "text": "Looking forward to it! (We\u2019re actually @sigp_io, but that\u2019s cool!)https://twitter.com/SydEthereum/status/1031397539205894144\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1025042239251050496": {
+            "id": "1025042239251050496",
+            "text": "When life gives you O(c), make shardonnay.",
+            "username": "paulhauner",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1024504704548519936": {
+            "id": "1024504704548519936",
+            "text": "Very interestinghttps://twitter.com/peter_szilagyi/status/1024356263164092416\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1021352291889102848": {
+            "id": "1021352291889102848",
+            "text": "Then suffer because the Python impl. didn't reject these solutions and the 21 bit limit wasn't obvious until you were several days deep into an OpenGL impl.",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1021351883225554944": {
+            "id": "1021351883225554944",
+            "text": "Theoretical (viz., not possible) optimisations on Equihash. Expand your list size and get more post-difficulty-filter solutions, faster. Then have those solutions rejected because they're more than 21 bits.https://twitter.com/AgeManning/status/1021341103805513729\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1019138254388359168": {
+            "id": "1019138254388359168",
+            "text": "99% quantification is not guaranteed.",
+            "username": "paulhauner",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1019137430845157376": {
+            "id": "1019137430845157376",
+            "text": "Our Rust implementation of the Ethereum Beacon Chain spec is now 99% on-par with the reference impl. We're missing a few BLS features and a couple of integration tests.\n\nIt's called \"Lighthouse\" -- another form of rusty beacon. You can find it here:https://github.com/sigp/lighthouse\u00a0",
+            "username": "paulhauner",
+            "num_likes": 88,
+            "num_retweets": 24,
+            "num_replies": 8
+        },
+        "1013384223514873856": {
+            "id": "1013384223514873856",
+            "text": "More info: I am looking for a permanent donation I can keep using each year. I\u2019ll use it to help people find resources, print & scan documents, access the internet & write resumes. Check out http://sydneyhomelessconnect.com\u00a0",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1013376129091145730": {
+            "id": "1013376129091145730",
+            "text": "I run the tech desk at Sydney Homeless Connect \u2014 an annual event @ Syd Town Hall collating services for ppl exp. homelessness. We help people with their tech. I\u2019m looking for 2-3 modern laptops (not fancy) to assist my ops. If you\u2019re in Syd w/ spare laptops, please DM/reply ",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "989345037828829184": {
+            "id": "989345037828829184",
+            "text": "The \"funding crunch\" is the new \"difficulty bomb\": when the ETH hybrid PoS/PoW contract exhausts its initial 1M ETH allocation through interest payments (rewards) to validators.https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1011.md#issuance\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "988179968935903232": {
+            "id": "988179968935903232",
+            "text": "Speed variation: reboot if CPU utilisation drops below 50%.",
+            "username": "paulhauner",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "988179800182280192": {
+            "id": "988179800182280192",
+            "text": "The uptime challenge: 100 ETH locked in a smart contract for 100 days, private key in your /tmp dir.",
+            "username": "paulhauner",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "987694535248523264": {
+            "id": "987694535248523264",
+            "text": "Faster Casper binary consensus sims; validators now use a shared database and only share hashes. Less recursion, moar optimise. Blockchain consensus next, then graphical sims. Keen to meet D3.js gurus. https://github.com/sigp/cbc-casper-js\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "978075285219258369": {
+            "id": "978075285219258369",
+            "text": "We've started a JS simulator of @VladZamfir's Capser TFG. Inspired by the Python \"cbc-casper\" implementation, the goal is to get some in-browser graphical sims. It's cmd-line for now, but watch this space! https://github.com/sigp/cbc-casper-js\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 54,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "889365365502861312": {
+            "id": "889365365502861312",
+            "text": "Verifying myself: I am paulhauner on Keybase.io. dTVtUDPB0cx92br5FZ8vEwSoRTdnXI5Bnj1q / https://keybase.io/paulhauner/sigs/dTVtUDPB0cx92br5FZ8vEwSoRTdnXI5Bnj1q\u00a0\u2026",
+            "username": "paulhauner",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "474885110521548800": {
+            "id": "474885110521548800",
+            "text": "twittertestpost!",
+            "username": "paulhauner",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "47568630841491456": {
+            "id": "47568630841491456",
+            "text": "@horrorshowcrew haha thanks dude, consider your next beer to be from me :D (if you get that much from a cd?)",
+            "username": "paulhauner",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "47542104775344128": {
+            "id": "47542104775344128",
+            "text": "@horrorshowcrew love your stuff. wanna purchase some tunes of yours, just wondering which way leaves the most cash in ur pocket? itunes? cd?",
+            "username": "paulhauner",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "not_retweeted": {},
+    "num_retweets_by_originator": {
+        "sigp_io": 1,
+        "sassal0x": 1,
+        "ethZed": 9,
+        "protolambda": 3,
+        "AgeManning": 2,
+        "ethnimbus": 1,
+        "gregthegreek": 1,
+        "dannyryan": 5,
+        "terencechain": 4,
+        "Linktimetech": 1,
+        "kevinjho_": 1,
+        "abelotti": 1,
+        "tomterado": 1,
+        "coindesk": 1,
+        "naddison": 1,
+        "MPtherealMVP": 1,
+        "trailofbits": 1,
+        "raulvk": 1,
+        "lrettig": 1,
+        "ralexstokes": 1,
+        "prylabs": 1,
+        "drakefjustin": 1,
+        "Rocket_Pool": 1,
+        "SydneyHC": 1,
+        "maurelian_": 3,
+        "LefterisJP": 1,
+        "matthew_d_green": 1,
+        "muellerberndt": 1,
+        "iamdylancurran": 1,
+        "VladZamfir": 1,
+        "heapwolf": 1,
+        "AriDavidPaul": 1,
+        "peterktodd": 1
+    },
+    "users_retweeted": [
+        "ethZed",
+        "dannyryan",
+        "terencechain",
+        "protolambda",
+        "maurelian_",
+        "AgeManning",
+        "sigp_io",
+        "sassal0x",
+        "ethnimbus",
+        "gregthegreek",
+        "Linktimetech",
+        "kevinjho_",
+        "abelotti",
+        "tomterado",
+        "coindesk",
+        "naddison",
+        "MPtherealMVP",
+        "trailofbits",
+        "raulvk",
+        "lrettig",
+        "ralexstokes",
+        "prylabs",
+        "drakefjustin",
+        "Rocket_Pool",
+        "SydneyHC",
+        "LefterisJP",
+        "matthew_d_green",
+        "muellerberndt",
+        "iamdylancurran",
+        "VladZamfir",
+        "heapwolf",
+        "AriDavidPaul",
+        "peterktodd"
+    ]
+}

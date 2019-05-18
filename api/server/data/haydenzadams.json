@@ -1,0 +1,784 @@
+{
+    "is_complete": true,
+    "username": "haydenzadams",
+    "retweeted": {
+        "1108406385442803714": {
+            "id": "1108406385442803714",
+            "text": "Today I'm publishing a new design for an off-chain decentralized exchange built on synthetics: the  Rainbow Network \n\n- Supports any liquid asset (even non-crypto)\n- Supports leverage and shorting\n- Implementable on Ethereum, or on top of Lightning\n\nhttps://rainbownet.work\u00a0",
+            "username": "danrobinson",
+            "num_likes": 416,
+            "num_retweets": 92,
+            "num_replies": 29
+        },
+        "1115053406241132545": {
+            "id": "1115053406241132545",
+            "text": "This ONE simple trick will bring all the @metamask_io/@TrustWalletApp/@tokenary_app/@infura_io/@Trezor/@Ledger/@fortmatic/@portis_io/@WalletConnect users to your dApp:\n\nyarn add web3-react@next\n\nhttps://github.com/NoahZinsmeister/web3-react/tree/next\u00a0\u2026",
+            "username": "NoahZinsmeister",
+            "num_likes": 72,
+            "num_retweets": 12,
+            "num_replies": 4
+        },
+        "1110250083377909761": {
+            "id": "1110250083377909761",
+            "text": "It's finally here!  Read more to understand how Generalized Plasma introduces upgradeability, extensibility, and state channel interoperability:https://medium.com/plasma-group/plapps-and-predicates-understanding-the-generalized-plasma-architecture-fc171b25741\u00a0\u2026",
+            "username": "plasma_group",
+            "num_likes": 370,
+            "num_retweets": 137,
+            "num_replies": 15
+        },
+        "1116155236433956865": {
+            "id": "1116155236433956865",
+            "text": "Just published \"Flash Boys 2.0: Frontrunning, Transaction Reordering, and\nConsensus Instability in Decentralized Exchanges\" - https://arxiv.org/abs/1904.05234\u00a0\n\nKey takeaways and some pretty graphs below! ",
+            "username": "phildaian",
+            "num_likes": 462,
+            "num_retweets": 197,
+            "num_replies": 29
+        },
+        "1104148395004956674": {
+            "id": "1104148395004956674",
+            "text": "I wanted to highlight some BAMFs that I\u2019ve met in the past year that everyone should follow and get to know. I\u2019m grateful to all of these women for the work they\u2019ve done and continue to do in the blockchain space:",
+            "username": "jinglanW",
+            "num_likes": 126,
+            "num_retweets": 23,
+            "num_replies": 5
+        },
+        "1101171296443002880": {
+            "id": "1101171296443002880",
+            "text": "Announcing a framework for generalized plasma:https://link.medium.com/gUzRiOXgGU\u00a0",
+            "username": "plasma_group",
+            "num_likes": 354,
+            "num_retweets": 103,
+            "num_replies": 18
+        },
+        "1083834309797203970": {
+            "id": "1083834309797203970",
+            "text": "@UniswapExchange logo was thrown together quickly before launch. We need a new one. Community gets a first pass. \n\nIt should contain some degree of unicorn and Uniswap pink #DC6BE5\n\nSubmissions here:\nhttps://github.com/Uniswap/uniswap-frontend/issues/187\u00a0\u2026\n\nBest one will be used or adapted!",
+            "username": "UniswapExchange",
+            "num_likes": 38,
+            "num_retweets": 13,
+            "num_replies": 9
+        },
+        "1080252012955140098": {
+            "id": "1080252012955140098",
+            "text": " Thanks for creating this  @calebsheridan\n @UniswapExchange has had over $1M in trading volume since launch two months ago. \n\n Really grateful to all the fantastic contributors and community members who helped make this happen.https://twitter.com/calebsheridan/status/1080246668287791105\u00a0\u2026",
+            "username": "UniswapExchange",
+            "num_likes": 43,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1071170268603793409": {
+            "id": "1071170268603793409",
+            "text": " Uniswap had over 500 ETH in volume yesterday - our biggest day yet!!!\n\nThe top markets by volume were:\n\n1) 182 ETH #SPANK @SpankChain \n2) 173 ETH #DAI @MakerDAO \n3) 70 ETH #MKR @MakerDAO \n\nThese are also the largest 3 liquidity pools in order ",
+            "username": "UniswapExchange",
+            "num_likes": 132,
+            "num_retweets": 32,
+            "num_replies": 7
+        },
+        "1069992414939701249": {
+            "id": "1069992414939701249",
+            "text": "Check out my writeup on @UniswapExchange. Had a lot of fun exploring this onehttps://medium.com/@cyrus.younessi/uniswap-a-unique-exchange-f4ef44f807bf\u00a0\u2026",
+            "username": "cyounessi1",
+            "num_likes": 138,
+            "num_retweets": 46,
+            "num_replies": 3
+        },
+        "1069720885374971904": {
+            "id": "1069720885374971904",
+            "text": "Thanks for the support @VitalikButerin \n\nIf we had any tokens we would totally give you some https://twitter.com/thomaspower/status/1069684475775336448\u00a0\u2026",
+            "username": "UniswapExchange",
+            "num_likes": 109,
+            "num_retweets": 20,
+            "num_replies": 4
+        },
+        "1066910655985344512": {
+            "id": "1066910655985344512",
+            "text": "Built a Liquidity Pool history viewer for @UniswapExchange at https://conlan.github.io/uniswap-history/\u00a0\u2026  Would love any feedback from folks who use it :) #ethereum #crypto",
+            "username": "conlan",
+            "num_likes": 40,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1063123978489880576": {
+            "id": "1063123978489880576",
+            "text": " Uniswap makes it incredibly easy to trade between any ERC20 pair on mobile or desktop. \n\nWatch a @MakerDAO #MKR to #DAI swap using a mobile wallet!  \n\n Learn more at http://uniswap.io\u00a0pic.twitter.com/6iKWs6A5jK",
+            "username": "UniswapExchange",
+            "num_likes": 108,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "1055189292073566208": {
+            "id": "1055189292073566208",
+            "text": "I haven't been tweeting (too distracting!) but in honor of Devcon I'll tweet a video per day for the next 6 days \n\nKicking it off with a great Plasma implementers call where we add fungible assets to Plasma Cash & review the first EVM Plasma spec!https://www.youtube.com/watch?v=0ApUUoWYt8U\u00a0\u2026",
+            "username": "karl_dot_tech",
+            "num_likes": 154,
+            "num_retweets": 27,
+            "num_replies": 6
+        },
+        "1035118493828444160": {
+            "id": "1035118493828444160",
+            "text": "Newly added ETHIS speakers:welcome Christopher Shen,Founder of Portal Network @itisportal; @haydenzadams,Founder of @UniswapExchange; @augama, Crypto Congressman&Legislator at Taiwan to join us.Thanks for the support from all ETHIS speakers, sponsors and attendees! See you in HK!pic.twitter.com/QG012FsJVV",
+            "username": "Linktimetech",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1027019525898682368": {
+            "id": "1027019525898682368",
+            "text": "I'm worried about the \"token curated registry\" hype. I see a lot of mechanisms that just boil down to \"token holders vote\", but for well known reasons (eg. see https://vitalik.ca/general/2018/03/28/plutocracy.html\u00a0\u2026 ) there are deep flaws in that model. The specifics of your incentive mechanism matter!",
+            "username": "VitalikButerin",
+            "num_likes": 654,
+            "num_retweets": 185,
+            "num_replies": 53
+        },
+        "1025047903121760257": {
+            "id": "1025047903121760257",
+            "text": "I'm contributing to a new Decentralized CA and naming project with a bunch of friends. The goal is to replace the Certificate Authority system entirely and to not have that annoying SSH fingerprint question. https://handshake.org\u00a0",
+            "username": "jcp",
+            "num_likes": 748,
+            "num_retweets": 215,
+            "num_replies": 27
+        },
+        "1010614427715080192": {
+            "id": "1010614427715080192",
+            "text": "I dunno man, I'm just busy chillin with my friends in New York City, New York eating avocado toast.pic.twitter.com/q5pFnu4oBo",
+            "username": "VitalikButerin",
+            "num_likes": 1833,
+            "num_retweets": 115,
+            "num_replies": 94
+        },
+        "1007670522124087296": {
+            "id": "1007670522124087296",
+            "text": "Casper and sharding are coming together https://medium.com/@djrtwo/casper-%EF%B8%8F-sharding-28a90077f121\u00a0\u2026",
+            "username": "dannyryan",
+            "num_likes": 153,
+            "num_retweets": 54,
+            "num_replies": 6
+        },
+        "984908408477372418": {
+            "id": "984908408477372418",
+            "text": "Excited to announce a course, book, and community forum -- Cryptoeconomics: An Introduction! \n\nCheck out the intro trailer: https://www.youtube.com/watch?v=m-0escxJ-j8\u00a0\u2026\n",
+            "username": "karl_dot_tech",
+            "num_likes": 763,
+            "num_retweets": 222,
+            "num_replies": 23
+        },
+        "725359266094305281": {
+            "id": "725359266094305281",
+            "text": "Great job! @CEASSBU students from MEC present Brain Computer Interaction research @stonybrooku #Urecapic.twitter.com/lww5DHHBA7",
+            "username": "sbucompsc",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1120759505099399168": {
+            "id": "1120759505099399168",
+            "text": "4/\n\nThe five months since launch have passed at breakneck speed.\n\nI knew Uniswap was special, but did not expect such rapid growth in community support and usage.\n\nNo one has to trust me to use it. To me this is a testament to the unstoppable power of open finance and @ethereum.pic.twitter.com/BW5b3e9y89",
+            "username": "haydenzadams",
+            "num_likes": 73,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1120759510665134081": {
+            "id": "1120759510665134081",
+            "text": "9/\n\nI am often asked for my thoughts on funding for public good projects.\n\nWith regards to business model, we are still early in the ideation phase. However, the open and decentralized nature of Uniswap will remain a core value of any project that I lead.",
+            "username": "haydenzadams",
+            "num_likes": 47,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1120759504063348736": {
+            "id": "1120759504063348736",
+            "text": "3/ \n\nOne year later I launched Uniswap \u2014 a decentralized exchange protocol complete with an audit and open-source frontend. \n\nThis would not have been possible w/o the support of @karl_dot_tech @VitalikButerin the @ethereum grants program and many others.https://twitter.com/haydenzadams/status/1058376395108376577\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 55,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1112450778218803200": {
+            "id": "1112450778218803200",
+            "text": "Me being excited about the future of @UniswapExchangepic.twitter.com/7YYSNmGOSO",
+            "username": "haydenzadams",
+            "num_likes": 92,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1117608987854290944": {
+            "id": "1117608987854290944",
+            "text": "\u00a0Thrilled to have @NoahZinsmeister joining Uniswap as the second full time team member!\n\nInstead of DM'ing and @'ing me with all your questions, you can now DM and @ Noah https://twitter.com/NoahZinsmeister/status/1117600863256817669\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 68,
+            "num_retweets": 5,
+            "num_replies": 4
+        },
+        "1109215579804717056": {
+            "id": "1109215579804717056",
+            "text": "At it's best it provides minimal and temporary benefits, while risking a contentious or failed hard fork. I'm against it, for what my signaling is worth.\n\nAlso see Phil's article here:\nhttps://pdaian.com/blog/anti-asic-forks-considered-harmful/\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 31,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1120759500938600453": {
+            "id": "1120759500938600453",
+            "text": "2/ \n\nUniswap started as a side project for me. A way to learn the required skills to transition from mechanical engineer to crypto dev.\n\nThis is what it looked like in Nov. 2017 when it was my first smart contract, first website, and first major coding project!pic.twitter.com/EUkPV0X7sM",
+            "username": "haydenzadams",
+            "num_likes": 73,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1120759509868253184": {
+            "id": "1120759509868253184",
+            "text": "8/\n\nThis is why I am so excited to have @NoahZinsmeister and @_callil joining as my first two incredible full-time team members.\n\nAnd why I'm so excited to have the support and guidance of @paradigm \u2014 some of the most brilliant people I have had the pleasure of meeting this year.",
+            "username": "haydenzadams",
+            "num_likes": 60,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1120759509130067970": {
+            "id": "1120759509130067970",
+            "text": "7/\n\nAs fun as it's been, I cannot lead, research, develop, market, and fundraise all at once. It's overwhelming and ineffective.\n\nSimply put: my goals go beyond what I can (or want to) accomplish alone.",
+            "username": "haydenzadams",
+            "num_likes": 44,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1114227167292940289": {
+            "id": "1114227167292940289",
+            "text": "Excited to talk about @UniswapExchange at #Fluidity2019 on May 9 in Brooklyn NY!https://twitter.com/airswap/status/1114191475821174784\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 43,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1120759507490099201": {
+            "id": "1120759507490099201",
+            "text": "5/\n\nI strongly believe an open-source financial system will result in a fairer distribution of wealth and increased participation by those excluded from our current system.\n\nMy goal is to move this forward as much as possible, and push it in an inclusive + equitable direction.",
+            "username": "haydenzadams",
+            "num_likes": 62,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1120759508391878659": {
+            "id": "1120759508391878659",
+            "text": "6/\n\nThis was foremost in my mind when I decided to raise money and form a company.\n\nI've had so many incredible contributors and supporters. It's not my intention to diminish this support when I say that through all of this, I've been the only person working on Uniswap full time.",
+            "username": "haydenzadams",
+            "num_likes": 40,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058376395108376577": {
+            "id": "1058376395108376577",
+            "text": "1/ Excited to announce the launch of @UniswapExchange ! It's a protocol for automated exchange of ERC20 tokens on Ethereum. https://uniswap.io/\u00a0",
+            "username": "haydenzadams",
+            "num_likes": 292,
+            "num_retweets": 74,
+            "num_replies": 20
+        },
+        "1117832238786326530": {
+            "id": "1117832238786326530",
+            "text": "Not buying the idea I've recently heard that @AragonProject is more compatible with @polkadotnetwork than @ethereum because they both believe in on-chain g0vernance.\n\nWho wants their on-chain g0vernance affected by other peoples on-chain g0vernance?",
+            "username": "haydenzadams",
+            "num_likes": 92,
+            "num_retweets": 8,
+            "num_replies": 7
+        },
+        "1120759500137537539": {
+            "id": "1120759500137537539",
+            "text": "1/ \n\nI'm thrilled to announce that I formed a company dedicated to building open finance products on @UniswapExchange and @Ethereum\n\nLast week marked the close of a seed round from @paradigm. Beyond excited to be working with @FEhrsam, @matthuang, @_charlienoyes, and @danrobinson",
+            "username": "haydenzadams",
+            "num_likes": 623,
+            "num_retweets": 86,
+            "num_replies": 47
+        },
+        "1109234997842579456": {
+            "id": "1109234997842579456",
+            "text": "+1 \n\nThis seems like a good idea. @hudsonjameson thoughts on creating an @EthCoreDevs twitter account?https://twitter.com/evabeylin/status/1109233858770288641\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 25,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "1120759511365582854": {
+            "id": "1120759511365582854",
+            "text": "10/\n\nPlease reach out of you want to be involved. Otherwise, stay tuned!\n\n contact@uniswap.io\n https://uniswap.io\u00a0",
+            "username": "haydenzadams",
+            "num_likes": 84,
+            "num_retweets": 2,
+            "num_replies": 12
+        },
+        "1126252458773241862": {
+            "id": "1126252458773241862",
+            "text": "Hi @etherscan can you update your #vyper support to latest version \n\nNeed to verify a contract soon :)\n\nvyper==0.1.0b9",
+            "username": "haydenzadams",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1109215579142057985": {
+            "id": "1109215579142057985",
+            "text": "ProgPOW seems like a huge waste of time and effort. Resources should be devoted to POS - not contentious POW changes.\n\nIf its not contentious than why have @phildaian @koeppelmann @ameensol @gakonst @_prestwich @badcryptobitch @izqui9 and many others signaled against it?",
+            "username": "haydenzadams",
+            "num_likes": 153,
+            "num_retweets": 24,
+            "num_replies": 13
+        },
+        "1107785473676713984": {
+            "id": "1107785473676713984",
+            "text": "Love to see discussion on token distributions + @UniswapExchange. One by one stuff I've been too busy/lazy to write up are being discovered!\n\nSimplest way to do it is regular ICO and lock x% of ETH raised + ERC20 total supply in Uniswap\n\nBonus: Founder tokens as liquidity shareshttps://twitter.com/hal2001/status/1107750797868220417\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 63,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1106647421965213697": {
+            "id": "1106647421965213697",
+            "text": "Thanks for having me on!!!https://twitter.com/laurashin/status/1106527398886027264\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 28,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1105296926545772544": {
+            "id": "1105296926545772544",
+            "text": " Had a great time talking about @UniswapExchange at DeFi NYC!\n\nThanks @ColeGotTweets and @ChristianKaz_  for planning the event!!!pic.twitter.com/GpRbONwb1c",
+            "username": "haydenzadams",
+            "num_likes": 69,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1104199843596193792": {
+            "id": "1104199843596193792",
+            "text": "Who's making the @AugurProject market for whether or not @UniswapExchange liquidity pools will break the upper bound on this Augur market for Uniswap liquidity pool size before it expires?https://app.veil.co/market/uniswap-eth-2019-03-16\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 26,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1103070464493137920": {
+            "id": "1103070464493137920",
+            "text": "5) suggestions?",
+            "username": "haydenzadams",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1103070205301977089": {
+            "id": "1103070205301977089",
+            "text": "Should I write my own ERC20 reference implementation?\n\n1) Vyper\n2) built in metaTransactions\n3) approve MAX_UINT256 trick\n4) built in @UniswapExchange support?https://twitter.com/haydenzadams/status/1103058526778343427\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 55,
+            "num_retweets": 1,
+            "num_replies": 5
+        },
+        "1100935177369513987": {
+            "id": "1100935177369513987",
+            "text": "You know I\u2019m behind on laundry when I wear my litecoin socks \n\nMy grandparents meant well!pic.twitter.com/9ElHZXXSXR",
+            "username": "haydenzadams",
+            "num_likes": 49,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1100037808398450691": {
+            "id": "1100037808398450691",
+            "text": "Can someone explain why stablecoins will matter when $ETH price stabilizes? I get why they matter now.https://twitter.com/haydenzadams/status/1100035838098980867\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 32,
+            "num_retweets": 3,
+            "num_replies": 34
+        },
+        "1098816856658464768": {
+            "id": "1098816856658464768",
+            "text": "Uniswap is the anti-hype-bubble project\n\nIt's a crazy experiment in evenly distributing rewards based on contribution to the system and growing with value generated\n\nIt's #2 Ethereum dex by volume (sometimes) 3 months after launch. Doesn't need FOMO - just more time to grow",
+            "username": "haydenzadams",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1095756896412360707": {
+            "id": "1095756896412360707",
+            "text": "If anyone wants to hang for a few hours in SF, my flight was delayed until 9pm!",
+            "username": "haydenzadams",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1095736529303945216": {
+            "id": "1095736529303945216",
+            "text": "I mostly agree with you :)\n\nSustainable business models are important. The lack of one in Uniswap (so far ) is not what I want to be the major takeaway. \n\nProjects should build something that works before raising huge amounts of money. \n\nBusiness models shouldn\u2019t add friction.",
+            "username": "haydenzadams",
+            "num_likes": 40,
+            "num_retweets": 4,
+            "num_replies": 10
+        },
+        "1095070616892379136": {
+            "id": "1095070616892379136",
+            "text": "Thanks so much @jinglanW https://twitter.com/jinglanW/status/1095050524418818049\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1094760594698326016": {
+            "id": "1094760594698326016",
+            "text": "Three months after tweet announcing it to a few hundred followers the Uniswap smart contracts are holding ~$1,000,000 in reserves and are transacting ~$250,000/day. \n\nMy face is permanently stuck like \n\nThank you to all involved! I never expected it to grow this fast ",
+            "username": "haydenzadams",
+            "num_likes": 124,
+            "num_retweets": 6,
+            "num_replies": 7
+        },
+        "1094760593876234242": {
+            "id": "1094760593876234242",
+            "text": "Fun fact:\n\nUniswap is my first real coding project. My previous experience is:\n\n1) very simple @arduino robots\n2) @MATLAB for mechanical engineering homework\n3) 2hrs each of javascript and python on @CodeAcadamy \n4) basic ERC20 contracthttps://twitter.com/UniswapExchange/status/1094751719286861824\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 208,
+            "num_retweets": 15,
+            "num_replies": 9
+        },
+        "1092894657435127808": {
+            "id": "1092894657435127808",
+            "text": "EIP-1087 since twitter formatted it out",
+            "username": "haydenzadams",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1092894454451785729": {
+            "id": "1092894454451785729",
+            "text": "Whats the status of https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1087.md\u00a0\u2026 now that its cut from Constantinople?\n\nAsking for an exchange protocol",
+            "username": "haydenzadams",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1091079344552849410": {
+            "id": "1091079344552849410",
+            "text": "Woohoo!!! Congrats on the launch https://twitter.com/plasma_group/status/1091063552994029568\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1090754011035299841": {
+            "id": "1090754011035299841",
+            "text": " Someone sent $ZRX to my @coinbase addr. They assumed I could access it b/c @coinbase supports $ZRX\n Well, it supports $ZRX  in every US state except NY where I live\n\n @coinbase says I can withdraw the tokens if I move\n\n like this is the reasons I made @UniswapExchangepic.twitter.com/P6Tpm3tzCo",
+            "username": "haydenzadams",
+            "num_likes": 77,
+            "num_retweets": 13,
+            "num_replies": 9
+        },
+        "1089371724901203969": {
+            "id": "1089371724901203969",
+            "text": "If your twitter bio does not say \"opinions are my own\" I immediately assume you're being mind-controlled ",
+            "username": "haydenzadams",
+            "num_likes": 24,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1085954873311539212": {
+            "id": "1085954873311539212",
+            "text": "Thanks @Linktimetech, looking forward to speaking about @UniswapExchange at #EDCON2019 https://twitter.com/Linktimetech/status/1085848990401191936\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1078822793175801862": {
+            "id": "1078822793175801862",
+            "text": "5/ \n\nI think I'm getting into general complaints not formula specific so I'll end here :)",
+            "username": "haydenzadams",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1078822792265695232": {
+            "id": "1078822792265695232",
+            "text": "4b/ \n\n@Bancor pricing could be manipulated if the company was running a frontrunning miner that also controls the $BNT admin private key. They can mint and burn $BNT tokens at will to push rates as desired. \n\nSee lines 349-369 of $BNT contract:\nhttps://etherscan.io/address/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c#code\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1078822791393226753": {
+            "id": "1078822791393226753",
+            "text": "4a/ \n\n@UniswapExchange formula is the ONLY governance in Uniswap and cannot be manipulated.\n\nIt was formalized and partially verified by @rv_inc\nhttps://github.com/runtimeverification/verified-smart-contracts/tree/uniswap/uniswap\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1078822790822875138": {
+            "id": "1078822790822875138",
+            "text": "3/ \n\n@UniswapExchange formula is highly gas efficient. Trades as low as 50k gas. \n\n@Bancor formula you're getting closer to 300k.",
+            "username": "haydenzadams",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1078822790160138240": {
+            "id": "1078822790160138240",
+            "text": "2c/\n\nBasically, profit is tied to holding $BNT, not contribution to the system. Convenient when you hold 50% and sell the other 50% for $150,000,000 ",
+            "username": "haydenzadams",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1078822789442875392": {
+            "id": "1078822789442875392",
+            "text": "2b/ \n\nInstead Bancor \"fees\" are that you are 50% hedged into $BNT, which they claim will increase in value as more markets are created. \n\nEven if true, this profit could be claimed by HODLing $BNT in a cold wallet... and not risking being a liquidity provider.",
+            "username": "haydenzadams",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1078822788717268992": {
+            "id": "1078822788717268992",
+            "text": "2a/ \n\nBoth formulas base pricing on reserve ratio!\n\n@UniswapExchange formula takes fees that grow reserves, proportionally distributing them to liquidity providers. This gives a clear incentive to provide liquidity - although there is risk\n\n@Bancor formula does not grow reserves",
+            "username": "haydenzadams",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1078822787798781953": {
+            "id": "1078822787798781953",
+            "text": "1/\n\n@UniswapExchange formula (constant product) can be implemented in 5 lines:\nhttps://github.com/Uniswap/contracts-vyper/blob/master/contracts/uniswap_exchange.vy#L106\u00a0\u2026\n@Bancor formula is... more complicated\nhttps://github.com/bancorprotocol/contracts/blob/master/solidity/contracts/converter/BancorFormula.sol\u00a0\u2026https://twitter.com/maxcwolff/status/1078803438425776128\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 49,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1075206440908980224": {
+            "id": "1075206440908980224",
+            "text": "Also @VitalikButerin's comment at the bottom of this article:\n\nhttp://hackingdistributed.com/2017/06/19/bancor-is-flawed/\u00a0\u2026https://twitter.com/badcryptobitch/status/1075056926826803200\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1072291675458949120": {
+            "id": "1072291675458949120",
+            "text": "4/ As a DAPP dev it is not my responsibility to build custom support for every single token - that defeats the purpose of having a standard in the first place.",
+            "username": "haydenzadams",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1072291674804641793": {
+            "id": "1072291674804641793",
+            "text": "3/ But what you should not do is ignore the problem. You are putting user funds at risk. Reissue the token, create a wrapper contract, or permanently stop calling yourself ERC20.",
+            "username": "haydenzadams",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1072291674112606208": {
+            "id": "1072291674112606208",
+            "text": "2/ If you expected an ERC20 token but didn't get one - whether due to a dev mistake, hubris (we don't need to follow the standard!), or because the openzeppelin-solidity library messed up their reference implementation for a few months that sucks.",
+            "username": "haydenzadams",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1072291673198219264": {
+            "id": "1072291673198219264",
+            "text": "1/  Mini rant..... If you have a token that does not contain a full and valid implementation of EIP20, it is NOT an ERC20 token.https://twitter.com/UniswapExchange/status/1072286773554876416\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 25,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1067274798970138624": {
+            "id": "1067274798970138624",
+            "text": "It feels good when something you worked on starts to gain traction https://twitter.com/UniswapExchange/status/1067272447978803200\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 69,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1066881216308281345": {
+            "id": "1066881216308281345",
+            "text": "Paying your taxes will now create a taxable event https://twitter.com/TheBlock__/status/1066737497600868353\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 522,
+            "num_retweets": 64,
+            "num_replies": 14
+        },
+        "1064574271350104070": {
+            "id": "1064574271350104070",
+            "text": "Big arb available on #SPANK as well. #DAI and #MKR seen efficiently arbitraged though. Here\u2019s an example of an OasisDEX <> Uniswap DAI arb:\n\nhttps://etherscan.io/tx/0x30efb4bffa3ee62a11bf2af693b1cf5acbc83764409eef5ab6f7b6aba2ec2761\u00a0\u2026https://twitter.com/fubuloubu/status/1064368842279919621\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1062449443784540160": {
+            "id": "1062449443784540160",
+            "text": "This talk is the opposite of https://twitter.com/phildaian/status/1062059461613891584\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1059960083126411266": {
+            "id": "1059960083126411266",
+            "text": "Now announcing the Uniswap on-chain bug bounty  Thanks @ameensol, I\u2019m a bit terrified now but I appreciate your support!https://twitter.com/ameensol/status/1059956019684610048\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 50,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1059569669672239106": {
+            "id": "1059569669672239106",
+            "text": "Thanks @omise_go  I really appreciate the support. It was great spending time with the team at #Devcon4https://twitter.com/omise_go/status/1059538373705170944\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1058416256452345856": {
+            "id": "1058416256452345856",
+            "text": " Oh right, huge shoutout to Vyper. its the best \n Also a huge shoutout to @rv_inc for formalizing the uniswap constant product market maker model:\n\nhttps://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf\u00a0\u2026\n\u00a0And a huge shoutout to @_callil for UX and @kyokan_io for frontend workhttps://twitter.com/fubuloubu/status/1058409587441889280\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 29,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1058376400011436032": {
+            "id": "1058376400011436032",
+            "text": "5/  Or just watch this video of a MKR to DAI swap https://vimeo.com/user91297340/review/298601189/803bf275b9\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 25,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "1058376398832832512": {
+            "id": "1058376398832832512",
+            "text": "4/  Learn how it works by reading the docs: https://docs.uniswap.io/\u00a0 or by reading the whitepaper: https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 31,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1058376397599715328": {
+            "id": "1058376397599715328",
+            "text": "3/ This project is funded through an Ethereum foundation grant. Thanks @VitalikButerin @karl_dot_tech and the @ethereum grant team <333333",
+            "username": "haydenzadams",
+            "num_likes": 36,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1058376396391751680": {
+            "id": "1058376396391751680",
+            "text": "2/ There is no central token or platform fee. No special treatment is given to early investors, adopters, or developers. Token listing is open and free. All smart contract functions are public and all upgrades are opt-in.",
+            "username": "haydenzadams",
+            "num_likes": 43,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1056036143928623104": {
+            "id": "1056036143928623104",
+            "text": "It appears @etherscan is broken. No blocks or transactions reported for 1hr 20minutes...",
+            "username": "haydenzadams",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1039008356009168896": {
+            "id": "1039008356009168896",
+            "text": "Had a great time talking about @UniswapExchange on the Future of Decentralized Exchange panel at #ETHISpic.twitter.com/fGUHsif2h1",
+            "username": "haydenzadams",
+            "num_likes": 18,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1030571719273181184": {
+            "id": "1030571719273181184",
+            "text": "Thrilled to announce @UniswapExchange received $100,000 in Wave 3 of the EF Grants Program \n\nUniswap will provide simple, decentralized token exchange on the Ethereum blockchain. Hoping to launch ahead of #Devcon4. Look out for blogposts and an updated Whitepaper coming soon https://twitter.com/ethereum/status/1030562766963318785\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 52,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1026896124811128833": {
+            "id": "1026896124811128833",
+            "text": "https://twitter.com/TieshunR/status/1026800764860022784\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1013941459605770240": {
+            "id": "1013941459605770240",
+            "text": "https://twitter.com/karl_dot_tech/status/1013810987340910594\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1011724242151530502": {
+            "id": "1011724242151530502",
+            "text": "https://twitter.com/sunnya97/status/1011720062141526016\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "997877138228416513": {
+            "id": "997877138228416513",
+            "text": "Thanks  I\u2019m glad I made the listhttps://twitter.com/ricburton/status/997827570967212034\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "948598791627771904": {
+            "id": "948598791627771904",
+            "text": "0x11E4857Bb9993a50c685A79AFad4E6F65D518DDa",
+            "username": "haydenzadams",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "702657286498611200": {
+            "id": "702657286498611200",
+            "text": "Joining the 21st century #Twitter",
+            "username": "haydenzadams",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "phildaian": 2,
+        "plasma_group": 3,
+        "danrobinson": 2,
+        "NoahZinsmeister": 2,
+        "jinglanW": 1,
+        "UniswapExchange": 5,
+        "cyounessi1": 1,
+        "conlan": 1,
+        "karl_dot_tech": 2,
+        "Linktimetech": 1,
+        "VitalikButerin": 2,
+        "jcp": 1,
+        "dannyryan": 1,
+        "sbucompsc": 1
+    },
+    "users_retweeted": [
+        "UniswapExchange",
+        "plasma_group",
+        "phildaian",
+        "danrobinson",
+        "NoahZinsmeister",
+        "karl_dot_tech",
+        "VitalikButerin",
+        "jinglanW",
+        "cyounessi1",
+        "conlan",
+        "Linktimetech",
+        "jcp",
+        "dannyryan",
+        "sbucompsc"
+    ]
+}

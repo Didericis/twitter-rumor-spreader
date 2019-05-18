@@ -1,0 +1,54 @@
+{
+    "is_complete": true,
+    "username": "ETHSnakeCharmer",
+    "retweeted": {
+        "1101415340741935106": {
+            "id": "1101415340741935106",
+            "text": "Trinity v0.1.0-alpha.23 \"Theodora\" with full Constantinople/Petersburg support has arrived! Get it while it's ",
+            "username": "trinity_client",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1101230400070918144": {
+            "id": "1101230400070918144",
+            "text": "Just in time: We welcome the latest Py-EVM release 0.2.0-alpha.42 with Constantinople/Petersburg support!\n\nhttps://py-evm.readthedocs.io/en/latest/release_notes/index.html#alpha-42\u00a0\u2026",
+            "username": "ETHSnakeCharmer",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1097455606527655936": {
+            "id": "1097455606527655936",
+            "text": " New Lahja release 0.11.0 is out and comes with a huge performance improvement. Get it while it's \nhttps://github.com/ethereum/lahja/releases/tag/v0.11.0\u00a0\u2026\n#Python #EventBus #asyncio",
+            "username": "ETHSnakeCharmer",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1095816142340481024": {
+            "id": "1095816142340481024",
+            "text": "\"Defend against \u201cWild Magic\u201d in the next Ethereum upgrade\" ~ https://medium.com/@jason.carver/defend-against-wild-magic-in-the-next-ethereum-upgrade-b008247839d2\u00a0\u2026\n\nby @jasoncarver",
+            "username": "ETHSnakeCharmer",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1093816109252386816": {
+            "id": "1093816109252386816",
+            "text": "Fresh off the press: \"Getting started with EthPM and http://Web3.py\u00a0\" ~ https://snake-charmers.ethereum.org/2019/01/24/ethpm.html\u00a0\u2026\n#Ethereum #Python #Web3 #EthPM",
+            "username": "ETHSnakeCharmer",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "trinity_client": 2
+    },
+    "users_retweeted": [
+        "trinity_client"
+    ]
+}

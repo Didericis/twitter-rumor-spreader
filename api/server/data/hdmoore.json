@@ -1,0 +1,586 @@
+{
+    "is_complete": true,
+    "username": "hdmoore",
+    "retweeted": {
+        "1126121901556994048": {
+            "id": "1126121901556994048",
+            "text": "Rumble Network Discovery Beta 3 has been released! Updates include asset change tracking, email and webhook notifications, inventory search keywords, an overhaul of the scanning engine, and much more!  https://rumble.run/2019/05/rumble-network-discovery-beta-3/\u00a0\u2026pic.twitter.com/hpNW5G3f9p",
+            "username": "RumbleDiscovery",
+            "num_likes": 18,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1123266820301942784": {
+            "id": "1123266820301942784",
+            "text": "New music video! Qualified Pro w/ cuts by @djmanilaice https://youtu.be/y6A-1J6VGJY\u00a0 Thanks to @snubs @uberrocket @lil_jinni @banasidhe @pearinthepoint & @digitalkitty! #nerdcore #hiphop #python #programming #coding #programmer #coder #webdevelopment #appdevelopment",
+            "username": "daleochase",
+            "num_likes": 17,
+            "num_retweets": 13,
+            "num_replies": 6
+        },
+        "1075414710340775938": {
+            "id": "1075414710340775938",
+            "text": ".@nostarch hacker foundation will get $200k from @billpollock this year \nhttps://nostarchfoundation.org/\u00a0 \n\"We support hackers of all types, regardless of experience.\"\n\nInterim executive board members will decide on specifics: @heidishmoo @dotMudge @alexstamos @hdmoore @marciahofmannpic.twitter.com/CyrvKFGtu4",
+            "username": "daniel_bilar",
+            "num_likes": 21,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1119321004030013440": {
+            "id": "1119321004030013440",
+            "text": "If you want to use #powershell to grab your assets from Rumble (@hdmoore / http://www.rumble.run\u00a0), it's this easy:",
+            "username": "nubesque",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1117993640415174657": {
+            "id": "1117993640415174657",
+            "text": "Hey security women of Austin, let's get this group going! We're planning our first meetup for May and would love some input as to what you're looking for in a community. https://www.meetup.com/WoSEC-Austin-Women-of-Security-Austin-Texas/\u00a0\u2026 #Meetup #Austin via @Meetup",
+            "username": "phishalotamus",
+            "num_likes": 89,
+            "num_retweets": 71,
+            "num_replies": 18
+        },
+        "1115686510747996160": {
+            "id": "1115686510747996160",
+            "text": "Dusted off Skywing and I's green shellcode challenge entry and pushed it into a repo with an explanation of how our 3 unique byte (multi-level) encoder worked.https://github.com/epakskape/greenshellcode\u00a0\u2026",
+            "username": "epakskape",
+            "num_likes": 75,
+            "num_retweets": 37,
+            "num_replies": 2
+        },
+        "1114173962148352002": {
+            "id": "1114173962148352002",
+            "text": "Take a quick tour of the new Kismet UI:  https://www.kismetwireless.net/development/kismet_webui_tour/\u00a0\u2026\n\nShows off some of the new features & advantages of the webui; and a post about scripting against the new version coming later today!",
+            "username": "KismetWireless",
+            "num_likes": 39,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "1113972168080150529": {
+            "id": "1113972168080150529",
+            "text": "Kismet 2019-04-R1 is released!  Out of beta, check out the new web UI, log formats, scripting interface, and all sorts of other goodness.  Check out the first post about the new features here https://www.kismetwireless.net/development/release/\u00a0\u2026 , more to come!",
+            "username": "KismetWireless",
+            "num_likes": 101,
+            "num_retweets": 65,
+            "num_replies": 2
+        },
+        "1112536664101081088": {
+            "id": "1112536664101081088",
+            "text": "Beyond Internet Scanning: Open Source Attack Surface Discovery with Intrigue Core (Infosec Southwest\u00a02019)http://core.intrigue.io/2019/04/01/beyond-internet-scanning-open-source-attack-surface-discovery-with-intrigue-core-infosec-southwest-2019/\u00a0\u2026",
+            "username": "Intrigueio",
+            "num_likes": 26,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1110838971867844608": {
+            "id": "1110838971867844608",
+            "text": "#Cisco Small Business Routers still vulnerable to remote code execution & configuration export due to incomplete patch  #RCE #RV320 #RV325 New advisories: https://buff.ly/2HIZCV2\u00a0 https://buff.ly/2U2DKdR\u00a0https://buff.ly/2WmcCD2\u00a0",
+            "username": "RedTeamPT",
+            "num_likes": 453,
+            "num_retweets": 241,
+            "num_replies": 7
+        },
+        "1110168415145201664": {
+            "id": "1110168415145201664",
+            "text": "This is absolutely insane. Hackers broke into an update server for laptop maker ASUS. The hackers then used it to push malware that looked like a legitimate ASUS update to thousands of computers. A golden supply chain attack leveraging update mechanisms https://motherboard.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers\u00a0\u2026pic.twitter.com/AbRMhgteiq",
+            "username": "josephfcox",
+            "num_likes": 1810,
+            "num_retweets": 1540,
+            "num_replies": 58
+        },
+        "1109612374976270341": {
+            "id": "1109612374976270341",
+            "text": "Next week is probably the best possible week to experience Austin infosec. @BSidesAustin, @InfoSecConf, *and* @AustinHackers all happening in one week. You should absolutely come out.",
+            "username": "HeadlessZeke",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1108429480501088256": {
+            "id": "1108429480501088256",
+            "text": "Learn about the discovery, analysis, and exploitation of CVE-2019-8917 which is a remotely exploitable WCF #vulnerability that our Research team discovered in #SolarWinds Orion NPM 12.3.  http://bit.ly/2FlOue8\u00a0 #infosec #securityresearch #appsec #cybersecurity",
+            "username": "VerSprite",
+            "num_likes": 36,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1108053150802632704": {
+            "id": "1108053150802632704",
+            "text": "Destruction devotees! We are running the next iteration of D20 CTF at @InfoSecConf at noon Central on Sunday, March 31st at Hotel Ella! Bring your RasPis, your old phones, your closet clunkers, and compete to be Top Dog!\n\nRT! Like! Exclamation points!",
+            "username": "d20ctf",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1107992225806467073": {
+            "id": "1107992225806467073",
+            "text": "New Metasploit research from @_surefire_ and @jhartftw: A practical exploitation guide for Java serialization vulnerabilities. MSF now includes native support for building Java deserialization payloads with @frohoff's ysoserial.https://www.rapid7.com/research/report/exploiting-jsos/\u00a0\u2026",
+            "username": "metasploit",
+            "num_likes": 316,
+            "num_retweets": 183,
+            "num_replies": 1
+        },
+        "1107671797749768192": {
+            "id": "1107671797749768192",
+            "text": "Here's @hdmoore on CVE-2019-4061 which addresses a number of issues in BigFix that HD, @ryhanson and Chris Bellows identified during a recent gig.http://j.mp/2Hu2K6Q\u00a0",
+            "username": "Atredis",
+            "num_likes": 36,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "1106618318792871937": {
+            "id": "1106618318792871937",
+            "text": "Here's @hdmoore on CVE-2019-5513, an infoleak in VMWare Horizon:http://j.mp/2W4Uspr\u00a0",
+            "username": "Atredis",
+            "num_likes": 67,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "1105592304180420608": {
+            "id": "1105592304180420608",
+            "text": "New article is up :-D Stealing encryption keys for bitlocker, for both TPM1.2 and TPM2.0 devices. Source code included ^_^https://pulsesecurity.co.nz/articles/TPM-sniffing\u00a0\u2026",
+            "username": "0x446f49",
+            "num_likes": 835,
+            "num_retweets": 563,
+            "num_replies": 16
+        },
+        "1103410996323012608": {
+            "id": "1103410996323012608",
+            "text": "We like to call this the Texas two-step of #infosec. #BSidesAustin conference attendees can use this BSIDESISSW code to get a nice discount on tickets to #InfoSecSouthwest (must have BSides badge). Why not double down on your commitment to security?https://twitter.com/InfoSecConf/status/1103300837491777537\u00a0\u2026",
+            "username": "BSidesAustin",
+            "num_likes": 15,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1103300837491777537": {
+            "id": "1103300837491777537",
+            "text": "Attend both @BSidesAustin (https://www.eventbrite.com/e/bsides-austin-2019-328-329-registration-54917024298\u00a0\u2026) and InfoSec Southwest 2019 for a combined price of $134. Register for InfoSec Southwest with code BSIDESISSW for a special rate of only $99 (bring your @BSidesAustin badge to check-in). https://infosecsouthwest.com/register/\u00a0 #InfoSecSouthwest",
+            "username": "InfoSecConf",
+            "num_likes": 5,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1101224125580931072": {
+            "id": "1101224125580931072",
+            "text": "We are excited to announce Rumble Network Discovery, a different approach to asset inventory. Designed for complex, hardened, and segmented networks, it is lightning fast and requires no credentials or special access. Sign up for early access at https://www.rumble.run/\u00a0pic.twitter.com/mbmO8cCZHf",
+            "username": "RumbleDiscovery",
+            "num_likes": 25,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1101220884558180353": {
+            "id": "1101220884558180353",
+            "text": "Congratulations to @WiresharkNews on shipping Wireshark 3 today! It is also now powered by our Npcap Windows packet capturing driver. Happy sniffing!https://twitter.com/WiresharkNews/status/1101209252293558272\u00a0\u2026",
+            "username": "nmap",
+            "num_likes": 380,
+            "num_retweets": 158,
+            "num_replies": 1
+        },
+        "1100759141927268353": {
+            "id": "1100759141927268353",
+            "text": "The 2019 edition of my Infosec Startup Buzzword Bingo card is here (just in time for #RSAC) because infosec is just as much defined by its snake oil as its 0days \n\nIn case you were craving super serious analysis on infosec buzzwords, read further: https://medium.com/@kshortridge/infosec-startup-buzzword-bingo-2019-edition-d067fb1316cb\u00a0\u2026pic.twitter.com/1oq0jHmsIK",
+            "username": "swagitda_",
+            "num_likes": 86,
+            "num_retweets": 28,
+            "num_replies": 2
+        },
+        "1100327591578386432": {
+            "id": "1100327591578386432",
+            "text": "Thread: I haven't really tweeted about my next job after Google yet. So here is my new gig, for those of you that are interested: Together with @seanhn we're starting http://optimyze.cloud\u00a0 - a company that helps you reduce your cloud costs, for free.",
+            "username": "halvarflake",
+            "num_likes": 372,
+            "num_retweets": 111,
+            "num_replies": 30
+        },
+        "1099075945644810241": {
+            "id": "1099075945644810241",
+            "text": "ICYMI, read about @tallpoppyio and 49 other women-lead startups in this Forbes list by Allyson Kapin aka @WomenWhoTech:https://www.forbes.com/sites/allysonkapin/2019/02/20/50-women-led-startups-who-are-crushing-tech/\u00a0\u2026",
+            "username": "hypatiadotca",
+            "num_likes": 67,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "1097570602985181192": {
+            "id": "1097570602985181192",
+            "text": "Infosec interloper Trevor Rosen (@trevrosen) is teaching a 3-hour workshop on the basics of Go at Hotel Ella on March 29th at 2PM. Open signups are available for all InfoSec Southwest attendees; register your spot via the sign-up form at https://infosecsouthwest.com/schedule/\u00a0 #InfoSecSouthwest",
+            "username": "InfoSecConf",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1096431440546484224": {
+            "id": "1096431440546484224",
+            "text": "You can't fix what you can't find. Jonathan Cran (@jcran) takes us beyond internet scanning with a dive into attack surface discovery using the open source Intrigue Core framework at InfoSec Southwest 2019 (March 29-31) in Austin, Texas: https://infosecsouthwest.com/register/\u00a0 #InfoSecSouthwest",
+            "username": "InfoSecConf",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1096165869741199360": {
+            "id": "1096165869741199360",
+            "text": "Here's the video recording for my presentation at #bluehatil last week on \"Trends, Challenges, and Strategic Shifts in the Software Vulnerability Mitigation Landscape\"https://www.youtube.com/watch?v=PjbGojjnBZQ\u00a0\u2026",
+            "username": "epakskape",
+            "num_likes": 81,
+            "num_retweets": 39,
+            "num_replies": 1
+        },
+        "1096099480548659200": {
+            "id": "1096099480548659200",
+            "text": " Make the last week of March amazing by attending both @BSidesAustin and InfoSecSouthwest, back to back. Register for ISSW with code BSIDESISSW for a special rate of only $99 (just bring your BSidesAustin badge to check-in). https://infosecsouthwest.com/register/\u00a0 #InfoSecSouthwest ",
+            "username": "InfoSecConf",
+            "num_likes": 5,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1093450514820284416": {
+            "id": "1093450514820284416",
+            "text": "It is always good to take a 2nd look at existing vulns. So @mwulftange found a new rock-solid exploitation technique for the Telerik UI framework (hint: affects an Avast product ;) Enjoy: https://codewhitesec.blogspot.com/2019/02/telerik-revisited.html\u00a0\u2026 #CVE-2017-11317",
+            "username": "codewhitesec",
+            "num_likes": 60,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "1095022298963296259": {
+            "id": "1095022298963296259",
+            "text": "We are excited to announce HD Moore (@hdmoore) as a presenter for ISSW 2019; HD's topic is \"Reflecting on Network Discovery\"; a deep dive into obscure and effective remote network fingerprinting techniques. Join us March 29-31 https://infosecsouthwest.com/register/\u00a0 #InfoSecSouthwest",
+            "username": "InfoSecConf",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1094946505704775680": {
+            "id": "1094946505704775680",
+            "text": "I am thrilled af to announce today is my 1st day at @capsule8 as VP of Product Strategy! \n\nI\u2019m joining one of the best teams in the biz & am so looking forward to helping make security work beautifully *with* modern infra rather than fighting against it, towards true resilience",
+            "username": "swagitda_",
+            "num_likes": 273,
+            "num_retweets": 7,
+            "num_replies": 33
+        },
+        "1094296201762025472": {
+            "id": "1094296201762025472",
+            "text": "I recall you presenting on a new rev of Metasploit. You talked about the focus on exploit quality.  BrianV was like, \"Quality?!\" The notion of pride in reliable code, a constant focus for Brian with Windows, but applied to exploits was a remarkable joining of two worlds.",
+            "username": "JohnLaTwC",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1087312482199207937": {
+            "id": "1087312482199207937",
+            "text": "Two years under disclosure, and they still haven't fixed one of 7 vulnerabilities. Here is my ownage of Nuuo CMS: session bruteforce, auth file upload / rce, auth file download, ... https://raw.githubusercontent.com/pedrib/PoC/master/advisories/nuuo-cms-ownage.txt\u00a0\u2026",
+            "username": "pedrib1337",
+            "num_likes": 38,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1093789855522410497": {
+            "id": "1093789855522410497",
+            "text": "\"We tested 9 different TLS implementations against cache attacks and seven were found to be vulnerable: OpenSSL, Amazon s2n, MbedTLS, Apple CoreTLS, Mozilla NSS, WolfSSL, and GnuTLS. The cat is not dead yet, with two lives remaining thanks to @BearSSLnews  & Google's BoringSSL.\"https://twitter.com/ivanristic/status/1093787788850483200\u00a0\u2026",
+            "username": "cryptopathe",
+            "num_likes": 181,
+            "num_retweets": 151,
+            "num_replies": 6
+        },
+        "1092878856523010048": {
+            "id": "1092878856523010048",
+            "text": "We are stoked to see Todd Manning (@tmanning) present on ICS HMI research at InfoSec Southwest 2019 (March 29-31) with @izobashi and Tony from ZDI. Register before March for Tier 1 pricing at https://infosecsouthwest.com/register/\u00a0 #InfoSecSouthwest",
+            "username": "InfoSecConf",
+            "num_likes": 15,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1092573323899342848": {
+            "id": "1092573323899342848",
+            "text": "Version 2.9.1 of #OWASP #Amass was released! Now #gremlin server can act as the graph used during the #DNS #enumeration. We used this feature with #CosmosDB, but are calling #osint #tinkerpop users to test all #graphdb systems (e.g. #awsNeptune & #neo4j)https://github.com/OWASP/Amass\u00a0",
+            "username": "jeff_foley",
+            "num_likes": 25,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1088116383739756549": {
+            "id": "1088116383739756549",
+            "text": "#ISSW 2019 is a go! We'll be at Hotel Ella (https://hotelella.com\u00a0) March 29-31. Come check it out and register athttps://infosecsouthwest.com/\u00a0",
+            "username": "InfoSecConf",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1087479586441424896": {
+            "id": "1087479586441424896",
+            "text": "I didn't realize there had been this many vulnerabilities in apt's verification layer. Earliest I found was 2009 - averaging about one per year for the past decade.https://gist.github.com/roycewilliams/cf7fce5777d47a8b22265515dba8d004\u00a0\u2026",
+            "username": "TychoTithonus",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1087472967964114946": {
+            "id": "1087472967964114946",
+            "text": "Domains can also switch hands.  Intentionally or not. TLS doesn\u2019t prevent the new owner from serving malicious payloads. Still over TLS.  At the end, we all agree that we need signatures + downgrade protection + TLS.",
+            "username": "jedisct1",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1083424012099817477": {
+            "id": "1083424012099817477",
+            "text": "Metasploit Framework 5.0 releasedhttps://r-7.co/msf5released\u00a0",
+            "username": "metasploit",
+            "num_likes": 2057,
+            "num_retweets": 1184,
+            "num_replies": 32
+        },
+        "1075904169385455616": {
+            "id": "1075904169385455616",
+            "text": "Hey everyone! We're funding independent research in partnership with @trailofbits and @capsule8! Check out our press release, and apply now here: https://summercon19grants.hotcrp.com/\u00a0pic.twitter.com/zD6N05orcG",
+            "username": "SummerC0n",
+            "num_likes": 28,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1068586642368331777": {
+            "id": "1068586642368331777",
+            "text": "Many will wish to know about @tallpoppyio: providing tools to help people combat/defend against online trolls and orcs etc. @hypatiadotca",
+            "username": "MargaretAtwood",
+            "num_likes": 66,
+            "num_retweets": 18,
+            "num_replies": 4
+        }
+    },
+    "tweeted": {
+        "1113043226347352064": {
+            "id": "1113043226347352064",
+            "text": "While working on Rumble Network Discovery, we noticed that you can scan remote subnets through open DNS resolvers. This post includes details on the technique and links to an open source implementation of the DNS server and scanning client.https://twitter.com/RumbleDiscovery/status/1112949111207137280\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 294,
+            "num_retweets": 132,
+            "num_replies": 5
+        },
+        "1111697589810929664": {
+            "id": "1111697589810929664",
+            "text": "Over the years Metasploit has moved from internal-only automation to full external API support and arbitrary-language modules. It was great to see the progress in Pearce's Metasploit 5 talk at BSidesAustinpic.twitter.com/ioQgfaMmb7",
+            "username": "hdmoore",
+            "num_likes": 74,
+            "num_retweets": 13,
+            "num_replies": 4
+        },
+        "1110983818733854720": {
+            "id": "1110983818733854720",
+            "text": "For example, all of the information is the previous screenshot came from sending just *TWO* UDP packets.",
+            "username": "hdmoore",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 5
+        },
+        "1110977229457186818": {
+            "id": "1110977229457186818",
+            "text": "Rumble Network Discovery (https://rumble.run\u00a0) uses a collection of tricks from infosec to provide amazing asset discovery for IT. I'll be speaking at #InfoSecSouthwest this Saturday about these techniques and how you can use them in your own efforts: https://infosecsouthwest.com/schedule/\u00a0pic.twitter.com/RfEsBPvEYq",
+            "username": "hdmoore",
+            "num_likes": 168,
+            "num_retweets": 57,
+            "num_replies": 10
+        },
+        "1110527068016537600": {
+            "id": "1110527068016537600",
+            "text": "A huge THANK YOU to everyone who participated in the first beta of Rumble Network Discovery. Beta 2 just went live with scheduled and recurring scans, an export API, scan exclusions, advanced scan options, loads more fingerprints, and speed increases: https://critical.io/blog/2019/3/25/rumble-network-discovery-beta-2\u00a0\u2026pic.twitter.com/l5h5dh624R",
+            "username": "hdmoore",
+            "num_likes": 88,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "1107714328415879168": {
+            "id": "1107714328415879168",
+            "text": "PSA for Go library developers. PLEASE do not put code into init() that touches the operating system (reading files or otherwise), it makes your library toxic for many use cases. Also, don't register CLI flags there, thanks =)",
+            "username": "hdmoore",
+            "num_likes": 51,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1107707746709848064": {
+            "id": "1107707746709848064",
+            "text": "IPv6 unmasking via UPnP https://blog.talosintelligence.com/2019/03/ipv6-unmasking-via-upnp.html\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 18,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1105128038759567360": {
+            "id": "1105128038759567360",
+            "text": "I am speaking at InfoSec Southwest 2019 (@InfoSecConf) on many of the discovery and fingerprinting techniques included with the Rumble Network Discovery Beta 1 release. If you like weird network stuff, please attend the talk:   https://infosecsouthwest.com/schedule/\u00a0https://twitter.com/RumbleDiscovery/status/1105126692627075073\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 62,
+            "num_retweets": 29,
+            "num_replies": 4
+        },
+        "1105100194587258885": {
+            "id": "1105100194587258885",
+            "text": "Super excited to announce the beta program for Critical Research's (@CritResearch) first product; Rumble Network Discovery https://critical.io/blog/2019/3/10/rumble-network-discovery-in-beta\u00a0\u2026 - Give it a shot and let me know what you like and what you don't. PS. Sorry EU folks, access will be resolved soon.pic.twitter.com/aRs0TJaKhs",
+            "username": "hdmoore",
+            "num_likes": 170,
+            "num_retweets": 85,
+            "num_replies": 11
+        },
+        "1103303221739687936": {
+            "id": "1103303221739687936",
+            "text": "Google Chrome exploit with a full sandbox escape found in the wild, update ASAP:https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 137,
+            "num_retweets": 157,
+            "num_replies": 3
+        },
+        "1101190571622830080": {
+            "id": "1101190571622830080",
+            "text": "Austin Hackers (@austinhackers)  #0x95 is TONIGHT, February 28th  7:00pm at Mr. Tramps, normal rules apply:  http://takeonme.org\u00a0",
+            "username": "hdmoore",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1100419873241550849": {
+            "id": "1100419873241550849",
+            "text": "Supermicro hardware weaknesses let researchers backdoor an IBM cloud server https://arstechnica.com/?post_type=post&p=1464187\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 30,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "1096061500903481346": {
+            "id": "1096061500903481346",
+            "text": "A particular software vendor insists on using plain HTTP for online updates. Fortunately, they have a bug bounty. It paid me $1,426.62 for vulnerabilities that would have been much harder to exploit over TLS... so I donated it all to LetsEncrypt =) \n\nFull details once patched.pic.twitter.com/GUSrWTqkLf",
+            "username": "hdmoore",
+            "num_likes": 1352,
+            "num_retweets": 289,
+            "num_replies": 23
+        },
+        "1092886672671420416": {
+            "id": "1092886672671420416",
+            "text": "The last week of March in Austin is looking epic for information security. BSides Austin (https://bsidesaustin.com/\u00a0) kicks it off on the 28th, followed by InfoSecSouthwest (https://infosecsouthwest.com/\u00a0) that weekend. If you plan to make either event, drop me a line!",
+            "username": "hdmoore",
+            "num_likes": 11,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1087745171914137600": {
+            "id": "1087745171914137600",
+            "text": "Remote Code Execution in apt/apt-get: https://justi.cz/security/2019/01/22/apt-rce.html\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 606,
+            "num_retweets": 448,
+            "num_replies": 7
+        },
+        "1087593706444730369": {
+            "id": "1087593706444730369",
+            "text": "It is 2019 and smart folks are dropping Apache 0-day because reproducing fuzz cases is hard for the maintainers: https://github.com/hannob/apache-uaf/blob/master/README.md\u00a0\u2026 (via @hanno)",
+            "username": "hdmoore",
+            "num_likes": 179,
+            "num_retweets": 90,
+            "num_replies": 5
+        },
+        "1087468447284584449": {
+            "id": "1087468447284584449",
+            "text": "Lots of examples where software updaters get it wrong and TLS validation would have prevented or complicated exploitation: https://www.debian.org/security/2014/dsa-3025\u00a0\u2026 & all of these:https://github.com/infobyte/evilgrade/tree/master/modules/\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 42,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1087466606354223104": {
+            "id": "1087466606354223104",
+            "text": "Demand TLS for software updates. Leaking information on which package is updating enables automated exploitation and often downgrade attacks. Updaters can be vulnerable, but difficult to exploit if TLS validation occurs on the connection. Example: https://justi.cz/security/2018/09/13/alpine-apk-rce.html\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 302,
+            "num_retweets": 133,
+            "num_replies": 21
+        },
+        "1074746216569806854": {
+            "id": "1074746216569806854",
+            "text": "The \"Hacking for the Holidays\" Humble Bundle includes a bunch of my favorite security books, definitely recommended:https://www.humblebundle.com/books/hacking-for-the-holidays-books\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 70,
+            "num_retweets": 44,
+            "num_replies": 4
+        },
+        "1074691776517160960": {
+            "id": "1074691776517160960",
+            "text": "\"We seem to be in some terrible new era of frankenlicenses, where the worst of proprietary licenses are bolted on to the goodwill created by open source licenses\" http://dtrace.org/blogs/bmc/2018/12/16/a-eula-in-foss-clothing/\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 26,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1073972963484098561": {
+            "id": "1073972963484098561",
+            "text": "A dose of cold reality for the anti-SaaS licensing changes happening in open source: http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/\u00a0\u2026",
+            "username": "hdmoore",
+            "num_likes": 34,
+            "num_retweets": 23,
+            "num_replies": 1
+        }
+    },
+    "num_retweets_by_originator": {
+        "RumbleDiscovery": 2,
+        "daleochase": 1,
+        "daniel_bilar": 1,
+        "nubesque": 1,
+        "phishalotamus": 1,
+        "epakskape": 2,
+        "KismetWireless": 2,
+        "Intrigueio": 1,
+        "RedTeamPT": 1,
+        "josephfcox": 1,
+        "HeadlessZeke": 1,
+        "VerSprite": 1,
+        "d20ctf": 1,
+        "metasploit": 2,
+        "Atredis": 2,
+        "0x446f49": 1,
+        "BSidesAustin": 1,
+        "InfoSecConf": 7,
+        "nmap": 1,
+        "swagitda_": 2,
+        "halvarflake": 1,
+        "hypatiadotca": 1,
+        "codewhitesec": 1,
+        "JohnLaTwC": 1,
+        "pedrib1337": 1,
+        "cryptopathe": 1,
+        "jeff_foley": 1,
+        "TychoTithonus": 1,
+        "jedisct1": 1,
+        "SummerC0n": 1,
+        "MargaretAtwood": 1
+    },
+    "users_retweeted": [
+        "InfoSecConf",
+        "RumbleDiscovery",
+        "epakskape",
+        "KismetWireless",
+        "metasploit",
+        "Atredis",
+        "swagitda_",
+        "daleochase",
+        "daniel_bilar",
+        "nubesque",
+        "phishalotamus",
+        "Intrigueio",
+        "RedTeamPT",
+        "josephfcox",
+        "HeadlessZeke",
+        "VerSprite",
+        "d20ctf",
+        "0x446f49",
+        "BSidesAustin",
+        "nmap",
+        "halvarflake",
+        "hypatiadotca",
+        "codewhitesec",
+        "JohnLaTwC",
+        "pedrib1337",
+        "cryptopathe",
+        "jeff_foley",
+        "TychoTithonus",
+        "jedisct1",
+        "SummerC0n",
+        "MargaretAtwood"
+    ]
+}

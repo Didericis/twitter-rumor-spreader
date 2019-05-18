@@ -1,0 +1,1704 @@
+{
+    "is_complete": true,
+    "username": "zeppelin_os",
+    "retweeted": {
+        "1120447082245120004": {
+            "id": "1120447082245120004",
+            "text": "Join us this Friday at the Universidad Nacional Tecnol\u00f3gica @ La Plata, Argentina for a workshop on smart contract upgrades by @holajotola pic.twitter.com/h5ShdTtm8z",
+            "username": "ZeppelinOrg",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1117161599872188416": {
+            "id": "1117161599872188416",
+            "text": "Want to learn the basics of smart contract development? Follow this easy step-by-step walkthrough to get started https://forum.zeppelin.solutions/t/the-hitchhiker-s-guide-to-smart-contracts-in-ethereum/522\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 25,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1116312017604767745": {
+            "id": "1116312017604767745",
+            "text": "\u30a4\u30d9\u30f3\u30c8\u516c\u958b\uff01\n\n\u7206\u901f\u3067\u30bb\u30ad\u30e5\u30a2\u306a\u30b9\u30de\u30fc\u30c8\u30b3\u30f3\u30c8\u30e9\u30af\u30c8\u304c\u66f8\u3051\u308b\u30d5\u30ec\u30fc\u30e0\u30ef\u30fc\u30af\u3092\u63d0\u4f9b\u3057\u3066\u3044\u308b@ZeppelinOrg \u3055\u3093\u306b\u3088\u308b\u3001\u30cf\u30f3\u30ba\u30aa\u30f3\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u3067\u3059\uff01\n\nmastering ethereum\u306e\u5192\u982d\u306bzeppelin\u3055\u3093\u304c\u51fa\u3066\u304f\u308b\u3053\u3068\u3067\u6709\u540d\u3067\u3059\u3088\u306d\uff01\n\n\u662f\u975e\u3054\u53c2\u52a0\u4e0b\u3055\u3044\uff01\n\nhttps://singularityhive.connpass.com/event/127710/\u00a0 #zeppelin #blockchain",
+            "username": "SingularityHive",
+            "num_likes": 18,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1116056160153559040": {
+            "id": "1116056160153559040",
+            "text": "Should OpenZeppelin implement Fixed Point Arithmetic for smart contracts? How?\n\nGet involved in the discussion \nhttps://forum.zeppelin.solutions/t/fixed-point-arithmetic-support/356\u00a0\u2026pic.twitter.com/FkeXzHmvT7",
+            "username": "ZeppelinOrg",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1113155935600603136": {
+            "id": "1113155935600603136",
+            "text": "The OpenZeppelin community is deciding what error messages the library should have on revert \n\n Join the discussion on the forum!https://forum.zeppelin.solutions/t/openzeppelin-solidity-requires-do-not-have-string-reason-messages/388\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1112757105671487488": {
+            "id": "1112757105671487488",
+            "text": "ZeppelinOS 2019 development update \n\n- Audit of Gas Station Network\n- Improved CLI commands\n- Hot code loader and more on Zepkit\n- Version 2.2.2 released\n- CREATE2 command on 2.3.0-alphahttps://forum.zeppelin.solutions/t/march-2019-development-update/484\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 19,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1112754952663896064": {
+            "id": "1112754952663896064",
+            "text": "March development update for @zeppelin_os is out!! Interactive commands, hot code loading, CREATE2 support, GSN audit, talks at NYC and EthCC, a new team member, and more:https://forum.zeppelin.solutions/t/march-2019-development-update/484\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1103297635056791554": {
+            "id": "1103297635056791554",
+            "text": "Suffer from Developer Fatigue? @Zeppelin_os can help!\nGreat presentation from @DennisonBertram and congratulations to @ZeppelinOrg for 500,000+ downloads #OpenZeppelin #EthCC\nWeb 2.0: Move fast and break things.\nWeb 3.0: Move fast, upgrade smart contracts, and let users decide.pic.twitter.com/uV2ViFcpFI",
+            "username": "JulienThevenard",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1103295333822615553": {
+            "id": "1103295333822615553",
+            "text": "@DennisonBertram is Killing it at #ethcc presenting upgrade development using @zeppelin_os\n@ZeppelinOrg @AssethFRpic.twitter.com/Hgb64EHkLC",
+            "username": "amiraenrique",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1101509586979307526": {
+            "id": "1101509586979307526",
+            "text": "February development update from the @zeppelin_os team: version 2.2 was released, ZepKit was a success at EthDenver, and we are working on interactive commands and reserved addresses for contract deployments!https://forum.zeppelin.solutions/t/february-2019-development-update/346\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 15,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1100504216571953152": {
+            "id": "1100504216571953152",
+            "text": "A minor bug in OpenZeppelin's SafeERC20 was reported  independently, and subsequently fixed. \nWe've just put out two hotfix  releases : v2.1.3 (the latest version), and v2.0.1 for Solidity v0.4.25 support.\nRead more here:https://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v2.1.3\u00a0\u2026",
+            "username": "mrnventuro",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1100417866606600192": {
+            "id": "1100417866606600192",
+            "text": "Are you in New York? Join us this Wednesday, Feb 27th for a Live Coding workshop with some of the team from ZeppelinOS. Sign up!  http://zpl.in/zos-NYC1\u00a0pic.twitter.com/YybimbPokj",
+            "username": "ZeppelinOrg",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1096204897320497152": {
+            "id": "1096204897320497152",
+            "text": "ZEPKIT! Get started with the latest tool from @zeppelin_os Our tutorial will show you how to get started quickly. #Zepkit comes packed with #truffle #infura #react #zeppelinOS to get you started developing upgradable contracts!https://blog.zeppelinos.org/getting-started-with-zepkit/\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1096430874629947394": {
+            "id": "1096430874629947394",
+            "text": "After a few weeks of hard work and some release candidates, the official v2.2.0 of @zeppelin_os is finally out! Kudos to the entire team @facuspagnuolo @smpalladino @ramonrecuero @_ajsantander https://github.com/zeppelinos/zos/releases/tag/v2.2.0\u00a0\u2026",
+            "username": "holajotola",
+            "num_likes": 9,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1096101471433736192": {
+            "id": "1096101471433736192",
+            "text": "It's @EthereumDenver eve! Here's a last-minute knowledge drop from @ZeppelinOrg #BUIDLWeekhttps://kauri.io/article/f6371bb1254b43aaa34ab821f3043e40\u00a0\u2026",
+            "username": "kauri_io",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1096063620918755328": {
+            "id": "1096063620918755328",
+            "text": "Getting started with ZepKit by @DennisonBertram https://blog.zeppelinos.org/getting-started-with-zepkit/?utm_campaign=zos-technical-zepkit&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1095394327440674816": {
+            "id": "1095394327440674816",
+            "text": "New day, new product by @zeppelin_os! Zepkit is ready. The easiest way to build a Web3 application with the most trusted tools in Ethereum.https://blog.zeppelinos.org/introducing-zepkit\u00a0\u2026",
+            "username": "ramonrecuero",
+            "num_likes": 61,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1095018932761587712": {
+            "id": "1095018932761587712",
+            "text": "\"Where are the users?\" -> Write up about the current status of the Web3 stack by. https://blog.zeppelinos.org/a-new-wave-of-applications/\u00a0\u2026 Thanks to @KyleSamani @FEhrsam @0xstark @placeholdervc for their great contributions to the conversation. via @zeppelin_os",
+            "username": "ramonrecuero",
+            "num_likes": 23,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1094976959132717056": {
+            "id": "1094976959132717056",
+            "text": "Confused about what is happening when you link an EVM package? Unsure of how EVM packages work behind the scenes? Check out my new #blockbites video for enlightenment! #ethereum #solidity @zeppelin_os #SmartContractshttps://youtu.be/idTiqhr8POE\u00a0",
+            "username": "DennisonBertram",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1093876989872750593": {
+            "id": "1093876989872750593",
+            "text": "Have you ever wondered what would make for a good EVM package? Have an idea for Solidity code that you find yourself reusing over and over? Check out my new article for ideas!!! @zeppelin_os #ethereum #Solidity #blockchain #dappshttps://blog.zeppelinos.org/building-blocks:-what-makes-a-good-evm-package?/&utm_campaign=zos-technical-evmpackages&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1093181918693060609": {
+            "id": "1093181918693060609",
+            "text": "The team's newer @zeppelin_os is showing similar momentum, though earlier in its lifecycle. ~7% week-over-week growth for the 2nd half of the year.pic.twitter.com/g2NUo3SI3K",
+            "username": "cburniske",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1092800727892852737": {
+            "id": "1092800727892852737",
+            "text": "Here's to starting a new tradition on 2019: @zeppelin_os monthly development updates!! \n\nOn January we worked on support for Truffle 5 and Solidity 0.5, migration to Typescript and web3 1.0, implementation of ZEP mechanics, a new ProxyAdmin, and more!https://forum.zeppelin.solutions/t/january-2019-development-update/262\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 31,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1092906163367231489": {
+            "id": "1092906163367231489",
+            "text": "Who's afraid to Upgrade?!?! Join me for an overview of upgradeable smart contracts. @zeppelin_os #ethereum #upgrade #blockchain #blockbiteshttps://www.youtube.com/watch?v=yczBiJnCsNA\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1092765191450882048": {
+            "id": "1092765191450882048",
+            "text": "Got your Solidity data structure working? Jump into part two of my tutorial for Building EVM packages on Ethereum with ZeppelinOS!https://blog.zeppelinos.org/evm-package-deployment-with-zeppelinos-part-ii-deploying-and-testing-a-linkedlist-contract/\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1092413822269304837": {
+            "id": "1092413822269304837",
+            "text": "We've published an article on how to test real-world smart contract upgrades using @zeppelin_os and @trufflesuite's ganache. You can test your upgrades on a safe environment that mimics mainnet before running them on production!https://blog.zeppelinos.org/testing-real-world-contract-upgrades/?utm_campaign=zos-technical-testing-contract-upgrades&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 40,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "1091367064282034176": {
+            "id": "1091367064282034176",
+            "text": "In this great tutorial, @frangio_ explains two idiomatic ways to use OpenZeppelin for implementing custom supply mechanisms.https://forum.zeppelin.solutions/t/how-to-implement-erc20-supply-mechanisms/226\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1091108928723783680": {
+            "id": "1091108928723783680",
+            "text": "Now!! @aantonop is at the Ethereum Buenos Aires meetup! https://www.youtube.com/watch?v=S1fK-i9RoE8\u00a0\u2026pic.twitter.com/BBqjtuAiBS",
+            "username": "ZeppelinOrg",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1091108615706955776": {
+            "id": "1091108615706955776",
+            "text": "Want to #BUIDL complex applications on public blockchains? @ZeppelinOrg's got you covered! Check out their latest post to see what they've been up to & what they have planned for #ETHDenver 2019: https://blog.zeppelin.solutions/zeppelin-at-ethdenver-35e3c5879e\u00a0\u2026 #BeABufficornpic.twitter.com/BCXxt76p56",
+            "username": "EthereumDenver",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1091046007742312448": {
+            "id": "1091046007742312448",
+            "text": "Today we're launching the Zeppelin Community forum (beta)! \n\nA place for developers to learn, discuss and explore design patterns and best practices of smart contract development.\nAlso for OpenZeppelin and ZeppelinOS developer discussions.\n\nJoin us!http://zpl.in/forum\u00a0",
+            "username": "ZeppelinOrg",
+            "num_likes": 50,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "1089977664335724547": {
+            "id": "1089977664335724547",
+            "text": " #javascript testing helpers https://github.com/OpenZeppelin/openzeppelin-test-helpers\u00a0\u2026 by @ZeppelinOrg. Indispensable for #ethereum smart contracts #buidl with latest @trufflesuite truffle 5  using #web3 1.0",
+            "username": "DecentFund",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1089904342814150661": {
+            "id": "1089904342814150661",
+            "text": "Entre @ZeppelinOrg, @wearexivis, @MakerDAO, @decentraland, @RCN_token y @NomicLabs estamos organizando la siguiente meetup de EthereumBsAs en @areatres para este jueves a las 19hs, con @tinchoabbate contando de seguridad en smart contracts. Los esperamos!https://www.meetup.com/ethereum-ba/events/258416780/\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 20,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1089876918940385286": {
+            "id": "1089876918940385286",
+            "text": "I have a new EVM package tutorial up! Create reusable, shareable, smart-contract code that lives directly on the blockchain, with @zeppelin_os! I think it's going to have a big impact on how we develop for #ethereum #solidityhttps://blog.zeppelinos.org/evm-package-deployment-with-zeppelinos-part-i-introduction-and-creating-a-linkedlist-contract/?utm_campaign=zos-tutorial-evmpackages&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1086401427570917377": {
+            "id": "1086401427570917377",
+            "text": "A great quick article about the advantages of EVM packages. #zeppelinOS @zeppelin_oshttps://www.cryptodefense.io/2018/11/30/evm-packages-on-chain-immutable-upgradeable-package-management/\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 16,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1086302527258329088": {
+            "id": "1086302527258329088",
+            "text": "OpenZeppelin has migrated to solhint, so I'm deprecating our solium plugin. More details in https://github.com/ZeppelinSolutions/solium-plugin-zeppelin#deprecated\u00a0\u2026\nIf you need any assistance to fork or migrate, let me know.\n\nThanks to @dotFoxInc and the solium community for their code and support.",
+            "username": "yoelopio",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1083445804088606722": {
+            "id": "1083445804088606722",
+            "text": "After a few weeks as a release candidate, the official v2.1.0 of @zeppelin_os is finally out! Kudos to the entire team!!\n\nhttps://github.com/zeppelinos/zos/releases/tag/v2.1.0\u00a0\u2026https://twitter.com/smpalladino/status/1076145619171971073\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1082775180332724224": {
+            "id": "1082775180332724224",
+            "text": "What does this mean for contract upgrades using @zeppelin_os or any other delegatecall-based upgradeability pattern? \n\nIt means that you can safely upgrade a contract compiled with solidity 0.4 to one compiled with 0.5, and that this will hold for future versions of the compiler.https://twitter.com/ethchris/status/1073692785176444928\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1081311506418094081": {
+            "id": "1081311506418094081",
+            "text": "OpenZeppelin 2.1 is finally out! Ready to fulfil all your Solidity 0.5 needs. \n\nnpm install openzeppelin-solidityhttps://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v2.1.1\u00a0\u2026",
+            "username": "frangio_",
+            "num_likes": 96,
+            "num_retweets": 35,
+            "num_replies": 1
+        },
+        "1079411892513325056": {
+            "id": "1079411892513325056",
+            "text": "I just published \"How to Write Upgradeable Smart Contracts with Truffle ^5.0 and ZeppelinOS ^2.0\" \n\nCc @trufflesuite @zeppelin_oshttps://paulrberg.com/post/2018/12/30/upgradeable-smart-contracts/\u00a0\u2026",
+            "username": "PaulRBerg",
+            "num_likes": 95,
+            "num_retweets": 30,
+            "num_replies": 1
+        },
+        "1078639703497342977": {
+            "id": "1078639703497342977",
+            "text": "Personal post explaining why I'm involved in blockchain tech and why we do what we do at @ZeppelinOrg. Bonus: our plans for 2019.https://twitter.com/maraoz/status/1078638999886069760\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1078398138669514752": {
+            "id": "1078398138669514752",
+            "text": "We just published the 2nd release candidate of OpenZeppelin 2.1, now for Solidity 0.5.x! Check it out: npm install openzeppelin-solidity@nexthttps://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v2.1.0-rc.2\u00a0\u2026",
+            "username": "frangio_",
+            "num_likes": 35,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1076145619171971073": {
+            "id": "1076145619171971073",
+            "text": "We have also released @zeppelin_os v2.1.0 rc with support for @trufflesuite v5 projects and Solidity 0.5.x!! This release also includes gas price discovery via @ethgasstation, and automatic contract verification on @etherscan.https://github.com/zeppelinos/zos/releases/tag/v2.1.0-rc.0\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 35,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1076133695776612353": {
+            "id": "1076133695776612353",
+            "text": "Amazing how easily I have created and deployed an ERC721 contract with @zeppelin_os and @ZeppelinOrg's OpenZeppelin. Really nice work!",
+            "username": "mirasfederico",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1076104328635736064": {
+            "id": "1076104328635736064",
+            "text": "Near the end of the year, we are glad to see @zeppelin_os EVM packages by @levelk_io, @LivepeerOrg, @gnosisSafe, #tplprotocol's @z0age, and @ZeppelinOrg's OpenZeppelin!https://blog.zeppelinos.org/state-of-evm-packages-end-of-2018/?utm_campaign=zos-announcement-evmpackages-on-mainnet&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 28,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1072568075680129024": {
+            "id": "1072568075680129024",
+            "text": "The @levelk_io team released yet another EVM package! registry-builder allows you to create your own TCR contract with ZeppelinOS in a snap \nhttps://github.com/levelkdev/registry-builder#using-from-zeppelinos\u00a0\u2026https://twitter.com/levelk_io/status/1072537699628789761\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 21,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1072567723480285185": {
+            "id": "1072567723480285185",
+            "text": "The ZeppelinOS repo is now 1000 commits \n\nCongratulations ZeppelinOS team!\n@smpalladino @facuspagnuolo @_ajsantander @holajotolapic.twitter.com/07CmQq2Vm5",
+            "username": "ZeppelinOrg",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1070101203197935616": {
+            "id": "1070101203197935616",
+            "text": "3. Governance & economic model.\n\nDesigning & codifying the right governance and economic model from Day 1 is impossible. They should be introduced not all at once, but carefully, thoughtfully & gradually tested with users. I'm inspired by how @zeppelin_os & others are doing this.",
+            "username": "ianjohnlee",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1068933994983632897": {
+            "id": "1068933994983632897",
+            "text": "We have tools. So. Many. Dev. Tools.\n\n-@infura_io's secure, reliable, and scalable access to Ethereum and IPFS.\n-@trufflesuite development made easy\n-Pantheon from @PegaSysEng joins the client game\n-@Kaleido_io blockchain business cloud\n-@awscloud\n-@Azure\n-@ZeppelinOrg\n-Relayers",
+            "username": "ethereumJoseph",
+            "num_likes": 145,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "1068933993113034752": {
+            "id": "1068933993113034752",
+            "text": "The blockchain ecosystem is interoperable and working together.\n\n-StandardBounties + @GetGitcoin\n-@AirSwap + @Opera + @MeridioRE \n-@AragonProject, @DharmaProtocol, and @ZeppelinOrg on @kauri_io\n-@polkadotnetwork interchain protocol\n-BTC Relay\n-@cosmos parallel blockchains network",
+            "username": "ethereumJoseph",
+            "num_likes": 165,
+            "num_retweets": 31,
+            "num_replies": 6
+        },
+        "1068856405610962946": {
+            "id": "1068856405610962946",
+            "text": "nice video by on deploying #Upgradeable Smart Contracts using @zeppelin_oshttps://www.youtube.com/watch?v=kIHKo3DWuUo\u00a0\u2026",
+            "username": "theblockstalk",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1069622620650381312": {
+            "id": "1069622620650381312",
+            "text": "Happy to see more devs jumping aboard the EVM packages standard we are pushing from @zeppelin_os :-)https://www.cryptodefense.io/2018/11/30/evm-packages-on-chain-immutable-upgradeable-package-management/\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1068640296177561600": {
+            "id": "1068640296177561600",
+            "text": "Want to migrate an existing @trufflesuite project to use @zeppelin_os?  Have a look at my article that describes an approach to migrations and merging addresses into artifacts:https://medium.com/@asselstine/integrating-zeppelin-os-with-truffle-841e89fa34b3\u00a0\u2026",
+            "username": "b_asselstine",
+            "num_likes": 31,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1067883937526104064": {
+            "id": "1067883937526104064",
+            "text": "After this week's event-stream incident, here are some thoughts on creating a secure dependencies ecosystem, and a brief of what we are building at @zeppelin_os together with 100+ developers and security researchers.http://blog.zeppelinos.org/toward-a-secure-code-ecosystem/?utm_source=palla&utm_medium=twitter&utm_campaign=toward-a-secure-code-ecosystem\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1067549353642995717": {
+            "id": "1067549353642995717",
+            "text": "For those of you who missed it, the proxy pattern that is in widespread use today for implementing upgradeability was originally conceived by @maraoz from @ZeppelinOrg and @izqui9 from @AragonProject. Love to see how much we have all built since then!https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1065958044943695872": {
+            "id": "1065958044943695872",
+            "text": "Technical article on how we have been tackling function clashes between proxies and implementation contracts in @zeppelin_os\nhttps://blog.zeppelinos.org/the-transparent-proxy-pattern/?utm_source=palla&utm_medium=twitter&utm_campaign=transparent-proxy-pattern\u00a0\u2026\n\nAll feedback is welcome!",
+            "username": "smpalladino",
+            "num_likes": 40,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1065069988078383110": {
+            "id": "1065069988078383110",
+            "text": "Mastering Ethereum is now available on Kindle. Print in one week:\n\nMastering Ethereum: Building Smart Contracts and DAppshttps://www.amazon.com/dp/1491971940\u00a0",
+            "username": "aantonop",
+            "num_likes": 2065,
+            "num_retweets": 597,
+            "num_replies": 92
+        },
+        "1064654793464049664": {
+            "id": "1064654793464049664",
+            "text": "Got my feet wet with @zeppelin_os and it's really cool. Interesting to think about the problem of governance applied to upgradeable smart contracts. Worth the read:https://blog.zeppelinos.org/exploring-upgradeability-governance-in-zeppelinos-with-a-gnosis-multisig/\u00a0\u2026",
+            "username": "PaulRBerg",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1063372650083483648": {
+            "id": "1063372650083483648",
+            "text": "Today is the last day you can apply to the @zeppelin_os private beta. Become a part of a network that uses economic incentives to maintain a healthy ecosystem of secure smart contract applications ->https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=zeppelinos&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "blueyard",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1063217236301758466": {
+            "id": "1063217236301758466",
+            "text": "Tomorrow's the last day projects and devs can apply to the *private beta* to experiment with @zeppelin_os & $ZEP!https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=placeholder&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "cburniske",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1063170579333857282": {
+            "id": "1063170579333857282",
+            "text": "The @zeppelin_os Token Private Beta registration will close this Friday. If you think your project would benefit from participating in the Private Beta, or if you\u2019re curious to try early versions of the ZEP token mechanics, apply here: https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/\u00a0\u2026pic.twitter.com/gLY4CbygfY",
+            "username": "trueventures",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1062718996783353861": {
+            "id": "1062718996783353861",
+            "text": "The @ZeppelinOS beta is seeking a few more projects and developers to participate in creation and governance of re-usable on chain smart contract packages. Sign up open until Friday.https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=livepeer&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "petkanics",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1062695667943067650": {
+            "id": "1062695667943067650",
+            "text": "Learn how to BUIDL your own https://docs.zeppelinos.org/docs/publishing.html\u00a0\u2026",
+            "username": "martriay",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1062678030253023232": {
+            "id": "1062678030253023232",
+            "text": ".@zeppelin_os Beta registration still open until this Friday!https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/\u00a0\u2026",
+            "username": "jbrukh",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1062087254569639940": {
+            "id": "1062087254569639940",
+            "text": "Returning from our offsite strategy retreat south of Berlin, and I can't be prouder of these truly amazing people. I honestly admire them all. @ZeppelinOrg team rocks!pic.twitter.com/XUO4PgkyRg",
+            "username": "maraoz",
+            "num_likes": 63,
+            "num_retweets": 4,
+            "num_replies": 4
+        },
+        "1062026654808043520": {
+            "id": "1062026654808043520",
+            "text": "Great discussion with @zeppelin_os @ZeppelinOrg about the Transparent Contract Standard: https://github.com/ethereum/EIPs/issues/1538#issuecomment-437918634\u00a0\u2026 #ethereum #contracts #erc",
+            "username": "mudgen",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1060568016461684741": {
+            "id": "1060568016461684741",
+            "text": "We\u2019re excited to participate in @zeppelin_os\u2019s Private Beta\u2014details coming soon! Meanwhile, check out their announcement post here https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=partners&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "gnosisPM",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1059499876420120581": {
+            "id": "1059499876420120581",
+            "text": "$ZEP token private beta provides \"a share of ZEP tokens to projects that deploy an EVM package,\" with the below projects already onboard: https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=placeholder&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026 via @zeppelin_ospic.twitter.com/3qNatPjLbU",
+            "username": "cburniske",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1059212602566475776": {
+            "id": "1059212602566475776",
+            "text": "Now that #devcon4 has finished, here's the link to the workshop we gave at #Web3Summit with @martriay on upgradeability using @zeppelin_oshttps://youtu.be/HU5HdTvwjwg\u00a0",
+            "username": "smpalladino",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1059393699778461696": {
+            "id": "1059393699778461696",
+            "text": "It's great to see how @ZeppelinOrg is helping the community standardize widely used patterns & adopt software engineering good practices. Did you know that you can use the @gnosisSafe with @zeppelin_os?https://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/?utm_source=gnosis&utm_medium=social&utm_campaign=evm-packages%5C\u00a0\u2026",
+            "username": "gnosisPM",
+            "num_likes": 22,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1058408036492963840": {
+            "id": "1058408036492963840",
+            "text": ".@ZeppelinOrg announces the launch of their ZEP Token Private Beta \u2014 a network that uses economic incentives to maintain a healthy ecosystem of secure smart contract applicationshttps://blog.zeppelinos.org/announcing-the-zep-token-private-beta/\u00a0\u2026",
+            "username": "trueventures",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1058011282912276481": {
+            "id": "1058011282912276481",
+            "text": "been a fan of zeppelin since before zeppelin existed and can\u2019t wait to see $zep grow, huge congrats to this extraordinary team https://twitter.com/zeppelin_os/status/1058002122254569475\u00a0\u2026",
+            "username": "santisiri",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1058391216751026176": {
+            "id": "1058391216751026176",
+            "text": "We\u2019re part of @zeppelin_os $ZEP Private Beta launch  Proud to help smart contract code become easier and accessible for #developers Check it out https://twitter.com/zeppelin_os/status/1058002122254569475\u00a0\u2026",
+            "username": "RCN_token",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1058385589593083904": {
+            "id": "1058385589593083904",
+            "text": "We\u2019re excited to participate in @zeppelin_os\u2019s Private Beta launch, exploring $ZEP staking for deploying and vouching EVM package. Check out the announcement post here:https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=partners&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "coinfund_io",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1058374069425446912": {
+            "id": "1058374069425446912",
+            "text": " @zeppelin_os launches beta: \n\n\u201cEVM packages provide projects with instant access to hundreds of standard implementations without having to deploy any code, thus helping projects save costs and giving them greater flexibility with their applications.\u201dhttps://blog.zeppelinos.org/announcing-the-zep-token-private-beta/\u00a0\u2026",
+            "username": "MerschMax_",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1058333666164834310": {
+            "id": "1058333666164834310",
+            "text": "Come meet and greet the #ZeppelinOS and #OpenZeppelin team today at the Mirror Bar, 1st floor, #Devcon4pic.twitter.com/LgVStdncxc",
+            "username": "ZeppelinOrg",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1057980074685841408": {
+            "id": "1057980074685841408",
+            "text": "Full house on @maraoz post mortem of the Solidity compiler by the @ZeppelinOrg audits team. \n\nAnd the full report has been made public this very morning! Check it out at: https://blog.zeppelin.solutions/solidity-compiler-audit-8cfc0316a420\u00a0\u2026pic.twitter.com/4Ito6glNIF",
+            "username": "smpalladino",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1058000400392032256": {
+            "id": "1058000400392032256",
+            "text": "Announcing ZeppelinOS 2.0! https://blog.zeppelinos.org/zeppelinos-2-0/?utm_source=zeppelin&utm_medium=social&utm_campaign=zeppelinos-2-0\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 61,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1057950176214765574": {
+            "id": "1057950176214765574",
+            "text": "Today I\u2019m talking about upgradeability and EVM Packages! We also have amazing news to announce about @zeppelin_os! Come and join the talk at Prism in #Devcon4 - 14.00 ",
+            "username": "facuspagnuolo",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1057933767908749312": {
+            "id": "1057933767908749312",
+            "text": "Solidity Compiler Audithttps://blog.zeppelin.solutions/solidity-compiler-audit-8cfc0316a420\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 61,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "1057920013200429056": {
+            "id": "1057920013200429056",
+            "text": "Join me at Radiant Orchid in #Devcon4 today at 13.24 (sharp!) for a lightning talk on EVM packages, followed by an in-depth @zeppelin_os talk by @facuspagnuolo in Prism at 14:00! \n\nAnd in-between, don't miss @maraoz recap of the Solidity compiler audit at 13.40 in Ultra Violet!",
+            "username": "smpalladino",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1057639147483983878": {
+            "id": "1057639147483983878",
+            "text": "Are you in Prague too?https://twitter.com/zeppelin_os/status/1057637750625595393\u00a0\u2026",
+            "username": "EthHuntDevcon",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1057331896403795968": {
+            "id": "1057331896403795968",
+            "text": "Almost there!pic.twitter.com/kc92sR5oAT",
+            "username": "EthHuntDevcon",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1057331411663966208": {
+            "id": "1057331411663966208",
+            "text": "For those at Prague for DEVCON4, my talk will be Thurs Nov 1st at 1.30pmhttps://twitter.com/maraoz/status/1055177440547495936\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 32,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1057311728093007874": {
+            "id": "1057311728093007874",
+            "text": "Join us tomorrow evening to discuss the tool stacks allowing coordination of development on #decentralized networks - with @joincolony @ZeppelinOrg @oscoin #PragueBlockchainWeek #Devcon4https://www.eventbrite.com/e/coordination-of-development-incentives-frameworks-and-governance-tickets-51974614471\u00a0\u2026",
+            "username": "fabric_vc",
+            "num_likes": 18,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1057216627136217088": {
+            "id": "1057216627136217088",
+            "text": "Play our Devcon4 treasure hunt and earn $1200!https://twitter.com/EthHuntDevcon/status/1057215538898878470\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 25,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1055745368288387072": {
+            "id": "1055745368288387072",
+            "text": "Nothing better than a changelog for reflecting on what we have been working on for the last couple of weeks. No wonder we have been quite busy.\n\nhttps://github.com/zeppelinos/zos/releases/tag/v2.0.0\u00a0\u2026pic.twitter.com/P66oUHHsa3",
+            "username": "smpalladino",
+            "num_likes": 28,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1055512606394499072": {
+            "id": "1055512606394499072",
+            "text": "Getting started with OpenZeppelin-eth: an upgradeable EVM package of the most popular smart contract library by @martriayhttps://blog.zeppelin.solutions/getting-started-with-openzeppelin-eth-a-new-stable-and-upgradeable-evm-package-576fb37297d0?utm_source=manu&utm_medium=social&utm_campaign=oz-eth-announcement\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 39,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "1055477902995832832": {
+            "id": "1055477902995832832",
+            "text": "4/ The realization this week that @coinbase and @circlepay built their #stablecoin on top of @zeppelin_os was another tick in this trend. https://github.com/centrehq/centre-tokens/blob/master/contracts/FiatTokenProxy.sol#L24\u00a0\u2026pic.twitter.com/svtka6O5GZ",
+            "username": "cburniske",
+            "num_likes": 89,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1055504255803682816": {
+            "id": "1055504255803682816",
+            "text": "I just wrote \"Getting started with OpenZeppelin-eth: a new stable and upgradeable EVM package\", a step-by-step guide to the newest on-chain version of OpenZeppelinhttps://blog.zeppelin.solutions/getting-started-with-openzeppelin-eth-a-new-stable-and-upgradeable-evm-package-576fb37297d0?utm_source=marto&utm_medium=social&utm_campaign=oz-eth-announcement\u00a0\u2026",
+            "username": "martriay",
+            "num_likes": 63,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1055475798143049728": {
+            "id": "1055475798143049728",
+            "text": "The most popular #OpenZeppelin #Solidity library by @ZeppelinOrg has finally been released in V2 \nhttps://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v2.0.0\u00a0\u2026\nMany good changes for a more secure and interoperable smart contract ecosystem",
+            "username": "validitylabs",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1055291031544061952": {
+            "id": "1055291031544061952",
+            "text": "great presentation/workshop at #Web3Summit by @smpalladino and @martiay from @ZeppelinOrg about @zeppelin_os, framework to make your contracts upgradeable and make use of so called EVM packages #ethereum #solidity #upgradeability #blockchainpic.twitter.com/akGLfm92iu",
+            "username": "__rmi__",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1055185398274682880": {
+            "id": "1055185398274682880",
+            "text": ".@ZeppelinOrg and @AragonProject has been doing work on EVM packages \u2014 upgradable on-chain smart contract code promoting bytecode reuse.https://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/?utm_source=coinfund&utm_medium=social&utm_campaign=evm-packages\u00a0\u2026",
+            "username": "jbrukh",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1055094748174839809": {
+            "id": "1055094748174839809",
+            "text": "All Livepeer media server, protocol, and node code is open source, but one area we overlap with the Ethereum ecosystem quite a bit is on EVM packages:https://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/?utm_source=livepeer&utm_medium=social&utm_campaign=evm-packages\u00a0\u2026",
+            "username": "LivepeerOrg",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1055090782921781248": {
+            "id": "1055090782921781248",
+            "text": "Thanks to everyone who joined @martriay and me today in the @zeppelin_os workshop at #web3summit!! At http://zpl.in/web3summit\u00a0 you can find the repo with the code we went through, including a link to the slides.pic.twitter.com/KIDsz5diYe",
+            "username": "smpalladino",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1054854602296832000": {
+            "id": "1054854602296832000",
+            "text": "Super happy to see CENTRE, the new stablecoin by @coinbase and @circlepay, was built on top of ZeppelinOS. wohoo!https://github.com/centrehq/centre-tokens/blob/master/contracts/FiatTokenProxy.sol#L24\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 128,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "1054839588131389441": {
+            "id": "1054839588131389441",
+            "text": "EVM packages, developed by @ZeppelinOrg and @AragonProject, are a unique blend of critical developer infrastructure and governance mechanisms to promote complexity composition, gas cost savings, upgrade governance etchttps://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/\u00a0\u2026",
+            "username": "pbanhardt",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1054368849162915844": {
+            "id": "1054368849162915844",
+            "text": "After 2 years, over 300k downloads and 150+ code contributors, we're super proud and happy to release #OpenZeppelin 2.0.https://blog.zeppelin.solutions/announcing-openzeppelin-2-0-afb70aaa298d?utm_source=zeppelin&utm_medium=social&utm_campaign=openzeppelin-2-0\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 154,
+            "num_retweets": 65,
+            "num_replies": 3
+        },
+        "1053024060958011393": {
+            "id": "1053024060958011393",
+            "text": "Once in the wild, smart contracts need better ways to push on-chain updates, while also leveraging fixes others have made (many eyes, shallower bugs). \n\n@ZeppelinOrg & @AragonProject collaborating to that end, with \"EVM Packages\" :https://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/?utm_source=placeholder&utm_medium=social&utm_campaign=evm-packages\u00a0\u2026",
+            "username": "cburniske",
+            "num_likes": 36,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1052936590803251200": {
+            "id": "1052936590803251200",
+            "text": "EVM packages is a new trend we see coming in open source development for smart contractshttps://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/\u00a0\u2026",
+            "username": "demibrener",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1052923796531884032": {
+            "id": "1052923796531884032",
+            "text": "EVM Packages by @zeppelin_os & @AragonProject: \"a smart contract app can reuse on-chain building blocks provided by other developers and opt in to bug fixes and improvements in the future.\"\n\nEffectively providing granular packages of smart contract code!https://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/\u00a0\u2026",
+            "username": "MerschMax_",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1052861080211521537": {
+            "id": "1052861080211521537",
+            "text": "You can learn more about EVM Packages here https://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/?utm_source=web3-summit&utm_medium=social&utm_campaign=evm-packages\u00a0\u2026",
+            "username": "martriay",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1052849568537182208": {
+            "id": "1052849568537182208",
+            "text": "Together with @martriay we'll be hosting a @zeppelin_os workshop on smart contracts upgradeability and evm packages, next week on the #Web3Summit here in Berlin. Hope to see you there!!\n\nhttps://web3summit.com/about/\u00a0pic.twitter.com/SBp20Ejo8g",
+            "username": "smpalladino",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1052600888433565697": {
+            "id": "1052600888433565697",
+            "text": "Open source collaboration in the blockchain era: EVM packages - \"A trend we see coming and want to share and promote is that of upgradeable on-chain packages of smart contract code. We like to call these EVM Packages.\" https://buff.ly/2Es71qY\u00a0 #ethereum #blockchain @zeppelin_ospic.twitter.com/8kf8418973",
+            "username": "AlexanderFisher",
+            "num_likes": 14,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1052616913342423041": {
+            "id": "1052616913342423041",
+            "text": "\"The Global Coordination Machine\"\u200a-\u200aManuel Araoz https://blog.zeppelin.solutions/the-global-coordination-machine-ed5aba8f6456#---42-793\u00a0\u2026pic.twitter.com/kon687tyd8",
+            "username": "santisiri",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1051813871680454656": {
+            "id": "1051813871680454656",
+            "text": "Update on our work on upgradeable on-chain packages, in collaboration with @AragonProjecthttps://blog.zeppelinos.org/open-source-collaboration-in-the-blockchain-era-evm-packages/\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 40,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1051013587823661056": {
+            "id": "1051013587823661056",
+            "text": "Great article about how #P2P social dynamics can take place thanks to global-scale coordination through #blockchain #distributed consensus.\nThe role of @zeppelin_os within the #Ethereum ecosystem will clearly help to make the process easier.\n\n #crypto #cooperation #decentralizedhttps://twitter.com/sciartlab/status/1051012172803903488\u00a0\u2026",
+            "username": "dgrmunch",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1050748677185314816": {
+            "id": "1050748677185314816",
+            "text": "Our friends at @decentraland have just released version 2.0 of their marketplace. We are very happy for them \nThey are using @zeppelin_os for their LAND contracts. You can peek at the configuration here: https://github.com/decentraland/land/blob/master/zos.mainnet.json\u00a0\u2026https://twitter.com/decentraland/status/1050460490520875009\u00a0\u2026",
+            "username": "yoelopio",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1050737192232996864": {
+            "id": "1050737192232996864",
+            "text": "The Global Coordination Machinehttps://blog.zeppelin.solutions/the-global-coordination-machine-ed5aba8f6456\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 13,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1045356948626034688": {
+            "id": "1045356948626034688",
+            "text": "My favourite decentralized identity implementation from @ZeppelinOrg targeting transaction permissions.  Repo here https://github.com/TPL-protocol/tpl-contracts/tree/1.0-rc3\u00a0\u2026https://twitter.com/z0age/status/1045306112910790657\u00a0\u2026",
+            "username": "robbiebent1",
+            "num_likes": 19,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1044274753899499521": {
+            "id": "1044274753899499521",
+            "text": "The @zeppelin_os telegram channel became super popular all of a sudden, so we had to add an errbot butler: https://github.com/elopio/zos-bot\u00a0\nHis name is Bib Fortuna zOS bot. \nYou can join the community chat here: https://t.me/zeppelinos\u00a0pic.twitter.com/tghptn4ubD",
+            "username": "yoelopio",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1041752344738848769": {
+            "id": "1041752344738848769",
+            "text": "Thank you @martriay @ZeppelinOrg @zeppelin_os for conducting a great #blockchain #coding #workshop for our #developer community. Look forward to hosting more workshops for @ZeppelinOrg next year. \n\nThanks @aliazam2251 & @extropy_io for helping us out.https://twitter.com/martriay/status/1041699916257665025\u00a0\u2026",
+            "username": "work_blockchain",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1041785168825143296": {
+            "id": "1041785168825143296",
+            "text": "1/3 Two years ago, we shared the first version of #OpenZeppelin with the community \nhttp://blog.zeppelin.solutions/zeppelin-a-new\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1041699916257665025": {
+            "id": "1041699916257665025",
+            "text": "Thanks to everyone for coming yesterday to the @zeppelin_os workshop at King's College! It was great to #buidl upgradeable smart contracts with the community \n\nAlso thanks to @aliazam2251 and @extropy_io for helping and @thebc_connector from @work_blockchain for organizing :)pic.twitter.com/XThZrET5Si",
+            "username": "martriay",
+            "num_likes": 37,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1039871715881504773": {
+            "id": "1039871715881504773",
+            "text": "@zeppelin_os meetup is today! See you in a bit at @blueyard offices in Berlinhttps://www.eventbrite.com.ar/e/zeppelinos-meetup-blueyard-tickets-49896181823\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1039246940897255425": {
+            "id": "1039246940897255425",
+            "text": "We're adopting @zeppelin_os with our latest smart contract upgrade. \n\nGet the full scoop: https://medium.com/cardstack/cardstack-adopts-zeppelinos-to-grow-token-ecosystem-b873800193e2\u00a0\u2026pic.twitter.com/JjnTBWl84o",
+            "username": "cardstack",
+            "num_likes": 16,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1039266112175841280": {
+            "id": "1039266112175841280",
+            "text": "https://bit.ly/2x2am9j\u00a0 | Cardstack to adopt ZeppelinOS framework for smart contract upgrade $CARD @cardstack @zeppelin_os",
+            "username": "crypto_ninjas",
+            "num_likes": 10,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1039463756949008384": {
+            "id": "1039463756949008384",
+            "text": "Come join us tomorrow at @blueyard's offices for the first @zeppelin_os meetup in Berlin!\n\nhttps://www.eventbrite.com.ar/e/zeppelinos-meetup-blueyard-tickets-49896181823?ref=estw\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 33,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1039466766395748353": {
+            "id": "1039466766395748353",
+            "text": "Same as you, looking forward to conduct a @zeppelin_os workshop accompanied by @aliazam2251 and @extropy_io this sunday at King's College, London :)https://twitter.com/aliazam2251/status/1039277465141735426\u00a0\u2026",
+            "username": "martriay",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1039079407791616000": {
+            "id": "1039079407791616000",
+            "text": "Yaay, my workshop on \"Making smart contracts upgradable without adding trust\" got accepted for devcon4. Cant wait to present my ideas. #devcon4\n@zeppelin_os thanks for the awesome resources for me to get started.",
+            "username": "aliazam2251",
+            "num_likes": 70,
+            "num_retweets": 12,
+            "num_replies": 10
+        },
+        "1037708861027897345": {
+            "id": "1037708861027897345",
+            "text": "Interested in Token Compliance? And Decentralization?\n\nThen check out the post I wrote with @ZeppelinOrg on Compliant Decentralization! \n\nA new approach to distribution for token projects https://blog.zeppelin.solutions/compliant-decentralization-ae02edbc3460\u00a0\u2026",
+            "username": "c_spelliscy",
+            "num_likes": 31,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1036532159589302273": {
+            "id": "1036532159589302273",
+            "text": "Spaces are filling up fast for this FREE #blockchain #coding workshop with @martriay @ZeppelinOrg\n\nLearn how to use @zeppelin_os to build and manage smart contract applications that can be easily upgraded over time.\n\nOct 16th, London\n\n#workonblockchainhttps://www.eventbrite.com/e/hacking-with-zeppelinos-how-to-buidl-upgradeable-smart-contract-apps-tickets-49211638335\u00a0\u2026",
+            "username": "work_blockchain",
+            "num_likes": 24,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1035543086540181504": {
+            "id": "1035543086540181504",
+            "text": "I wrote a post explaining the problem with constructors in upgradeable contracts, and sharing some of the research we've been doing in @zeppelin_os to improve this part of the dev process.https://blog.zeppelinos.org/towards-frictionless-upgradeability\u00a0\u2026",
+            "username": "frangio_",
+            "num_likes": 42,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "1030489956303679491": {
+            "id": "1030489956303679491",
+            "text": "Come hack with us at the ZeppelinOS workshop in Kings College, September 16th! We will learn how to build and manage upgradeable smart contract applications https://twitter.com/work_blockchain/status/1030479354575441922\u00a0\u2026",
+            "username": "martriay",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1022410559990509568": {
+            "id": "1022410559990509568",
+            "text": "Few days left to arrive to #Tokyo!\nJoin @WibsonOrg and our tour partners!\n@decentraland @zeppelin_os @olyseum @mtravizano @arimeilich @demibrener @carlosgrenoir \n\nGet your ticket here https://www.meetup.com/ja-JP/meetup-group-GJhxgrJa/events/253090665/\u00a0\u2026",
+            "username": "WibsonOrg",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1021822315708014593": {
+            "id": "1021822315708014593",
+            "text": "Ethereum\u2019s memory management made easy with @facuspagnuolo\u2019s latest post: \"#Ethereum In-Depth, Part 2\" Link:https://blog.zeppelin.solutions/ethereum-in-depth-part-2-6339cf6bddb9\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1019898373141393409": {
+            "id": "1019898373141393409",
+            "text": ".@facuspagnuolo talking about smart contract upgradeablility with @zeppelin_os at #DappCon.pic.twitter.com/HzI3zQM8ka",
+            "username": "maraoz",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1019293325667569664": {
+            "id": "1019293325667569664",
+            "text": "Have a listen to how @leanthebean feels about all-the-Zeppelin-things in this clip of the @ZeppelinOrg #ETHBuenosAires Interview Series http://youtu.be/FTYYdM2M9vo\u00a0",
+            "username": "ZeppelinOrg",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1015268952828567552": {
+            "id": "1015268952828567552",
+            "text": "On today's Unconfirmed: Demian Brener of @zeppelin_os on how a blockchain can be both immutable and upgradeable, what factors will determine which smart contract platforms win, and the turn from ICOs to airdrops. Check it out!https://itunes.apple.com/us/podcast/demian-brener-ceo-zeppelin-on-which-smart-contract/id1347049808?i=1000415321304&mt=2\u00a0\u2026",
+            "username": "laurashin",
+            "num_likes": 115,
+            "num_retweets": 30,
+            "num_replies": 8
+        },
+        "1010088938684473344": {
+            "id": "1010088938684473344",
+            "text": "Want to learn more about Smart Contract Security? Join our hands-on workshop @dappcon_berlin led by Facundo @ZeppelinOrg! Get your ticket now https://www.eventbrite.de/e/dappcon-developer-conference-for-ethereum-dapps-infrastructure-tickets-46942479219\u00a0\u2026\n#dappcon #berlinbuidls #Security",
+            "username": "dappcon_berlin",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1006242158523777029": {
+            "id": "1006242158523777029",
+            "text": ".@zeppelin_os wants to solve the issue of fixing smart contracts by making them easily upgradeable over time. Learn more about Zeppelin OS in their main net launch announcement https://blog.zeppelinos.org/announcing-the-launch-of-zeppelinos/\u00a0\u2026",
+            "username": "gitcoin",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1003887294871265280": {
+            "id": "1003887294871265280",
+            "text": "on sanity checks to prevent messing up contract storage. @ZeppelinOrg latest proposal on unstructured storage is more more elegant. And after writing over 500 scenario tests, I suggest to those looking into proxy patterns or upgrade routes, that this is what you want.",
+            "username": "jaycenhorton",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1002614983333744640": {
+            "id": "1002614983333744640",
+            "text": "Getting started with @zeppelin_os - @facuspagnuolo and the beautiful mainnet launch:https://youtu.be/GdBxRogP-G0\u00a0",
+            "username": "ethbuenosaires",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1001594599595442182": {
+            "id": "1001594599595442182",
+            "text": "Still too cute too eat it!! #hodl  Thanks for inviting us to zepcon0  @ZeppelinOrg , amazing ending for the awesome @ethbuenosaires ! Can't wait to dig more into #Zeppelin_os and #buidlpic.twitter.com/E8LYImd6aT",
+            "username": "ludylops",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1000786015089459200": {
+            "id": "1000786015089459200",
+            "text": "Great to see so many projects building on top of @AragonProject & @zeppelin_os at the @ethbuenosaires hackathon. As a community, #crypto can move faster by leveraging one another\u2019s work.pic.twitter.com/lyUQDzBDoa",
+            "username": "cburniske",
+            "num_likes": 90,
+            "num_retweets": 21,
+            "num_replies": 6
+        },
+        "1000851507770810369": {
+            "id": "1000851507770810369",
+            "text": "ZeppelinOS prize: KITTYGRAM. It gives CryptoKitties a life of their own. It uses ZeppelinOS' on-chain library as well as its upgradeability features!https://devpost.com/software/kittygram-zegtnh\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1000412620329926656": {
+            "id": "1000412620329926656",
+            "text": "Crypto narrative finally shifting from \u201cwhen @binance\u201d to \u201cwhen mainnet\u201d  @zeppelin_os @AragonProject @MakerDAO @0xProject",
+            "username": "BraytonKey",
+            "num_likes": 191,
+            "num_retweets": 37,
+            "num_replies": 10
+        },
+        "1000496414156382209": {
+            "id": "1000496414156382209",
+            "text": "Final countdown for @ethbuenosaires has begun! \nBeen mentoring teams the past 24h - amped to see all the cool apps being built on @MakerDAO, @AragonProject @zeppelin_os @uport_me, from kittygram to token bonded cards against humanity games to time locked secret sharing. #BUIDLpic.twitter.com/1yQ8X2bCrx",
+            "username": "paulkhls",
+            "num_likes": 30,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1000236589455495168": {
+            "id": "1000236589455495168",
+            "text": "Check out Zeppelin Basil, a very simple sample app with upgradable smart contracts built on top of @zeppelin_os https://twitter.com/zeppelinbasil\u00a0",
+            "username": "maraoz",
+            "num_likes": 28,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1000176842626818049": {
+            "id": "1000176842626818049",
+            "text": "This team just keeps shipping! @ZeppelinOrg\nhttps://zeppelinos.org/\u00a0\n\nExcited to see the main-net launch of @zeppelin_os!",
+            "username": "MerschMax_",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1000121807217799168": {
+            "id": "1000121807217799168",
+            "text": "Now @zeppelin_os presenting their first public release! #EthBuenosAirespic.twitter.com/jg9rX6oIvW",
+            "username": "ravenio",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1000123519383080962": {
+            "id": "1000123519383080962",
+            "text": "Boom! @zeppelin_os is now live Kudos to @facuspagnuolo @maraoz & team #ETHBuenosAires #Ethereum #Blockchainpic.twitter.com/nLw6gs7r9P",
+            "username": "RipioApp",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "939999083845918721": {
+            "id": "939999083845918721",
+            "text": "I'm super impressed with zeppelinOS; this is exactly the type of critical infrastructure that is needed for Ethereum. Well done @ZeppelinOrg",
+            "username": "drwasho",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1102934705811410944": {
+            "id": "1102934705811410944",
+            "text": "We are so excited to announce this!https://twitter.com/ramonrecuero/status/1102931320471150593\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102877207779831808": {
+            "id": "1102877207779831808",
+            "text": "Join @DennisonBertram in #Paris at #ethcc, tomorrow at 2:20pm for a talk: \"Upgrade Driven Development with ZeppelinOS\" at the Robert Faure hall! #upgradability #zepkit #evmpackages https://ethcc.io/images/schedule/EthCCcomplete.pdf\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1075772781315350532": {
+            "id": "1075772781315350532",
+            "text": "We have released a 2.0.2 patch for the ZeppelinOS CLI and library. This fixes a bug caused by a transitive dependency introducing an incompatible breaking change. If you had errors on fresh installations in the past days, please upgrade to this version.https://github.com/zeppelinos/zos/releases/tag/v2.0.2\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1063463145254150147": {
+            "id": "1063463145254150147",
+            "text": "Last call for the $ZEP Token private beta registration, today is the last opportunity!\n\nhttp://bit.ly/2RVk1Hm\u00a0pic.twitter.com/6KeIjqVMBw",
+            "username": "zeppelin_os",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1062694960502312960": {
+            "id": "1062694960502312960",
+            "text": "Checkout Tidbid, an EVM Package for oracles developed by @levelk_io\nhttps://github.com/levelkdev/tidbit/tree/tidbit-zos\u00a0\u2026https://github.com/levelkdev/tidbit-example\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1061226909902749697": {
+            "id": "1061226909902749697",
+            "text": "Thanks for all the support! Many new submissions to participate in the $ZEP Token Private Beta every day :)\n\nRegistration will close on November 16th, hurry up!https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=zeppelinos&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 33,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1058002122254569475": {
+            "id": "1058002122254569475",
+            "text": "Announcing the ZEP Token Private Beta! https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=zeppelinos&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 71,
+            "num_retweets": 32,
+            "num_replies": 2
+        },
+        "1057637750625595393": {
+            "id": "1057637750625595393",
+            "text": "TODAY! Join the ZeppelinOS community at our Prague meetup.\n\n18:30 at Opero - https://goo.gl/maps/6m2tb1BEjsP2\u00a0\u2026\n\nMore info at http://zpl.in/telegram\u00a0\n#DevCon #Devcon4 #ZeppelinOSpic.twitter.com/fqzHlQF0Sv",
+            "username": "zeppelin_os",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1055466583856943104": {
+            "id": "1055466583856943104",
+            "text": "Learn how to build upgradeable smart contracts:https://blog.zeppelinos.org/getting-started-with-zeppelinos/?utm_source=twitter&utm_medium=social&utm_campaign=centre-stablecoin\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1055465626565836801": {
+            "id": "1055465626565836801",
+            "text": "CENTRE, the new stablecoin by @coinbase and @circlepay is built on top of ZeppelinOShttps://github.com/centrehq/centre-tokens/blob/master/contracts/FiatTokenProxy.sol#L24\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1054741915298656256": {
+            "id": "1054741915298656256",
+            "text": "Come join @smpalladino and @martriay tomorrow for the upgradeability and EVM packages workshop tomorrow at the web3summit!https://twitter.com/smpalladino/status/1052849568537182208\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1039891523075227650": {
+            "id": "1039891523075227650",
+            "text": "Paxos, one of the two stablecoins approved by @NYDFS this week, was built using #ZeppelinOS upgradeabilityhttps://twitter.com/Conor0Hanlon/status/1039168819720159233\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 60,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1037362864665886720": {
+            "id": "1037362864665886720",
+            "text": "Last week the @decentraland team deployed to mainnet their new Estates feature using ZeppelinOS  \n\nLearn how to add upgradeability to your smart contracts with @leanthebean's great introduction to ZeppelinOS https://blog.zeppelinos.org/getting-started-with-zeppelinos/\u00a0\u2026https://twitter.com/eordano/status/1035530819727765509\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1027622085567361024": {
+            "id": "1027622085567361024",
+            "text": "For @liamihorne, a \u201cgood example\u201d is \"someone who has not only taken from the community but actually joined the conversation. And that's an exciting thing to see and much appreciated.\"  \nWatch more Zeppelin Community Interviews here:https://youtu.be/8kuMweYUe34\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1026535442588422144": {
+            "id": "1026535442588422144",
+            "text": "\"With #ZeppelinOS, we can deploy the 1st stage of an idea, and continue to iterate, build, fix, and change \u2013 something that was just not possible before.\" \n\u2013 @DennisonBertram giving his take in the \u201cZeppelin Community Interviews\u201d series \u2013 https://youtu.be/oWh1vWcgiuU\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1025417458482667521": {
+            "id": "1025417458482667521",
+            "text": "Here's @leanthebean's newest post \"Getting Started with #zeppelinos\" where she talks upgradeability & why it matters in this mighty-yet-mini tutorial for smart contract development  https://blog.zeppelinos.org/getting-started-with-zeppelinos/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1024098714300964864": {
+            "id": "1024098714300964864",
+            "text": "We're happy at @zeppelin_os to be a part of the #Ownyourdata World Tour in Tokyo with @decentraland @wibsonOrg @olyseum! \n\nDon't miss CEO @demibrener's talk \"#ZeppelinOS: a development platform for secure smart contract applications\", on today at 19:45 pic.twitter.com/NLWNkDQLRB",
+            "username": "zeppelin_os",
+            "num_likes": 17,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1022845337071968256": {
+            "id": "1022845337071968256",
+            "text": "Next Monday, July 31, the #Ownyourdata World Tour in Tokyo  will host speakers @mtravizano @arimeilich @carlosgrenoir, as well as our own @demibrener who'll be giving a sweet talk about #ZeppelinOS pic.twitter.com/FD3P60vsjH",
+            "username": "zeppelin_os",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1019988309773373441": {
+            "id": "1019988309773373441",
+            "text": "New on the #zeppelinOS blog: \"Exploring Upgradeability Governance in @zeppelin_os with a @gnosisPM MultiSig\" by @smpalladino https://blog.zeppelinos.org/exploring-upgradeability-governance-in-zeppelinos-with-a-gnosis-multisig/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1019700662467219457": {
+            "id": "1019700662467219457",
+            "text": "Happy to be a part of @dappcon_berlin and be sure to check out these talks by the Zeppelin team!\n+ @fiiiu_ on Smart Contract Security\n+ @facuspagnuolo on #zeppelinOS Infrastructure & Upgradeability\n+ @maraoz on the Security and What\u2019s at Stake Panel\n\nhttps://dappcon.io/DAPPCON_timetable.pdf\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1018872733449539589": {
+            "id": "1018872733449539589",
+            "text": "\"The Unstructured Storage pattern that is in the final stages of being released as part of #ZeppelinOS appears to be the most mature and tested pattern, and will likely be widely adopted.\"https://blog.indorse.io/ethereum-upgradeable-smart-contract-strategies-456350d0557c\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 36,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1017828796047810560": {
+            "id": "1017828796047810560",
+            "text": "A journey from \"upgradeable smart contracts to upgradeable applications\" all with ZeppelinOS in this #zepcon0 talk by @frangio_  https://youtu.be/iNuDG-v55qU\u00a0 ",
+            "username": "zeppelin_os",
+            "num_likes": 24,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1016711754204753926": {
+            "id": "1016711754204753926",
+            "text": "\"Upgradeability\" - watch @leanthebean's talk at #zepcon0 https://youtu.be/FzmzUHLiutg\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1015248764561444864": {
+            "id": "1015248764561444864",
+            "text": "Have \"a look back and look ahead\" for ZeppelinOS + the past, present, and future in smart contracts from this year's #ZepCon0 by @maraoz  -->https://youtu.be/HELXMCUk8jo\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1014162145590890496": {
+            "id": "1014162145590890496",
+            "text": "Join the ZeppelinOS community group on Telegram! --> https://t.me/joinchat/B3opihKbzvqpEzC1mMUDSA\u00a0\u2026 ",
+            "username": "zeppelin_os",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1014131647204098048": {
+            "id": "1014131647204098048",
+            "text": "Getting started with ZeppelinOS - watch @facuspagnuolo's introductory talk at #ETHBuenosAires https://youtu.be/GdBxRogP-G0\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1004797549063081986": {
+            "id": "1004797549063081986",
+            "text": "How to test your upgradeable app with #ZeppelinOShttps://docs.zeppelinos.org/docs/testing.html\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1002622620498649089": {
+            "id": "1002622620498649089",
+            "text": "An other great example of how to create an app that uses #ZeppelinOS is Crafty. It is upgradeable and uses the on-chain #OpenZeppelin standard libraryhttps://docs.zeppelinos.org/docs/crafty.html\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1002604415134642176": {
+            "id": "1002604415134642176",
+            "text": "If you missed @facuspagnuolo's talk at @ethbuenosaires explaining how to get started with #ZeppelinOS, you can now watch the recording!https://www.youtube.com/watch?v=GdBxRogP-G0\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1002546177609469952": {
+            "id": "1002546177609469952",
+            "text": "Take a look at our guide on how to use #ZeppelinOS by creating a sample app called Basil\n\nhttps://docs.zeppelinos.org/docs/basil.html\u00a0pic.twitter.com/hYRQTLsO53",
+            "username": "zeppelin_os",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1002218143425613824": {
+            "id": "1002218143425613824",
+            "text": "If you have any questions on how to use #ZeppelinOS join us on Slack.\n\nhttps://openzeppelin.slack.com/\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1002172351256113152": {
+            "id": "1002172351256113152",
+            "text": "Deploy your own on-chain standard library that anyone can use in their app with #ZeppelinOShttps://docs.zeppelinos.org/docs/developing.html\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1001926482753654786": {
+            "id": "1001926482753654786",
+            "text": "With #ZeppelinOS you can use OpenZeppelin standard library on-chain. Get Started!https://docs.zeppelinos.org/docs/using.html\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1001822138364497920": {
+            "id": "1001822138364497920",
+            "text": "How to build an upgradeable smart contract app using #ZeppelinOShttps://docs.zeppelinos.org/docs/building.html\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 32,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1001249801994948608": {
+            "id": "1001249801994948608",
+            "text": "Learning more about Proxy Patterns in #zepcon0pic.twitter.com/ZDxqmsI1g4",
+            "username": "zeppelin_os",
+            "num_likes": 22,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1000855461653045249": {
+            "id": "1000855461653045249",
+            "text": "Are you willing to donate >0.00602 ETH to choose the color of the light that illuminates our \"pet\" basil?\n\nBuilt using @zeppelin_os!\n\nhttps://basil.zeppelin.solutions/#/\u00a0https://twitter.com/zeppelinbasil/status/1000478835945730048\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1000470826804707328": {
+            "id": "1000470826804707328",
+            "text": "To get started, simply install ZeppelinOS:\nnpm install --global zos\n\nAnd then initialize your project:\nzos init <name> [version]\n\nNow you can build and upgradeable app or use the on-chain standard libraryhttps://github.com/zeppelinos/zos-cli\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 32,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1000367835678470144": {
+            "id": "1000367835678470144",
+            "text": "Take a look at Crafty, a crafting game built on top of ZeppelinOS that allows anyone to create new tokens by combining existing ones.\n\nhttps://crafty.zeppelin.solutions/\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1000126643682381824": {
+            "id": "1000126643682381824",
+            "text": "Announcing the launch of ZeppelinOShttps://blog.zeppelinos.org/announcing-the-launch-of-zeppelinos\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 173,
+            "num_retweets": 62,
+            "num_replies": 3
+        },
+        "999046460292452352": {
+            "id": "999046460292452352",
+            "text": "Check out ZeppelinOS Smart Contracts Audit Report by @NomicLabshttps://medium.com/nomic-labs-blog/zeppelinos-smart-contracts-audit-dc772cfae224\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 32,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "998566362699137024": {
+            "id": "998566362699137024",
+            "text": "\"Once smart contracts are deployed, the code cannot be changed or patched easily\"\n\nThis is going to change soon...https://twitter.com/ZeppelinOrg/status/998565380695183366\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "991698373215473666": {
+            "id": "991698373215473666",
+            "text": "Announcing a new partnership between @ZeppelinOrg and @RenderToken!https://finance.yahoo.com/news/otoy-introduces-rndr-blockchain-based-195500236.html\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 28,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "987330060955746305": {
+            "id": "987330060955746305",
+            "text": "An overview on proxy patternshttps://blog.zeppelinos.org/proxy-patterns/\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "985199905701380096": {
+            "id": "985199905701380096",
+            "text": "Upgradeability using Unstructured Storagehttps://blog.zeppelinos.org/upgradeability-using-unstructured-storage/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "981665980198871045": {
+            "id": "981665980198871045",
+            "text": "We now have 10 contributors in ZeppelinOS Labs, a space for the community to interact and exchange ideas on research and development initiatives.\nWe\u2019d love to hear yours!https://github.com/zeppelinos/labs\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "958005840451162113": {
+            "id": "958005840451162113",
+            "text": "Winding Tree will implement Zeppelin_OS technology to maintain safe and reliable scalability https://pr.blonde20.com/winding-tree-rsk-zeppelin/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 22,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "943591379623710720": {
+            "id": "943591379623710720",
+            "text": "Thoughtful analysis on different approaches to governance. @zeppelin_os's vouching system is a loosely coupled voting mechanism that leaves the final decision on upgrading to the end user. Learn more in our whitepaper. https://zeppelinos.org/zeppelin_os_whitepaper.pdf\u00a0\u2026https://twitter.com/VitalikButerin/status/942636887801348096\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "942853969969336321": {
+            "id": "942853969969336321",
+            "text": "Learn more about how our partnership with @Smart_Contract will enable zeppelin_os.https://blog.zeppelinos.org/chainlink-partnership/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 133,
+            "num_retweets": 43,
+            "num_replies": 3
+        },
+        "941363198141353984": {
+            "id": "941363198141353984",
+            "text": "We want to see a future powered by a secure, decentralized economy\u2014and we\u2019re not alone. Learn more about the initial launch partners for zeppelin_os.https://blog.zeppelinos.org/introducing-launch-partners/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 88,
+            "num_retweets": 32,
+            "num_replies": 4
+        },
+        "937760657784623105": {
+            "id": "937760657784623105",
+            "text": "Watch @maraoz's Devcon3 talk on the evolution of smart contract security.https://www.youtube.com/watch?v=1EWvebDU66U\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "935874922123026433": {
+            "id": "935874922123026433",
+            "text": "Check out our roadmap outlining how the team will devote the first 12 months of development.https://blog.zeppelinos.org/zeppelin_os-development-roadmap-part-two/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 12,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "934176659795832833": {
+            "id": "934176659795832833",
+            "text": "We want to develop zeppelin_os alongside the platform\u2019s future users and contributors. To do this, we\u2019re introducing zeppelin_os labs.https://blog.zeppelinos.org/announcing-zeppelin_os-labs/\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 24,
+            "num_retweets": 11,
+            "num_replies": 5
+        },
+        "900778414071840769": {
+            "id": "900778414071840769",
+            "text": "Introducing zeppelinOS Whitepaper\u2019s First Drafthttps://blog.zeppelin.solutions/introducing-zeppelinos-whitepapers-first-draft-a66b67319cef\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "892801438123995136": {
+            "id": "892801438123995136",
+            "text": "Technical Details of @zeppelin_oshttps://blog.zeppelin.solutions/technical-details-of-zeppelinos-d3cf4da591f7\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "890592012713566208": {
+            "id": "890592012713566208",
+            "text": "Introducing zeppelinOS: the operating system for smart contract applicationshttps://blog.zeppelin.solutions/introducing-zeppelinos-the-operating-system-for-smart-contract-applications-82b042514aa8\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "ZeppelinOrg": 22,
+        "SingularityHive": 1,
+        "smpalladino": 19,
+        "JulienThevenard": 1,
+        "amiraenrique": 1,
+        "mrnventuro": 1,
+        "DennisonBertram": 7,
+        "holajotola": 1,
+        "kauri_io": 1,
+        "ramonrecuero": 2,
+        "cburniske": 6,
+        "EthereumDenver": 1,
+        "DecentFund": 1,
+        "yoelopio": 3,
+        "frangio_": 3,
+        "PaulRBerg": 2,
+        "maraoz": 10,
+        "mirasfederico": 1,
+        "ianjohnlee": 1,
+        "ethereumJoseph": 2,
+        "theblockstalk": 1,
+        "b_asselstine": 1,
+        "aantonop": 1,
+        "blueyard": 1,
+        "trueventures": 2,
+        "petkanics": 1,
+        "martriay": 6,
+        "jbrukh": 2,
+        "mudgen": 1,
+        "gnosisPM": 2,
+        "santisiri": 2,
+        "RCN_token": 1,
+        "coinfund_io": 1,
+        "MerschMax_": 3,
+        "facuspagnuolo": 1,
+        "EthHuntDevcon": 2,
+        "fabric_vc": 1,
+        "validitylabs": 1,
+        "__rmi__": 1,
+        "LivepeerOrg": 1,
+        "pbanhardt": 1,
+        "demibrener": 1,
+        "AlexanderFisher": 1,
+        "dgrmunch": 1,
+        "robbiebent1": 1,
+        "work_blockchain": 2,
+        "cardstack": 1,
+        "crypto_ninjas": 1,
+        "aliazam2251": 1,
+        "c_spelliscy": 1,
+        "WibsonOrg": 1,
+        "laurashin": 1,
+        "dappcon_berlin": 1,
+        "gitcoin": 1,
+        "jaycenhorton": 1,
+        "ethbuenosaires": 1,
+        "ludylops": 1,
+        "BraytonKey": 1,
+        "paulkhls": 1,
+        "ravenio": 1,
+        "RipioApp": 1,
+        "drwasho": 1
+    },
+    "users_retweeted": [
+        "ZeppelinOrg",
+        "smpalladino",
+        "maraoz",
+        "DennisonBertram",
+        "cburniske",
+        "martriay",
+        "yoelopio",
+        "frangio_",
+        "MerschMax_",
+        "ramonrecuero",
+        "PaulRBerg",
+        "ethereumJoseph",
+        "trueventures",
+        "jbrukh",
+        "gnosisPM",
+        "santisiri",
+        "EthHuntDevcon",
+        "work_blockchain",
+        "SingularityHive",
+        "JulienThevenard",
+        "amiraenrique",
+        "mrnventuro",
+        "holajotola",
+        "kauri_io",
+        "EthereumDenver",
+        "DecentFund",
+        "mirasfederico",
+        "ianjohnlee",
+        "theblockstalk",
+        "b_asselstine",
+        "aantonop",
+        "blueyard",
+        "petkanics",
+        "mudgen",
+        "RCN_token",
+        "coinfund_io",
+        "facuspagnuolo",
+        "fabric_vc",
+        "validitylabs",
+        "__rmi__",
+        "LivepeerOrg",
+        "pbanhardt",
+        "demibrener",
+        "AlexanderFisher",
+        "dgrmunch",
+        "robbiebent1",
+        "cardstack",
+        "crypto_ninjas",
+        "aliazam2251",
+        "c_spelliscy",
+        "WibsonOrg",
+        "laurashin",
+        "dappcon_berlin",
+        "gitcoin",
+        "jaycenhorton",
+        "ethbuenosaires",
+        "ludylops",
+        "BraytonKey",
+        "paulkhls",
+        "ravenio",
+        "RipioApp",
+        "drwasho"
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "is_complete": true,
+    "username": "n1shantd",
+    "retweeted": {
+        "1125769038666375170": {
+            "id": "1125769038666375170",
+            "text": " Prysm Phase 0 Testnet is here! https://link.medium.com/KVdUo22VuW\u00a0",
+            "username": "prylabs",
+            "num_likes": 209,
+            "num_retweets": 68,
+            "num_replies": 5
+        },
+        "1123126001171517440": {
+            "id": "1123126001171517440",
+            "text": "What should be developed on Ethereum?",
+            "username": "elonmusk",
+            "num_likes": 6179,
+            "num_retweets": 1108,
+            "num_replies": 1178
+        },
+        "1121006651920846848": {
+            "id": "1121006651920846848",
+            "text": "Why is immutability so difficult in Go?",
+            "username": "preston_vanloon",
+            "num_likes": 17,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1119366286318948353": {
+            "id": "1119366286318948353",
+            "text": "Apparently we just managed to speed up Geth fast sync by 57%, reduce disk reads by 44% and writes by 26%. Today was a good day for science. \n\nGeth 1.9.0 will kick ass! #golang #Ethereum",
+            "username": "peter_szilagyi",
+            "num_likes": 1042,
+            "num_retweets": 208,
+            "num_replies": 35
+        },
+        "1116740042070872065": {
+            "id": "1116740042070872065",
+            "text": "I just published Ethereum 2.0 Development Update #25\u200a\u2014\u200aPrysmatic Labs https://link.medium.com/R9Zv9zaAPV\u00a0 @prylabs #Ethereum",
+            "username": "raulitojordan",
+            "num_likes": 160,
+            "num_retweets": 57,
+            "num_replies": 3
+        },
+        "1106265568720490496": {
+            "id": "1106265568720490496",
+            "text": "Happyday from @prylabs! Check out our dev update #24 on ETH2.0. The latest activities on:\nBeacon node + validator run time\nMulti beacon node syncing\nLMD Ghost fork choice framework & benchmarks\nSparse Merkle trie tools\nEnd-2-end testing\nWe have a new team member!",
+            "username": "terencechain",
+            "num_likes": 109,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "1106141373672022016": {
+            "id": "1106141373672022016",
+            "text": "New Feature Release: Attn developers, we've just added the ability to view/explore \"State Changes\" for any transaction made.pic.twitter.com/vkWjqC2o0r",
+            "username": "etherscan",
+            "num_likes": 146,
+            "num_retweets": 40,
+            "num_replies": 4
+        },
+        "1103181324104409088": {
+            "id": "1103181324104409088",
+            "text": "The \"secret single-leader election problem\" is also relevant for Ethereum 2.0/3.0, and many other proof of stake systems.https://twitter.com/protocollabs/status/1103069927919898624\u00a0\u2026",
+            "username": "drakefjustin",
+            "num_likes": 63,
+            "num_retweets": 15,
+            "num_replies": 5
+        },
+        "1102181384867725318": {
+            "id": "1102181384867725318",
+            "text": "tfw your hotel shower is a more prolific OSS contributor than youpic.twitter.com/ZenpGPvIZc",
+            "username": "hakimel",
+            "num_likes": 3958,
+            "num_retweets": 684,
+            "num_replies": 23
+        },
+        "1101217695557652480": {
+            "id": "1101217695557652480",
+            "text": "I just published Ethereum 2.0 Development Update #23\u200a\u2014\u200aPrysmatic Labs https://link.medium.com/JrkW1qquGU\u00a0 #Ethereum @prylabs happy fork day!",
+            "username": "raulitojordan",
+            "num_likes": 194,
+            "num_retweets": 57,
+            "num_replies": 5
+        },
+        "1098253794691944448": {
+            "id": "1098253794691944448",
+            "text": "Hello, my name is Graeme, I have a PhD in computing, and I am a senior accessibility consultant, but when I want to type \"\u00e9\" on a Windows laptop I go to Beyonc\u00e9's Wikipedia page and copy/paste the letter from there.",
+            "username": "graemecoleman",
+            "num_likes": 42183,
+            "num_retweets": 9370,
+            "num_replies": 696
+        },
+        "1096123849458905088": {
+            "id": "1096123849458905088",
+            "text": "Stay up to date on ETH2 development with the latest @prylabs update:\nBeacon chain running w/ 8 validators locally\nDeploying and testing deposit contract on Goerli testnet\nReconstructing proposer/attester code\nAligning chain processing w/ spec v0.2https://medium.com/prysmatic-labs/ethereum-2-0-development-update-22-prysmatic-labs-b5b88ace0441\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 77,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1094596034968223744": {
+            "id": "1094596034968223744",
+            "text": "We've also released a #vyper online compiler at https://etherscan.io/vyper\u00a0 which allows selection of custom compiler version.",
+            "username": "etherscan",
+            "num_likes": 75,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1091381759156019200": {
+            "id": "1091381759156019200",
+            "text": " Biweekly updates from @prylabs team \n Aracon/Goerilcon updates\n New validator work flow\n Align beacon chain core functions w/ v0.1 spec \n New simulated backend and more!https://medium.com/prysmatic-labs/ethereum-2-0-development-update-21-prysmatic-labs-1a32fac4b6d7\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1090940396589314048": {
+            "id": "1090940396589314048",
+            "text": "Thrilled to announce that the Zilliqa mainnet has launched! Block explorer https://explorer.zilliqa.com\u00a0 and mining details https://github.com/Zilliqa/Zilliqa/wiki/Mining\u00a0\u2026. Read the full blogpost here https://blog.zilliqa.com/zilliqa-mainnet-the-launch-and-beyond-4cd7e113369f\u00a0\u2026",
+            "username": "zilliqa",
+            "num_likes": 563,
+            "num_retweets": 203,
+            "num_replies": 46
+        },
+        "1090539076804063232": {
+            "id": "1090539076804063232",
+            "text": "At #AraCon2019 with most of @prylabs team (missing @n1shantd).\nCome find us! We'll be on our laptops in the hall, casually building ETH2.0.pic.twitter.com/MD7qeGKlsU",
+            "username": "preston_vanloon",
+            "num_likes": 63,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1089854815335792640": {
+            "id": "1089854815335792640",
+            "text": "\"sorry, you made a typo in your smart contract and now you're the property of a toaster in ukraine. look i don't make the rules of the immutable blockchain, just make sure you're on the next plane to kiev\" (kw0134)",
+            "username": "davidgerard",
+            "num_likes": 256,
+            "num_retweets": 74,
+            "num_replies": 7
+        },
+        "1090309804999036928": {
+            "id": "1090309804999036928",
+            "text": "shasper mcshardface #AraCon2019pic.twitter.com/ymd20LNyWm",
+            "username": "exiledsurfer",
+            "num_likes": 28,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1090237348254752769": {
+            "id": "1090237348254752769",
+            "text": "Now on stage @preston_vanloon from @prylabs gave everyone a run down of ETH2.0 and Prysm. #AraCon2019pic.twitter.com/VHJdHOwWHE",
+            "username": "terencechain",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1088799046830047232": {
+            "id": "1088799046830047232",
+            "text": "Today is my last day at @Google. \n\nI couldn\u2019t be more excited to focus all of my time on @prylabs and @ethereum 2.0! ",
+            "username": "preston_vanloon",
+            "num_likes": 1098,
+            "num_retweets": 78,
+            "num_replies": 66
+        },
+        "1088293830267453440": {
+            "id": "1088293830267453440",
+            "text": "Got the embryo of an eth2 testnet running on my laptop.. anxious to get out there!pic.twitter.com/0NFkGPwaz9",
+            "username": "jcksie",
+            "num_likes": 30,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1006931729679044608": {
+            "id": "1006931729679044608",
+            "text": "Proof-of-Work and Proof-of-Stake are **sybil control mechanisms**. PoS doesn't achieve consensus by itself. It has to be coupled with a protocol, such as PBFT, or Ben-Or, or Tendermint/Cosmos, or Avalanche, to make decisions.",
+            "username": "el33th4xor",
+            "num_likes": 282,
+            "num_retweets": 50,
+            "num_replies": 8
+        },
+        "1080874155095011328": {
+            "id": "1080874155095011328",
+            "text": "I just published Ethereum 2.0 Development Update #19\u200a\u2014\u200aPrysmatic Labs by @raulitojordan https://link.medium.com/BJYCt5CjbT\u00a0 @prylabs #Ethereum",
+            "username": "raulitojordan",
+            "num_likes": 111,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1079558551390044160": {
+            "id": "1079558551390044160",
+            "text": "u ever think about how the year 3000 is literally 81 years away",
+            "username": "jadynkro",
+            "num_likes": 525404,
+            "num_retweets": 138793,
+            "num_replies": 7584
+        },
+        "1079085816209649664": {
+            "id": "1079085816209649664",
+            "text": "All ETH 2.0 block operations including casper slashings, attestation processing, deposit handling, and RANDAO done with 100% test coverage according to the latest spec :) - 2019 will be great #Ethereum @prylabspic.twitter.com/uTS46zCknR",
+            "username": "raulitojordan",
+            "num_likes": 1284,
+            "num_retweets": 409,
+            "num_replies": 41
+        },
+        "1078780913603960832": {
+            "id": "1078780913603960832",
+            "text": "If your new year resolution is to contribute more on open source or ETH2.0. We just opened 4 `good first issues` for Prysm. Thanks for contributing!https://github.com/prysmaticlabs/prysm/issues\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 81,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "1078706671877271552": {
+            "id": "1078706671877271552",
+            "text": "Your What's New in Eth2,  Happy New Year  edition! https://notes.ethereum.org/c/Sk8Zs--CQ\u00a0\n\nIf 2019 proves to be as exciting as 2018 in world of #Ethereum 2.0, its going to be a happy year indeed \nhttp://peepeth.com/p/gzm\u00a0",
+            "username": "benjaminion_xyz",
+            "num_likes": 62,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1078671298723688448": {
+            "id": "1078671298723688448",
+            "text": "black mirror: bandersnatch is only 1:30\n\nme at 11pm: i guess i\u2019ll watch before bed\n\nblack mirror: rewinds after you make the wrong decision and has 5 alternative endings that you have to find\n\nme at 3am:\n\n#BANDERSNATCHpic.twitter.com/3LvblstVmo",
+            "username": "crazyrchasian",
+            "num_likes": 14996,
+            "num_retweets": 4961,
+            "num_replies": 55
+        },
+        "1076962320419618816": {
+            "id": "1076962320419618816",
+            "text": "So proud of the Coinmetrics team for this forensic analysis. One of the most fascinating case studies I've come across. Praise is due to @khannib for making the discovery and pushing through the investigation.https://coinmetrics.io/bitcoin-private/\u00a0\u2026",
+            "username": "nic__carter",
+            "num_likes": 987,
+            "num_retweets": 287,
+            "num_replies": 34
+        },
+        "1076226950513995777": {
+            "id": "1076226950513995777",
+            "text": "Let's sum this up: \n\n- RChain raised $31M\n- They spent $23.5M to buy an audio codec (!?!?!) for their RSong app\n- RSong currently has THREE (yes, 3) songs on it\n- RChain is \u201cfunctionally bankrupt\u201d now\n\nBlockchain companies are just something else.https://twitter.com/TheBlock__/status/1075783099538202625\u00a0\u2026",
+            "username": "MihailoBjelic",
+            "num_likes": 252,
+            "num_retweets": 50,
+            "num_replies": 22
+        },
+        "1075258788272173056": {
+            "id": "1075258788272173056",
+            "text": "Facebook gave Netflix and Spotify the ability to read Facebook users' private messages. Uhhm https://twitter.com/zackwhittaker/status/1075229001025839104\u00a0\u2026",
+            "username": "muellerberndt",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1075181710730506240": {
+            "id": "1075181710730506240",
+            "text": "Just sent 1000 eth. Yolo.\n\nhttps://etherscan.io/tx/0x5c46e971d712752de929123a54e282ea3e5c5ec2a2c6aa709efec5cd9d8a2544\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 1572,
+            "num_retweets": 270,
+            "num_replies": 211
+        },
+        "1072967843610853382": {
+            "id": "1072967843610853382",
+            "text": "$ git push origin master -f\n*locks self in server room*\n*blasts The Marriage of Figaro over office Sonos*\n*smiles*",
+            "username": "iamdevloper",
+            "num_likes": 1292,
+            "num_retweets": 230,
+            "num_replies": 30
+        },
+        "1072521084442943488": {
+            "id": "1072521084442943488",
+            "text": "Another biweekly update from @prylabs. Check out the latest research updates, open issues, merged code and more! https://medium.com/prysmatic-labs/ethereum-2-0-development-update-18-prysmatic-labs-e5aeea75464d\u00a0\u2026",
+            "username": "terencechain",
+            "num_likes": 26,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1072135007475511296": {
+            "id": "1072135007475511296",
+            "text": "Been doing crypto almost 6 years now and I still panic when sending a transaction even after quadruple checking the address character by character",
+            "username": "CryptoCobain",
+            "num_likes": 2479,
+            "num_retweets": 193,
+            "num_replies": 160
+        },
+        "1070076363082620928": {
+            "id": "1070076363082620928",
+            "text": "Fun times. Beacon chain spec continues to be under heavy revisioning, reworkings, and refactorings. I'm learning so much by going through all these changes!pic.twitter.com/fW8erRyphS",
+            "username": "terencechain",
+            "num_likes": 28,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1069459537952821248": {
+            "id": "1069459537952821248",
+            "text": "9/ Here's my suggested fourth narrative: \u201cOkay, it works, and some people do value it, but it doesn't provide *enough* value to *enough* people to grow beyond a niche. It will live forever as an increasingly unimportant tool for enthusiasts, like End User FOSS and P2P.\u201d\u2026",
+            "username": "zooko",
+            "num_likes": 105,
+            "num_retweets": 13,
+            "num_replies": 5
+        }
+    },
+    "tweeted": {
+        "1125772476305133570": {
+            "id": "1125772476305133570",
+            "text": "Phase 0 Testnet is here !https://medium.com/prysmatic-labs/ethereum-2-0-phase-0-testnet-release-1e9e682db910\u00a0\u2026",
+            "username": "n1shantd",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "prylabs": 1,
+        "elonmusk": 1,
+        "preston_vanloon": 3,
+        "peter_szilagyi": 1,
+        "raulitojordan": 4,
+        "terencechain": 7,
+        "etherscan": 2,
+        "drakefjustin": 1,
+        "hakimel": 1,
+        "graemecoleman": 1,
+        "zilliqa": 1,
+        "davidgerard": 1,
+        "exiledsurfer": 1,
+        "jcksie": 1,
+        "el33th4xor": 1,
+        "jadynkro": 1,
+        "benjaminion_xyz": 1,
+        "crazyrchasian": 1,
+        "nic__carter": 1,
+        "MihailoBjelic": 1,
+        "muellerberndt": 1,
+        "VitalikButerin": 1,
+        "iamdevloper": 1,
+        "CryptoCobain": 1,
+        "zooko": 1
+    },
+    "users_retweeted": [
+        "terencechain",
+        "raulitojordan",
+        "preston_vanloon",
+        "etherscan",
+        "prylabs",
+        "elonmusk",
+        "peter_szilagyi",
+        "drakefjustin",
+        "hakimel",
+        "graemecoleman",
+        "zilliqa",
+        "davidgerard",
+        "exiledsurfer",
+        "jcksie",
+        "el33th4xor",
+        "jadynkro",
+        "benjaminion_xyz",
+        "crazyrchasian",
+        "nic__carter",
+        "MihailoBjelic",
+        "muellerberndt",
+        "VitalikButerin",
+        "iamdevloper",
+        "CryptoCobain",
+        "zooko"
+    ]
+}

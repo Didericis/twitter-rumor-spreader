@@ -1,0 +1,48 @@
+{
+    "is_complete": true,
+    "username": "PVienhage",
+    "retweeted": {
+        "1088607630736719872": {
+            "id": "1088607630736719872",
+            "text": "We worked out an agreement with @Authio_Team to join forces on @AragonProject's AGP-18, details here:\n\nhttps://forum.aragon.org/t/security-support-until-agp-vote-2/520/2\u00a0\u2026\n\nVote with your ANT here:\n\nhttps://mainnet.aragon.org/#/governance.aragonproject.eth/0x277bfcf7c2e162cb1ac3e9ae228a3132a75f83d4\u00a0\u2026",
+            "username": "maurelian_",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1085339642705166336": {
+            "id": "1085339642705166336",
+            "text": "Can DAOs be gerrymandered? How can DAOs learn from governance failures of the past? Check out @PVienhage 's post to find out!https://medium.com/authio/gerrymandering-and-democratic-failure-designing-dao-security-to-learn-from-the-past-44d21e44f1eb\u00a0\u2026",
+            "username": "Authio_Team",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1090354050254733312": {
+            "id": "1090354050254733312",
+            "text": "This discussion of the quantum computing threat model as needing error corrected qubits [logic qubits] assumes that topological quantum computing isn't successful. If Microsoft wins the quantum race they will only need 3600 qubits to break ECDSA.https://twitter.com/gakonst/status/1089956683046998016\u00a0\u2026",
+            "username": "PVienhage",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1083763292819066880": {
+            "id": "1083763292819066880",
+            "text": "Hi all, I just put out an explainer for my CTF which had 1.75 ETH in prizes. Of that only 0.75 was claimed, so if you want to know how you could have gotten that other ether give this a read:https://medium.com/authio/ctf-duplication-dd32cd4ef690\u00a0\u2026",
+            "username": "PVienhage",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "maurelian_": 1,
+        "Authio_Team": 1
+    },
+    "users_retweeted": [
+        "maurelian_",
+        "Authio_Team"
+    ]
+}

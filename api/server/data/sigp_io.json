@@ -1,0 +1,230 @@
+{
+    "is_complete": true,
+    "username": "sigp_io",
+    "retweeted": {
+        "1118439746252890112": {
+            "id": "1118439746252890112",
+            "text": "@sigp_iohttp://youtu.be/Mo7COWpqPGc\u00a0",
+            "username": "AlexSaundersAU",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1115234140461211648": {
+            "id": "1115234140461211648",
+            "text": "This week in crypto:\n\n-@ConsenSys announces startups chosen for Tachyon accelerator program \n-@sigp_io Eth2.0 testnet client live \n-@Rocket_Pool April development update \n-@ConnextNetwork's @Arjun_Bhuptani on the Into the Ether podcast \n\nMore https://ethhub.substack.com/p/ethhub-weekly-56\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 53,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1112482242117451778": {
+            "id": "1112482242117451778",
+            "text": "Hey hey, episode 17 is right of the virtual presses, straight to you with Luke Anderson, co-founder of @sigp_io. We covered how Luke chose Computer Science, discovered Ethereum, open source software, public speaking and more. Tune in  #podcast https://buff.ly/2OB8DjF\u00a0pic.twitter.com/N4bR6t0xE2",
+            "username": "blockchainpp",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1118234063087783937": {
+            "id": "1118234063087783937",
+            "text": "Licensing: why it matters in Open Source. A great thread by @ethZed who leads @sigp_io, the team behind the @rustlang implementation of ETH2, Lighthouse.https://twitter.com/ethZed/status/1117989925624745986\u00a0\u2026",
+            "username": "ethereumecf",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1117989925624745986": {
+            "id": "1117989925624745986",
+            "text": "We're very excited to announce that our #Ethereum 2.0 implementation #Lighthouse has been re-licensed from GPLv2 to Apache 2.0! Many thanks to all our contributors who agreed to this change! Curious about what this means? Short thread ",
+            "username": "ethZed",
+            "num_likes": 86,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "1117751927645671424": {
+            "id": "1117751927645671424",
+            "text": "Road to #Interop: #Ethereum 2.0 Workshop in NYC on May 16th\nhttps://www.eventbrite.com/e/road-to-interop-tickets-60384211803\u00a0\u2026\n@sigp_io @ChainSafeth @prylabs @ethnimbus @sorpaas @yeethaf @whiteblock @dannyryan @VitalikButerin @icebearhww @drakefjustin @protolambda @benjaminion_xyz",
+            "username": "josephdelong",
+            "num_likes": 53,
+            "num_retweets": 24,
+            "num_replies": 5
+        },
+        "1112627069169491969": {
+            "id": "1112627069169491969",
+            "text": "\n#Ethereum #Serenityhttps://twitter.com/AgeManning/status/1112623979313795072\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1112623979313795072": {
+            "id": "1112623979313795072",
+            "text": "LIghthouse #Ethereum 2.0 beacon node!\nTop: #Lighthouse beacon node: #libp2p ready, simplified spec (8 validators - demonstrative)\nMiddle: Validator Client - Gets duties signs/publishes blocks/attestations\nBottom: Second node - Syncs and gossips via #libp2p to first node.pic.twitter.com/gdok9fym1h",
+            "username": "AgeManning",
+            "num_likes": 84,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1112116284055937025": {
+            "id": "1112116284055937025",
+            "text": "Completing another round of testing and bug squashing today... #Ethereum 2.0, rust beacon node, running on #libp2p demonstration vids inbound!\n#lighthousehttps://twitter.com/ethZed/status/1111499764418240512\u00a0\u2026",
+            "username": "AgeManning",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1112605017196756992": {
+            "id": "1112605017196756992",
+            "text": "8 #lighthouse nodes syncing with block and attestation production from our validator client. Networked with rust-libp2p gossipsub, via an AWS server!  #eth2 @sigp_io @AgeManning @sproulM_ @spble @ethZedpic.twitter.com/KRZq0hqbtN",
+            "username": "paulhauner",
+            "num_likes": 256,
+            "num_retweets": 59,
+            "num_replies": 25
+        },
+        "1111499764418240512": {
+            "id": "1111499764418240512",
+            "text": "From @paulhauner on the #Ethereum 2.0 implementers call: \"We should be running a short lived, single client testnet, in the next couple of days.\"\n\n@sigp_io's been working really hard on Lighthouse to reach this milestone. Stay tuned for an exciting public announcement!\n\n#Serenityhttps://twitter.com/dannyryan/status/1111310594617933824\u00a0\u2026",
+            "username": "ethZed",
+            "num_likes": 92,
+            "num_retweets": 27,
+            "num_replies": 2
+        },
+        "1101422823816548353": {
+            "id": "1101422823816548353",
+            "text": "Catch my talk at #EthCC in Paris on Wednesday morning to hear all about lighthouse, the #Ethereum #Serenity Rust implementation we've been working on @sigp_io",
+            "username": "ethZed",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1093711795217289216": {
+            "id": "1093711795217289216",
+            "text": "Extremely proud of @AgeManning for being the main contributor to the smart contract security chapter of \u201cMastering Ethereum\u201c by @aantonop & @gavofyork ! if you haven\u2019t already, check out his reference post on our @sigp_io blog - https://blog.sigmaprime.io/solidity-security.html\u00a0\u2026pic.twitter.com/GvbPEbI11V",
+            "username": "ethZed",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1092863143854755841": {
+            "id": "1092863143854755841",
+            "text": "Two weeks ago I started working with @kyokan_io to prepare a report on the ETH 2.0 effort. We interviewed ETH 2.0 leads from @prylabs @PegaSysEng @ChainSafeth @ethstatus and @sigp_io, as well as @dannyryan. \n\nHere are our findings:https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit?usp=drivesdk\u00a0\u2026",
+            "username": "ameensol",
+            "num_likes": 319,
+            "num_retweets": 101,
+            "num_replies": 14
+        }
+    },
+    "tweeted": {
+        "1126300489002262528": {
+            "id": "1126300489002262528",
+            "text": "We'll definitely have room for @naddison kids at @sigp_io when it comes time for work experience https://twitter.com/naddison/status/1126262996232105985\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1123806204696891393": {
+            "id": "1123806204696891393",
+            "text": "The latest #lighthouse update is out!\n\nAchievements:\n- Re-licensed to Apache 2.0\n- Passing state-transition tests.\n- 25x faster merkle-roots.\n- Assisting with BLS standardization.\n\nUpcoming:\n- Spec v0.6.x\n- Discv5\n- Progress towards multi-client testnet.https://lighthouse.sigmaprime.io/update-10.html\u00a0",
+            "username": "sigp_io",
+            "num_likes": 80,
+            "num_retweets": 36,
+            "num_replies": 4
+        },
+        "1123406615573458944": {
+            "id": "1123406615573458944",
+            "text": "We're proud to be collaborating with @drakefjustin, @ChiaNetworkInc, @Algorand to produce a cross-chain BLS signature standard. We've been implementing experimental hashing algos in @rustlang, providing feedback to researchers.https://github.com/pairingwg/bls_standard/blob/master/minutes/spec-v1.md\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 43,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1112853101969498112": {
+            "id": "1112853101969498112",
+            "text": "Checkout the latest #Lighthouse development update! \n\nhttps://lighthouse.sigmaprime.io/update-09.html\u00a0\n\nOur rusty beacon node and multi-threaded validator client can now produce a functional, short-lived, single-client testnet!\n\n#Ethereum #Serenity",
+            "username": "sigp_io",
+            "num_likes": 87,
+            "num_retweets": 35,
+            "num_replies": 3
+        },
+        "1106223638695469058": {
+            "id": "1106223638695469058",
+            "text": "We've published benchmarks from #Lighthouse for 16k, 300k and 4M validators.\n\nThey're testing the functional Ethereum 2.0 state transition components, with parallelization.\n\nRead the results or run them yourself:https://github.com/sigp/serenity-benches\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 95,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "1100265443028131840": {
+            "id": "1100265443028131840",
+            "text": "Latest #Lighthouse update is out! - Overview of fork-choice rules, BLS algorithms and dev updates. Check it out at:https://lighthouse.sigmaprime.io/update-08.html\u00a0",
+            "username": "sigp_io",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1093750944590778368": {
+            "id": "1093750944590778368",
+            "text": "The latest #Lighthouse update is live! \n\nAlongside dev updates, we seek to help set public expectations around the Q1 Beacon Chain testnet.https://lighthouse.sigmaprime.io/update-07.html\u00a0",
+            "username": "sigp_io",
+            "num_likes": 29,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1092664059869024257": {
+            "id": "1092664059869024257",
+            "text": "Thanks for the support @Gitcoin, you do great work.https://twitter.com/gitcoin/status/1092547648446492672\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1090133542728654848": {
+            "id": "1090133542728654848",
+            "text": ".@AgeManning just published a PR which implements gossipsub in rust-libp2p.\n\nGossipsub is the p2p protocol for Eth2.0.https://github.com/libp2p/rust-libp2p/pull/898\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1089802642182660096": {
+            "id": "1089802642182660096",
+            "text": "Lighthouse development has come a huge way over the past couple of weeks. We're looking forward to sharing progress in the coming days.https://twitter.com/paulhauner/status/1089799378645147648\u00a0\u2026",
+            "username": "sigp_io",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "926259807077707776": {
+            "id": "926259807077707776",
+            "text": "Hello World -https://sigmaprime.io\u00a0",
+            "username": "sigp_io",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "AlexSaundersAU": 1,
+        "sassal0x": 1,
+        "blockchainpp": 1,
+        "ethereumecf": 1,
+        "ethZed": 5,
+        "josephdelong": 1,
+        "AgeManning": 2,
+        "paulhauner": 1,
+        "ameensol": 1
+    },
+    "users_retweeted": [
+        "ethZed",
+        "AgeManning",
+        "AlexSaundersAU",
+        "sassal0x",
+        "blockchainpp",
+        "ethereumecf",
+        "josephdelong",
+        "paulhauner",
+        "ameensol"
+    ]
+}

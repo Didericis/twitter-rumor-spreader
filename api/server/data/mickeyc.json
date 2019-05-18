@@ -1,0 +1,218 @@
+{
+    "is_complete": true,
+    "username": "mickeyc",
+    "retweeted": {
+        "1011990133426532354": {
+            "id": "1011990133426532354",
+            "text": "Blog post: \u201cIntroducing MTA Strict Transport Security (MTA-STS)\u201d, where we describe what problems MTA-STS solves, how to use it, and announce full support for it in Hardenize! https://www.hardenize.com/blog/mta-sts\u00a0",
+            "username": "hardenize",
+            "num_likes": 33,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "988796338237333505": {
+            "id": "988796338237333505",
+            "text": "Purism and @UBports officially collaborate to offer #Ubuntu Touch on Librem 5\n\nhttps://puri.sm/posts/ubports-ubuntu-touch-on-librem5-collaboration/\u00a0\u2026pic.twitter.com/n7gi5peMyP",
+            "username": "Puri_sm",
+            "num_likes": 249,
+            "num_retweets": 114,
+            "num_replies": 15
+        },
+        "980561009961299968": {
+            "id": "980561009961299968",
+            "text": "Microbenchmarks & stats abuse for advertising: Cloudflare's 1.1.1.1 DNS will respond very fast, but the big sites you access, the whole reason for resolving DNS, will be SLOWER \u2235 no edns-client-subnet support, so no geolocation of results.",
+            "username": "philpennock",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "973601433823141889": {
+            "id": "973601433823141889",
+            "text": "We\u2019ve just added support for Certificate Transparency email notifications! https://www.hardenize.com/blog/certificate-transparency-notifications\u00a0\u2026pic.twitter.com/8XcjTQJka1",
+            "username": "hardenize",
+            "num_likes": 14,
+            "num_retweets": 8,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1084892673725603840": {
+            "id": "1084892673725603840",
+            "text": "Dropped mozjs into my Rust project so end users could configure things with JavaScript. One 229MB binary later... think I'll take a more lightweight approach",
+            "username": "mickeyc",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1077219953051385856": {
+            "id": "1077219953051385856",
+            "text": "Twitter to RSS with Google Cloud Function - https://www.grepular.com/Twitter_to_RSS_with_Google_Cloud_Function\u00a0\u2026",
+            "username": "mickeyc",
+            "num_likes": 8,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1076913789587591168": {
+            "id": "1076913789587591168",
+            "text": "Re my last Tweet. Don't take offence if I just unfollowed you. I'm just following people via my RSS gateway instead now.",
+            "username": "mickeyc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1076907807474180101": {
+            "id": "1076907807474180101",
+            "text": "In case anyone wants to gate Twitter to RSS, by deploying their own Google Cloud Function, I just releasedhttps://gitlab.com/mikecardwell/functwitter\u00a0\u2026",
+            "username": "mickeyc",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1046787621048012800": {
+            "id": "1046787621048012800",
+            "text": "I assume it's a performance hack so they don't exceed 512 bytes and have to return a TRUNCATE response making the client repeat the request over TCP? If true, is it valid as per the RFCs, and even if not, would it cause any interoperability issues?",
+            "username": "mickeyc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1046787261902262274": {
+            "id": "1046787261902262274",
+            "text": "Any DNS experts around? When querying http://ns3.cloudflare.com\u00a0 for http://cloudflare.com\u00a0 NS, they skip the ns7 glue for UDP, but not TCP. Is this allowed? Compare: `dig +tcp ns http://cloudflare.com\u00a0 @ns3.cloudflare.com` vs `dig ns http://cloudflare.com\u00a0 @ns3.cloudflare.com`",
+            "username": "mickeyc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1022047112438210560": {
+            "id": "1022047112438210560",
+            "text": "To the spammers spoofing my domain. You'll have better luck spamming if you pick a domain to abuse which doesn't have strictly configured DMARC.",
+            "username": "mickeyc",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1018932127386210309": {
+            "id": "1018932127386210309",
+            "text": "When an anti-spam org sends a mailshot to an address which forwards to all of their users, and they've not locked down who can send mail to that address, and somebody Reply All's. Hello @SuretyMail",
+            "username": "mickeyc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1012969614337245184": {
+            "id": "1012969614337245184",
+            "text": "If you have a Pebble watch, go read https://rebble.io/\u00a0 ASAP. Pebble are shutting down their servers today and you might want to import your data into Rebble. I didn't know about this deadline until I read the changes in the Android app update today.",
+            "username": "mickeyc",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1012069910992867328": {
+            "id": "1012069910992867328",
+            "text": "Setting up TLSA records for the HTTPS website serving the MTA-STS policy for my TLSA secured MX. Yo Dawg?",
+            "username": "mickeyc",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1007709042826006528": {
+            "id": "1007709042826006528",
+            "text": "I know this has been around for a while, but https://webtorrent.io\u00a0 is massively awesome. Just had a play with it for the first time. Creating, seeding and fetching torrents, entirely inside the browser using WebRTC.@WebTorrentApp",
+            "username": "mickeyc",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1000322181673385984": {
+            "id": "1000322181673385984",
+            "text": "Nice 2 minute demo of efail in action on Apple Mail -https://www.youtube.com/watch?v=_67Pz9zpPb0\u00a0\u2026",
+            "username": "mickeyc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "993967332409118720": {
+            "id": "993967332409118720",
+            "text": "Some interesting email related graphs here - https://transparencyreport.google.com/safer-email/overview\u00a0\u2026 - Apparently GMail is experiencing 90% of incoming and outgoing SMTP traffic over TLS nowadays. Was at ~50% only 4 years ago.",
+            "username": "mickeyc",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "986524086913388544": {
+            "id": "986524086913388544",
+            "text": "Somebody used http://emailprivacytester.com\u00a0, received the confirmation email, clicked the confirm button, sent himself a test email, then clicked the Yahoo spam button on both the confirmation email and the test email. *sigh* I'm glad I don't deal with email at scale any more.",
+            "username": "mickeyc",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "984067169221775360": {
+            "id": "984067169221775360",
+            "text": "Was excited to see that Unbound has \"DNS over TLS\" support. Until I realised it doesn't support either server or client certificate authentication.",
+            "username": "mickeyc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "982920565114769408": {
+            "id": "982920565114769408",
+            "text": "Received a DMARC failure report from http://uwaterloo.ca\u00a0 because they stripped the Received header from my email invalidating the DKIM sig, then attempted to validate SPF against their own internal RFC1918 private network address. Nice broken mail server config @UWaterloo",
+            "username": "mickeyc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "980561684170452992": {
+            "id": "980561684170452992",
+            "text": "Verifying myself: I am mickeyc on http://Keybase.io\u00a0. Cw5LDcwMOm-z0o7gXXMFN10QP8nLPnzt9pai / https://keybase.io/mickeyc/sigs/Cw5LDcwMOm-z0o7gXXMFN10QP8nLPnzt9pai\u00a0\u2026",
+            "username": "mickeyc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "978913964015964161": {
+            "id": "978913964015964161",
+            "text": "Seems like if you want to do anything even slightly interesting in #terraform you'll find yourself manually editing the state files or writing scripts to do it.",
+            "username": "mickeyc",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "978350821468442626": {
+            "id": "978350821468442626",
+            "text": "*sigh* I really want to buy a laptop from @Puri_sm, but my Thinkpad T420 just refuses to die. I've had it for 7 years and it just keeps running and handling everything I need to do on it without issue.",
+            "username": "mickeyc",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "977537951361060865": {
+            "id": "977537951361060865",
+            "text": "Hate to say it, but MS's Visual Studio Code for Linux is not half bad",
+            "username": "mickeyc",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "972767827412299781": {
+            "id": "972767827412299781",
+            "text": "https://www.national-lottery.co.uk\u00a0 SSL is broken for me due to the fact I'm using Firefox nightly and they're still on a soon to be generally untrusted Symantec issued cert. What's the betting they don't fix this before it breaks for everyone else - https://www.hardenize.com/report/national-lottery.co.uk/1520759635#www_certs\u00a0\u2026",
+            "username": "mickeyc",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "hardenize": 2,
+        "Puri_sm": 1,
+        "philpennock": 1
+    },
+    "users_retweeted": [
+        "hardenize",
+        "Puri_sm",
+        "philpennock"
+    ]
+}

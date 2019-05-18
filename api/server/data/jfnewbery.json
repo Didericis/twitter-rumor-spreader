@@ -1,0 +1,2922 @@
+{
+    "is_complete": true,
+    "username": "jfnewbery",
+    "retweeted": {
+        "1125765034225827843": {
+            "id": "1125765034225827843",
+            "text": "Bitcoin Optech Newsletter #45 is here:\n\n- changes in the recently-released Bitcoin Core 0.18.0\n- briefly mentions two proposed BIPs for taproot and tapscript\n- describes how bech32 addresses are forward compatible with expected protocol improvementshttps://bitcoinops.org/en/newsletters/2019/05/07/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 57,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "1123903722784993281": {
+            "id": "1123903722784993281",
+            "text": "Bitcoin Core 0.18.0 Released!\nhttps://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2019-May/000078.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 1180,
+            "num_retweets": 496,
+            "num_replies": 21
+        },
+        "1123231244165222401": {
+            "id": "1123231244165222401",
+            "text": "Bitcoin Optech Newsletter #44 is here:\n\n- our regular section on bech32 sending support\n- selected questions and answers from the Bitcoin StackExchange\n- notable changes in popular Bitcoin infrastructure projects.https://bitcoinops.org/en/newsletters/2019/04/30/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 59,
+            "num_retweets": 33,
+            "num_replies": 1
+        },
+        "1113081319175712769": {
+            "id": "1113081319175712769",
+            "text": "Bitcoin Optech newsletter #40 is here.\n\n- A spike in estimated transaction fees\n- LN trampoline payments\n- Bitcoin Core changing default receiving addresses to bech32 in version 0.20 or earlierhttps://bitcoinops.org/en/newsletters/2019/04/02/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 60,
+            "num_retweets": 30,
+            "num_replies": 2
+        },
+        "1110551419180994560": {
+            "id": "1110551419180994560",
+            "text": "Bitcoin Optech Newsletter #39 is here:\n\n- a proposal to encrypt P2P communication\n- Lightning Loop: withdrawing LN funds to an onchain transaction\n- links to resources about bech32 adoption\n- popular answers from Bitcoin StackExchangehttps://bitcoinops.org/en/newsletters/2019/03/26/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 73,
+            "num_retweets": 32,
+            "num_replies": 3
+        },
+        "1105473122780626946": {
+            "id": "1105473122780626946",
+            "text": "Bitcoin Optech Newsletter #37 is here:\n\n- Asks for help testing Bitcoin Core 0.18.0 RC1\n- Describes recent discussions from the Bitcoin-Dev mailing list\n- Links to a chapter about payment batching in Optech\u2019s work-in-progress scaling techniques bookhttps://bitcoinops.org/en/newsletters/2019/03/12/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 73,
+            "num_retweets": 40,
+            "num_replies": 2
+        },
+        "1101557242241912832": {
+            "id": "1101557242241912832",
+            "text": "Merged PR from adamjonas: add rpc_misc.py, mv test getmemoryinfo, add test mallocinfohttps://github.com/bitcoin/bitcoin/pull/15485\u00a0\u2026",
+            "username": "BitcoinMerges",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1097895433093959680": {
+            "id": "1097895433093959680",
+            "text": "DEADLINE TO APPLY IS FEB 24!\n\nJoin @snyke, @neha, @TheBlueMatt, @jfnewbery, @theinstagibbs, @kallewoof, @n1ckler, @provoost, @_jonasschnelli_, @acinq_co, @jamesob, @johanth, @meshcollider, @achow101, @renepickhardt, Andrew Poelstra & more this summer.http://residency.chaincode.com\u00a0",
+            "username": "ChaincodeLabs",
+            "num_likes": 105,
+            "num_retweets": 49,
+            "num_replies": 4
+        },
+        "1092920168060088320": {
+            "id": "1092920168060088320",
+            "text": "Bitcoin is resilient. Bitcoin is principled. Bitcoin is native to internet ideals. And it\u2019s a great brand.",
+            "username": "jack",
+            "num_likes": 4929,
+            "num_retweets": 1793,
+            "num_replies": 202
+        },
+        "1091017153153708032": {
+            "id": "1091017153153708032",
+            "text": "Proud to announce our Summer 2019 Residency -- our most ambitious residency yet! http://medium.com/@ChaincodeLabs/chaincode-residency-summer-2019-1e124cf18eb7\u00a0\u2026 Applications are open (http://residency.chaincode.com\u00a0)!",
+            "username": "ChaincodeLabs",
+            "num_likes": 120,
+            "num_retweets": 56,
+            "num_replies": 9
+        },
+        "1085192821441671171": {
+            "id": "1085192821441671171",
+            "text": "Bitcoin Optech Newsletter #29 is here.\n\nThis week we cover a security upgrade for C-Lightning, and research into wallets that accidentally revealed their private keys.https://bitcoinops.org/en/newsletters/2019/01/15/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 50,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1078721707538550784": {
+            "id": "1078721707538550784",
+            "text": "This is a must-read year-in-review. I've never encountered a year-in-review that not only summarizes the year, but simplifies explanations of complex topics, furthering understanding. Phenomenal year of writing contributions by @hrdng and thorough reviews by @jfnewbery!https://twitter.com/bitcoinoptech/status/1078707675976724481\u00a0\u2026",
+            "username": "moneyball",
+            "num_likes": 27,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1076160882873380870": {
+            "id": "1076160882873380870",
+            "text": "This warning is prompted by a company called Brave, who've been taking cryptocurrency donations \"for me\", using my name and photo, without my consent. I asked them not to, and to refund anyone who's donated; they said \"we'll see what we can do\" and that \"refunds are impossible\".",
+            "username": "tomscott",
+            "num_likes": 1139,
+            "num_retweets": 390,
+            "num_replies": 66
+        },
+        "1073953886950604801": {
+            "id": "1073953886950604801",
+            "text": "It's time to put another endless debate to rest.https://medium.com/@lopp/who-controls-bitcoin-core-c55c0af91b8a\u00a0\u2026",
+            "username": "lopp",
+            "num_likes": 1612,
+            "num_retweets": 652,
+            "num_replies": 77
+        },
+        "1069964216956801024": {
+            "id": "1069964216956801024",
+            "text": "Bitcoin Optech Newsletter #24 is here.\n\nDescribes a proposal to tweak Bitcoin Core\u2019s relay policy for related transactions to help simplify onchain fees for LN payments, and briefly describes a new LND and upcoming Bitcoin Core release.https://bitcoinops.org/en/newsletters/2018/12/04/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 41,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1067435645948194817": {
+            "id": "1067435645948194817",
+            "text": "Bitcoin Optech newsletter #23 is here.\n\nContains a reminder about potential feerate increases, summarizes suggested improvements to sighash flags, and briefly describes a proposal to simplify fee bumping for LN commitment transactions.https://bitcoinops.org/en/newsletters/2018/11/27/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 51,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1059804909284016128": {
+            "id": "1059804909284016128",
+            "text": "Bitcoin Optech Newsletter #20 is out! Contains a security notice about the C implementation of bech32 address decoding and an analysis of a temporary reduction in the number of segwit blocks.https://bitcoinops.org/en/newsletters/2018/11/06/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 35,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "1059105530592026625": {
+            "id": "1059105530592026625",
+            "text": "Why is the Bitcoin community perpetually positive? What is it about sound money, permissionless innovation, p2p network governance that brings out the best in people? Whatever it is, I love it! As Bitcoin closes its first decade, here's to the next decade ",
+            "username": "pierre_rochard",
+            "num_likes": 668,
+            "num_retweets": 113,
+            "num_replies": 19
+        },
+        "1054011483888279554": {
+            "id": "1054011483888279554",
+            "text": "Don't get fooled by people implying that Bitcoin is associated with particular political views, a particular lifestyle or a particular kind of food.\n\nBitcoin is no more than money and infrastructure. You're free to use it or not use it, no matter if you love meat and guns or not.https://twitter.com/TheCryptoDog/status/1052994125098872832\u00a0\u2026",
+            "username": "real_or_random",
+            "num_likes": 640,
+            "num_retweets": 121,
+            "num_replies": 49
+        },
+        "1052187393460248576": {
+            "id": "1052187393460248576",
+            "text": "Bitcoin Optech Newsletter #17 is here.\n\nThis week's newsletter describes a proposal for splicing Lightning channels and summaries of talks from the Edge Dev++ training sessions and http://CoreDev.tech\u00a0 event.https://bitcoinops.org/en/newsletters/2018/10/16/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 49,
+            "num_retweets": 29,
+            "num_replies": 0
+        },
+        "1044587133263073280": {
+            "id": "1044587133263073280",
+            "text": "Bitcoin Optech Newsletter #14 is out!\n\nIncludes news related to last week\u2019s security release of Bitcoin Core and popular questions and answers from the Bitcoin StackExchange.https://bitcoinops.org/en/newsletters/2018/09/25/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 48,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1039493926741323776": {
+            "id": "1039493926741323776",
+            "text": "Bitcoin Optech Newsletter #12 is out. Includes discussion on BIP151 encryption for the P2P network, an update on compatibility between Bitcoin and the W3C Web Payments draft specification, and information about our upcoming Paris workshop.https://bitcoinops.org/en/newsletters/2018/09/11/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 51,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1039440345149464576": {
+            "id": "1039440345149464576",
+            "text": "Bolters!  A dozen #reckless makers will be chosen to participate in the #LightningNetwork residency by @ChaincodeLabs in NYC in late October. You'll be mentored by @alexbosworth, @Snyke, @eiaine, @juscamarena, @JackMallers and @LightningK0ala! Apply now! http://lightningresidency.com/#apply\u00a0",
+            "username": "fulmolightning",
+            "num_likes": 71,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1037347583578931200": {
+            "id": "1037347583578931200",
+            "text": "Somehow Chaincode residencies produce more people who I'd want to hire than any other course or residency program I've ever seen. Great opportunity.https://twitter.com/ChaincodeLabs/status/1036997445039861766\u00a0\u2026",
+            "username": "peterktodd",
+            "num_likes": 75,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1036997445039861766": {
+            "id": "1036997445039861766",
+            "text": "We announced our lightning apps residency two weeks ago. Here's why you should apply today: https://medium.com/@ChaincodeLabs/chaincode-lightning-applications-residency-8537a1766e10\u00a0\u2026.",
+            "username": "ChaincodeLabs",
+            "num_likes": 69,
+            "num_retweets": 25,
+            "num_replies": 5
+        },
+        "1036977515431124992": {
+            "id": "1036977515431124992",
+            "text": "Lightning residency applicants: we're in the process of reviewing applications. We haven't accepted anyone yet. You'll be hearing from us within the next 8 days or so.\n\nHaven't applied yet? Do so now! Remember, we want proposals for *user-facing apps.*https://www.coindesk.com/bitcoins-lightning-network-is-getting-its-own-hacker-camp/\u00a0\u2026",
+            "username": "jamesob",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "1033423945230442497": {
+            "id": "1033423945230442497",
+            "text": "First screenshot: Upper West Side, Manhattan\nSecond screenshot; Upper East Side Manhattan\nThird screenshot: Iran\nFourth screenshot: Venezuelapic.twitter.com/b41D8YWXLE",
+            "username": "arbedout",
+            "num_likes": 2782,
+            "num_retweets": 1063,
+            "num_replies": 76
+        },
+        "1031664470035189760": {
+            "id": "1031664470035189760",
+            "text": "Proud and excited to be joining as a guest speaker for the first Lightning Residency hosted by Chain code Lab!\n\nSign up if you're interested in developing lightning network enabled apps!\n\nLet the #buidling begin!https://twitter.com/ChaincodeLabs/status/1031526673831915520\u00a0\u2026",
+            "username": "LightningK0ala",
+            "num_likes": 87,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1027689304900820993": {
+            "id": "1027689304900820993",
+            "text": "Two posts: Cory, a Bitcoin developer, shares his experience disclosing a chain-split vulnerability in Bitcoin Cash in April, and a follow-up post on how to improve security in cryptocurrencies. https://medium.com/@coryfields/http-coryfields-com-cash-48a99b85aad4\u00a0\u2026https://medium.com/@neha/reducing-the-risk-of-catastrophic-cryptocurrency-bugs-dcdd493c7569\u00a0\u2026",
+            "username": "neha",
+            "num_likes": 141,
+            "num_retweets": 55,
+            "num_replies": 6
+        },
+        "1026821632378191873": {
+            "id": "1026821632378191873",
+            "text": "Bitcoin Optech Newsletter #7 is out!\n\nFeaturing news about generalized Bitcoin contracts over the Lightning Network and a recently-announced library for scalability-enhancing BLS signatures.https://bitcoinops.org/en/newsletters/2018/08/07/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 43,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1025791234781196288": {
+            "id": "1025791234781196288",
+            "text": "Launch announcement for http://btcinformation.org\u00a0, a community-maintained fork of Bitcoin(dot)org with advertisements removed and third-party trackers disabled.  I've already had the pleasure making some small contributions.  https://btcinformation.org/en/posts/announcing-btcinformation.html\u00a0\u2026",
+            "username": "hrdng",
+            "num_likes": 412,
+            "num_retweets": 160,
+            "num_replies": 47
+        },
+        "1021738832251609089": {
+            "id": "1021738832251609089",
+            "text": "In fact, for those who believe Bitcoin dev is slow or boring, this seems at odds with the fact it is a near full time job just to stay abreast of all the exciting developments happening.https://twitter.com/moneyball/status/1021737619409883137\u00a0\u2026",
+            "username": "moneyball",
+            "num_likes": 92,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "1021737619409883137": {
+            "id": "1021737619409883137",
+            "text": "If you're an engineer wanting to follow Bitcoin open source development but can't spend ten hours a day trying to keep up, this is for you. Thanks @hrdnghttps://twitter.com/bitcoinoptech/status/1021735916329680896\u00a0\u2026",
+            "username": "moneyball",
+            "num_likes": 127,
+            "num_retweets": 37,
+            "num_replies": 5
+        },
+        "1021735916329680896": {
+            "id": "1021735916329680896",
+            "text": "Newsletter #5 is out!\n\nThis week\u2019s newsletter includes information about a new language to describe output scripts, an update on Bitcoin Core\u2019s support for partially-signed Bitcoin transactions, and news on several other notable Bitcoin Core merges.https://bitcoinops.org/en/newsletters/2018/07/24/\u00a0\u2026",
+            "username": "bitcoinoptech",
+            "num_likes": 89,
+            "num_retweets": 31,
+            "num_replies": 0
+        },
+        "1020969813944905728": {
+            "id": "1020969813944905728",
+            "text": "Video from @pwuille's talk on Taproot, Schnorr and SIGHASH_NOINPUT is now availablehttps://youtu.be/YSUVRj8iznU\u00a0",
+            "username": "SFBitcoinDevs",
+            "num_likes": 363,
+            "num_retweets": 136,
+            "num_replies": 6
+        },
+        "1020335909424599040": {
+            "id": "1020335909424599040",
+            "text": "Nice article by @ahcastorhttps://bitcoinmagazine.com/articles/chaincode-devs-google-alumni-create-industry-group-help-bitcoin-scale/\u00a0\u2026",
+            "username": "moneyball",
+            "num_likes": 30,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1020277937130688512": {
+            "id": "1020277937130688512",
+            "text": "JUST IN: Bitcoin's Biggest Startups Are Backing a New Effort to Keep Fees Low http://bit.ly/2mukuT9\u00a0pic.twitter.com/KjCNeDRdHv",
+            "username": "coindesk",
+            "num_likes": 315,
+            "num_retweets": 120,
+            "num_replies": 12
+        },
+        "1019991697487515648": {
+            "id": "1019991697487515648",
+            "text": "If you're interested in Bitcoin development, follow @BitcoinMerges and explore pull requests that catch your attention",
+            "username": "pierre_rochard",
+            "num_likes": 58,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "1006604022122471426": {
+            "id": "1006604022122471426",
+            "text": "Drat, I hate when that happens. Must have been too many dicks on https://satoshis.place/\u00a0pic.twitter.com/USpq6hp45u",
+            "username": "lopp",
+            "num_likes": 120,
+            "num_retweets": 16,
+            "num_replies": 22
+        },
+        "984177251431272448": {
+            "id": "984177251431272448",
+            "text": "No, I won't stop hyping LN",
+            "username": "alexbosworth",
+            "num_likes": 110,
+            "num_retweets": 12,
+            "num_replies": 7
+        },
+        "968194301128712192": {
+            "id": "968194301128712192",
+            "text": "Bug reports please!",
+            "username": "rusty_twit",
+            "num_likes": 60,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "968078246087659521": {
+            "id": "968078246087659521",
+            "text": "Bitcoin Core 0.16.0 Released https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2018-February/000052.html\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 1952,
+            "num_retweets": 836,
+            "num_replies": 164
+        },
+        "965379299846098944": {
+            "id": "965379299846098944",
+            "text": "Initial version is live! Mempool-based feerate estimation for #bitcoin.\nhttps://whatthefee.io\u00a0",
+            "username": "FelixWeis",
+            "num_likes": 220,
+            "num_retweets": 98,
+            "num_replies": 19
+        },
+        "956443953061965824": {
+            "id": "956443953061965824",
+            "text": "My @linuxconfau \"Future Bitcoin Tech\" video is up at https://youtu.be/VABppufTdpA\u00a0 notes at https://docs.google.com/document/d/1iNzJtJRq9-0vdILQAe9Bcj7r1a7xYVf8CSY0_oFrH9c\u00a0\u2026 aka 24 Coming Bitcoin Technologies Everyone Should Know: #4 Will Surprise You!",
+            "username": "rusty_twit",
+            "num_likes": 323,
+            "num_retweets": 141,
+            "num_replies": 13
+        },
+        "956527468508270592": {
+            "id": "956527468508270592",
+            "text": "Are you interested in learning Bitcoin development? Here are 10 hours of tutorials that were just published from @TheBitcoinEdge workshop:https://bitcoinedge.org/tutorials\u00a0",
+            "username": "lopp",
+            "num_likes": 1927,
+            "num_retweets": 746,
+            "num_replies": 47
+        },
+        "954004690223579137": {
+            "id": "954004690223579137",
+            "text": "Our paper on Schnorr-based key and signature aggregation for Bitcoin is on eprint: https://eprint.iacr.org/2018/068\u00a0",
+            "username": "pwuille",
+            "num_likes": 793,
+            "num_retweets": 311,
+            "num_replies": 25
+        },
+        "940476306889814016": {
+            "id": "940476306889814016",
+            "text": "I just published \u201cPSA: Wrong fee rates on block explorers\u201dhttps://medium.com/p/psa-wrong-fee-rates-on-block-explorers-48390cbfcc74\u00a0\u2026",
+            "username": "murchandamus",
+            "num_likes": 97,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "938431727034302464": {
+            "id": "938431727034302464",
+            "text": "Hot off the presses, my conversation with @jfnewbery on @TFTC21! Learn about the Bitcoin Core process and listen to me convince John that it's okay to get cosmic every once in a while.https://itunes.apple.com/us/podcast/tales-from-the-crypt-5-a-conversation-with-john-newbery/id1292381204?i=1000396485508&mt=2\u00a0\u2026",
+            "username": "MartyBent",
+            "num_likes": 44,
+            "num_retweets": 15,
+            "num_replies": 5
+        },
+        "932350908461133825": {
+            "id": "932350908461133825",
+            "text": "Welcome to Bitcoin, newcomers! Here's your FAQ:\n\nQ: Who should I trust?\nA: Nobody.\n\nQ: When should I sell?\nA: Never.\n\nQ: Is Bitcoin dying because ____?\nA: No.\n\nQ: What have I gotten myself into?\nA: Nobody knows.\n\nQ: How do I learn more?\nA:https://lopp.net/bitcoin.html\u00a0",
+            "username": "lopp",
+            "num_likes": 12980,
+            "num_retweets": 5252,
+            "num_replies": 487
+        },
+        "927962374916706304": {
+            "id": "927962374916706304",
+            "text": "Applications for our hacker residency close on Friday 17th November. Apply now! http://hackerresidency.com/\u00a0",
+            "username": "ChaincodeLabs",
+            "num_likes": 26,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "920259492679507968": {
+            "id": "920259492679507968",
+            "text": "I was there during the first episode, it\u2019s very much worth it! Highly recommended, these guys are monstruously smart.https://twitter.com/kyletorpey/status/919994935989940225\u00a0\u2026",
+            "username": "stanmarion",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "919994935989940225": {
+            "id": "919994935989940225",
+            "text": "\u201cChaincode Residency 2018\u201d\u200a\u2014\u200a@ChaincodeLabs https://medium.com/@ChaincodeLabs/chaincode-residency-2018-26cd8a65d5f7#---0-181\u00a0\u2026pic.twitter.com/T8eZYXLilX",
+            "username": "kyletorpey",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "919900137631121409": {
+            "id": "919900137631121409",
+            "text": "Announcing Chaincode's 2018 Bitcoin residency program:https://medium.com/@ChaincodeLabs/chaincode-residency-2018-26cd8a65d5f7\u00a0\u2026",
+            "username": "ChaincodeLabs",
+            "num_likes": 102,
+            "num_retweets": 60,
+            "num_replies": 3
+        },
+        "918485250723815424": {
+            "id": "918485250723815424",
+            "text": "All about MAST from @hrdng : https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f\u00a0\u2026",
+            "username": "bitcointechtalk",
+            "num_likes": 102,
+            "num_retweets": 46,
+            "num_replies": 1
+        },
+        "903716321547792384": {
+            "id": "903716321547792384",
+            "text": "we will scale bitcoin to billions, without the naysayers. they'll either come back as promoters, or fade into obscurity. onwards and upwards",
+            "username": "adam3us",
+            "num_likes": 505,
+            "num_retweets": 179,
+            "num_replies": 21
+        },
+        "902968971833614336": {
+            "id": "902968971833614336",
+            "text": "I just paid one of my contractors using a segwit transaction, my first. Saved $2 on fees, confirmed in 1st block. #scaling",
+            "username": "aantonop",
+            "num_likes": 1160,
+            "num_retweets": 304,
+            "num_replies": 40
+        },
+        "902985197356032004": {
+            "id": "902985197356032004",
+            "text": "Note that it didn't matter how many other wallets used SegWit, or how big the block was. Andreas uses SegWit, Andreas gets a discount.https://twitter.com/aantonop/status/902968971833614336\u00a0\u2026",
+            "username": "AaronvanW",
+            "num_likes": 193,
+            "num_retweets": 67,
+            "num_replies": 9
+        },
+        "902887882947411974": {
+            "id": "902887882947411974",
+            "text": "Correcting misleading statements about btc1 and \"segwit2x\"https://bitcoincore.org/en/2017/08/18/btc1-misleading-statements/\u00a0\u2026",
+            "username": "bitcoincoreorg",
+            "num_likes": 258,
+            "num_retweets": 114,
+            "num_replies": 16
+        },
+        "902703030520487936": {
+            "id": "902703030520487936",
+            "text": "I just published \u201cMaking Bitcoin Better\u201dhttps://medium.com/p/making-bitcoin-better-1a0b77d6cf7f\u00a0\u2026",
+            "username": "jimmysong",
+            "num_likes": 216,
+            "num_retweets": 59,
+            "num_replies": 21
+        },
+        "902318777643229186": {
+            "id": "902318777643229186",
+            "text": "I agree with you on this one Jeff and I'm personally embarrassed. That is not the way a project should carry itself in public.",
+            "username": "morcosa",
+            "num_likes": 52,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "902290424026497025": {
+            "id": "902290424026497025",
+            "text": "I just published \u201cMining BTC/BCH: Past, Present and Future\u201d https://bitcointechtalk.com/mining-btc-bch-past-present-and-future-e9432315aa47\u00a0\u2026",
+            "username": "bitcointechtalk",
+            "num_likes": 13,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "902154647762333697": {
+            "id": "902154647762333697",
+            "text": "It's not about the money, it's about the sound money.https://twitter.com/jfnewbery/status/902152578376630274\u00a0\u2026",
+            "username": "lopp",
+            "num_likes": 93,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "901851236957384704": {
+            "id": "901851236957384704",
+            "text": "Miners Are Milking #Bcash\u2019s Difficulty Adjustments (and Why This Is a Problem) https://bitcoinmagazine.com/articles/miners-are-milking-bcashs-difficulty-adjustments-and-why-problem1/\u00a0\u2026 #bitcoin #BitcoinCash #blockchain",
+            "username": "BitcoinMagazine",
+            "num_likes": 205,
+            "num_retweets": 157,
+            "num_replies": 16
+        },
+        "900220500017905664": {
+            "id": "900220500017905664",
+            "text": "I just published \u201cThe Consensus Path To A Bitcoin Hard Fork: Part 1\u201dhttps://medium.com/p/the-consensus-path-to-a-bitcoin-hard-fork-part-1-50dd899e654c\u00a0\u2026",
+            "username": "rusty_twit",
+            "num_likes": 98,
+            "num_retweets": 44,
+            "num_replies": 2
+        },
+        "899331187402919936": {
+            "id": "899331187402919936",
+            "text": "About 20% of the hashrate is now mining BCH. I'd suggest that is an indicator of just how reliable the 93% mining power support for B2x is.",
+            "username": "murchandamus",
+            "num_likes": 109,
+            "num_retweets": 37,
+            "num_replies": 4
+        },
+        "898628728120651777": {
+            "id": "898628728120651777",
+            "text": "@bitcoincoreorg correcting misleading statements from various btc1/segwit2x supporters https://bitcoincore.org/en/2017/08/18/btc1-misleading-statements/\u00a0\u2026",
+            "username": "TheBlueMatt",
+            "num_likes": 202,
+            "num_retweets": 134,
+            "num_replies": 3
+        },
+        "898573995695497217": {
+            "id": "898573995695497217",
+            "text": "It's time to boycott @BitPay. I'll be adding merchant checkout + $BTC card to http://bylls.com\u00a0 within 12 weeks to provide alternative",
+            "username": "francispouliot_",
+            "num_likes": 172,
+            "num_retweets": 67,
+            "num_replies": 8
+        },
+        "898208222716334081": {
+            "id": "898208222716334081",
+            "text": "\"verges\"?? Nah this is straight up malware, trying to trick people into installing software which will result in financial loss.",
+            "username": "tdryja",
+            "num_likes": 154,
+            "num_retweets": 52,
+            "num_replies": 6
+        },
+        "897076983833800704": {
+            "id": "897076983833800704",
+            "text": "Something @jfnewbery and I have been working on. Here's what we would like to offer the community.https://bitcointechtalk.com/bitcoin-tech-talk-mission-60941fd66832\u00a0\u2026",
+            "username": "jimmysong",
+            "num_likes": 293,
+            "num_retweets": 102,
+            "num_replies": 37
+        },
+        "896027931427966976": {
+            "id": "896027931427966976",
+            "text": "Announcing Bitcoin Tech Talk! We're starting off with my friend @jfnewbery's story of contributing to Bitcoin Core:https://bitcointechtalk.com/contributing-to-bitcoin-core-a-personal-account-35f3a594340b\u00a0\u2026",
+            "username": "jimmysong",
+            "num_likes": 97,
+            "num_retweets": 30,
+            "num_replies": 3
+        },
+        "862485638070898688": {
+            "id": "862485638070898688",
+            "text": "Blog post about the alpha release of lit, the lightning network software I'm working on at MIT DCIhttps://medium.com/mit-media-lab-digital-currency-initiative/introducing-lit-lightweight-lightning-network-software-2e1078f26368\u00a0\u2026",
+            "username": "tdryja",
+            "num_likes": 129,
+            "num_retweets": 67,
+            "num_replies": 4
+        },
+        "848923955700391938": {
+            "id": "848923955700391938",
+            "text": "SegWit should be activated, the sooner the better, and I'll support any plan that moves it forward.",
+            "username": "ErikVoorhees",
+            "num_likes": 445,
+            "num_retweets": 167,
+            "num_replies": 38
+        },
+        "824336794653261824": {
+            "id": "824336794653261824",
+            "text": "Chaincode Labs is excited to welcome its three new hires https://github.com/TheBlueMatt\u00a0, https://github.com/ryanofsky\u00a0, and https://github.com/jnewbery\u00a0!",
+            "username": "suhasdaftuar",
+            "num_likes": 59,
+            "num_retweets": 16,
+            "num_replies": 2
+        }
+    },
+    "tweeted": {
+        "1048348507856297984": {
+            "id": "1048348507856297984",
+            "text": "2018: The year Satoshi Nakamoto wins the Nobel Memorial Prize in Economic Sciences? https://twitter.com/jfnewbery/status/916271976104251392\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 181,
+            "num_retweets": 23,
+            "num_replies": 12
+        },
+        "1125823256936755201": {
+            "id": "1125823256936755201",
+            "text": "We're looking at PR 10823 \"Allow all mempool txs to be replaced after a configurable timeout (default 6h)\" for tomorrow's Bitcoin Core PR review club. Join us at #bitcoin-core-pr-reviews on Freenode!",
+            "username": "jfnewbery",
+            "num_likes": 45,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "1123323902309163008": {
+            "id": "1123323902309163008",
+            "text": "urgh, that awkward moment when you post a link to your github and an ENORMOUS PICTURE OF YOUR FACE shows up on twitter :(",
+            "username": "jfnewbery",
+            "num_likes": 132,
+            "num_retweets": 0,
+            "num_replies": 9
+        },
+        "1123322727966871552": {
+            "id": "1123322727966871552",
+            "text": "For the next few weeks I'm going to host a Bitcoin PR review club on Freenode IRC channel #bitcoin-core-pr-reviews. We'll pick a PR to review and discuss every week. All are welcome to come and ask questions.\n\nFull details: https://gist.github.com/jnewbery/6e2797a6f484de59aefc849a6b184008\u00a0\u2026. See you there!",
+            "username": "jfnewbery",
+            "num_likes": 271,
+            "num_retweets": 77,
+            "num_replies": 14
+        },
+        "1123322727115444230": {
+            "id": "1123322727115444230",
+            "text": "There are hundreds of open PRs, it's not obvious which ones are suitable for new contributors, many of them require a lot of context, and contributors and maintainers seem to speak a strange and confusing language.",
+            "username": "jfnewbery",
+            "num_likes": 32,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1123322726435913728": {
+            "id": "1123322726435913728",
+            "text": "We often tell people who want to contribute to Bitcoin Core that reviewing and testing PRs is the best way they can help, but that can be intimidating.",
+            "username": "jfnewbery",
+            "num_likes": 114,
+            "num_retweets": 20,
+            "num_replies": 4
+        },
+        "1120696957104734208": {
+            "id": "1120696957104734208",
+            "text": "Innovation continues apace!https://twitter.com/bitcoinoptech/status/1120696592523304961\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 34,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1119447438853435392": {
+            "id": "1119447438853435392",
+            "text": "So many great algorithmshttps://twitter.com/BracketMemeBot/status/1119145126704496641\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1118876129266405376": {
+            "id": "1118876129266405376",
+            "text": "https://twitter.com/BitcoinMerges/status/1118874356959121408\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 38,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1118467913760083968": {
+            "id": "1118467913760083968",
+            "text": "He's not the Messiah, he's a very naughty boy. Now go away.https://twitter.com/CalvinAyre/status/1118430193562079234\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 122,
+            "num_retweets": 6,
+            "num_replies": 6
+        },
+        "1115618676584189953": {
+            "id": "1115618676584189953",
+            "text": "Confused about bech32 error detection? You don't need to be!https://twitter.com/bitcoinoptech/status/1115618326770802689\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1099782139552456711": {
+            "id": "1099782139552456711",
+            "text": "The Chaincode Labs residency is how I got started with Bitcoin Core development.\n\nIf you want to contribute to Bitcoin or Lightning protocol development, you should apply today!https://twitter.com/ChaincodeLabs/status/1099741844190023680\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 83,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "1097868329665155075": {
+            "id": "1097868329665155075",
+            "text": "Another superb newsletter from @hrdng. There's been a ton of activity on the Bitcoin Core repo this week and Dave's done a fantastic job of condensing it into this summary.https://twitter.com/bitcoinoptech/status/1097867338936922112\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 39,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1095335881425092608": {
+            "id": "1095335881425092608",
+            "text": "Another great newsletter!\n\nFor anyone building wallets or block explorers I'd particularly recommend the RBF usability study by @BitSchmidty here: https://bitcoinops.org/en/rbf-in-the-wild/\u00a0\u2026. It's a really good survey of the current state of RBF in the wild.https://twitter.com/bitcoinoptech/status/1095335416452984836\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 35,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1092796634809929737": {
+            "id": "1092796634809929737",
+            "text": "Great educational content about accumulators and miniscript in this one. Thanks as always to @hrdng for the amazing content!https://twitter.com/bitcoinoptech/status/1092796060223881218\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1092789380442451968": {
+            "id": "1092789380442451968",
+            "text": "Had a great time at the Satoshi roundtable. Always a pleasure to meet fellow Bitcoiners and have frank and open discussions with old and new friends. Thanks @brucefenton and all the other organizers!",
+            "username": "jfnewbery",
+            "num_likes": 45,
+            "num_retweets": 6,
+            "num_replies": 5
+        },
+        "1091017599541014529": {
+            "id": "1091017599541014529",
+            "text": "Come to the @ChaincodeLabs residency and learn from some of the most prolific contributors in Bitcoin and Lightning development (more to be announced soon!)\n\nhttps://medium.com/@ChaincodeLabs/chaincode-residency-summer-2019-1e124cf18eb7\u00a0\u2026\nhttps://residency.chaincode.com/#apply\u00a0pic.twitter.com/yTgG0nfuvb",
+            "username": "jfnewbery",
+            "num_likes": 76,
+            "num_retweets": 31,
+            "num_replies": 0
+        },
+        "1090274420428496896": {
+            "id": "1090274420428496896",
+            "text": "Lots of great StackExchange answers in the newsletter.\n\nThanks to @renepickhardt, @pwuille, @suhasdaftuar, @achow101 and Chytrik for sharing their knowledge on http://bitcoin.stackexchange.com\u00a0.\n\nI'm always grateful for how generous Bitcoin protocol devs are with their time!https://twitter.com/bitcoinoptech/status/1090272832829849603\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 36,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1087725625765445634": {
+            "id": "1087725625765445634",
+            "text": "Lots of activity on the Bitcoin Core, c-lightning, LND and Eclair repos this week. Get your five minute summary here!https://twitter.com/bitcoinoptech/status/1087725063464464389\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 127,
+            "num_retweets": 34,
+            "num_replies": 1
+        },
+        "1082663349308002305": {
+            "id": "1082663349308002305",
+            "text": "First Optech newsletter of 2019. Thanks Dave!https://twitter.com/bitcoinoptech/status/1082663146517680128\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 21,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1078708590620200960": {
+            "id": "1078708590620200960",
+            "text": "The only reason 2018 won't be seen as a golden year of innovation in Bitcoin is that 2019 is going to be even better.https://twitter.com/bitcoinoptech/status/1078707675976724481\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 180,
+            "num_retweets": 40,
+            "num_replies": 2
+        },
+        "1076627746351128576": {
+            "id": "1076627746351128576",
+            "text": "Hi @brian_armstrong! This was a big offer you made last Nov. Can you give the community an update on where you are with your six open source devs?\n\nI know that your previous open source dev left this year, so you should have six new engineers working on open source projects now. https://twitter.com/brian_armstrong/status/934563254101164033\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 499,
+            "num_retweets": 78,
+            "num_replies": 17
+        },
+        "1075862936663531520": {
+            "id": "1075862936663531520",
+            "text": "Great to see a wallet implement RBF batching:\n\n\"If the wallet has an unconfirmed RBF transaction, new payments will be added to that transaction, instead of creating new transactions.\"\n\nThis is a great use-case for RBF and could save frequent spenders a lot in fees.https://twitter.com/ElectrumWallet/status/1075497290633306113\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 64,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1075537119936954368": {
+            "id": "1075537119936954368",
+            "text": "Wordhttps://twitter.com/brian_armstrong/status/1075516497265491968\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 17,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1075420107944443904": {
+            "id": "1075420107944443904",
+            "text": "Assuming people's political, philosophical or dietary inclinations based on their love of Bitcoin is a surprisingly common mistake.",
+            "username": "jfnewbery",
+            "num_likes": 95,
+            "num_retweets": 7,
+            "num_replies": 12
+        },
+        "1075135817524350976": {
+            "id": "1075135817524350976",
+            "text": "WebLN is herehttps://twitter.com/jamesob/status/1075134302088822785\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 41,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1075043481276555265": {
+            "id": "1075043481276555265",
+            "text": "The freshest Bitcoin technical developments, direct to your inbox. Enjoy!https://twitter.com/bitcoinoptech/status/1075043038425165824\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 32,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1074805341525864448": {
+            "id": "1074805341525864448",
+            "text": "With firm and regular step they wend, they never stop,\nSuccessions of devs, engineers, a hundred millions,\nOne contribution playing its part and passing on,\nAnother contribution playing its part and passing on in its turn...https://twitter.com/pwuille/status/1074798481783455744\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 33,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1073249923863326720": {
+            "id": "1073249923863326720",
+            "text": "2p-ECDSA scriptless atomic swaps so Venezuelan pensioners can privately dump their bags for something useful please.\n\n(Petro uses bitcoin SCRIPT)https://twitter.com/coindesk/status/1072990239633932288\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 41,
+            "num_retweets": 7,
+            "num_replies": 7
+        },
+        "1072538102864986112": {
+            "id": "1072538102864986112",
+            "text": "Enjoy!https://twitter.com/bitcoinoptech/status/1072537930600800264\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1071250274495401987": {
+            "id": "1071250274495401987",
+            "text": "Thanks for your contributions @meshcollider!\n\nLots of great stuff coming in the wallet. Looking forward to working on it with you.https://twitter.com/meshcollider/status/1071244022436392960\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 27,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1070843751906598912": {
+            "id": "1070843751906598912",
+            "text": "WebLN is cominghttps://twitter.com/LightningK0ala/status/1070828622196469760\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 82,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1070317696749891584": {
+            "id": "1070317696749891584",
+            "text": "51% attacks: the cryptocurrency world's only hygiene.",
+            "username": "jfnewbery",
+            "num_likes": 84,
+            "num_retweets": 10,
+            "num_replies": 5
+        },
+        "1068954919540011008": {
+            "id": "1068954919540011008",
+            "text": "A node in every home.\nA wallet on every phone.\nJoule in every browser.\n\nhttps://lightningjoule.com/\u00a0pic.twitter.com/mA3HuPttdn",
+            "username": "jfnewbery",
+            "num_likes": 286,
+            "num_retweets": 61,
+            "num_replies": 12
+        },
+        "1064860743001153536": {
+            "id": "1064860743001153536",
+            "text": "Confused by what the  s have been cooking up in Adelaide? You don't need to be! @hrdng is here for you.\n\nI think this may be the best newsletter yet. Thanks as always to Dave for writing and @Snyke , @renepickhardt and @practicalswift for helping with review!https://twitter.com/bitcoinoptech/status/1064859480154914817\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 95,
+            "num_retweets": 26,
+            "num_replies": 5
+        },
+        "1062697025937047558": {
+            "id": "1062697025937047558",
+            "text": "Our chief email list button pusher has been appropriately admonished.https://twitter.com/bitcoinoptech/status/1062696305301041153\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 26,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1062315850429022213": {
+            "id": "1062315850429022213",
+            "text": "Lots of  in today's newsletter. It's been a reckless week.https://twitter.com/bitcoinoptech/status/1062315452385423360\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 37,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1062004220449173505": {
+            "id": "1062004220449173505",
+            "text": "Final videos from @dotajames, @JordanFrankfurt and @renepickhardt are now uploaded. Enjoy!",
+            "username": "jfnewbery",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060927767150243841": {
+            "id": "1060927767150243841",
+            "text": "Videos of our residents' Lightning apps demos are now online: https://www.youtube.com/playlist?list=PLpLH33TRghT2jmuP9YQRo-e8gk969Q2F_\u00a0\u2026\n\nGreat stuff from @afilini @alexmanusu @andreneves @andrewshvv @talionar @matthewramsden @odedleiba @pierre_rochard @timothyej @treydelbonis @wbobeirne",
+            "username": "jfnewbery",
+            "num_likes": 93,
+            "num_retweets": 33,
+            "num_replies": 3
+        },
+        "1060924469441712128": {
+            "id": "1060924469441712128",
+            "text": "Delighted to see Chincode Lightning residency alum @andreneves building tools for the Lightning application developer community:https://medium.com/lightwork/development-tooling-for-invoices-in-lightning-network-applications-cf3d194dc2bb\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 34,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1060598950435135488": {
+            "id": "1060598950435135488",
+            "text": "If, like me, you think that Lightning is going to unleash a wave of innovation in Bitcoin application development and you want to know how you can be involved, you should watch every single one of these videos!",
+            "username": "jfnewbery",
+            "num_likes": 53,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1060598885360566272": {
+            "id": "1060598885360566272",
+            "text": "Three years later, Lightning has matured enough to start building those apps. We were lucky enough to host the world experts in Lightning app development at @ChaincodeLabs earlier this month.",
+            "username": "jfnewbery",
+            "num_likes": 32,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1060598770860244992": {
+            "id": "1060598770860244992",
+            "text": "The idea of micropayments and M2M payments was tantalizing, and it seemed possible that Lightning could be the platform that we build micropayment apps on top of.",
+            "username": "jfnewbery",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1060598717693284352": {
+            "id": "1060598717693284352",
+            "text": "I read the Lightning whitepaper in 2015 and it was a big part of what convinced me that I needed to quit my job and work on Bitcoin.https://twitter.com/ChaincodeLabs/status/1060598609979342848\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 141,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1058767343290142726": {
+            "id": "1058767343290142726",
+            "text": "I think that's great advice and wish you'd have taken it.",
+            "username": "jfnewbery",
+            "num_likes": 41,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1058767287434596353": {
+            "id": "1058767287434596353",
+            "text": "I listened to @samouraiwallet on the Stephan Livera podcast to better understand your perspective. You said \"it's very, very difficult to have any sort of meaningful conversation of important things like this on Twitter. It would have been a lot better to be handled on email.\"",
+            "username": "jfnewbery",
+            "num_likes": 30,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1058767189464023040": {
+            "id": "1058767189464023040",
+            "text": "We've had an open channel of communication for the last two weeks. You've had ample opportunity to let me or Steve know if you had any grievance, and could easily have said \"thanks but no thanks\" to Optech membership.",
+            "username": "jfnewbery",
+            "num_likes": 21,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058767131351887872": {
+            "id": "1058767131351887872",
+            "text": "And @hrdng ? He just gives his time and expertise away for free, as he has been doing for years, because he's a treasure and one of the most important and generous contributors in Bitcoin.",
+            "username": "jfnewbery",
+            "num_likes": 51,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1058767028163657729": {
+            "id": "1058767028163657729",
+            "text": "The suggestion that we're enriching ourselves by extorting companies is fanciful. James and I are employed by Chaincode and spend some of our time working on Optech because we think it's a valuable community project. Steve gets paid far below his market rate as a contractor.",
+            "username": "jfnewbery",
+            "num_likes": 33,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058766934043439104": {
+            "id": "1058766934043439104",
+            "text": "We have very generous hosts in Ledger who are providing the venue and lunch. Optech is providing dinners on both nights. No-one makes any profit from this.",
+            "username": "jfnewbery",
+            "num_likes": 24,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1058766882495438849": {
+            "id": "1058766882495438849",
+            "text": "The flipside is that spending two days learning from your peers about technologies like RBF, coin selection, lightning integration, etc, is worth far more than $1000. At least, the other companies sending engineers seem to think so.",
+            "username": "jfnewbery",
+            "num_likes": 28,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1058766836655972353": {
+            "id": "1058766836655972353",
+            "text": "We're holding a two day workshop in Paris for engineers that you were going to attend. The opportunity cost of having two engineers out of office for two days is *far* greater than $1000. Most of our attendees will pay more than $1000 for air fares and hotels alone.",
+            "username": "jfnewbery",
+            "num_likes": 21,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058766783556055040": {
+            "id": "1058766783556055040",
+            "text": "We got seed money from some very generous funders, and we ask member companies to contribute $5000 to our ongoing costs. For Samourai we offered to drop that to $1000 because you're a small outfit and you probably don't have the cash flow of our larger exchange members.",
+            "username": "jfnewbery",
+            "num_likes": 24,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058766716560437253": {
+            "id": "1058766716560437253",
+            "text": "Optech has always been entirely transparent about our funding model. See https://bitcoinmagazine.com/articles/chaincode-devs-google-alumni-create-industry-group-help-bitcoin-scale/\u00a0\u2026 and https://talesfromthecrypt.libsyn.com/tales-from-the-crypt-36-john-newbery\u00a0\u2026.",
+            "username": "jfnewbery",
+            "num_likes": 25,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1058766637074186241": {
+            "id": "1058766637074186241",
+            "text": "Usually I'd ignore lazy Saturday morning slander from internet trolls, but since you've now accused Optech of criminality and it's not just my name that's associated with Optech, but some of the people I most admire in Bitcoin, I'm going to have to (reluctantly) respond.https://twitter.com/SamouraiWallet/status/1058659055378554880\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 89,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1057272526206877697": {
+            "id": "1057272526206877697",
+            "text": "Not quite our longest newsletter yet, but it's up there.\n\nAs usual, @hrdng cuts through the noise and delivers the signal. Enjoy!https://twitter.com/bitcoinoptech/status/1057271872168120323\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 29,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1055906563926515712": {
+            "id": "1055906563926515712",
+            "text": "And thanks of course to @ChaincodeLabs , @suhasdaftuar and @morcosa for making all of this possible!",
+            "username": "jfnewbery",
+            "num_likes": 34,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1055906507798257665": {
+            "id": "1055906507798257665",
+            "text": "HUGE thanks to @jamesob for putting all of this together! Great job, James!",
+            "username": "jfnewbery",
+            "num_likes": 35,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1055906036232699909": {
+            "id": "1055906036232699909",
+            "text": "Thanks of course to our amazing speakers. @alexbosworth, @chris_stewart_5, @Snyke, @eiaine, @JackMallers, @juscamarena and @LightningK0ala have all been super generous with their time and expertise. Videos of their talks will be online soon.",
+            "username": "jfnewbery",
+            "num_likes": 61,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "1055905897552244736": {
+            "id": "1055905897552244736",
+            "text": "Thanks to all our residents for coming and learning with us over the week. It's been a blast and I'm really proud of what you've all built. We're gonna miss you guys!",
+            "username": "jfnewbery",
+            "num_likes": 31,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1055905822985850881": {
+            "id": "1055905822985850881",
+            "text": "(get it here: https://github.com/cdecker/lnet\u00a0)",
+            "username": "jfnewbery",
+            "num_likes": 25,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1055905219869982720": {
+            "id": "1055905219869982720",
+            "text": "Bonus presentation! @Snyke is showing us his docker compose file for spinning up a lightningd testnet. Get a network of bitcoind and lightningd nodes set up in seconds, so you can concentrate on building your app, not wrestling with your infrastructure.",
+            "username": "jfnewbery",
+            "num_likes": 35,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1055902386374479872": {
+            "id": "1055902386374479872",
+            "text": "Our final ressie is @afilini. He's showing us \u00b5Bolt - seamless micropayments from the browser.\n\n\"Yeah, micropayments are cool (only if you don't have to make them manually)\"\n\nHow do we solve that? With a browser extension!",
+            "username": "jfnewbery",
+            "num_likes": 34,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1055900271602216961": {
+            "id": "1055900271602216961",
+            "text": "Now we have @talionar presenting his and @andrewshvv's work on their @Bitlumio wallet.\n\nIt's a great-looking wallet and they've taken a lot of feedback from users to make it extremely easy to use.",
+            "username": "jfnewbery",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1055896630300459008": {
+            "id": "1055896630300459008",
+            "text": "Next up is @andreneves with lightwork - a job board for microtasks, paid for with LN payments.\n\n\"I want to introduce people to lightning so it needs to be easy - it needs to be something people are familiar with.\"",
+            "username": "jfnewbery",
+            "num_likes": 52,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1055882391959560194": {
+            "id": "1055882391959560194",
+            "text": "Now it's @renepickhardt:\n\n\"Lightning network is accessible mainly for nerds!\"\n\nHe's fixing that by making a custodial Lightning wallet service which is extremely simple, even for non-geeks.",
+            "username": "jfnewbery",
+            "num_likes": 42,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1055867917840146433": {
+            "id": "1055867917840146433",
+            "text": "Now @wbobeirne is showing Lightning Joule. This is amazing! A browser plugin that allows you to pay lightning invoices on the web.\n\n\u201cThis is how interaction with lightning should work. You shouldn\u2019t have to switch contexts. Your browser should speak this language of payments.\u201d",
+            "username": "jfnewbery",
+            "num_likes": 73,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "1055866535313588224": {
+            "id": "1055866535313588224",
+            "text": "Next, @odedleiba is demonstrating a pay-per-piece system for distributing software updates for IoT devices, using lightning payments!",
+            "username": "jfnewbery",
+            "num_likes": 35,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1055862232486240256": {
+            "id": "1055862232486240256",
+            "text": "First up, @matthewramsden is demo'ing his iOS app to integrate with the @SuredBits API.\n\n[paraphrase]: \"I could sign up for a starter package for $thousands per month. For me, that's a non-starter package. With lightning I can pay per API call.\"",
+            "username": "jfnewbery",
+            "num_likes": 36,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1055861366148476929": {
+            "id": "1055861366148476929",
+            "text": "It's showtime at the @ChaincodeLabs Lightning residency! After a week of learning and hacking, our ressies are presenting their projects. Can't wait to see what they've built!",
+            "username": "jfnewbery",
+            "num_likes": 204,
+            "num_retweets": 65,
+            "num_replies": 4
+        },
+        "1054760339080921089": {
+            "id": "1054760339080921089",
+            "text": "Another classic from @hrdng.https://twitter.com/bitcoinoptech/status/1054759827723968512\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1048028449644793857": {
+            "id": "1048028449644793857",
+            "text": "These tweets always make me happy when they show up in my feed. I  new contributors!\n\nThanks for celebrating our newest Bitcoin Core contributors @BitcoinMerges!pic.twitter.com/6qeJHlMIp9",
+            "username": "jfnewbery",
+            "num_likes": 59,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1047476242172149768": {
+            "id": "1047476242172149768",
+            "text": "We are go, repeat go, for v0.17 release.\n\nThanks to everyone who contributed!https://twitter.com/bitcoincoreorg/status/1047453288227131392\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 168,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "1044299429753360384": {
+            "id": "1044299429753360384",
+            "text": "I'm finally making a name for myself in Bitcoin!\n\n(also, way to miss the point entirely @iamjosephyoung and @woonomic)pic.twitter.com/XcZuDLh825",
+            "username": "jfnewbery",
+            "num_likes": 503,
+            "num_retweets": 43,
+            "num_replies": 45
+        },
+        "1044234587872940034": {
+            "id": "1044234587872940034",
+            "text": "If you didn't get in, it's not because you weren't good enough or your project wasn't a good idea. We can only take a tiny fraction of the people who applied.\n\nWe're also fallible and what we think makes a good project doesn't really matter.\n\nKeep buidling your lightning app!",
+            "username": "jfnewbery",
+            "num_likes": 33,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1044232774746607616": {
+            "id": "1044232774746607616",
+            "text": "Thank you to all 142 of you who applied. You should get an email this week if you haven't heard from us yet.\n\nWe can't wait to host 12 awesome residents in October!https://twitter.com/ChaincodeLabs/status/1044232018635231232\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 48,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1044017073985409026": {
+            "id": "1044017073985409026",
+            "text": "Last week I was found short in my knowledge and in my judgement. I'm embarrassed and sorry.",
+            "username": "jfnewbery",
+            "num_likes": 276,
+            "num_retweets": 4,
+            "num_replies": 25
+        },
+        "1044017039264935936": {
+            "id": "1044017039264935936",
+            "text": "Instead of verifying for myself, I trusted that people smarter and wiser than I am had it covered. I took it for granted that someone else had done the work.",
+            "username": "jfnewbery",
+            "num_likes": 174,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1044017002849939458": {
+            "id": "1044017002849939458",
+            "text": "That comment and the fCheckDuplicateInputs flag don't just smell, they stink. I should have followed my nose. At the very least I should have looked up Bitcoin Core PR #9049. I didn't.",
+            "username": "jfnewbery",
+            "num_likes": 90,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1044016950282727425": {
+            "id": "1044016950282727425",
+            "text": "I spend my days reading the Bitcoin Core codebase. There's no chance I haven't read CheckTransaction(). When I read it, the \"...so we skip it in CheckBlock\" comment should have jumped out at me.",
+            "username": "jfnewbery",
+            "num_likes": 97,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1044016889117192194": {
+            "id": "1044016889117192194",
+            "text": "I am responsible for the CVE-2018-17144 bug.https://twitter.com/orionwl/status/1043789573984333825\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 596,
+            "num_retweets": 65,
+            "num_replies": 47
+        },
+        "1042799090847895553": {
+            "id": "1042799090847895553",
+            "text": "Apply today. The application window closes soon!https://twitter.com/ChaincodeLabs/status/1042798848496885762\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1042475032759414784": {
+            "id": "1042475032759414784",
+            "text": "Lightning residency talks are \n\nApplicants are \n\nCan't wait. This is going to be a lot of fun.https://twitter.com/ChaincodeLabs/status/1042474160042201094\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 80,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1042047948295757825": {
+            "id": "1042047948295757825",
+            "text": "New Optech newsletter.https://twitter.com/bitcoinoptech/status/1042047504299241477\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 19,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1040622653080580101": {
+            "id": "1040622653080580101",
+            "text": "Payment channels as described by Satoshi in March 2011.\n\nCome and build on #Satoshistruevision for Bitcoin scaling: https://lightningresidency.com/\u00a0\n\nApply today!pic.twitter.com/V1jI6qis51",
+            "username": "jfnewbery",
+            "num_likes": 282,
+            "num_retweets": 88,
+            "num_replies": 6
+        },
+        "1036994749109035008": {
+            "id": "1036994749109035008",
+            "text": "Another week, another superb @bitcoinoptech newsletter from @hrdng!https://twitter.com/bitcoinoptech/status/1036994348406251520\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 25,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1035180548195577856": {
+            "id": "1035180548195577856",
+            "text": "The last traces of 'accounts' code have been removed from the Bitcoin Core wallet:\n\nhttps://github.com/bitcoin/bitcoin/commit/c9c32e6b844fc79467b7e24c6c916142a0d08484\u00a0\u2026\n\nIt's taken a long time to fully uproot, but it's finally gone. ",
+            "username": "jfnewbery",
+            "num_likes": 150,
+            "num_retweets": 19,
+            "num_replies": 8
+        },
+        "1034066099954954241": {
+            "id": "1034066099954954241",
+            "text": "If developer interest is a leading indicator for how much activity there will be around a technology, then we're on the edge of a golden age of innovation up and down the Bitcoin tech stack.\n\nI can't wait.",
+            "username": "jfnewbery",
+            "num_likes": 116,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "1034066027636768768": {
+            "id": "1034066027636768768",
+            "text": "on (2) - I know of https://programmingwithbitcoin.com/\u00a0, https://lightninghackday.fulmo.org/\u00a0 and https://keio-devplusplus-2018.bitcoinedge.org/\u00a0 coming up. There are several more that I know of that haven't yet been announced.",
+            "username": "jfnewbery",
+            "num_likes": 37,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1034065949673115648": {
+            "id": "1034065949673115648",
+            "text": "on (1) - it took 32 days for us to reach that number of applicants for the last residency. It was a different focus and different length of residency so it's not an exact comparison, but we're receiving applicants at several times the rate of last time round.",
+            "username": "jfnewbery",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1034065882992058368": {
+            "id": "1034065882992058368",
+            "text": "Two highly anecdotal data points:\n\n1. @ChaincodeLabs announced the Lightning apps residency (http://lightningresidency.com/\u00a0) one week ago and already has 64 applicants.\n\n2. Every week, I hear about more bootcamps, classes and hack days focused on Bitcoin and Lightning.",
+            "username": "jfnewbery",
+            "num_likes": 141,
+            "num_retweets": 32,
+            "num_replies": 2
+        },
+        "1032380247662977024": {
+            "id": "1032380247662977024",
+            "text": "(and also keep the caveat that this is an approximation based on author names in git logs)",
+            "username": "jfnewbery",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1032378828151185410": {
+            "id": "1032378828151185410",
+            "text": "You're very welcome to use this, but please attribute the author :)https://twitter.com/TraceMayer/status/1032367927666782209\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 61,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1032261526890139650": {
+            "id": "1032261526890139650",
+            "text": "https://www.criptonoticias.com/eventos/programa-residencia-formacion-desarrolladores-lightning-network/\u00a0\u2026\n\nPresente ahora su solicitud!",
+            "username": "jfnewbery",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1031900024211308546": {
+            "id": "1031900024211308546",
+            "text": "I talked about the upcoming @bitcoincoreorg v0.17 release at @LDNBitcoinDevs last week. See the talk here.\n\nThanks to @michaelfolkson for organising and @ucl for hosting!https://twitter.com/LDNBitcoinDevs/status/1031899158184046593\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 54,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1031898870039556096": {
+            "id": "1031898870039556096",
+            "text": "Another cracking newsletter written by @hrdng for @bitcoinoptech .https://twitter.com/bitcoinoptech/status/1031898511984521216\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1031527788963155968": {
+            "id": "1031527788963155968",
+            "text": "Let's kickstart the lightning application ecosystem!",
+            "username": "jfnewbery",
+            "num_likes": 19,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1031527716980514816": {
+            "id": "1031527716980514816",
+            "text": "Travel and accommodation stipends are available. Residents should be comfortable building user-facing apps, and *don't* need to be bitcoin/ln experts. So apply today! http://lightningresidency.com/#apply\u00a0",
+            "username": "jfnewbery",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1031527534142402560": {
+            "id": "1031527534142402560",
+            "text": "Above all, I can't wait to see the amazing projects our residents build while they're here. They'll present their projects on Friday. Again, that'll be filmed and made publicly available.",
+            "username": "jfnewbery",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1031527418853580801": {
+            "id": "1031527418853580801",
+            "text": "We've got a phenomenal lineup of guest speakers: @Chris_Stewart_5, @Snyke, @eiaine, @jackmaller, @juscamarena and @LightningK0ala. All their talks will be filmed and made available online.",
+            "username": "jfnewbery",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1031527043668869120": {
+            "id": "1031527043668869120",
+            "text": "Micropayments and machine-to-machine payments were the reasons that I got seriously interested in Bitcoin in 2015. Lightning is a platform that makes those things possible.",
+            "username": "jfnewbery",
+            "num_likes": 19,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1031526955349434368": {
+            "id": "1031526955349434368",
+            "text": "I'm really excited about the lightning applications residency we're hosting @ChaincodeLabs in October.\n\nhttp://lightningresidency.com\u00a0https://twitter.com/ChaincodeLabs/status/1031526673831915520\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 163,
+            "num_retweets": 38,
+            "num_replies": 2
+        },
+        "1030436846180814851": {
+            "id": "1030436846180814851",
+            "text": "A year ago today @Bitpay told their customers that they need to \"upgrade\" to untested and unstable node software.\n\nAny customer who listened to that advice would have been forked off the Bitcoin network when btc1 bricked at block 494782.https://twitter.com/jfnewbery/status/898220806379012097\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 476,
+            "num_retweets": 143,
+            "num_replies": 9
+        },
+        "1029487625458081793": {
+            "id": "1029487625458081793",
+            "text": "Thanks @michaelfolkson for all the hard work setting this up!",
+            "username": "jfnewbery",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1029487193310552064": {
+            "id": "1029487193310552064",
+            "text": "I'll be talking about the upcoming Bitcoin Core V0.17 release at @LDNBitcoinDevs on Thursday.https://twitter.com/LDNBitcoinDevs/status/1029483037682270208\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1025822486557073410": {
+            "id": "1025822486557073410",
+            "text": "Absolutely vile.\n\nCobra's fetishization of violence is why I stopped contributing to bitcoin(dot)org. Very glad to see that an alternative now exists at http://btcinformation.org\u00a0.https://twitter.com/CobraBitcoin/status/1025439531569434625\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 133,
+            "num_retweets": 17,
+            "num_replies": 7
+        },
+        "1024287223817089024": {
+            "id": "1024287223817089024",
+            "text": "Another instant classic from @hrdng! I'm biased, but I think this is the best technical roundup of the week's news in the Bitcoin world.\n\nThanks to @ajtowns for his contribution this week!https://twitter.com/bitcoinoptech/status/1024286382523658240\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 59,
+            "num_retweets": 14,
+            "num_replies": 7
+        },
+        "1023281144043909120": {
+            "id": "1023281144043909120",
+            "text": "It's so beautiful! https://twitter.com/orionwl/status/1023248457509871616\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 19,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1021527536818446338": {
+            "id": "1021527536818446338",
+            "text": "Reminder: @SFBitcoinDevs are holding their first Socratic Seminar tonight at DG717 on Market St! Go and learn about all the latest Bitcoin news.https://www.meetup.com/SF-Bitcoin-Devs/events/252710189/\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 26,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1020278108446846976": {
+            "id": "1020278108446846976",
+            "text": "I'm very proud to be a part of this with @jamesob, @moneyball, @hrdng and @MarcinJachymiak. I'm really looking forward to working with Bitcoin companies to get best scaling practices more widely adopted.\n\nSubscribe to our newsletter here: https://bitcoinops.org/en/newsletters/\u00a0https://twitter.com/bitcoinoptech/status/1020277163008786432\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 124,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "1007074911809081344": {
+            "id": "1007074911809081344",
+            "text": "Scale that to a few hundred million user-merchants and you've got your revolution.",
+            "username": "jfnewbery",
+            "num_likes": 47,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1007074833035939840": {
+            "id": "1007074833035939840",
+            "text": "These user-merchants are receiving and sending satoshi without the involvement of banks, governments, middlemen or a blockchain. Just private citizens trading with private citizens.",
+            "username": "jfnewbery",
+            "num_likes": 42,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1007074723736510464": {
+            "id": "1007074723736510464",
+            "text": ".@LightningK0ala will probably never retire on the proceeds from http://satoshis.place\u00a0, but he's already pulled in a few million satoshi. He can now use that to buy t-shirts and stickers (and even cups of coffee if he's in Palo Alto) from other user-merchants.",
+            "username": "jfnewbery",
+            "num_likes": 60,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1006876602171559936": {
+            "id": "1006876602171559936",
+            "text": "I hosted a bitdevs NYC last night and have renewed respect for J.\n\nI felt like I lost consensus with my audience on Bitcoin, stumblemumbled through mimblewimble, and ground to a halt on lightning.\n\nIt's a tough gig and J does a tremendous job every month.",
+            "username": "jfnewbery",
+            "num_likes": 78,
+            "num_retweets": 2,
+            "num_replies": 9
+        },
+        "1006277466963546112": {
+            "id": "1006277466963546112",
+            "text": "I'm hosting The BitDevs NYC Socratic meeting tomorrow evening. Also up are @pierre_rochard on bitcoinACKs and @TheBlueMatt on BetterHash. You won't want to miss it!https://www.meetup.com/BitDevsNYC/events/250916965/\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 56,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1002690496068608000": {
+            "id": "1002690496068608000",
+            "text": "These are riches that no coin can purchase.",
+            "username": "jfnewbery",
+            "num_likes": 53,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1002690466490429441": {
+            "id": "1002690466490429441",
+            "text": "to labour in a science that continually awes and delights and amazes you.",
+            "username": "jfnewbery",
+            "num_likes": 42,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1002690413801553920": {
+            "id": "1002690413801553920",
+            "text": "to surround yourself with people whom you admire and respect, and who inspire you to up your game every day;",
+            "username": "jfnewbery",
+            "num_likes": 48,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1002690352141107201": {
+            "id": "1002690352141107201",
+            "text": "To contribute to a project which you love, which you believe in and which you hope could change everything;",
+            "username": "jfnewbery",
+            "num_likes": 104,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "1002264483106967552": {
+            "id": "1002264483106967552",
+            "text": "Everyone who wants to build apps on lightning should watch this. Alex is blazing a trail for the rest of us.https://twitter.com/alexbosworth/status/1002221073264340992\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 147,
+            "num_retweets": 38,
+            "num_replies": 3
+        },
+        "996897839375515649": {
+            "id": "996897839375515649",
+            "text": "BitDevs NYC: by far the best bitcoin meetup I've ever been to.\n\nInspiring bitcoiners in 2013, still inspiring bitcoiners today.\n\nSo much respect for the organizers.https://twitter.com/aantonop/status/399828232347725824\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 116,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "996034772228075521": {
+            "id": "996034772228075521",
+            "text": "Hi @github! I love your service, but in the last couple of months I've seen this unicorn more times than I can count. It's really impacting our contributors' ability to review and merge PRs for @bitcoincoreorg. Are you working on a fix?pic.twitter.com/EXV6tPVKSn",
+            "username": "jfnewbery",
+            "num_likes": 98,
+            "num_retweets": 14,
+            "num_replies": 6
+        },
+        "995039022866141184": {
+            "id": "995039022866141184",
+            "text": "Bullishhttps://twitter.com/coindesk/status/994911378803757056\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 68,
+            "num_retweets": 7,
+            "num_replies": 4
+        },
+        "988187202277597184": {
+            "id": "988187202277597184",
+            "text": "Any bitcoin people in New Orleans want to hang out this week? My DMs are open!",
+            "username": "jfnewbery",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "986247730585591808": {
+            "id": "986247730585591808",
+            "text": "My man skeeeeees, squashing Bitcoin Core concurrency bugs since 2018.https://twitter.com/BitcoinMerges/status/986243909159411713\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 84,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "985340771250339840": {
+            "id": "985340771250339840",
+            "text": "If users give up that right and responsibility then Bitcoin as an experiment has failed.\n\nAnd if that happens, then Bitcoin hasn't failed us, we've failed Bitcoin.",
+            "username": "jfnewbery",
+            "num_likes": 112,
+            "num_retweets": 16,
+            "num_replies": 7
+        },
+        "985340701008433152": {
+            "id": "985340701008433152",
+            "text": "Users are Bitcoin's immune system. Our inoculation against centralisation is users running the code they choose and rejecting any outside attempts to force changes on them.",
+            "username": "jfnewbery",
+            "num_likes": 107,
+            "num_retweets": 20,
+            "num_replies": 5
+        },
+        "985340643689017345": {
+            "id": "985340643689017345",
+            "text": "Devs who have tested, and fixed bugs, and optimized just fast enough to keep up. And users who have made their own free choice to run that code.",
+            "username": "jfnewbery",
+            "num_likes": 48,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "985340552261578752": {
+            "id": "985340552261578752",
+            "text": "Bitcoin hasn't survived for 9 years because it was perfect to begin with.\n\nBitcoin has survived because people believe in it and want it to survive. Bitcoin has survived because of the sweat and the guts and the grit of its devs and its users.",
+            "username": "jfnewbery",
+            "num_likes": 207,
+            "num_retweets": 37,
+            "num_replies": 8
+        },
+        "985340471319949312": {
+            "id": "985340471319949312",
+            "text": "Bitcoin's antifragility comes from its web of incentives linking miners, companies, developers and users. At the center of that web are the users.",
+            "username": "jfnewbery",
+            "num_likes": 77,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "985340404856950784": {
+            "id": "985340404856950784",
+            "text": "Users who choose to run full nodes. Users who choose which software to run and which rules to follow. Users who know that progress can only be made by building consensus.",
+            "username": "jfnewbery",
+            "num_likes": 64,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "985340306156605440": {
+            "id": "985340306156605440",
+            "text": "This isn't repeated often or loudly enough.\n\nBitcoin is a social experiment, not a piece of software.\n\nBitcoin is sometimes described as 'antifragile'. Its antifragility doesn't come from lines of code. It comes from its users.https://twitter.com/Excellion/status/985333390877409280\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 565,
+            "num_retweets": 193,
+            "num_replies": 22
+        },
+        "984524750633553921": {
+            "id": "984524750633553921",
+            "text": "I'm thrilled to have James join us at @ChaincodeLabs . Welcome James! https://twitter.com/ChaincodeLabs/status/984524445799866369\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 43,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "984147696318599169": {
+            "id": "984147696318599169",
+            "text": "If you liked this PR, you're going to love https://github.com/bitcoin/bitcoin/pull/12953\u00a0\u2026.\n\nReview and test always much appreciated :)https://twitter.com/BitcoinMerges/status/984004148768239618\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 20,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "970794719801430017": {
+            "id": "970794719801430017",
+            "text": ".@BitcoinMerges is on fire today ",
+            "username": "jfnewbery",
+            "num_likes": 101,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "967881197677314050": {
+            "id": "967881197677314050",
+            "text": "Great question!https://twitter.com/pwuille/status/967878361782652928\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "967151367583387648": {
+            "id": "967151367583387648",
+            "text": "Onwards!",
+            "username": "jfnewbery",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "967151317880918021": {
+            "id": "967151317880918021",
+            "text": "And above all, thanks to Alex and Suhas for making this all possible.",
+            "username": "jfnewbery",
+            "num_likes": 16,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "967151244996431872": {
+            "id": "967151244996431872",
+            "text": "Thanks to Matt, Marco and Russ for helping to put it all together.",
+            "username": "jfnewbery",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "967151171340263424": {
+            "id": "967151171340263424",
+            "text": "Thanks to Ethan, Peter, Tadge, Cory and Pieter for some mind-blowing guest talks.",
+            "username": "jfnewbery",
+            "num_likes": 14,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "967151128986161152": {
+            "id": "967151128986161152",
+            "text": "Thanks to Chris, Conor, Dan, Daniel, David, Evan, James, Jesse, Johan, Johnson and Udi for joining us, sharing their experiences, taking part in discussions and making it such an enjoyable 4 weeks.",
+            "username": "jfnewbery",
+            "num_likes": 19,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "967151026712260613": {
+            "id": "967151026712260613",
+            "text": "The 2018 @ChaincodeLabs Residency is a wrap! It's been a fantastic four weeks, with hours of fascinating and inspiring discussions about Bitcoin.",
+            "username": "jfnewbery",
+            "num_likes": 110,
+            "num_retweets": 11,
+            "num_replies": 5
+        },
+        "964184089095008257": {
+            "id": "964184089095008257",
+            "text": "Solid advice from @rusty_twit : be forgiving to humans and uncompromising to code. https://twitter.com/CodeWisdom/status/963783392994177024\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 126,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "958147015984209927": {
+            "id": "958147015984209927",
+            "text": "I'm reminded again how very fortunate I am to work with Alex, Marco, Matt, Russ and Suhas. The fact that Chaincode exists at all and is able to do things like the residency is extraordinary.",
+            "username": "jfnewbery",
+            "num_likes": 48,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "958146975018385408": {
+            "id": "958146975018385408",
+            "text": "That's day one of the 2018 @ChaincodeLabs residency over. Thanks to our awesome residents for coming and sharing their experience and knowledge with us. It was a lot of fun!",
+            "username": "jfnewbery",
+            "num_likes": 70,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "956903464155734016": {
+            "id": "956903464155734016",
+            "text": "with apologies to Kenneth Boulding.\n\n(4/4)",
+            "username": "jfnewbery",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "956903297369112581": {
+            "id": "956903297369112581",
+            "text": "...more people to transact in misery than before. The final result of capacity increases, therefore, is to increase the equilibrium transaction rate, which is to increase the sum total of miserable transactions.\n\n(3/4)",
+            "username": "jfnewbery",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "956903234156810247": {
+            "id": "956903234156810247",
+            "text": "The Utterly Dismal Theorem of onchain scaling:\n\nAny capacity increase can only relieve misery for a while, for as long as misery is the only check on transactions, the improvement will enable the transaction rate to grow, and will soon enable...\n\n(2/4)",
+            "username": "jfnewbery",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "956903156021186560": {
+            "id": "956903156021186560",
+            "text": "The Dismal Theorem of onchain scaling:\n\nIf the only ultimate check on the growth of transactions is misery, then transactions will grow until it is miserable enough to stop their growth.\n\n(1/4)",
+            "username": "jfnewbery",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "956245676882571266": {
+            "id": "956245676882571266",
+            "text": ".@BitcoinMerges you've been busy today!",
+            "username": "jfnewbery",
+            "num_likes": 29,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "956174180554301440": {
+            "id": "956174180554301440",
+            "text": "Follow every single onehttps://twitter.com/orionwl/status/941216245201940481\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 68,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "955166438783901698": {
+            "id": "955166438783901698",
+            "text": "Corollary: if you see a service that hasn't adopted segwit, it may be a signal that they're generally careless with other people's money.https://twitter.com/murchandamus/status/955120968120217600\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 185,
+            "num_retweets": 43,
+            "num_replies": 6
+        },
+        "954371303619923968": {
+            "id": "954371303619923968",
+            "text": "learn; teach; fix; build.\n\nLet this be your credo.",
+            "username": "jfnewbery",
+            "num_likes": 237,
+            "num_retweets": 35,
+            "num_replies": 4
+        },
+        "954371173357379584": {
+            "id": "954371173357379584",
+            "text": "Don't waste your time on those who complain that Bitcoin isn't perfect and don't try to make it better themselves. Don't waste it on those who complain that someone else has spoiled Bitcoin for them.",
+            "username": "jfnewbery",
+            "num_likes": 188,
+            "num_retweets": 31,
+            "num_replies": 4
+        },
+        "954371112028266498": {
+            "id": "954371112028266498",
+            "text": "Therefore: don't waste it on those who snipe from the sidelines without understanding the tech. Don't waste it on those who don't *want* to understand.",
+            "username": "jfnewbery",
+            "num_likes": 185,
+            "num_retweets": 34,
+            "num_replies": 3
+        },
+        "954371054939590656": {
+            "id": "954371054939590656",
+            "text": "Things are moving incredibly fast. There aren't enough hours to keep up with everything that's happening. The only thing more scarce than Bitcoin is your time.",
+            "username": "jfnewbery",
+            "num_likes": 203,
+            "num_retweets": 40,
+            "num_replies": 4
+        },
+        "954370998555594753": {
+            "id": "954370998555594753",
+            "text": "Remember: Bitcoin and lightning are open source protocols.\n\nIf you don't understand them, it's your responsibility to educate yourself;\nif you think they're broken, it's your responsibility to fix them;\nif you don't like them, it's your responsibility to build something better.",
+            "username": "jfnewbery",
+            "num_likes": 1642,
+            "num_retweets": 537,
+            "num_replies": 58
+        },
+        "950029628017606656": {
+            "id": "950029628017606656",
+            "text": "https://github.com/jnewbery/bitcointools\u00a0\u2026 is a testing/debugging tool for parsing and printing the .dat files in your bitcoind data directory. Works with wallet.dat, banlist.dat, fee_estimates.dat, mempool.dat and peers.dat.\n\nPRs welcome!",
+            "username": "jfnewbery",
+            "num_likes": 104,
+            "num_retweets": 16,
+            "num_replies": 4
+        },
+        "950010882809004032": {
+            "id": "950010882809004032",
+            "text": "Thank you followers for inducting me into the K club. I'm much obliged and very humbled. pic.twitter.com/jN8lHDAUiI",
+            "username": "jfnewbery",
+            "num_likes": 67,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "948486834107109376": {
+            "id": "948486834107109376",
+            "text": "On January 3rd 2009, Bitcoin's market dominance amongst decentralized peer-to-peer currencies was 100%.\n\nOn January 3rd 2018, Bitcoin's market dominance amongst decentralized peer-to-peer currencies is 100%.\n\nHappy genesisday Bitcoin ",
+            "username": "jfnewbery",
+            "num_likes": 851,
+            "num_retweets": 220,
+            "num_replies": 37
+        },
+        "948227021682995200": {
+            "id": "948227021682995200",
+            "text": "Total fees for the latest two-week retarget period were 11598.2 BTC. At an average BTC price of ~$15k, that's $174M.\n\nSome see evidence of Bitcoin's failure.\n\nSome see a $4.5B annual bounty for smart, efficient, scalable engineering.",
+            "username": "jfnewbery",
+            "num_likes": 316,
+            "num_retweets": 64,
+            "num_replies": 12
+        },
+        "944720203014864901": {
+            "id": "944720203014864901",
+            "text": "Thanks for having me on the show @pierre_rochard and @bitstein. It was a lot of fun. And thanks for the Jocko clip!https://twitter.com/NodedPodcast/status/944657846007889920\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 51,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "944591518442061824": {
+            "id": "944591518442061824",
+            "text": "Smell test: if someone talks about \"x fees to move y BTC\" and not \"x fees for a z byte transaction\", they're making a political pitch, not a technical argument.https://twitter.com/ErikVoorhees/status/944064084562952192\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 429,
+            "num_retweets": 109,
+            "num_replies": 24
+        },
+        "942826623371530240": {
+            "id": "942826623371530240",
+            "text": "#happyhalfmillion ",
+            "username": "jfnewbery",
+            "num_likes": 128,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "941686208140382210": {
+            "id": "941686208140382210",
+            "text": "Great summaryhttps://twitter.com/alansilbert/status/941513195377831936\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 94,
+            "num_retweets": 16,
+            "num_replies": 6
+        },
+        "938761204306149377": {
+            "id": "938761204306149377",
+            "text": "Update: Congratulations to Andreas for winning a crowd-funded genius grant. I'm looking forward to seeing what he does now that he has the financial stability he deserves.",
+            "username": "jfnewbery",
+            "num_likes": 114,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "938245955643760641": {
+            "id": "938245955643760641",
+            "text": "Perhaps Andreas could have been a millionaire today, but instead he chose to be a guide and teacher for thousands of Bitcoin beginners, myself included.\n\nI\u2019m happy to chip in $5 a month so he can reach thousands more.https://twitter.com/rogerkver/status/938137951518773248\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 894,
+            "num_retweets": 148,
+            "num_replies": 46
+        },
+        "936963999404609536": {
+            "id": "936963999404609536",
+            "text": "But what if someone sends Apple Pay Cash to your Apple Pay address? https://twitter.com/MacRumors/status/936871048326160385\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 66,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "936234202474926080": {
+            "id": "936234202474926080",
+            "text": "Now vee may perhaps to begin. Yes?https://twitter.com/stoolpresidente/status/936032829154004993\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 20,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "934201341056036866": {
+            "id": "934201341056036866",
+            "text": "Excellent exposition and analysis of the 2x bugs. Great work from @pierre_rochard and @bitstein (and @jimmysong for the source material).https://twitter.com/pierre_rochard/status/934185750622588928\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 54,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "932250279675879429": {
+            "id": "932250279675879429",
+            "text": "Really @jgarzik? That's what you learned? How about these lessons:\n\n1. Changes to Bitcoin require consensus from the users and can't be dictated by a closed group.\n2. No-one should run untested and unreviewed code from a one-man development team.pic.twitter.com/bkhE1SoaEP",
+            "username": "jfnewbery",
+            "num_likes": 559,
+            "num_retweets": 164,
+            "num_replies": 17
+        },
+        "931728074705686528": {
+            "id": "931728074705686528",
+            "text": "This is so important. Bitcoin Core is a process. We're lucky to have brilliant people involved in the process, but those people are all eventually replaceable. The important thing is the culture of openness and fierce technical review and test.https://twitter.com/suhasdaftuar/status/931706750226583552\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 470,
+            "num_retweets": 152,
+            "num_replies": 11
+        },
+        "931662936539631619": {
+            "id": "931662936539631619",
+            "text": "Can someone with better knowledge of C++ clarify this for me? Jeff claimed on btc1 slack that this would default to false, but I'm not sure that's actually the case.",
+            "username": "jfnewbery",
+            "num_likes": 15,
+            "num_retweets": 1,
+            "num_replies": 7
+        },
+        "931554041343217664": {
+            "id": "931554041343217664",
+            "text": "In case it's not clear: no-one should run btc1 code. It is untested, unreviewed, buggy and can only serve to disrupt and confuse the Bitcoin network.",
+            "username": "jfnewbery",
+            "num_likes": 206,
+            "num_retweets": 53,
+            "num_replies": 4
+        },
+        "931554003183431680": {
+            "id": "931554003183431680",
+            "text": "There are more bugs in the btc1 code. I can't in good conscience reveal what those are, since I have no intention of helping create a disruptive hard fork.",
+            "username": "jfnewbery",
+            "num_likes": 239,
+            "num_retweets": 62,
+            "num_replies": 8
+        },
+        "931553950930743297": {
+            "id": "931553950930743297",
+            "text": "Trying to create a SegWit2x fork at this point, when it's clear that it doesn't have consensus, is simply sowing discord and confusion.",
+            "username": "jfnewbery",
+            "num_likes": 107,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "931553920501125122": {
+            "id": "931553920501125122",
+            "text": "In case it's not clear: SegWit2x only makes sense if it has consensus and can bring the network with it. That's what we were told again and again: 2x is an upgrade and will become the one true chain.",
+            "username": "jfnewbery",
+            "num_likes": 75,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "931553851228016640": {
+            "id": "931553851228016640",
+            "text": "When I pointed this out to Jeff, he immediately created a patch and pushed it out.",
+            "username": "jfnewbery",
+            "num_likes": 76,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "931553804109172736": {
+            "id": "931553804109172736",
+            "text": "This is a simple bug.\n\nAny reasonably competent coder would have spotted this (not least because a compiler or static analysis could have warned that a member was being accessed before initialization). Any reasonable review process would have caught this.\n\nSadly btc1 had neither.",
+            "username": "jfnewbery",
+            "num_likes": 151,
+            "num_retweets": 31,
+            "num_replies": 4
+        },
+        "931553723532406784": {
+            "id": "931553723532406784",
+            "text": "I then took a look at the miner activation code. There's another bug there. In the BlockAssembler constructor code, fWitnessSeasoned is being accessed before initialization. The result: no large block can be mined to trigger the fork.",
+            "username": "jfnewbery",
+            "num_likes": 261,
+            "num_retweets": 72,
+            "num_replies": 8
+        },
+        "931553682293972992": {
+            "id": "931553682293972992",
+            "text": "Looking at the code, it appears that Jeff made an off-by-one error. That's not entirely surprising. The VersionBitsState() code is confusing, and the commit where Jeff added the hard fork code had no review: https://github.com/btc1/bitcoin/pull/50\u00a0\u2026.",
+            "username": "jfnewbery",
+            "num_likes": 117,
+            "num_retweets": 19,
+            "num_replies": 5
+        },
+        "931553622462255104": {
+            "id": "931553622462255104",
+            "text": "Block 494,784 was announced an discussed as the forking block many times over the last few months. Here https://twitter.com/jgarzik/status/888270313502330880\u00a0\u2026 and here https://segwit2x.github.io/segwit2x-announce.html\u00a0\u2026 and here https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-October/000520.html\u00a0\u2026 for example.",
+            "username": "jfnewbery",
+            "num_likes": 63,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "931553577826480128": {
+            "id": "931553577826480128",
+            "text": "Segwit2x was announced abandoned last week, but there are still some residual nodes in the network. This morning, those nodes froze at block 494,782. That's two blocks before the intended hard fork at 494,784.",
+            "username": "jfnewbery",
+            "num_likes": 208,
+            "num_retweets": 57,
+            "num_replies": 11
+        },
+        "931553531471032320": {
+            "id": "931553531471032320",
+            "text": "I try to assume good intentions in people. Unfortunately, I can no longer do so for @jgarzik. My judgement is that he is acting to disrupt the bitcoin network to advance his own interests.",
+            "username": "jfnewbery",
+            "num_likes": 541,
+            "num_retweets": 172,
+            "num_replies": 22
+        },
+        "931375233822584832": {
+            "id": "931375233822584832",
+            "text": "Tony, the median feerate for the previous 3 blocks (494722-494724) was 22 sat/vbyte, giving a fee of under 5,000 satoshis for a standard transaction. Your fee is 20x too high.\n\nAre BitPay customers really wasting tens of thousands of dollars on unnecessary fees every day?https://twitter.com/TonyGallippi/status/931370995176345601\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 346,
+            "num_retweets": 118,
+            "num_replies": 16
+        },
+        "929713010477760512": {
+            "id": "929713010477760512",
+            "text": "Average fees on Bitcoin Cash are currently $44.30!\n\nhttps://blockchair.com/bitcoin-cash/block/503738\u00a0\u2026\n@ErikVoorhees @mikebelshe",
+            "username": "jfnewbery",
+            "num_likes": 698,
+            "num_retweets": 315,
+            "num_replies": 48
+        },
+        "929063608566407168": {
+            "id": "929063608566407168",
+            "text": "The pumpeningpic.twitter.com/VB6WbZn5y3",
+            "username": "jfnewbery",
+            "num_likes": 48,
+            "num_retweets": 8,
+            "num_replies": 6
+        },
+        "928725658557124608": {
+            "id": "928725658557124608",
+            "text": "Three (at least) proposals for MAST (thanks @johnsonlau01, @MarkFriedenbach and Russell O'Connor)",
+            "username": "jfnewbery",
+            "num_likes": 48,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "928724687919730689": {
+            "id": "928724687919730689",
+            "text": "Eclair: another really cool looking lightning client:https://twitter.com/acinq_co/status/888075985853325312\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 48,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "928724506071502849": {
+            "id": "928724506071502849",
+            "text": "First up: Neutrino - light clients done right: https://github.com/lightninglabs/neutrino\u00a0\u2026 (thanks to @roasbeef and @stile65)",
+            "username": "jfnewbery",
+            "num_likes": 50,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "928724263976292352": {
+            "id": "928724263976292352",
+            "text": "Addendum: This list wasn't meant to be exhaustive, but turns out that I forget a bunch of stuff which is just far too cool to exclude.",
+            "username": "jfnewbery",
+            "num_likes": 23,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "928643436042964992": {
+            "id": "928643436042964992",
+            "text": "Now imagine what we could have achieved together if we weren't also having to write code to protect user funds from a dangerous 2x fork.\n\n#yes2safeforks",
+            "username": "jfnewbery",
+            "num_likes": 162,
+            "num_retweets": 24,
+            "num_replies": 9
+        },
+        "928643375707934720": {
+            "id": "928643375707934720",
+            "text": "And in with a bullet, we now have aggregatable range proofs in O(log(n)) size for compact confidential transactions. Bang bang: http://web.stanford.edu/~buenz/pubs/bulletproofs.pdf\u00a0\u2026. (thanks to Benedikt B\u00fcnz)",
+            "username": "jfnewbery",
+            "num_likes": 100,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "928643315125407744": {
+            "id": "928643315125407744",
+            "text": "... and work continues on four independent lightning implementations:\nhttps://github.com/lightninglabs/lightning-app\u00a0\u2026\nhttps://github.com/ElementsProject/lightning\u00a0\u2026\nhttps://github.com/ACINQ/eclair\u00a0\nhttps://github.com/mit-dci/lit\u00a0\n(thanks to @starkness, @rusty_twit, @acinq_co and @tdryja)",
+            "username": "jfnewbery",
+            "num_likes": 125,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "928643265666134017": {
+            "id": "928643265666134017",
+            "text": "There are three (count 'em) lightning UIs: http://blog.lightning.engineering/announcement/2017/10/12/test-blitz.html\u00a0\u2026\nhttp://zap.jackmallers.com/\u00a0\nhttps://github.com/alexbosworth/lnd-gui\u00a0\u2026\n(thanks to @roasbeef, @jackmallers and @alexbosworth)",
+            "username": "jfnewbery",
+            "num_likes": 116,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "928643226868813829": {
+            "id": "928643226868813829",
+            "text": "(shameless plug ) I've announced an initiative to help broaden and strengthen the Bitcoin developer community: http://hackerresidency.com\u00a0",
+            "username": "jfnewbery",
+            "num_likes": 125,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "928643183902384128": {
+            "id": "928643183902384128",
+            "text": "A major Bitcoin service company has rolled out SegWit for over half its customers , cutting fees in half: https://blog.bitgo.com/bitgo-segwit-launch-4732163d2c7f\u00a0\u2026\n(thanks to @lopp and @murchandamus)",
+            "username": "jfnewbery",
+            "num_likes": 112,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "928643124456493063": {
+            "id": "928643124456493063",
+            "text": "The fiber network continues to be made more robust, reducing miner centralization pressure: http://bitcoinfibre.org/\u00a0\n(thanks to @theBlueMatt)",
+            "username": "jfnewbery",
+            "num_likes": 106,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "928643093380915200": {
+            "id": "928643093380915200",
+            "text": "Bitcoin has taken one small step (or is that a giant leap?) closer to the moon: https://blockstream.com/satellite/\u00a0\n(thanks to @adam3us and the Blockstream satellite team)",
+            "username": "jfnewbery",
+            "num_likes": 111,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "928643057943302144": {
+            "id": "928643057943302144",
+            "text": "BIP159 is in the works so pruned nodes can serve recent blocks to their peers: https://github.com/bitcoin/bitcoin/pull/10387\u00a0\u2026\n(thanks to @_jonasschnelli_)",
+            "username": "jfnewbery",
+            "num_likes": 116,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "928643015471714305": {
+            "id": "928643015471714305",
+            "text": "Work continues apace on signature aggregation and batch validation\n(thanks to @pwuille and gmaxwell)",
+            "username": "jfnewbery",
+            "num_likes": 123,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "928642976292769798": {
+            "id": "928642976292769798",
+            "text": "We've released the most robust and performant Bitcoin client yet: https://bitcoincore.org/en/releases/0.15.0.1/\u00a0\u2026\n(thanks to @orionwl and all contributors!)",
+            "username": "jfnewbery",
+            "num_likes": 148,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "928642936555876354": {
+            "id": "928642936555876354",
+            "text": "Phew. I'm glad that madness is behind us. If you've been distracted in the last 6 months, you may have missed the real work happening.",
+            "username": "jfnewbery",
+            "num_likes": 464,
+            "num_retweets": 150,
+            "num_replies": 10
+        },
+        "922953740616916992": {
+            "id": "922953740616916992",
+            "text": "@safelloab @sfoxtrading @ShapeShift_io @surbtc @unocoin @vaultoro @GoVeem @viabtc @Wayniloans @xapo @yoursnetwork",
+            "username": "jfnewbery",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "922953693988839424": {
+            "id": "922953693988839424",
+            "text": "@genesistrading @GenesisMining @GoCoin @grayscaleinvest @jaxx_io @korbitbtc @lunomoney @moni_ltd @netkicorp @ob1company @purseIO @ripioapp",
+            "username": "jfnewbery",
+            "num_likes": 30,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "922953616419360768": {
+            "id": "922953616419360768",
+            "text": "@bitwala @Bixincom @blockchain @YourBTCC @btercom @circlepay @civickey @coinbase @coinsph @cryptofltd @decentralca @DCGco @filamenthq",
+            "username": "jfnewbery",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "922953557862645760": {
+            "id": "922953557862645760",
+            "text": "CC @AbraGlobal @anx_intl @ANX_PRO @bitclubnetwork @BTCTN @bitexla @bitFlyer @BitFuryGroup @BitGo @bitpay @bitpesa @bitoasis @bitso",
+            "username": "jfnewbery",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "922953406469287936": {
+            "id": "922953406469287936",
+            "text": "If you care about the ecosystem your company is built on, if you care about your customers' funds, abandon the 2x trainwreck today.",
+            "username": "jfnewbery",
+            "num_likes": 71,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "922953296712790017": {
+            "id": "922953296712790017",
+            "text": "Why create a problem when your company is selling a solution at $500 a coin?pic.twitter.com/GStNGDLBEi",
+            "username": "jfnewbery",
+            "num_likes": 64,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "922953184586452992": {
+            "id": "922953184586452992",
+            "text": "Why does Jeff spend so much time complaining about 'toxicity' and a 'culture of recriminations'?pic.twitter.com/8fO2fKG0s2",
+            "username": "jfnewbery",
+            "num_likes": 46,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "922953055519330310": {
+            "id": "922953055519330310",
+            "text": "Why is service bits discovery disabled so that network disruption on fork day is maximized?https://github.com/btc1/bitcoin/commit/28ebbdb1f4ab632a1500b2c412a157839608fed0\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 54,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "922953010334101504": {
+            "id": "922953010334101504",
+            "text": "Why is there no replay protection? Why put users, exchanges and markets at risk needlessly during the fork?https://github.com/btc1/bitcoin/commit/98c0af58c29efbecba25818adb5531fa8c3d0506\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 64,
+            "num_retweets": 9,
+            "num_replies": 6
+        },
+        "922952966461587457": {
+            "id": "922952966461587457",
+            "text": "NYA signers, it's time you started asking questions.",
+            "username": "jfnewbery",
+            "num_likes": 278,
+            "num_retweets": 69,
+            "num_replies": 8
+        },
+        "920643438026149889": {
+            "id": "920643438026149889",
+            "text": "*disclosure obviously.",
+            "username": "jfnewbery",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "920292445820243968": {
+            "id": "920292445820243968",
+            "text": "Here's why I think you should apply for the @ChaincodeLabs Bitcoin Residency:https://medium.com/@jfnewbery/building-a-stronger-bitcoin-developer-community-70f726307b74\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 43,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "918489040676098048": {
+            "id": "918489040676098048",
+            "text": "This is the best explanation of MAST I've read anywhere: https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f\u00a0\u2026\n\n(disclaimer: I also write at bitcointechtalk)",
+            "username": "jfnewbery",
+            "num_likes": 142,
+            "num_retweets": 54,
+            "num_replies": 6
+        },
+        "917400575964274689": {
+            "id": "917400575964274689",
+            "text": "Too bad @NobelPrize. There's always next year.",
+            "username": "jfnewbery",
+            "num_likes": 18,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "916271976104251392": {
+            "id": "916271976104251392",
+            "text": "2017: The year Satoshi Nakamoto wins the Nobel Memorial Prize in Economic Sciences? ",
+            "username": "jfnewbery",
+            "num_likes": 253,
+            "num_retweets": 40,
+            "num_replies": 21
+        },
+        "912854874051743745": {
+            "id": "912854874051743745",
+            "text": "That\u2019s just those who took the time to respond to this absurd suggestion on reddit. I can name many others who share the same view.",
+            "username": "jfnewbery",
+            "num_likes": 62,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "912854782901186560": {
+            "id": "912854782901186560",
+            "text": "and me (https://github.com/bitcoin/bitcoin/commits?author=jnewbery\u00a0\u2026):pic.twitter.com/gROVsgNVQM",
+            "username": "jfnewbery",
+            "num_likes": 107,
+            "num_retweets": 34,
+            "num_replies": 3
+        },
+        "912854650503745536": {
+            "id": "912854650503745536",
+            "text": "Andrew Poesltra (https://github.com/bitcoin-core/secp256k1/commits?author=apoelstra\u00a0\u2026):pic.twitter.com/yEmh7EUGZu",
+            "username": "jfnewbery",
+            "num_likes": 57,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "912854535500128262": {
+            "id": "912854535500128262",
+            "text": "MeshCollider (https://github.com/bitcoin/bitcoin/commits?author=meshcollider\u00a0\u2026):pic.twitter.com/pQmwVZmULQ",
+            "username": "jfnewbery",
+            "num_likes": 62,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "912854451932811265": {
+            "id": "912854451932811265",
+            "text": "Matt Corallo (https://github.com/bitcoin/bitcoin/commits?author=thebluematt\u00a0\u2026):pic.twitter.com/MeBegorMoF",
+            "username": "jfnewbery",
+            "num_likes": 65,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "912854368805847041": {
+            "id": "912854368805847041",
+            "text": "Esotericnonsense (https://github.com/bitcoin/bitcoin/commits?author=esotericnonsense\u00a0\u2026):pic.twitter.com/QCgnp48BqH",
+            "username": "jfnewbery",
+            "num_likes": 51,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "912854246848114688": {
+            "id": "912854246848114688",
+            "text": "Midnightmagic (https://github.com/bitcoin/bitcoin/commits?author=midnightmagic\u00a0\u2026):pic.twitter.com/fR15aeefU2",
+            "username": "jfnewbery",
+            "num_likes": 70,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "912854147719991296": {
+            "id": "912854147719991296",
+            "text": "Greg Maxwell (https://github.com/bitcoin/bitcoin/commits?author=gmaxwell\u00a0\u2026):pic.twitter.com/4tHFwC1D2D",
+            "username": "jfnewbery",
+            "num_likes": 80,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "912854012625551360": {
+            "id": "912854012625551360",
+            "text": "Nicolas Dorier (https://github.com/bitcoin/bitcoin/commits?author=NicolasDorier\u00a0\u2026):pic.twitter.com/kNSRIIV5uK",
+            "username": "jfnewbery",
+            "num_likes": 64,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "912853897504608256": {
+            "id": "912853897504608256",
+            "text": "Some 2x folk believe that come November, Bitcoin Core contributors will start working on a project they don\u2019t believe in. It ain\u2019t so.",
+            "username": "jfnewbery",
+            "num_likes": 402,
+            "num_retweets": 118,
+            "num_replies": 22
+        },
+        "909753951687454721": {
+            "id": "909753951687454721",
+            "text": "That's all, folks! Hope you enjoyed these. See you in a few months for v0.16",
+            "username": "jfnewbery",
+            "num_likes": 63,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "909753742194565120": {
+            "id": "909753742194565120",
+            "text": "What\u2019s new in Bitcoin Core v0.15 \u2014 part 5: script cachinghttps://bitcointechtalk.com/whats-new-in-bitcoin-core-v0-15-part-5-6a9cfa85821f\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 101,
+            "num_retweets": 48,
+            "num_replies": 2
+        },
+        "909409827239202816": {
+            "id": "909409827239202816",
+            "text": "What\u2019s new in Bitcoin Core v0.15 \u2014 part 4: multi-wallethttps://bitcointechtalk.com/whats-new-in-bitcoin-core-v0-15-part-4-7c01c553783e\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 111,
+            "num_retweets": 50,
+            "num_replies": 0
+        },
+        "909047114063388673": {
+            "id": "909047114063388673",
+            "text": "What\u2019s new in Bitcoin Core v0.15 \u2014 part 3: replace-by-fee in the GUIhttps://bitcointechtalk.com/whats-new-in-bitcoin-core-v0-15-part-3-50c42125625e\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 88,
+            "num_retweets": 41,
+            "num_replies": 1
+        },
+        "908662590242459648": {
+            "id": "908662590242459648",
+            "text": "What\u2019s new in Bitcoin Core v0.15 \u2014 part 2: significantly improved fee estimationhttps://bitcointechtalk.com/whats-new-in-bitcoin-core-v0-15-part-2-41b6d0493136\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 58,
+            "num_retweets": 34,
+            "num_replies": 0
+        },
+        "908394378238013440": {
+            "id": "908394378238013440",
+            "text": "Today, per-output chainstate db:https://bitcointechtalk.com/whats-new-in-bitcoin-core-v0-15-part-1-21085f4467fc\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 28,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "908394296545607685": {
+            "id": "908394296545607685",
+            "text": "Bitcoin Core v0.15.0 is out today \n\nOver the next few days I'll highlight some of the best new features.",
+            "username": "jfnewbery",
+            "num_likes": 66,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "907593915003543552": {
+            "id": "907593915003543552",
+            "text": "Thanks to @morcosa @jimmysong and @hrdng for feedback.",
+            "username": "jfnewbery",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "907593872385208320": {
+            "id": "907593872385208320",
+            "text": "This explains the algorithm in v0.14. There are improvements in v0.15 that I'll write about next week.",
+            "username": "jfnewbery",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "907593476333764614": {
+            "id": "907593476333764614",
+            "text": "Ever wonder how Bitcoin Core estimates how much fee your transaction needs? Now you know!https://twitter.com/bitcointechtalk/status/907591335707795456\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 27,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "904006775397113859": {
+            "id": "904006775397113859",
+            "text": "I came for the micropayments and stayed for the revolution.https://twitter.com/keonne/status/903778596183040001\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 145,
+            "num_retweets": 27,
+            "num_replies": 6
+        },
+        "903038430321500161": {
+            "id": "903038430321500161",
+            "text": "Great article by @hrdng on practical scaling techniques. If everyone did this we'd have an immediate virtual 9% block size increase!https://twitter.com/bitcointechtalk/status/903031474324164610\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 23,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "900543388499537920": {
+            "id": "900543388499537920",
+            "text": "Block following block,\nwe build on our parents' work:\nan unbroken chain.\n\n#happysegwitday",
+            "username": "jfnewbery",
+            "num_likes": 71,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "900076265440509952": {
+            "id": "900076265440509952",
+            "text": "This isn't idle trolling. Length means nothing. Only total work counts.",
+            "username": "jfnewbery",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "900071083210153984": {
+            "id": "900071083210153984",
+            "text": "... but just like theirs, mine is super low difficulty so has much less total work than the main $BTC chain.",
+            "username": "jfnewbery",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "900070774802919424": {
+            "id": "900070774802919424",
+            "text": "Unlike $BCH, my chain is consensus compliant.",
+            "username": "jfnewbery",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "900070561916833793": {
+            "id": "900070561916833793",
+            "text": "This isn't true. I've personally mined a chain of half a million blocks on the bitcoin main chain.https://twitter.com/BITCOlNCASH/status/900008932139188225\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 47,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "896027438488195074": {
+            "id": "896027438488195074",
+            "text": "I started contributing to Bitcoin Core a few months ago. Here are some of my experiences:https://bitcointechtalk.com/contributing-to-bitcoin-core-a-personal-account-35f3a594340b\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 220,
+            "num_retweets": 90,
+            "num_replies": 9
+        },
+        "893245589110091776": {
+            "id": "893245589110091776",
+            "text": "I got this wrong. I'm deleting the original tweets to avoid misleading anyone. Apologies to any orphan replies!pic.twitter.com/fyHIIoNNVj",
+            "username": "jfnewbery",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "892720462203105281": {
+            "id": "892720462203105281",
+            "text": ".@BITCOlNCASH it's been 9 hours since the last BCC block and 12 blocks since fork. Is there a problem with difficult readjustment?",
+            "username": "jfnewbery",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 10
+        },
+        "888509191458922496": {
+            "id": "888509191458922496",
+            "text": "... and far more people than I've mentioned have contributed. If you're interested in the technical details, seehttps://medium.com/@jfnewbery/what-did-bitcoin-core-contributors-ever-do-for-us-39fc2fedb5ef\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 202,
+            "num_retweets": 59,
+            "num_replies": 7
+        },
+        "888508991550103552": {
+            "id": "888508991550103552",
+            "text": "Twitter is too terse. These developers have contributed far more than what I've summarized above...",
+            "username": "jfnewbery",
+            "num_likes": 127,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "888507659904626688": {
+            "id": "888507659904626688",
+            "text": "If the answer is 'no', I don't understand what you mean by firing core.",
+            "username": "jfnewbery",
+            "num_likes": 118,
+            "num_retweets": 8,
+            "num_replies": 4
+        },
+        "888507574273818624": {
+            "id": "888507574273818624",
+            "text": "... and find someone who's prepared to do Wladimir's thankless and never-ending task of merging and preparing releases?",
+            "username": "jfnewbery",
+            "num_likes": 113,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "888507476173357064": {
+            "id": "888507476173357064",
+            "text": "... delete Jonas's and Nicolas's hardware wallet integration work, so your private keys will always be in your hot wallet...",
+            "username": "jfnewbery",
+            "num_likes": 116,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "888507364265119747": {
+            "id": "888507364265119747",
+            "text": "... back out Matt's multithreading and scheduling refactors, so your node is mostly limited to running a single process ...",
+            "username": "jfnewbery",
+            "num_likes": 115,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "888507260196069380": {
+            "id": "888507260196069380",
+            "text": "... erase Alex's fee estimation improvements so you pay too much for your transactions...",
+            "username": "jfnewbery",
+            "num_likes": 113,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "888507180793581568": {
+            "id": "888507180793581568",
+            "text": "... get rid of Russ's process separation groundwork, so your signing code will be in the same memory space as your network code ...",
+            "username": "jfnewbery",
+            "num_likes": 115,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "888507085071282176": {
+            "id": "888507085071282176",
+            "text": "... throw out Greg's signature aggregation research so your blocks will contain fewer transactions and take 2-4x longer to validate ...",
+            "username": "jfnewbery",
+            "num_likes": 122,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "888506982570876928": {
+            "id": "888506982570876928",
+            "text": "... undo Cory's net refactor so your transactions and blocks take longer to propagate across the network ...",
+            "username": "jfnewbery",
+            "num_likes": 119,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "888506895941615616": {
+            "id": "888506895941615616",
+            "text": "... revert Luke's multiwallet so you can only access a single wallet on your node ...",
+            "username": "jfnewbery",
+            "num_likes": 119,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "888506811845922816": {
+            "id": "888506811845922816",
+            "text": "... remove Suhas's pruning code, so you need to store tens of GBs of dead data if you want to run a full node ...",
+            "username": "jfnewbery",
+            "num_likes": 124,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "888506710649950208": {
+            "id": "888506710649950208",
+            "text": "... switch back from Pieter's libsecp256k1 to OpenSSL, so your transaction signing/validation is 5x slower and less secure ...",
+            "username": "jfnewbery",
+            "num_likes": 135,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "888506387030003712": {
+            "id": "888506387030003712",
+            "text": "When you fire core, I presume you're also going to ...",
+            "username": "jfnewbery",
+            "num_likes": 345,
+            "num_retweets": 147,
+            "num_replies": 9
+        },
+        "883251213646614529": {
+            "id": "883251213646614529",
+            "text": "Apologies to Claus Schnorr for the misspelling!",
+            "username": "jfnewbery",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "883002399811653634": {
+            "id": "883002399811653634",
+            "text": "That's why I'm optimistic about bitcoin scaling, and that's why I feel incredibly privileged to contribute in my own small way 9/9",
+            "username": "jfnewbery",
+            "num_likes": 333,
+            "num_retweets": 52,
+            "num_replies": 5
+        },
+        "883002234405101570": {
+            "id": "883002234405101570",
+            "text": "The most intelligent people I've ever met. 8/",
+            "username": "jfnewbery",
+            "num_likes": 177,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "883002141073432576": {
+            "id": "883002141073432576",
+            "text": "The only thing that matters in the long run is that there be incredibly smart people working on this, and there are. 7/",
+            "username": "jfnewbery",
+            "num_likes": 227,
+            "num_retweets": 37,
+            "num_replies": 3
+        },
+        "883002011905667072": {
+            "id": "883002011905667072",
+            "text": "Yes, I want shiny toys like SegWit, Schnoor and sig-agg. But when those things get activated, there'll be the next thing, and the next 6/",
+            "username": "jfnewbery",
+            "num_likes": 176,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "883001877591465984": {
+            "id": "883001877591465984",
+            "text": "No fanfare, no drama, just brilliant people diligently, methodically, conscientiously writing, reviewing and testing quality code 5/",
+            "username": "jfnewbery",
+            "num_likes": 287,
+            "num_retweets": 51,
+            "num_replies": 1
+        },
+        "883001740819353601": {
+            "id": "883001740819353601",
+            "text": "Less than a month before that, sipa's per-txo db PR #10195 went in. 25% faster reindex with lower memory use? Yes please! 4/",
+            "username": "jfnewbery",
+            "num_likes": 203,
+            "num_retweets": 36,
+            "num_replies": 1
+        },
+        "883001631125721088": {
+            "id": "883001631125721088",
+            "text": "Last week, @TheBlueMatt's script caching PR #10192 was merged. BOOM. Block validation is now 30-50% faster. 3/",
+            "username": "jfnewbery",
+            "num_likes": 271,
+            "num_retweets": 54,
+            "num_replies": 5
+        },
+        "883001537152286722": {
+            "id": "883001537152286722",
+            "text": "Every day we learn a little more about how decentralised consensus systems work in the wild. Every day we make bitcoin a little better 2/",
+            "username": "jfnewbery",
+            "num_likes": 221,
+            "num_retweets": 53,
+            "num_replies": 2
+        },
+        "883001356168167425": {
+            "id": "883001356168167425",
+            "text": "Ignore the drama of big-blocks-small-blocks-extension-blocks-2x for a minute. Here's the real story of bitcoin scaling 1/",
+            "username": "jfnewbery",
+            "num_likes": 728,
+            "num_retweets": 380,
+            "num_replies": 21
+        },
+        "877254039381168129": {
+            "id": "877254039381168129",
+            "text": "This ends badlyhttps://motherboard.vice.com/en_us/article/college-kids-are-investing-all-their-money-in-ethereum\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "870268686799691776": {
+            "id": "870268686799691776",
+            "text": "Hello friends. You seem to be lost. Reddit is that way pic.twitter.com/FJV9kuEvo6",
+            "username": "jfnewbery",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "848637636361297921": {
+            "id": "848637636361297921",
+            "text": "A: no anti-static wristbands.\n\nThough to be fair, Chanel are nailing this season's server room chic.",
+            "username": "jfnewbery",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "848637253840777217": {
+            "id": "848637253840777217",
+            "text": "Q: What's wrong with this image?pic.twitter.com/tY6jPhv4KA",
+            "username": "jfnewbery",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 4
+        },
+        "846325043026120704": {
+            "id": "846325043026120704",
+            "text": "Awesome! Congratulation @alexbosworth! Looking forward to the write-up.https://twitter.com/bcoinio/status/846203638045298688\u00a0\u2026",
+            "username": "jfnewbery",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "845709551957610497": {
+            "id": "845709551957610497",
+            "text": "Trolls on Reddit? Build something!\nHard fork looming? Build something!\nPrice collapsing? Build something!\nSky is falling? Build something!",
+            "username": "jfnewbery",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "829483254898098176": {
+            "id": "829483254898098176",
+            "text": "I presented @random_walker 's paper on post-subsidy bitcoin mining games to my colleagues at @ChaincodeLabs today. Very thought-provoking!pic.twitter.com/i0Rc1rmAo9",
+            "username": "jfnewbery",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "817363252061630464": {
+            "id": "817363252061630464",
+            "text": "s/UK/NY",
+            "username": "jfnewbery",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "816262304555798529": {
+            "id": "816262304555798529",
+            "text": "Genesis Tweet",
+            "username": "jfnewbery",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "bitcoinoptech": 14,
+        "bitcoincoreorg": 3,
+        "BitcoinMerges": 1,
+        "ChaincodeLabs": 5,
+        "jack": 1,
+        "moneyball": 4,
+        "tomscott": 1,
+        "lopp": 5,
+        "pierre_rochard": 2,
+        "real_or_random": 1,
+        "fulmolightning": 1,
+        "peterktodd": 1,
+        "jamesob": 1,
+        "arbedout": 1,
+        "LightningK0ala": 1,
+        "neha": 1,
+        "hrdng": 1,
+        "SFBitcoinDevs": 1,
+        "coindesk": 1,
+        "alexbosworth": 1,
+        "rusty_twit": 3,
+        "FelixWeis": 1,
+        "pwuille": 1,
+        "murchandamus": 2,
+        "MartyBent": 1,
+        "stanmarion": 1,
+        "kyletorpey": 1,
+        "bitcointechtalk": 2,
+        "adam3us": 1,
+        "aantonop": 1,
+        "AaronvanW": 1,
+        "jimmysong": 3,
+        "morcosa": 1,
+        "BitcoinMagazine": 1,
+        "TheBlueMatt": 1,
+        "francispouliot_": 1,
+        "tdryja": 2,
+        "ErikVoorhees": 1,
+        "suhasdaftuar": 1
+    },
+    "users_retweeted": [
+        "bitcoinoptech",
+        "ChaincodeLabs",
+        "lopp",
+        "moneyball",
+        "bitcoincoreorg",
+        "rusty_twit",
+        "jimmysong",
+        "pierre_rochard",
+        "murchandamus",
+        "bitcointechtalk",
+        "tdryja",
+        "BitcoinMerges",
+        "jack",
+        "tomscott",
+        "real_or_random",
+        "fulmolightning",
+        "peterktodd",
+        "jamesob",
+        "arbedout",
+        "LightningK0ala",
+        "neha",
+        "hrdng",
+        "SFBitcoinDevs",
+        "coindesk",
+        "alexbosworth",
+        "FelixWeis",
+        "pwuille",
+        "MartyBent",
+        "stanmarion",
+        "kyletorpey",
+        "adam3us",
+        "aantonop",
+        "AaronvanW",
+        "morcosa",
+        "BitcoinMagazine",
+        "TheBlueMatt",
+        "francispouliot_",
+        "ErikVoorhees",
+        "suhasdaftuar"
+    ]
+}

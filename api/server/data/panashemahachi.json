@@ -1,0 +1,3776 @@
+{
+    "is_complete": true,
+    "username": "panashemahachi",
+    "retweeted": {
+        "1025011721558269952": {
+            "id": "1025011721558269952",
+            "text": "We've spent a lot of time thinking about state channel applications over the last few monthshttps://medium.com/statechannels/state-channel-applications-1f170e7d542e\u00a0\u2026",
+            "username": "statechannels",
+            "num_likes": 49,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1009187046328446976": {
+            "id": "1009187046328446976",
+            "text": "We've just released our force-move game framework for state channels. Check out this post for more!https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f\u00a0\u2026",
+            "username": "magmoHQ",
+            "num_likes": 20,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1009200023496773640": {
+            "id": "1009200023496773640",
+            "text": "At the @statechannels project we have explored many designs for channelized apps. One promising design has been to think in terms of state machines. That has led to the Force Move Games framework which @tomclse has been driving forward:https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f\u00a0\u2026",
+            "username": "liamihorne",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1006582304532201472": {
+            "id": "1006582304532201472",
+            "text": "\u201cWe can install new applications into a state channel without ever going on-chain.\u201d Mind-bending idea with big implications for scaling trust from @L4ventures.https://twitter.com/statechannels/status/1006536423086977024\u00a0\u2026",
+            "username": "Iiterature",
+            "num_likes": 28,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1004557795969126400": {
+            "id": "1004557795969126400",
+            "text": "Contribute today to empower the next generation. Help start a Hack Club at every high school. https://hackclub.com/donate/\u00a0 @zachlatta @hackclub",
+            "username": "thielfellowship",
+            "num_likes": 11,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1000397656726867969": {
+            "id": "1000397656726867969",
+            "text": "I feel like @ETHGlobal is what @ethereum devcon could learn from. What about one (or two) unconference/hacking day(s)? We just hack, code, discuss & hang?",
+            "username": "simondlr",
+            "num_likes": 67,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1000168012979298304": {
+            "id": "1000168012979298304",
+            "text": "7/1 Speaking of #buidl, damn, @ETHGlobal is scaling fast. \n\nCongrats @liamihorne @ethanwilding @TheRealKartik @panashemahachi!\n\nhttps://medium.com/ethglobal/expanding-ethglobal-7d673f6555f2\u00a0\u2026 #ETHBuenosAirespic.twitter.com/OcK3kLTjQ3",
+            "username": "RhysLindmark",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1000165092036694016": {
+            "id": "1000165092036694016",
+            "text": "Having brought over 1000 developers into the Ethereum ecosystem so far, the complete season of @ETHGlobal events is out! Excited to see hundreds of new projects and bring thousands more into this community! #BUIDLhttps://medium.com/ethglobal/expanding-ethglobal-7d673f6555f2\u00a0\u2026",
+            "username": "TheRealKartik",
+            "num_likes": 43,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1000161457516969984": {
+            "id": "1000161457516969984",
+            "text": "The Stable Fund offers more than money - business development, strategy and follow-on fundingpic.twitter.com/8iRiEStcxk",
+            "username": "ethbuenosaires",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1000067056329424897": {
+            "id": "1000067056329424897",
+            "text": "#ETHBuenosAires has begun! The decentralized future is on its way #buidl Watch the live stream at http://ethbuenosaires.com/live\u00a0",
+            "username": "ETHGlobal",
+            "num_likes": 50,
+            "num_retweets": 26,
+            "num_replies": 0
+        },
+        "991678879982063616": {
+            "id": "991678879982063616",
+            "text": "Over the last 24 hours we\u2019ve been lucky to host EIP0, a governance meetup aimed at better understanding the challenges and risks in ethereum governance",
+            "username": "L4ventures",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "978790291254718470": {
+            "id": "978790291254718470",
+            "text": "It's time for another awesome Ethereum  hackathon. Come hack in Buenos Aires!!  Website is live and registration is open https://ethbuenosaires.com/\u00a0 @ethereum #BUIDLhttps://twitter.com/ethbuenosaires/status/978784472140255233\u00a0\u2026",
+            "username": "ETHGlobal",
+            "num_likes": 59,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "971417459872882690": {
+            "id": "971417459872882690",
+            "text": "#BUIDLhttps://twitter.com/jon_choi_/status/971415354793693185\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 777,
+            "num_retweets": 160,
+            "num_replies": 108
+        },
+        "963851289166671872": {
+            "id": "963851289166671872",
+            "text": "We\u2019re proud to announce the launch of ETHGlobal - the world\u2019s largest ethereum hackathon organizationhttps://medium.com/ethglobal/ethglobal-supporting-ethereum-hackathons-around-the-world-5e32fa991a55\u00a0\u2026",
+            "username": "ETHGlobal",
+            "num_likes": 835,
+            "num_retweets": 284,
+            "num_replies": 25
+        },
+        "905823714691960832": {
+            "id": "905823714691960832",
+            "text": " Applications are closing tomorrow!\u00a0http://ethwaterloo.com/apply\u00a0\n@ljxie @0xstark @jessepollak @panashemahachi @ChiefApricot @rzurrerpic.twitter.com/fDhkcpPlWU",
+            "username": "ETHGlobal",
+            "num_likes": 15,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "875779024886185984": {
+            "id": "875779024886185984",
+            "text": "Welcome 2017 Thiel Fellows! http://www.businesswire.com/news/home/20170616005607/en\u00a0\u2026pic.twitter.com/z5Ky3onKkr",
+            "username": "thielfellowship",
+            "num_likes": 42,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "772657636424712192": {
+            "id": "772657636424712192",
+            "text": "Tell me about it.https://twitter.com/TheOnion/status/772462746155745281\u00a0\u2026",
+            "username": "Kasparov63",
+            "num_likes": 3760,
+            "num_retweets": 2438,
+            "num_replies": 61
+        },
+        "737143000996814848": {
+            "id": "737143000996814848",
+            "text": "There are three rules for building a startup. Unfortunately no one knows what they are.",
+            "username": "William_Blake",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "659785787932717056": {
+            "id": "659785787932717056",
+            "text": "Interesting variable name\u2026pic.twitter.com/fTnv4Annsz",
+            "username": "maccaw",
+            "num_likes": 22,
+            "num_retweets": 15,
+            "num_replies": 3
+        },
+        "692616159389069312": {
+            "id": "692616159389069312",
+            "text": "Two @uber cars now on the road! Prototype from April 13, 2010.pic.twitter.com/fbCNQWQnHD",
+            "username": "expa",
+            "num_likes": 271,
+            "num_retweets": 160,
+            "num_replies": 3
+        },
+        "674058557814390784": {
+            "id": "674058557814390784",
+            "text": "Microsoft: \"Please stop calling them iPads.\"\nAnnouncers: \"got it.\"\n\n(a week later)\n\nAnnouncers: \"The MICROSOFT SURFACES are malfunctioning\"",
+            "username": "rodger",
+            "num_likes": 2515,
+            "num_retweets": 1840,
+            "num_replies": 19
+        },
+        "688265091406430208": {
+            "id": "688265091406430208",
+            "text": "Working on my #startupIndia lingo before my big speech ... just learned that Jugaad means HUSTLE #AlwaysBeJugaading",
+            "username": "travisk",
+            "num_likes": 648,
+            "num_retweets": 517,
+            "num_replies": 64
+        },
+        "683871720164474880": {
+            "id": "683871720164474880",
+            "text": "this comment by @finkd via @bznotes @pmarcapic.twitter.com/oZ4PpPDglR",
+            "username": "eileentso",
+            "num_likes": 56,
+            "num_retweets": 48,
+            "num_replies": 2
+        },
+        "682653496752123904": {
+            "id": "682653496752123904",
+            "text": "Computer safety tip.pic.twitter.com/FKpKbtjNjC",
+            "username": "Lerg",
+            "num_likes": 468,
+            "num_retweets": 443,
+            "num_replies": 11
+        },
+        "575740639444336640": {
+            "id": "575740639444336640",
+            "text": "WhatsApp crossed 1B Android downloads. btw our android team is four people + Brian. very small team, very big impact.pic.twitter.com/sW4F9SlKKv",
+            "username": "jankoum",
+            "num_likes": 1357,
+            "num_retweets": 2182,
+            "num_replies": 112
+        },
+        "656546380316438529": {
+            "id": "656546380316438529",
+            "text": "If we ran away from every difficult problem that existed we'd still be reading by candlelight.https://twitter.com/EricyuanY/status/656544354329165824\u00a0\u2026",
+            "username": "foundersfund",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "655865991570788352": {
+            "id": "655865991570788352",
+            "text": "Down with #technologypic.twitter.com/Eh0LRZkuFz",
+            "username": "calestous",
+            "num_likes": 96,
+            "num_retweets": 72,
+            "num_replies": 3
+        },
+        "653009178231902208": {
+            "id": "653009178231902208",
+            "text": "Your 1979 tech news update: The New York Times helpfully explains that home computers turned out to be a fad.pic.twitter.com/9S7Dk4iEFn",
+            "username": "harrymccracken",
+            "num_likes": 388,
+            "num_retweets": 577,
+            "num_replies": 38
+        },
+        "641818399954366468": {
+            "id": "641818399954366468",
+            "text": "REMINDER: Apple's iPhone revenue is bigger than any other tech company's total revenue http://buff.ly/1KESGUs\u00a0pic.twitter.com/DsenoeK7Hq",
+            "username": "businessinsider",
+            "num_likes": 100,
+            "num_retweets": 227,
+            "num_replies": 2
+        },
+        "638533459426852864": {
+            "id": "638533459426852864",
+            "text": "1995: top 15 Internet companies worth $17 billion.\n\n2015: top 15 Internet companies worth $2.4 trillion. \n\n\u2014@kpcbpic.twitter.com/qbCRI0RSA7",
+            "username": "ValaAfshar",
+            "num_likes": 192,
+            "num_retweets": 265,
+            "num_replies": 18
+        },
+        "633880105228460032": {
+            "id": "633880105228460032",
+            "text": "There are only 3 cars:\n1) Tesla\n2) full Uber\n3) 162 companies selling the same thing",
+            "username": "DavidSacks",
+            "num_likes": 489,
+            "num_retweets": 383,
+            "num_replies": 32
+        },
+        "631209170105032704": {
+            "id": "631209170105032704",
+            "text": "\"If this ever becomes mainstream, the whole thing will come crashing down.\" \n\n\u2013 top comment on the TechCrunch article on Airbnb, 2008",
+            "username": "paulg",
+            "num_likes": 269,
+            "num_retweets": 167,
+            "num_replies": 11
+        },
+        "628712700193800192": {
+            "id": "628712700193800192",
+            "text": "3/ even the most mission-oriented people want to be treated fairly.  and if you don't think early hires will add 2-3% of value,",
+            "username": "sama",
+            "num_likes": 95,
+            "num_retweets": 50,
+            "num_replies": 1
+        },
+        "628712398086496256": {
+            "id": "628712398086496256",
+            "text": "2/ you're competing with a) the person starting his/her own company for 33-50% of the equity and b) google etc. paying $500k/year",
+            "username": "sama",
+            "num_likes": 146,
+            "num_retweets": 88,
+            "num_replies": 5
+        },
+        "628711922750263300": {
+            "id": "628711922750263300",
+            "text": "1/ startups: you cannot expect to hire top talent in the early days and be stingy with equity",
+            "username": "sama",
+            "num_likes": 348,
+            "num_retweets": 188,
+            "num_replies": 11
+        },
+        "627693823099957248": {
+            "id": "627693823099957248",
+            "text": "(2009) Social networks aren't good businesses\nhttp://www.washingtonpost.com/wp-dyn/content/article/2009/09/25/AR2009092502547.html\u00a0\u2026pic.twitter.com/jiG1gxsW2m",
+            "username": "DShankar",
+            "num_likes": 64,
+            "num_retweets": 52,
+            "num_replies": 11
+        },
+        "626458091698155520": {
+            "id": "626458091698155520",
+            "text": "The youngest founder among these is 19 (x4) and the oldest 36. Ages are: 19, 19, 19, 19, 20, 21, 22, 24, 25, 25, 26, 29, 30, 32, 33, 33, 36.",
+            "username": "sama",
+            "num_likes": 128,
+            "num_retweets": 94,
+            "num_replies": 13
+        },
+        "623999429117251584": {
+            "id": "623999429117251584",
+            "text": "This used to be science fiction. http://www.teslarati.com/remote-s-review-apple-watch-app-tesla-model-s/\u00a0\u2026pic.twitter.com/yUcLPL7T5G",
+            "username": "alsaqqaf",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "509058288776798208": {
+            "id": "509058288776798208",
+            "text": "Recruiter Confident Java Developer Can Learn The Script Part",
+            "username": "HackerNewsOnion",
+            "num_likes": 771,
+            "num_retweets": 644,
+            "num_replies": 5
+        },
+        "612828338458005504": {
+            "id": "612828338458005504",
+            "text": "In < 24 hours, using only Twitter & Tumblr, Apple and Taylor Swift resolved what used to take 6 months to negotiate.https://twitter.com/cue/status/612824775220555776\u00a0\u2026",
+            "username": "levie",
+            "num_likes": 1031,
+            "num_retweets": 1109,
+            "num_replies": 31
+        },
+        "617834972469030916": {
+            "id": "617834972469030916",
+            "text": "Ah, the old \"hat trick in the first fifteen minutes\" move.",
+            "username": "dickc",
+            "num_likes": 501,
+            "num_retweets": 232,
+            "num_replies": 8
+        },
+        "617512490704990208": {
+            "id": "617512490704990208",
+            "text": "A technical blog after a long time. Manage your Android and iOS Apps Translations using @GlotPress \u2014 http://gaut.am/manage-your-android-and-ios-apps-translations-using-glotpress/\u00a0\u2026",
+            "username": "thegautamgupta",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "600324682190053376": {
+            "id": "600324682190053376",
+            "text": "Hello, Twitter! It's Barack. Really! Six years in, they're finally giving me my own account.",
+            "username": "POTUS44",
+            "num_likes": 415766,
+            "num_retweets": 269122,
+            "num_replies": 36559
+        },
+        "590599086786613249": {
+            "id": "590599086786613249",
+            "text": "back when PG used to cook YC dinners:pic.twitter.com/8CcRt8gFEq",
+            "username": "sama",
+            "num_likes": 124,
+            "num_retweets": 19,
+            "num_replies": 7
+        },
+        "456255410136027136": {
+            "id": "456255410136027136",
+            "text": "1999 - $5M to launch a product, 30M serious computer users. 2014 - $5K to launch, 3B serious phone users. Leverage / $ is up 100,000x.",
+            "username": "naval",
+            "num_likes": 1078,
+            "num_retweets": 1483,
+            "num_replies": 92
+        },
+        "586075540123058176": {
+            "id": "586075540123058176",
+            "text": "The oddest Silicon Valley first world problem: too many interesting friends with promising startup ideas, cannot pursue them all.",
+            "username": "DShankar",
+            "num_likes": 127,
+            "num_retweets": 61,
+            "num_replies": 9
+        },
+        "582698702579601408": {
+            "id": "582698702579601408",
+            "text": "Evilpic.twitter.com/nXHPUrLcV5",
+            "username": "SarcasmPage",
+            "num_likes": 85,
+            "num_retweets": 86,
+            "num_replies": 1
+        },
+        "578783928091222016": {
+            "id": "578783928091222016",
+            "text": "Pretty cool seeing an @AngelList sticker on the news desk laptop of a morning Japanese tv programpic.twitter.com/pNaImSLSu4",
+            "username": "poswald",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "578418245503418368": {
+            "id": "578418245503418368",
+            "text": "One of the most curious things about haters is the energy with which they hate. Imagine if they used that energy for good.",
+            "username": "paulg",
+            "num_likes": 602,
+            "num_retweets": 531,
+            "num_replies": 56
+        },
+        "577832374475431936": {
+            "id": "577832374475431936",
+            "text": "Stay in Warren Buffett's childhood home for the Berkshire Hathaway conference. https://m.airbnb.com/listings/5630903\u00a0\u2026",
+            "username": "bchesky",
+            "num_likes": 22,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "572822062672179200": {
+            "id": "572822062672179200",
+            "text": "Every founder should know about Trevor Blackwell's Startup Growth Calculator: http://growth.tlb.org/\u00a0",
+            "username": "paulg",
+            "num_likes": 605,
+            "num_retweets": 362,
+            "num_replies": 23
+        },
+        "570672211209674752": {
+            "id": "570672211209674752",
+            "text": "What\n\nif\n\nthe\n\nInternet\n\nwas\n\nso\n\nslow\n\nit\n\nloaded\n\none\n\nword\n\nat\n\na\n\ntime?\n\nDon't\n\nlet\n\nComcast\n\nwin.http://Battleforthenet.com\u00a0",
+            "username": "netflix",
+            "num_likes": 17633,
+            "num_retweets": 22056,
+            "num_replies": 531
+        },
+        "568479082729619456": {
+            "id": "568479082729619456",
+            "text": "Our Bitcoin support is now fully live: https://stripe.com/bitcoin\u00a0.pic.twitter.com/CFlwjgk0NU",
+            "username": "stripe",
+            "num_likes": 322,
+            "num_retweets": 402,
+            "num_replies": 30
+        },
+        "568091808330338304": {
+            "id": "568091808330338304",
+            "text": "@eye_check Awesome product and sexy website :) Congrats @UWvelocity on housing this cool Co!",
+            "username": "athennian",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "565683427413069824": {
+            "id": "565683427413069824",
+            "text": "Sorry couldn't hear your complaints about stocks or earnings. Rockets that may save humanity someday are really loud.",
+            "username": "BoredElonMusk",
+            "num_likes": 747,
+            "num_retweets": 570,
+            "num_replies": 16
+        },
+        "564993337825177600": {
+            "id": "564993337825177600",
+            "text": "This is so surreal right now. I'm coming back to Seattle, folks!",
+            "username": "abr71310",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "564893730864652289": {
+            "id": "564893730864652289",
+            "text": "this 1985 article on laptops is a gift that keeps on giving http://www.nytimes.com/1985/12/08/business/the-executive-computer.html\u00a0\u2026pic.twitter.com/y1EUGWlPN6",
+            "username": "vjsubr",
+            "num_likes": 120,
+            "num_retweets": 75,
+            "num_replies": 15
+        },
+        "556617989743968258": {
+            "id": "556617989743968258",
+            "text": "DON\u2019T GET ME STARTED ON MARC ANDREESSEN\n\nWHO IS THIS \u201cREESSEN\u201d?\n\nWHY HAVE WE NEVER SEEN THEM TOGETHER?\n\nSO MANY UNANSWERED QUESTIONS",
+            "username": "PHP_CEO",
+            "num_likes": 131,
+            "num_retweets": 68,
+            "num_replies": 2
+        },
+        "556841393910714368": {
+            "id": "556841393910714368",
+            "text": "\"Oh sweet, is that the new MacBook Pro? Must have set you back a bit! What you gonna do with it?\"\n\n\"Dunno, put stickers on it 'n stuff.\"",
+            "username": "iamdevloper",
+            "num_likes": 385,
+            "num_retweets": 434,
+            "num_replies": 7
+        },
+        "560713253459087360": {
+            "id": "560713253459087360",
+            "text": "Speed dating is useless.\n\n30s isn't long enough to explain the benefits of functional programming in Haskell.",
+            "username": "iamdevloper",
+            "num_likes": 1137,
+            "num_retweets": 1230,
+            "num_replies": 36
+        },
+        "562485676487495680": {
+            "id": "562485676487495680",
+            "text": "Uber is building a robotics research lab in Pittsburgh, PA to kickstart autonomous taxi fleet development http://tcrn.ch/1F0ljok\u00a0",
+            "username": "TechCrunch",
+            "num_likes": 76,
+            "num_retweets": 185,
+            "num_replies": 7
+        },
+        "562386941006839808": {
+            "id": "562386941006839808",
+            "text": "Hedge fund billionaire Steve Cohen is recruiting at colleges http://read.bi/1AlfhzP\u00a0pic.twitter.com/nNTuP78ROa",
+            "username": "businessinsider",
+            "num_likes": 20,
+            "num_retweets": 19,
+            "num_replies": 6
+        },
+        "562033716625539072": {
+            "id": "562033716625539072",
+            "text": "How SuperBowl #SB49 works, in 14 lines of #JavaScriptpic.twitter.com/MsfHLjcRSv",
+            "username": "freeCodeCamp",
+            "num_likes": 57,
+            "num_retweets": 75,
+            "num_replies": 7
+        },
+        "560457240424251393": {
+            "id": "560457240424251393",
+            "text": "For today only, Uber will let you order an adorable puppy to your office http://read.bi/1Dacoz0\u00a0pic.twitter.com/M7fDgeSWXs",
+            "username": "businessinsider",
+            "num_likes": 54,
+            "num_retweets": 73,
+            "num_replies": 12
+        },
+        "558723781905358848": {
+            "id": "558723781905358848",
+            "text": "Congrats @levie and team at $BOX!",
+            "username": "drewhouston",
+            "num_likes": 135,
+            "num_retweets": 46,
+            "num_replies": 3
+        },
+        "557731254884655104": {
+            "id": "557731254884655104",
+            "text": "Obama's speech covers landing on Mars, solar power, robotics, and Tesla. Essentially, he's reading a thank-you letter to Elon Musk.",
+            "username": "levie",
+            "num_likes": 559,
+            "num_retweets": 466,
+            "num_replies": 16
+        },
+        "557008308184170496": {
+            "id": "557008308184170496",
+            "text": "Pet peeve: VCs doubting we have enough stock % to motivate us.\n\nFolks, if we succeed, we save the *planet*. How else can you win a planet?!",
+            "username": "DanielleFong",
+            "num_likes": 85,
+            "num_retweets": 43,
+            "num_replies": 10
+        },
+        "556475183268388864": {
+            "id": "556475183268388864",
+            "text": "Cyborg with your CostCo membership that takes all your friends there so you don't have to go.",
+            "username": "BoredElonMusk",
+            "num_likes": 100,
+            "num_retweets": 62,
+            "num_replies": 5
+        },
+        "555790393175191552": {
+            "id": "555790393175191552",
+            "text": "new domain todaypic.twitter.com/KlZwT4olcL",
+            "username": "hackthethings",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "554028206898958336": {
+            "id": "554028206898958336",
+            "text": "I got mentioned in Quora's Publishing Spotlight as well as in Forbes for one of my responses! :O #winning #fb http://spotlight.quora.com/Publishing-Spotlight-1-9-15?__snids__=884873048&__nsrc__=4\u00a0\u2026",
+            "username": "abr71310",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "551502043752701952": {
+            "id": "551502043752701952",
+            "text": "Meanwhile, tech giants spent $66 billion in the past 12 months on research and development etc @AllMeasures @pmarcapic.twitter.com/h2oBETIopN",
+            "username": "Khanoisseur",
+            "num_likes": 139,
+            "num_retweets": 251,
+            "num_replies": 24
+        },
+        "551167202486153216": {
+            "id": "551167202486153216",
+            "text": "Wait what?pic.twitter.com/fa7I8pJIpu",
+            "username": "jdan",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "547142107467907073": {
+            "id": "547142107467907073",
+            "text": "We had Internet? -Everyone in North Korea.",
+            "username": "BoredElonMusk",
+            "num_likes": 456,
+            "num_retweets": 415,
+            "num_replies": 9
+        },
+        "548101683533074432": {
+            "id": "548101683533074432",
+            "text": "Yes, even Seth Rogen movies.pic.twitter.com/4fIQRqFOuy",
+            "username": "jeffjarvis",
+            "num_likes": 218,
+            "num_retweets": 234,
+            "num_replies": 11
+        },
+        "547931026232983552": {
+            "id": "547931026232983552",
+            "text": "\u2018Twas the night before Christmas, when all through the house, not a creature felt like pronouncing \u201cit was\u201d as two words.",
+            "username": "ConanOBrien",
+            "num_likes": 3435,
+            "num_retweets": 1848,
+            "num_replies": 72
+        },
+        "547933163545055232": {
+            "id": "547933163545055232",
+            "text": "HOPEFULLY SANTA GETS ME THE EMERGING MARKET ETFS I BEEN EYEING RECENTLY DAM",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 120,
+            "num_retweets": 78,
+            "num_replies": 5
+        },
+        "528617105198186496": {
+            "id": "528617105198186496",
+            "text": "Space is difficult. Trying to survive on one planet forever is impossible.",
+            "username": "BoredElonMusk",
+            "num_likes": 235,
+            "num_retweets": 202,
+            "num_replies": 9
+        },
+        "531861467323461633": {
+            "id": "531861467323461633",
+            "text": "Shower glass that takes the ideas you draw on the steamy surface and sends to Evernote.",
+            "username": "BoredElonMusk",
+            "num_likes": 282,
+            "num_retweets": 204,
+            "num_replies": 16
+        },
+        "539467221740040192": {
+            "id": "539467221740040192",
+            "text": "HD microwave oven that finds and screens a funny YouTube video the same duration as your selected cooking time.",
+            "username": "BoredElonMusk",
+            "num_likes": 933,
+            "num_retweets": 853,
+            "num_replies": 36
+        },
+        "545835935850835968": {
+            "id": "545835935850835968",
+            "text": "Snapchat CEO predicts Facebook will violently implode the same way Yahoo did http://buff.ly/1sDKtSt\u00a0pic.twitter.com/vGadDMYWzh",
+            "username": "businessinsider",
+            "num_likes": 45,
+            "num_retweets": 65,
+            "num_replies": 8
+        },
+        "543046363731480576": {
+            "id": "543046363731480576",
+            "text": "Microsoft\nPaypal\nDell\nStripe\nUnited Way\nNCR\nSquare\nWikipedia\nWordpress\nBraintree\nIntuit\n\nGetting quite difficult to dismiss bitcoin as a fad",
+            "username": "barrysilbert",
+            "num_likes": 663,
+            "num_retweets": 948,
+            "num_replies": 57
+        },
+        "542808491044249600": {
+            "id": "542808491044249600",
+            "text": "From CNN Money's 10 People Who Don't Matter list in 2006:pic.twitter.com/KMmeNh2fw9",
+            "username": "tomcoates",
+            "num_likes": 371,
+            "num_retweets": 633,
+            "num_replies": 33
+        },
+        "540004222427996160": {
+            "id": "540004222427996160",
+            "text": "Illegal immigrant kids from Mexico beat MIT in robotics competition: http://www.wired.com/2014/12/4-mexican-immigrant-kids-cheap-robot-beat-mit/?mbid=social_twitter\u00a0\u2026",
+            "username": "Noahpinion",
+            "num_likes": 64,
+            "num_retweets": 112,
+            "num_replies": 9
+        },
+        "539523885289332738": {
+            "id": "539523885289332738",
+            "text": "YOU WENT LONG OIL AT $100 NOW WE GOTTA SEND OUR KID TO A UNIVERSITY THAT HAS BEEN DESTROYED BY BRO CULTURE SMFHpic.twitter.com/LrPiSSu55u",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 88,
+            "num_retweets": 65,
+            "num_replies": 1
+        },
+        "538067822854033409": {
+            "id": "538067822854033409",
+            "text": "The @UWvelocity Fund Finals have made us a better company. Its time to get cracking and rise up to expectations! #UWStartup",
+            "username": "eye_check",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "534033805204389888": {
+            "id": "534033805204389888",
+            "text": "Graphing calculators are an enigma.pic.twitter.com/57AllOtqFI",
+            "username": "BoredElonMusk",
+            "num_likes": 92,
+            "num_retweets": 58,
+            "num_replies": 11
+        },
+        "534450708104216577": {
+            "id": "534450708104216577",
+            "text": "Snapcash = @square + @snapchat. More from @recodehttp://pco.lt/1uzVRTW\u00a0",
+            "username": "sequoia",
+            "num_likes": 21,
+            "num_retweets": 23,
+            "num_replies": 5
+        },
+        "533001746717868033": {
+            "id": "533001746717868033",
+            "text": "Reddit-style up/downvoting for executives that each employee hits at the end of the work day.",
+            "username": "BoredElonMusk",
+            "num_likes": 140,
+            "num_retweets": 85,
+            "num_replies": 6
+        },
+        "528396039766966272": {
+            "id": "528396039766966272",
+            "text": "Uber has now scored Lyft's former VP of Operations Stephen Schnell to work on international supply growthhttp://tcrn.ch/1xIYK38\u00a0",
+            "username": "TechCrunch",
+            "num_likes": 23,
+            "num_retweets": 36,
+            "num_replies": 4
+        },
+        "528299500155056129": {
+            "id": "528299500155056129",
+            "text": "My Halloween costume turned out ok. Gotta remember a white shirt next time. @jackpic.twitter.com/Iz8t2HhfUy",
+            "username": "DavidsonJohnR",
+            "num_likes": 82,
+            "num_retweets": 45,
+            "num_replies": 16
+        },
+        "527922567886417920": {
+            "id": "527922567886417920",
+            "text": "BRO CULTURE IS OUT OF CONTROLpic.twitter.com/MG8C10liSE",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 97,
+            "num_retweets": 79,
+            "num_replies": 2
+        },
+        "526842580370460674": {
+            "id": "526842580370460674",
+            "text": "@bfeld Get pulled over with marijuana in Philly, & you pay only a $25 fine. Get pulled over driving for UberX, car is impounded + $1K fine.",
+            "username": "joshk",
+            "num_likes": 52,
+            "num_retweets": 56,
+            "num_replies": 8
+        },
+        "523237033351712768": {
+            "id": "523237033351712768",
+            "text": "People who produce the least, reply-all the most.",
+            "username": "BoredElonMusk",
+            "num_likes": 228,
+            "num_retweets": 195,
+            "num_replies": 11
+        },
+        "522220056344678400": {
+            "id": "522220056344678400",
+            "text": "and for the last two minutes before the deadline, the rate of YC apps was 1 per second!",
+            "username": "sama",
+            "num_likes": 98,
+            "num_retweets": 33,
+            "num_replies": 14
+        },
+        "522174650298556416": {
+            "id": "522174650298556416",
+            "text": "currently getting YC apps at a rate of 3 per minute...",
+            "username": "sama",
+            "num_likes": 103,
+            "num_retweets": 40,
+            "num_replies": 17
+        },
+        "519938299088347139": {
+            "id": "519938299088347139",
+            "text": "San Francisco passes \"Airbnb Law,\" legalizing short-term rentals of less than 30 days. http://on.wsj.com/1y7dSuO\u00a0pic.twitter.com/LZMU8y2V4V",
+            "username": "WSJ",
+            "num_likes": 140,
+            "num_retweets": 255,
+            "num_replies": 14
+        },
+        "513747396850118657": {
+            "id": "513747396850118657",
+            "text": "and i would def take the long side of a population-adjusted prop bet that a $10B company emerges from waterloo before NYC",
+            "username": "sama",
+            "num_likes": 132,
+            "num_retweets": 105,
+            "num_replies": 17
+        },
+        "512285088613031936": {
+            "id": "512285088613031936",
+            "text": "@goldman working my way through a giant bag of Doritos. I'll catch up with you later.",
+            "username": "dickc",
+            "num_likes": 1347,
+            "num_retweets": 533,
+            "num_replies": 64
+        },
+        "510892011378188288": {
+            "id": "510892011378188288",
+            "text": "Leading schools on https://nc.me\u00a0 after 2 weeks:\n\n1) @UWaterloo\n2) @CarnegieMellon \n3) @GeorgiaTechpic.twitter.com/7pf8iqfFNU",
+            "username": "Namecheap",
+            "num_likes": 57,
+            "num_retweets": 64,
+            "num_replies": 7
+        },
+        "509103610349641728": {
+            "id": "509103610349641728",
+            "text": "#1: Don\u2019t wear shoes memorable enough to be recognized under a bathroom stall.",
+            "username": "GSElevator",
+            "num_likes": 1545,
+            "num_retweets": 917,
+            "num_replies": 42
+        },
+        "507553060475121664": {
+            "id": "507553060475121664",
+            "text": "tl;lm (left meeting)",
+            "username": "BoredElonMusk",
+            "num_likes": 153,
+            "num_retweets": 167,
+            "num_replies": 4
+        },
+        "505714580619022336": {
+            "id": "505714580619022336",
+            "text": "Yup, it's 3D printed http://tcrn.ch/1tUBgro\u00a0pic.twitter.com/yBN0jA6dIl",
+            "username": "TechCrunch",
+            "num_likes": 165,
+            "num_retweets": 225,
+            "num_replies": 27
+        },
+        "505362244386177024": {
+            "id": "505362244386177024",
+            "text": "MSN Messenger, which once had 330 million users, has finally, completely, totally diedhttp://read.bi/1C9MP2F\u00a0",
+            "username": "businessinsider",
+            "num_likes": 22,
+            "num_retweets": 54,
+            "num_replies": 7
+        },
+        "505024961254555648": {
+            "id": "505024961254555648",
+            "text": "If you need to deliver any bad news about your company I recommend doing so on 9/9.",
+            "username": "BoredElonMusk",
+            "num_likes": 169,
+            "num_retweets": 221,
+            "num_replies": 5
+        },
+        "504363773805998081": {
+            "id": "504363773805998081",
+            "text": "Uber has moved into the fast-food delivery industry with its new service \"UberFRESH:\"http://onforb.es/1peaVoA\u00a0",
+            "username": "Forbes",
+            "num_likes": 94,
+            "num_retweets": 170,
+            "num_replies": 25
+        },
+        "503928981226135552": {
+            "id": "503928981226135552",
+            "text": "You just can't make this stuff up - https://www.techdirt.com/articles/20140822/18020628300/california-lawmaker-votes-to-kill-uber-then-caught-driving-drunk-just-hours-later.shtml\u00a0\u2026 - CA Senator votes to kill @uber and arrested for DUI just hours later",
+            "username": "travisk",
+            "num_likes": 257,
+            "num_retweets": 443,
+            "num_replies": 36
+        },
+        "503575208528478208": {
+            "id": "503575208528478208",
+            "text": "Woops. Sorry Bay Area. Got a bit overzealous with the weekend project. Long story, involves fission.",
+            "username": "BoredElonMusk",
+            "num_likes": 501,
+            "num_retweets": 597,
+            "num_replies": 16
+        },
+        "503222272081920000": {
+            "id": "503222272081920000",
+            "text": "huffpo article on why it sucks to be me :) - http://www.huffingtonpost.com/gene-marks/3-reasons-why-it-sucks-to_b_5700916.html?utm_hp_ref=technology&ir=Technology&utm_source=twitterfeed&utm_medium=twitter\u00a0\u2026 #humblebrag",
+            "username": "travisk",
+            "num_likes": 53,
+            "num_retweets": 22,
+            "num_replies": 6
+        },
+        "502974683864518657": {
+            "id": "502974683864518657",
+            "text": "Three engine F9R Dev1 vehicle auto-terminated during test flight. No injuries or near injuries. Rockets are tricky \u2026",
+            "username": "elonmusk",
+            "num_likes": 1179,
+            "num_retweets": 1084,
+            "num_replies": 264
+        },
+        "502154802709532672": {
+            "id": "502154802709532672",
+            "text": "Over 425K guests stayed on Airbnb last Saturday, making it our biggest night ever.",
+            "username": "bchesky",
+            "num_likes": 282,
+            "num_retweets": 309,
+            "num_replies": 36
+        },
+        "502130848330952704": {
+            "id": "502130848330952704",
+            "text": "PPL OUTCHEA LOVE TO COMPLAIN ABOUT INCOME INEQUALITY LETS START TEACHING THE CHILDREN ABOUT SAVING & INVESTING AS OPPOSED TO ART HISTORY FAM",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 95,
+            "num_retweets": 90,
+            "num_replies": 8
+        },
+        "501461339630354432": {
+            "id": "501461339630354432",
+            "text": "Ballmer just gave everyone his email address... Sballmer@clippers.com",
+            "username": "jillpainter",
+            "num_likes": 12,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "501438156106125312": {
+            "id": "501438156106125312",
+            "text": "Google's former head chef says the company was going through $1 million worth of chicken and 40,000 meals per month!http://read.bi/1pWlVVv\u00a0",
+            "username": "businessinsider",
+            "num_likes": 8,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "500341005262913536": {
+            "id": "500341005262913536",
+            "text": "Brrr! I dumped ice water on my head to raise awareness for ALS. Over to you, @ryanseacrest, @elonmusk, and @TEDchrishttp://b-gat.es/1oW9VV0\u00a0",
+            "username": "BillGates",
+            "num_likes": 5166,
+            "num_retweets": 5776,
+            "num_replies": 636
+        },
+        "499266570682900480": {
+            "id": "499266570682900480",
+            "text": "Shift (YC S14) Is Developing A Debit Card That Lets You Spend Digital Currency, Loyalty Points And Regular Moneyhttp://blog.ycombinator.com/shift-yc-s14-is-developing-a-debit-card-that-lets-you-spend-digital-currency-loyalty-points-and-regular-money\u00a0\u2026",
+            "username": "ycombinator",
+            "num_likes": 18,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "495619614454202368": {
+            "id": "495619614454202368",
+            "text": "Bad lawyers are unbelievably expensive. Good lawyers, by contrast, just charge a high hourly rate.",
+            "username": "StartupLJackson",
+            "num_likes": 66,
+            "num_retweets": 57,
+            "num_replies": 1
+        },
+        "494639532843610113": {
+            "id": "494639532843610113",
+            "text": "We got iPads for our playbooks today. Here's the only play loaded on mine..pic.twitter.com/3TcEpjx5wj",
+            "username": "Hunnicutt08",
+            "num_likes": 1554,
+            "num_retweets": 1800,
+            "num_replies": 229
+        },
+        "494252801598296066": {
+            "id": "494252801598296066",
+            "text": "Hey @instagram, congrats on the launch. Let us know if you need any extra swag.pic.twitter.com/pDdzRX1nYv",
+            "username": "Charge",
+            "num_likes": 31,
+            "num_retweets": 30,
+            "num_replies": 6
+        },
+        "494557420669394944": {
+            "id": "494557420669394944",
+            "text": "A year ago it was generally agreed that smartphones reached saturation.pic.twitter.com/cZmFwJElsr",
+            "username": "asymco",
+            "num_likes": 28,
+            "num_retweets": 31,
+            "num_replies": 12
+        },
+        "492367415599448064": {
+            "id": "492367415599448064",
+            "text": "A 5.5-inch iOS device: $750.\nA 7.9-inch iOS device: $399.\n\nWhich would you want to sell?",
+            "username": "neilcybart",
+            "num_likes": 17,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "491037693699047425": {
+            "id": "491037693699047425",
+            "text": "Thank you industrial revolution(s). Most important chart in human history right here.pic.twitter.com/xMbWpALiW4",
+            "username": "mcgd",
+            "num_likes": 277,
+            "num_retweets": 364,
+            "num_replies": 62
+        },
+        "482908460992851969": {
+            "id": "482908460992851969",
+            "text": "If/then statement for restrooms. IF sink and soap dispenser don\u2019t trigger, THEN door to leave bathroom does not open.",
+            "username": "BoredElonMusk",
+            "num_likes": 167,
+            "num_retweets": 123,
+            "num_replies": 13
+        },
+        "487976246102331396": {
+            "id": "487976246102331396",
+            "text": "App that live streams the inside of your fridge so you stop buying food you already have while at the grocery store.",
+            "username": "BoredElonMusk",
+            "num_likes": 166,
+            "num_retweets": 132,
+            "num_replies": 12
+        },
+        "489585243352223744": {
+            "id": "489585243352223744",
+            "text": "No wonder there was a bubble. src: http://mattermark.com/\u00a0pic.twitter.com/CqCOasjaYt",
+            "username": "aaronslewis",
+            "num_likes": 98,
+            "num_retweets": 117,
+            "num_replies": 14
+        },
+        "489519836016304128": {
+            "id": "489519836016304128",
+            "text": "Now you can do bitcoin price conversions in Google http://trib.al/1ZeB8ZO\u00a0pic.twitter.com/HDTC0y4Rbh",
+            "username": "TechCrunch",
+            "num_likes": 100,
+            "num_retweets": 220,
+            "num_replies": 12
+        },
+        "488875422566715392": {
+            "id": "488875422566715392",
+            "text": "pic.twitter.com/NhulVLzqst",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 119,
+            "num_retweets": 114,
+            "num_replies": 10
+        },
+        "469203269852868609": {
+            "id": "469203269852868609",
+            "text": "The financial crisis has forced rappers to pay more attention to the economypic.twitter.com/NmtnHl4i0Y",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 32,
+            "num_retweets": 23,
+            "num_replies": 3
+        },
+        "481151214336233472": {
+            "id": "481151214336233472",
+            "text": "TURN UP FOR MATHpic.twitter.com/klLZS9j2Ti",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 262,
+            "num_retweets": 262,
+            "num_replies": 22
+        },
+        "486514971883220992": {
+            "id": "486514971883220992",
+            "text": "dont hate the playa, hate yo parents socioeconomic statuspic.twitter.com/WewkFRruqZ",
+            "username": "Wu_Tang_Finance",
+            "num_likes": 107,
+            "num_retweets": 129,
+            "num_replies": 2
+        },
+        "488683027418324993": {
+            "id": "488683027418324993",
+            "text": "Went on sale 30 years ago today for $4,000pic.twitter.com/ATzyoBW1gx",
+            "username": "evankirstel",
+            "num_likes": 401,
+            "num_retweets": 1151,
+            "num_replies": 89
+        },
+        "488509773361324032": {
+            "id": "488509773361324032",
+            "text": "The first internet era: digitizing interfaces that already existed (catalogs, newspapers).\nNow: creating the ones that should have existed.",
+            "username": "levie",
+            "num_likes": 232,
+            "num_retweets": 179,
+            "num_replies": 9
+        },
+        "487452981085089792": {
+            "id": "487452981085089792",
+            "text": "The growth of bitcoin over the last year via @coindeskpic.twitter.com/I0poowwC93",
+            "username": "jpm25",
+            "num_likes": 94,
+            "num_retweets": 153,
+            "num_replies": 6
+        },
+        "351347878955986944": {
+            "id": "351347878955986944",
+            "text": "429 of the original Fortune 500 companies (1955) are no longer is business today. Adapt or die. #CMO",
+            "username": "ValaAfshar",
+            "num_likes": 169,
+            "num_retweets": 347,
+            "num_replies": 23
+        },
+        "481848576536875008": {
+            "id": "481848576536875008",
+            "text": "If Iran doesn't win this game, I am gonna go out looting tonight (if Iran DOES win this game I am also gonna go out looting...)",
+            "username": "mahbodmoghadam",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "481562226890125313": {
+            "id": "481562226890125313",
+            "text": "An Airbnb host got drunk and let himself into the house while a Business Insider employee was sleepinghttp://read.bi/1pLajVZ\u00a0",
+            "username": "businessinsider",
+            "num_likes": 17,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "471190358068449280": {
+            "id": "471190358068449280",
+            "text": "Not Silicon Valley. India! RT @textually Mumbai eatery delivers pizza using a drone; cops concerned http://dnai.in/cdGj\u00a0  via @dna",
+            "username": "tomiahonen",
+            "num_likes": 20,
+            "num_retweets": 34,
+            "num_replies": 7
+        },
+        "477151210659532801": {
+            "id": "477151210659532801",
+            "text": "NEW APP IDEA: \"Lovder\" (it's like TInder except you can find love on it)",
+            "username": "mahbodmoghadam",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "477284253403578369": {
+            "id": "477284253403578369",
+            "text": "The most staggering statistic in @VaclavSmil\u2019s new book: http://b-gat.es/1oYsC7G\u00a0pic.twitter.com/QPcBscSLXj",
+            "username": "BillGates",
+            "num_likes": 4261,
+            "num_retweets": 12421,
+            "num_replies": 933
+        },
+        "477216037184622592": {
+            "id": "477216037184622592",
+            "text": "Pre-orders open today for the Vessyl, a cup that identifies & measure liquids poured into it: http://onforb.es/1oTextX\u00a0pic.twitter.com/sAo7QhGV5k",
+            "username": "Forbes",
+            "num_likes": 77,
+            "num_retweets": 132,
+            "num_replies": 7
+        },
+        "476847983900626944": {
+            "id": "476847983900626944",
+            "text": "\u201cAlways look for the fool in the deal. If you don\u2019t find one, it\u2019s you.\u201d - Mark Cuban",
+            "username": "arshaan_b",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "476721905349967873": {
+            "id": "476721905349967873",
+            "text": "On this day in 1913, legendary head coach and two-time Super Bowl champion Vince Lombardi was born. #Winnerpic.twitter.com/68q5x4LmXH",
+            "username": "ESPNNFL",
+            "num_likes": 2542,
+            "num_retweets": 3224,
+            "num_replies": 48
+        },
+        "476463361329070080": {
+            "id": "476463361329070080",
+            "text": "My dentist is rolling out Oculus Rift for patients to wear during teeth cleanings and yes he's the best and no we're not in a bubble.",
+            "username": "msquinn",
+            "num_likes": 233,
+            "num_retweets": 165,
+            "num_replies": 34
+        },
+        "469828397967753217": {
+            "id": "469828397967753217",
+            "text": "\"If you can read, thank a teacher... If you can read in English, thank a veteran.\"",
+            "username": "GSElevator",
+            "num_likes": 2367,
+            "num_retweets": 2285,
+            "num_replies": 97
+        },
+        "474971393852182528": {
+            "id": "474971393852182528",
+            "text": "We can neither confirm nor deny that this is our first tweet.",
+            "username": "CIA",
+            "num_likes": 240289,
+            "num_retweets": 300233,
+            "num_replies": 25209
+        },
+        "474635066484613120": {
+            "id": "474635066484613120",
+            "text": "#1: When I'm out w/ friends, I always pick up the tab just so I can see the look of 'Damn, I should have ordered the filet.'",
+            "username": "GSElevator",
+            "num_likes": 719,
+            "num_retweets": 288,
+            "num_replies": 10
+        },
+        "472117804997427200": {
+            "id": "472117804997427200",
+            "text": "Best one I've seen yet.pic.twitter.com/Qo7dbJgCcJ",
+            "username": "richeisen",
+            "num_likes": 949,
+            "num_retweets": 1415,
+            "num_replies": 92
+        },
+        "471765739913764864": {
+            "id": "471765739913764864",
+            "text": "\"If you want to make a social media post about Maya Angelou, you should have to pass a quiz about her first.\"",
+            "username": "GSElevator",
+            "num_likes": 1848,
+            "num_retweets": 1420,
+            "num_replies": 54
+        },
+        "467695929496047617": {
+            "id": "467695929496047617",
+            "text": "Developers hard at work, stay tuned! #MakeAShakepic.twitter.com/vjKsm8pEV5",
+            "username": "ShakeOnItApp",
+            "num_likes": 5,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "464595329707696131": {
+            "id": "464595329707696131",
+            "text": "Meanwhile\u2026pic.twitter.com/FPMqiV3g9d",
+            "username": "NFL_Stats",
+            "num_likes": 134,
+            "num_retweets": 203,
+            "num_replies": 18
+        },
+        "461318959711535104": {
+            "id": "461318959711535104",
+            "text": ".@Snapchat founders @EvanSpiegel & @HelloBobby just took a selfie on my Snapchat at #TIME100 gala cc @businessinsiderpic.twitter.com/X0CnXF7nz5",
+            "username": "AlyWeisman",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "459063717724827650": {
+            "id": "459063717724827650",
+            "text": "I just decoded \u201cOnce again, certain \"cool kid\" companies and the cheerleading analysts are pretending...\u201d @NewsGeniushttp://news.rapgenius.com/3110853\u00a0",
+            "username": "bhorowitz",
+            "num_likes": 54,
+            "num_retweets": 26,
+            "num_replies": 7
+        },
+        "459069184664948736": {
+            "id": "459069184664948736",
+            "text": "Apple Announces Stunning 7-1 Stock Split And Another Big Increase In Its Buyback Programhttp://read.bi/Puj3Rs\u00a0",
+            "username": "businessinsider",
+            "num_likes": 7,
+            "num_retweets": 19,
+            "num_replies": 3
+        },
+        "455132538013364224": {
+            "id": "455132538013364224",
+            "text": "@pmarca @rajatsuri mine already on it !!pic.twitter.com/AXu7Z3I1pv",
+            "username": "ruchitgarg",
+            "num_likes": 48,
+            "num_retweets": 13,
+            "num_replies": 6
+        },
+        "454343468664774658": {
+            "id": "454343468664774658",
+            "text": "Shout out to Team 22 Ivey Business School LemonAID 2014. Raising funds for United Way. Donate online http://my.e2rm.com/mobile/mobilePersonalPage.aspx?registrationID=2299859&langPref=en-CA\u00a0\u2026",
+            "username": "usainbolt",
+            "num_likes": 151,
+            "num_retweets": 100,
+            "num_replies": 17
+        },
+        "453597245603336192": {
+            "id": "453597245603336192",
+            "text": ".@RippleLabs is proud to welcome @Susan_Athey to their Board of Directors  https://ripple.com/blog/welcome-susan-athey-to-ripple-labs/\u00a0\u2026",
+            "username": "Ripple",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "451801628841357313": {
+            "id": "451801628841357313",
+            "text": "It's easier to get a job at Goldman Sachs than at Walmarthttp://read.bi/1pWszbL\u00a0",
+            "username": "businessinsider",
+            "num_likes": 10,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "451726314190299136": {
+            "id": "451726314190299136",
+            "text": "Google Is Splitting Its Stock Today To Solidify Sergey Brin And Larry Page's Domination http://tcrn.ch/1ijI8r9\u00a0 by @romaindillet",
+            "username": "TechCrunch",
+            "num_likes": 21,
+            "num_retweets": 60,
+            "num_replies": 3
+        },
+        "450982390215999488": {
+            "id": "450982390215999488",
+            "text": "What about Ripple? RT @RosineSuire Controversial : Why There Is No Amazon of Banking http://buff.ly/1mrFUbV\u00a0 @MarcHochstein @rshevlin",
+            "username": "Ripple",
+            "num_likes": 4,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "448820007523188736": {
+            "id": "448820007523188736",
+            "text": "@ImGordonSun can't believe all that you read - make that much that you read - on FB or T or anywhere. #FactCheckEverythjngeh?",
+            "username": "WBrettWilson",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "448586872013324288": {
+            "id": "448586872013324288",
+            "text": "Facebook Bought Oculus Because It Thinks Virtual Reality Will Follow Mobile As The Next Great Computing Platform $FBhttp://read.bi/1lkpm8f\u00a0",
+            "username": "businessinsider",
+            "num_likes": 10,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "448516595468759040": {
+            "id": "448516595468759040",
+            "text": "The NFL says no more dunking over the goalpost. This one I don't understand. Looks like I got out just in time.",
+            "username": "TonyGonzalez88",
+            "num_likes": 5021,
+            "num_retweets": 7083,
+            "num_replies": 534
+        },
+        "447261751394832384": {
+            "id": "447261751394832384",
+            "text": "Proud to announce our latest investor @mcuban in our vision of affordable books for students http://www.packbackbooks.com\u00a0pic.twitter.com/lLyIlavSKo",
+            "username": "packbackco",
+            "num_likes": 303,
+            "num_retweets": 128,
+            "num_replies": 37
+        },
+        "446747587719475201": {
+            "id": "446747587719475201",
+            "text": "We're just four games into the Tournament. \n\nOnly 5.7% of over 11 million brackets are perfect.",
+            "username": "espn",
+            "num_likes": 2739,
+            "num_retweets": 6122,
+            "num_replies": 937
+        },
+        "441890195513024512": {
+            "id": "441890195513024512",
+            "text": "Five years ago, this guy was ignored. Now he's a billionairepic.twitter.com/rIk8SnnTsV",
+            "username": "Brilliant_Ads",
+            "num_likes": 1174,
+            "num_retweets": 1805,
+            "num_replies": 72
+        },
+        "441772665893027840": {
+            "id": "441772665893027840",
+            "text": "Everything in Australia can kill you!!! This place is a beautiful death trap!!! This wildlife shit can kiss my ass! I'm 2 small 4 this shit",
+            "username": "KevinHart4real",
+            "num_likes": 3522,
+            "num_retweets": 1774,
+            "num_replies": 212
+        },
+        "441665765666607104": {
+            "id": "441665765666607104",
+            "text": "Guess elevators go up and down, http://link.gs.com/dVzl\u00a0",
+            "username": "GoldmanSachs",
+            "num_likes": 600,
+            "num_retweets": 908,
+            "num_replies": 198
+        },
+        "438401200338530308": {
+            "id": "438401200338530308",
+            "text": "To aspiring entrepreneurs: Be tenacious. Once you've decided on your goals, remain fixed on them. Set the bar high!",
+            "username": "realDonaldTrump",
+            "num_likes": 394,
+            "num_retweets": 440,
+            "num_replies": 52
+        },
+        "438368562814943232": {
+            "id": "438368562814943232",
+            "text": "To aspiring entrepreneurs:  Trust your instincts. They are there for a reason.",
+            "username": "realDonaldTrump",
+            "num_likes": 430,
+            "num_retweets": 465,
+            "num_replies": 41
+        },
+        "438367939654602752": {
+            "id": "438367939654602752",
+            "text": "To aspiring entrepreneurs:  Be focused! Know your goals. Put everything you've got into what you're doing--every single day.",
+            "username": "realDonaldTrump",
+            "num_likes": 378,
+            "num_retweets": 403,
+            "num_replies": 25
+        },
+        "434141930704740353": {
+            "id": "434141930704740353",
+            "text": "What happens when a @TeslaMotors Model S get rear ended? #tank #amazingpic.twitter.com/GgEaFTKKdZ",
+            "username": "HighTechJoe",
+            "num_likes": 1272,
+            "num_retweets": 1681,
+            "num_replies": 145
+        },
+        "428954083748098048": {
+            "id": "428954083748098048",
+            "text": "#1: Happy Chinese New Year, or as we will all be saying in 20 years... Happy New Year.",
+            "username": "GSElevator",
+            "num_likes": 1450,
+            "num_retweets": 1757,
+            "num_replies": 58
+        },
+        "410348105432039424": {
+            "id": "410348105432039424",
+            "text": "#1: No one has a lower credit score than the guy posting pictures of himself flashing $100 bills.",
+            "username": "GSElevator",
+            "num_likes": 1783,
+            "num_retweets": 1782,
+            "num_replies": 88
+        },
+        "424429103727398913": {
+            "id": "424429103727398913",
+            "text": "57 is the number.  Ive always said whenever @KDTrey5 and I combine for 57 we have a great shot to win.",
+            "username": "nickcollison4",
+            "num_likes": 4024,
+            "num_retweets": 4858,
+            "num_replies": 334
+        },
+        "424628909963886592": {
+            "id": "424628909963886592",
+            "text": "Ride Along is da Best comedy of the year!!! I can say that becuz it's the 1st comedy movie of 2014 which makes my statement TRUE #RideAlong",
+            "username": "KevinHart4real",
+            "num_likes": 1944,
+            "num_retweets": 1391,
+            "num_replies": 108
+        }
+    },
+    "tweeted": {
+        "964965969356644352": {
+            "id": "964965969356644352",
+            "text": "Feels good to come out of stealth and announce The Stable Fund. https://twitter.com/stablefund/status/964953773499211776\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 22,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1019063951529730048": {
+            "id": "1019063951529730048",
+            "text": "Borrow funds to take advantage of arbitrage opportunities on decentralized exchanges and pay back all within one transaction.\n\nVery exciting! Big ups @maxcwolff and @richmcateerhttps://twitter.com/marbleprotocol/status/1018995475867828230\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 22,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1010202748564983808": {
+            "id": "1010202748564983808",
+            "text": "Congrats to the 2018 class of Thiel Fellows. Exciting to see lots of crypto this year!https://twitter.com/thielfellowship/status/1010172065976995841\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006637153760268291": {
+            "id": "1006637153760268291",
+            "text": "Now supposedly $2B valuation *~1 month* after the $1Bhttps://twitter.com/kateclarktweets/status/1001578639111016448\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006548099085586433": {
+            "id": "1006548099085586433",
+            "text": "Come build the future with us:https://angel.co/l4ventures/jobs\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1006546930602774529": {
+            "id": "1006546930602774529",
+            "text": "The first of a series of killer announcements by L4 Research!https://twitter.com/statechannels/status/1006536423086977024\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1004428333977780224": {
+            "id": "1004428333977780224",
+            "text": "Contrary to the hype, the road to web3 will be long and tough, but it\u2019s a future worth #buidl-ing:https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1001640497633411072": {
+            "id": "1001640497633411072",
+            "text": "ETHGlobal events aren\u2019t conferences  https://twitter.com/ricburton/status/1000290181176528896\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1000166535112134660": {
+            "id": "1000166535112134660",
+            "text": "Waterloo -> Denver -> Buenos Aires -> Singapore -> India -> Berlin -> San Francisco. Not yet tired of winning! @ETHGlobalhttps://medium.com/ethglobal/expanding-ethglobal-7d673f6555f2\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 39,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "999043673647022080": {
+            "id": "999043673647022080",
+            "text": "not trying to be a downer, but it's important to manage expectations!",
+            "username": "panashemahachi",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "999043672443207680": {
+            "id": "999043672443207680",
+            "text": "With all this Ethereum hype, keep in mind we're building on weak infra. Solidity is a bad language, compiler was audited recently, audit costs are high, what people launch with this infra is supposed to be immutable, and many interact w/ contracts that contain their net worth",
+            "username": "panashemahachi",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "997188347188494336": {
+            "id": "997188347188494336",
+            "text": "Must watch video. Unfortunately, the term \"cryptoeconomics\" has been perverted by many people on Twitter https://twitter.com/0xstark/status/997183731688341504\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "997144767954800640": {
+            "id": "997144767954800640",
+            "text": "The unstoppable @ETHGlobal machine keeps goinghttps://twitter.com/ETHBerlin/status/997101445919920128\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "992384955572539393": {
+            "id": "992384955572539393",
+            "text": "Crypto founders,\n\nIf your project operates like a traditional startup (vs a deep technical research project), you probably don't need to release a WP. It's a distraction from shipping.\n\nIf you need to describe a mechanism, just describe it in a paragraph.",
+            "username": "panashemahachi",
+            "num_likes": 31,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "983044320956682243": {
+            "id": "983044320956682243",
+            "text": "Crypto founders,\n- Speaking on panels\n- Going to fancy conferences\n- Advising other founders\n- Investing in other startups\n- Having coffee with investors (when not fundraising / asking for specific advice)\n\nLook like work, but aren't:http://www.aaronkharris.com/things-that-arent-work\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 45,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "979488795904172033": {
+            "id": "979488795904172033",
+            "text": "Check out https://oasis.direct\u00a0 (@oasisdirect). Best way to move between DAI / ETH / MKR.",
+            "username": "panashemahachi",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "975429514246340608": {
+            "id": "975429514246340608",
+            "text": "Dapp devs, in times like this your users will love you for using a stablecoin vs ETH... @MakerDAO @stablefund",
+            "username": "panashemahachi",
+            "num_likes": 46,
+            "num_retweets": 12,
+            "num_replies": 5
+        },
+        "971916688273809408": {
+            "id": "971916688273809408",
+            "text": "Come build the future with us!https://l4.ventures/jobs\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "971916687225188352": {
+            "id": "971916687225188352",
+            "text": "As a member of the investment team you can work on @stablefund - a $45 million fund working to increase adoption of Dai, a stable cryptocurrency to replace the US dollar.",
+            "username": "panashemahachi",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "971916686273081344": {
+            "id": "971916686273081344",
+            "text": "As an engineer / researcher you can work on https://counterfactual.com\u00a0 \u2013 a scaling solution that will allow decentralized applications to be usable by regular people. Imagine working on TCP/IP in the early days of the internet \u2014 this is similar in scale and opportunity.",
+            "username": "panashemahachi",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "971916685497188352": {
+            "id": "971916685497188352",
+            "text": ",@L4ventures is at the forefront of two key pieces of blockchain infrastructure: scalability and volatility of cryptocurrencies. We\u2019re looking for engineers, researchers, and investment associates/partners to move faster.",
+            "username": "panashemahachi",
+            "num_likes": 19,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "703546674979930112": {
+            "id": "703546674979930112",
+            "text": "Missed the late night hustle of a hackathon",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "693880573950042112": {
+            "id": "693880573950042112",
+            "text": ".@SpaceX is just a massive reminder that we must always think big and that no matter what you can always do better.",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "693878553247629312": {
+            "id": "693878553247629312",
+            "text": "Everytime I see this my eyes water https://www.youtube.com/watch?v=ANv5UfZsvZQ&index=6&list=LLDC4HNk1nJObmRm6V-QOhfQ\u00a0\u2026. Nothing ever does that to me...",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "689400467466530816": {
+            "id": "689400467466530816",
+            "text": "I feel like banks building services on top of their existing infrastructure is a 5 yr solution. Soon their core legacy code will kill them",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "689399869375574016": {
+            "id": "689399869375574016",
+            "text": "BMO launched a smart investment manager built in house.  Lol I don't trust their engineers with my money...",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "687222844326035456": {
+            "id": "687222844326035456",
+            "text": "No matter what happens at Yahoo @marissamayer will still be one of my role models.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "683605985764708352": {
+            "id": "683605985764708352",
+            "text": "So many mobile payments startups afaik are doing it wrong.  Cut Visa & MasterCard and use ACH.  Saves businesses sooooo much money",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "680816227871227904": {
+            "id": "680816227871227904",
+            "text": "It's almost like we have to define \"AI\" as a society.  A lot of things are coming out that are being called AI but aren't intelligent",
+            "username": "panashemahachi",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "656764603523796992": {
+            "id": "656764603523796992",
+            "text": "Msged @heroku support at 2AM, response in 5min and have kept a constant comment chain on a ticket since.  Other platforms wouldve taken days",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "642001653428785152": {
+            "id": "642001653428785152",
+            "text": "It\u2019s either, \u201cIt\u2019s been done before\u201d or \u201cIt will never work because it\u2019s never been done before\u201d - Jing Xuan Chen. cc @sama @pmarca",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "638202819032580096": {
+            "id": "638202819032580096",
+            "text": "Decided to try out some Microsoft dev tools and this happened...pic.twitter.com/SXFUNMttdu",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "630135340838293504": {
+            "id": "630135340838293504",
+            "text": "Saw an old TV Report where John Sculley said \"I dont believe there's such a thing as the home computer market.\"What are we ruling out today?",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "624747381423218689": {
+            "id": "624747381423218689",
+            "text": "Imagine being told by your boss that you can't wear a t-shirt at work...https://twitter.com/businessinsider/status/624746012360445952\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "623281721505644544": {
+            "id": "623281721505644544",
+            "text": "LOLpic.twitter.com/iktqFYJCbD",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "620322469614743552": {
+            "id": "620322469614743552",
+            "text": "7 Rejections - Medium http://nzzl.us/eJUBVlW\u00a0 via @nuzzel thanks @AntonioMarino0 @bchesky",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "593779469741068288": {
+            "id": "593779469741068288",
+            "text": "\"Maybe one day the most important community you belong to will be a virtual one, and it won't matter where you live physically\" #tbt #pg2008",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "589970481668878336": {
+            "id": "589970481668878336",
+            "text": "The question is no longer, \"Will Apple reach 1 trillion in market cap?\", the question is, \"When will Apple reach 1 trillion in market cap?\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "586247205394243584": {
+            "id": "586247205394243584",
+            "text": "What if you could take a pic of a random person and send them money? @facebook has the technology...",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "580843914350993409": {
+            "id": "580843914350993409",
+            "text": "Ember is beautiful.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "580664187917066240": {
+            "id": "580664187917066240",
+            "text": "5am RFS: TLDR App / Platform https://medium.com/@panashe/request-for-startup-news-tldr-7e11f1c1c507?source=tw-333d828d09b2-1427276078523\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "579298911287963649": {
+            "id": "579298911287963649",
+            "text": "Sunrise calendar has sooo much power and not just in terms of functionality.  It determines whether or not you get a specific app.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "579296336727654401": {
+            "id": "579296336727654401",
+            "text": "I want to try @timefulapp but I can't get it to sync w/Facebook calendar.  That's the biggest deal breaker and that's what sunrise got right",
+            "username": "panashemahachi",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "579045531076415488": {
+            "id": "579045531076415488",
+            "text": "Serious question: How was Google built without Google?",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "578575581962440704": {
+            "id": "578575581962440704",
+            "text": "The top talent in Waterloo wants to go to the valley.  Kinda worried that the growth of the region might be logarithmic.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "575595990431961088": {
+            "id": "575595990431961088",
+            "text": "Staying up so late that it's early",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "571742918580547584": {
+            "id": "571742918580547584",
+            "text": "The \uf8ff Watch is going to make a killing.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "571186399187210241": {
+            "id": "571186399187210241",
+            "text": "Wish @facebook's algos could detect massive trends, realize ppl are reposting and filter.They kinda do that but the dress it killing my feed",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "570687776699650048": {
+            "id": "570687776699650048",
+            "text": "TIL Terence Tao taught high school calc at 8 years old.  Imagine the barriers he had to overcome!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "568543066526748672": {
+            "id": "568543066526748672",
+            "text": "Exciting stuff - \"EyeCheck accepts the challenge of hardware to close the global vision deficit\" http://www.betakit.com/eyecheck-accepts-the-challenge-of-hardware-to-close-the-global-vision-deficit/\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "568492383345770496": {
+            "id": "568492383345770496",
+            "text": ".@LinkedIn 's recommendation feature is ridiculously awesome. People I met yesterday are at the top of my recommendation list today.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "567975136609095680": {
+            "id": "567975136609095680",
+            "text": "As a dev I always look to @CouleeCreative's website for inspiration.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "567036457337249792": {
+            "id": "567036457337249792",
+            "text": ".@Quora is my crack cocaine",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "566007963668996096": {
+            "id": "566007963668996096",
+            "text": "Anybody working on a project during reading week?",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "566005752146710529": {
+            "id": "566005752146710529",
+            "text": "Excited for the @UWvelocity big dinner tonight",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "565696402735783936": {
+            "id": "565696402735783936",
+            "text": "\"...couldnt hear ur complaints about stocks or earnings.Rockets that may save humanity someday are really loud\"-@BoredElonMusk,cc @elonmusk",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "564909825411530752": {
+            "id": "564909825411530752",
+            "text": "I just found out you can sign up for stuff on Twitter right from the feed! Awesome! @dickc @github @twitterpic.twitter.com/WAjWPmwT3D",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "564651377407066113": {
+            "id": "564651377407066113",
+            "text": "What will be the end outcome of younger people coding? Younger startup founders? Age bias?How will that affect the current education system?",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "564136084930846721": {
+            "id": "564136084930846721",
+            "text": "You want people to steal your ideas.  If people don't steal your ideas, then they're not good in the first place.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "563967818249801729": {
+            "id": "563967818249801729",
+            "text": "Poor Linear Layout #AndroidDevpic.twitter.com/uxfuon77ji",
+            "username": "panashemahachi",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "563746198964953088": {
+            "id": "563746198964953088",
+            "text": "Email clients and websites should communicate better. If I view an email about a notification, the website should know and remove the notice",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "563338924354187265": {
+            "id": "563338924354187265",
+            "text": "My answer to Is PHP a must for web developers? http://qr.ae/BnH6N\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "563115517406609408": {
+            "id": "563115517406609408",
+            "text": "My answer to What are some cool quotes by Travis Kalanick? http://qr.ae/Bh1eR\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "562828144936501248": {
+            "id": "562828144936501248",
+            "text": "Excited to see @kevinolearytv tomorrow",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "562764772018769920": {
+            "id": "562764772018769920",
+            "text": "Q:\"Does X work on all browsers?\"\nA:\"Let all browsers be defined as all browsers that aren't Internet Explorer...\"",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "562477051723390977": {
+            "id": "562477051723390977",
+            "text": "My answer to What are the hard truths about entrepreneurship that founders are scared to admit? http://qr.ae/BR9L7\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "561221911100006400": {
+            "id": "561221911100006400",
+            "text": "\u201c@bchesky: As of today, 30 million total guests have stayed on Airbnb. Nearly 20 million in the last year.\u201dFrom Obama O's to 30m.  Inspiring",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "561213173597241344": {
+            "id": "561213173597241344",
+            "text": "My answer to What are the books and tips one must get before going to an interview at Google? http://qr.ae/3z1YG\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "557044147530780673": {
+            "id": "557044147530780673",
+            "text": "I would rather use PHP #FiveWordsToRuinAJobInterview",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "557043725214711808": {
+            "id": "557043725214711808",
+            "text": "I don't have Node.js experience #FiveWordsToRuinAJobInterview",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "557028924195360768": {
+            "id": "557028924195360768",
+            "text": "My answer to If Ruby on Rails is not scalable, why do so many startups use it for their backend development? http://qr.ae/3pmRa\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "556349702799884288": {
+            "id": "556349702799884288",
+            "text": "I wish I knew about Active Admin earlier!!!!!!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "556318253556195328": {
+            "id": "556318253556195328",
+            "text": "\"I would like to thank everybody in 140 characters or less, and I just did\" - @jack",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "555072669952266241": {
+            "id": "555072669952266241",
+            "text": "1/I just realized lawyers can really pull one over people with the word \"or\".",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "554710752331046913": {
+            "id": "554710752331046913",
+            "text": "The UofT hacks mobile site is killing mepic.twitter.com/bnAXhe8Y1F",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "554497974739668992": {
+            "id": "554497974739668992",
+            "text": "Interesting, \"If you want advice, ask for money. But if you want money, ask for advice\" http://www.businessinsider.com/ilya-sermin-used-cold-emails-to-get-datayze-funded-by-mark-cuban-and-google-2015-1#ixzz3OZx8Iqoj\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "554104240487268352": {
+            "id": "554104240487268352",
+            "text": "Just started biphasic. Can\u2019t wait to see how it goes. #smartsleep #polyphasic #sleep http://smartsleepteam.com/\u00a0pic.twitter.com/pfavQqnxsa",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "553907280349917186": {
+            "id": "553907280349917186",
+            "text": "Check it out! I donated to Ari Breaks Even http://gofund.me/ariari\u00a0 via @gofundme",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "553757979015905280": {
+            "id": "553757979015905280",
+            "text": "The best thing is that they all work together perfectly and in-sync through @sunrise",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "553757491868467200": {
+            "id": "553757491868467200",
+            "text": ".@todoist + @evernote + @sunrise + Pomodoros = Maximum productivity",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "553130832173752320": {
+            "id": "553130832173752320",
+            "text": "Seriously have to do something about my sleep schedule",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "552307634939105280": {
+            "id": "552307634939105280",
+            "text": "I \uf8ff \uf8ff",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "552305574072053764": {
+            "id": "552305574072053764",
+            "text": "\"Hard work without discipline is like random vectors that cancel each other and result in a zero\" http://qr.ae/6tP5M\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "552259106015555586": {
+            "id": "552259106015555586",
+            "text": "The legendary Larry Smith has marked more than 10% of UW's alumni.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "551813489862668289": {
+            "id": "551813489862668289",
+            "text": "Got 80 K-Cups, I wonder how long these will last...",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "551197711673069568": {
+            "id": "551197711673069568",
+            "text": "Wow, the \"Lets add each other on twitter\" HH post really optimized my twitter feed.",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "551174685896245248": {
+            "id": "551174685896245248",
+            "text": "It's always really awkward when people post troll / hate posts on Facebook ads.  They can really ruin the company's ad campaign.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "551073726272638976": {
+            "id": "551073726272638976",
+            "text": "I wish people would watch @travisk's keynotes to fully understand surge pricing.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "551004672425996288": {
+            "id": "551004672425996288",
+            "text": "So many cool things to learn!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "551004408071585792": {
+            "id": "551004408071585792",
+            "text": "My indecision is absolutely killing me.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "550834782842945537": {
+            "id": "550834782842945537",
+            "text": "Can't wait to get an update on the numbers Uber had right after New Years.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "550792224913752066": {
+            "id": "550792224913752066",
+            "text": "RT \"Now entering year 11 of people calling a a new tech bubble: http://www.nytimes.com/2005/02/03/technology/03internet.html?pagewanted=print&position=\u00a0\u2026 \u2026 \" @pmarca",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "550418812513042434": {
+            "id": "550418812513042434",
+            "text": "Tonight is gonna be a massive night for Uber.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "549714735235874816": {
+            "id": "549714735235874816",
+            "text": "\"You'll never be dumber than you are now\"",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "549712855344631809": {
+            "id": "549712855344631809",
+            "text": "\"Worse is better\" - @dumbnamenumbers",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "549650486362927105": {
+            "id": "549650486362927105",
+            "text": "Node.js is the only real dev language",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "549389109475946496": {
+            "id": "549389109475946496",
+            "text": "\"@Uber needs to do  better job of telling the thousands of stories like this...\" - @traviskpic.twitter.com/sITqcAZLTF",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "549120172041469952": {
+            "id": "549120172041469952",
+            "text": "Macbook Air shuts off, turn it back on, restore closed apps and the terminal is on the exact line I was on before #wtf",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "548018717515579393": {
+            "id": "548018717515579393",
+            "text": ".@engadget says 2014 has been a year to forget for @travisk.  How? @Uber has grown like crazy w/ bumps.  That website is on my \"avoid\" list.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "547377822772510720": {
+            "id": "547377822772510720",
+            "text": ".@iconapop is actually amazing",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "547299927236542464": {
+            "id": "547299927236542464",
+            "text": "Honestly can't stop listening to 'Awake' \nhttp://youtu.be/qEI1_oGPQr0\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "547297014514733056": {
+            "id": "547297014514733056",
+            "text": "About to watch a Chief Keef video and an Algonquin College ad pops up. Idk, is that ad placement good or bad?",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "546466223009955840": {
+            "id": "546466223009955840",
+            "text": "The Sony Hackers Just Pranked The FBI http://www.businessinsider.com/the-sony-hackers-just-pranked-the-fbi-2014-12\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "546326911409209344": {
+            "id": "546326911409209344",
+            "text": "My answer to Does Travis Kalanick really have the second-highest Wii Tennis score in the world? http://qr.ae/qdEtt\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545921038048329728": {
+            "id": "545921038048329728",
+            "text": "So happy I came across @WholeWhale via a Youtube ad.  The Youtube team has some monster algorithms.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "545906566667710466": {
+            "id": "545906566667710466",
+            "text": "My answer to Why did Uber co-founder Garrett Camp leave Uber? @Uber @travisk @gmc http://qr.ae/q66vi\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545891632047214592": {
+            "id": "545891632047214592",
+            "text": "Betrayed by automation...pic.twitter.com/RMCnWiRFiS",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545890730699653120": {
+            "id": "545890730699653120",
+            "text": ".@Quora is like heroin for the mind.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545702945304875008": {
+            "id": "545702945304875008",
+            "text": ".@duetdisplay is just what I needed!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545349930622398465": {
+            "id": "545349930622398465",
+            "text": "It would be pretty cool to coop at Snapchat.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "545349864855322624": {
+            "id": "545349864855322624",
+            "text": "I said this before and I'll say it again, @evanspiegel is the man!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "539873971403890688": {
+            "id": "539873971403890688",
+            "text": "LOL \"Types of Co-op Students\" http://julianguyen.org/types-of-co-op-students/\u00a0\u2026 via @fleurchild",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "539869483146690560": {
+            "id": "539869483146690560",
+            "text": ".@evernote web is so beautiful.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "539809173366931456": {
+            "id": "539809173366931456",
+            "text": "Wolfram Alpha is the Semester 1 MVP.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "536410275608395776": {
+            "id": "536410275608395776",
+            "text": "Masterpiece: http://youtu.be/Z6ih1aKeETk\u00a0 via @YouTube",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "529843635228262400": {
+            "id": "529843635228262400",
+            "text": "Lol, my friend said, \"I feel like something amazing is going to happen in Waterloo while I'm gone.  Sucks that I'll be in Palo Alto.\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "527928347394048001": {
+            "id": "527928347394048001",
+            "text": "I wish blogs and journalism sites had a tl;dr.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "527847657558249472": {
+            "id": "527847657558249472",
+            "text": "How did you keep your Chai Labs team motivated during the financial crisis?  Any advice on selling people on your vision? #NspireDS",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "527464438920929280": {
+            "id": "527464438920929280",
+            "text": "http://www.businessinsider.com/zuckerbergs-3-5-and-10-year-facebook-plan-2014-10\u00a0\u2026 via @sai",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "526064749516435456": {
+            "id": "526064749516435456",
+            "text": "Gonna try to create a \"coding chain\" by coding everyday for at least 1.5 hours. I encourage everyone to do the same: http://www.pmahachi.com/blog/\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "525815207302410240": {
+            "id": "525815207302410240",
+            "text": "Have you heard \u2018The Assignment\u2019 by tPenguinLTG on #SoundCloud? https://soundcloud.com/tpenguinltg/the-assignment?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "525493901470466048": {
+            "id": "525493901470466048",
+            "text": "I really wish I could survive without sleep",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "525457147279446017": {
+            "id": "525457147279446017",
+            "text": "Brian Chesky is the man",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "524268844295393280": {
+            "id": "524268844295393280",
+            "text": "Lolpic.twitter.com/07MCxZcedv",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "523673101809491969": {
+            "id": "523673101809491969",
+            "text": "Buying an iPad has made me 10x more productive!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "520092608065179648": {
+            "id": "520092608065179648",
+            "text": ".@dumbnamenumbers and @mmmmmnmmmnmmn, congrats on being ranked amongst the coolest guys in NYC tech. Should be higher than 41 though (IMHO)",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "519986834143600640": {
+            "id": "519986834143600640",
+            "text": "Verifying that +panashe is my Bitcoin username. https://onename.io/panashe\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "515892980293836800": {
+            "id": "515892980293836800",
+            "text": "I'm always down to be the dumbest person in the room.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "513888302492303362": {
+            "id": "513888302492303362",
+            "text": "Great Business Quote: \"Today is terrible, tomorrow will be worse, but the day after will the great.\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "504357055566991361": {
+            "id": "504357055566991361",
+            "text": "Haha, @travisk, \"Competition is fun and I'm not sleeping.  If the other guy is sleeping I'm gonna kick his ass\" #Uber",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "504078592545140738": {
+            "id": "504078592545140738",
+            "text": "\"When I die I want my group project members to lower me into my grave so they can let me down one last time.\" #YikYak",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "502900403306913792": {
+            "id": "502900403306913792",
+            "text": "Genius Marketing - Samsung Galaxy S5 ALS Ice Bucket Challenge 1080p: http://youtu.be/NY6TKt6Lwgg\u00a0 via @YouTube",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "502866609372160000": {
+            "id": "502866609372160000",
+            "text": "Working to live or living to work?",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "502281592933330946": {
+            "id": "502281592933330946",
+            "text": "Most powerful words in business, \"If you build it, will they come?\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "501841945040539648": {
+            "id": "501841945040539648",
+            "text": "\"Oh wait, that's not ice...\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "501410845281492993": {
+            "id": "501410845281492993",
+            "text": "Uber is a lot more than what people think it is...",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "501402966910189568": {
+            "id": "501402966910189568",
+            "text": "Gatorade | Sweat It To Get It: Yoga ft. Peyton Manning: http://youtu.be/sdmY2lGKoCU\u00a0 via @YouTube",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "499961979541680129": {
+            "id": "499961979541680129",
+            "text": "V1. Is the chart useful on anything other than tablets?pic.twitter.com/dXkhab1p2A",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "499253138944430081": {
+            "id": "499253138944430081",
+            "text": "Wow, Brian Chesky hasn't owned a home since 2010.  There's no better proof of concept than that... #Airbnb",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "497823642068074497": {
+            "id": "497823642068074497",
+            "text": "Instant ratings drop \"Football Fans Are Going To Hate The NFL's New On-Field Advertising http://www.businessinsider.com/nfl-on-field-red-zone-advertising-2014-8\u00a0\u2026 \" @nfl",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "497638193617833984": {
+            "id": "497638193617833984",
+            "text": "Classy Move \"The NBA Store will refund your Andrew Wiggins Cavaliers jersey purchase http://usat.ly/1qZ3zXv\u00a0\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "496115844251152384": {
+            "id": "496115844251152384",
+            "text": "Blue horseshoe loves @ripple, @bitcoin and Codius.  #DecipherThat",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "495745400142589952": {
+            "id": "495745400142589952",
+            "text": "Twitter should delete usernames that haven't been active for 3+ years. @dickc what do you think?",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "494682647327563776": {
+            "id": "494682647327563776",
+            "text": "Wanna see creative app marketing? Follow @CyberDustApp and read @mcuban's promo tweets. #notsponsored",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "494651312189878275": {
+            "id": "494651312189878275",
+            "text": "One of the greatest tweets of all time \"@BoltDotCo: Hey @instagram, congrats on the launch. Let us know if you need any extra swag.\"",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "494163354274267136": {
+            "id": "494163354274267136",
+            "text": "http://www.businessinsider.com/elon-musk-will-appear-on-simpsons-2014-7\u00a0\u2026 via @bi_contributors",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "491795284414832640": {
+            "id": "491795284414832640",
+            "text": ".@KDTrey5 We know you have an iPhone.  That's why you go with @Android #notsponsored. - \"Ok my phone just froze. Bye.\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "491672632253632513": {
+            "id": "491672632253632513",
+            "text": "The market shrugged off Bill Ackman before (with MBIA) and he had the last laugh... #Herbalife $HLF",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "491271146222780416": {
+            "id": "491271146222780416",
+            "text": "Crazy how Google was built without Google.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "489613207963578370": {
+            "id": "489613207963578370",
+            "text": "I just need cryptocurrency inside information... #bitcoin #xrp",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "489498636443975680": {
+            "id": "489498636443975680",
+            "text": ".@ripple names is great.  Makes sending and receiving cryptocurrencies less \"cryptic\" #xrp",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "489433713302720512": {
+            "id": "489433713302720512",
+            "text": "Forget Google Analytics, FullStory lets you \u2018replay\u2019 any visitor\u2019s interaction with your website\n\nhttp://venturebeat.com/2014/07/16/forget-google-analytics-fullstory-lets-you-replay-any-visitors-interaction-with-your-website/\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "489169186636050432": {
+            "id": "489169186636050432",
+            "text": "Apple And IBM Announce Huge Partnership For Large Business Customers http://www.businessinsider.com/apple-ibm-enterprise-partnership-2014-7\u00a0\u2026 via @bi_enterprise",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "487777399275155456": {
+            "id": "487777399275155456",
+            "text": "The \"Genius\" branding is the next step to building an empire bigger than Facebook. @a16z @genius @mahbodmoghadam @pmarca @bhorowitz",
+            "username": "panashemahachi",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "487659706630942721": {
+            "id": "487659706630942721",
+            "text": "Miami fans walked out on the Heat during the finals.  Lebron walked out on them during free agency. #lebron #Cavs",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "487016478143971329": {
+            "id": "487016478143971329",
+            "text": "Ripple Trade is beautiful @ripple @RippleLabs #xrp",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "484817187148812288": {
+            "id": "484817187148812288",
+            "text": "\"If you're gonna do a job, do a job.  If you're not gonna do a job, don't do a job\" #DecipherThat",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "483677632051957760": {
+            "id": "483677632051957760",
+            "text": "Amazing - Class Day 2014: Salman Khan: http://www.youtube.com/watch?v=ac0Kq3jSsp4&list=PLPndSdqaaC1aOx3rPEqk1CSrMFPETkCL-&feature=share&index=3\u00a0\u2026 via @YouTube",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "483634796472463360": {
+            "id": "483634796472463360",
+            "text": "We haven't seen money in our lives.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "479017896849309700": {
+            "id": "479017896849309700",
+            "text": "Having an energy drink before studying was a terrible idea.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "477601174070120448": {
+            "id": "477601174070120448",
+            "text": "Today, Bitcoin's Doomsday Scenario Arrived http://www.businessinsider.com/today-bitcoins-doomsday-scenario-arrived-2014-6\u00a0\u2026 via @themoneygame #Ghash #Bitcoin",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "477183516363329536": {
+            "id": "477183516363329536",
+            "text": "Top Chinese High School's motto : \"If you haven\u2019t died from hard work, just work harder.\" #WeAreScrewed #China #TakeOver",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "476946179230420992": {
+            "id": "476946179230420992",
+            "text": "Soooo happy I took extra classes last year and in term one.  I only have to worry about two exams and they're a week away...",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "476117486698393600": {
+            "id": "476117486698393600",
+            "text": "#TheLastSummer",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "475477429356462080": {
+            "id": "475477429356462080",
+            "text": "\"A Government Researcher Got Busted Using Supercomputers To Mine For Bitcoin\" http://www.businessinsider.com/researcher-bitcoin-supercomputers-2014-6\u00a0\u2026 via @sai #Bitcoin #RT",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "475043921911746561": {
+            "id": "475043921911746561",
+            "text": "Now that high school's done, I must thank @khanacademy / Salman Khan for being there to clarify topics.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "475001991957975040": {
+            "id": "475001991957975040",
+            "text": "Lloyd Blankfein when he first started working at @GoldmanSachs : \"Gee I hope I can fool them for another week, a month, a year.\"",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "474368161182015489": {
+            "id": "474368161182015489",
+            "text": "Elon Musk: Ford Is Killing `Sex': http://youtu.be/VvWDBnhe588\u00a0 via @YouTube",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "474346048073129984": {
+            "id": "474346048073129984",
+            "text": "3200 yrds passing and 500 rushing now gets you that cash.  LOL. #nfl #49ers #Kap2020",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "474345225507188736": {
+            "id": "474345225507188736",
+            "text": "49ers signing Kaepernick to a $126 million deal is laughable #49ers #Kaepernick",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "474331554802438145": {
+            "id": "474331554802438145",
+            "text": "Kid Cudi is one of the greats. #FactsOnly",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "473504065976934402": {
+            "id": "473504065976934402",
+            "text": "Tim Cook has the world in his hands and we're waiting to see what he'll do.  #WWDC14 #Apple #AppleWWDC",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "473310106994499584": {
+            "id": "473310106994499584",
+            "text": "Last week of high school...",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "472467292635152384": {
+            "id": "472467292635152384",
+            "text": "No turning back...",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "472345211558199296": {
+            "id": "472345211558199296",
+            "text": "Still on a @Codecademy binge.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "472177135868575745": {
+            "id": "472177135868575745",
+            "text": "...That is a textbook example of ROI!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "472176994025623554": {
+            "id": "472176994025623554",
+            "text": "I hate to acknowledge Sterling, but he bought the @LAClippers for $12.5 million and it's gonna get sold for north of $2billion. That's 160x!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "471832836916269056": {
+            "id": "471832836916269056",
+            "text": "Marc Andreessen is quickly becoming one of my favourite business leaders.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "471356055747059712": {
+            "id": "471356055747059712",
+            "text": "I feel like Steve Ballmer will be kinda like @mcuban as owner of the Clippers.  That's what's needed, an owner who doesn't just sign a check",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "471355129472774144": {
+            "id": "471355129472774144",
+            "text": "I really hope Steve Ballmer buys the @LAClippers",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "471350209864163328": {
+            "id": "471350209864163328",
+            "text": "RT \"Uber Says Its Drivers Are Making $75,000 - $90,000 A Year\" http://www.businessinsider.com/uber-drivers-salary-90000-2014-5\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "471132964425052160": {
+            "id": "471132964425052160",
+            "text": "It must suck to run social media at a large company.  You have to sift through so much hate and garbage tweets to find something meaningful.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "471051723986206720": {
+            "id": "471051723986206720",
+            "text": "Rap Genius' Cofounder Has Been Fired After Comments About California Shooter http://www.businessinsider.com/rap-genius-cofounder-fired-2014-5\u00a0\u2026 via @sai",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "469933106384748544": {
+            "id": "469933106384748544",
+            "text": "Steve jobs was the exception to every business rule. #factsonly ...",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "469657734263349248": {
+            "id": "469657734263349248",
+            "text": "Jed McCaleb killed Ripple today.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "468868739069673472": {
+            "id": "468868739069673472",
+            "text": ".@Pocket is the app I've been looking for for ages!",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "467147613067022337": {
+            "id": "467147613067022337",
+            "text": "This data project is actually pretty fun.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "467027847945936896": {
+            "id": "467027847945936896",
+            "text": "If minimum wage is increased to $12/hr it will kill jobs and hurt Canada's future.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "467027514791976960": {
+            "id": "467027514791976960",
+            "text": "Politics is the worst.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "466729343386136576": {
+            "id": "466729343386136576",
+            "text": "Who could ever foresee.....http://youtu.be/oB7cjH0gtMQ\u00a0. #facebook #MarkZuckerberg @facebook",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "465594324856496128": {
+            "id": "465594324856496128",
+            "text": ".@udemy's re-brand looks amazing.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "464610687172747264": {
+            "id": "464610687172747264",
+            "text": "...Jadeveon Clowney or Blake Bortles should've done it just to cheese him. #NFLDraft2014",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "464610424345088000": {
+            "id": "464610424345088000",
+            "text": "Funny to me how Johnny Football still did the money sign even though he lost millions by slipping in the draft. #NFLDraft2014",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "464592601408999424": {
+            "id": "464592601408999424",
+            "text": "Apple In Negotiations To Buy Audio Company Beats Electronics For $3.2 Billion http://www.businessinsider.com/apple-to-buy-beats-2014-5\u00a0\u2026 via @sai",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "461986636415242240": {
+            "id": "461986636415242240",
+            "text": ".@ripple mentioned again by #BI: The 10 Most Promising Startups Building Stuff With Blockchain Technology http://www.businessinsider.com/10-most-promising-blockchain-companies-2014-5\u00a0\u2026 #ripple",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "460921812453302272": {
+            "id": "460921812453302272",
+            "text": ".@LinkedIn's \"People You May Know\" algo is amazing.  It's now suggesting people I saw in Youtube videos.  #EngineeringAtItsFinest",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "459427496253861888": {
+            "id": "459427496253861888",
+            "text": "Never studying while listening to music again.  I got stuck during a test and all that was going through my mind was Kid Cudi.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "458265447578607616": {
+            "id": "458265447578607616",
+            "text": "No matter how much money you have, it seems like you'll always end up paying Tim Cook. #Apple #BusinessAtItsFinest #Beast",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "457166641776701440": {
+            "id": "457166641776701440",
+            "text": "Does an acceptance still count if it's not reported on the Student Awards Forum?",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "457166350616518656": {
+            "id": "457166350616518656",
+            "text": "Fireside Chats are the best way to unwind and still get great insight on tech. @TechCrunch @PandoDaily",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "456255054740066304": {
+            "id": "456255054740066304",
+            "text": "So much respect for the TTC and Toronto Hydro.  Things could've been a lot worse! #poweroutage",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "455873604979142656": {
+            "id": "455873604979142656",
+            "text": "(dot) @ is now one of the most common things on twitter.  The \"tweets and replies\" feature is a double edged sword.  #Twitter",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "454699728681197568": {
+            "id": "454699728681197568",
+            "text": "Awesome how @usainbolt gave a shoutout to support #IveyLemonaidpic.twitter.com/TeEtabkDgV",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "454646049601114112": {
+            "id": "454646049601114112",
+            "text": "Marinecoin: Pump and Dump Coin?: http://www.thepowerthinker.com/marinecoin-pump-dump/\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "454610091325394944": {
+            "id": "454610091325394944",
+            "text": "...But then again, you only make money on #Bitcoin if you sell it.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "454606518915039232": {
+            "id": "454606518915039232",
+            "text": "Bitcoin yesterday dropped to $353, now it's $425. Missed out on about 20% return.  #bitcoinpic.twitter.com/xn4MNCXs1T",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "454603486772989954": {
+            "id": "454603486772989954",
+            "text": "Significantly premined cryptocurrencies are possibly the biggest scam on the internet. But if you're on the right side you get huge returns!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "454365644985597952": {
+            "id": "454365644985597952",
+            "text": "Suit basics from Business Insider.  #business #BIpic.twitter.com/Z3yMTqf8dJ",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "454365164255846400": {
+            "id": "454365164255846400",
+            "text": "Life's like a treadmill, people running in place - Jay Z",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "453603425503031296": {
+            "id": "453603425503031296",
+            "text": "Linkedin's system picked up that I used to watch \"The Apprentice.\" So they set up suggestions accordingly.pic.twitter.com/1cewfchBrr",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "453301047750967296": {
+            "id": "453301047750967296",
+            "text": "Cryptocurrencies are like the Internet in the early stages.  Only a few trust them, but in 20 yrs they'll be the norm. #cryptocurrency",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "451819598803791872": {
+            "id": "451819598803791872",
+            "text": "Sacramento Kings NBA Franchise Launches Bitcoin-Only Online Store #NBA #bitcoin http://coinde.sk/1gSrUaI\u00a0 via @coindesk",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "451808708411265025": {
+            "id": "451808708411265025",
+            "text": "From an applicant per job opening standpoint it's easier to get a job at Goldman Sachs than Walmart http://www.businessinsider.com/applicants-to-openings-at-goldman-walmart-2014-4\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "451496051917078528": {
+            "id": "451496051917078528",
+            "text": "\"http://berkshirehathaway.com\u00a0\" is so plain but it really gets the job done.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "451200844478685184": {
+            "id": "451200844478685184",
+            "text": "Decided to take my talents to Western and accept my AEO offer. @IveyHBA The 2+2 really was the deciding factor! CS and Business? SOLD",
+            "username": "panashemahachi",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "451067400847630338": {
+            "id": "451067400847630338",
+            "text": "People always ignore innovation in its early stages.  Then they wonder why there's inequality. #cmon",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "450814232909844480": {
+            "id": "450814232909844480",
+            "text": "Awesome, Square now has Bitcoin integration",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "450097100064575488": {
+            "id": "450097100064575488",
+            "text": "If you wanna get an intro to CompSci sign up for @Harvard and @edXOnline's CS50 MOOC https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022\u00a0\u2026",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "450010548470419456": {
+            "id": "450010548470419456",
+            "text": "Missed opportunity.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "449682841350053888": {
+            "id": "449682841350053888",
+            "text": "It's amazing how much of an influence @a16z has on our lives.  @bhorowitz and @pmarca are doing great things!",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "449657164857368577": {
+            "id": "449657164857368577",
+            "text": "How did Bitcoin early adopters handle such wild price swings?!?!?!?! #Cryptocurrency",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "449204820902035456": {
+            "id": "449204820902035456",
+            "text": "I knew Mahbod was a genius, but I never knew he was so insightful.  The \"Genius\" platform is a great idea! @RapGenius",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "449204017248600064": {
+            "id": "449204017248600064",
+            "text": "Mahbod Moghadam kills me. He's a beast! http://youtu.be/nrEyxNqyw24\u00a0 @RapGenius @PoetryGenius @newsgenius",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "448598062261211136": {
+            "id": "448598062261211136",
+            "text": "A girl sold 18 107 girl scout cookies in 7 weeks.  That there is entrepreneurship and hustle!",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "448590675190104065": {
+            "id": "448590675190104065",
+            "text": "Honestly, Zuck isnt even 30.  What will his empire be like when he's 50? #scary",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "447942909950562305": {
+            "id": "447942909950562305",
+            "text": "There's nothing riskier than trading cryptocurrencies.  Talk about volatility!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "447932584626884608": {
+            "id": "447932584626884608",
+            "text": "If only there was a Waterloo CS/ Ivey HBA Double Degree.",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "447817600471678976": {
+            "id": "447817600471678976",
+            "text": "Wiggins really hates zone, 4 points? No aggression? Damn... #MarchMadness",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "447024199161221121": {
+            "id": "447024199161221121",
+            "text": "Wow, it's so obvious that @MarinecoinTeam0 is a pump and dump.  http://www.thepowerthinker.com/marinecoin-pump-dump/\u00a0\u2026 #marinecoin #bitcoin",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "446515199831334912": {
+            "id": "446515199831334912",
+            "text": "So cheesed. I was suppose to go all in on this Econ essay but the teacher's website isn't working.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "446460072844361728": {
+            "id": "446460072844361728",
+            "text": "Officially signed up for Euclid",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "446121134438617088": {
+            "id": "446121134438617088",
+            "text": "Dubai will have 400 Bitcoin\u00a0ATMs? http://wp.me/p4kCWo-2P\u00a0",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "445559935938461696": {
+            "id": "445559935938461696",
+            "text": "If you're thinking about getting into @ripple you MUST read this article http://www.thepowerthinker.com/thoughts-ripple-xrp/\u00a0\u2026 #cryptocurrency #bitcoin",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "445392441000996865": {
+            "id": "445392441000996865",
+            "text": "...Or a 1 in 128 billion depending on how you look at it. #MarchMadness",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "445392304287666176": {
+            "id": "445392304287666176",
+            "text": "There's a 1 in 576,460,752,303,423,488 chance of picking the perfect #MarchMadness bracket & getting $1 billion from my hero @WarrenBuffett",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "445271325309812736": {
+            "id": "445271325309812736",
+            "text": "My thoughts on Ripple http://www.thepowerthinker.com/thoughts-ripple-xrp/\u00a0\u2026 \u2026 #cryptocurrency",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "444915762822529026": {
+            "id": "444915762822529026",
+            "text": "Congressman Calls To Ban U.S. Dollar In Response To Plea For Bitcoin Ban http://techcrunch.com/2014/03/05/congressman-calls-to-ban-u-s-dollar-in-response-to-bitcoin-ban/?ncid=twittersocialshare\u00a0\u2026 via @techcrunch",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "443491183890026496": {
+            "id": "443491183890026496",
+            "text": "3 yrs ago I couldn't imagine a world where @dallascowboys and @DeMarcusWare are separated.  I guess things change and the NFL is a business",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "441672860755427328": {
+            "id": "441672860755427328",
+            "text": "Sucks that @GSElevator's book deal got cancelled",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "441631896988946432": {
+            "id": "441631896988946432",
+            "text": "Have a shaqtacious birthday @SHAQ",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "441298819729199104": {
+            "id": "441298819729199104",
+            "text": "Guys, check out the app \"Quick Ninja\" in the Google Play Store.  http://goo.gl/6BHhvw\u00a0 It's in beta, but still give it a try #android",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "439500819185295361": {
+            "id": "439500819185295361",
+            "text": "This is pretty interesting http://goo.gl/Xh6Z5Q\u00a0 It makes reading so much more efficient. (from @businessinsider )",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "439139144066138113": {
+            "id": "439139144066138113",
+            "text": "What?, Tupac is the most unpopular artist in Kansas and Pennsylvania http://www.businessinsider.com/unpopular-bands-2014-2\u00a0\u2026 #BI",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "438126458150481920": {
+            "id": "438126458150481920",
+            "text": "Financial applications in Calc are actually sooo interesting!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "436712389879156736": {
+            "id": "436712389879156736",
+            "text": "Bitcoin is down 12%, perfect time to buy, let the price increase and trade for XRP? #bitcoin #mtgox #mtgoxprotest #ripple #xrp",
+            "username": "panashemahachi",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "435980178758438912": {
+            "id": "435980178758438912",
+            "text": "Economics is going sooo slow.  The content being taught can be explained way quicker!",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "435521487080927235": {
+            "id": "435521487080927235",
+            "text": "If I don't get scammed I'll possibly have the best way of making money from Bitcoin.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "435520567806922752": {
+            "id": "435520567806922752",
+            "text": "I better not get scammed on eBay",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "435197277913620480": {
+            "id": "435197277913620480",
+            "text": "@GordawnSun Yea man",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "435192561724952576": {
+            "id": "435192561724952576",
+            "text": "Not gonna watch the All Star game tonight",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "434905811131723776": {
+            "id": "434905811131723776",
+            "text": "Are you kidding me? The dunk contest ended just like that? The new format is horrible! #SpriteSlam",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "434077580015071232": {
+            "id": "434077580015071232",
+            "text": "So glad @rippleunion gave me 500XRP for being an early user! #ripple #VC",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "433810766152474624": {
+            "id": "433810766152474624",
+            "text": "I really wonder what @elonmusk was like at @queensu before he left",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "433803068597997568": {
+            "id": "433803068597997568",
+            "text": "YES, updated marks are now in OUAC",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "433802745674338305": {
+            "id": "433802745674338305",
+            "text": "Might invest a lot in @ripple @RippleLabs. #VC #XRP",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "433348601134059521": {
+            "id": "433348601134059521",
+            "text": "Quants are insane",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "432643570483212288": {
+            "id": "432643570483212288",
+            "text": "Damn, the #airyeezy2 's sold out in 10 minutes.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "430900378293391360": {
+            "id": "430900378293391360",
+            "text": "LOL, a must watch!  https://www.youtube.com/watch?v=BVB3RqjV_y0#t=137\u00a0\u2026 \u2026 #LieWitnessNews.",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "430825784618409984": {
+            "id": "430825784618409984",
+            "text": "Wow, I just realized that I've been on @facebook for almost 7 years and I've only changed my pic 6 times.",
+            "username": "panashemahachi",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "430015662174380032": {
+            "id": "430015662174380032",
+            "text": "Doctor: \" Patriots are gonna win the Superbowl\" http://youtu.be/FiEgRSwJpjY\u00a0 #cmonman #SB48",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "429758949605117953": {
+            "id": "429758949605117953",
+            "text": "Interestingly enough, Kanye's mom had a PhD",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "429648927474728960": {
+            "id": "429648927474728960",
+            "text": "Sooo cheesed",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "429648295762214912": {
+            "id": "429648295762214912",
+            "text": "Finished my Schulich app and Windows 8 tells me this...pic.twitter.com/tFjALzztzA",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "429436043859750912": {
+            "id": "429436043859750912",
+            "text": "Shark Tank = (Dragon's Den)^2",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "429435052087197696": {
+            "id": "429435052087197696",
+            "text": "Yes, finished Advanced Functions on a very high note",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "425664571425042432": {
+            "id": "425664571425042432",
+            "text": "$JCP just keeps on tumbling...",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "425483622955499522": {
+            "id": "425483622955499522",
+            "text": "It boggles my mind how @snapchat has over 30 million active users and CEO @evanspiegel has only 9k twitter followers. #mindblown",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "425482525352263680": {
+            "id": "425482525352263680",
+            "text": "Officially done Philosophy.  Looking back, it was a sick course.",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "424735736584077312": {
+            "id": "424735736584077312",
+            "text": "Gonna be up all night. #thegrind",
+            "username": "panashemahachi",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "424623434169995265": {
+            "id": "424623434169995265",
+            "text": "Haven't been on twitter in ages!",
+            "username": "panashemahachi",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "statechannels": 1,
+        "magmoHQ": 1,
+        "liamihorne": 1,
+        "Iiterature": 1,
+        "thielfellowship": 2,
+        "simondlr": 1,
+        "RhysLindmark": 1,
+        "TheRealKartik": 1,
+        "ethbuenosaires": 1,
+        "ETHGlobal": 4,
+        "L4ventures": 1,
+        "VitalikButerin": 1,
+        "Kasparov63": 1,
+        "William_Blake": 1,
+        "maccaw": 1,
+        "expa": 1,
+        "rodger": 1,
+        "travisk": 3,
+        "eileentso": 1,
+        "Lerg": 1,
+        "jankoum": 1,
+        "foundersfund": 1,
+        "calestous": 1,
+        "harrymccracken": 1,
+        "businessinsider": 10,
+        "ValaAfshar": 2,
+        "DavidSacks": 1,
+        "paulg": 3,
+        "sama": 8,
+        "DShankar": 2,
+        "alsaqqaf": 1,
+        "HackerNewsOnion": 1,
+        "levie": 3,
+        "dickc": 2,
+        "thegautamgupta": 1,
+        "POTUS44": 1,
+        "naval": 1,
+        "SarcasmPage": 1,
+        "poswald": 1,
+        "bchesky": 2,
+        "netflix": 1,
+        "stripe": 1,
+        "athennian": 1,
+        "BoredElonMusk": 14,
+        "abr71310": 2,
+        "vjsubr": 1,
+        "PHP_CEO": 1,
+        "iamdevloper": 2,
+        "TechCrunch": 5,
+        "freeCodeCamp": 1,
+        "drewhouston": 1,
+        "DanielleFong": 1,
+        "hackthethings": 1,
+        "Khanoisseur": 1,
+        "jdan": 1,
+        "jeffjarvis": 1,
+        "ConanOBrien": 1,
+        "Wu_Tang_Finance": 8,
+        "barrysilbert": 1,
+        "tomcoates": 1,
+        "Noahpinion": 1,
+        "eye_check": 1,
+        "sequoia": 1,
+        "DavidsonJohnR": 1,
+        "joshk": 1,
+        "WSJ": 1,
+        "Namecheap": 1,
+        "GSElevator": 6,
+        "Forbes": 2,
+        "elonmusk": 1,
+        "jillpainter": 1,
+        "BillGates": 2,
+        "ycombinator": 1,
+        "StartupLJackson": 1,
+        "Hunnicutt08": 1,
+        "Charge": 1,
+        "asymco": 1,
+        "neilcybart": 1,
+        "mcgd": 1,
+        "aaronslewis": 1,
+        "evankirstel": 1,
+        "jpm25": 1,
+        "mahbodmoghadam": 2,
+        "tomiahonen": 1,
+        "arshaan_b": 1,
+        "ESPNNFL": 1,
+        "msquinn": 1,
+        "CIA": 1,
+        "richeisen": 1,
+        "ShakeOnItApp": 1,
+        "NFL_Stats": 1,
+        "AlyWeisman": 1,
+        "bhorowitz": 1,
+        "ruchitgarg": 1,
+        "usainbolt": 1,
+        "Ripple": 2,
+        "WBrettWilson": 1,
+        "TonyGonzalez88": 1,
+        "packbackco": 1,
+        "espn": 1,
+        "Brilliant_Ads": 1,
+        "KevinHart4real": 2,
+        "GoldmanSachs": 1,
+        "realDonaldTrump": 3,
+        "HighTechJoe": 1,
+        "nickcollison4": 1
+    },
+    "users_retweeted": [
+        "BoredElonMusk",
+        "businessinsider",
+        "sama",
+        "Wu_Tang_Finance",
+        "GSElevator",
+        "TechCrunch",
+        "ETHGlobal",
+        "travisk",
+        "paulg",
+        "levie",
+        "realDonaldTrump",
+        "thielfellowship",
+        "ValaAfshar",
+        "DShankar",
+        "dickc",
+        "bchesky",
+        "abr71310",
+        "iamdevloper",
+        "Forbes",
+        "BillGates",
+        "mahbodmoghadam",
+        "Ripple",
+        "KevinHart4real",
+        "statechannels",
+        "magmoHQ",
+        "liamihorne",
+        "Iiterature",
+        "simondlr",
+        "RhysLindmark",
+        "TheRealKartik",
+        "ethbuenosaires",
+        "L4ventures",
+        "VitalikButerin",
+        "Kasparov63",
+        "William_Blake",
+        "maccaw",
+        "expa",
+        "rodger",
+        "eileentso",
+        "Lerg",
+        "jankoum",
+        "foundersfund",
+        "calestous",
+        "harrymccracken",
+        "DavidSacks",
+        "alsaqqaf",
+        "HackerNewsOnion",
+        "thegautamgupta",
+        "POTUS44",
+        "naval",
+        "SarcasmPage",
+        "poswald",
+        "netflix",
+        "stripe",
+        "athennian",
+        "vjsubr",
+        "PHP_CEO",
+        "freeCodeCamp",
+        "drewhouston",
+        "DanielleFong",
+        "hackthethings",
+        "Khanoisseur",
+        "jdan",
+        "jeffjarvis",
+        "ConanOBrien",
+        "barrysilbert",
+        "tomcoates",
+        "Noahpinion",
+        "eye_check",
+        "sequoia",
+        "DavidsonJohnR",
+        "joshk",
+        "WSJ",
+        "Namecheap",
+        "elonmusk",
+        "jillpainter",
+        "ycombinator",
+        "StartupLJackson",
+        "Hunnicutt08",
+        "Charge",
+        "asymco",
+        "neilcybart",
+        "mcgd",
+        "aaronslewis",
+        "evankirstel",
+        "jpm25",
+        "tomiahonen",
+        "arshaan_b",
+        "ESPNNFL",
+        "msquinn",
+        "CIA",
+        "richeisen",
+        "ShakeOnItApp",
+        "NFL_Stats",
+        "AlyWeisman",
+        "bhorowitz",
+        "ruchitgarg",
+        "usainbolt",
+        "WBrettWilson",
+        "TonyGonzalez88",
+        "packbackco",
+        "espn",
+        "Brilliant_Ads",
+        "GoldmanSachs",
+        "HighTechJoe",
+        "nickcollison4"
+    ]
+}

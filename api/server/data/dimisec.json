@@ -1,0 +1,1130 @@
+{
+    "is_complete": true,
+    "username": "dimisec",
+    "retweeted": {
+        "834752389710114816": {
+            "id": "834752389710114816",
+            "text": "I am very happy to announce that we found the first SHA1 collision -  https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html\u00a0\u2026 \u2026 #security #TLS #SHA1 #SHAttered",
+            "username": "elie",
+            "num_likes": 1955,
+            "num_retweets": 2036,
+            "num_replies": 59
+        },
+        "743838095313887232": {
+            "id": "743838095313887232",
+            "text": "Yahoo\u2019s Bug Bounty has paid >$1.7M to >2K researchers for >2K bugs. @dugdep provides additional insights here:https://yahoo-security.tumblr.com/post/146014375610/insights-into-yahoos-bug-bounty-program\u00a0\u2026",
+            "username": "YahooSecurity",
+            "num_likes": 9,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "687333164616970240": {
+            "id": "687333164616970240",
+            "text": "Breaking news: ChakraCore GitHub repository is now open | Microsoft Edge Dev Bloghttp://owl.li/X0RYA\u00a0",
+            "username": "triptych",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "660948102375866368": {
+            "id": "660948102375866368",
+            "text": "SO COOL. An open source Abstract Algebra textbook, online, with built-in Sage examples!! http://abstract.ups.edu/aata/\u00a0",
+            "username": "dzackgarza",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "592462409291280384": {
+            "id": "592462409291280384",
+            "text": "Finally something new and interesting in #golang dependency management https://github.com/constabulary/gb\u00a0 /ht @davecheney",
+            "username": "wolfeidau",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "588250109240090624": {
+            "id": "588250109240090624",
+            "text": "Looking for security trouble spots in Go code http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/\u00a0\u2026 < Golang looks secure. Interesting read",
+            "username": "kkotowicz",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "586175035800428545": {
+            "id": "586175035800428545",
+            "text": "In Munich? Come to the #golang Meetup tonight 7pm & learn the history of Go and what's happening in Go 1.5 & Go 1.6!http://www.meetup.com/Munich-Gophers-Go-User-Group/events/221510550/\u00a0\u2026",
+            "username": "bradfitz",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "571362976055234562": {
+            "id": "571362976055234562",
+            "text": "Excited for OWASP AppSecUSA 2015 in San Francisco! - Call For Papers Is Open http://appsecusa.org/\u00a0 #AppSec #DevOps #InfoSec",
+            "username": "owasp",
+            "num_likes": 5,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "562218665345441792": {
+            "id": "562218665345441792",
+            "text": "Google's Go Programming Language: Taking Cloud Development By Storm http://bit.ly/1ztA8MJ\u00a0",
+            "username": "ionutroghina",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "520090454122307584": {
+            "id": "520090454122307584",
+            "text": "I'm unable to use my @dotGoEu ticket for Friday in Paris. Anybody know any students or others who would want to go for free? #golang",
+            "username": "blakegentry",
+            "num_likes": 0,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "484740796869259264": {
+            "id": "484740796869259264",
+            "text": "testssl.sh has another git repo: besides https://bitbucket.org/nginx-goodies/testssl.sh\u00a0\u2026 also https://github.com/drwetter/testssl.sh\u00a0\u2026",
+            "username": "drwetter",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "465147487532384258": {
+            "id": "465147487532384258",
+            "text": "My brain dump about profiling #golang programs http://goo.gl/ukscm8\u00a0",
+            "username": "dvyukov",
+            "num_likes": 50,
+            "num_retweets": 23,
+            "num_replies": 3
+        },
+        "460435561476784128": {
+            "id": "460435561476784128",
+            "text": "All good gopher should read this.\nHow to use #golang in production, from the @soundcloud team.\nhttp://bit.ly/1hAUNIy\u00a0\nVia @oleiade",
+            "username": "francesc",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "427658096375529472": {
+            "id": "427658096375529472",
+            "text": "For example, channels http://tour.golang.org/#66\u00a0 as IPC between goroutines is fun. #golang",
+            "username": "jschauma",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "423093777817812992": {
+            "id": "423093777817812992",
+            "text": "Just found out about dotGo conference in Paris!!!  Hooray for a European #golang conference http://www.dotgo.eu/\u00a0",
+            "username": "bketelsen",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "410978140144414720": {
+            "id": "410978140144414720",
+            "text": "\"Go for Pythonistas\" talk on @YouTube http://youtu.be/elu0VpLzJL8\u00a0\nSlides available here http://talks.golang.org/2013/go4python.slide\u00a0\u2026\n#golang #python",
+            "username": "golang",
+            "num_likes": 42,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "412585592115851264": {
+            "id": "412585592115851264",
+            "text": "JavaScript now has native promises & DOM APIs are adopting them!\n\nHere's how they work, including polyfill:http://www.html5rocks.com/en/tutorials/es6/promises/\u00a0\u2026",
+            "username": "jaffathecake",
+            "num_likes": 269,
+            "num_retweets": 263,
+            "num_replies": 7
+        },
+        "398278841157693440": {
+            "id": "398278841157693440",
+            "text": "Are you a Pythonista and curious about Go? \nCheck my talk \"Go for Pythonistas\" on http://talks.golang.org/2013/go4python.slide\u00a0\u2026\nIncludes exercises!\n#golang #python",
+            "username": "francesc",
+            "num_likes": 5,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "370914426318516224": {
+            "id": "370914426318516224",
+            "text": "\"Insane in the IFRAME -- The case for client-side HTML sanitization\" on @slideshare http://www.slideshare.net/404aspx/insane-in-the-iframe\u00a0\u2026 #appseceu (via @randomdross)",
+            "username": "pwntester",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "370840069936263168": {
+            "id": "370840069936263168",
+            "text": "If parsing is the difficult part of writing a sanitizer, why not use the in-browser parser? (@randomdross introducing jSanity at #appseceu)",
+            "username": "roessler",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "363194355583950849": {
+            "id": "363194355583950849",
+            "text": "Enjoy live at #AppSecEU - https://appsec.eu\u00a0 - Stefano Di Paola: JavaScript libraries (in)security: reckless uses and unwitting misuses",
+            "username": "AppSecEU",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "369469522425544704": {
+            "id": "369469522425544704",
+            "text": "Blog: Creating a clone of WebGoat on GitHub: I needed a couple vulnerable source code examples (to use on the ... http://bit.ly/160LB60\u00a0",
+            "username": "DinisCruz",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "351571603752099840": {
+            "id": "351571603752099840",
+            "text": "slides from my talk 'Security @ Large Scale' at LPSE meet with noteshttp://www.slideshare.net/BishanSingh/security-large-scale\u00a0\u2026",
+            "username": "b1shan",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "330544535857942528": {
+            "id": "330544535857942528",
+            "text": "RT @xntrik: \"Tender moments caught on Russian dash cams\"  http://kottke.org/13/05/tender-moments-caught-on-russian-dash-cams\u00a0\u2026 < Human decency is trans-cultural.",
+            "username": "manicode",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "329816316519256065": {
+            "id": "329816316519256065",
+            "text": "Yahoo! is hiring in security eg. https://tas-yahoo.taleo.net/careersection/yahoo_global_cs/jobdetail.ftl?job=1343707&lang=en&ylng=en&yloc=us\u00a0\u2026 DM me or email ptr AT yahoo-inc DOT com",
+            "username": "evilops",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "301722039151128579": {
+            "id": "301722039151128579",
+            "text": "I think Opera moving to WebKit is good in that there will be more contributions and updates for the webkit engine. Hopefully we all win.",
+            "username": "triptych",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "267379540257562624": {
+            "id": "267379540257562624",
+            "text": "RT @jerryhoff: @OWASP_de - #OWASP Germany Day was fantastic! OWASP Germany is an unbelievably (cont) http://tl.gd/jv7cr3\u00a0",
+            "username": "OWASP_de",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "266490909418459136": {
+            "id": "266490909418459136",
+            "text": "The Biggest Problem in Computer Security http://bit.ly/QqpqVL\u00a0 <- wow this is a must read. 100% agree. By @attackresearch @carnal0wnage",
+            "username": "lostinsecurity",
+            "num_likes": 17,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "266953204930064384": {
+            "id": "266953204930064384",
+            "text": "YUIConf 2012 Schedule Update http://www.yuiblog.com/blog/2012/11/09/yuiconf-2012-schedule-update/\u00a0\u2026",
+            "username": "yuilibrary",
+            "num_likes": 0,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "249060074704740352": {
+            "id": "249060074704740352",
+            "text": "Yandex launches full-fledged Bug Bounty Program: http://company.yandex.com/security/\u00a0 #yandex #security",
+            "username": "kyprizel",
+            "num_likes": 1,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "213336945332461570": {
+            "id": "213336945332461570",
+            "text": "I'm happy to see that Safari on iOS6 supports Content Security Policy! It'll be nice to see this roll out to folks later this fall. :)",
+            "username": "mikewest",
+            "num_likes": 1,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "134246572065165313": {
+            "id": "134246572065165313",
+            "text": "Thx @WisecWisec for all your work on #DOMXSS. I am finding these issues here and there. The inet is piece by piece more secure for users.",
+            "username": "midisFI",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "130974965704032258": {
+            "id": "130974965704032258",
+            "text": "BTW working on #DOMinator built on FF 7.0.1. Almost finished the taint propagation for String.operations. The latter is str_replace.",
+            "username": "WisecWisec",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "105900125322362880": {
+            "id": "105900125322362880",
+            "text": "NewBlogPost: Ye Olde Crockford JSON regexp is Bypassable http://bit.ly/ov4z02\u00a0 #DOMXss #JSON",
+            "username": "WisecWisec",
+            "num_likes": 0,
+            "num_retweets": 9,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "832719882084954114": {
+            "id": "832719882084954114",
+            "text": "enjoyed this week the #sans course with the inimitable and ever upbeat @phenrycissp - thanks Paul! The Capstone tomorrow should be fun, too!pic.twitter.com/zJyZZewUAT",
+            "username": "dimisec",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "831955648027959299": {
+            "id": "831955648027959299",
+            "text": "slides from my talk \"Go at 1.8: Checkpoint\" at @golang_munich today: http://go-talks.appspot.com/github.com/dmitris/talks/mun-golang-meetup/meetup20170215.slide#1\u00a0\u2026 #golang",
+            "username": "dimisec",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "790832370949718016": {
+            "id": "790832370949718016",
+            "text": "Happy to see $HOME/go picked as the default, have been using it for years and recommended to new gophers - thanks @rob_pike & Co.! #golang",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "776055621703573504": {
+            "id": "776055621703573504",
+            "text": "FB article on using SSH certificates for secure access:https://code.facebook.com/posts/365787980419535/scalable-and-secure-access-with-ssh/\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "694119738415382528": {
+            "id": "694119738415382528",
+            "text": "Want use your Go skills to make Internet a safer place for 1B users? Join #YahooSecurity! NB \"Go\" in\nhttps://tas-yahoo.taleo.net/careersection/yahoo_us_cs/jobdetail.ftl?lang=en&ylng=en&yloc=us&job=1542873\u00a0\u2026 #yahoo #golang",
+            "username": "dimisec",
+            "num_likes": 7,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "687372042232938496": {
+            "id": "687372042232938496",
+            "text": "https://go-review.googlesource.com/#/c/18587/\u00a0https://twitter.com/mattetti/status/687343657008021504\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "637199118142676992": {
+            "id": "637199118142676992",
+            "text": "@yukinyingafter go get http://github.com/golang/tools/\u00a0... then locally on http://127.0.0.1:6789/pkg/github.com/golang/tools/present/?m=all#parseCode",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "619459265753956352": {
+            "id": "619459265753956352",
+            "text": "ATS HTTP/2 security fuzzing, using Go! Great job @xc0nradx @chrisrohlf http://yahoo-security.tumblr.com/post/122883273670/apache-traffic-server-http2-fuzzing\u00a0\u2026 #golang #yahoo",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "608390327053991938": {
+            "id": "608390327053991938",
+            "text": "Twitter, why do you think I'm a robot and don't give me a chance to prove that I'm human?",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "608277896784977920": {
+            "id": "608277896784977920",
+            "text": "Video of my @AppSecEU \"Finding Bad Needles\" talk about XSS scanning - https://www.youtube.com/watch?v=TXyLmvbGklc\u00a0\u2026, sound starts at 1:54",
+            "username": "dimisec",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "601850954342871040": {
+            "id": "601850954342871040",
+            "text": "Really enjoyed the @appseceu conference and seeing so many great folks!  Thanks to the organizers and everyone who made it happen!",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "601850240652734464": {
+            "id": "601850240652734464",
+            "text": "slides from my #OWASP @appseceu talk about web security / XSS scanning \"Finding Bad Needles on a Worldwide Scale\"http://www.slideshare.net/dimisec/badneedles\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 12,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "601334020811714560": {
+            "id": "601334020811714560",
+            "text": "Endorsed by the authority! @manicode said: Go (#golang) is the best programming language for security maintenance work!  :) #appseceu",
+            "username": "dimisec",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "598130581424181249": {
+            "id": "598130581424181249",
+            "text": "Impressed with how much #zaproxy has grown lately! I think #webseclab could come quite useful for testing it, would love to help #webappsec",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "594245657923330049": {
+            "id": "594245657923330049",
+            "text": "a busy day doing #webseclab development  Going through and verifying all the cases and adding new ones #golang #hacking",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "593419714413633536": {
+            "id": "593419714413633536",
+            "text": "https://github.com/dmitris/prewrite\u00a0\u2026 - a script to rewrite Go import paths and package import comments for vendoring #golang",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "590088871842619392": {
+            "id": "590088871842619392",
+            "text": "(Slides linked from http://www.oscon.com/oscon2010/public/schedule/detail/15464\u00a0\u2026 )",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "576862286272430080": {
+            "id": "576862286272430080",
+            "text": "Developer Productivity: The Art of Saying Nohttps://localizejs.com/blog/startup/developer-productivity-saying-no\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "575744983816347648": {
+            "id": "575744983816347648",
+            "text": "FWIO, the noble Fraternity of Worldwide Insecure Over-achievers http://recode.net/2015/03/10/google-cfo-patrick-pichette-to-retire-from-search-giant/\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "575590374904852480": {
+            "id": "575590374904852480",
+            "text": "#Javascript The Strong Parts: https://developers.google.com/v8/experiments\u00a0 . My applause, #v8 team - love static typing, especially when projects get big! :)",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "572653274521833472": {
+            "id": "572653274521833472",
+            "text": "my first Go patch (parser sync with the @html5 spec) is merged - thank you, dear reviewers! https://go-review.googlesource.com/#/c/6173/\u00a0 #golang",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "571085127373225986": {
+            "id": "571085127373225986",
+            "text": "Excited - just submitted my very first #golang CL! :)",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "570634542404513792": {
+            "id": "570634542404513792",
+            "text": "I'll talk about building and testing web application security scanners  in Amsterdam in May @AppSecEU http://2015.appsec.eu/talks/\u00a0 (\"bad needles\")",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "570521016138633216": {
+            "id": "570521016138633216",
+            "text": "added \"Security\" section to the #golang projects Twiki https://github.com/golang/go/wiki/Projects#security\u00a0\u2026. If you know other projects to  be listed there, please add!",
+            "username": "dimisec",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "567789217234042881": {
+            "id": "567789217234042881",
+            "text": "did a talk at the Munich #golang meetup about #webseclab - slides on http://go-talks.appspot.com/github.com/dmitris/talks/mun-golang-meetup/20150217/webseclab.slide#1\u00a0\u2026 (including several #XSS demo cases - from #25)",
+            "username": "dimisec",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "567703754838130688": {
+            "id": "567703754838130688",
+            "text": "expanded installation instructions for #webseclab https://github.com/yahoo/webseclab#install\u00a0\u2026 - you shouldn't need sudo to set it up #golang",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "566326226168852481": {
+            "id": "566326226168852481",
+            "text": "Slides for my recent #fosdem talk (#webseclab and #golang for web security tools and scanners): http://go-talks.appspot.com/github.com/dmitris/talks/fosdem2015/go4websec.slide#1\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "562397429870641152": {
+            "id": "562397429870641152",
+            "text": "(missed the hashtag) asked about Jenkins plugin for #golang test coverage format- https://groups.google.com/forum/#!topic/golang-nuts/nFpL8YO4R9s\u00a0\u2026 let me know if there is one please",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "562395382962221057": {
+            "id": "562395382962221057",
+            "text": "asked about Jenkins plugin for Go test coverage format (go test -coverprofile) - https://groups.google.com/forum/#!topic/golang-nuts/nFpL8YO4R9s\u00a0\u2026, let me know if there is one please",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "562392692500742146": {
+            "id": "562392692500742146",
+            "text": "Happy - turned on Travis builds for #Webseclab - http://github.com/yahoo/webseclab\u00a0 - with a nice green 'building' badge :)",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "561846256331669504": {
+            "id": "561846256331669504",
+            "text": "Go dev room is full to the capacity at #fosdem #golang @bradfitz's talk on #http2 is coming next",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "561826598429536257": {
+            "id": "561826598429536257",
+            "text": "open-sourced http://github.com/yahoo/webseclab\u00a0 - sample set of tests for web security scanners and toolkit to create such tests #fosdem #golang #Yahoo",
+            "username": "dimisec",
+            "num_likes": 122,
+            "num_retweets": 74,
+            "num_replies": 3
+        },
+        "559071772012990466": {
+            "id": "559071772012990466",
+            "text": "a marathon milestone - 15 years at Yahoo today! Warm greetings and big thanks to all my current and former teammates and colleagues! #yahoo",
+            "username": "dimisec",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "553526899092516866": {
+            "id": "553526899092516866",
+            "text": "go Swift #code2014",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "553232024144994304": {
+            "id": "553232024144994304",
+            "text": "I'll be speaking at #fosdem about our use of Go in a web security scanner https://fosdem.org/2015/schedule/event/go_web_security_scanner/\u00a0\u2026 #golang",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "552850160943136768": {
+            "id": "552850160943136768",
+            "text": "... so that you would not need to install Go and set GOPATH on the \"host\" server where you are running docker",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "552849636361523200": {
+            "id": "552849636361523200",
+            "text": "RE https://blog.golang.org/docker\u00a0 - you can replace \"go get http://github.com/golang/example/outyet\u00a0\u2026\" with \"git clone https://github.com/golang/example.git\u00a0\u2026\" (+ cd) #golang #docker",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "549869033844408320": {
+            "id": "549869033844408320",
+            "text": "Thanks @jerryhoff @_jtmelton - I would add to \"What you can do\" section: \"Avoid frameworks if possible\", ex. with #golang built-in net/http",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "416898072564609024": {
+            "id": "416898072564609024",
+            "text": "J. Alex Halderman's talk on \"Fast Internet-wide scanning and its security applications\" talk is underway https://events.ccc.de/congress/2013/Fahrplan/events/5533.html\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "396016932010213376": {
+            "id": "396016932010213376",
+            "text": "Yahoo! Bug Bounty program is up and running: http://yahoodevelopers.tumblr.com/post/65622522325/the-bug-bounty-program-is-now-live\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "370992021013798912": {
+            "id": "370992021013798912",
+            "text": "Enjoyed a lot #AppSecEU - great talks, seeing old friends and meeting new people. Thanks OWASPers! :)",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "370837877229236224": {
+            "id": "370837877229236224",
+            "text": "David Ross @randomdross making a case for the client-side HTML sanitization: \"Insane in IFRAME\" #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "370825431995269120": {
+            "id": "370825431995269120",
+            "text": "listening to \"Securing a modern JavaScript based single page webapp\" - talk by Erlend Oftedal #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "370085672738390016": {
+            "id": "370085672738390016",
+            "text": "Wheels down Hamburg - looking forward to the #OWASP #AppSecEU!",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "351996979842260993": {
+            "id": "351996979842260993",
+            "text": "just started a Golang Munich meetup group: http://www.meetup.com/Golang-Munich/\u00a0 - please join if you are in/near Munich and want to talk about Go #golang",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "322300473430392834": {
+            "id": "322300473430392834",
+            "text": "freed 50+GB of hard disk space by deleting/reinstalling Chrome & Chrome Canary - should be an option NOT to keep older versions...",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "301689373152382977": {
+            "id": "301689373152382977",
+            "text": "gist of our talk: web apps now are too complex for automatic scanners to properly cover, need devs to write & run security tests #yuiconf",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "301684725205057537": {
+            "id": "301684725205057537",
+            "text": "Video and slides from my + @yukinying #yuiconf 2012 talk on frontend Security Testing - http://www.yuiblog.com/blog/2013/01/23/yuiconf-2012-dmitry-savintsev-and-albert-yu-on-security-testing-of-yui-powered-applications/\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 3,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "277312467741310976": {
+            "id": "277312467741310976",
+            "text": "wheels down SFO",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "269491037486071808": {
+            "id": "269491037486071808",
+            "text": "really enjoyed my first #yuiconf - interesting talks, great crowd & good food. Thanks to organizers and everyone who was there!",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "268917070408871936": {
+            "id": "268917070408871936",
+            "text": "Douglas Crockford talking about Monads in Javascript at #yuiconfpic.twitter.com/HEySZg0y",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "268768919693697024": {
+            "id": "268768919693697024",
+            "text": "#yuiconf keynote by @davglasspic.twitter.com/i8x0DMUQ",
+            "username": "dimisec",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "267013826002698241": {
+            "id": "267013826002698241",
+            "text": "myself and @yukinying will talk about Security Testing of YUI Powered Applications at the #yuiconf next Thursday",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "265817625026764800": {
+            "id": "265817625026764800",
+            "text": "looking forward to the OWASP German Day tomorrow & the websec party tonight! For our guests, very warm welcome to Munich! #owasp_d2012",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "256146676262268928": {
+            "id": "256146676262268928",
+            "text": "submitted a talk proposal with @yukinying for #yuiconf, on security testing. Looking forward to the conference!",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "252684988963766272": {
+            "id": "252684988963766272",
+            "text": "http://reg.owasp.de\u00a0 form is very paranoid - it refuses you if you put a question mark in comments #owasp #owasp_d2012pic.twitter.com/S49HUS3w",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "224979777340178435": {
+            "id": "224979777340178435",
+            "text": "Welcome @ marissamayer, very excited to have you onboard!! :)",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "224249039141609472": {
+            "id": "224249039141609472",
+            "text": "back home - had a great time at #owasp #appseceu, looking forward to the next year in Hamburg!",
+            "username": "dimisec",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "223339984181137408": {
+            "id": "223339984181137408",
+            "text": "love Jim Manicode's presenting style and the pace of the talk - good content as well #euappsec",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "213768531777556480": {
+            "id": "213768531777556480",
+            "text": "html5rocks article on the CSP by @mikewest http://www.html5rocks.com/en/tutorials/security/content-security-policy/\u00a0\u2026",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "213694586126733312": {
+            "id": "213694586126733312",
+            "text": "listening to Neil Daswani's talk on mobile application security @Yahoo's Security Week",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "172313319338811392": {
+            "id": "172313319338811392",
+            "text": "trying to figure out how to test a page with an alert in the RemoteWebDriver (through the json protocol) #webdriver #selenium",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "144042534547623936": {
+            "id": "144042534547623936",
+            "text": "@dimisec @lcamtuf cancelled the Amazon offer and bought the book at NoStarch",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "143980455476211712": {
+            "id": "143980455476211712",
+            "text": "@lcamtuf in DE, Amazon shows Dec. 13 as the expected shipping date, looking forward to reading it!",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "134968486769340416": {
+            "id": "134968486769340416",
+            "text": "listening to @wisecwisec's talk about DOM XSS and #DOMinator - https://codebits.eu/s/live\u00a0 Stage A",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "134583344162803712": {
+            "id": "134583344162803712",
+            "text": "WebDriver now has Javascript bindings - http://code.google.com/p/selenium/wiki/WebDriverJs\u00a0\u2026. JS seems the natural language for web app security scanners #webdriver",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79179071380140032": {
+            "id": "79179071380140032",
+            "text": "Open - released SDL Guidance and tools, Threat Modelling, Tools: VS Extensions, !exploitable, EMET, Attack Surface Analyzer #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79178504666759169": {
+            "id": "79178504666759169",
+            "text": "Measuring improvements. DSL - 45% reduction in Vulnerabilities (XP vs Vista) #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79177720508055552": {
+            "id": "79177720508055552",
+            "text": "Static Analysis: code patterns to enforce policy (ex. make sure the right compile flags are used), identify defects #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79177418228768768": {
+            "id": "79177418228768768",
+            "text": "Fuzzing. !exploitable Crash Analyzer processes crashdumps. Crash classification: exploitable, probably, not exploitable, unknown #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79176670254338048": {
+            "id": "79176670254338048",
+            "text": "Mitigations - make a target env unpredictable. \"Examples include GS and ASLR\" (what are they?) #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79176472836833280": {
+            "id": "79176472836833280",
+            "text": "Mitigations - harder to turn defect into expllit, reduce the impact of success, put automatic checks in place #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79176264191193088": {
+            "id": "79176264191193088",
+            "text": "Desired result - usable attacks will be rare and require significant engineering; working exploits - scarce and valuable #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79175992152825856": {
+            "id": "79175992152825856",
+            "text": "Exploit economics - increase attacker investment required to find vulnerabilities or to write reliable exploits #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79175568679116800": {
+            "id": "79175568679116800",
+            "text": "products have less bulletins, harder to exploit, updating is more active, criminals attack older versions and 3rd party apps #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79175245809991680": {
+            "id": "79175245809991680",
+            "text": "Threat situation today - there are still vulnerabilities and security exploits #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79174701997498368": {
+            "id": "79174701997498368",
+            "text": "Alex is going through the different stages of the life cycle: Reqs, Desing, Implementation, Verfification, Release, Response #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79174219094695936": {
+            "id": "79174219094695936",
+            "text": "Pre-SDL Requirements: Security training. Set metrics for how many people get trained #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79174028069314561": {
+            "id": "79174028069314561",
+            "text": "SDL - which apps are required to follow: almost everything #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79173573754884097": {
+            "id": "79173573754884097",
+            "text": "Trustworthy Computing Security - Response Center and Engineering Center #microsoft #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79173249803632640": {
+            "id": "79173249803632640",
+            "text": "Security Timeline at Microsoft.  At one point, stopped product shipping until the number of security issues / bugs come down #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79172842733846528": {
+            "id": "79172842733846528",
+            "text": "External threats - 46%, about 1/3 - accidental #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79172585690103808": {
+            "id": "79172585690103808",
+            "text": "Attacks break-down between application, OS and browser vulnerabilities.  Application - most, lately browser attacks trending up #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79172319368585216": {
+            "id": "79172319368585216",
+            "text": "2006+ - targeted attacks, social engineering, financial & political #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79171686431334400": {
+            "id": "79171686431334400",
+            "text": "2nd keynote at the OWASP Day 2 - Alex Lucas, Microsoft.  Starting with the historical review of cybercrime evolution #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79142957726437376": {
+            "id": "79142957726437376",
+            "text": "Last question at Tobias' talk - vendors specific HTTP headers. Not discussed since they are not in the queue @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79142459636064257": {
+            "id": "79142459636064257",
+            "text": "the discussed changes will not give browser warnings - it will be a hard failure (red page) @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79141832751185920": {
+            "id": "79141832751185920",
+            "text": "Questions start at the Tobias Gondrom's talk.  The new technologies will come with updates rather than new version of the browsers #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79141541431619584": {
+            "id": "79141541431619584",
+            "text": "Content Security Policy and TLS in DNSSEC - 2012 \"Do-Not-Track\" up in the air (up to the governments etc) @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79141299344777216": {
+            "id": "79141299344777216",
+            "text": "When: Mime-Sniffing Q3 '11, Same-Origin - Q4 '11, Strict Transport Security - Q4 '11, Frame-Options - Q4 '11 @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79140984469987328": {
+            "id": "79140984469987328",
+            "text": "Privacy concerns - do not track HTTP-Request-Header. To be enforced on the server, legal and regulatory pressure @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79140528586887168": {
+            "id": "79140528586887168",
+            "text": "Content Security Policy is still a draft now - moving target. At least 3 browser vendors say they will implement it @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79139081317130240": {
+            "id": "79139081317130240",
+            "text": "Contenet Security Policy - report-uri directive to report violations to the given URI @tobiasgondrom. Allows feedback #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79138619616542720": {
+            "id": "79138619616542720",
+            "text": "Content Security Policy - declare that resources (script, flash, images etc.) may only come from specific locations @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79138120502755328": {
+            "id": "79138120502755328",
+            "text": "Frame-Options - to prevent framing by evil sites. DENY, SAMEORIGIN , ALLOWFROM (upcoming) @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79137079979802624": {
+            "id": "79137079979802624",
+            "text": "DNSSEC can be used to declare supported protocols for domains. +: trusted signed source, -: long time to deploy @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79136563879088128": {
+            "id": "79136563879088128",
+            "text": "mitigate attacks on secure channels - Strict-Transport-Security server header, problem - trust on first use @tobiasgondrom #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "79134261160058880": {
+            "id": "79134261160058880",
+            "text": "Tobias Gondrom's talk on \"New Standards and upcoming technologies in browser security\" #AppSecEU",
+            "username": "dimisec",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "elie": 1,
+        "YahooSecurity": 1,
+        "triptych": 2,
+        "dzackgarza": 1,
+        "wolfeidau": 1,
+        "kkotowicz": 1,
+        "bradfitz": 1,
+        "owasp": 1,
+        "ionutroghina": 1,
+        "blakegentry": 1,
+        "drwetter": 1,
+        "dvyukov": 1,
+        "francesc": 2,
+        "jschauma": 1,
+        "bketelsen": 1,
+        "golang": 1,
+        "jaffathecake": 1,
+        "pwntester": 1,
+        "roessler": 1,
+        "AppSecEU": 1,
+        "DinisCruz": 1,
+        "b1shan": 1,
+        "manicode": 1,
+        "evilops": 1,
+        "OWASP_de": 1,
+        "lostinsecurity": 1,
+        "yuilibrary": 1,
+        "kyprizel": 1,
+        "mikewest": 1,
+        "midisFI": 1,
+        "WisecWisec": 2
+    },
+    "users_retweeted": [
+        "triptych",
+        "francesc",
+        "WisecWisec",
+        "elie",
+        "YahooSecurity",
+        "dzackgarza",
+        "wolfeidau",
+        "kkotowicz",
+        "bradfitz",
+        "owasp",
+        "ionutroghina",
+        "blakegentry",
+        "drwetter",
+        "dvyukov",
+        "jschauma",
+        "bketelsen",
+        "golang",
+        "jaffathecake",
+        "pwntester",
+        "roessler",
+        "AppSecEU",
+        "DinisCruz",
+        "b1shan",
+        "manicode",
+        "evilops",
+        "OWASP_de",
+        "lostinsecurity",
+        "yuilibrary",
+        "kyprizel",
+        "mikewest",
+        "midisFI"
+    ]
+}

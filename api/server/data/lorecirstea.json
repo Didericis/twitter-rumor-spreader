@@ -1,0 +1,3033 @@
+{
+    "is_complete": true,
+    "username": "lorecirstea",
+    "retweeted": {
+        "1123240624189263879": {
+            "id": "1123240624189263879",
+            "text": "Hey all! I\u2019ve just put together a quick article on our @ETHCapeTown hackathon project, a Contract Wallet which retains no on-chain bytecode. Wisp Contracts: The Magical World of Create2. All feedback is welcome. :)https://blog.ricmoo.com/wisps-the-magical-world-of-create2-5c2177027604\u00a0\u2026",
+            "username": "ricmoo",
+            "num_likes": 179,
+            "num_retweets": 41,
+            "num_replies": 22
+        },
+        "1122914901578649603": {
+            "id": "1122914901578649603",
+            "text": "We just released #Solidity 0.4.26 - a version that backports important fixes from the 0.5.x series into 0.4.x and should also work with newer browsers. Enjoy! https://github.com/ethereum/solidity/releases/tag/v0.4.26\u00a0\u2026 @ethereum",
+            "username": "ethchris",
+            "num_likes": 52,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1122530122941239297": {
+            "id": "1122530122941239297",
+            "text": "Latest Week in Ethereum News \n\nhttps://weekinethereumnews.com/april-27-2019/\u00a0",
+            "username": "evan_van_ness",
+            "num_likes": 62,
+            "num_retweets": 26,
+            "num_replies": 3
+        },
+        "1120977404439269376": {
+            "id": "1120977404439269376",
+            "text": "Just released a small tool that might help with metadata-based source verification of #Solidity contracts: https://www.npmjs.com/package/source-verify\u00a0\u2026 It is just a start, any help and suggestions welcome! #ethereum",
+            "username": "ethchris",
+            "num_likes": 17,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1120830420709445632": {
+            "id": "1120830420709445632",
+            "text": "More clicked\n* @MakerDAO stability fee to 14.5%\n* @lorecirstea filesystem vision for global Eth OS\n* @infura_io faster logs & events\n* @Dharma_HQ ReFi with DeFi - at 8.5%\n* @0xProject mesh architecture doc\n* @tayvano_ for a better r/ethereum\n* @whisp_money Eth/Dai payroll dapphttps://twitter.com/evan_van_ness/status/1119720846506057729\u00a0\u2026",
+            "username": "evan_van_ness",
+            "num_likes": 44,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1119720846506057729": {
+            "id": "1119720846506057729",
+            "text": "Week in Ethereum News is out! https://weekinethereumnews.com/april-19-2019/\u00a0",
+            "username": "evan_van_ness",
+            "num_likes": 121,
+            "num_retweets": 47,
+            "num_replies": 8
+        },
+        "1118875130829180930": {
+            "id": "1118875130829180930",
+            "text": "Right in time for the @ETHCapetown hackathon, we are happy to share our new Raiden Developer Portal with you. Check out http://developer.raiden.network\u00a0 for all resources needed to get started building on Raiden! For a selection of Raiden hacking inspirations, see: https://medium.com/raiden-network/build-with-raiden-at-ethcapetown-894c0359d016\u00a0\u2026pic.twitter.com/R0DTnkruIe",
+            "username": "raiden_network",
+            "num_likes": 46,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1118513253733134341": {
+            "id": "1118513253733134341",
+            "text": "Once again @lorecirstea hits the nail on its head! \"You can open an app (hosted on Swarm), use your browser wallet to connect to it and use it. You can store on your personal filesystem any side effects produced by that app.\" Using Linux/MacOS folder structure. @ethswarm @enshttps://twitter.com/lorecirstea/status/1118478532873736192\u00a0\u2026",
+            "username": "tenfinney",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1117179301227634688": {
+            "id": "1117179301227634688",
+            "text": "Latest Week in Ethereum News is out! https://weekinethereumnews.com/april-12-2019/\u00a0",
+            "username": "evan_van_ness",
+            "num_likes": 70,
+            "num_retweets": 29,
+            "num_replies": 4
+        },
+        "1116723108575006721": {
+            "id": "1116723108575006721",
+            "text": "Dropped 50 paper wallets on a classroom of students and within seconds 80% of them were playing a mobile blockchain game. No onboarding hurdles, straight to a simple game in a wallet! 24 hours later the 40 players had racked up 20k transactions!!! https://youtu.be/TV262hNh_TI\u00a0",
+            "username": "austingriffith",
+            "num_likes": 611,
+            "num_retweets": 158,
+            "num_replies": 31
+        },
+        "1115990958342955008": {
+            "id": "1115990958342955008",
+            "text": "#zkSNARK proof generator in Web Assembly and parallelised with Web Workers.  A 50k constraint proof takes less than 10s to be generated from the browser. This new @identhree tool should be very useful in many zk-dApps https://www.reddit.com/r/ethereum/comments/bbmteb/websnark_zksnarks_generation_from_the_browser_is/\u00a0\u2026 @VitalikButerin @barrywhitehat @zooko",
+            "username": "jbaylina",
+            "num_likes": 278,
+            "num_retweets": 85,
+            "num_replies": 9
+        },
+        "1112829136635133955": {
+            "id": "1112829136635133955",
+            "text": "Calling attendees, speakers and sponsors alike!\n\nJoin @ethswarm for the #Swarm Orange Summit 2019 in Madrid on the 23rd-25th of May (followed by a #hackathon on the 26th). \n\nhttps://summit.ethswarm.org/\u00a0https://twitter.com/mathsguy/status/1112694941145354243\u00a0\u2026",
+            "username": "ethereum",
+            "num_likes": 91,
+            "num_retweets": 23,
+            "num_replies": 8
+        },
+        "1114629839007432704": {
+            "id": "1114629839007432704",
+            "text": "The latest Week in Ethereum News:  https://weekinethereumnews.com/april-5-2019/\u00a0",
+            "username": "evan_van_ness",
+            "num_likes": 66,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "1112118171861946368": {
+            "id": "1112118171861946368",
+            "text": "Week in Ethereum News is out!  https://weekinethereumnews.com/ethereum-news-march-29-2019/\u00a0\u2026",
+            "username": "evan_van_ness",
+            "num_likes": 105,
+            "num_retweets": 46,
+            "num_replies": 2
+        },
+        "1111724435780890625": {
+            "id": "1111724435780890625",
+            "text": "I will use this video as a getting started turorial for #circom and #snarkjs ... In half an hour we explain how to create complex circuits, compile, generate proofs and verify then on #erhereum chain. @identhree @zeroknowledgefmhttps://www.youtube.com/watch?v=-9TJa1hVsKA\u00a0\u2026",
+            "username": "jbaylina",
+            "num_likes": 91,
+            "num_retweets": 38,
+            "num_replies": 2
+        },
+        "1110594372465242112": {
+            "id": "1110594372465242112",
+            "text": "We just released #Solidity 0.5.7 containing an important bugfix for everyone that is using ABIEncoderV2:https://blog.ethereum.org/2019/03/26/solidity-optimizer-and-abiencoderv2-bug/\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 45,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1110593544572538882": {
+            "id": "1110593544572538882",
+            "text": "[BUG] #Solidity Optimizer and ABIEncoderV2 Bug Announcement Blog Posthttps://goo.gl/nJHvHh\u00a0",
+            "username": "ethereum",
+            "num_likes": 130,
+            "num_retweets": 61,
+            "num_replies": 7
+        },
+        "1108418176419876864": {
+            "id": "1108418176419876864",
+            "text": "I just published my newest side project:\nA nice and easy UI for compiling and interacting with #vyper contracts.\n\nhttps://github.com/ssteiger/Vyper-contract-GUI\u00a0\u2026\n#ethereumpic.twitter.com/7gmq44IVZY",
+            "username": "SoerenSteiger",
+            "num_likes": 24,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1109186276144676864": {
+            "id": "1109186276144676864",
+            "text": "This is a bitter post to announce, but we are discontinuing Mist. You can read the full post here but for your convenience I will try to summarize in a few tweets: https://medium.com/@avsa/sunsetting-mist-da21c8e943d2\u00a0\u2026\n\nThere are mainly two reasons a good and a bad one: ecosystem and security",
+            "username": "avsa",
+            "num_likes": 296,
+            "num_retweets": 105,
+            "num_replies": 38
+        },
+        "1108072528403156994": {
+            "id": "1108072528403156994",
+            "text": "1. Today we're excited to release an alpha version of the Playground, a full end-to-end demo/sandbox for generalized state channels built with the Counterfactual framework. Go play! \u2192https://playground.counterfactual.com\u00a0",
+            "username": "statechannels",
+            "num_likes": 304,
+            "num_retweets": 116,
+            "num_replies": 10
+        },
+        "1108028555978526722": {
+            "id": "1108028555978526722",
+            "text": "IS THIS THING ON? Announcing #ETHBerlinZwei! Read our blogpost, what our collaboration with @dappcon_berlin is about, and what to expect if you are sponsoring. ALSO, NEW FUCKING AMAZING WEBSITE!! And speaker applications are up!https://medium.com/@ETHBerlin/skin-in-the-game-and-nothing-to-lose-be2edafd2da0\u00a0\u2026",
+            "username": "ETHBerlin",
+            "num_likes": 51,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "1105163135818727424": {
+            "id": "1105163135818727424",
+            "text": "MEW is thrilled to announce EthVM Alpha \u2013 an #OpenSource #Ethereum blockchain explorer! \n\nCheck it out at https://ropsten.ethvm.com\u00a0 \n\nKeep in mind that it's still in Alpha \u2013 please report any issues and suggestions, and help us improve the platform!https://twitter.com/CryptoSlate/status/1105152726500081671\u00a0\u2026",
+            "username": "myetherwallet",
+            "num_likes": 54,
+            "num_retweets": 20,
+            "num_replies": 7
+        },
+        "1100014634101161985": {
+            "id": "1100014634101161985",
+            "text": "Just published another edition of the Blockchain Research Newsletter:https://blockchainresearch.substack.com/p/blockchain-research-newsletter-1\u00a0\u2026",
+            "username": "badcryptobitch",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1096786719809196032": {
+            "id": "1096786719809196032",
+            "text": "Excited today to announce Brownie: a Python framework for testing, deploying and interacting with Ethereum smart contracts!\n\nhttps://medium.com/hyperlink-technology/introducing-brownie-a763859409ca\u00a0\u2026\n#blockchain #Ethereum #ETHDenver #BUIDL",
+            "username": "HyperLinkTechn",
+            "num_likes": 130,
+            "num_retweets": 42,
+            "num_replies": 4
+        },
+        "1098888561305239553": {
+            "id": "1098888561305239553",
+            "text": "Last night, we released Raiden v0.100.2 \"Pluto\"! Pluto contains several bug fixes, hence updating from v0.100.1 is highly recommended. Additionally, from this release onwards, we're including ARM binaries for running Raiden on a Raspberry Pi. https://github.com/raiden-network/raiden/releases/tag/v0.100.2\u00a0\u2026pic.twitter.com/du5clRTjGr",
+            "username": "raiden_network",
+            "num_likes": 76,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "1097476449097998339": {
+            "id": "1097476449097998339",
+            "text": "https://medium.com/@gballet/ewasm-1-x-precompiles-part-1-66ee7e7345d1\u00a0\u2026",
+            "username": "gballet",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1095357345876594688": {
+            "id": "1095357345876594688",
+            "text": "Enjoy Berlin @ethereum meetup recordings from January's session https://www.youtube.com/playlist?list=PLaM7G4Llrb7zbd_2PP0ZgXh3eXSoj0u4A\u00a0\u2026\n@sorpaas @ParityTech deep dive into \"Shasper\"\n@elizabethereum @ChainSafeth ring signature based mixing\n@DAnsermino Lodestar beacon chain\nSteven Stewart @Quantstamp Security Assurance Protocol",
+            "username": "maurreth",
+            "num_likes": 31,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1095357156486987776": {
+            "id": "1095357156486987776",
+            "text": "#Solidity 0.5.4 released featuring colours, calldata structs for ABIEncoderV2 (your days are numbered, stack-too-deep-error!) and other goodies!pic.twitter.com/7Jfbls6PE7",
+            "username": "ethchris",
+            "num_likes": 128,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "1095044568603680774": {
+            "id": "1095044568603680774",
+            "text": " EthCC 2019  THIS IS IT \u2014> THE ETHCC SCHEDULE IS LIVE <\u2014 #Motherlode #Blockchain #Paris                                                                   Check it out on http://ethcc.io\u00a0  and GET YOUR tickets before it\u2019s too late #FoMO see you in Paris !",
+            "username": "AssethFR",
+            "num_likes": 105,
+            "num_retweets": 176,
+            "num_replies": 11
+        },
+        "1094595628368162816": {
+            "id": "1094595628368162816",
+            "text": "We've verified our first #Vyper contract source code at https://ropsten.etherscan.io/address/0xFE1F3A23646208b8F8D3ae980230e2D78a28156F#code\u00a0\u2026 . Tq @preston_vanloon @fubuloubu and @jleonyeoh for the help, sample contracts and for being a sounding board.",
+            "username": "etherscan",
+            "num_likes": 63,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1094312011914084352": {
+            "id": "1094312011914084352",
+            "text": "Potential security implications of CREATE2? (EIP-1014)https://ethereum-magicians.org/t/potential-security-implications-of-create2-eip-1014/2614/23\u00a0\u2026",
+            "username": "gakonst",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1093861603836080133": {
+            "id": "1093861603836080133",
+            "text": "Did you try out Raiden on mainnet yet? We have recorded a short video guiding you through the steps to install a Raiden Red Eyes mainnet node! To get started, please read the instructions for safe usage and download the binary --> https://medium.com/raiden-network/red-eyes-mainnet-release-announcement-d48235bbef3c\u00a0\u2026https://www.youtube.com/watch?v=fy2ctCQHfD4&feature=youtu.be\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 67,
+            "num_retweets": 24,
+            "num_replies": 2
+        },
+        "1093165783742599168": {
+            "id": "1093165783742599168",
+            "text": "first round of acceptances just sent out! check your inboxes, and see you in Paris!   ",
+            "username": "EthParis",
+            "num_likes": 62,
+            "num_retweets": 7,
+            "num_replies": 5
+        },
+        "1093162541008732160": {
+            "id": "1093162541008732160",
+            "text": "#EthCC: 1000+ experts, engineers, developers, students, artists, etc. 3 days of conferences, 13 tracks to follow, side events in Paris, food&drinks\u2014> 240\u20ac  payable un crypto, thanks to @KyberNetwork & @MakerDAO              GET YOU TICKETShttp://EthCC.io\u00a0",
+            "username": "AssethFR",
+            "num_likes": 35,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1092474756547444736": {
+            "id": "1092474756547444736",
+            "text": "Reminder: 2 days until AMA about Ethereum 1x and the recent workshop in Stanford. 6th of Feb, 16:00 UTC. Presenters: @mhswende, myself, and someone from eWASM (to be decided):https://ethereum-magicians.org/t/eth-roadmap-ama-webinar-feb-6th-8am-pst-1700-utc-1/2518\u00a0\u2026",
+            "username": "realLedgerwatch",
+            "num_likes": 28,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1092477229362225152": {
+            "id": "1092477229362225152",
+            "text": "Giving a talk about Clef at #Ethereum Berlin meetup on Monday: https://www.meetup.com/Berlin-Ethereum-Meetup/events/258669775/\u00a0\u2026. Also Bhargava Shastry will talk about fuzzing Solidity!",
+            "username": "mhswende",
+            "num_likes": 20,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1092155872715988992": {
+            "id": "1092155872715988992",
+            "text": "The videos from #GoerliCon / @ETHBerlin reunion are up! Watch @_franzihei talking about the Raiden Red Eyes mainnet release and what's coming next here: https://youtu.be/g7hgGWl8vb0\u00a0",
+            "username": "raiden_network",
+            "num_likes": 34,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1091972578862718976": {
+            "id": "1091972578862718976",
+            "text": "Happy to support and release the new (preliminary) #G\u00f6rli Testnet explorer at https://goerli.etherscan.io\u00a0  (complete with APIs, source-code verfication and more)",
+            "username": "etherscan",
+            "num_likes": 83,
+            "num_retweets": 22,
+            "num_replies": 2
+        },
+        "1091388238563024907": {
+            "id": "1091388238563024907",
+            "text": "31 DAYS LEFT TILL #EthCC KICK-OFF ! \nOur amazing speakers will make your head spin \n@mi_ayako @VladZamfir @tayvano_ @hudsonjameson @lrettig \nGet your tickets now --> https://EthCC.io\u00a0 \nPay with #crypto thanks to @MakerDAO @KyberNetwork\n#blockchain #ethereum #ethpic.twitter.com/ae7GCCegil",
+            "username": "AssethFR",
+            "num_likes": 133,
+            "num_retweets": 53,
+            "num_replies": 23
+        },
+        "1090945136907964418": {
+            "id": "1090945136907964418",
+            "text": "Super excited to have the wonderful @_franzihei filling us in on @raiden_network\u2019s outlook for 2019 RIGHT NOW at #GoerliCon!pic.twitter.com/FVo3iwhCYB",
+            "username": "ETHBerlin",
+            "num_likes": 34,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1090644517202681857": {
+            "id": "1090644517202681857",
+            "text": "I will be giving a quick update on all things @raiden_network tomorrow at #GoerliCon / @ETHBerlin. Join me if you want to learn more about the mainnet launch, current functionalities, future plans and challenges. Couldn't be more excited! See you there https://kickback.events/event/0xe2d2c31c68626b6c1301a49ed50854e1cae0c8fa\u00a0\u2026pic.twitter.com/9WqsIiHnmP",
+            "username": "_franzihei",
+            "num_likes": 41,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "1090009049997950977": {
+            "id": "1090009049997950977",
+            "text": "NEW: With Enigma, dApps can gain significant usability and speed advantages. In this post, see how a fast, fun, decentralized version of Rock, Paper, Scissors can be built on Enigma's protocol. Demo video included!   https://blog.enigma.co/secret-rock-paper-scissors-f89ff1a91b1e\u00a0\u2026",
+            "username": "EnigmaMPC",
+            "num_likes": 134,
+            "num_retweets": 48,
+            "num_replies": 4
+        },
+        "1090000350730432519": {
+            "id": "1090000350730432519",
+            "text": "#Ethereum is scrappy, messy, terminology-abusing, and still very much in open beta, but it also reaches many insights before academia. It drags cryptographic decentralized system theory kicking and screaming into production, and that's something to celebrate! #MotivationMonday",
+            "username": "technocrypto",
+            "num_likes": 162,
+            "num_retweets": 27,
+            "num_replies": 5
+        },
+        "1088863298848808961": {
+            "id": "1088863298848808961",
+            "text": "We just published a development update, briefly outlining the components we are currently working on. Ithaca, our next big milestone, will entail services and features which will improve the usability of Raiden. Read more about it here:https://medium.com/raiden-network/development-update-the-road-towards-ithaca-58c5d68954e0\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 76,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "1087804370744418304": {
+            "id": "1087804370744418304",
+            "text": "I'm compiling an updated list of Ethereum formal verification projects:\nhttps://github.com/leonardoalt/ethereum_formal_verification_overview\u00a0\u2026\nLet me know if I missed something or got anything wrong!",
+            "username": "leonardoalt",
+            "num_likes": 37,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1087759236912869376": {
+            "id": "1087759236912869376",
+            "text": "#Solidity 0.5.3 released, giving you access to contract code and some more static analysis:https://github.com/ethereum/solidity/releases/tag/v0.5.3\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 53,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1086043224576327680": {
+            "id": "1086043224576327680",
+            "text": "Did anyone do this? There is still time!https://twitter.com/ethchris/status/1075735680704278529\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1086784959027789825": {
+            "id": "1086784959027789825",
+            "text": "The rough port of @VitalikButerin's GHOST implementation in swift seems to work, there are still certain differences and definitely one or two bugs I would assume. As well as definite inefficiencies. \n\nhttps://github.com/yeeth/KSG.swift/pull/1\u00a0\u2026pic.twitter.com/Tlz71ElQVo",
+            "username": "DeanEigenmann",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1085981554382438400": {
+            "id": "1085981554382438400",
+            "text": "Update of #EthCC 2019 speaker list!\n#Ethereum #blockchain #conference in #Paris next March\nCheck it out http://EthCC.io\u00a0 and register to @EthParis hackathon\n(Full update here https://www.reddit.com/r/ethereum/comments/agys2o/ethcc_next_march_getting_closer_and_bigger\u00a0\u2026)pic.twitter.com/eKI15hApOC",
+            "username": "AssethFR",
+            "num_likes": 27,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1085262837432299520": {
+            "id": "1085262837432299520",
+            "text": "I wrote a comprehensive guide to ETH2.0's roadmap https://link.medium.com/nQWHBtkpvT\u00a0",
+            "username": "_prestwich",
+            "num_likes": 530,
+            "num_retweets": 199,
+            "num_replies": 23
+        },
+        "1085219814661066755": {
+            "id": "1085219814661066755",
+            "text": "Important turning point in the life of #ethereum's constantinople hard fork:https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9\u00a0\u2026",
+            "username": "alexberegszaszi",
+            "num_likes": 42,
+            "num_retweets": 23,
+            "num_replies": 1
+        },
+        "1085274103102218240": {
+            "id": "1085274103102218240",
+            "text": "Blog post coming soon about the Constantinople postponement.",
+            "username": "hudsonjameson",
+            "num_likes": 120,
+            "num_retweets": 22,
+            "num_replies": 7
+        },
+        "1082711242698096642": {
+            "id": "1082711242698096642",
+            "text": "Guillaume Goutaudier presenting #Raiden_network, an off-chain scaling solutionpic.twitter.com/oxi8YArsbj",
+            "username": "GenevaDUG",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1082986561304702976": {
+            "id": "1082986561304702976",
+            "text": "Rinkeby #Ethereum testnet successfully forked over to Constantinople! All signers, bootnodes, faucet online and working well. Clean split between new and non-upgraded nodes (please update!). pic.twitter.com/o4hlHHEjss",
+            "username": "peter_szilagyi",
+            "num_likes": 711,
+            "num_retweets": 236,
+            "num_replies": 17
+        },
+        "1082866007633362950": {
+            "id": "1082866007633362950",
+            "text": "BokkyPooBah's Ethereum Workshop #101 [Beginner/Intermediate] Raiden Deep Dive @raiden_network https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/events/257887250/\u00a0\u2026 #Ethereum #Meetup #Sydney",
+            "username": "BokkyPooBah",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1081222946335670279": {
+            "id": "1081222946335670279",
+            "text": "Darth Vader > Yoda ^_^pic.twitter.com/W52rd8Gyy2",
+            "username": "LefterisJP",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1081203607549198337": {
+            "id": "1081203607549198337",
+            "text": "Hacking together a little Star Wars themed Rock, Paper, Scissors game running on the #Raiden mainnet, @lorecirstea has been! Make sure to check it out here: https://cryptoplayer.one/\u00a0 (Raiden mainnet node required)https://twitter.com/lorecirstea/status/1081196360681041920\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 34,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1081154995599429632": {
+            "id": "1081154995599429632",
+            "text": "We just published Raiden Pulse #3 covering all important Raiden news from November and December! This episode includes the Red Eyes release, development updates, development team new joiners and a summary of the last events in 2018:https://medium.com/raiden-network/raiden-pulse-3-news-from-november-and-december-dd0da04961d3\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 76,
+            "num_retweets": 28,
+            "num_replies": 2
+        },
+        "1078248375739240448": {
+            "id": "1078248375739240448",
+            "text": "We indexed all public Ethereum networks incl. testnets and also the private PoA-blockchain Tobalaba from @energywebx ! \nTo start exploring blockchain data down to event level of smart contracts, get your free API key here: https://account.eth.events/auth/signup\u00a0",
+            "username": "get_eth_events",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1078078176377692163": {
+            "id": "1078078176377692163",
+            "text": "Love seeing this info aggregated in one place!\n\nExcited to go further with this work in hopes of building a standard smart contract debugging data format.\n\nWatch http://github.com/ethdebug\u00a0 to follow along, or get in touch to help out!\n\ncc @ethchris @alexberegszaszi @Yann300https://twitter.com/trufflesuite/status/1078055142681993221\u00a0\u2026",
+            "username": "gnidan",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1076223878366748672": {
+            "id": "1076223878366748672",
+            "text": "bonjour le monde https://medium.com/ethglobal/announcing-ethparis-march-8-10-2019-apply-now-a268351ee125\u00a0\u2026",
+            "username": "EthParis",
+            "num_likes": 113,
+            "num_retweets": 39,
+            "num_replies": 3
+        },
+        "1077579959533821952": {
+            "id": "1077579959533821952",
+            "text": "Merry Christmas from team Raiden! Have you tried out our recently released \"Red Eyes\" alpha testing version on the Ethereum mainnet yet? We are hosting a bug bounty for the Raiden code. You can find all details here: https://raiden.network/bug-bounty.html\u00a0",
+            "username": "raiden_network",
+            "num_likes": 79,
+            "num_retweets": 28,
+            "num_replies": 4
+        },
+        "1076215034370502657": {
+            "id": "1076215034370502657",
+            "text": "Explore the @raiden_network Red Eyes channel network here!\n\nhttps://explorer.raiden.network/tokens/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 349,
+            "num_retweets": 84,
+            "num_replies": 29
+        },
+        "1076149770685693953": {
+            "id": "1076149770685693953",
+            "text": "For a visualization and network statistics of the Raiden Network on mainnet, visit the Raiden Explorer: https://explorer.raiden.network/\u00a0",
+            "username": "raiden_network",
+            "num_likes": 42,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "1076148876808253440": {
+            "id": "1076148876808253440",
+            "text": "Alongside the Red Eyes launch on mainnet, we are hosting a bug bounty for the Raiden code. To find out more about the scope, bounty rewards and submission guidelines check: http://bounty.raiden.network\u00a0",
+            "username": "raiden_network",
+            "num_likes": 36,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1076145399910543361": {
+            "id": "1076145399910543361",
+            "text": "We are excited to announce that the alpha testing release \u201cRed Eyes\u201d of the Raiden Network is now live on the Ethereum mainnet!https://medium.com/raiden-network/red-eyes-mainnet-release-announcement-d48235bbef3c\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 505,
+            "num_retweets": 195,
+            "num_replies": 30
+        },
+        "1075874760767217667": {
+            "id": "1075874760767217667",
+            "text": "I, along with my partner in crime @razgraf, had the pleasure of organising the first ever Ethereum-focused event in my hometown - that's Ia\u0219i (pronounced Yash) in Romania.\n\nMini thread pic.twitter.com/SrFw0ozBoo",
+            "username": "PaulRBerg",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1076082315841978369": {
+            "id": "1076082315841978369",
+            "text": "I absolutely love this. This is made possible by the @crypto_xmas  community who spent their free time doing this. @raiden_network @imTokenOfficial @Givethio @MakerDAO @GetGitcoin @ethBounties @btcven @ethBounties @dappcon_berlin  you guys rock!!https://twitter.com/crypto_xmas/status/1076061864973475841\u00a0\u2026",
+            "username": "Knaerland",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1075670253563199488": {
+            "id": "1075670253563199488",
+            "text": "#Solidity 0.5.2 is out: Faster compilation, cheaper contracts, more SMT, better error messages and Yul-only contracts:https://github.com/ethereum/solidity/releases/tag/v0.5.2\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 91,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1075460563126374400": {
+            "id": "1075460563126374400",
+            "text": "The Ethereum Foundation is surveying projects and dApps already using #Ethereum to solve real-world issues. We're interested in hearing about apps at all stages of development, and we'd love to hear about your work! Click to take part: https://blog.ethereum.org/2018/12/19/call-for-submissions-dapps-solving-real-world-issues/\u00a0\u2026 #BUIDL",
+            "username": "ethereum",
+            "num_likes": 682,
+            "num_retweets": 267,
+            "num_replies": 82
+        },
+        "1075153764242350080": {
+            "id": "1075153764242350080",
+            "text": "Did you know you can now define enums in #Solidity interfaces?",
+            "username": "ethchris",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1072461080692170755": {
+            "id": "1072461080692170755",
+            "text": "Happy Christmas! I wrote this post about the linkdrop technology that powers @crypto_xmas . Feedback very welcome\nhttps://medium.com/@Gfriiis/linkdrops-an-open-source-standard-for-invite-digital-asset-links-on-ethereum-29f34b3fa5ec\u00a0\u2026 \u2026.",
+            "username": "Gustav_tech",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1074635521291362305": {
+            "id": "1074635521291362305",
+            "text": "See the 46th Reddit Weekly GitHub update on the most recent activity! This week: @storjproject tests micropayments with Raiden, Raiden v0.19.0 \"Polaro\u00efd\" released and Raiden Niftys for @crypto_xmas:  https://www.reddit.com/r/raidennetwork/comments/a6xfqq/git_weekly_update_46/\u00a0\u2026pic.twitter.com/iS68Ju0Kg8",
+            "username": "raiden_network",
+            "num_likes": 52,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "1073628269591830528": {
+            "id": "1073628269591830528",
+            "text": "Latest weekly #ethereum @raiden_network testnet release: v0.19.0 - Polaro\u00efd is out!  https://github.com/raiden-network/raiden/releases/tag/v0.19.0\u00a0\u2026. We are working towards getting a stable release to reach the red eyes mainnet milestone.pic.twitter.com/xbKIYBEiwb",
+            "username": "LefterisJP",
+            "num_likes": 34,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "1072819032653512704": {
+            "id": "1072819032653512704",
+            "text": "We are excited to follow @storjproject testing Raiden and their journey going forward drafting high-level designs on how to implement Raiden in the Storj payment system:https://twitter.com/storjproject/status/1072594266877247496\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 104,
+            "num_retweets": 29,
+            "num_replies": 2
+        },
+        "1071655458585436165": {
+            "id": "1071655458585436165",
+            "text": "Spread the word!\n\nWe\u2019re bringing Africa\u2019s FIRST @ETHGlobal hackathon to the beautiful tech hub of Cape Town, South Africa for the WILDEST ETH hackathon yet!\n\nCheck out our website for more details (http://ethcapetown.com/\u00a0) \n\nIt\u2019s time to #BUIDL in Cape Town! \n#ETHCapeTownpic.twitter.com/BJ1lUjXBFm",
+            "username": "ETHCapeTown",
+            "num_likes": 169,
+            "num_retweets": 61,
+            "num_replies": 7
+        },
+        "1072097000584298496": {
+            "id": "1072097000584298496",
+            "text": "We want to send special congrats to the winning teams of the Raiden API prizes. Check out what the #Raidenooh and #CryptoGrannies teams built in the respective devpost articles (with links to Github)! \n--> https://devpost.com/software/raidenooh\u00a0\u2026\n--> https://devpost.com/software/cryptogrannies\u00a0\u2026pic.twitter.com/YxlBgQeVi5",
+            "username": "raiden_network",
+            "num_likes": 20,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1072096106090258432": {
+            "id": "1072096106090258432",
+            "text": "Thank you @ethsingapore and @ETHGlobal for an exciting hackathon weekend! We participated in the \"Scaling blockchains in 2019 and beyond\" panel, sponsored the first Raiden API prizes, hosted an API workshop and were happy to see teams building on Raiden. @_czepluch @lorecirsteapic.twitter.com/fYngKBak8G",
+            "username": "raiden_network",
+            "num_likes": 33,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1071052095535628288": {
+            "id": "1071052095535628288",
+            "text": "#Ethereum Constantinople mainnet hard fork scheduled for block #7080000, estimated around the 16th of January, 2019!",
+            "username": "peter_szilagyi",
+            "num_likes": 920,
+            "num_retweets": 366,
+            "num_replies": 52
+        },
+        "1070990224606576640": {
+            "id": "1070990224606576640",
+            "text": "Are you in #Singapore for #ETHSingapore? Then don't miss the @raiden_network workshop at 22:30 local time where @lorecirstea and @_czepluch will show hackers how to build on Raiden over the weekend and win some neat API prizes.pic.twitter.com/sSu39BEHMC",
+            "username": "LefterisJP",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1070984363003781122": {
+            "id": "1070984363003781122",
+            "text": "We have set up a Gitter room for the @ethsingapore hackers building on Raiden. If you have any questions feel free to ask them there. @lorecirstea and  @_czepluch are on-site and happy to support you, too:https://gitter.im/raiden-network/eth-singapore-hackathon\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 28,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1070628461352546305": {
+            "id": "1070628461352546305",
+            "text": "We are excited to be hosting API prizes at a hackathon for the very first time at @ethsingapore! We will award $2000 in RDN for most innovative use case and $1000 in RDN for the best UX/UI. Attend our \"Get started Buidling on Raiden\" workshop tomorrow at 10.30PM to learn more.pic.twitter.com/bzzL9jwoJH",
+            "username": "raiden_network",
+            "num_likes": 41,
+            "num_retweets": 16,
+            "num_replies": 0
+        },
+        "1069988564006563841": {
+            "id": "1069988564006563841",
+            "text": "To all hackers attending @ethsingapore: We are excited to be hosting an API prize and want you to #BUIDL on Raiden! If you plan on using Raiden, this video is helpful to understand the underlying logic. Also, make sure to attend the on-site API workshop!",
+            "username": "raiden_network",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1069985902657748993": {
+            "id": "1069985902657748993",
+            "text": "Ever wondered how the Raiden Network Protocol works? Then check out our brand new video covering payment channels, mediation of transfers, routing and handling of multiple pending transfers:https://www.youtube.com/watch?v=jlcYmQHHutU\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 53,
+            "num_retweets": 25,
+            "num_replies": 1
+        },
+        "1069439629105913856": {
+            "id": "1069439629105913856",
+            "text": "If you missed it, definitely checkout this State Channel Researchers call, @FunFairTech gave a great presentation about their operational challenges and @raiden_network talked about their Testnet and upcoming launch. Exciting times for layer-2 ! https://www.youtube.com/watch?v=YzomDzpLW_o&t=115s\u00a0\u2026",
+            "username": "CelerNetwork",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1068552007382900736": {
+            "id": "1068552007382900736",
+            "text": "The latest #ethereum @raiden_network testnet snapshot release v0.18.0 - \"Farnsworth\" is out. It contains three important bug fixes on our way to the main-net release: https://github.com/raiden-network/raiden/releases/tag/v0.18.0\u00a0\u2026pic.twitter.com/pOIYIpyzli",
+            "username": "LefterisJP",
+            "num_likes": 39,
+            "num_retweets": 16,
+            "num_replies": 3
+        },
+        "1068217249134186497": {
+            "id": "1068217249134186497",
+            "text": "Two features I would like to highlight: External functions can be overridden by public functions in 0.5.1 and we made substantial progress with the SMT checker! You might even be able to use it through solc-js!",
+            "username": "ethchris",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1067443942868873216": {
+            "id": "1067443942868873216",
+            "text": "Check out the new blog post on #medium about #RemixIDE 0.7.5 release with #solidity 0.5.0 support!\nhttps://medium.com/remix-ide/remix-ide-v0-7-5-released-a386ed6faf38\u00a0\u2026\n@Yann300 @ryestew @GrandSchtroumpf",
+            "username": "LianaHusikyan",
+            "num_likes": 16,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1068090693640482818": {
+            "id": "1068090693640482818",
+            "text": "Before Devcon, Augusto participated in the 6th State Channel Researchers Call alongside other exciting state channel projects. In the episode, #RaidenNetwork and @FunFairTech are introduced. Thanks for the interesting discussions! @CelerNetwork @L4ventureshttps://www.youtube.com/watch?v=YzomDzpLW_o&index=6&list=PLXQx-6BZNAosOy8Lxsezh2D84HVgqA7nM\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 18,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1067860588045484033": {
+            "id": "1067860588045484033",
+            "text": "It is done: @gnosisSafe is on mainnet! The most easy to use multisig & first smart contract based wallet for end-users. It took us over one year of hard work. Very happy for our team and excited for the future. This building block will enable many new possibilities. #BUIDLhttps://twitter.com/gnosisPM/status/1067795270933590016\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 195,
+            "num_retweets": 47,
+            "num_replies": 6
+        },
+        "1063159792372461568": {
+            "id": "1063159792372461568",
+            "text": "I joined @_brainbot today.",
+            "username": "pirapira",
+            "num_likes": 143,
+            "num_retweets": 13,
+            "num_replies": 10
+        },
+        "1062435516103225345": {
+            "id": "1062435516103225345",
+            "text": "Finally! There's this super hot #Solidity 0.5.0 release: https://github.com/ethereum/solidity/releases/tag/v0.5.0\u00a0\u2026\n\nWe still need to push to npm.\n\nTime to hide from bug reports ",
+            "username": "alexberegszaszi",
+            "num_likes": 283,
+            "num_retweets": 98,
+            "num_replies": 11
+        },
+        "1059494918144643074": {
+            "id": "1059494918144643074",
+            "text": "Today, Andre joined a panel at the App Store Foundation Summit in Lisbon discussing how blockchain can impact the apps economy by enabling in-store payments. Thanks for inviting us @AppCoinsProject!pic.twitter.com/ffvk1elAv4",
+            "username": "raiden_network",
+            "num_likes": 31,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1059728738865307648": {
+            "id": "1059728738865307648",
+            "text": "Here you can find the slides from our #devcon4 talk on the #ethereum @raiden_network:https://docs.google.com/presentation/d/1r1JOtZR006XJoZ-w5tHUrbVus55wtaRO_RiC2kFwuXQ/edit?usp=sharing\u00a0\u2026",
+            "username": "LefterisJP",
+            "num_likes": 33,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1059547962882310149": {
+            "id": "1059547962882310149",
+            "text": "Slides of my #isola2018 talk about SMT-based verification of #Solidity: https://chriseth.github.io/notes/talks/smt_solidity_isola/\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1059462974719574016": {
+            "id": "1059462974719574016",
+            "text": "While waiting for the video records of the #devcon4 sessions to be uploaded, we added the slides from the Raiden hands-on workshop to the workshop repo on Github. The slides include an overview of API calls and example responses. You can find them here:https://github.com/raiden-network/workshop-devcon4/blob/master/Devcon4_Raiden_Workshop_slides.pdf\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 45,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1059393108083912704": {
+            "id": "1059393108083912704",
+            "text": "See the 40th Reddit Weekly GitHub update on the most recent activity! This week: Coverage of the Raiden team at Devcon 4 and Raiden v0.15.1 \"The Cave\" testnet release:https://www.reddit.com/r/raidennetwork/comments/9ubatx/git_weekly_update_40/\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 32,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1057986822670827520": {
+            "id": "1057986822670827520",
+            "text": "Let\u2019s play! Interactive Raiden game during the workshop: Bring your favorite character to the finish line by sending Devcon4TestTokens to the respective address. #devcon #ethereumpic.twitter.com/JBsp7dfT5o",
+            "username": "raiden_network",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1057981638053974016": {
+            "id": "1057981638053974016",
+            "text": "So far, roughly 250 channels have been opened, 28 closed, tokens deposited and plenty of off-chain transfers sent. The Devcon4TestToken Network has been created and looks great!pic.twitter.com/b3jnTlHRgM",
+            "username": "raiden_network",
+            "num_likes": 35,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1057541883474395136": {
+            "id": "1057541883474395136",
+            "text": "Live stream + Agenda Links!\nhttps://www.reddit.com/r/ethereum/comments/9stuwn/devcon4_live_stream_links_agenda_mega_thread/\u00a0\u2026 #Devcon4",
+            "username": "EFDevcon",
+            "num_likes": 159,
+            "num_retweets": 68,
+            "num_replies": 45
+        },
+        "1057294315645517825": {
+            "id": "1057294315645517825",
+            "text": "Today, decentralized organizations got real. Aragon 0.6 Alba is on Mainnet. Welcome to a new era for human collaboration https://blog.aragon.org/aragon-06-is-live-on-mainnet\u00a0\u2026",
+            "username": "licuende",
+            "num_likes": 172,
+            "num_retweets": 39,
+            "num_replies": 11
+        },
+        "1057246415905345536": {
+            "id": "1057246415905345536",
+            "text": "Hey #DevCon! We are excited to be here. Come and see @LefterisJP talk at 10:35AM in Prism and join the Raiden Hands-on workshop at 1PM in Mikado (with Paul, Jacob and Ulrich), both taking place on Thursday. Or just say hi if you see us!pic.twitter.com/2TOdZeU3YG",
+            "username": "raiden_network",
+            "num_likes": 58,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1056168247396130817": {
+            "id": "1056168247396130817",
+            "text": "In #Prague on Monday for #Devcon 4? Don't miss our very own @_czepluch representing the @raiden_network at the #Layer2 gathering. https://www.eventbrite.com/e/the-future-of-layer-2-prague-edition-tickets-51535876193\u00a0\u2026pic.twitter.com/i8OTz0Ua4x",
+            "username": "LefterisJP",
+            "num_likes": 35,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1054670795237191680": {
+            "id": "1054670795237191680",
+            "text": "Are you already familiar with our updated WebUI? It has been built using the Raiden Network API. To learn more about how to use Raiden programmatically, join our hands-on Raiden workshop at #Ethereum @EFDevcon in Prague next week!https://www.youtube.com/watch?v=ASWeFdHDK-E&feature=youtu.be\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 48,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "1055383500667473920": {
+            "id": "1055383500667473920",
+            "text": "Already excited for @ethereum #devconiv in Prague? Meet us here: \n1) \"Future of Layer 2\" event with @_czepluch on Monday; \n2) @LefterisJP talks about \"How to get to a production ready Payment Channel Network\" at DevCon\n3) \"Raiden Network hands-on workshop\" at DevCon",
+            "username": "raiden_network",
+            "num_likes": 52,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1050533900001243136": {
+            "id": "1050533900001243136",
+            "text": "Update on our recent hack: @ameensol spoke with the attacker on the phone, and they sent us the private key with all the funds. We sent them back $5,000 as a reward along with the 5.5 ETH they used as seed capital for the attack. \n\nCongratulations, anonymous haxor!",
+            "username": "SpankChain",
+            "num_likes": 351,
+            "num_retweets": 84,
+            "num_replies": 31
+        },
+        "1050866721798672384": {
+            "id": "1050866721798672384",
+            "text": "Tonight, we released #Raiden_Network testnet v0.13.0! The new release contains several bug fixes. Additionally, the Raiden smart contracts are now also deployed on Kovan and Rinkeby testnets. Get Raiden v0.13.0 here: https://github.com/raiden-network/raiden/releases/tag/v0.13.0\u00a0\u2026pic.twitter.com/nxqrFaWII4",
+            "username": "raiden_network",
+            "num_likes": 73,
+            "num_retweets": 27,
+            "num_replies": 1
+        },
+        "1048162452951769088": {
+            "id": "1048162452951769088",
+            "text": "You can now read our latest update on safety measures in preparation for the Raiden Network Red Eyes #Ethereum mainnet launch on our Blog:https://medium.com/raiden-network/update-on-safety-measures-for-red-eyes-release-and-the-bug-bounty-22c4855a8623\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 84,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "1041968572988358656": {
+            "id": "1041968572988358656",
+            "text": "You can now watch Augusto's talk on the current state of the #Raiden_Network from @BerBlockWeek here: https://www.youtube.com/watch?v=GrWqRVDOC4M&list=PLbrz7IuP1hrhw0r3NgWo9UbTqt9gPJaRt&index=3\u00a0\u2026 \nA summary of the whole event is available here: https://our.status.im/p/5ead7d0e-a037-4eb3-be9d-5cada235a2de/\u00a0\u2026 \nThanks @golemproject and @ethstatus for inviting us to join this meetup!",
+            "username": "raiden_network",
+            "num_likes": 52,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "1045701995208871936": {
+            "id": "1045701995208871936",
+            "text": "We are looking for participation in #Futarchy experiments suggested by @VitalikButerinhttps://ethresear.ch/t/request-for-participation-in-futarchy-experiments/3587\u00a0\u2026",
+            "username": "koeppelmann",
+            "num_likes": 138,
+            "num_retweets": 40,
+            "num_replies": 9
+        },
+        "1045185553283645440": {
+            "id": "1045185553283645440",
+            "text": "We will start to move all our project management to @github making it public for everyone. Open source development starts with planning and getting early feedback from the community is essential. \n\nWe are starting with the @gnosisSafe contracts:https://github.com/gnosis/safe-contracts/projects/1\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 66,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1044255929582194689": {
+            "id": "1044255929582194689",
+            "text": "Just published my homepage https://www.gustav.tech\u00a0 including posts on software development, using blockchain for public sector services, complementary currencies and the care economy! Next post will cover liquid democracy :)",
+            "username": "Gustav_tech",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1043864970549710853": {
+            "id": "1043864970549710853",
+            "text": "#Ethereum EVM quirk: there is no way to determine that I'm currently executing within a selfdestructed contract.\nSpecifically: if I delegatecall some code, it's impossible to know if that code selfdestructed me, and I thus should revert(). \nWould love to be proven wrong.",
+            "username": "mhswende",
+            "num_likes": 38,
+            "num_retweets": 9,
+            "num_replies": 6
+        },
+        "1043203517140348928": {
+            "id": "1043203517140348928",
+            "text": "We just released #Raiden_Network v0.10.0 \"Janin\". The focus from now on lays mostly on testing and bug fixing in preparation for Red Eyes on mainnet. Help us by downloading the software, testing and reporting any issues you should find: https://github.com/raiden-network/raiden/releases/tag/v0.10.0\u00a0\u2026pic.twitter.com/MwHviu0uFg",
+            "username": "raiden_network",
+            "num_likes": 70,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "1043087763694923776": {
+            "id": "1043087763694923776",
+            "text": "Read our latest update on the current development status and what still needs to be done before the Red Eyes mainnet launch on our Blog:https://medium.com/raiden-network/update-on-the-development-status-and-the-red-eyes-mainnet-launch-9e09e63e7ba3\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 68,
+            "num_retweets": 30,
+            "num_replies": 0
+        },
+        "1042319910385410048": {
+            "id": "1042319910385410048",
+            "text": "Ever wanted the EVM to enforce immutability? Try out the #Solidity 0.5.0 prerelease! It will use STATICCALL when calling view or pure functions https://remix.ethereum.org/#version=soljson-v0.4.26-nightly.2018.9.18+commit.fcb48bce.js\u00a0\u2026 #ethereum",
+            "username": "ethchris",
+            "num_likes": 33,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1041334335520030720": {
+            "id": "1041334335520030720",
+            "text": "Very happy to report I finished this year's @berlinmarathon, despite having a metal plate in my foot. Did not do a good time so I am disappointed but perhaps this was to be expected. Special thanks to @MPtherealMVP for the play by play tweets. #berlin42pic.twitter.com/TqbVwex8Cr",
+            "username": "LefterisJP",
+            "num_likes": 58,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1039910758858022912": {
+            "id": "1039910758858022912",
+            "text": "I suspect that many of the problems we\u2019re seeing with smart contracts come from people ignoring a simple statement of Szabo\u2019s from the 1994 article. He says: \u201cTo communicate transaction semantics well, we need good visual metaphors for the elements of the contract.\u201d",
+            "username": "ZachSmolinski",
+            "num_likes": 83,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1039626960023040001": {
+            "id": "1039626960023040001",
+            "text": "Anyone looking for a junior dev to work on their project? DM me. Could be for peanuts as she wants to learn. Either London based or remote. She is learning HTML/CSS/React and would like a project to help out on so she can keep learning. Retweet for visibility pls.",
+            "username": "_jefflau",
+            "num_likes": 2,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1039482816176812032": {
+            "id": "1039482816176812032",
+            "text": "@lorecirstea for making Pipeline, a visual language for Ethereum smart contracts https://youtu.be/sC7Hd6Sr1SI\u00a0\n\nVisual software is excellent for non-technical people to contribute, and we discussed how such a language could allow controls engineering techniques to enter Ethereum design",
+            "username": "fubuloubu",
+            "num_likes": 19,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1039229664219279360": {
+            "id": "1039229664219279360",
+            "text": "Getting started with #ethereum #Dapps wasn\u2019t an easy task. It was fun, but it wasn\u2019t easy. Who is up for an @ethberlin userthon?",
+            "username": "AlexBoerger",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 6
+        },
+        "1038805663563046912": {
+            "id": "1038805663563046912",
+            "text": "You can control your ethereum wallet with your government issued ID now. #eid #e-residencyhttps://devpost.com/software/ethstonia-identity\u00a0\u2026",
+            "username": "Logvinov_Leon",
+            "num_likes": 49,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1038409187087331329": {
+            "id": "1038409187087331329",
+            "text": "Hello #ethberlin yogis! @lorecirstea and I will be heading to a park for flash mob yoga at the park right outside the hackathon venue. We will be meeting at the factory gate at 16:15. Come and join us!pic.twitter.com/M8yCPUU4d0",
+            "username": "makoto_inoue",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1038186361470283777": {
+            "id": "1038186361470283777",
+            "text": "We got a present for all the #ETHBerlin hackers. We released #ethereum @raiden_network v0.8.0 \"rising_edge\" just now to coincide with the start of the hackathon: https://github.com/raiden-network/raiden/releases/tag/v0.8.0\u00a0\u2026.pic.twitter.com/DM8zNsBams",
+            "username": "LefterisJP",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1037693992417329157": {
+            "id": "1037693992417329157",
+            "text": "Watch Vitalik Buterin, Karl Floersch, Liam Horne, Hsiao Wei Liam and Heiko Hees discuss Payment Channel Networks, Plasma and Sharding during the \"Tackling Scalability\" panel at the Ethereum Meetup 2018 in Zug here:https://www.youtube.com/watch?v=AH2g-KpPk7w&feature=youtu.be\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 76,
+            "num_retweets": 34,
+            "num_replies": 2
+        },
+        "1037279332119408640": {
+            "id": "1037279332119408640",
+            "text": "Contract upgrade anti-patterns: Know the risks before building data separation or proxy contract-based upgrades. http://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/\u00a0\u2026pic.twitter.com/KbzPF3fB93",
+            "username": "trailofbits",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1037258839421276161": {
+            "id": "1037258839421276161",
+            "text": "It's #BerlinBlockchainWeek! Don't miss our very own Augusto presenting the current state of the #Raiden_Network and future outlook at the \"Mass Adoption and Use Cases\" meetup alongside great talks from @golemproject and @ethstatus tonight:https://www.eventbrite.com/e/mass-adapption-use-cases-golem-raiden-status-tickets-49559434603\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 55,
+            "num_retweets": 22,
+            "num_replies": 6
+        },
+        "1036907367114391552": {
+            "id": "1036907367114391552",
+            "text": "We\u2019re having spontaneous meditation/stretching/yoga sessions throughout the hackathon. Follow the buddha sitting in the courtyard - oh wait that\u2019s just @lorecirstea with a new headshave :)https://twitter.com/makoto_inoue/status/1036898241420382208\u00a0\u2026",
+            "username": "ETHBerlin",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "1036898241420382208": {
+            "id": "1036898241420382208",
+            "text": "#healthyhackathon may be back to #ethberlin Make sure to bring easy gym clothes or shorts for potential flash mob yoga sessions  cc @lorecirstea @ETHBerlin @_jefflau @DeanEigenmann @aliazam2251 @jdetychey @vanderkriek @sohkai @caspar",
+            "username": "makoto_inoue",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1036596950462803968": {
+            "id": "1036596950462803968",
+            "text": "Are you looking for a job as a #cpp software engineer in #Berlin or Europe? Do you want to work on #opensource (http://github.com/ethereum/solidity\u00a0\u2026)? Do you have some formal training or even experience in compilers? Send your CV to solidity-jobs@ethereum.org!",
+            "username": "ethchris",
+            "num_likes": 25,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1034425329669074945": {
+            "id": "1034425329669074945",
+            "text": "We\u2019ve just published Raiden Pulse #1, introducing a bi-monthly summary of all things Raiden: development updates, events, announcements and more. Read the first issue here:https://medium.com/raiden-network/raiden-pulse-1-news-from-july-and-august-423fae4e9d3e\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 108,
+            "num_retweets": 41,
+            "num_replies": 2
+        },
+        "1034121806700003331": {
+            "id": "1034121806700003331",
+            "text": "Join us next week, September 5, in Berlin for an exciting evening about \u201eMass adApption and Use Cases\u201c together with @golemproject and @ethstatus at @fullnode_berlin! See you there:\nhttps://www.eventbrite.com/e/mass-adapption-use-cases-golem-raiden-status-tickets-49559434603\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 61,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "1033012913102090240": {
+            "id": "1033012913102090240",
+            "text": "We just released Raiden Network testnet v0.6.0! Get \"Metamorphosis\" and check out our updated WebUI. As always, please help us by testing and reporting any issues you find. https://github.com/raiden-network/raiden/releases/tag/v0.6.0\u00a0\u2026pic.twitter.com/Qi4XhkhDuR",
+            "username": "raiden_network",
+            "num_likes": 96,
+            "num_retweets": 32,
+            "num_replies": 4
+        },
+        "1033000274410053633": {
+            "id": "1033000274410053633",
+            "text": "We will continue to use DAPPs and web3 technology whenever possible. Today we started giving employees the option of getting payed in DAI we have drawn from a CDP. @gnosisPM https://etherscan.io/tx/0xfb89c02aff421a17b27e966b0de78ac960eca817eb64f57d6ad6d1cdce43d5df\u00a0\u2026 #itsdappening",
+            "username": "koeppelmann",
+            "num_likes": 185,
+            "num_retweets": 29,
+            "num_replies": 10
+        },
+        "1032358321372594177": {
+            "id": "1032358321372594177",
+            "text": "6) Remix is the most helpful tool for auditors.  It\u2019s rare that you have something that allows you to look at entire code base, compile it, test it and debug it -\n \ncc @cryptodavidw",
+            "username": "robbiebent1",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1031526382772396032": {
+            "id": "1031526382772396032",
+            "text": "I will be participating as a mentor in the @ETHBerlin hackathon in #Berlin this September. Looking forward to seeing some of you there.",
+            "username": "LefterisJP",
+            "num_likes": 31,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1031285091513851905": {
+            "id": "1031285091513851905",
+            "text": "Just finished my latest post on Virtual Payment Channels - this one covers work being done by @PerunNetwork, @SpankChain, @finalitylabs, @ConnextNetwork, and countless others.\n\nIf you're interested in second-layer scaling and payments, please retweet :)https://medium.com/@eolszewski/state-channel-for-dummies-part-4-f3ba9d76c7c4\u00a0\u2026",
+            "username": "hrdwrknvrstps",
+            "num_likes": 43,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1030486665662525441": {
+            "id": "1030486665662525441",
+            "text": "Today we released Raiden Network testnet v0.5.1! Get \u201c\u00c1ndale\u201d here and help us by testing and reporting any issues you find: https://github.com/raiden-network/raiden/releases/tag/v0.5.1\u00a0\u2026pic.twitter.com/5iGqxnpi5S",
+            "username": "raiden_network",
+            "num_likes": 70,
+            "num_retweets": 28,
+            "num_replies": 2
+        },
+        "1030051960949551109": {
+            "id": "1030051960949551109",
+            "text": "We will be presenting Raiden at the Copenhagen Ethereum Meetup on August 28th alongside @Trustlines_Net, @MakerDAO  and @uport_me. We hope to see many of you there for an interesting evening! @cphethereumhttps://www.meetup.com/Copenhagen-Ethereum-Meetup/events/252115441/\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 74,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "1029900695925706753": {
+            "id": "1029900695925706753",
+            "text": "1. Today I am going to make a tweet storm explaining the history and state of Ethereum's Casper research, including the FFG vs CBC wars, the hybrid => full switch, the role of randomness, mechanism design issues, and more.",
+            "username": "VitalikButerin",
+            "num_likes": 3740,
+            "num_retweets": 1258,
+            "num_replies": 165
+        },
+        "1029513815283642368": {
+            "id": "1029513815283642368",
+            "text": "More of this!!https://twitter.com/lorecirstea/status/1029351383726784512\u00a0\u2026",
+            "username": "TaylorGerring",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1028264475542122499": {
+            "id": "1028264475542122499",
+            "text": "Last night we released v0.5.0 - Tanacetum of the #ethereum @raiden_network. This is a ropsten testnet release, breaking compatibility with the 0.4.x series and using newly deployed contracts. https://github.com/raiden-network/raiden/releases/tag/v0.5.0\u00a0\u2026. Download it and help us test raiden.pic.twitter.com/Of2NpvxyiV",
+            "username": "LefterisJP",
+            "num_likes": 67,
+            "num_retweets": 22,
+            "num_replies": 1
+        },
+        "1028266435825618944": {
+            "id": "1028266435825618944",
+            "text": "Raiden Network testnet v0.5.0 - Tanacetum is out! Another step closer to the #ethereum mainnet release. Get it here and help us by testing and reporting any issues you find:https://github.com/raiden-network/raiden/releases/tag/v0.5.0\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 110,
+            "num_retweets": 45,
+            "num_replies": 4
+        },
+        "1025377667732922369": {
+            "id": "1025377667732922369",
+            "text": "All @dappcon_berlin are now available on Youtube! Here's the link to all playlists (grouped by day and stage): https://www.youtube.com/channel/UCruCCeCNWBAM7JI-xAMtXpQ/playlists\u00a0\u2026\nEnjoy watching!",
+            "username": "dappcon_berlin",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1025352548318961664": {
+            "id": "1025352548318961664",
+            "text": "The Gnosis Safe is open source. Check out the code below!\nhttps://github.com/gnosis/safe-contracts/\u00a0\u2026\nhttps://github.com/gnosis/safe-android\u00a0\u2026\nhttps://github.com/gnosis/safe-ios\u00a0https://github.com/gnosis/safe-browser-extension\u00a0\u2026",
+            "username": "gnosisSafe",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1025336553785237504": {
+            "id": "1025336553785237504",
+            "text": "The authors of EIP 1167 have requested it be moved to Last Call, meaning everyone has 2 weeks to read and comment before it\u2019s considered for Finalisation.\n\nPlease give your feedback!https://eips.ethereum.org/EIPS/eip-1167\u00a0",
+            "username": "nicksdjohnson",
+            "num_likes": 23,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1025022436599836672": {
+            "id": "1025022436599836672",
+            "text": "The talk from the #OffTheChain workshop in #Berlin is now available. Check it out, especially Section 3, for a good in-depth presentation of the #ethereum @raiden_network. That's what happens if you give me 30 mins instead of 20 ;)https://www.youtube.com/watch?v=8Duil4pLzhI&t=6s\u00a0\u2026",
+            "username": "LefterisJP",
+            "num_likes": 16,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1024081225659699200": {
+            "id": "1024081225659699200",
+            "text": "Our Devcon \"call for participation\"  (speaking opportunities) is officially open!https://blog.ethereum.org/2018/07/30/devcon4-call-for-participation/\u00a0\u2026",
+            "username": "mi_ayako",
+            "num_likes": 72,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1023612720132902912": {
+            "id": "1023612720132902912",
+            "text": "Can we get some buidlers to give @lorecirstea feedback? This is a great tool \nAnd can we get some auditor to review the contract for our conference attendants by @makoto_inoue (DON\u2019T MAKE ME TAG YOU INDIVIDUALLY COS I WILL)https://twitter.com/lorecirstea/status/1022469189003632640\u00a0\u2026",
+            "username": "ETHBerlin",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1022791081736515584": {
+            "id": "1022791081736515584",
+            "text": "few ppl write down their ideas in the cryptocurrency space, so everything sounds really complicated. the moment something is written down - the writer can work through details and simplify the concept, an the reader can bootstrap from that. i always code+write in parallel.",
+            "username": "paddykcl",
+            "num_likes": 111,
+            "num_retweets": 12,
+            "num_replies": 7
+        },
+        "1019919773742845953": {
+            "id": "1019919773742845953",
+            "text": "The Raiden release for the Red Eyes milestone, codename ICALO, is now live on the #ethereum Ropsten test network. Read more here: https://medium.com/@raiden_network/raiden-red-eyes-testnet-release-cd4fc9cfaf6\u00a0\u2026 and help us by testing and reporting any issues you find",
+            "username": "raiden_network",
+            "num_likes": 105,
+            "num_retweets": 38,
+            "num_replies": 3
+        },
+        "1019904016204083200": {
+            "id": "1019904016204083200",
+            "text": "Panel on #plasma and #StateChannels at @dappcon_berlin. Two of our guys up there! @heikohees and Augusto Hack.pic.twitter.com/wb3hXHp7rd",
+            "username": "LefterisJP",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1019894254125056000": {
+            "id": "1019894254125056000",
+            "text": "Our dear @LefterisJP presenting @raiden_network at #dappcon @dappcon_berlinpic.twitter.com/GjnX88vBWh",
+            "username": "_czepluch",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1017365070265880577": {
+            "id": "1017365070265880577",
+            "text": "#Solidity 0.5.0 will allocate and free local variables according to their C99 scope, potentially relieving some of the \"stack too deep\" pain!https://github.com/ethereum/solidity/issues/3672\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 77,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1014256375726305280": {
+            "id": "1014256375726305280",
+            "text": "Mark your calendars! Devcon4 tickets go on sale at 8AM PDT on July 9. Read about our Devcon4 ticketing process here: https://goo.gl/QX5pPj\u00a0pic.twitter.com/2BNFr2x1va",
+            "username": "ethereum",
+            "num_likes": 348,
+            "num_retweets": 146,
+            "num_replies": 35
+        },
+        "1013810987340910594": {
+            "id": "1013810987340910594",
+            "text": " http://Cryptoeconomics.study\u00a0 update! \n\nOver the past few weeks I've released 6 lectures which cover foundational concepts that we will build on throughout the course.",
+            "username": "karl_dot_tech",
+            "num_likes": 345,
+            "num_retweets": 94,
+            "num_replies": 10
+        },
+        "1013761711877382144": {
+            "id": "1013761711877382144",
+            "text": "Join us for @dappcon_berlin\u2014a conference by developers for developers, along with impressive industry experts from @ethereum @golemproject @AragonProject @trufflesuite @raiden_network @cosmos @daostack @ethstatus @KyberNetwork @web3foundation & more!https://www.eventbrite.de/e/dappcon-developer-conference-for-ethereum-dapps-infrastructure-tickets-46942479219\u00a0\u2026",
+            "username": "dappcon_berlin",
+            "num_likes": 67,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "1012697472383225857": {
+            "id": "1012697472383225857",
+            "text": "Join us tomorrow and Sunday for the #offthechain workshop in #Berlin. Meet the team and get a deeper understanding of the raiden network protocol: https://binarydistrict.com/workshop/master-workshop-off-the-chain/\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 51,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "1009898535750373379": {
+            "id": "1009898535750373379",
+            "text": "You make it sound like our project is closed source rather than unfinished. REVIVE does not accomplish the claims you have made about hubs and collateral (but I'm pretty sure you're aware of this), whereas our claims are covered by our paper and public talks.  Also no ICO.",
+            "username": "technocrypto",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1009637806656798720": {
+            "id": "1009637806656798720",
+            "text": "Is it weird that obsessively detailed write-ups like these turn me on? \n\nOmg and it's on github so people can edit and add to it?!?!!?  https://github.com/sigp/solidity-security-blog\u00a0\u2026https://blog.sigmaprime.io/solidity-security.html\u00a0\u2026",
+            "username": "tayvano_",
+            "num_likes": 90,
+            "num_retweets": 21,
+            "num_replies": 8
+        },
+        "1004636388778799104": {
+            "id": "1004636388778799104",
+            "text": "Absolutely. And it's time for us to develop voting protocols that are coercion resistant and verifiable, on-chain.",
+            "username": "el33th4xor",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1003619788382498816": {
+            "id": "1003619788382498816",
+            "text": "Looking for \n\n1x UX/UI designer \n1x Senior frontend dev\n\nto join us working full-time on the @Trustlines_Net near @HS_Mainz, Germany.\n\nUX/UI: https://angel.co/brainbot-group/jobs/344495-ux-ui-designer-trustlines-network-mainz-germany\u00a0\u2026\n\nFrontend: https://angel.co/brainbot-group/jobs/373535-senior-frontend-developer-trustlines-network\u00a0\u2026\n#Ethereum #Blockchain #developerspic.twitter.com/qvbpiXE3Z0",
+            "username": "Gustav_tech",
+            "num_likes": 8,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1001866541602918401": {
+            "id": "1001866541602918401",
+            "text": "#Ethereum meetup tomorrow, 1900 CEST at TU Berlin: Overview of @Truebitprotocol's architecture and new features of #Solidity 0.5.0:https://www.meetup.com/de-DE/Berlin-Ethereum-Meetup/events/251102563/\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "999567639516246016": {
+            "id": "999567639516246016",
+            "text": "Did you know you can concatenate byte arrays / strings in #Solidity using `abi.encodePacked(a, b, c)`?",
+            "username": "ethchris",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "999302581720616961": {
+            "id": "999302581720616961",
+            "text": "Very happy to see researchers working to improve payment channel systems by tackling our open problems. Great work!https://twitter.com/paddyucl/status/999011221960560640\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 77,
+            "num_retweets": 18,
+            "num_replies": 9
+        },
+        "999011221960560640": {
+            "id": "999011221960560640",
+            "text": "Pisa: Arbitration Outsourcing for State Channels\nBlog: http://hackingdistributed.com/2018/05/22/pisa/\u00a0\u2026\n\nWith @socrates1024 @suryabakshi iddo bentov and Sarah Meiklejohn.pic.twitter.com/czmLyyLn3R",
+            "username": "paddykcl",
+            "num_likes": 85,
+            "num_retweets": 27,
+            "num_replies": 3
+        },
+        "997568780921434112": {
+            "id": "997568780921434112",
+            "text": "State channels panel with @Ethan_Heilman @LefterisJP @paddyucl @AFDudley0 and @SamiMakela #L2summitpic.twitter.com/goUFRPTNLC",
+            "username": "neha",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "995056816093528066": {
+            "id": "995056816093528066",
+            "text": "We're planning our first flagship Web 3.0 conference. It will be in Berlin in October and will provide an opportunity for collaboration on building a decentralized tech stack. Topics include: blockchain, decentralized storage, languages, transient messaging.",
+            "username": "web3foundation",
+            "num_likes": 153,
+            "num_retweets": 34,
+            "num_replies": 17
+        },
+        "994950871652978688": {
+            "id": "994950871652978688",
+            "text": "[Blog] Devcon4 Announcement. Join us in Prague Oct 30 - Nov 2! https://goo.gl/KoNDfq\u00a0 #ethereum #devcon4",
+            "username": "ethereum",
+            "num_likes": 614,
+            "num_retweets": 238,
+            "num_replies": 48
+        },
+        "994627686508187649": {
+            "id": "994627686508187649",
+            "text": "Registration for the Off the Chain workshop is open!!  70 euros for an awesome two day event! \n\nPlease join us! \nhttps://binarydistrict.com/courses/master-workshop-off-the-chain/\u00a0\u2026pic.twitter.com/mPGYMT1D5j",
+            "username": "paddykcl",
+            "num_likes": 24,
+            "num_retweets": 7,
+            "num_replies": 5
+        },
+        "994559722530459648": {
+            "id": "994559722530459648",
+            "text": "We will participate in the #L2Summit in Boston next week (May 18-19) organized by @fidelitylabs and the MIT @medialab to discuss layer 2 scaling solutions. http://www.bostonblockchaincommunity.com/\u00a0",
+            "username": "raiden_network",
+            "num_likes": 74,
+            "num_retweets": 18,
+            "num_replies": 13
+        },
+        "992778882179915776": {
+            "id": "992778882179915776",
+            "text": "My buddy @Gfriiis presenting about @Trustlines_Net at #ethereum #EdConpic.twitter.com/RmT58gEuKN",
+            "username": "LefterisJP",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "992384080447725568": {
+            "id": "992384080447725568",
+            "text": "Our @LefterisJP will be presenting in #Edcon today about the #raiden_network at 15:45 EST. Don't miss it if you are in Toronto!",
+            "username": "raiden_network",
+            "num_likes": 67,
+            "num_retweets": 17,
+            "num_replies": 10
+        },
+        "989524620284973056": {
+            "id": "989524620284973056",
+            "text": "More a reader than a listener/watcher? Out NOW! The summary \u00e0nd transcript of the LAST #ScalingNOW! interview in our series, number #6 w/ @lorecirstea from @brainbot_tech in a talk with Giveth Unicorn @thegrifft, transcribed by Unicorn @a13xndrahttps://medium.com/giveth/scalingnow-interview-6-loredana-cirstea-on-%C2%B5raidens-ready-now-micropayment-solution-45c2d1beca2c\u00a0\u2026",
+            "username": "Givethio",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "988788108803141632": {
+            "id": "988788108803141632",
+            "text": "Next week on May the 4th we will be presenting at the #ethereum #edcon conference in Toronto about the Raiden network and our progress so far. https://edcon.io/\u00a0pic.twitter.com/5Uvl5zEwR0",
+            "username": "raiden_network",
+            "num_likes": 131,
+            "num_retweets": 35,
+            "num_replies": 7
+        },
+        "986141734890627072": {
+            "id": "986141734890627072",
+            "text": "Dynamic returns, revert error messages, safer constructors, ABI encoding utils and tons more: #Solidity 0.4.22 released: https://github.com/ethereum/solidity/releases/tag/v0.4.22\u00a0\u2026 #Ethereum",
+            "username": "ethchris",
+            "num_likes": 92,
+            "num_retweets": 52,
+            "num_replies": 5
+        },
+        "984778372898320384": {
+            "id": "984778372898320384",
+            "text": "We are joining a meetup tour with @AragonProject @gnosisPM @MakerDAO & @melonport (http://ethtour.asia\u00a0). Our first stop will be Tokyo on 16.04.https://www.meetup.com/Ethereum-Japan/events/249284430/\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 122,
+            "num_retweets": 27,
+            "num_replies": 7
+        },
+        "979279401924874240": {
+            "id": "979279401924874240",
+            "text": "Looking forward to my Smart Contracts workshop at  @easterhegg tomorrow! Please bring your laptops and install http://metamask.io\u00a0 #eh18https://pretalx.eh18.easterhegg.eu/eh18/talk/3M7MVR/\u00a0\u2026",
+            "username": "ethchris",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "979036255378984960": {
+            "id": "979036255378984960",
+            "text": "In collaboration with @BinaryDistrict, we've set up the \"Off the Chain\" event!\n\nWe have 16 excellent speakers on state channels (and offchain protocols)! There are a few more slots; so if you'd like to speak get in touch! plz plz plz retweet too!\n\nLink: https://binarydistrict.com/courses/proof-off-the-chain/\u00a0\u2026https://twitter.com/paddyucl/status/950314949276028928\u00a0\u2026",
+            "username": "paddykcl",
+            "num_likes": 42,
+            "num_retweets": 28,
+            "num_replies": 4
+        },
+        "973857511282536449": {
+            "id": "973857511282536449",
+            "text": "#MAIAN, a tool that highlights potential vulnerabilities in smart contracts is now publicly available: https://github.com/MAIAN-tool/MAIAN\u00a0\u2026 relevant article: https://arxiv.org/abs/1802.06038\u00a0 main new feature: Multi-transaction analysis.",
+            "username": "ethchris",
+            "num_likes": 71,
+            "num_retweets": 53,
+            "num_replies": 2
+        },
+        "973575772773502976": {
+            "id": "973575772773502976",
+            "text": "You missed #EthCC and our talk on the current state and future of the #ethereum @raiden_network? No problem! Here is the recorded video: https://www.youtube.com/watch?v=93qOwUSj4PQ\u00a0\u2026pic.twitter.com/CO0elNyqiX",
+            "username": "LefterisJP",
+            "num_likes": 52,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "972427214477234176": {
+            "id": "972427214477234176",
+            "text": "Don\u2019t miss our Raiden Network Core Dev @LefterisJP at #ETHCC today, 14:30 CET! He will give a status update and reveal some of our plans for this year. \nLive stream:http://reddit.com/r/ethereum/comments/82t42v/ethcc_youtube_live_streams\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 91,
+            "num_retweets": 34,
+            "num_replies": 6
+        },
+        "971693234094268416": {
+            "id": "971693234094268416",
+            "text": "Presented @rotkehlchenio this morning in #Paris #EthCC. For more information check github: https://github.com/rotkehlchenio/rotkehlchen\u00a0\u2026 and the website http://rotkehlchen.io/\u00a0https://twitter.com/bezzenberger/status/971672502496882694\u00a0\u2026",
+            "username": "LefterisJP",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "971034544861253633": {
+            "id": "971034544861253633",
+            "text": "This was #ScalingNOW Day 1, an epic group gathering to share #Scaling Solutions w/ DApps (Day 2, NOW!) Thx @polkadotnetwork @cosmos @raiden_network @ethereumproject @L4ventures @poanetwork @ParityTech @FunFairTech @CryptoKitties @Truebitprotocol @omise_go @web3foundation pic.twitter.com/wxlHa8bLOj",
+            "username": "Givethio",
+            "num_likes": 130,
+            "num_retweets": 34,
+            "num_replies": 9
+        },
+        "969377896048377856": {
+            "id": "969377896048377856",
+            "text": "For those curious about general state channels and counterfactual instantiation - check out these two videos @SpankChain just published: \n\n- Overview (https://youtu.be/pBrfbfmbvZ8\u00a0)\n\n- Code Walkthrough (https://youtu.be/Ao0tj0HcIcc\u00a0)",
+            "username": "ameensol",
+            "num_likes": 53,
+            "num_retweets": 19,
+            "num_replies": 1
+        },
+        "968388490340786176": {
+            "id": "968388490340786176",
+            "text": "#ScalingNow! #6 is out! Loredana, lead dev of #\u00b5Raiden talks with @Givethio about how #DApps can almost #effortlessly impliment #OffChain #PaymentChannels #NOW\nhttp://youtu.be/81gK-5qLFeg\u00a0\n#Scaling #Ethereum @raiden_network @heikohees @brainbot_tech   #Blockchain #StateChannels",
+            "username": "thegrifft",
+            "num_likes": 69,
+            "num_retweets": 28,
+            "num_replies": 4
+        },
+        "964838207215955969": {
+            "id": "964838207215955969",
+            "text": "Reminder: cryptocurrencies are still a new and hyper-volatile asset class, and could drop to near-zero at any time. Don't put in more money than you can afford to lose. If you're trying to figure out where to store your life savings, traditional assets are still your safest bet.",
+            "username": "VitalikButerin",
+            "num_likes": 16430,
+            "num_retweets": 6211,
+            "num_replies": 1381
+        },
+        "958020104343769088": {
+            "id": "958020104343769088",
+            "text": "Meet us at the @ethereumproject Berlin Meetup tomorrow, Tuesday, 7:00 pm!https://www.meetup.com/Berlin-Ethereum-Meetup/events/246899814/\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 156,
+            "num_retweets": 53,
+            "num_replies": 8
+        },
+        "956188602794430464": {
+            "id": "956188602794430464",
+            "text": "And here is an update on our bug bounty:https://medium.com/@raiden_network/microraiden-bug-bounty-update-695fddd6433\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 114,
+            "num_retweets": 35,
+            "num_replies": 8
+        },
+        "956163120380174336": {
+            "id": "956163120380174336",
+            "text": "Along with the release of #microraiden v0.2.0 we also provide an update to the status of the bug bounty. Read more here: https://medium.com/@raiden_network/microraiden-bug-bounty-update-695fddd6433\u00a0\u2026 TL;DR: Bug bounty helped us and is still on. Please look at our code and help us find vulnerabilities.pic.twitter.com/JTdb9u7Gjr",
+            "username": "LefterisJP",
+            "num_likes": 19,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "956164271326539776": {
+            "id": "956164271326539776",
+            "text": "We released \u00b5Raiden version 0.2.0:https://github.com/raiden-network/microraiden/releases/tag/v0.2.0\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 381,
+            "num_retweets": 156,
+            "num_replies": 23
+        },
+        "955586779964256257": {
+            "id": "955586779964256257",
+            "text": "If you're a smart contract developer, star this repo and revisit when you're having problems with bytes. Shout out to @GNSPS.https://github.com/GNSPS/solidity-bytes-utils\u00a0\u2026",
+            "username": "crypto_dev_alex",
+            "num_likes": 39,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "943598155903275008": {
+            "id": "943598155903275008",
+            "text": "PSA: EtherDelta has had DNS hijacked. \nDo not go there.\nDo not unlock your wallet there. \nBuy a hardware wallet now.https://www.reddit.com/r/ethereum/comments/7l49xd/the_etherdelta_domain_was_hijacked_please_do_not/\u00a0\u2026",
+            "username": "myetherwallet",
+            "num_likes": 191,
+            "num_retweets": 205,
+            "num_replies": 21
+        },
+        "942693036789821440": {
+            "id": "942693036789821440",
+            "text": "Devcon3 was an amazing experience for me and @Trustlines_Net. I'm thrilled to see growing interest towards fair accessibility to cryptocurrency! You can watch the presentation here:http://youtu.be/qOiHT6zLMBg\u00a0",
+            "username": "Knaerland",
+            "num_likes": 18,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "941642466331103237": {
+            "id": "941642466331103237",
+            "text": "Time has come to design languages/VMs properly: through formal (executable) semantics!  Implementations and formal analysis tools result automatically, correct by construction.  Say NO to design-by-adhoc-implementation.\n\nLet IELE serve as an example for how things should be done.https://twitter.com/rv_inc/status/941638649439014913\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "940660795725287426": {
+            "id": "940660795725287426",
+            "text": "I just published \u201cIntroduction to Dai\u201dhttps://medium.com/p/introduction-to-dai-2e65626e65a7\u00a0\u2026",
+            "username": "MakerDAO",
+            "num_likes": 72,
+            "num_retweets": 31,
+            "num_replies": 1
+        },
+        "939605087495716864": {
+            "id": "939605087495716864",
+            "text": "The updated whitepaper which accurately reflects the system as it will be launched on Dec. 17 is now out!https://medium.com/@MakerDAO/introducing-the-new-whitepaper-for-the-dai-stablecoin-system-e7c6caabcfc4\u00a0\u2026",
+            "username": "MakerDAO",
+            "num_likes": 119,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "939374256814804993": {
+            "id": "939374256814804993",
+            "text": "https://www.ethnews.com/moscows-ethereum-voting-system-launches\u00a0\u2026\n\nNeeds moar linkable ring signatures or ZKPs. Also, public chain integration would be nice.\n\nWe need to take online voting privacy and verifiability seriously!",
+            "username": "VitalikButerin",
+            "num_likes": 1303,
+            "num_retweets": 526,
+            "num_replies": 65
+        },
+        "937326607689117697": {
+            "id": "937326607689117697",
+            "text": "Want to be introduced to a huge chunk of the #ethereum community in less than 20 minutes?   Watch these introductions from DEVCON0 in Berlin, 24th November 2014:-)\n\n@ethereumproject @ParityTech @brainbot_tech @ConsenSys\nhttps://youtu.be/_BvvUlKDqp0?t=14m43s\u00a0\u2026\n#ethereum #community",
+            "username": "BobSummerwill",
+            "num_likes": 57,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "936491181164384256": {
+            "id": "936491181164384256",
+            "text": "The \u00b5Raiden Bug Bounty Release:https://medium.com/@raiden_network/microraiden-bug-bounty-63ea847035a2\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 166,
+            "num_retweets": 56,
+            "num_replies": 12
+        },
+        "935150308849782785": {
+            "id": "935150308849782785",
+            "text": "My #devcon3 introduction to #zkSNARKs (succinct zero-knowledge proofs): https://www.youtube.com/watch?v=jr95o_k_SwI&list=PLaM7G4Llrb7x3qV23ZgmHadAUWRq24Ee_&index=1\u00a0\u2026 slides: https://chriseth.github.io/notes/talks/intro_to_zksnarks/\u00a0\u2026 #ethereum",
+            "username": "ethchris",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "934297457101381632": {
+            "id": "934297457101381632",
+            "text": "Jannik Luhn & Philipp Seifert introducing @raiden_network!\n#BeyondBlockTaipeipic.twitter.com/CEDElm9BRP",
+            "username": "eth_taipei",
+            "num_likes": 19,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "934919515816767488": {
+            "id": "934919515816767488",
+            "text": "See playlists of presentations in both halls, for each day (and more) https://twitter.com/ethereumproject/status/934914568228352000\u00a0\u2026",
+            "username": "mingchan88",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "934359458926411776": {
+            "id": "934359458926411776",
+            "text": "#BeyondBlockTaipei is finished! Hope all of you guys are enjoying this conf.\n@VitalikButerin @VladZamfir @ConsenLabs @loi_luu @karl_dot_tech @lrettig @raiden_network @ethfans @KyberNetwork thanks for coming and sharing those cool stuff<3pic.twitter.com/QXB9ccYAxg",
+            "username": "eth_taipei",
+            "num_likes": 82,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "933357786183766016": {
+            "id": "933357786183766016",
+            "text": "I don't even think we're at that stage yet. What we need from \"mesh networking\" TODAY is a SINGLE HOP system, a 2-way market where people with data connections can use an app to create micro-paid wifi hotspot, and others can use the app to auto-subscribe to these hotspots.",
+            "username": "VitalikButerin",
+            "num_likes": 46,
+            "num_retweets": 19,
+            "num_replies": 8
+        },
+        "929249866001158144": {
+            "id": "929249866001158144",
+            "text": "Our all-star speakers at #BeyondBlockTaipei2017 !!! Official website will be revealed in the next tweet \nIf you're excited about this amazing speaker lineup, follow @eth_taipei and stay tuned. The ticket information will be released soon. See you in Taipei pic.twitter.com/55tqCMJPoQ",
+            "username": "eth_taipei",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "930835188174721024": {
+            "id": "930835188174721024",
+            "text": "Finally answered the \"deep questions about #Solidity and the #Ethereum Virtual Machine\" - enjoy! https://www.reddit.com/r/ethereum/comments/7d570w/answers_to_deep_questions_about_solidity_and_the/\u00a0\u2026 @drcode @maurelian_ @PCastonguay",
+            "username": "ethchris",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "926986662248316928": {
+            "id": "926986662248316928",
+            "text": "Team @brainbot_tech getting some well deserved relaxation after #Ethereum #Devcon3pic.twitter.com/ur2Wmzk0Xi",
+            "username": "LefterisJP",
+            "num_likes": 32,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "928284158945906688": {
+            "id": "928284158945906688",
+            "text": "The RDN tokens have now been distributedhttps://medium.com/@raiden_network/raiden-network-token-launch-concluded-3fb429e27731\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 163,
+            "num_retweets": 82,
+            "num_replies": 48
+        },
+        "927914913451905024": {
+            "id": "927914913451905024",
+            "text": "#Parity #multisig library suicide #WHG update.https://www.reddit.com/r/ethereum/comments/7bdot1/parity_mutisig_library_suicide_whg_update/\u00a0\u2026",
+            "username": "jbaylina",
+            "num_likes": 31,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "928172344631115776": {
+            "id": "928172344631115776",
+            "text": "I am deliberately refraining from comment on wallet issues, except to express strong support for those working hard on writing simpler, safer wallet contracts or auditing and formally verifying security of existing ones.",
+            "username": "VitalikButerin",
+            "num_likes": 3256,
+            "num_retweets": 843,
+            "num_replies": 199
+        },
+        "927887949219487744": {
+            "id": "927887949219487744",
+            "text": "Update: To the best of our knowledge the funds are frozen & can't be moved anywhere. The total ETH circulating social media is speculative.",
+            "username": "ParityTech",
+            "num_likes": 117,
+            "num_retweets": 101,
+            "num_replies": 31
+        },
+        "927857866203127808": {
+            "id": "927857866203127808",
+            "text": "UPDATE: For details on the security alert please read this announcement.https://paritytech.io/blog/security-alert.html\u00a0\u2026",
+            "username": "ParityTech",
+            "num_likes": 158,
+            "num_retweets": 182,
+            "num_replies": 20
+        },
+        "924672020025094144": {
+            "id": "924672020025094144",
+            "text": "Scatter Plot of Raiden Auction Bids (updated every 30mins): https://plot.ly/~bblabs/0/rdn-auction/\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 31,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "924007421865005056": {
+            "id": "924007421865005056",
+            "text": "Raiden Network Status Update #2: A Smooth Weekhttps://medium.com/@raiden_network/raiden-network-status-update-2-a-smooth-week-90d118634a86\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 69,
+            "num_retweets": 29,
+            "num_replies": 4
+        },
+        "921318288415756288": {
+            "id": "921318288415756288",
+            "text": "Raiden Status Update: Smooth Launchhttps://medium.com/@raiden_network/raiden-status-update-smooth-launch-34633336caab\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 70,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "920925287252185088": {
+            "id": "920925287252185088",
+            "text": "Raiden token sale is using a dutch auction as well - maybe the first that will offer true price discovery.https://twitter.com/raiden_network/status/920687119672242176\u00a0\u2026",
+            "username": "koeppelmann",
+            "num_likes": 29,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "920687119672242176": {
+            "id": "920687119672242176",
+            "text": "The Raiden Token auction is live at https://token.raiden.network\u00a0",
+            "username": "raiden_network",
+            "num_likes": 65,
+            "num_retweets": 26,
+            "num_replies": 6
+        },
+        "919156388097658881": {
+            "id": "919156388097658881",
+            "text": "Just published \"Raiden Token Auction Audit\" https://www.reddit.com/r/ethereum/comments/76bgwj/raiden_token_auction_audit_by_jordi_baylina/\u00a0\u2026 #ethereum @raiden_network #blockchain #audit #solidity #ICO @LefterisJP",
+            "username": "jbaylina",
+            "num_likes": 33,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "916681462489014272": {
+            "id": "916681462489014272",
+            "text": "The #Raiden Token Auction Explainedhttps://medium.com/@raiden_network/the-raiden-token-auction-explained-1cc0c7946b26\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 70,
+            "num_retweets": 37,
+            "num_replies": 15
+        },
+        "915476237354721280": {
+            "id": "915476237354721280",
+            "text": "Geth v1.7.1 (Ptolemy) out! Byzantium enabled on #Ethereum mainnet (17th) and Rinkeby testnet (9th). Please update!https://github.com/ethereum/go-ethereum/releases/tag/v1.7.1\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 252,
+            "num_retweets": 142,
+            "num_replies": 17
+        },
+        "914428231977197568": {
+            "id": "914428231977197568",
+            "text": "This is the real Spanish state--and why Catalonia wants to leave it.pic.twitter.com/Dv3HPxRnhO",
+            "username": "DefendAssange",
+            "num_likes": 23824,
+            "num_retweets": 32314,
+            "num_replies": 1627
+        },
+        "913114514735976448": {
+            "id": "913114514735976448",
+            "text": "The basic mechanics of the Raiden Network explained:https://www.youtube.com/watch?v=1wAbCnD-M_I\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 57,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "912690002609491969": {
+            "id": "912690002609491969",
+            "text": "The RDN token explainedhttps://medium.com/@raiden_network/the-raiden-network-token-model-9b6ef8d0b64\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 82,
+            "num_retweets": 42,
+            "num_replies": 5
+        },
+        "911273976474865666": {
+            "id": "911273976474865666",
+            "text": "https://medium.com/@raiden_network/announcing-the-raiden-token-rdn-a43fe264dcf1\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 62,
+            "num_retweets": 35,
+            "num_replies": 6
+        },
+        "910627074850902017": {
+            "id": "910627074850902017",
+            "text": "Spain lost Catalonia tonight. #Rajoy #1o #1oct #indyref #CatalonianReferendumpic.twitter.com/4f4ZwOk7mQ",
+            "username": "DefendAssange",
+            "num_likes": 9353,
+            "num_retweets": 8290,
+            "num_replies": 304
+        },
+        "910198867530002432": {
+            "id": "910198867530002432",
+            "text": "#Raiden network's little sister #\u00b5Raiden is now live on #ethereum testnet. Payment channels for content providers.https://medium.com/@raiden_network/%C2%B5raiden-micropayments-for-ethereum-f0756cd400b3\u00a0\u2026",
+            "username": "LefterisJP",
+            "num_likes": 56,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "910193554596777985": {
+            "id": "910193554596777985",
+            "text": "Raiden Network has a little sister, \u00b5Raiden: Micropayments for #Ethereumhttps://medium.com/@raiden_network/%C2%B5raiden-micropayments-for-ethereum-f0756cd400b3\u00a0\u2026",
+            "username": "raiden_network",
+            "num_likes": 164,
+            "num_retweets": 81,
+            "num_replies": 9
+        },
+        "909828788501979136": {
+            "id": "909828788501979136",
+            "text": "Sorry for the delays but my #technion slides are here! #proofofstake #smartcontract #pebkac\nhttp://vitalik.ca/files/technion1.pdf\u00a0\u2026\nhttp://vitalik.ca/files/technion2.pdf\u00a0\u2026",
+            "username": "VitalikButerin",
+            "num_likes": 523,
+            "num_retweets": 240,
+            "num_replies": 33
+        },
+        "908663534837551104": {
+            "id": "908663534837551104",
+            "text": "Released web3.js 1.0.0-beta.20 AND web3.js 0.20.2 bugfix release.\nThanks for all the community contributions!!pic.twitter.com/kYdiY7cFBT",
+            "username": "feindura",
+            "num_likes": 30,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "907984384011194369": {
+            "id": "907984384011194369",
+            "text": "Check out the fresh Raiden 101 page and join us in our Riot chat for any questions\nhttps://raiden.network/101.html\u00a0pic.twitter.com/3XLR9yJ151",
+            "username": "raiden_network",
+            "num_likes": 50,
+            "num_retweets": 31,
+            "num_replies": 5
+        },
+        "907741041322754048": {
+            "id": "907741041322754048",
+            "text": "Calling \u00d0app developers who require users to sign data for off-chain usage:\n\nCheck out the new EIP by @Logvinov_Leonhttps://github.com/ethereum/EIPs/pull/712\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 79,
+            "num_retweets": 33,
+            "num_replies": 6
+        },
+        "907649160681328644": {
+            "id": "907649160681328644",
+            "text": "I am proud to say that our team released the #Raiden developer preview for #ethereum: https://medium.com/@raiden_network/raiden-network-developer-preview-dad83ec3fc23\u00a0\u2026pic.twitter.com/4tixtquN0d",
+            "username": "LefterisJP",
+            "num_likes": 152,
+            "num_retweets": 53,
+            "num_replies": 5
+        },
+        "907237825447383040": {
+            "id": "907237825447383040",
+            "text": "Ethereum's ERC-20 token standard has been formalized as an EIP! \nhttps://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md\u00a0\u2026pic.twitter.com/XJnySmg8C1",
+            "username": "hudsonjameson",
+            "num_likes": 670,
+            "num_retweets": 324,
+            "num_replies": 34
+        },
+        "906506477225091073": {
+            "id": "906506477225091073",
+            "text": "\"The First in the world #Blockchain auction \u2013 a cure to corruption.\" #Ukrainehttps://goo.gl/Cv1Fc7\u00a0",
+            "username": "Cointelegraph",
+            "num_likes": 27,
+            "num_retweets": 25,
+            "num_replies": 2
+        },
+        "905335094533083136": {
+            "id": "905335094533083136",
+            "text": "Eager to quickly swipe an #ethereum address to get all 250 $ETH deposited, u give 12m Gwei gas price, burning it all https://etherscan.io/tx/0xe79064625544451d55f50e94380d054da972ec10097ebe880f421922e994051f\u00a0\u2026pic.twitter.com/3kBCPYqdyb",
+            "username": "LefterisJP",
+            "num_likes": 12,
+            "num_retweets": 10,
+            "num_replies": 6
+        },
+        "902039243601485824": {
+            "id": "902039243601485824",
+            "text": "Hyperloop pod run by team WARRpic.twitter.com/ntaMsoxkZE",
+            "username": "elonmusk",
+            "num_likes": 126170,
+            "num_retweets": 45843,
+            "num_replies": 3252
+        },
+        "899628268395147264": {
+            "id": "899628268395147264",
+            "text": "We are investigating reports of connectivity issues to http://GitHub.com\u00a0 and related services.",
+            "username": "githubstatus",
+            "num_likes": 49,
+            "num_retweets": 33,
+            "num_replies": 19
+        },
+        "898845949027536896": {
+            "id": "898845949027536896",
+            "text": "#Ethereum Announces Metropolis Hard Fork Coming Late September\u00a0https://goo.gl/SE59tR\u00a0pic.twitter.com/9G7F4ebgfF",
+            "username": "Cointelegraph",
+            "num_likes": 112,
+            "num_retweets": 103,
+            "num_replies": 7
+        },
+        "897196797633847296": {
+            "id": "897196797633847296",
+            "text": "Read up on the history of our smart contracts & how we're optimizing to be more private, scalable, and user-friendlyhttps://medium.com/uport/making-the-uport-smart-contracts-smarter-e1798d8c1cf9\u00a0\u2026",
+            "username": "uport_me",
+            "num_likes": 33,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "896357550886719488": {
+            "id": "896357550886719488",
+            "text": "Your $100 million ICO is not a success. \n\nIt is a debt to the community.\n\nYou owe us a $100 billion protocol. \n\nGood luck delivering.",
+            "username": "ricburton",
+            "num_likes": 2247,
+            "num_retweets": 703,
+            "num_replies": 62
+        },
+        "856776960135004160": {
+            "id": "856776960135004160",
+            "text": "That moment when you can buy Ether in the crappiest of grocery stores in Romania :D #Ethereum getting mainstream! (That 20% markup tho' :S)pic.twitter.com/APUrEYbUXe",
+            "username": "peter_szilagyi",
+            "num_likes": 195,
+            "num_retweets": 96,
+            "num_replies": 8
+        },
+        "886037614192541696": {
+            "id": "886037614192541696",
+            "text": "http://www.coss.io\u00a0 proud to announce a partnership with CIVIC. CIVIC login will be available on coss.io by end of JUly.https://twitter.com/VinnyLingham/status/886006326307962880\u00a0\u2026",
+            "username": "MrRuneEvensen",
+            "num_likes": 51,
+            "num_retweets": 22,
+            "num_replies": 0
+        },
+        "889717538942332928": {
+            "id": "889717538942332928",
+            "text": "Blockchain Startup COSS and Romania's Eva Energy Join Forces to Enable Cryptocurrency Bill Payments in the Countryhttp://bitcoinprbuzz.com/press-release-coss-eva-energy/\u00a0\u2026",
+            "username": "cosscrypto",
+            "num_likes": 77,
+            "num_retweets": 105,
+            "num_replies": 0
+        },
+        "888022904679661570": {
+            "id": "888022904679661570",
+            "text": "I hope the future will bring a sustainable monetary ecosystem - accessible for everyone #PeoplePoweredMoneyhttps://medium.com/the-trustlines-network/why-the-world-needs-people-powered-money-68f0e0ef341c\u00a0\u2026",
+            "username": "Gustav_tech",
+            "num_likes": 15,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "885100007749287936": {
+            "id": "885100007749287936",
+            "text": "#NetNeutrality allowed me to invent the web without having to ask for permission. Let's keep the internet open!http://battleforthenet.com\u00a0",
+            "username": "timberners_lee",
+            "num_likes": 24122,
+            "num_retweets": 24532,
+            "num_replies": 254
+        },
+        "885205043929956352": {
+            "id": "885205043929956352",
+            "text": "Build your own translation model from scratch in #TensorFlow with a new Neural Machine Translation tutorial @lmthanghttp://goo.gl/beL7BX\u00a0",
+            "username": "GoogleAI",
+            "num_likes": 856,
+            "num_retweets": 389,
+            "num_replies": 8
+        },
+        "862633634578223106": {
+            "id": "862633634578223106",
+            "text": "@heikohees from @brainbot_tech discussing blockchain and #Ethereum at the European Commission and STOA - EU parliament. #EUBlockchainpic.twitter.com/n47sD8YT6e",
+            "username": "bezzenberger",
+            "num_likes": 40,
+            "num_retweets": 24,
+            "num_replies": 0
+        },
+        "880771381360816128": {
+            "id": "880771381360816128",
+            "text": "Presenting and discussing the first @Trustlines_Net research paper @UOCuniversidad #ethereum #PeoplePoweredMoney\nhttps://www.youtube.com/watch?v=i2fqGjPqYX4&t=83s\u00a0\u2026",
+            "username": "Gustav_tech",
+            "num_likes": 16,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "884726509193375744": {
+            "id": "884726509193375744",
+            "text": "Join our #Ethereum meetup in Copenhagen on 26th July co-organized with @MakerDAO @raiden_network & @Trustlines_Net!https://www.meetup.com/Copenhagen-Ethereum-Meetup/events/241278994/\u00a0\u2026",
+            "username": "_brainbot",
+            "num_likes": 22,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "598185851001171968": {
+            "id": "598185851001171968",
+            "text": "I'm launching a new (free) email course to teach you design. Learn to avoid design pitfalls:http://designpitfalls.co\u00a0",
+            "username": "kadavy",
+            "num_likes": 843,
+            "num_retweets": 1823,
+            "num_replies": 69
+        },
+        "751799584708554754": {
+            "id": "751799584708554754",
+            "text": "Poor w3c https://thetech.com/2016/07/06/electronic-frontier-foundation\u00a0\u2026",
+            "username": "bozhobg",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "750250765676077056": {
+            "id": "750250765676077056",
+            "text": "Every country needs to follow Bulgaria\u2019s lead in choosing open source software for governance http://tnw.to/29JWNPC\u00a0 via @thenextweb",
+            "username": "muiiio",
+            "num_likes": 35,
+            "num_retweets": 42,
+            "num_replies": 1
+        },
+        "740172716305698817": {
+            "id": "740172716305698817",
+            "text": "Summer of Design is back! And it's free (for a limited time) Sign up to learn \"Design for Hackers\"http://summerofdesign.com\u00a0",
+            "username": "kadavy",
+            "num_likes": 1735,
+            "num_retweets": 2118,
+            "num_replies": 8
+        }
+    },
+    "tweeted": {
+        "1113808759661441025": {
+            "id": "1113808759661441025",
+            "text": "Decentralized Type System proposal is now waiting to be reviewed as an EIP draft at https://github.com/ethereum/EIPs/pull/1900\u00a0\u2026\nAnd I published a new post with details about how dType + functional programming = \nhttps://medium.com/@loredana.cirstea/dtype-decentralized-type-system-functional-programming-on-ethereum-4f7666377c9f\u00a0\u2026\n#ethereum #dType",
+            "username": "lorecirstea",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1123905954918141954": {
+            "id": "1123905954918141954",
+            "text": "I am working on a PoC for higher level consensus based on dType, that I'll be showing soon. Here are some of the observations on Complex Consensus Operations on #Ethereum, triggered by this PoC: https://medium.com/@loredana.cirstea/ethereum-essence-complex-consensus-operations-9d63d419950b\u00a0\u2026\n#Consensus #dType",
+            "username": "lorecirstea",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1118478532873736192": {
+            "id": "1118478532873736192",
+            "text": "Is there any collaboration between @opera / @brave and @ethswarm ?\nI was thinking about filesystem types for Solidity and ended up getting excited about having a Swarm-based encrypted workspace in your browser. Wrote about it in\nhttps://medium.com/@loredana.cirstea/a-vision-of-a-global-operating-system-filesystem-c7019558b8c7\u00a0\u2026\n#ethereum cc. @zeligf",
+            "username": "lorecirstea",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1114551847275126784": {
+            "id": "1114551847275126784",
+            "text": "EIP proposal to extend the Decentralized Type System to \n... wait for it... \nfunctions! \nwhat? where? why? : https://github.com/ethereum/EIPs/issues/1921\u00a0\u2026\nAlso, check out my Medium posts for more context.\n#Ethereum #dType",
+            "username": "lorecirstea",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1112044839221239808": {
+            "id": "1112044839221239808",
+            "text": "Context:https://twitter.com/lorecirstea/status/1111285815097937920\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1112044837405163521": {
+            "id": "1112044837405163521",
+            "text": "If you want to see the vision behind the Decentralized Type System proposal, ERC-1882, read (link: https://medium.com/@loredana.cirstea/a-vision-of-a-system-registry-for-the-world-computer-be1dc2da7cae\u00a0\u2026) http://medium.com/@loredana.cirs\u00a0\u2026\n\n#ethereum #dType #ERC1882",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111285815097937920": {
+            "id": "1111285815097937920",
+            "text": "Proposal for a Decentralized Type System for #Ethereum. Details and feedback on https://github.com/ethereum/EIPs/issues/1882\u00a0\u2026\nAs always, a demo of our current implementation (beyond the scope of the EIP proposal): https://youtu.be/pcqi4yWBDuQ\u00a0\ntl;dr: type system & functional programming\n#ERC1882 #dType",
+            "username": "lorecirstea",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1109198496484200448": {
+            "id": "1109198496484200448",
+            "text": "Now in Pipeline: EthPM package import and export to Remix from your browser!\nStill working on this feature, but you can use it now! More decentralization to come.\nAlso mentioned in my #EthCC talk: https://youtu.be/2NqQh_GHAh0?t=961\u00a0\u2026\nDemo here: https://youtu.be/TkR5I4v_n7U\u00a0\n#Ethereum #pipeline",
+            "username": "lorecirstea",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1107078848158539776": {
+            "id": "1107078848158539776",
+            "text": "https://www.youtube.com/watch?v=uIHPPtPBgHk\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1106635766371897345": {
+            "id": "1106635766371897345",
+            "text": "Implementing a Layer 2 Decentralized Voting Mechanism on Ethereum, with Noncustodial Onboarding\nhttps://medium.com/@loredana.cirstea/implementing-a-layer-2-decentralized-voting-mechanism-on-ethereum-with-noncustodial-onboarding-a7c7d26db241\u00a0\u2026\nAny thoughts on this from people doing governance and layer 2? @ameensol @MatanField @stellarmagnet\n#ethereum #governance",
+            "username": "lorecirstea",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1105164117491568640": {
+            "id": "1105164117491568640",
+            "text": "Also, a great list with all the talks by author and title is athttps://www.reddit.com/r/ethereum/comments/azm61n/all_videos_from_ethcc_19_in_paris/\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105162307343208448": {
+            "id": "1105162307343208448",
+            "text": "#EthCC2019 talks are up! See https://www.youtube.com/watch?v=2NqQh_GHAh0\u00a0\u2026 for my Proof of Wonder presentation. In the next weeks, I will explain the concepts in more detail + show off my new Pipeline features. Stay tuned and thank you @AssethFR for the stage!",
+            "username": "lorecirstea",
+            "num_likes": 15,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1102911623872868353": {
+            "id": "1102911623872868353",
+            "text": "I will be presenting my Proof Of Wonder talk at #EthCC Paris, Wednesday 6th, 12:20, Paul Painlev\u00e9!\nThe importance of demos, a disection of some demos that I made in the past and some new live demos that we've been preparing!\nhttps://youtu.be/l04eBfwHzzY\u00a0\n@AssethFR #ethereum",
+            "username": "lorecirstea",
+            "num_likes": 29,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1090271215011262465": {
+            "id": "1090271215011262465",
+            "text": "Learned a lot in the process, grateful to have worked with awesome & capable people. I want more of this in the future! So, a leap into the abyss is needed.",
+            "username": "lorecirstea",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1090271213350313986": {
+            "id": "1090271213350313986",
+            "text": "Most proud of: weirdly, specs. Especially https://github.com/raiden-network/spec/blob/99677cb9417ef5d00eb03eb2eb586be82f82a4fb/smart_contracts.rst\u00a0\u2026 . And of course, the refactored contracts:https://github.com/raiden-network/raiden-contracts\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271210737262592": {
+            "id": "1090271210737262592",
+            "text": "#raiden_network live on Mainnet: https://twitter.com/raiden_network/status/1076145399910543361\u00a0\u2026 and an  tweet thread from @LefterisJP :https://twitter.com/LefterisJP/status/1076187686183026689\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271208879345664": {
+            "id": "1090271208879345664",
+            "text": "ETHBerlin: https://twitter.com/lorecirstea/status/1029352691804368901\u00a0\u2026 , ETHSingapore https://twitter.com/lorecirstea/status/1071155147680567296\u00a0\u2026 , building the first app/game on #raiden_network https://twitter.com/lorecirstea/status/1081196360681041920\u00a0\u2026 ,https://twitter.com/lorecirstea/status/1085831444599980032\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271207520378886": {
+            "id": "1090271207520378886",
+            "text": "Ups & downs in development, protocol changing, hardest thing to wrap my head around: proving the new settlement function (under Solidity constraints) is uncheatable: https://github.com/raiden-network/raiden-contracts/issues/188\u00a0\u2026 , https://github.com/raiden-network/spec/blob/99677cb9417ef5d00eb03eb2eb586be82f82a4fb/smart_contracts.rst#protocol-values-and-settlement-algorithm-analysis\u00a0\u2026.  collab with https://github.com/hackaugusto\u00a0 on protocol edge cases.",
+            "username": "lorecirstea",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271206199062528": {
+            "id": "1090271206199062528",
+            "text": "Onboarding the #raiden_network project in February 2019 directly in a planning retreat https://medium.com/@raiden_network/raiden-development-update-apr-18-5cefa6bb60bc\u00a0\u2026 - another wild ride, but a great collaboration retreat. I took over the smart contracts.",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1090271204533927936": {
+            "id": "1090271204533927936",
+            "text": "More fun with #\u00b5Raiden https://twitter.com/thegrifft/status/968388490340786176\u00a0\u2026 and drone demos:https://twitter.com/ethchris/status/961558664862715906\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271201904054272": {
+            "id": "1090271201904054272",
+            "text": "Releasing the Mainnet Bug Bounty version of #\u00b5Raiden with my colleagues on November 31st 2017 and meeting the deadline set at Devcon3: https://twitter.com/lorecirstea/status/936376092843298816\u00a0\u2026 after a wild ride & @LefterisJP reviewing my contract PRs from hospital https://twitter.com/lorecirstea/status/936378105886896128\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271200297844736": {
+            "id": "1090271200297844736",
+            "text": "Awesome colleagues again and my first Devcon:https://twitter.com/LefterisJP/status/926986662248316928\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271199005859840": {
+            "id": "1090271199005859840",
+            "text": "Having fun building & pulling off a live #\u00b5Raiden Robo Demo at #Devcon3 https://youtu.be/yx0__aFvjzk?t=580\u00a0\u2026 against all odds - broken male jumper cable pins \u201cfixed\u201d with my nail scissors (in my pocket while presenting, just in case), unreliable bluetooth connection, my own WiFi hotspot..",
+            "username": "lorecirstea",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271197583925249": {
+            "id": "1090271197583925249",
+            "text": "First onboarding face2face meeting, where we built the first #\u00b5Raiden prototype in 1 week! My part being the smart contracts. My first time in Germany. Awesome colleagues. My first Ethereum sticker from @_czepluch (still on my laptop)!",
+            "username": "lorecirstea",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271195717459969": {
+            "id": "1090271195717459969",
+            "text": "Spending an entire Saturday to come up with my own dutch auction price function https://github.com/raiden-network/raiden-token/commit/651deb6796733b1ffc6f00f191ad1e62858f6d67\u00a0\u2026 that allowed flexible e2e test simulations, for which I mined 10k Ropsten ETH  and managed several spreadsheets , after researching token models ( collab with @heikohees)",
+            "username": "lorecirstea",
+            "num_likes": 13,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271194119454724": {
+            "id": "1090271194119454724",
+            "text": "Looking back, there are some great moments that I will remember. A few of them are:",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090271192550797317": {
+            "id": "1090271192550797317",
+            "text": "For the sake of transparency: I am leaving @raiden_network and @_brainbot in 2 days. I don't own/have bought RDN, I don't have shares in the company.\nProud to have helped #\u00b5Raiden & #raiden_network to reach Bug Bounty level Mainnet. I wish them success. It was an awesome 1y7m",
+            "username": "lorecirstea",
+            "num_likes": 38,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1090203900542627840": {
+            "id": "1090203900542627840",
+            "text": "Seems Rock-Paper-Scissors is an awesome game to showcase decentralized tech! Someone else has been building an RPS game recently - on chain, with secret contracts: https://blog.enigma.co/secret-rock-paper-scissors-f89ff1a91b1e\u00a0\u2026 . Spoiler: my CryptoRobotWars game is also mentioned as comparison \n#ethereum #gamedevhttps://twitter.com/EnigmaMPC/status/1090009049997950977\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 29,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1087675040391483394": {
+            "id": "1087675040391483394",
+            "text": "I just published CryptoBotWars\u200a\u2014\u200aPart 2: Conclusions https://link.medium.com/wszmjVEsGT\u00a0\n(click bait: robot tricks)\n#ethereum @raiden_network",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1085831444599980032": {
+            "id": "1085831444599980032",
+            "text": "I just published CryptoBotWars or How to Build Shitty Demos and Why https://link.medium.com/58hGKEY0xT\u00a0\n#Ethereum @raiden_network #gamedev @WonderWorkshop",
+            "username": "lorecirstea",
+            "num_likes": 22,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1081196360681041920": {
+            "id": "1081196360681041920",
+            "text": "Yo! Dark Vader & Blue Yoda wish you a late Merry Christmas: https://cryptoplayer.one\u00a0 ! First app built on @raiden_network, Mainnet! Live streamed robots, rewards, Santa hats and open source: https://github.com/cryptoplayerone/cryptobotwars\u00a0\u2026 !\nMay the tokens be with you!\n#Ethereum #paymentchannels #gamespic.twitter.com/a5RwaBp0eG",
+            "username": "lorecirstea",
+            "num_likes": 29,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1071159552618389504": {
+            "id": "1071159552618389504",
+            "text": "https://twitter.com/MPtherealMVP/status/1071158461700997120\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1071155147680567296": {
+            "id": "1071155147680567296",
+            "text": "To all @ethsingapore hackers! Hacking on @raiden_network can be easy and a lot of fun! To get you started, I\u2019ve built a rock-paper-scissors game on top of Raiden! Check it out: https://github.com/loredanacirstea/cryptowars\u00a0\u2026, https://youtu.be/Mv6Ukdu0Xso\u00a0! Ping me and @_czepluch for hacking ideas! #Ethereum",
+            "username": "lorecirstea",
+            "num_likes": 25,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1071070756165963776": {
+            "id": "1071070756165963776",
+            "text": "Come on and build on @raiden_network for @ethsingapore ! Check out https://twitter.com/raiden_network/status/1070984363003781122\u00a0\u2026, join our https://gitter.im/raiden-network/eth-singapore-hackathon\u00a0\u2026 and play my cryptogame built with Raiden & \u00a0https://github.com/loredanacirstea/cryptowars\u00a0\u2026pic.twitter.com/5OD35WreEN",
+            "username": "lorecirstea",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1067389151480299521": {
+            "id": "1067389151480299521",
+            "text": "Pipeline is now available on http://remix.ethereum.org\u00a0! Go ahead and try it out! Settings -> Plugin -> Pipeline\nPlanned soon: developer APIs for freely using the data (ABI, addresses, source code etc.) from our existent >3k contracts database!\n#Ethereum #SmartContracts #Solidity",
+            "username": "lorecirstea",
+            "num_likes": 21,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1063868726959894536": {
+            "id": "1063868726959894536",
+            "text": "https://twitter.com/lorecirstea/status/1062670277312765952\u00a0\u2026\nIt is live! Go to http://remix-alpha.ethereum.org\u00a0 -> Settings -> Pipeline and  let\u2019s see what projects can interoperate to create your own personal contract!\n#Pipeline #Ethereum #Solidity",
+            "username": "lorecirstea",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1062670277312765952": {
+            "id": "1062670277312765952",
+            "text": "Start your #Ethereum development work with thousands of contract sources and deployments by using the #Pipeline plugin within #Remix. https://youtu.be/1z6dHrVkU-w\u00a0 (not live yet, coming soon) #Interoperability #ConnectingEthereum",
+            "username": "lorecirstea",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1059420832357859328": {
+            "id": "1059420832357859328",
+            "text": "For questions, issues or just to say hi - you are welcome to our Gitter channel: https://gitter.im/pipeos-one/pipeline\u00a0\u2026 \nRemember that Pipeline is in development - do not use it for production purposes.",
+            "username": "lorecirstea",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059420698416947200": {
+            "id": "1059420698416947200",
+            "text": "You can now play with #Pipeline as a #Remix plugin!\nGo to http://remix-alpha.ethereum.org\u00a0 ->Settings->Plugin->Pipeline button\nCheck out the demo video: https://www.youtube.com/watch?v=kOhmv9uj1mI\u00a0\u2026 \nWe are rebuilding Pipeline from scratch. Expect some interesting features coming out soon! #Ethereum #Solidity",
+            "username": "lorecirstea",
+            "num_likes": 22,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "1057965974773739522": {
+            "id": "1057965974773739522",
+            "text": "Watch the @raiden_network workshop from #Devcon4 live NOW!: http://devcon4.tv/channels/0xEa5B6e4753d919900943a199769afD9C2C37ce73\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1044559627055247361": {
+            "id": "1044559627055247361",
+            "text": "Another week, another awesome feature in prototype: Solidity&Javascript Composite components! Using functions that are not already deployed on chain, testable with our high level debugger. Test it on http://pipeos.one/\u00a0, see demo https://www.youtube.com/watch?v=-LHvdZZUrss\u00a0\u2026 #ethereum #solidity",
+            "username": "lorecirstea",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1042019540392206336": {
+            "id": "1042019540392206336",
+            "text": "#Pipeline - High Level Debugger Phase 1: https://www.youtube.com/watch?v=8QvZ33mBSFc\u00a0\u2026 \nYou can now test the underlying component function before deploying. Now: on the testnet, later on a Javascript EVM.\n(soon on http://pipeos.one\u00a0)\n#Ethereum #Solidity",
+            "username": "lorecirstea",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1041007333067968513": {
+            "id": "1041007333067968513",
+            "text": "What I am hearing is that we are finally going to have more cross client testnets. Seems like a win to me!\n\"Moving forward, it seems like we will be implementing Clique into Parity Ethereum, with outside contributors already attempting to implement Aura into Geth.\"(Aidan Hyman)https://twitter.com/ETHBerlin/status/1040629250083176451\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1038769764393525249": {
+            "id": "1038769764393525249",
+            "text": "Just got an Estonian ID this week, so I love the idea & effort put into this project (regardless of gas cost issues) https://devpost.com/software/ethstonia-identity\u00a0\u2026 @recmo @Logvinov_Leon #ETHBerlin #ethereum",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038354881671831552": {
+            "id": "1038354881671831552",
+            "text": "By the way, if anyone wants to play with my Pipeline prototype: you can! http://pipeos.one\u00a0 - I have some very simple test contracts deployed on Ropsten and Kovan (for how to use: https://www.youtube.com/watch?v=uCD_AsF1e_w&t=10s\u00a0\u2026)",
+            "username": "lorecirstea",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1038344338676346880": {
+            "id": "1038344338676346880",
+            "text": "Have an awesome #hacking weekend at @ETHBerlin! Feel free to ping me if you see me around, I would love to talk about what you are building! #Ethereum #BUIDL #ETHBerlin",
+            "username": "lorecirstea",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1038199572013703168": {
+            "id": "1038199572013703168",
+            "text": "#BUIDL demos are awesome, because everyone can see the force behind this ecosystem. \nLet's make #Ethereum accessible! #MassAdoptionhttps://twitter.com/rekmarks/status/1038183217084465153\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1037308776041394177": {
+            "id": "1037308776041394177",
+            "text": "Pipe It on the #Blockchain! https://www.youtube.com/watch?v=uCD_AsF1e_w\u00a0\u2026 - new demo using Kovan to deploy and transact with Pipeline smart agents. #Ethereum #Solidity #pipeos",
+            "username": "lorecirstea",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1035569762280058887": {
+            "id": "1035569762280058887",
+            "text": "Live demo by @_czepluch of #Raiden_Network with our new webUI (thanks to @kelsos86)!https://twitter.com/raiden_network/status/1035489932322762752\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1035131088249790464": {
+            "id": "1035131088249790464",
+            "text": "Live demo: http://138.68.103.60\nSlides:https://docs.google.com/presentation/d/1Lr9z1q0VJ-Zmg7tm1piYC4nmnoa08rvm0Cqh2rK_irw/edit?usp=sharing\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1035131021916860416": {
+            "id": "1035131021916860416",
+            "text": "#Pipeline - IDE for building Smart Agents, presented at the #Berlin #Ethereum Meetup hosted by @maurreth\nVideo: https://youtu.be/MBUdk6qPBLQ\u00a0 (thank you @LivepeerTV for live streaming & recording!)",
+            "username": "lorecirstea",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1034361268617060353": {
+            "id": "1034361268617060353",
+            "text": "Yep, presenting my own Pipeline project today at Berlin's Ethereum Meetup. Expect a fresh out of the oven demo (hei, what could go wrong?) & some new ideas. Pipeline is not only an IDE for smart contracts ... to be continued.https://twitter.com/maurreth/status/1034032260553629696\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1031963155247886336": {
+            "id": "1031963155247886336",
+            "text": "Ethereum Meetup Berlin, Tuesday 28 August: I will be presenting Pipeline (visual IDE for contracts) - plans, what is new and hopefully some hands-on testing :)\nhttps://www.meetup.com/Berlin-Ethereum-Meetup/events/253975620/\u00a0\u2026\n#ethereum #Pipeline #Meetup #Berlin\nhttp://peepeth.com/p/8XJ\u00a0",
+            "username": "lorecirstea",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1031800300028473344": {
+            "id": "1031800300028473344",
+            "text": "Thank you! Yes, I think one of the main benefits that Pipeline brings is interoperability between projects. And a step closer to building personalized automated agents on-chain. But we also have plans to extend contract composition .. little by little :)\n\nhttp://peepeth.com/p/8Tp\u00a0",
+            "username": "lorecirstea",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1031649682345353217": {
+            "id": "1031649682345353217",
+            "text": "Verifying my identity on http://Peepeth.com\u00a0  0x294da0df53491926ea2ec5e7ef5585d9975cda32",
+            "username": "lorecirstea",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1031322916221329408": {
+            "id": "1031322916221329408",
+            "text": "Hey @peepethApp, early access please! I want to make Web 3.force for good. @peepethApp https://peepeth.com\u00a0 #peepeth",
+            "username": "lorecirstea",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1031213416684445702": {
+            "id": "1031213416684445702",
+            "text": " \n\"At ETHBerlin, we don\u2019t care if you still say \u201cEtherium\u201d instead of Ethereum. We don\u2019t care about your years of experience coding. If you want it, and you can put some serious work, you have a spot here.\"https://twitter.com/ETHBerlin/status/1030013373172330496\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1029352691804368901": {
+            "id": "1029352691804368901",
+            "text": "Going to be a mentor at @ETHBerlin. Really stoked about this event actually - can\u2019t wait to see all the ideas and people collaborating for a decentralized future. #ETH #ethereum #Hackathon",
+            "username": "lorecirstea",
+            "num_likes": 22,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1029351383726784512": {
+            "id": "1029351383726784512",
+            "text": "We have a public repo now! https://github.com/kuip/pipeline-meteor\u00a0\u2026\nAnd a nicer UI! https://youtu.be/-mz2qr1vCEI\u00a0\nStill in prototype phase of course, but we will have a hosted app for testing soon :)\n#Pipeline #ETH #smartcontracts #Solidity",
+            "username": "lorecirstea",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1023634875075710976": {
+            "id": "1023634875075710976",
+            "text": "We've started thinking about UX a bit and one thing I really like my visual editors to have is the live preview feature, so I made a short preview of that :)https://youtu.be/lwK35Xu_xsM\u00a0",
+            "username": "lorecirstea",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1023573931524018182": {
+            "id": "1023573931524018182",
+            "text": "I mentioned I was going to slowly make the code public for Pipeline, so first, the general call proxy that I am using (!unsafe WIP): https://gist.github.com/loredanacirstea/3de1c348c810221cc0384d3f9da6add3\u00a0\u2026 - feedback appreciated!\nTalking about https://twitter.com/lorecirstea/status/1022469189003632640\u00a0\u2026 #Pipeline #ethereum #buidl #SOLIDITY",
+            "username": "lorecirstea",
+            "num_likes": 20,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1022469189003632640": {
+            "id": "1022469189003632640",
+            "text": "Pipeline - Visual IDE for building Smart Contract bridges between already deployed projects!\nCheck it out: https://youtu.be/sC7Hd6Sr1SI\u00a0 - feedback appreciated!\nProduces the Solidity code for you and uses a general proxy that handles dynamic input and output.#BUIDL #ethereum #soliditypic.twitter.com/wur85jV0jW",
+            "username": "lorecirstea",
+            "num_likes": 56,
+            "num_retweets": 26,
+            "num_replies": 4
+        },
+        "1019899690844852224": {
+            "id": "1019899690844852224",
+            "text": "Check out our revamped Raiden Network release!https://github.com/raiden-network/raiden/releases/tag/v0.4.0\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1019241936241209345": {
+            "id": "1019241936241209345",
+            "text": "Verifying myself: I am loredanacirstea on http://Keybase.io\u00a0. G9mgPWyl5DisqlBUq1bRHVD9Kkb0kkPZ47qB / https://keybase.io/loredanacirstea/sigs/G9mgPWyl5DisqlBUq1bRHVD9Kkb0kkPZ47qB\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1013336962550378496": {
+            "id": "1013336962550378496",
+            "text": "https://medium.com/@raiden_network/creating-an-easy-onboarding-user-experience-for-the-raiden-network-4dcdc9e2eeed\u00a0\u2026 :)https://twitter.com/technocrypto/status/1013316814200287232\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1011043093322354689": {
+            "id": "1011043093322354689",
+            "text": "Good initiative.https://twitter.com/liquiditynet/status/1010927785651724288\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1008056202780139520": {
+            "id": "1008056202780139520",
+            "text": "Putting together a robot and doing yoga at the same time, to reach my inner chimp.pic.twitter.com/3PfSJo1Lp3",
+            "username": "lorecirstea",
+            "num_likes": 12,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1006862877926535169": {
+            "id": "1006862877926535169",
+            "text": "@liquiditynet , really? no open sourcing the token & auction smart contracts? Good luck then.",
+            "username": "lorecirstea",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1004343684912074753": {
+            "id": "1004343684912074753",
+            "text": "\u201cCreating an easy onboarding user experience for the Raiden Network\u201d by Raiden Networkhttps://medium.com/@raiden_network/creating-an-easy-onboarding-user-experience-for-the-raiden-network-4dcdc9e2eeed\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "995969248714477568": {
+            "id": "995969248714477568",
+            "text": "First make people addicted to free information and then make them pay for the privilege to verify the accuracy... How many would?\nEU Moves Closer To Introducing 'Link Tax' - No Exceptions Allowedhttps://www.forbes.com/sites/emmawoollacott/2018/05/08/eu-moves-closer-to-introducing-link-tax-no-exceptions-allowed/#51c9fd9613c9\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "973361073083600896": {
+            "id": "973361073083600896",
+            "text": "For those wondering, the minimal code I used for the payable drone command API with \u00b5Raiden for the January Berlin Ethereum Meetup can be found here: https://github.com/loredanacirstea/kondron\u00a0\u2026. Meetup video with link to slides:https://www.youtube.com/watch?v=E6CIgJPxgpQ\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "972243785441796097": {
+            "id": "972243785441796097",
+            "text": "Want to know what we have been up to with Raiden Network? You can also watch the #EthCC conference live here: https://www.reddit.com/r/ethereum/comments/82t42v/ethcc_youtube_live_streams/\u00a0\u2026https://twitter.com/LefterisJP/status/972119067791446016\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 7,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "970672825643216897": {
+            "id": "970672825643216897",
+            "text": "So what is \u00b5Raiden? If you are in Barcelona tomorrow on the 6th, you can also ask! #ScalingNOW #\u00b5Raidenhttps://twitter.com/web3foundation/status/970663142530351104\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 10,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "968523588226748416": {
+            "id": "968523588226748416",
+            "text": "Check out #ScalingNOW if you are looking for scaling solutions available now! A lot of very interesting projects will be presented in Barcelona on the 6th. @Givethio thank you for making this happen! #ethereum #scalinghttps://twitter.com/Givethio/status/968476534259449857\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 9,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "961608756579663875": {
+            "id": "961608756579663875",
+            "text": "Slides: https://docs.google.com/presentation/d/1oY-WHOOWFSmGOkr1oyAYziJFrEoV9FYTsa35PcP3gfo/edit?usp=sharing\u00a0\u2026\nDrone demo code (with improvements) coming up soon.https://twitter.com/ethchris/status/961558664862715906\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "942851130253627393": {
+            "id": "942851130253627393",
+            "text": "https://www.ethnews.com/french-finance-minister-proposes-g20-discussion-of-bitcoin\u00a0\u2026 French Finance Minister Proposes G20 Discussion Of Bitcoin #Bitcoin #cryptocurrency",
+            "username": "lorecirstea",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "936378105886896128": {
+            "id": "936378105886896128",
+            "text": "Thank you @LefterisJP for reviewing PRs from the hospital to make this possible on time!https://twitter.com/LefterisJP/status/936377690277457921\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "936376383051370496": {
+            "id": "936376383051370496",
+            "text": "Microraiden Mainnet Bug Bounty Releasehttps://github.com/raiden-network/microraiden/releases/tag/v0.1.0\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "936376092843298816": {
+            "id": "936376092843298816",
+            "text": "Finally! It's by the end of November still for some parts of the world! https://medium.com/@raiden_network/microraiden-bug-bounty-63ea847035a2\u00a0\u2026 @raiden_network #microraiden",
+            "username": "lorecirstea",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 7
+        },
+        "934939183440855041": {
+            "id": "934939183440855041",
+            "text": "Devcon3 videos - Raiden Network & \u00b5Raiden presentation https://youtu.be/yx0__aFvjzk\u00a0 @raiden_network #Devcon3 #Ethereum",
+            "username": "lorecirstea",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "919253861663236096": {
+            "id": "919253861663236096",
+            "text": "\u201cRaiden Token Bug Bounty\u201d by Raiden Network https://medium.com/@raiden_network/raiden-token-bug-bounty-c15de82ec91f\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "918156595854561280": {
+            "id": "918156595854561280",
+            "text": "#ERC725 Identity Standard for Ethereumhttps://twitter.com/feindura/status/918140278065827841\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "917629388375625728": {
+            "id": "917629388375625728",
+            "text": "\u201cIntroducing Mythril: A framework for bug hunting on the Ethereum blockchain\u201d by @muellerberndt https://medium.com/@muellerberndt/introducing-mythril-a-framework-for-bug-hunting-on-the-ethereum-blockchain-9dc5588f82f6\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "910822335350964224": {
+            "id": "910822335350964224",
+            "text": "\u201cAnnouncing the winners of the first Underhanded Solidity Coding Contest\u201d by @nicksdjohnson https://medium.com/@weka/announcing-the-winners-of-the-first-underhanded-solidity-coding-contest-282563a87079\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "909550506380546049": {
+            "id": "909550506380546049",
+            "text": "It's your duty to read opposing views/media (however absurd) and challenge your beliefs if you insist on considering yourself a moral personhttps://twitter.com/JulianAssange/status/909523489383739392\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "907694208798031872": {
+            "id": "907694208798031872",
+            "text": "Awesome! ERC20 USD - use fiat on Ethereum https://blog.ethfinex.com/announcing-the-erc20-tether-c84cc33f076f\u00a0\u2026 #ethereumhttps://twitter.com/ethfinex/status/907284035164045312\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "907646782611607552": {
+            "id": "907646782611607552",
+            "text": "Raiden Network Developer Preview RELEASED! #ethereum #raiden_network #state_channelshttps://twitter.com/raiden_network/status/907646101506990080\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "901558974633345026": {
+            "id": "901558974633345026",
+            "text": "The propaganda: both old & so, so current. Thinking patterns that (have) exist(ed) in commy Romania & capitalist USA made ironically obvioushttps://twitter.com/danjmcdowell/status/893904150190321664\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "900078559989051392": {
+            "id": "900078559989051392",
+            "text": "Estonia proposes estcoin, a government backed cryptocurrency, issued via an ICO: http://www.cityam.com/270692/estonia-proposes-estcoin-government-backed-cryptocurrency\u00a0\u2026 via @CityAM",
+            "username": "lorecirstea",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "899630675476832256": {
+            "id": "899630675476832256",
+            "text": "Raiden Explained: Continuing the Blockchain Revolution https://www.coinjoker.com/raiden-explained/\u00a0\u2026 via @CoinJoker",
+            "username": "lorecirstea",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "896812778769575941": {
+            "id": "896812778769575941",
+            "text": "https://www.youtube.com/watch?v=T5ONHUBXABE\u00a0\u2026 - Channing Tatum & Joseph Gordon-Levitt dubbing a Romanian communist movie",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "896370567556759553": {
+            "id": "896370567556759553",
+            "text": "Machine learning JS library that runs entirely in your browser, with no installations and no backend.https://twitter.com/googleresearch/status/896072288352653313\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "890639488891838464": {
+            "id": "890639488891838464",
+            "text": "Reading:https://www.usr.ro/2017/07/27/comisia-de-taiat-hartii-2-un-proiect-usr-sustinut-de-romania-100/\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "753977532257558528": {
+            "id": "753977532257558528",
+            "text": "Post-Brexit, the most important decision for the EU is Net Neutrality. Make sure they get it right. https://fftf.io/t/2e2e55\u00a0",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "753976934506397696": {
+            "id": "753976934506397696",
+            "text": "http://webfoundation.org/four-days-to-save-the-open-internet-in-europe-an-open-letter/\u00a0\u2026 via @webfoundation",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "750614692108832768": {
+            "id": "750614692108832768",
+            "text": "\u201cBulgaria Got a Law Requiring Open Source\u201d by @bozhobg https://thepolicy.us/bulgaria-got-a-law-requiring-open-source-98bf626cf70a#.571avb25k\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "735196081663971329": {
+            "id": "735196081663971329",
+            "text": "Crowdsourcing Science by Mobiles @slashdot - http://rpx.me/dLm_l\u00a0",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "731184228696772608": {
+            "id": "731184228696772608",
+            "text": "Lung cancer \u201cbreathalyzer\u201d wins $100K Entrepreneurship Competition http://news.mit.edu/2016/lung-cancer-breathalyzer-100k-entrepreneurship-competition-0512#.VzYX-wy9S1o.twitter\u00a0\u2026",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "697610435755950081": {
+            "id": "697610435755950081",
+            "text": "Registered for #hacksummit, a virtual event of top developers. Check it out!  http://bit.ly/1MpKwtr\u00a0",
+            "username": "lorecirstea",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "not_retweeted": {},
+    "num_retweets_by_originator": {
+        "ricmoo": 1,
+        "ethchris": 20,
+        "evan_van_ness": 6,
+        "raiden_network": 64,
+        "tenfinney": 1,
+        "austingriffith": 1,
+        "jbaylina": 4,
+        "ethereum": 5,
+        "SoerenSteiger": 1,
+        "avsa": 1,
+        "statechannels": 1,
+        "ETHBerlin": 4,
+        "myetherwallet": 2,
+        "badcryptobitch": 1,
+        "HyperLinkTechn": 1,
+        "gballet": 1,
+        "maurreth": 1,
+        "AssethFR": 4,
+        "etherscan": 2,
+        "gakonst": 1,
+        "EthParis": 2,
+        "realLedgerwatch": 1,
+        "mhswende": 2,
+        "_franzihei": 1,
+        "EnigmaMPC": 1,
+        "technocrypto": 2,
+        "leonardoalt": 1,
+        "DeanEigenmann": 1,
+        "_prestwich": 1,
+        "alexberegszaszi": 2,
+        "hudsonjameson": 2,
+        "GenevaDUG": 1,
+        "peter_szilagyi": 4,
+        "BokkyPooBah": 1,
+        "LefterisJP": 20,
+        "get_eth_events": 1,
+        "gnidan": 1,
+        "VitalikButerin": 7,
+        "PaulRBerg": 1,
+        "Knaerland": 2,
+        "Gustav_tech": 5,
+        "ETHCapeTown": 1,
+        "CelerNetwork": 1,
+        "LianaHusikyan": 1,
+        "StefanDGeorge": 2,
+        "pirapira": 1,
+        "EFDevcon": 1,
+        "licuende": 1,
+        "SpankChain": 1,
+        "koeppelmann": 3,
+        "ZachSmolinski": 1,
+        "_jefflau": 1,
+        "fubuloubu": 1,
+        "AlexBoerger": 1,
+        "Logvinov_Leon": 1,
+        "makoto_inoue": 2,
+        "trailofbits": 1,
+        "robbiebent1": 1,
+        "hrdwrknvrstps": 1,
+        "TaylorGerring": 1,
+        "dappcon_berlin": 2,
+        "gnosisSafe": 1,
+        "nicksdjohnson": 1,
+        "mi_ayako": 1,
+        "paddykcl": 4,
+        "_czepluch": 1,
+        "karl_dot_tech": 1,
+        "tayvano_": 1,
+        "el33th4xor": 1,
+        "neha": 1,
+        "web3foundation": 1,
+        "Givethio": 2,
+        "ameensol": 1,
+        "thegrifft": 1,
+        "crypto_dev_alex": 1,
+        "RosuGrigore": 1,
+        "MakerDAO": 2,
+        "BobSummerwill": 1,
+        "eth_taipei": 3,
+        "mingchan88": 1,
+        "ParityTech": 2,
+        "DefendAssange": 2,
+        "feindura": 1,
+        "metamask_io": 1,
+        "Cointelegraph": 2,
+        "elonmusk": 1,
+        "githubstatus": 1,
+        "uport_me": 1,
+        "ricburton": 1,
+        "MrRuneEvensen": 1,
+        "cosscrypto": 1,
+        "timberners_lee": 1,
+        "GoogleAI": 1,
+        "bezzenberger": 1,
+        "_brainbot": 1,
+        "kadavy": 2,
+        "bozhobg": 1,
+        "muiiio": 1
+    },
+    "users_retweeted": [
+        "raiden_network",
+        "ethchris",
+        "LefterisJP",
+        "VitalikButerin",
+        "evan_van_ness",
+        "ethereum",
+        "Gustav_tech",
+        "jbaylina",
+        "ETHBerlin",
+        "AssethFR",
+        "peter_szilagyi",
+        "paddykcl",
+        "koeppelmann",
+        "eth_taipei",
+        "myetherwallet",
+        "etherscan",
+        "EthParis",
+        "mhswende",
+        "technocrypto",
+        "alexberegszaszi",
+        "hudsonjameson",
+        "Knaerland",
+        "StefanDGeorge",
+        "makoto_inoue",
+        "dappcon_berlin",
+        "Givethio",
+        "MakerDAO",
+        "ParityTech",
+        "DefendAssange",
+        "Cointelegraph",
+        "kadavy",
+        "ricmoo",
+        "tenfinney",
+        "austingriffith",
+        "SoerenSteiger",
+        "avsa",
+        "statechannels",
+        "badcryptobitch",
+        "HyperLinkTechn",
+        "gballet",
+        "maurreth",
+        "gakonst",
+        "realLedgerwatch",
+        "_franzihei",
+        "EnigmaMPC",
+        "leonardoalt",
+        "DeanEigenmann",
+        "_prestwich",
+        "GenevaDUG",
+        "BokkyPooBah",
+        "get_eth_events",
+        "gnidan",
+        "PaulRBerg",
+        "ETHCapeTown",
+        "CelerNetwork",
+        "LianaHusikyan",
+        "pirapira",
+        "EFDevcon",
+        "licuende",
+        "SpankChain",
+        "ZachSmolinski",
+        "_jefflau",
+        "fubuloubu",
+        "AlexBoerger",
+        "Logvinov_Leon",
+        "trailofbits",
+        "robbiebent1",
+        "hrdwrknvrstps",
+        "TaylorGerring",
+        "gnosisSafe",
+        "nicksdjohnson",
+        "mi_ayako",
+        "_czepluch",
+        "karl_dot_tech",
+        "tayvano_",
+        "el33th4xor",
+        "neha",
+        "web3foundation",
+        "ameensol",
+        "thegrifft",
+        "crypto_dev_alex",
+        "RosuGrigore",
+        "BobSummerwill",
+        "mingchan88",
+        "feindura",
+        "metamask_io",
+        "elonmusk",
+        "githubstatus",
+        "uport_me",
+        "ricburton",
+        "MrRuneEvensen",
+        "cosscrypto",
+        "timberners_lee",
+        "GoogleAI",
+        "bezzenberger",
+        "_brainbot",
+        "bozhobg",
+        "muiiio"
+    ]
+}

@@ -1,0 +1,620 @@
+{
+    "is_complete": true,
+    "username": "dapphub",
+    "retweeted": {
+        "1062537119154032640": {
+            "id": "1062537119154032640",
+            "text": "You can now use solc 0.5.0 with dapptools by @dapphub!\n\nDownload instructions at https://dapp.tools\u00a0 then:\n\ndapp pkg selfupdate\n\ndapp --use solc:0.5.0 build\n\nFirst use will take a while, since it'll download/compile solc 0.5.0, next time it'll be fast! Thanks #solidity team!",
+            "username": "nanexcool",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1058516161455906817": {
+            "id": "1058516161455906817",
+            "text": "Thank you to everyone who attended our formal verification workshop earlier today at @EFDevcon. Special shoutout to @dapphub for a dynamite collaboration.",
+            "username": "rv_inc",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1022900814980030465": {
+            "id": "1022900814980030465",
+            "text": "Check out K Lab from @dapphub  for the KEVM\nThe KLab tool interactively explores execution traces produced by the K Framework\nThis is what I call magic. Thank you so much for this amazing tool!\nhttps://www.youtube.com/watch?v=z4mIo38x1u8\u00a0\u2026\n@InputOutputHK @IOHK_Charles @rv_inc",
+            "username": "SebastienGllmt",
+            "num_likes": 41,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1009934015883874305": {
+            "id": "1009934015883874305",
+            "text": "@mhhf demoing some of the latest formal verification tools out of @dapphub to the great minds of @rv_inc. Really impressed with the #kframework!pic.twitter.com/4Ri4th9J74",
+            "username": "MartinLundfall",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "989142253468708864": {
+            "id": "989142253468708864",
+            "text": "I no longer have a manager. I can't be managed",
+            "username": "kanyewest",
+            "num_likes": 229804,
+            "num_retweets": 51742,
+            "num_replies": 4300
+        },
+        "973611495614533633": {
+            "id": "973611495614533633",
+            "text": "#ewasm university day two kicks off in Paris with devs from @ParityTech, @Truebitprotocol, @ConsenSys, @dapphub, @MakerDAO, @kyokan_io and @ethereum. @pepyakin teaches WASM basics, @alexberegszaszi teaches Solidity and Julia, @RealZandy teaches Maker and Everett teaches kevm.pic.twitter.com/h8oByUb7yi",
+            "username": "lrettig",
+            "num_likes": 65,
+            "num_retweets": 17,
+            "num_replies": 4
+        },
+        "963938738127585280": {
+            "id": "963938738127585280",
+            "text": "This is likely my favorite and the most important quote about creating software, EVER!.pic.twitter.com/L6j37lQd2R",
+            "username": "codylindley",
+            "num_likes": 872,
+            "num_retweets": 453,
+            "num_replies": 13
+        },
+        "965316903525691392": {
+            "id": "965316903525691392",
+            "text": "Trail of Bits is doing the most incredible work, taking the tooling of deep offensive research into the realm of proper software engineering.https://twitter.com/trailofbits/status/965292330201776129\u00a0\u2026",
+            "username": "dakami",
+            "num_likes": 77,
+            "num_retweets": 19,
+            "num_replies": 2
+        },
+        "954520026350080000": {
+            "id": "954520026350080000",
+            "text": "Been digging the seth tool by @dapphub for quick inspection of contract info from the terminal https://github.com/dapphub/seth\u00a0 Now back to debugging...",
+            "username": "YondonFu",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "953731478365519872": {
+            "id": "953731478365519872",
+            "text": "Heads down for 3 years with no hype, the @makerdao team has built a working decentralized stablecoin (dai) that has held stable today despite the volatility in broader crypto markets https://dai.makerdao.com/\u00a0",
+            "username": "NTmoney",
+            "num_likes": 217,
+            "num_retweets": 47,
+            "num_replies": 8
+        },
+        "943208854141243398": {
+            "id": "943208854141243398",
+            "text": "you: *sobbing* please stop...you cant just say everything is a compiler!\n\nme: *points at documentation tooling* compiler",
+            "username": "steveklabnik",
+            "num_likes": 506,
+            "num_retweets": 118,
+            "num_replies": 22
+        },
+        "942909571613409280": {
+            "id": "942909571613409280",
+            "text": "This is one way that teams like DappHub and Gnosis hold my attention, even when they take a long time to deliver on big promises.",
+            "username": "danfinlay",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "942909341044162560": {
+            "id": "942909341044162560",
+            "text": "One indicator I look for in a healthy open source project is how many useful tools come out of its team as a side effect of their efforts.",
+            "username": "danfinlay",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "941780672439554051": {
+            "id": "941780672439554051",
+            "text": "I just published \u201cMaker sells $12M of MKR to partners, led by Andreessen Horowitz and Polychain Capital\u201dhttps://medium.com/p/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548\u00a0\u2026",
+            "username": "MakerDAO",
+            "num_likes": 87,
+            "num_retweets": 23,
+            "num_replies": 2
+        },
+        "939605087495716864": {
+            "id": "939605087495716864",
+            "text": "The updated whitepaper which accurately reflects the system as it will be launched on Dec. 17 is now out!https://medium.com/@MakerDAO/introducing-the-new-whitepaper-for-the-dai-stablecoin-system-e7c6caabcfc4\u00a0\u2026",
+            "username": "MakerDAO",
+            "num_likes": 119,
+            "num_retweets": 48,
+            "num_replies": 6
+        },
+        "940050090265210880": {
+            "id": "940050090265210880",
+            "text": "Yes\u2026 \u201caccidentally\u201d\u2026  https://twitter.com/masonic_tweets/status/939552918893617152\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 199,
+            "num_retweets": 39,
+            "num_replies": 3
+        },
+        "939111840986161152": {
+            "id": "939111840986161152",
+            "text": "I just published \u201cUsing http://dapp.tools\u00a0\u2019 DSGroup to Control Consensus of Calls on Ethereum\u201dhttps://medium.com/p/using-dapp-tools-dsgroup-to-control-consensus-of-calls-on-ethereum-d423dc6ef1f\u00a0\u2026",
+            "username": "CedricFranz",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "938427360600305664": {
+            "id": "938427360600305664",
+            "text": "Studying ICO returns? Incorporate particles.js config parameters into your model. Potentially huge predictor of future success.",
+            "username": "phildaian",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "938418648804360198": {
+            "id": "938418648804360198",
+            "text": "Introducing ERC20-K: Executable, testable, rigorous, comprehensive, EVM-independent formal specification for ERC20 tokens!\n\nMore details: https://runtimeverification.com/blog/?p=496\u00a0pic.twitter.com/6uQZ5K0Ze3",
+            "username": "rv_inc",
+            "num_likes": 94,
+            "num_retweets": 42,
+            "num_replies": 5
+        },
+        "935009677024382976": {
+            "id": "935009677024382976",
+            "text": "\"default.nix is the new Makefile\" - Small Businessman Magazine",
+            "username": "chris__martin",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "933361679592841216": {
+            "id": "933361679592841216",
+            "text": "Smart contract testing using the @dapphub toolkit. Things just got interesting!https://twitter.com/lendroidproject/status/933357752553844736\u00a0\u2026",
+            "username": "viisundaram",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "932685397242630149": {
+            "id": "932685397242630149",
+            "text": "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" - Martin Fowler",
+            "username": "CodeWisdom",
+            "num_likes": 2537,
+            "num_retweets": 1268,
+            "num_replies": 15
+        },
+        "933009813516234753": {
+            "id": "933009813516234753",
+            "text": "A heartfelt thanks to @kjekak @dapphub for work so far putting KEVM's formal verification tools through their paces, finding so many usability issues, and persisting through.",
+            "username": "phildaian",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "931192980869857280": {
+            "id": "931192980869857280",
+            "text": "it's incredible that in the span of a few yrs mozilla invented a PL and re-invented a modern browser with it, and apparently *succeeded*. hacking greenfield is one thing, but what they did with firefox is unprecedented",
+            "username": "alandipert",
+            "num_likes": 698,
+            "num_retweets": 272,
+            "num_replies": 6
+        },
+        "931563972683358209": {
+            "id": "931563972683358209",
+            "text": "Long-time Mozillian here. Nobody expected this exact outcome. From the inside it looks almost like luck\u2014but it wasn't. The lessons I see are:\n- invest $$$$ in R&D a decade before you need it\n- hire PhDs\n- take on long-shot projects in parallel\n- retain your engineers",
+            "username": "jorendorff",
+            "num_likes": 642,
+            "num_retweets": 306,
+            "num_replies": 8
+        },
+        "931565166063439872": {
+            "id": "931565166063439872",
+            "text": "- invest in dev tools & infrastructure\n- your product is MUCH better when your prioritize correctly\nRust was not the only important piece. Improvements in profiling (perf measurement) played an equally important role.",
+            "username": "jorendorff",
+            "num_likes": 190,
+            "num_retweets": 59,
+            "num_replies": 3
+        },
+        "930744805021376512": {
+            "id": "930744805021376512",
+            "text": "Finally, a well-executed proof of concept of #IPFS and client-side #crypto.\nhttps://peerpad.net\u00a0\n#P2P with a great #UX needed for #privacy.",
+            "username": "matti_sg",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "925830847432921088": {
+            "id": "925830847432921088",
+            "text": "Symbolic execution: A 40-year old binary analysis technique that can investigate paths #fuzzing can\u2019t get to @markmossberg #OreillySecuritypic.twitter.com/6D2gEJW0ud",
+            "username": "Joab_Jackson",
+            "num_likes": 27,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "913796267171565568": {
+            "id": "913796267171565568",
+            "text": "The most daring thing to do with your life is to create stable communities in which the terrible disease of loneliness can be cured.",
+            "username": "Kurt_Vonnegut",
+            "num_likes": 1027,
+            "num_retweets": 424,
+            "num_replies": 8
+        },
+        "921596479692853249": {
+            "id": "921596479692853249",
+            "text": "I think my main problem with Linux is how it sympathizes the minds of our young people to the international communist cause.",
+            "username": "SwiftOnSecurity",
+            "num_likes": 618,
+            "num_retweets": 137,
+            "num_replies": 41
+        },
+        "921048276891242500": {
+            "id": "921048276891242500",
+            "text": "Refinance your technical debt with a new layer of abstraction",
+            "username": "GonzoHacker",
+            "num_likes": 161,
+            "num_retweets": 92,
+            "num_replies": 4
+        },
+        "911327483307466753": {
+            "id": "911327483307466753",
+            "text": "12yo asked me to fix a problem on his Ubuntu machine\n\ni can't figure out the problem ... so\n\ni hope he loves his new NixOS configuration",
+            "username": "argumatronic",
+            "num_likes": 129,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "907188303354634241": {
+            "id": "907188303354634241",
+            "text": "On token models :)pic.twitter.com/rhYBepq3OS",
+            "username": "VladZamfir",
+            "num_likes": 622,
+            "num_retweets": 240,
+            "num_replies": 23
+        },
+        "905852387180429312": {
+            "id": "905852387180429312",
+            "text": "Trail of Bits is about to make a big move into Ethereum smart contracts. We've been working on tooling and conducting audits for months.",
+            "username": "dguido",
+            "num_likes": 71,
+            "num_retweets": 32,
+            "num_replies": 4
+        },
+        "905507687303176192": {
+            "id": "905507687303176192",
+            "text": "I think \"naming things\" is synecdoche for minimizing the number of concepts and organizing them in a teachable wayhttps://twitter.com/lukejacksonn/status/905383232828526592\u00a0\u2026",
+            "username": "chris__martin",
+            "num_likes": 17,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "905449944550707200": {
+            "id": "905449944550707200",
+            "text": "I\u2019ve long thought we need a better authorisation story for the EVM. Account A should be able to authorise contract B to act on its behalf.",
+            "username": "nicksdjohnson",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "900397350769897473": {
+            "id": "900397350769897473",
+            "text": "Reading all Solidity repos from @dapphub's Github and learning so many novel architecture ideas.https://github.com/dapphub\u00a0",
+            "username": "izqui9",
+            "num_likes": 17,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "898014993798516736": {
+            "id": "898014993798516736",
+            "text": "The more I do software, & read the old papers & new blogs, the more I realize that our history is this series, repeated ad infinitum:",
+            "username": "sarahmei",
+            "num_likes": 597,
+            "num_retweets": 291,
+            "num_replies": 16
+        },
+        "898142392536182784": {
+            "id": "898142392536182784",
+            "text": "New release of the  #ethereum #solidity extension, now with initial support for autocomplete. @ethereumproject @code https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity\u00a0\u2026pic.twitter.com/nMgpB3F1hj",
+            "username": "juanfranblanco",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "882195808619286528": {
+            "id": "882195808619286528",
+            "text": "#a11y posters: Dos and don'ts on designing for accessibility http://buff.ly/2tj2LRu\u00a0pic.twitter.com/tUUSe6xMVN",
+            "username": "mmatuzo",
+            "num_likes": 2448,
+            "num_retweets": 1345,
+            "num_replies": 21
+        },
+        "871540886349291520": {
+            "id": "871540886349291520",
+            "text": "https://beakerbrowser.com\u00a0",
+            "username": "RealZandy",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "871425298914435072": {
+            "id": "871425298914435072",
+            "text": "i remember the days when people still programmed in low-level languages such as untranspiled javascript",
+            "username": "bcrypt",
+            "num_likes": 2177,
+            "num_retweets": 799,
+            "num_replies": 32
+        },
+        "870380671587495936": {
+            "id": "870380671587495936",
+            "text": "Excellent Ethereum simulator written in Haskell by @dapphub: https://asciinema.org/a/5j8eec71hl55l16hsbrn91j8e\u00a0\u2026",
+            "username": "BrendanEich",
+            "num_likes": 56,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "864974673238536193": {
+            "id": "864974673238536193",
+            "text": "Take a look at pubsub on #IPFS: https://ipfs.io/blog/25-pubsub/\u00a0 -- How it works, projects using it, what's next",
+            "username": "IPFSbot",
+            "num_likes": 56,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "848869379290914816": {
+            "id": "848869379290914816",
+            "text": "Hello Planet!https://libp2p.io\u00a0",
+            "username": "libp2p",
+            "num_likes": 47,
+            "num_retweets": 27,
+            "num_replies": 0
+        },
+        "841682682413166597": {
+            "id": "841682682413166597",
+            "text": "Watch @cheesematic of DappHub and MakerDAO introduce DappHub, a new way of interacting with the Ethereum blockchain.https://youtu.be/c4cltuiJ-Us\u00a0",
+            "username": "metamask_io",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "839626035167543297": {
+            "id": "839626035167543297",
+            "text": "I made a very simple JS module for looking up ENS names, currently only works on Ropsten.https://www.npmjs.com/package/ethjs-ens\u00a0\u2026",
+            "username": "danfinlay",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "839607960091385856": {
+            "id": "839607960091385856",
+            "text": "Get excited. We're adding #persistence to the #TestRPC so you can save your test data. Set up a private #blockchain in seconds! #staytuned",
+            "username": "trufflesuite",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "834463565411135488": {
+            "id": "834463565411135488",
+            "text": "\"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.\" - Patrick McKenzie",
+            "username": "CodeWisdom",
+            "num_likes": 1542,
+            "num_retweets": 929,
+            "num_replies": 7
+        },
+        "831996233812058112": {
+            "id": "831996233812058112",
+            "text": "We\u2019ve announced the winner of our IPFS-Ethereum hackathon! Congrats ChicoBitcoinJoe!https://medium.com/@danfinlay/ipfs-ethereum-hackathon-results-d6b90b34286f#.dnln5z7ut\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 19,
+            "num_retweets": 9,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "953327535441330176": {
+            "id": "953327535441330176",
+            "text": "Seth has gotten even better! We now support signing with the Ledger Nano S and transactions can be broadcast right to Infura. With seth, you no longer need to sync or unlock an Ethereum client to create transactions from the comfort of your command linehttps://github.com/dapphub/seth\u00a0",
+            "username": "dapphub",
+            "num_likes": 34,
+            "num_retweets": 17,
+            "num_replies": 0
+        },
+        "942885782070726656": {
+            "id": "942885782070726656",
+            "text": "We've been working towards this goal since day 1 of DappHub's creation, before Ethereum even launched. This is a milestone we are truly proud of https://twitter.com/makerdao/status/942869092435886083\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 60,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "940263740045516801": {
+            "id": "940263740045516801",
+            "text": "Our hevm tool was used to crack the @CryptoKitties genetic code https://medium.com/@montedong/towards-cracking-crypto-kitties-genetic-code-629fcd37b09b\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 26,
+            "num_retweets": 16,
+            "num_replies": 2
+        },
+        "935609521501818880": {
+            "id": "935609521501818880",
+            "text": "Check out @RealZandy in our Devcon talk about free software, the Unix design philosophy, and all the cool stuff at https://dapp.tools\u00a0 !https://www.youtube.com/watch?v=rKQCvUp5q1w\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "930100837392797696": {
+            "id": "930100837392797696",
+            "text": "How to easily create a local Ethereum testnet with Dapp and Gethhttps://medium.com/dapphub/easy-local-testnets-for-your-dapp-b9786ca80c88\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "921873567117168640": {
+            "id": "921873567117168640",
+            "text": "Check out the new site indexing all of our developer tools documentation! Something for everyone at https://dapp.tools\u00a0",
+            "username": "dapphub",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "920260182416019456": {
+            "id": "920260182416019456",
+            "text": "check out http://dapp.tools/hevm\u00a0 for the state of the art in dapp developer toolshttps://twitter.com/reto_trinkler/status/920204742046953472\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 4,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "870416596988174337": {
+            "id": "870416596988174337",
+            "text": "Release page can be found here: \nhttps://github.com/dapphub/hsevm/releases\u00a0\u2026\n\nstill under active development! more exciting features to comehttps://twitter.com/BrendanEich/status/870380671587495936\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 3,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "856874632288362497": {
+            "id": "856874632288362497",
+            "text": "Introducing DS-Math, an innovative safe math library with two new numeric types!https://blog.dapphub.com/ds-math\u00a0",
+            "username": "dapphub",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "839999654372691968": {
+            "id": "839999654372691968",
+            "text": "\"Without something like a dispute resolution system, economic rents absolutely will be extracted from honest registrants by squatters\"https://twitter.com/VladZamfir/status/839889774458597377\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "839552793304129536": {
+            "id": "839552793304129536",
+            "text": "Dynamic hierarchy: \u201cAuthority shifts based on who has the most knowledge and experience in a specific context\u201d\n\nhttps://medium.com/ouishare-connecting-the-collaborative-economy/cut-the-bullshit-organizations-with-no-hierarchy-dont-exist-f0a845e73a80#.1bb01qjk2\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "838603483066425345": {
+            "id": "838603483066425345",
+            "text": "\u201cWe need a new operating system for startups\u201dhttps://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131#.ocxgesxas\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "834940662462083072": {
+            "id": "834940662462083072",
+            "text": "Bret Victor on how media shapes the way we reason about complex systems. Lots of overlap with our mission here!https://vimeo.com/67076984\u00a0",
+            "username": "dapphub",
+            "num_likes": 2,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "832022642651656192": {
+            "id": "832022642651656192",
+            "text": "It was a ton of fun helping out at this hackathon! We were busy working on the app that will someday live at http://dapphub.com\u00a0 https://twitter.com/metamask_io/status/831996233812058112\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "831656314287714304": {
+            "id": "831656314287714304",
+            "text": "Hello world! We will be posting updates here as the DappHub team releases our next generation of Ethereum developer tools. Stay tuned ",
+            "username": "dapphub",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "827075000557412352": {
+            "id": "827075000557412352",
+            "text": "Verifying myself: I am dapphub on Keybase.io. Er9gU85K9zNyWgTIKNRynov960Q-N1a8g96A / https://keybase.io/dapphub/sigs/Er9gU85K9zNyWgTIKNRynov960Q-N1a8g96A\u00a0\u2026",
+            "username": "dapphub",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "nanexcool": 1,
+        "rv_inc": 2,
+        "SebastienGllmt": 1,
+        "MartinLundfall": 1,
+        "kanyewest": 1,
+        "lrettig": 1,
+        "codylindley": 1,
+        "dakami": 1,
+        "YondonFu": 1,
+        "NTmoney": 1,
+        "steveklabnik": 1,
+        "danfinlay": 3,
+        "MakerDAO": 2,
+        "metamask_io": 3,
+        "CedricFranz": 1,
+        "phildaian": 2,
+        "chris__martin": 2,
+        "viisundaram": 1,
+        "CodeWisdom": 2,
+        "alandipert": 1,
+        "jorendorff": 2,
+        "matti_sg": 1,
+        "Joab_Jackson": 1,
+        "Kurt_Vonnegut": 1,
+        "SwiftOnSecurity": 1,
+        "GonzoHacker": 1,
+        "argumatronic": 1,
+        "VladZamfir": 1,
+        "dguido": 1,
+        "nicksdjohnson": 1,
+        "izqui9": 1,
+        "sarahmei": 1,
+        "juanfranblanco": 1,
+        "mmatuzo": 1,
+        "RealZandy": 1,
+        "bcrypt": 1,
+        "BrendanEich": 1,
+        "IPFSbot": 1,
+        "libp2p": 1,
+        "trufflesuite": 1
+    },
+    "users_retweeted": [
+        "danfinlay",
+        "metamask_io",
+        "rv_inc",
+        "MakerDAO",
+        "phildaian",
+        "chris__martin",
+        "CodeWisdom",
+        "jorendorff",
+        "nanexcool",
+        "SebastienGllmt",
+        "MartinLundfall",
+        "kanyewest",
+        "lrettig",
+        "codylindley",
+        "dakami",
+        "YondonFu",
+        "NTmoney",
+        "steveklabnik",
+        "CedricFranz",
+        "viisundaram",
+        "alandipert",
+        "matti_sg",
+        "Joab_Jackson",
+        "Kurt_Vonnegut",
+        "SwiftOnSecurity",
+        "GonzoHacker",
+        "argumatronic",
+        "VladZamfir",
+        "dguido",
+        "nicksdjohnson",
+        "izqui9",
+        "sarahmei",
+        "juanfranblanco",
+        "mmatuzo",
+        "RealZandy",
+        "bcrypt",
+        "BrendanEich",
+        "IPFSbot",
+        "libp2p",
+        "trufflesuite"
+    ]
+}

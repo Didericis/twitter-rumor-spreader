@@ -1,0 +1,48 @@
+{
+    "is_complete": true,
+    "username": "davidlknott",
+    "retweeted": {
+        "994069957968388097": {
+            "id": "994069957968388097",
+            "text": "We had a busy week at EDCON but we did not forget! OmiseGO Roadmap Update just published on Medium:https://blog.omisego.network/omisego-roadmap-update-94819e20ada2\u00a0\u2026",
+            "username": "omise_go",
+            "num_likes": 772,
+            "num_retweets": 248,
+            "num_replies": 38
+        },
+        "993315064064151552": {
+            "id": "993315064064151552",
+            "text": "Just published: Plasma XT! Please review, feedback and comments are always more than welcome :-)https://ethresear.ch/t/plasma-xt-plasma-cash-with-much-less-per-user-data-checking/1926\u00a0\u2026",
+            "username": "kelvinfichter",
+            "num_likes": 334,
+            "num_retweets": 102,
+            "num_replies": 17
+        },
+        "953041263393095680": {
+            "id": "953041263393095680",
+            "text": "\"Construction of a Plasma Chain\" blog post by OMG dev David Knott:https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612\u00a0\u2026",
+            "username": "omise_go",
+            "num_likes": 842,
+            "num_retweets": 319,
+            "num_replies": 30
+        }
+    },
+    "tweeted": {
+        "913506411912425473": {
+            "id": "913506411912425473",
+            "text": "Excited to speak about Viper at the Global Blockchain Summit on October 5th! #SafetyThroughSimplicity #Ethereum",
+            "username": "davidlknott",
+            "num_likes": 22,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "omise_go": 10,
+        "kelvinfichter": 5
+    },
+    "users_retweeted": [
+        "omise_go",
+        "kelvinfichter"
+    ]
+}

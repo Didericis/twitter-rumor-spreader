@@ -1,0 +1,266 @@
+{
+    "is_complete": true,
+    "username": "barrywhitehat",
+    "retweeted": {
+        "1115990958342955008": {
+            "id": "1115990958342955008",
+            "text": "#zkSNARK proof generator in Web Assembly and parallelised with Web Workers.  A 50k constraint proof takes less than 10s to be generated from the browser. This new @identhree tool should be very useful in many zk-dApps https://www.reddit.com/r/ethereum/comments/bbmteb/websnark_zksnarks_generation_from_the_browser_is/\u00a0\u2026 @VitalikButerin @barrywhitehat @zooko",
+            "username": "jbaylina",
+            "num_likes": 278,
+            "num_retweets": 85,
+            "num_replies": 9
+        },
+        "1104090592563351552": {
+            "id": "1104090592563351552",
+            "text": "At the #EthParis opening ceremony, going to go on stage and announce prizes for the best projects on SNARKs, generously sponsored by the Ethereum Foundation. Look at the document by @barrywhitehat and come talk to me afterwards to learn more.https://twitter.com/barrywhitehat/status/1104087781964464128\u00a0\u2026",
+            "username": "gluk64",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "888395536042258433": {
+            "id": "888395536042258433",
+            "text": "Every dev in #Ethereum has an interest in auditing @ParityTech wallet right now, we submitted 3 PR\u2019s where\u2019s yours?",
+            "username": "majoolr",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1104087790197850114": {
+            "id": "1104087790197850114",
+            "text": "The zkp community is here to help. We are at the event giving a bunch of talks and on telegram happy to mentor any teams that need help.https://t.me/ethdenver_snarks4scaling\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1104087788541095947": {
+            "id": "1104087788541095947",
+            "text": "It is possible to build dapps with these tools in a weekend. So the EF are sponsoring a prize at #ethparis https://hackmd.io/BKVuB2j4Sw2KcA8nWHGbrg?view\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1104087785135312899": {
+            "id": "1104087785135312899",
+            "text": "This is in largely due to @identhree for building a high level snark language that provides signatures and hash functions at a high level circomhttps://github.com/iden3/circom\u00a0",
+            "username": "barrywhitehat",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1104087783658962944": {
+            "id": "1104087783658962944",
+            "text": "In 2018 I took me 3 months to make miximus an anonymous mixer. Last month at #ethdenver a team make the same in one weekend. The tools for building with snarks are getting better.  https://github.com/zdai-io/zDai-mixer\u00a0\u2026\n.",
+            "username": "barrywhitehat",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1104087781964464128": {
+            "id": "1104087781964464128",
+            "text": "Arguably the most interesting use case of s[nt]arks is no privacy but scalability. between 500 and 33000 tps depending upon data availability guarantees. No exit games, No state channels. https://hackmd.io/BKVuB2j4Sw2KcA8nWHGbrg?view\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 103,
+            "num_retweets": 37,
+            "num_replies": 1
+        },
+        "1098486690757427200": {
+            "id": "1098486690757427200",
+            "text": "Or we could create a universal login across multiple services while limiting the amount of overall requests you can make.",
+            "username": "barrywhitehat",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1098486688832200705": {
+            "id": "1098486688832200705",
+            "text": "We can use this to create #tor #i2p networks which are spam/dos resistant. By requiring every participant to deposit a stake and then slashing them if they send more messages than they are allowed. The user remain anonymous if they follow the rules.",
+            "username": "barrywhitehat",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1098486687343226880": {
+            "id": "1098486687343226880",
+            "text": "Whisper user proof of work to prevent spam. We could replace it with proof of stake using this approach.",
+            "username": "barrywhitehat",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1098486685753659392": {
+            "id": "1098486685753659392",
+            "text": "https://ethresear.ch/t/semaphore-rln-rate-limiting-nullifier-for-spam-prevention-in-anonymous-p2p-setting/5009\u00a0\u2026\n\nlatest work allow stake and slashing to prevent spam while maintaining users anonymity",
+            "username": "barrywhitehat",
+            "num_likes": 56,
+            "num_retweets": 17,
+            "num_replies": 6
+        },
+        "1096490137029095424": {
+            "id": "1096490137029095424",
+            "text": "EF is supporting a snarks for scaling prize at ethdenver. Checkout https://hackmd.io/s/HyDvec4SN#\u00a0 and/or seek mentorshiphttps://t.me/ethdenver_snarks4scaling\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 70,
+            "num_retweets": 29,
+            "num_replies": 3
+        },
+        "1090640584274980864": {
+            "id": "1090640584274980864",
+            "text": "5. Solving optimisation problemshttps://ethresear.ch/t/solving-optimization-problems-using-snarks-ethereum-and-incentives\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1090640583792615424": {
+            "id": "1090640583792615424",
+            "text": "4. Scaling using snarkshttps://github.com/barryWhiteHat/roll_up_token\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1090640583197024256": {
+            "id": "1090640583197024256",
+            "text": "3. anon reputation systems using snarkshttps://ethresear.ch/t/anonymous-reputation-risking-and-burning\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1090640582555328517": {
+            "id": "1090640582555328517",
+            "text": "2. anon signals using snarkshttps://github.com/barryWhiteHat/semaphore\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1090640581703884800": {
+            "id": "1090640581703884800",
+            "text": "1. mixers using snarkshttps://github.com/barryWhiteHat/miximus\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1090640579929620480": {
+            "id": "1090640579929620480",
+            "text": "0. I'll be at Stanford Blockchain Conference this week. DM me if you wants to talk about",
+            "username": "barrywhitehat",
+            "num_likes": 21,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1090313718791950336": {
+            "id": "1090313718791950336",
+            "text": "A little bit different from my previous work \nhttps://ethresear.ch/t/solving-optimization-problems-using-snarks-ethereum-and-incentives/4904/4\u00a0\u2026\nIs about using ethereum, snarks and incentives to solve optimisation problems.",
+            "username": "barrywhitehat",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1037319810261037056": {
+            "id": "1037319810261037056",
+            "text": "scaling ethereum with snarkshttps://github.com/barryWhiteHat/roll_up\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 60,
+            "num_retweets": 14,
+            "num_replies": 2
+        },
+        "1028929845701427201": {
+            "id": "1028929845701427201",
+            "text": "https://github.com/barryWhiteHat/baby_jubjub_ecc\u00a0\u2026\nelliptic curve point addition, ec point multiplication,  pedersen commitments and eddsa signature verification. All available in #ethereum's altbn128 (zksnark) curve.",
+            "username": "barrywhitehat",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1025574207256592384": {
+            "id": "1025574207256592384",
+            "text": "Thanks to @feministPLT for her work and guidance on this. Based upon work by @hashbreaker , @hyperelliptic and many others...",
+            "username": "barrywhitehat",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1025574205205532673": {
+            "id": "1025574205205532673",
+            "text": "https://github.com/barryWhiteHat/baby_jubjub\u00a0\u2026 candidate jubjub curve for altbn128. Will allow elliptic curve cryptography inside a zksnark on ethereum. Plz review",
+            "username": "barrywhitehat",
+            "num_likes": 106,
+            "num_retweets": 25,
+            "num_replies": 7
+        },
+        "1017438443373096965": {
+            "id": "1017438443373096965",
+            "text": "Anonymous identity and signaling with zksnarks.\ncode: https://github.com/barryWhiteHat/semaphore\u00a0\u2026\ndescription:https://hackmd.io/s/B17_qgrQ7#\u00a0",
+            "username": "barrywhitehat",
+            "num_likes": 187,
+            "num_retweets": 75,
+            "num_replies": 11
+        },
+        "1009798770966573062": {
+            "id": "1009798770966573062",
+            "text": "Miximus (zksnark based anonymous transactions) is live on ethereum's Rinkeby testnet. https://rinkeby.etherscan.io/address/0xb586453a8e44c86e012958e48a0deced462bd16e\u00a0\u2026\n\nLatest version also includes interactive deposit and withdrawal script https://github.com/barryWhiteHat/miximus/tree/master/examples\u00a0\u2026\n#zcon0 #ethereum",
+            "username": "barrywhitehat",
+            "num_likes": 183,
+            "num_retweets": 81,
+            "num_replies": 5
+        },
+        "1009558729484840962": {
+            "id": "1009558729484840962",
+            "text": "requesting rinkeby testnet eth 0x1222B101C471E8e364639edf1DF4b81B18D48603",
+            "username": "barrywhitehat",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "991340517874196482": {
+            "id": "991340517874196482",
+            "text": "A trustless #ethereum mixer using #zksnarkshttps://github.com/barryWhiteHat/miximus\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 50,
+            "num_retweets": 21,
+            "num_replies": 3
+        },
+        "970385193939951619": {
+            "id": "970385193939951619",
+            "text": "sha256 zksnark parameter generation  + ethereum deployment https://github.com/barryWhiteHat/libsnark-tutorial/tree/sha256\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "968122031089815552": {
+            "id": "968122031089815552",
+            "text": "I appended @1HowardWu tutorial on libsnark to prove a #zkSNARK on #ethereum networkhttps://github.com/barryWhiteHat/libsnark-tutorial\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "942498405644947461": {
+            "id": "942498405644947461",
+            "text": "https://makerdao.com/saiCodeReview/SAI%20Coin%20Code%20Review_v1_3.pdf\u00a0\u2026",
+            "username": "barrywhitehat",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "jbaylina": 1,
+        "gluk64": 1,
+        "majoolr": 1
+    },
+    "users_retweeted": [
+        "jbaylina",
+        "gluk64",
+        "majoolr"
+    ]
+}

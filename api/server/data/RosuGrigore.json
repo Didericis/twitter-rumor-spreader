@@ -1,0 +1,2037 @@
+{
+    "is_complete": true,
+    "username": "RosuGrigore",
+    "retweeted": {
+        "1123959851888074754": {
+            "id": "1123959851888074754",
+            "text": "What stops you from formally verifying your #smartcontract?",
+            "username": "rv_inc",
+            "num_likes": 8,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1123649834983067650": {
+            "id": "1123649834983067650",
+            "text": "If you are around Brooklyn for the #BlockchainWeekNYC, we offer a K for #SmartContracts workshop at @ConsenSys HQ on Thursday, May 16th, the day in between @coindesk Consensus and @ETHNewYork. Seats are limited. https://www.eventbrite.com/e/k-for-smart-contracts-tickets-60869524386\u00a0\u2026pic.twitter.com/64oF5ADQAB",
+            "username": "rv_inc",
+            "num_likes": 16,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1123572883194822657": {
+            "id": "1123572883194822657",
+            "text": "What is your biggest challenge after writing a #smartcontract?",
+            "username": "rv_inc",
+            "num_likes": 0,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1121891214507368453": {
+            "id": "1121891214507368453",
+            "text": "Complete formal semantics of x86 in #kframework, by @vadve and @RosuGrigore's labs at UIUC in collaboration with @rv_inc. To be presented @PLDI'19. You can now use the K tool ecosystem to symbolically execute and formally verify x86 binaries, too.\nhttp://fsl.cs.illinois.edu/FSL/papers/2019/dasgupta-park-kasampalis-adve-rosu-2019-pldi/dasgupta-park-kasampalis-adve-rosu-2019-pldi-public.pdf\u00a0\u2026pic.twitter.com/JUH4pnzp45",
+            "username": "rv_inc",
+            "num_likes": 25,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1121815705584898048": {
+            "id": "1121815705584898048",
+            "text": "Now we are happy to announce the completion of an extra layer of security: \"formal verification\". It was a huge effort by @rv_inc and done with support from @ethereumecf. Gnosis will soon start moving funds to this verified version of the contract. (2/2)https://blog.gnosis.pm/formal-verification-a-journey-deep-into-the-gnosis-safe-smart-contracts-b00daf354a9c\u00a0\u2026",
+            "username": "koeppelmann",
+            "num_likes": 35,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1121784213462822917": {
+            "id": "1121784213462822917",
+            "text": "We just formally verified our smart contracts!  If the term formal verification seems a little confusing, don't fear! Let's take a journey deep into the world of formal verification and your confusion will be transformed into clarity. https://blog.gnosis.pm/formal-verification-a-journey-deep-into-the-gnosis-safe-smart-contracts-b00daf354a9c\u00a0\u2026pic.twitter.com/zdWNxC0MmA",
+            "username": "gnosisSafe",
+            "num_likes": 25,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1121793225352601602": {
+            "id": "1121793225352601602",
+            "text": "The formal verification of @gnosisSafe contracts is completed. It took several engineers several months. Thank you to @rv_inc for the collaboration and @ethereumecf for co-funding it!https://blog.gnosis.pm/formal-verification-a-journey-deep-into-the-gnosis-safe-smart-contracts-b00daf354a9c\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 81,
+            "num_retweets": 24,
+            "num_replies": 7
+        },
+        "1121794856907460609": {
+            "id": "1121794856907460609",
+            "text": "This is a great blog written by @gnosisPM about formal verification and the work we provided to formally verify the @gnosisSafe.  Enjoy!!https://signalradarnews.com/2019/04/26/formal-verification-a-journey-deep-into-the-gnosis-safe-smart-contracts/\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1120702525605392384": {
+            "id": "1120702525605392384",
+            "text": "A Complete Formal Semantics of x86-64 User-Level Instruction Set Architecture \nhttp://fsl.cs.illinois.edu/index.php/A_Complete_Formal_Semantics_of_x86-64_User-Level_Instruction_Set_Architecture\u00a0\u2026\nhttps://github.com/kframework/X86-64-semantics\u00a0\u2026\n@sdasgup3, Daejun Park, Theodoros Kasampalis, @vadve, @RosuGrigore\nProgramming Language Design and Implementation (@PLDI) 2019pic.twitter.com/H2eP7OE8sg",
+            "username": "matt_dz",
+            "num_likes": 395,
+            "num_retweets": 193,
+            "num_replies": 9
+        },
+        "1117815187770355712": {
+            "id": "1117815187770355712",
+            "text": "Are you a programmer or a company using the K Framework? https://runtimeverification.com/blog/k-framework-an-overview/\u00a0\u2026 \u2026 Are you building tools using the #Kframework? Send us some love, by \"liking\" this or posting a link, and we'll love you back. pic.twitter.com/mxXo1yRUb4",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1111279902609809410": {
+            "id": "1111279902609809410",
+            "text": "I gave a talk on the K framework, WebAssembly, and our ongoing KWasm project. Good intro to both K and #wasm for those a bit familiar with programming languages.https://www.youtube.com/watch?v=V6tOYuneMqo\u00a0\u2026",
+            "username": "hjortgjort",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1095381349387722752": {
+            "id": "1095381349387722752",
+            "text": "We are excited to expand on the formal verification services we provide in the blockchain space and beyond. https://goo.gl/L9qTxM\u00a0 Now we offer Traditional Security Reviews (\u201cAudits\u201d), Code Analysis, Formal Modeling, and Formal Verification for #SmartContracts and #Protocols.pic.twitter.com/q1l2sC9YpU",
+            "username": "rv_inc",
+            "num_likes": 47,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1093527145509502977": {
+            "id": "1093527145509502977",
+            "text": "Solid overview of Formal Verification on Ethereum by @marekkirejczyk https://link.medium.com/L04pN6jrLT\u00a0\n\nTurns out there are two higher level specification languages being developed.",
+            "username": "maurelian_",
+            "num_likes": 60,
+            "num_retweets": 27,
+            "num_replies": 3
+        },
+        "1090429172583780352": {
+            "id": "1090429172583780352",
+            "text": "Three-part proposal for the Ethereum Specification by @greg_colvin: \n- a cleaned-up, Beige-tinted Yellow Paper\n- a readable, executable K spec\n- an associated test suitehttps://ethereum-magicians.org/t/jello-paper-as-canonical-evm-spec/2389/39\u00a0\u2026",
+            "username": "jemenger",
+            "num_likes": 26,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1080086931927715842": {
+            "id": "1080086931927715842",
+            "text": "3/7 Formally verify Gnosis smart contracts with K-framework \nWe started working with @rv_inc to formally verify @gnosisSafe contracts. ETA is end of January. The work is in progress and can be seen here:https://github.com/runtimeverification/verified-smart-contracts/tree/master/gnosis\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1078759477497786368": {
+            "id": "1078759477497786368",
+            "text": "Philip Wadler https://youtu.be/REt32COgF28\u00a0 nothing more needs to be said. The legend speaks for himself",
+            "username": "IOHK_Charles",
+            "num_likes": 199,
+            "num_retweets": 41,
+            "num_replies": 7
+        },
+        "1074034051282034689": {
+            "id": "1074034051282034689",
+            "text": "Congratulations to Dr. Daejun Park on the completion of your PhD. Now let\u2019s get to work pic.twitter.com/3ZDAvm9mGO",
+            "username": "rv_inc",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1066090659029770240": {
+            "id": "1066090659029770240",
+            "text": "This week, @MartinLundfall from @dapphub chats about formal verification using klab. Formal Verification is something that's been a mystery to most developers but should be integrated into any smart contract workflow!\n\nCheck it out here:https://www.thesmartestcontract.com/26\u00a0",
+            "username": "itsjefftong",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1067835032239132677": {
+            "id": "1067835032239132677",
+            "text": "We are proud to announce the opening of Runtime Verification SRL, our subsidiary located in the heart of Bucharest.   Initial focus on the development of the new K-Haskell backend & smart contract verification audits. Check out our blog to learn more. \n https://bit.ly/2Sizu4m\u00a0",
+            "username": "rv_inc",
+            "num_likes": 47,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1060514815695863809": {
+            "id": "1060514815695863809",
+            "text": "Great to have our representative from IOHK academic partnership at Kent University, Simon Thompson, meet up with Philip Wadler, @RosuGrigore at the ISoLA Conference in Cyprus. Simon presented the paper \"Marlowe: financial contracts on blockchain\". #Cardano #cardanocommunitypic.twitter.com/GLYVtTQPqB",
+            "username": "InputOutputHK",
+            "num_likes": 76,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1057651753901047809": {
+            "id": "1057651753901047809",
+            "text": "Over the moon to see that Sarita Adve has won the 2018 ACM/IEEE CS Ken Kennedy award for her amazing contributions to research and mentoring!!  Congratulations, Sarita!  https://buff.ly/2JtFhku\u00a0pic.twitter.com/idZuqFjD7r",
+            "username": "WICARCH",
+            "num_likes": 71,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1057892554753089536": {
+            "id": "1057892554753089536",
+            "text": "Formal verification of @gnosisSafe contracts conducted by @rv_inc and funded by @ethereumecf and @gnosisPM is almost completed. @gnosisSafe will be the first formally verified multisig.https://twitter.com/PichlerD/status/1057648543018741761\u00a0\u2026",
+            "username": "StefanDGeorge",
+            "num_likes": 84,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1047183756556025856": {
+            "id": "1047183756556025856",
+            "text": "Great to see ongoing advances in the Z3 automated theorem prover from MSR and our academic partners:https://www.microsoft.com/en-us/research/blog/spacer-and-z3-accessible-reliable-model-checking-as-theorem-proving/\u00a0\u2026",
+            "username": "tballmsft",
+            "num_likes": 26,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1044983326686175232": {
+            "id": "1044983326686175232",
+            "text": "ERC777-K is parametric in the execution environment. https://goo.gl/z6cSLx\u00a0 It can be plugged-and-played within any execution environment which has a formal semantics, such as a virtual machine or a programming language. #ERC777 #ethereum Demohttps://youtu.be/2JWxt0N721Y\u00a0",
+            "username": "rv_inc",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1044277941998407680": {
+            "id": "1044277941998407680",
+            "text": "Being executable, ERC777-K has been thoroughly tested: https://goo.gl/z6cSLx\u00a0 We provide more than 200 unit tests for ERC777-K, which can be also used for potential ERC777 implementations to check if they conform to the standard. #ERC777 #ethereum Videohttps://youtu.be/2JWxt0N721Y\u00a0",
+            "username": "rv_inc",
+            "num_likes": 23,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1043272858212941825": {
+            "id": "1043272858212941825",
+            "text": "Introducing ERC777-K: Executable, testable, rigorous, comprehensive, EVM-independent formal specification for ERC777 tokens! More details: https://runtimeverification.com/blog/erc777-k-formal-executable-specification-of-erc777/\u00a0\u2026 Video:https://youtu.be/Ty2zuE0R6B4\u00a0",
+            "username": "rv_inc",
+            "num_likes": 40,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1043324578590797831": {
+            "id": "1043324578590797831",
+            "text": "In case you missed the IELE paper http://fsl.cs.illinois.edu/index.php/IELE:_An_Intermediate-Level_Blockchain_Language_Designed_and_Implemented_Using_Formal_Semantics\u00a0\u2026",
+            "username": "IOHK_Charles",
+            "num_likes": 196,
+            "num_retweets": 29,
+            "num_replies": 7
+        },
+        "1042215333183012864": {
+            "id": "1042215333183012864",
+            "text": "Co-author #14 on a manuscript of 16 authors.pic.twitter.com/ajlsytjFRc",
+            "username": "nakedcapsid",
+            "num_likes": 5474,
+            "num_retweets": 1581,
+            "num_replies": 73
+        },
+        "1041992779197440000": {
+            "id": "1041992779197440000",
+            "text": "Congrats to Maker for using the KEVM & K-Framework to formally verify their smart contracts! Big players like this spending the time to formally verify their code gives me confidence we are on the right path w/ Cardano & that IOHK made the right call to invest in these tools.https://twitter.com/MakerDAO/status/1041795771639652353\u00a0\u2026",
+            "username": "SebastienGllmt",
+            "num_likes": 87,
+            "num_retweets": 29,
+            "num_replies": 4
+        },
+        "1040731852577951750": {
+            "id": "1040731852577951750",
+            "text": "The latest blog post from @SebastienGllmt  at @emurgo_io details how to deploy a smart control on the IELE testnet. Learn more here:https://medium.com/@emurgo_io/how-to-deploy-a-contract-on-the-iele-testnet-feae17da5120\u00a0\u2026",
+            "username": "CardanoStiftung",
+            "num_likes": 187,
+            "num_retweets": 39,
+            "num_replies": 4
+        },
+        "1035222078323085313": {
+            "id": "1035222078323085313",
+            "text": "The @UofILSystem and @IllinoisIGPA will honor Barack Obama with the Paul H. Douglas Award for Ethics in Government at 11 a.m. Friday, Sept. 7 in Foellinger Auditorium. The event will be ticketed and students will be notified soon about how to get tickets. http://bit.ly/2N8kSpg\u00a0pic.twitter.com/dfi0X2cCs4",
+            "username": "Illinois_Alma",
+            "num_likes": 850,
+            "num_retweets": 313,
+            "num_replies": 58
+        },
+        "1031270533214531584": {
+            "id": "1031270533214531584",
+            "text": "Welcome to the Twitter of the 34th IEEE/ACM International Conference on Automated Software Engineering 2019. We hope to see you next year in San Diego, CA, USA. http://2019.aseconf.org\u00a0",
+            "username": "ASEconf2019",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1031621825170690049": {
+            "id": "1031621825170690049",
+            "text": "Today we are excited to launch our C/C++ Toolkit MVP https://goo.gl/KP7SRZ\u00a0 If you are a C/C++ developer, please help us improve the product by providing feedback here https://goo.gl/WvYXf6\u00a0. Please RT so others can help us improve the product. #C #undefinedbehaviors #dataracespic.twitter.com/PNkgbC9Mvd",
+            "username": "rv_inc",
+            "num_likes": 15,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1030091792925032449": {
+            "id": "1030091792925032449",
+            "text": "There's an absolutely fantastic, in-depth, technical series on how to formally verify smart contracts in practice on @rv_inc's blog.  Highly recommend reading it.\n\n1: https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/\u00a0\u2026\n2: https://runtimeverification.com/blog/erc-20-verification/\u00a0\u2026",
+            "username": "phildaian",
+            "num_likes": 49,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1027513604814397442": {
+            "id": "1027513604814397442",
+            "text": "Watch Everett Hildenbrandt from @rv_inc presents KEVM, the first time that a complete formal semantics of the EVM have been produced. This is an important first in cryptocurrency that is a necessary step towards the promise of third-generation blockchains.https://buff.ly/2vxb7XP\u00a0",
+            "username": "InputOutputHK",
+            "num_likes": 74,
+            "num_retweets": 17,
+            "num_replies": 2
+        },
+        "1024686484207558656": {
+            "id": "1024686484207558656",
+            "text": "Very excited about new MSR opportunities for our academic colleagues:https://www.microsoft.com/en-us/research/blog/three-microsoft-fellowship-programs-support-academics-and-the-future-of-the-computer-science-field\u00a0\u2026",
+            "username": "tballmsft",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1024608032792170497": {
+            "id": "1024608032792170497",
+            "text": ".@RosuGrigore, a professor in computer science at the @Illinois_Alma, and CEO of @rv_inc, describes the research that he had been working with #IOHK to develop new technology based on formal semantics for #Cardano, including a new virtual machine:https://buff.ly/2AviL9V\u00a0",
+            "username": "InputOutputHK",
+            "num_likes": 58,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1023974634562174983": {
+            "id": "1023974634562174983",
+            "text": "Today we launch the second #Cardano testnet, which is for the IELE virtual machine (VM) and follows our recent launch of the KEVM testnet. Developers now have the opportunity to explore Cardano's #smartcontracts technology, read more here: https://buff.ly/2M5lkRp\u00a0 @cardanocom #Adapic.twitter.com/CegeGlA4XZ",
+            "username": "InputOutputHK",
+            "num_likes": 228,
+            "num_retweets": 83,
+            "num_replies": 6
+        },
+        "1023646170365796357": {
+            "id": "1023646170365796357",
+            "text": "Excited to represent @rv_inc with our COO @Patrick_S_MacKa at the @cargroup MBS in Michigan, and pitch our #dynamicanalysis solutions for the #embeddedsystems.pic.twitter.com/kC1bHfZXIl \u2013 at Grand Traverse Resort and Spa",
+            "username": "bog_dan",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1022900814980030465": {
+            "id": "1022900814980030465",
+            "text": "Check out K Lab from @dapphub  for the KEVM\nThe KLab tool interactively explores execution traces produced by the K Framework\nThis is what I call magic. Thank you so much for this amazing tool!\nhttps://www.youtube.com/watch?v=z4mIo38x1u8\u00a0\u2026\n@InputOutputHK @IOHK_Charles @rv_inc",
+            "username": "SebastienGllmt",
+            "num_likes": 41,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1019645301664206848": {
+            "id": "1019645301664206848",
+            "text": "The @TheOfficialACM has created a new major award to honor 2009 A.M. Turing Laureate Charles P. \u201cChuck\u201d Thacker. The $100,000 award from Microsoft is open to candidates who've made a surprising or disruptive leapfrog in computing ideas or technologies: https://aka.ms/AA1uzi0\u00a0pic.twitter.com/9fQQHZn7kl",
+            "username": "MSFTResearch",
+            "num_likes": 50,
+            "num_retweets": 31,
+            "num_replies": 1
+        },
+        "1022102101391036418": {
+            "id": "1022102101391036418",
+            "text": "Watching a presentation about IELE and the K framework in vietnamese in a movie theater in Ho Chi Minh. Certainly does feel like we are bringing the whole world togetherpic.twitter.com/CctySPWhjM",
+            "username": "IOHK_Charles",
+            "num_likes": 308,
+            "num_retweets": 40,
+            "num_replies": 21
+        },
+        "1022107891753537536": {
+            "id": "1022107891753537536",
+            "text": "Fibonacci Joke :-)pic.twitter.com/18j1yHNYaR",
+            "username": "vardi",
+            "num_likes": 1347,
+            "num_retweets": 499,
+            "num_replies": 8
+        },
+        "1017081148898529280": {
+            "id": "1017081148898529280",
+            "text": "More than 1,800 academics are attending the Federated Logic Conference (#FLoC2018) in Oxford from 6 to 19 July. @RosuGrigore from @rv_inc have been invited to give two talks on the K framework, the importance of formal analysis & verification for #blockchain and virtual machines.pic.twitter.com/u36f70lne6",
+            "username": "InputOutputHK",
+            "num_likes": 74,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "1015127560127242240": {
+            "id": "1015127560127242240",
+            "text": "Truly inspiring talk last evening by @RosuGrigore and the work they're doing @rv_inc Slides can be found here: http://bucharestfp.ro/2018/07/05/verification-of-blockchain-languages-and-virtual-machines/\u00a0\u2026",
+            "username": "bucharestfp",
+            "num_likes": 11,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1010896657632911361": {
+            "id": "1010896657632911361",
+            "text": "IELE + SBC + K = universal smart contract engine. Highly recommend digging into the iohk RV work",
+            "username": "IOHK_Charles",
+            "num_likes": 21,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1009934015883874305": {
+            "id": "1009934015883874305",
+            "text": "@mhhf demoing some of the latest formal verification tools out of @dapphub to the great minds of @rv_inc. Really impressed with the #kframework!pic.twitter.com/4Ri4th9J74",
+            "username": "MartinLundfall",
+            "num_likes": 15,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1006978672912486400": {
+            "id": "1006978672912486400",
+            "text": "Our CEO @RosuGrigore talked to Epicenter about the K-Framework https://epicenter.tv/episode/239/\u00a0. On YouTube at http://youtu.be/JFOnoqAplAY\u00a0. You can learn more about the framework from the @rv_inc blog https://runtimeverification.com/blog/k-framework-an-overview/\u00a0\u2026.",
+            "username": "rv_inc",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1006882019417182210": {
+            "id": "1006882019417182210",
+            "text": "Great episode from Epicenter on the K-Framework featuring Grigore Rosuhttps://www.youtube.com/watch?v=JFOnoqAplAY\u00a0\u2026",
+            "username": "IOHK_Charles",
+            "num_likes": 128,
+            "num_retweets": 22,
+            "num_replies": 10
+        },
+        "1006274775994560512": {
+            "id": "1006274775994560512",
+            "text": "(by the way, re: the spaceship analogy, runtime verification was invented at NASA by a NASA science for aerospace.  also currently used by Boeing \n@rv_inc lives the \"smart contract as spaceship\" analogy)",
+            "username": "phildaian",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1004864623957499904": {
+            "id": "1004864623957499904",
+            "text": "Demo today on Semantics Based Compilation. Really extraordinary things are happeningpic.twitter.com/Ai0iyRhIwQ \u2013 at National Center for Supercomputing Applications",
+            "username": "IOHK_Charles",
+            "num_likes": 330,
+            "num_retweets": 46,
+            "num_replies": 12
+        },
+        "1005811578065817606": {
+            "id": "1005811578065817606",
+            "text": "Rules of Writing :-)pic.twitter.com/gT8H1rd9rt",
+            "username": "vardi",
+            "num_likes": 438,
+            "num_retweets": 191,
+            "num_replies": 6
+        },
+        "1004491672217182208": {
+            "id": "1004491672217182208",
+            "text": "Demo day at the Runtime Verification office. IELE is looking great. We ran an ERC20 contract on it today.pic.twitter.com/OGnGzLA2ZU",
+            "username": "IOHK_Charles",
+            "num_likes": 525,
+            "num_retweets": 85,
+            "num_replies": 26
+        },
+        "1003640410160451584": {
+            "id": "1003640410160451584",
+            "text": "Come visit with Runtime Verification at the 2018 NSF SBIR Phase II conference. We are display 186 in the Technology Showcase. We look forward to speaking with you about our analysis tools for automotive, aerospace, and the blockchain. #NSFInnovation",
+            "username": "rv_inc",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1003311860786122752": {
+            "id": "1003311860786122752",
+            "text": "IOHK is looking for a community manager for the Goguen Testnet. If this sounds like you, check out the job description and apply on our Careers page: https://buff.ly/2rXaKnA\u00a0 #Cardano #cardanocommunity #techjobspic.twitter.com/pF6DOWyBaH",
+            "username": "InputOutputHK",
+            "num_likes": 71,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "992889710249959424": {
+            "id": "992889710249959424",
+            "text": "The beauty of science is profoundly real when you see people's first expressions after hearing soundspic.twitter.com/BUHFur0k0c",
+            "username": "ValaAfshar",
+            "num_likes": 223,
+            "num_retweets": 111,
+            "num_replies": 4
+        },
+        "992994457212502018": {
+            "id": "992994457212502018",
+            "text": "Finished watching this talk by @RosuGrigore in preparation for my video on Cardano CL. High chance I had the calendar invite for this event while I was working at Microsoft and didn't attend. #regrethttps://www.youtube.com/watch?v=cxdPjbpn95s\u00a0\u2026",
+            "username": "SebastienGllmt",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "990235666012393473": {
+            "id": "990235666012393473",
+            "text": "This update explains the forthcoming KEVM and IELE testnet releases for Cardano's Goguen development phase https://buff.ly/2KkSgFi\u00a0 #Cardano @cardanocom @CardanoStiftung @Cardano_pic.twitter.com/8xW25qQBQ0",
+            "username": "InputOutputHK",
+            "num_likes": 348,
+            "num_retweets": 110,
+            "num_replies": 16
+        },
+        "986650589449932800": {
+            "id": "986650589449932800",
+            "text": "You can now have your #smartcontract formally verified by @rv_inc:\nhttps://runtimeverification.com/smart_contract/\u00a0. The same #kframework-based technology is used to formalize #KEVM and #IELE, and to verify Casper. Thanks to @InputOutputHK and @ethereum for funding and support. #blockchain #securitypic.twitter.com/7B06qAoh2T",
+            "username": "rv_inc",
+            "num_likes": 20,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "985893904846385153": {
+            "id": "985893904846385153",
+            "text": "CS Prof. Vikram Adve is leading a $5.6M effort to reduce the complexity and size of modern software systems, in part, by exploring the possibilities of LLVM\u2019s lifelong optimization capability!  http://bit.ly/2qBheIl\u00a0pic.twitter.com/BZyCZTokoi",
+            "username": "IllinoisCS",
+            "num_likes": 28,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "983398246071578626": {
+            "id": "983398246071578626",
+            "text": "Our tour continues on the East Coast, at @NASAGoddard, @NSAGov, and @usnistgov, where the team will present our dynamic analysis tools for C undefined behavior: #rvmatch https://goo.gl/ihxbmJ\u00a0 and #rvpredict https://goo.gl/jHgd4Z\u00a0 #undefinedbehavior #CProgrammingLanguagepic.twitter.com/dvFVJKwTUk",
+            "username": "rv_inc",
+            "num_likes": 54,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "981867666381078530": {
+            "id": "981867666381078530",
+            "text": "IELE, a virtual machine with a universal language framework for translating and executing smart contracts, is in development to be deployed on the Cardano blockchain. Prof. Grigore Rosu, working with IOHK, presents the project in this video:https://youtu.be/iavSKtqjVNA\u00a0",
+            "username": "CardanoStiftung",
+            "num_likes": 272,
+            "num_retweets": 81,
+            "num_replies": 8
+        },
+        "981784968291586048": {
+            "id": "981784968291586048",
+            "text": "Successful 2nd School on Runtime Verification in Praz sur Arly, in the beautiful French Alps, organized by the @COSTprogramme action IC1402 Runtime Verification beyond Monitoring (ARVI) and @inria_grenoble.\nhttp://www.ylies.fr/?p=617\u00a0pic.twitter.com/Qqb4XC0GGh",
+            "username": "YliesFalcone",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "977559620637126656": {
+            "id": "977559620637126656",
+            "text": "Why does C11 program below segfaults when compiled with gcc -O3? It runs normally when you drop -O3.\n\nProgram has undefined behavior, caught by kcc (part of RV-Match tool https://runtimeverification.com/match/\u00a0) as seen in picture, but what does gcc do? #undefinedbehavior #CProgrammingLanguagepic.twitter.com/Ox21noNvbR",
+            "username": "rv_inc",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "977265241787596810": {
+            "id": "977265241787596810",
+            "text": "Runtime Verification Inc is proud to sponsor the  18th International Conference on Runtime Verification in Limassol, Cyprus (November 10-13, 2018) https://rv2018.isp.uni-luebeck.de/\u00a0",
+            "username": "rv_inc",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "972091089825026049": {
+            "id": "972091089825026049",
+            "text": "Proud to announce that several world experts joined our Runtime Verification team:\n  https://runtimeverification.com/team/\u00a0\nRalph Johnson: author of the famous Design Patterns book\nDarko Marinov: top notch testing expert\nAnd many others, and we are still hiring!",
+            "username": "rv_inc",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "971421751363166208": {
+            "id": "971421751363166208",
+            "text": "Thrilled to be the recipients of the first Ethereum Foundation Security Grant, for formal verification of Ethereum contracts and development of related tooling!\n\nLet's build secure smart contracts together!  (PS we're hiring).https://twitter.com/jon_choi_/status/971415354793693185\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 28,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "956600374298927105": {
+            "id": "956600374298927105",
+            "text": "Great overview on the K-EVM and Khttps://youtu.be/2HtNpFBBIOY\u00a0",
+            "username": "IOHK_Charles",
+            "num_likes": 58,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "956555354988523520": {
+            "id": "956555354988523520",
+            "text": "Good overview of the EVM semantics in K developed at UIUC (@IllinoisCS, @RosuGrigore ) and RV (@rv_inc) , which will serve as a basis for smart contract verification at RV (to be announced soon).  Everett is a PhD student at UIUC and an intern at RV.https://twitter.com/InputOutputHK/status/956531871092850688\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 23,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "952925521637183488": {
+            "id": "952925521637183488",
+            "text": "IELE: a new VM for the blockchain, developed by @rv_inc in collaboration with @InputOutputHK.  One of IELE's major design forces was its programs be human-readable and machanically verifiable.  An ERC20 token in IELE: https://github.com/runtimeverification/iele-semantics/blob/master/iele-examples/erc20.iele\u00a0\u2026\n\nRead more at https://runtimeverification.com/blog/?p=498\u00a0.",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "947336026296606720": {
+            "id": "947336026296606720",
+            "text": "Just updated my blogpost to add notes on the @inputoutputhk  & @rv_inc partnership. https://medium.com/comae/smart-contract-languages-development-to-follow-992e30774b39\u00a0\u2026 Thanks, @Arjyparjy & @GreggDourgarian for pointing them out.",
+            "username": "msuiche",
+            "num_likes": 17,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "943789540774330369": {
+            "id": "943789540774330369",
+            "text": "The Dawn of IELE: A VM for the Smart Contracts of Tomorrow: https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain\u00a0\u2026",
+            "username": "IOHK_Charles",
+            "num_likes": 145,
+            "num_retweets": 34,
+            "num_replies": 4
+        },
+        "943231896074547200": {
+            "id": "943231896074547200",
+            "text": "More on the new IELE VM, as well as access to its open source code:\nhttps://runtimeverification.com/blog/?p=498\u00a0\nWe are hiring!https://twitter.com/rv_inc/status/943226763211083777\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "942898883407040512": {
+            "id": "942898883407040512",
+            "text": "https://goo.gl/pQk4y9\u00a0 | Runtime Verification and @InputOutputHK launch virtual machine for #blockchain @RosuGrigore $ADA #ADA @CardanoStiftung @cardano_ @cardanocom",
+            "username": "crypto_ninjas",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "941655923487014913": {
+            "id": "941655923487014913",
+            "text": "Announcing the release of our formal Viper compiler, and the world's first formally verified Viper contract!\n\nhttps://runtimeverification.com/blog/?p=617\u00a0",
+            "username": "rv_inc",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "941119972566237184": {
+            "id": "941119972566237184",
+            "text": "ERC20-K: Formal Executable Semantics of ERC20 https://runtimeverification.com/blog/?p=496\u00a0\n\nWe welcome feedback and discussions on our public channels:\nRiot - https://riot.im/app/#/room/#erc20-k:matrix.org\u00a0\u2026\nGitter - https://gitter.im/runtimeverification/erc20-semantics\u00a0\u2026https://twitter.com/rv_inc/status/938418648804360198\u00a0\u2026",
+            "username": "rv_inc",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "923724903035129856": {
+            "id": "923724903035129856",
+            "text": "Read more about our virtual machine and universal language framework @RosuGrigore @rv_inc @IOHK_Charles https://buff.ly/2gLeWET\u00a0https://twitter.com/InputOutputHK/status/923579683244998657\u00a0\u2026",
+            "username": "emurgo_io",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "940296802661752832": {
+            "id": "940296802661752832",
+            "text": "Congratulations to the newly named ACM Fellows, including Lars Birkedal, Margaret Burnett, Aarti Gupta, Insup Lee, @gail_murphy , et al. in SE/PL communities and many others!!!https://www.acm.org/media-center/2017/december/fellows-2017\u00a0\u2026",
+            "username": "taoxiease",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "938954354710552577": {
+            "id": "938954354710552577",
+            "text": "Fascinating and mind blowinghttps://en.chessbase.com/post/the-future-is-here-alphazero-learns-chess\u00a0\u2026",
+            "username": "rakingleaves",
+            "num_likes": 6,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "938925278457409537": {
+            "id": "938925278457409537",
+            "text": "Paving the way for Certified ERC20 tokens https://runtimeverification.com/blog/?p=496&utm_content=bufferffd86&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer\u00a0\u2026",
+            "username": "IOHK_Charles",
+            "num_likes": 65,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "938766099885232129": {
+            "id": "938766099885232129",
+            "text": "A project stimulated by the IELE project that is funded by IOHK \u2013 Introducing ERC20-K: Executable, testable, rigorous, comprehensive, EVM-independent formal specification for ERC20 tokens! @rv_inc Read the blog post here: https://buff.ly/2BO4t0N\u00a0pic.twitter.com/Gl9Oo5SXAf",
+            "username": "InputOutputHK",
+            "num_likes": 42,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "938418648804360198": {
+            "id": "938418648804360198",
+            "text": "Introducing ERC20-K: Executable, testable, rigorous, comprehensive, EVM-independent formal specification for ERC20 tokens!\n\nMore details: https://runtimeverification.com/blog/?p=496\u00a0pic.twitter.com/6uQZ5K0Ze3",
+            "username": "rv_inc",
+            "num_likes": 94,
+            "num_retweets": 42,
+            "num_replies": 5
+        },
+        "936425941558992896": {
+            "id": "936425941558992896",
+            "text": "little bit of ranting about CS ranking stupidity\nhttps://blog.regehr.org/archives/1558\u00a0",
+            "username": "johnregehr",
+            "num_likes": 57,
+            "num_retweets": 18,
+            "num_replies": 7
+        },
+        "934557782673625088": {
+            "id": "934557782673625088",
+            "text": "pic.twitter.com/hKEEZMdfKw",
+            "username": "RealPunkJob",
+            "num_likes": 311,
+            "num_retweets": 102,
+            "num_replies": 1
+        },
+        "935661108500844544": {
+            "id": "935661108500844544",
+            "text": "We are now accepting payment at formalverification.eth or runtimeverification.eth for any and all payments to RV Inc. by partners and clients.  We  ENS!",
+            "username": "rv_inc",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "933750364301438976": {
+            "id": "933750364301438976",
+            "text": "Goodbye Bugs? How Formal Verification Could Fortify Smart Contracts https://bitcoinmagazine.com/articles/goodbye-bugs-how-formal-verification-could-fortify-smart-contracts/\u00a0\u2026 via @BitcoinMagazine",
+            "username": "gh_spin",
+            "num_likes": 8,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "927939015390711813": {
+            "id": "927939015390711813",
+            "text": "RV Inc. is hiring smart contract verification engineers. https://runtimeverification.com/contact/\u00a0\n\nHelp us w correctness of multisig wallets, compilers, ...",
+            "username": "rv_inc",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "925726022565285888": {
+            "id": "925726022565285888",
+            "text": "Jiawei Han's keynote live now: https://www.youtube.com/watch?v=jy-Rg9r2lBQ\u00a0\u2026pic.twitter.com/turc18eZPv",
+            "username": "ASEConf2017",
+            "num_likes": 14,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "925405206703149057": {
+            "id": "925405206703149057",
+            "text": "@aseconf2017 Intro slides https://www.slideshare.net/secret/tor26kCCH7opI6\u00a0\u2026 via @SlideShare",
+            "username": "mdipenta",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "925010996783124480": {
+            "id": "925010996783124480",
+            "text": "Now at #ase17: @clegoues kicks of the doctoral symp. with a keynote and a canister of saltpic.twitter.com/l9UpMDOiVp",
+            "username": "p0nk",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "917733661801418753": {
+            "id": "917733661801418753",
+            "text": "ASE full program schedule is up: http://ase2017.org/program\u00a0",
+            "username": "ASEConf2017",
+            "num_likes": 9,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "916735548374515712": {
+            "id": "916735548374515712",
+            "text": "What does a #PhD do? by @mattmight via @dany_bahar pic.twitter.com/KAzp6mf0j0 #research",
+            "username": "calestous",
+            "num_likes": 300,
+            "num_retweets": 251,
+            "num_replies": 10
+        },
+        "914271136359243776": {
+            "id": "914271136359243776",
+            "text": "Shocked by the untimely death of Vladimir Voevodsky, a great mathematician and a wonderful human.\nR.I.P. dear friendhttps://www.ias.edu/news/2017/vladimir-voevodsky\u00a0\u2026",
+            "username": "edfrenkel",
+            "num_likes": 152,
+            "num_retweets": 139,
+            "num_replies": 5
+        },
+        "910968573539098625": {
+            "id": "910968573539098625",
+            "text": "We will have three wonderful keynotes by Gerard Holzmann, Jiawei Han and Arie van Deursen http://ase2017.org/keynotes\u00a0",
+            "username": "ASEConf2017",
+            "num_likes": 26,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "905351007282061312": {
+            "id": "905351007282061312",
+            "text": "Herbarium Racketensis, A Stroll through the Woods :  DSLs in Racket ( lindenmeyer ) #icfp2017pic.twitter.com/TTkiKUMJN1",
+            "username": "ThereIsNoMagic",
+            "num_likes": 22,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "904686589867065344": {
+            "id": "904686589867065344",
+            "text": "slides I used in TU Berlin last week: https://yoichihirai.com/tuberlin.pdf\u00a0",
+            "username": "pirapira",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "904048312638205952": {
+            "id": "904048312638205952",
+            "text": "PLDI 2018 will be in Philadelphia. The CFP is out now, and the deadline is November 16. http://pldi18.sigplan.org/track/pldi-2018-papers#Call-for-Papers\u00a0\u2026",
+            "username": "PLDI",
+            "num_likes": 24,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "903537522214621185": {
+            "id": "903537522214621185",
+            "text": "C++ undefined behaviour really can delete all your files.\n\nhttps://godbolt.org/g/Mo52eM\u00a0",
+            "username": "Poita_",
+            "num_likes": 369,
+            "num_retweets": 239,
+            "num_replies": 16
+        },
+        "901684312596205568": {
+            "id": "901684312596205568",
+            "text": "\"The End Of Product Companies\" https://www.linkedin.com/pulse/end-product-companies-jan-bosch\u00a0\u2026 by @JanBosch on @LinkedIn",
+            "username": "JanBosch",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "900729931956576257": {
+            "id": "900729931956576257",
+            "text": "awesome new paper by @alastair_d_reid on how ARM learned to trust a formal specification of its architecture https://alastairreid.github.io/papers/oopsla2017-whoguardstheguards.pdf\u00a0\u2026",
+            "username": "johnregehr",
+            "num_likes": 84,
+            "num_retweets": 42,
+            "num_replies": 3
+        },
+        "900320469630554113": {
+            "id": "900320469630554113",
+            "text": "The KEVM paper, funded by IOHK, winner of the IC3 #Ethereum #Crypto Bootcamp, had almost 4000 downloads in 3 weeks https://buff.ly/2w2k5eI\u00a0pic.twitter.com/nLhizjo6Wu",
+            "username": "InputOutputHK",
+            "num_likes": 10,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "898464376549781504": {
+            "id": "898464376549781504",
+            "text": "Arnold Schwarzenegger gives Donald Trump a lesson on how call out Nazis and white supremacists.pic.twitter.com/AbfRLeGW76",
+            "username": "JamesMelville",
+            "num_likes": 27904,
+            "num_retweets": 19164,
+            "num_replies": 676
+        },
+        "897462160149839873": {
+            "id": "897462160149839873",
+            "text": "Who has the longest #POPL streak? The longest gap between #PLDI papers? Some fun facts I mined from #DBLP:  https://johnwickerson.wordpress.com/2017/08/15/pl-facts/\u00a0\u2026 #news",
+            "username": "wicko3",
+            "num_likes": 15,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "893808218434154497": {
+            "id": "893808218434154497",
+            "text": "The Dutch Reach   http://en.newsner.com/everyone-in-the-netherlands-opens-the-door-this-odd-way-when-the-reason-is-revealed-you-ll-want-to-do-the-same/about/tricks\u00a0\u2026 #accidents #driving #netherlands #the dutch reach",
+            "username": "vardi",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "892517557835624449": {
+            "id": "892517557835624449",
+            "text": "Here's the press release on the UIUC Ethereum project https://www.coinspeaker.com/2017/08/01/iohk-funded-uiuc-project-produces-first-complete-formal-semantics-ethereum-virtual-machine/\u00a0\u2026",
+            "username": "IOHK_Charles",
+            "num_likes": 19,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "891633975516700673": {
+            "id": "891633975516700673",
+            "text": "Proportional Pie Chart of the World\u2019s Most Spoken Languages [2000x3261] http://imgur.com/aZdPxKd\u00a0",
+            "username": "vardi",
+            "num_likes": 19,
+            "num_retweets": 18,
+            "num_replies": 0
+        },
+        "872386546296651777": {
+            "id": "872386546296651777",
+            "text": "The difference between false positives and false negatives explained by @yuriy_tymchuk #sattose17pic.twitter.com/qdeFwiv4cS",
+            "username": "grammarware",
+            "num_likes": 50,
+            "num_retweets": 34,
+            "num_replies": 1
+        },
+        "886595242413174785": {
+            "id": "886595242413174785",
+            "text": "Infographic I made for my graduate students about the emotional ups and downs of doing research.pic.twitter.com/BibVOymdiw",
+            "username": "keenanisalive",
+            "num_likes": 3033,
+            "num_retweets": 1948,
+            "num_replies": 60
+        },
+        "888658344407257088": {
+            "id": "888658344407257088",
+            "text": "Baby's first off by one error pic.twitter.com/6lDG4cwgJw",
+            "username": "nixcraft",
+            "num_likes": 310,
+            "num_retweets": 133,
+            "num_replies": 6
+        },
+        "888442492051259392": {
+            "id": "888442492051259392",
+            "text": "Check out this stack trace on a FAUCET. I have now seen it all. @internetofshitpic.twitter.com/KcV67E74Uo",
+            "username": "john_lam",
+            "num_likes": 12579,
+            "num_retweets": 6752,
+            "num_replies": 280
+        },
+        "888135504952250368": {
+            "id": "888135504952250368",
+            "text": "The only human, alive or dead, not contained within the frame of this photo is Michael Collins.\nThe ultimate anti-selfie.\n#Apollo11pic.twitter.com/xgtFvdWJFD",
+            "username": "thecommongreen",
+            "num_likes": 4138,
+            "num_retweets": 2652,
+            "num_replies": 62
+        }
+    },
+    "tweeted": {
+        "1120742911392538624": {
+            "id": "1120742911392538624",
+            "text": "Thank you for mentioning us, @Chicagoinno. It is definitely not easy to grow a company without VC funding.  Networking and a shared vision are equally important, and a good VC can provide those, too.https://twitter.com/rv_inc/status/1120706746648027136\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1114901773607632896": {
+            "id": "1114901773607632896",
+            "text": "Are you interested in programming languages and formal methods and are in Beijing on Friday, April 19?  Consider attending this colloquium at Peking University:\nhttp://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/94536.htm\u00a0\u2026.\nLet me know (DM) if you also want to meet.",
+            "username": "RosuGrigore",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1110873592617672704": {
+            "id": "1110873592617672704",
+            "text": "Thanks for your trust, @ElrondNetwork , and wish you a successful adventure!https://twitter.com/ElrondNetwork/status/1110868700595437568\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1098743308833222656": {
+            "id": "1098743308833222656",
+            "text": "Fun and relatively new fact: the smallest solution `a` of the equation below when `N = 896` has more than 2 trillion digits.\nhttp://ami.ektf.hu/uploads/papers/finalpdf/AMI_43_from29to41.pdf\u00a0\u2026\nI should stop being interested in this problem.  Definitely.pic.twitter.com/zWaLxDy8GB",
+            "username": "RosuGrigore",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1096926302437761024": {
+            "id": "1096926302437761024",
+            "text": "The new Haskell implementation of K just passed 70,000 LOC:\nhttps://github.com/kframework/kore\u00a0.  Cannot wait to get rid of the current slow and buggy Java implementation.  Thanks @InputOutputHK for funding this monumental effort (more than 2000 commits and 20 contributors)!",
+            "username": "RosuGrigore",
+            "num_likes": 251,
+            "num_retweets": 63,
+            "num_replies": 7
+        },
+        "1096030408687403008": {
+            "id": "1096030408687403008",
+            "text": "Should KEVM (https://jellopaper.org/\u00a0) become the canonical EVM spec?\nPros: formal, executable, yields VM, symbolic execution, contract verifier, etc., all correct-by-construction.\nCons: harder to understand, due to notation\nTell us what you think at\nhttps://ethereum-magicians.org/t/jello-paper-as-canonical-evm-spec/2389\u00a0\u2026.",
+            "username": "RosuGrigore",
+            "num_likes": 26,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1092893292981825536": {
+            "id": "1092893292981825536",
+            "text": "Nice to see two Panvala grants building on the K framework!  Congratulations to the proposing teams (not shown in the table, but they are not associated with @rv_inc nor any of the creators/maintainers of K as far as I can tell).\nhttps://medium.com/@Panvala/twelve-grants-awarded-in-batch-one-of-panvala-token-grants-59b8df7422fe\u00a0\u2026https://twitter.com/PanvalaMark/status/1091378982191284224\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092766895349161990": {
+            "id": "1092766895349161990",
+            "text": "PL folks might be interested in attending LangDev'19 in Amsterdam, 21-22 March 2019: http://langdevcon.org/\u00a0.  A quick way to see some language frameworks in action, and talk to their developers.",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1091468356669095937": {
+            "id": "1091468356669095937",
+            "text": "The K Tutorial is now available in Japanese, too: https://github.com/ammkrn/k_framework_tutorial_jp\u00a0\u2026\nGreat job @ammkrn!",
+            "username": "RosuGrigore",
+            "num_likes": 6,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1090742812134518784": {
+            "id": "1090742812134518784",
+            "text": "Will give an intensive one-week seminar on K (http://kframework.org\u00a0) at SETTS'19 in Chongqing, China, during April 21-27, 2019. \n http://www.swu-rise.net.cn/SETSS2019/\u00a0\nWill cover the basics, but will also briefly discuss the semantics of C, Java, JavaScript, EVM, IELE, Solidity, Plutus.",
+            "username": "RosuGrigore",
+            "num_likes": 35,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1083658253320507392": {
+            "id": "1083658253320507392",
+            "text": "\"KEVM folks\" = @rv_inc \nBesides advantages mentioned at https://ethereum-magicians.org/t/jello-paper-as-canonical-evm-spec/2389\u00a0\u2026, the major missing one is that KEVM serves as the input to a program verifier for smart contracts.  In other words, it reduces the gap between what you run and what you formally verify to 0 (zero).https://twitter.com/expede/status/1083483160837419008\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 20,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1077544924109815808": {
+            "id": "1077544924109815808",
+            "text": "I meant from now on, of course.",
+            "username": "RosuGrigore",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1077543614006390784": {
+            "id": "1077543614006390784",
+            "text": "Xmas decision: I will never be on the PC of any conference that requires me to attend a physical PC meeting.\nhttp://fsl.cs.illinois.edu/grosu\u00a0pic.twitter.com/OXFwaVxEuk",
+            "username": "RosuGrigore",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1073977013982150657": {
+            "id": "1073977013982150657",
+            "text": "It was a delight to attend Plutusfest and chat with Philip Wadler, @sol3gga, their students, and the Plutus team.  Also realized this was the first time in 20 years that I attended an event only to watch others' work, not to present mine.  So relaxing :-)https://forum.cardano.org/t/recap-plutusfest-2018-in-edinburgh-scotland/18560\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 34,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1072635856656232448": {
+            "id": "1072635856656232448",
+            "text": "Thanks, Phil.  As you know, we usually prefer to prove full correctness, but when that is not possible, statistical model checking is the best next thing.https://twitter.com/phildaian/status/1072595028961320960\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1070012238797438976": {
+            "id": "1070012238797438976",
+            "text": "As part of the first Ethereum security grant, @rv_inc completed the initial formal specification and verification (both deductive proofs and statistical model checking) of Casper and Randao.  Comments and suggestionsfor next steps are welcome.  https://runtimeverification.com/blog/runtime-verification-completes-formal-verification-of-ethereum-casper-protocol/\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 46,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1065015369025445888": {
+            "id": "1065015369025445888",
+            "text": "Good argument.  In my experience thou, many abstracts do not make it into papers, people do not bid before they see the paper, and deadline extensions do not make a difference (on the contrary, make the conference look weaker).  TACAS'19 did reject, even with artifact submitted.https://twitter.com/GermanVidalUPV/status/1065012437370503168\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1065006789417156608": {
+            "id": "1065006789417156608",
+            "text": "Can anybody make a good case in favor of separate abstract and paper submission deadlines?  My group failed to submit at least 5 good papers over the last few years simply because we missed the stupid \"abstract deadline\".",
+            "username": "RosuGrigore",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 6
+        },
+        "1061506967330533377": {
+            "id": "1061506967330533377",
+            "text": "Yes.  Had a Toyota gift rejected, or withdrawn, but not because of nationality and because of overhead.  University wanted to charge overhead, Toyota didn't.  Maybe if you pay overhead ...https://twitter.com/tiarkrompf/status/1061389826124066816\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "1061490007641350144": {
+            "id": "1061490007641350144",
+            "text": "Agreed.  In fact, we believe they should include complete details on the specification.  That's how we do our audits at @rv_inc (https://runtimeverification.com/smartcontract/\u00a0); we call them audits, but they are full fledged formal verification of EVM bytecode against formal specifications.https://twitter.com/ptsankov/status/1061231857516363776\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1059012595842236416": {
+            "id": "1059012595842236416",
+            "text": "Knaster-Tarski axiom schema in matching logic, which will yield independently checkable proof certificates for everything K does.\n\nPicture by Philip Wadler, 1h ago, on the beach sand of Limassol, Cyprus, in preparation for our meeting on Plutus smart contracts.\n@InputOutputHKpic.twitter.com/FXzctWJxMl",
+            "username": "RosuGrigore",
+            "num_likes": 61,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1053127386978570240": {
+            "id": "1053127386978570240",
+            "text": "We found the YP both incomplete and hard to read. We are biased, of course, but we believe that KEVM is as simple and clear as it can be. See the Jello Paper https://jellopaper.org\u00a0, automatically generated from KEVM.  @rv_inc @phildaianhttps://twitter.com/benjaminion_xyz/status/1052818874905845761\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1044221905836929025": {
+            "id": "1044221905836929025",
+            "text": "Hopefully it is becoming increasingly clear that, at more than $1M value per line of code, only the irresponsible players forego formal verification.",
+            "username": "RosuGrigore",
+            "num_likes": 13,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1044221767303213056": {
+            "id": "1044221767303213056",
+            "text": "Very interesting talk by @phildaian (now at Cornell)!  Of course, all smart contracts must be formally specified & verified.  Albeit formal verification only guarantees correctness wrt the formal spec, which is often much harder to write than the contract.  And may have flaws.https://twitter.com/phildaian/status/1044204284898873344\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1043885769335738370": {
+            "id": "1043885769335738370",
+            "text": "Unbelievalbe, almost.  Same like the problem where the smallest solution of `a/(b+c) + b/(a+c) + c/(a+b) = 4` has more than 80 digits.https://twitter.com/vardi/status/1043866558118985729\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1042763023352520706": {
+            "id": "1042763023352520706",
+            "text": "Always enjoy watching this machine struggling to compute 1/0.\nAlthough, it burns a lot of gas for nothing.  We know it from the EVM that 1/0 is obviously 0.  And in case you wonder, 0^0 is of course 1.https://twitter.com/Rainmaker1973/status/1042037848915042304\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 91,
+            "num_retweets": 17,
+            "num_replies": 6
+        },
+        "1042004859749380096": {
+            "id": "1042004859749380096",
+            "text": "As K creator, it is so refreshing to see this. All based on just the operational semantics of EVM.  Academics need to wake up!  They still believe (and teach) that to formally verify programs for L, you first need a custom (Hoare) logic for L, then a VC generator, etc; or an IVL.https://twitter.com/MakerDAO/status/1041795771639652353\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 43,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1041300586120073216": {
+            "id": "1041300586120073216",
+            "text": "PL folks: are there conventional (ie, interpret lam and app as functions) models of untyped lambda for which equational deduction is *complete*? Hindley-Longo models are complete but non-conventional. Graph models are conventional but incomplete? @lambda_calculus @ShriramKMurthi",
+            "username": "RosuGrigore",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1040039660330868736": {
+            "id": "1040039660330868736",
+            "text": "https://youtu.be/33VN5NIlGAc\u00a0\nExcellent IELE (https://github.com/runtimeverification/iele-semantics\u00a0\u2026) intro by @SebastienGllmt of @emurgo_io .\n\nIELE, or \"blockchain LLVM\", was created by @rv_inc in collaboration with @InputOutputHK and @vadve's and my students.\n\nAutomatically generated from its formal spec (in K).",
+            "username": "RosuGrigore",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1038294738401681408": {
+            "id": "1038294738401681408",
+            "text": "ubsan should catch this.pic.twitter.com/z4HPjRZUl1",
+            "username": "RosuGrigore",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1036923458771402753": {
+            "id": "1036923458771402753",
+            "text": "If you are interested in:\n1) formal specification and verification (of blockchain programs/models)\n2) functional programming\n3) living in Bucharest, Romania\nplease contact @rv_inc to join our new office.https://twitter.com/rv_inc/status/1036909055288078336\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 18,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1036291962847092736": {
+            "id": "1036291962847092736",
+            "text": "Great week spent with @NicoArqueros, CTO of @emurgo_io, at our @rv_inc lab in @cityofurbana! We learned a lot about the great long term vision behind @Cardano and about their planned top-notch research and education initiatives to accomplish it.pic.twitter.com/tJBlFrUzL3",
+            "username": "RosuGrigore",
+            "num_likes": 107,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "1034590828474380288": {
+            "id": "1034590828474380288",
+            "text": "Are there any publicly available benchmarks for evaluating dynamic analysis tools for undefined behavior in C/C++, besides the Toyota ITC benchmark (https://github.com/Toyota-ITC-SSD/Software-Analysis-Benchmark\u00a0\u2026)?  Why are these so hard to find, if developers really care about UB?  Or do they?  #C11 #CPP #cpp17",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1034249557994024961": {
+            "id": "1034249557994024961",
+            "text": "My subjective, speculative opinion about the future of smart contracts: write specifications, not code - https://youtu.be/5Fl5jikuZMM?t=2008\u00a0\u2026 (start 33:45).  Warm thanks to the @CardanoStiftung #IELE testnet users and Jon Moss for the stimulating questions, and @rv_inc for making this real!",
+            "username": "RosuGrigore",
+            "num_likes": 31,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1032537102645219328": {
+            "id": "1032537102645219328",
+            "text": "Visiting Sun Jun's prolific research group at @sutdsg .  The building behind was donated by Jackie Chan to the university.pic.twitter.com/PsWxoR6C9u",
+            "username": "RosuGrigore",
+            "num_likes": 18,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1029771996966674437": {
+            "id": "1029771996966674437",
+            "text": "Formal verification of ERC20 contracts, Part 2: https://runtimeverification.com/blog/erc-20-verification/\u00a0\u2026\nFriendly written by @marick and @daejunpark or @rv_inc .",
+            "username": "RosuGrigore",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1029696047872913410": {
+            "id": "1029696047872913410",
+            "text": "Thanks, @Computing_News, for this interview.\nSummary: I believe we must stop writing smart contracts by hand, in adhoc languages using adhoc/buggy compilers.  Generate them automatically, correct by construction, from well-validated formal specifications.  Verify design not code!https://twitter.com/Computing_News/status/1029675515307851779\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 16,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1029368265817112577": {
+            "id": "1029368265817112577",
+            "text": "I will be in Singapore next week (August 19-24) to initiate my research project on formal verification in the @ADSCSingapore center https://adsc.illinois.edu/\u00a0.  If located in Singapore and interested in formal analysis or applications to #blockchain, I'd be glad to meet.pic.twitter.com/A7X0L0mwJz",
+            "username": "RosuGrigore",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1027883797273079808": {
+            "id": "1027883797273079808",
+            "text": "I searched for such a turbine for a long time, to install it at my parent's place in rural Romania.  All other options I looked at had lots of moving parts, that would get damaged with freezing.https://twitter.com/techinsider/status/1027868157669568512\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 15,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1027607116553641986": {
+            "id": "1027607116553641986",
+            "text": "Friendly (i.e., non-mathematical) post about how formal verification of smart contracts works, by @rrubilo and @daejunpark :\nhttps://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 14,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1024656080989761536": {
+            "id": "1024656080989761536",
+            "text": "https://www.youtube.com/watch?time_continue=2&v=Hq-hvaD6NSA\u00a0\u2026\nShort history of the K framework, how it was used to formalize EVM and verify smart contracts, and the forces that led to the design of IELE.\nThank you @InputOutputHK, @CardanoStiftung, and @IOHK_Charles for making this possible and for the interview.",
+            "username": "RosuGrigore",
+            "num_likes": 16,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1024005501372301312": {
+            "id": "1024005501372301312",
+            "text": "We do owe a lot to our PhD advisers.  Without their vision and guidance, most of the things we do would be different, if at all.  Short video by @InputOutputHK where I talk about how my PhD adviser, Joseph Goguen, influenced my work and the K framework:https://www.youtube.com/watch?v=6utib2mqEIM\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 21,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1022598968717574145": {
+            "id": "1022598968717574145",
+            "text": "I believe that the compilers of the future will be generated automatically from programming language formal semantics, correct by construction.  Many thanks to @InputOutputHK for giving me the chance to express my belief in this interview at @FLoC2018:https://www.youtube.com/watch?v=x_xm69gd3fE\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 28,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1019768750189568000": {
+            "id": "1019768750189568000",
+            "text": "https://arstechnica.com/science/2018/07/in-open-offices-workers-chat-70-less-are-less-productive-and-email-more/\u00a0\u2026\n\nI agree with the conclusion of this article.  At @rv_inc people can choose to share a large open space or to have their own office.  Almost everybody chose an office (although they use the open space once in a while, for a change).",
+            "username": "RosuGrigore",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1014782312482033665": {
+            "id": "1014782312482033665",
+            "text": "IELE testnet to be launched this month by @InputOutputHK in collaboration with @rv_inc.  IELE is a more secure alternative to EVM.  Also human-readable.  It is LLVM-like and designed from scratch using formal methods. VM generated automatically from spec.\nhttps://github.com/runtimeverification/iele-semantics\u00a0\u2026https://twitter.com/IOHK_Charles/status/1014628677760385025\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 59,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1012657957039943680": {
+            "id": "1012657957039943680",
+            "text": "Very impressed with the quality of academics and students in Romania!  Things improved so much.  Top schools there (Universitatea and Politechnica in Bucharest, Alexandru Ioan Cuza in Iasi, and Babes-Bolyai in Cluj) are comparable with any other top universities in the world.https://twitter.com/rv_inc/status/1012652949871439873\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 31,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1006880375229046784": {
+            "id": "1006880375229046784",
+            "text": "Please stop by if you are in Bucharest on July 5th!  Let me know if you want to meet, or if you are interested in working with us.https://twitter.com/bucharestfp/status/1006864569250217991\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1006826215536300032": {
+            "id": "1006826215536300032",
+            "text": "Epicenter interview about the K Framework: https://epicenter.tv/episode/239/\u00a0.\nAlso on Youtube: http://youtu.be/JFOnoqAplAY\u00a0.\nAnd an overview of K blog: https://runtimeverification.com/blog/k-framework-an-overview/\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 29,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "994338893997670400": {
+            "id": "994338893997670400",
+            "text": "Rankings should always be taken with a grain of salt.  But in case you find working for @rv_inc compelling, then you may also consider this as an additional incentive: https://livability.com/top-10/college/top-10-best-cities-for-recent-college-grads/2018/il/champaign\u00a0\u2026https://twitter.com/rv_inc/status/993843004531146757\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "992969332165611521": {
+            "id": "992969332165611521",
+            "text": "12-yo son: Dad, why do you have a beard?\nMe: I'd spend 10min/day to shave it, which is about 1h/week.  That's 52h/year, so a week of work.  Worse, that's the best work time in the day for me and all I'd do is watch my own face.  No, thanks.  I can write a paper in a good week.",
+            "username": "RosuGrigore",
+            "num_likes": 26,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "990200482604994560": {
+            "id": "990200482604994560",
+            "text": "It is invigorating to see others also yelling \"programming languages *must* have formal semantics\" (Rust in this case):\nhttps://arxiv.org/pdf/1804.07608.pdf\u00a0\u2026\nEspecially when they are the creators of neither the language nor the semantic framework.  @graydon_pub",
+            "username": "RosuGrigore",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "988626247038140416": {
+            "id": "988626247038140416",
+            "text": "That `1` looks suspicious.pic.twitter.com/MuXgmGUgHV",
+            "username": "RosuGrigore",
+            "num_likes": 28,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "987393612886487041": {
+            "id": "987393612886487041",
+            "text": "Furniture, done:\nhttps://www.nytimes.com/2018/04/18/science/robots-ikea-furniture.html\u00a0\u2026\nCannot wait until robots will build complete houses for us.  My worst communication experiences so far were with home contractors.",
+            "username": "RosuGrigore",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "987332104164921344": {
+            "id": "987332104164921344",
+            "text": "Thank you, @IOHK_Charles .  This would have not happened without your continuous encouragement and support.  Cannot wait to see this deployed on the Cardano testnet!https://twitter.com/IOHK_Charles/status/987328026684817408\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 65,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "985547404450717702": {
+            "id": "985547404450717702",
+            "text": "K semantics of EVM is open source, under non-restrictive UIUC license (like LLVM).  Well-documented and accessible from https://jellopaper.org/\u00a0. KEVM planned to become the official formal semantics of the #EthereumClassic ecosystem: https://www.youtube.com/watch?v=3nniCc-Fgm0&feature=youtu.be\u00a0\u2026.  #KEVM @IOHK_Charleshttps://twitter.com/rv_inc/status/985542650479759360\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 95,
+            "num_retweets": 24,
+            "num_replies": 1
+        },
+        "985242285603545091": {
+            "id": "985242285603545091",
+            "text": "Cat reincarnated in squirrel does not let me work.  Spring has finally arrived in Urbana-Champaign.pic.twitter.com/G4GbJedSAR",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "983508548243083265": {
+            "id": "983508548243083265",
+            "text": "True: https://runtimeverification.com/team\u00a0\nRalph is not only a famous software developer, designer and teacher, but also an amazing project manager.  I learn something new from him every meeting.  A great speaker, too.  He helps us (both RV and IOHK) stay on top of things with IELE.https://twitter.com/IOHK_Charles/status/982296506530230272\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 86,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "981895250078851073": {
+            "id": "981895250078851073",
+            "text": "We are going to have three talks about formally designed/generated blockchain VMs in July at @FLoC2018: invited talks in FSCD'18 and LFMTP'18, and the KEVM paper in CSF'18.  See you in Oxford and please reach out if you want to meet!https://twitter.com/RosuGrigore/status/981887059664175104\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 18,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "981887059664175104": {
+            "id": "981887059664175104",
+            "text": "High level overview of our effort to generate correct-by-construction blockchain VMs from their formal semantics.  Thank you @InputOutputHK and  @IOHK_Charles for your trust, support, and your talented team making this dream reality!\n@rv_inc @IllinoisCShttps://www.youtube.com/watch?time_continue=3&v=iavSKtqjVNA\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 102,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "980553007233404929": {
+            "id": "980553007233404929",
+            "text": "Not a joke.  Spring just refuses to come to Urbana-Champaign.pic.twitter.com/QWqHuRTT8R",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "979164384026120192": {
+            "id": "979164384026120192",
+            "text": "Me: We need a new formal semanticist to help define the C++ semantics.\nMy team: Nope, we need a C++ expert.  K is easier to master than C++.\n\nDon't know if I should feel proud or insulted ... but they won.",
+            "username": "RosuGrigore",
+            "num_likes": 28,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "978946194121592832": {
+            "id": "978946194121592832",
+            "text": "Interested in C++ and formal semantics?  Join @rv_inc to extend #rvmatch to detect undefined behavior in C++ programs (funded by NASA and Boeing).   See CAV16 paper http://fsl.cs.illinois.edu/FSL/papers/2016/guth-hathhorn-saxena-rosu-2016-cav/guth-hathhorn-saxena-rosu-2016-cav-public.pdf\u00a0\u2026 for approach and comparison with state-of-the-art (for UB in C11).https://twitter.com/RosuGrigore/status/978729227838160897\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 13,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "972832475658452992": {
+            "id": "972832475658452992",
+            "text": "Still don't know how to exit Vim, but at least now I know that there is a way: \nhttps://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "972097283050364928": {
+            "id": "972097283050364928",
+            "text": "My startup company @rv_inc won the first Ethereum Foundation Security Grant: https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/\u00a0\u2026.\n\nThe grant is to formally verify Casper, written in Vyper, all the way down to the EVM binary.  We are going to use this approach:https://github.com/runtimeverification/verified-smart-contracts\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 81,
+            "num_retweets": 31,
+            "num_replies": 2
+        },
+        "951113008968806400": {
+            "id": "951113008968806400",
+            "text": "Nonsense.  This machine burns a lot of gas for nothing.  We know from the EVM that 1/0 is of course 0.https://twitter.com/Rainmaker1973/status/950728915223498753\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 5,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "946784316780171266": {
+            "id": "946784316780171266",
+            "text": "Cannot agree more.  This is why we came up with the ERC20-K specification: https://runtimeverification.com/blog/?p=496\u00a0.  At least we now know what it means to verify \"ERC20 compliance\".  There are 13 properties that need to be proved.https://twitter.com/ilyasergey/status/946773717639663616\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "945053460025790464": {
+            "id": "945053460025790464",
+            "text": "The K stocking is very funny.  I'd love to have one.https://twitter.com/IOHK_Charles/status/945047021488021505\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "942747378305650688": {
+            "id": "942747378305650688",
+            "text": "Just sent my mother (in Romania) money as holidays gift.\n\nUS bank got $35 fee for transfer.  Romanian bank got $25 fee for receiving money and converted at rate $1 = 3.7 RON, although actual rate is $1 = 3.9 RON.  Transfer will take 5 business days.\n\nDown with the banks!",
+            "username": "RosuGrigore",
+            "num_likes": 50,
+            "num_retweets": 5,
+            "num_replies": 9
+        },
+        "941692069344612355": {
+            "id": "941692069344612355",
+            "text": "Looking forward to seeing IELE deployed on a blockchain!\nAnd to the day when smart contracts are routinely verified, not only audited. @rv_inchttps://twitter.com/IOHK_Charles/status/941681777621590016\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 54,
+            "num_retweets": 16,
+            "num_replies": 1
+        },
+        "941642466331103237": {
+            "id": "941642466331103237",
+            "text": "Time has come to design languages/VMs properly: through formal (executable) semantics!  Implementations and formal analysis tools result automatically, correct by construction.  Say NO to design-by-adhoc-implementation.\n\nLet IELE serve as an example for how things should be done.https://twitter.com/rv_inc/status/941638649439014913\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "941452162865029120": {
+            "id": "941452162865029120",
+            "text": "Nice update on EVM semantics by @_lunar_mining:\nhttps://www.coindesk.com/yellowing-paper-whats-delaying-crucial-ethereum-update/amp/\u00a0\u2026\n\nI am of course biased (KEVM), but in my experience any language semantics which is not executable, or formally related to an executable one, is short-lived.  Being heavy on math and with errors is the worst.",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "938978130030661634": {
+            "id": "938978130030661634",
+            "text": "Which of the following 2 Solidity `transfer` functions violates the ERC20 specification and why?\n(full details at https://runtimeverification.com/blog/?p=496\u00a0)pic.twitter.com/uQtlSzStrw",
+            "username": "RosuGrigore",
+            "num_likes": 12,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "937861794693111808": {
+            "id": "937861794693111808",
+            "text": "Wife won: finally accepted to move my airplane kit from garage to a hangar at the airport (CMI). \nhttp://www.29.eaachapter.org/documents/EAA%2029%20December%202017.pdf\u00a0\u2026\nThey say it takes 15 years, three owners and 3 wives to finish building an airplane.  Well, spent 10 years only and it's 90% done (and 90% to go).pic.twitter.com/xNUdX1ZlMc",
+            "username": "RosuGrigore",
+            "num_likes": 19,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "929764462365696000": {
+            "id": "929764462365696000",
+            "text": "In matching logic:\nUnification = conjunction\nAnti-unification = disjunction\nhttps://arxiv.org/abs/1705.06312\u00a0\nAre there other logics where the same happens?pic.twitter.com/9zVRRnX2Zx",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "928973353502892032": {
+            "id": "928973353502892032",
+            "text": "Why I love Champaign-Urbana (besides the great students).  Taken 1min ago, just outside my home office.pic.twitter.com/XY4IugVV23",
+            "username": "RosuGrigore",
+            "num_likes": 100,
+            "num_retweets": 11,
+            "num_replies": 3
+        },
+        "928630757073055744": {
+            "id": "928630757073055744",
+            "text": "Thanks, @phildaian .  Your help on https://riot.im/app/#/room/#k:matrix.org\u00a0\u2026 with understanding Viper was crucial.https://twitter.com/phildaian/status/928624842928205825\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "928222583014723584": {
+            "id": "928222583014723584",
+            "text": "Considering the small size of these programs, it is in my view irresponsible to not formally verify them.  Moreover, formal proof objects should be required as correctness certificates.  @rv_inc has the technology to do it and is moving in this direction: https://twitter.com/rv_inc/status/927939015390711813\u00a0\u2026.https://twitter.com/VitalikButerin/status/928172344631115776\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "927327824104607744": {
+            "id": "927327824104607744",
+            "text": "Thank You all 310 attendees of @ASEConf2017!  It was the largest ASE so far.  Check http://ase2017.org/\u00a0 for details and streamed videos.pic.twitter.com/e7GZwB89jk",
+            "username": "RosuGrigore",
+            "num_likes": 23,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "926301595595366400": {
+            "id": "926301595595366400",
+            "text": "The audience always makes a big difference.  The RV and K team was impressed with the technical skills of the @InputOutputHK researchers.https://twitter.com/IOHK_Charles/status/926220799207407621\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "926300887471017985": {
+            "id": "926300887471017985",
+            "text": "Thanks for the great talk, @avandeursen!  It complemented very nicely the other two keynotes, by @gh_spin and Jiawei Han.https://twitter.com/avandeursen/status/926168945232670722\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "925189856086634496": {
+            "id": "925189856086634496",
+            "text": "ASE'17 keynote speeches (Gerard Holzmann, Jiawei Han, Arie van Deursen) to be streamed online: http://ase2017.org/keynotes\u00a0.  Th/Wed/Th 9am CST.",
+            "username": "RosuGrigore",
+            "num_likes": 18,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "924352992643571712": {
+            "id": "924352992643571712",
+            "text": "Looking forward to meeting you at ASE'17.  Be ready to fight some cold weather here in Urbana.  39F right now,  Nothing like Miami :)https://twitter.com/IOHK_Charles/status/924348095307100160\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "924239863821553664": {
+            "id": "924239863821553664",
+            "text": "Looking forward to welcoming the 300+ ASE'17 (http://ase2017.org\u00a0) participants next week at UIUC!  Some already arrived. @ASEConf2017pic.twitter.com/yMvcKDwXNm",
+            "username": "RosuGrigore",
+            "num_likes": 14,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "923196488083222529": {
+            "id": "923196488083222529",
+            "text": "Exciting news for K: https://runtimeverification.com/blog/?p=459\u00a0\nNew blockchain VM/language will be designed&implemented by defining its formal semantics!https://twitter.com/rv_inc/status/923188624144904193\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 22,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "922794570622087168": {
+            "id": "922794570622087168",
+            "text": "K team is now formalizing blockchain languages.  Much simpler than C/C++/Java and much more in need of formal semantics.\n\nMore news soon.https://twitter.com/rv_inc/status/921010266812436480\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 29,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "918554132096671744": {
+            "id": "918554132096671744",
+            "text": "Just gave an invited LOPSTR'17 talk, about the vision behind K and new applications (including for the blockchain) http://fsl.cs.illinois.edu/images/1/17/2017-10-12-LOPSTR.pptx\u00a0\u2026pic.twitter.com/BWpmK9O20q",
+            "username": "RosuGrigore",
+            "num_likes": 17,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "915000530556121089": {
+            "id": "915000530556121089",
+            "text": "Runtime Verification (https://runtimeverification.com/\u00a0) just open sourced RV-Monitor - generates monitor library from specs\n\nhttps://github.com/runtimeverification/rv-monitor\u00a0\u2026pic.twitter.com/Nm5PZtjsfB",
+            "username": "RosuGrigore",
+            "num_likes": 13,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "914151324866015232": {
+            "id": "914151324866015232",
+            "text": "Work with us on K!\nDerive a fast interpreter from a semantics.\nA few amazing ones already sent.\nCan you do better?\nhttp://www.kframework.org/index.php/K_Project_Needs_Professional_Developers\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "912317549680918528": {
+            "id": "912317549680918528",
+            "text": "ASE'17 (http://ase2017.org\u00a0) update:\nProgram at  http://ase2017.org/program\u00a0\nToday = early registration deadline (200 already registered)pic.twitter.com/Hgr44RmgjL",
+            "username": "RosuGrigore",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "911429705512996864": {
+            "id": "911429705512996864",
+            "text": "Everything is possible these days, with a certificate, thanks to technology.https://www.wimp.com/professional-pencil-sharpener/\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "910216371090444292": {
+            "id": "910216371090444292",
+            "text": "Undefined behavior in C11 programs with inline assembly?  RV-Match (kcc) now supports that: https://runtimeverification.com/blog/?p=396\u00a0.  Still no false alarms.pic.twitter.com/uA0nIQH2j4",
+            "username": "RosuGrigore",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "910128504511107073": {
+            "id": "910128504511107073",
+            "text": "K needs 5 good developers http://www.kframework.org/index.php/K_Project_Needs_Professional_Developers\u00a0\u2026 .\nTake the challenge.  Join a team aiming at shaping the future of PLs and analysis tools.pic.twitter.com/ms9WzbdKID",
+            "username": "RosuGrigore",
+            "num_likes": 33,
+            "num_retweets": 23,
+            "num_replies": 0
+        },
+        "909743235714691073": {
+            "id": "909743235714691073",
+            "text": "Smart contracts must be formally verified!  Nice to see progress on Yoichi Hirai's EVM semantics in Lem in this direction.https://twitter.com/pirapira/status/909707371567570944\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "909462849336078336": {
+            "id": "909462849336078336",
+            "text": "ASE'17 news: list of accepted papers available http://ase2017.org/accepted_papers\u00a0\nEarly registration: Sept 25.pic.twitter.com/YmSlgxtBPl",
+            "username": "RosuGrigore",
+            "num_likes": 17,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "907284010321289216": {
+            "id": "907284010321289216",
+            "text": "More than 100 people already registered for ASE'17 (http://ase2017.org/\u00a0)!\nDon't forget the early registration deadline: September 25.pic.twitter.com/HmYEiGhbFf",
+            "username": "RosuGrigore",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "907070933004939269": {
+            "id": "907070933004939269",
+            "text": "\"Every man has right to a glass of wine; but when you drink a glass of wine, you become another man\".  Grigore Moisil. Deep.pic.twitter.com/L5XiWS6uZP",
+            "username": "RosuGrigore",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "906114557516681221": {
+            "id": "906114557516681221",
+            "text": "Why I love Champaign-Urbana (besides the great students).  Taken 1min ago, from my office home.pic.twitter.com/vaOUpb4pxK",
+            "username": "RosuGrigore",
+            "num_likes": 60,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "905071506207756289": {
+            "id": "905071506207756289",
+            "text": "That, combined with \"writing expertise\" authors of incremental work got, hurts our field.  We should take more risk and accept crazy ideas.",
+            "username": "RosuGrigore",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "905070184590958593": {
+            "id": "905070184590958593",
+            "text": "See it increasingly often in top CS conferences that papers slightly restricting the problem to fit their incremental solution are preferred",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "904028303564079105": {
+            "id": "904028303564079105",
+            "text": "K EVM semantics team would like to know what issues people had with the existing design of the EVM.  Here are ours:https://github.com/kframework/evm-semantics/blob/master/issues.md\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "903294475304407040": {
+            "id": "903294475304407040",
+            "text": "AdBlockPlus blocks the Google logo on ASE'17 sponsors' page.\nSo disable ABP to see the complete list of http://ase2017.org\u00a0 sponsors :)pic.twitter.com/crGCJB1Fc4",
+            "username": "RosuGrigore",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "902697012122062848": {
+            "id": "902697012122062848",
+            "text": "See you in Urbana at ASE'17!  Oct 30 - Nov 3, UIUC campus http://illinois.edu\u00a0.\nLargest number of submissions (at ASE).  Great keynotes.https://twitter.com/ASEConf2017/status/902692525076566017\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "901422219934523393": {
+            "id": "901422219934523393",
+            "text": "The original NIPS experiment: \"Most papers accepted by one committee were rejected by the other, and vice versa.\"\n\nhttp://blog.mrtz.org/2014/12/15/the-nips-experiment.html\u00a0\u2026pic.twitter.com/Wjnonq6Ro4",
+            "username": "RosuGrigore",
+            "num_likes": 2,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "901231922944364544": {
+            "id": "901231922944364544",
+            "text": "Fully agree with @vardi: accept until proven reject.  PC members cannot safely select more than 10% of the best papers.  Students suffer.https://twitter.com/vardi/status/901214641086488576\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 21,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "900895663701061632": {
+            "id": "900895663701061632",
+            "text": "In its defense, like clang VCC also issues a warning ... So still programmer's job to ensure definedness, cannot just trust prover.  Really?",
+            "username": "RosuGrigore",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 2
+        },
+        "900894623417151488": {
+            "id": "900894623417151488",
+            "text": "Ha, the VCC program verifier (http://rise4fun.com/Vcc/\u00a0) proves this undefined program returns 4!  Replace 4 with 3 and it cannot prove it.pic.twitter.com/whIQKgSSvQ",
+            "username": "RosuGrigore",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "900722436743868419": {
+            "id": "900722436743868419",
+            "text": "https://runtimeverification.com/match/docs/runningexamples/\u00a0\u2026\nexplains the undefined behavior in this example, as well as many other crazier ones.  Have fun.pic.twitter.com/mR7vPRYPWd",
+            "username": "RosuGrigore",
+            "num_likes": 10,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "900349671998070784": {
+            "id": "900349671998070784",
+            "text": "What is the smallest (undefined) C program that returns different results with -O1 vs -O3 with gcc?  Here is a start: 255 vs. 0.pic.twitter.com/sROvsZbvbe",
+            "username": "RosuGrigore",
+            "num_likes": 19,
+            "num_retweets": 10,
+            "num_replies": 1
+        },
+        "900152205768097794": {
+            "id": "900152205768097794",
+            "text": "For maximum fun and non-sense, the following \"equivalent\" program is in fact well-defined (but non-deterministic).pic.twitter.com/ndYSK4FWU4",
+            "username": "RosuGrigore",
+            "num_likes": 51,
+            "num_retweets": 20,
+            "num_replies": 3
+        },
+        "899987954587885568": {
+            "id": "899987954587885568",
+            "text": "Nice to see real language designers serious about formal semantics.  Things move.  We need better tools derived automatically from semanticshttps://twitter.com/patrick_m19/status/899987132957294593\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "899839413819252736": {
+            "id": "899839413819252736",
+            "text": "I should have added *interesting* undefined program (different behaviors with different compilers).",
+            "username": "RosuGrigore",
+            "num_likes": 28,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "899837499299827713": {
+            "id": "899837499299827713",
+            "text": "What's the smallest undefined C program?  The one in the picture is about 40 chars. It returns 3 with clang and 4 with gcc.pic.twitter.com/sDZN6TAZp3",
+            "username": "RosuGrigore",
+            "num_likes": 2143,
+            "num_retweets": 1251,
+            "num_replies": 67
+        },
+        "899421531197124608": {
+            "id": "899421531197124608",
+            "text": "ASE will have a wonderful program this year in Urbana. High quality papers (largest number of submission ever).   Registration to open soon.https://twitter.com/ASEConf2017/status/899417040569733127\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 9,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "899268429546491905": {
+            "id": "899268429546491905",
+            "text": "A very gentle introduction to the K framework: http://fsl.cs.illinois.edu/index.php/K_-_A_Semantic_Framework_for_Programming_Languages_and_Formal_Analysis_Tools\u00a0\u2026.  Disclaimer: this paper was not peer reviewed.",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "898298540740546560": {
+            "id": "898298540740546560",
+            "text": "Does anybody know if something similar exists for separation logic?https://twitter.com/afd_icl/status/898285643951779841\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "898170258913099776": {
+            "id": "898170258913099776",
+            "text": "POPL'18 submissions so good!  Learning something new & interesting from each paper.  Pity only 1/5 of them make it.  We need another model.",
+            "username": "RosuGrigore",
+            "num_likes": 16,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "897100858713886721": {
+            "id": "897100858713886721",
+            "text": "G. Zamfir https://www.youtube.com/watch?v=1mHuf8owjoQ\u00a0\u2026 always reminds me that whatever you do, either do it with full passion and commitment or not do it at all",
+            "username": "RosuGrigore",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "896721358880681984": {
+            "id": "896721358880681984",
+            "text": "Why not add OOPSLA to PL (next to POPL, PLDI) and ASE to SE (next to ICSE, FSE) at http://csrankings.org\u00a0?  Been on their PCs.  All top.",
+            "username": "RosuGrigore",
+            "num_likes": 11,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "896004482714263552": {
+            "id": "896004482714263552",
+            "text": "Matching Logic (ML) paper finally done: http://fsl.cs.illinois.edu/index.php/Matching_logic\u00a0\u2026.\nML is the foundation of K, and subsumes separation and many other logics.",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "894631998366633984": {
+            "id": "894631998366633984",
+            "text": "Forgot to mention: RV-Match is based on a complete and open-source K formal semantics of the ISO C11 Standard: https://github.com/kframework/c-semantics\u00a0\u2026.",
+            "username": "RosuGrigore",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "894625737172541441": {
+            "id": "894625737172541441",
+            "text": "RV-Match finds more undefined behaviors than tis-interpreter: https://runtimeverification.com/blog/?p=307\u00a0.  Easier to run, too, plus library support.",
+            "username": "RosuGrigore",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "893806798880296960": {
+            "id": "893806798880296960",
+            "text": "Let's not forget the basics: Covey's 7 Habits of Highly Effective People Collected for my students\nHabit 8: Turn off Twitter notifications!pic.twitter.com/WgaJ3zr9Si",
+            "username": "RosuGrigore",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "893230290721746944": {
+            "id": "893230290721746944",
+            "text": "Do you believe that languages must have formal semantics and analysis tools must be semantics based?  Join RV, Inc. https://runtimeverification.com/blog/?p=286\u00a0",
+            "username": "RosuGrigore",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "892477934975561730": {
+            "id": "892477934975561730",
+            "text": "When verifying the ERC20 Token (HKG) with KEVM, we found two overflows.  We wonder how serious they are.  Can they be exploited?  See paper,",
+            "username": "RosuGrigore",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "892297210515337220": {
+            "id": "892297210515337220",
+            "text": "Complete K semantics of the Ethereum VM, with applications to formal verification of smart contracts.https://twitter.com/phildaian/status/892295184049991680\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 38,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "890700827832107012": {
+            "id": "890700827832107012",
+            "text": "Congrats to Philip Daian, https://runtimeverification.com/\u00a0 smart contract lead, for 2nd place at IC3-Ethereum  competition http://www.initc3.org/events/2017-07-13-IC3-Ethereum-Crypto-Boot-Camp-at-Cornell-University.html\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "890592212550955010": {
+            "id": "890592212550955010",
+            "text": "Congratulations to the K team, led by Everett Hindenbrandt, for winning 1st place at  the IC3-Ethereum competition http://www.initc3.org/events/2017-07-13-IC3-Ethereum-Crypto-Boot-Camp-at-Cornell-University.html\u00a0\u2026",
+            "username": "RosuGrigore",
+            "num_likes": 16,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "890508896351080452": {
+            "id": "890508896351080452",
+            "text": "C continues to surprise us with its (lack of) semantics: https://runtimeverification.com/blog/?p=291\u00a0",
+            "username": "RosuGrigore",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "888604092385423360": {
+            "id": "888604092385423360",
+            "text": "Hello Twitter! #myfirstTweet",
+            "username": "RosuGrigore",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "not_retweeted": {},
+    "num_retweets_by_originator": {
+        "rv_inc": 29,
+        "koeppelmann": 1,
+        "gnosisSafe": 1,
+        "StefanDGeorge": 3,
+        "matt_dz": 1,
+        "hjortgjort": 1,
+        "maurelian_": 1,
+        "jemenger": 1,
+        "IOHK_Charles": 11,
+        "itsjefftong": 1,
+        "InputOutputHK": 9,
+        "WICARCH": 1,
+        "tballmsft": 2,
+        "nakedcapsid": 1,
+        "SebastienGllmt": 3,
+        "CardanoStiftung": 2,
+        "Illinois_Alma": 1,
+        "ASEconf2019": 1,
+        "phildaian": 2,
+        "bog_dan": 1,
+        "MSFTResearch": 1,
+        "vardi": 4,
+        "bucharestfp": 1,
+        "MartinLundfall": 1,
+        "ValaAfshar": 1,
+        "IllinoisCS": 1,
+        "YliesFalcone": 1,
+        "msuiche": 1,
+        "crypto_ninjas": 1,
+        "emurgo_io": 1,
+        "taoxiease": 1,
+        "rakingleaves": 1,
+        "johnregehr": 2,
+        "RealPunkJob": 1,
+        "gh_spin": 1,
+        "ASEConf2017": 3,
+        "mdipenta": 1,
+        "p0nk": 1,
+        "calestous": 1,
+        "edfrenkel": 1,
+        "ThereIsNoMagic": 1,
+        "pirapira": 1,
+        "PLDI": 1,
+        "Poita_": 1,
+        "JanBosch": 1,
+        "JamesMelville": 1,
+        "wicko3": 1,
+        "grammarware": 1,
+        "keenanisalive": 1,
+        "nixcraft": 1,
+        "john_lam": 1,
+        "thecommongreen": 1
+    },
+    "users_retweeted": [
+        "rv_inc",
+        "IOHK_Charles",
+        "InputOutputHK",
+        "vardi",
+        "StefanDGeorge",
+        "SebastienGllmt",
+        "ASEConf2017",
+        "tballmsft",
+        "CardanoStiftung",
+        "phildaian",
+        "johnregehr",
+        "koeppelmann",
+        "gnosisSafe",
+        "matt_dz",
+        "hjortgjort",
+        "maurelian_",
+        "jemenger",
+        "itsjefftong",
+        "WICARCH",
+        "nakedcapsid",
+        "Illinois_Alma",
+        "ASEconf2019",
+        "bog_dan",
+        "MSFTResearch",
+        "bucharestfp",
+        "MartinLundfall",
+        "ValaAfshar",
+        "IllinoisCS",
+        "YliesFalcone",
+        "msuiche",
+        "crypto_ninjas",
+        "emurgo_io",
+        "taoxiease",
+        "rakingleaves",
+        "RealPunkJob",
+        "gh_spin",
+        "mdipenta",
+        "p0nk",
+        "calestous",
+        "edfrenkel",
+        "ThereIsNoMagic",
+        "pirapira",
+        "PLDI",
+        "Poita_",
+        "JanBosch",
+        "JamesMelville",
+        "wicko3",
+        "grammarware",
+        "keenanisalive",
+        "nixcraft",
+        "john_lam",
+        "thecommongreen"
+    ]
+}

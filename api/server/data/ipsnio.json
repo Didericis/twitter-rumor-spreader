@@ -1,0 +1,97 @@
+{
+    "is_complete": true,
+    "username": "ipsnio",
+    "retweeted": {
+        "1115687902334337024": {
+            "id": "1115687902334337024",
+            "text": "After wasting my entire afternoon, my #golang #tor library now natively supports Go modules!  https://github.com/ipsn/go-libtor\u00a0\n\nNo, it doesn't work on #macos because I don't have a mac. Don't ask me to port it, unless you buy me one. ",
+            "username": "peter_szilagyi",
+            "num_likes": 46,
+            "num_retweets": 6,
+            "num_replies": 3
+        },
+        "1114909625093099526": {
+            "id": "1114909625093099526",
+            "text": "With #IPFS switching over to #golang modules, my #ungx work to make IPFS go gettable is finally deprecated! \n\nMaintaining an IPFS fork was hugely painful, so I'm euphoric to be able to finally sunset the project. Good learning experience, archived.https://github.com/ipsn/go-ipfs#-deprecated-\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 51,
+            "num_retweets": 7,
+            "num_replies": 2
+        },
+        "1104782377455370246": {
+            "id": "1104782377455370246",
+            "text": "Just spent my Sunday resurrecting my go get-able clone of #IPFS after the cluster-fuck of gx, vendor and go mod. No idea how long it will stay alive given how messed up IPFS dep-man is. The fixed repo works both with vendor and go mod. #golang @ipsniohttps://github.com/ipsn/go-ipfs\u00a0",
+            "username": "peter_szilagyi",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1104438962431631360": {
+            "id": "1104438962431631360",
+            "text": "Started playing with #golang modules. For my first test, I've published the @ipsnio avatar generator as a Go module :) [Yes, this is a blatant self-ad, go check it out :P].\n\nhttps://github.com/ipsn/go-adorable\u00a0\u2026pic.twitter.com/waN5HvSQiE",
+            "username": "peter_szilagyi",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1102493280753893376": {
+            "id": "1102493280753893376",
+            "text": "Next post of my @ipsnio journey towards disrupting data brokers is out! This time about Ghost Bridge, my #Android library to easily and securely bridge #reactnative UI and #golang application logic. The goal is to bring the Go #P2P ecosystem into Android!https://medium.com/interplanetary-social-network/ghost-bridge-react-native-to-go-19a69473f8e\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1087652858734858241": {
+            "id": "1087652858734858241",
+            "text": "ipsn/go-libtor: Self-contained Tor from Go https://github.com/ipsn/go-libtor\u00a0 by @ipsnio",
+            "username": "goLibHunt",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1081607266107867137": {
+            "id": "1081607266107867137",
+            "text": "TorfluxDB: Anonymous #metrics from Go via @peter_szilagyi @ipsnio http://bit.ly/2QjvhMv\u00a0 #InfluxDBpic.twitter.com/teFKjHGpFq",
+            "username": "InfluxDB",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1072081510814113794": {
+            "id": "1072081510814113794",
+            "text": "2nd post of my @ipsnio journey towards a private, trustless, decentralized social network: reconciling users' need for anonymity and developers' need for monitoring! #golang @torprojecthttps://medium.com/interplanetary-social-network/torfluxdb-anonymous-metrics-from-go-ce4f443e01fc\u00a0\u2026",
+            "username": "peter_szilagyi",
+            "num_likes": 27,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "1020679615847821312": {
+            "id": "1020679615847821312",
+            "text": "I have a hobby project. I want to obsolete #Facebook. I want a social network that is private by design, decentralized by design, trustless by design. I don't know if I can achieve it, but I'll document my journey. 1st post of @ipsnio: https://medium.com/interplanetary-social-network/a-pinch-of-privacy-tor-from-within-go-fc4b09986120\u00a0\u2026 @torproject #golang",
+            "username": "peter_szilagyi",
+            "num_likes": 238,
+            "num_retweets": 71,
+            "num_replies": 13
+        },
+        "1005069507159908354": {
+            "id": "1005069507159908354",
+            "text": "[Hobby project time] I just open sourced my #golang clone of @adorableio 's avatar generator. Huge shout-out to @missingdink for the amazingly cute art!! https://github.com/ipsn/go-adorable\u00a0\u2026pic.twitter.com/jrOU1GygDT",
+            "username": "peter_szilagyi",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 3
+        }
+    },
+    "tweeted": {},
+    "num_retweets_by_originator": {
+        "peter_szilagyi": 8,
+        "goLibHunt": 1,
+        "InfluxDB": 1
+    },
+    "users_retweeted": [
+        "peter_szilagyi",
+        "goLibHunt",
+        "InfluxDB"
+    ]
+}

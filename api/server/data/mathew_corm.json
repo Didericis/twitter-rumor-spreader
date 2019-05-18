@@ -1,0 +1,746 @@
+{
+    "is_complete": true,
+    "username": "mathew_corm",
+    "retweeted": {
+        "1126209729225789447": {
+            "id": "1126209729225789447",
+            "text": "A reorg to recover exchange losses is like a bail-out for a bank mismanaging risk. \n\nFortunately, it's so hard to pull off and so likely to fail that unlike banks, there won't be a bailout here. \n\nThose who fail security get to eat the cost. \n\n#NotYourKeysNotYourCoins",
+            "username": "aantonop",
+            "num_likes": 2564,
+            "num_retweets": 709,
+            "num_replies": 100
+        },
+        "1126112393216581632": {
+            "id": "1126112393216581632",
+            "text": "There has been a 70x increase in the amount of collateral locked up in the open source financial system in the last year.\n\nThat is a number worth tracking. Not the price, not the trades, not the silly line graphs and magical predictions.\n\nThe cold, hard useage of digital capital.https://twitter.com/spencernoon/status/1125858556715184128\u00a0\u2026",
+            "username": "ricburton",
+            "num_likes": 72,
+            "num_retweets": 12,
+            "num_replies": 5
+        },
+        "1125767548178501634": {
+            "id": "1125767548178501634",
+            "text": "Prysm Phase 0 Testnet is here! @prylabshttps://medium.com/prysmatic-labs/ethereum-2-0-phase-0-testnet-release-1e9e682db910\u00a0\u2026",
+            "username": "preston_vanloon",
+            "num_likes": 401,
+            "num_retweets": 122,
+            "num_replies": 23
+        },
+        "1125565625349197824": {
+            "id": "1125565625349197824",
+            "text": "Quick and (very) dirty formula for calculating monthly Eth2.0 validator rewards:\n\n((e * i)/12 * p)/p\n\ne = staked ETH amount\ni = issuance rate/year\n12 = months\np = price of ETH\n\nExample:\n\n((32 * 0.05)/12*180)/180 = 0.13 ETH per month\n\nRemove the trailing p to get the $ amount.",
+            "username": "sassal0x",
+            "num_likes": 52,
+            "num_retweets": 14,
+            "num_replies": 4
+        },
+        "1125519433470857216": {
+            "id": "1125519433470857216",
+            "text": "EthHub Community Call #1 is in 16 hours. It will be live streamed here: https://www.youtube.com/watch?v=bZU4bYohRzs\u00a0\u2026",
+            "username": "ethhub_io",
+            "num_likes": 30,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1125427216408403968": {
+            "id": "1125427216408403968",
+            "text": "I am *so fed up* of the lazy crypto-twitter debate around dapp usage, and I want to change the debate.\n\nSo I'm offering a 0.55 ETH bounty for anyone who creates a similar KPI tracking page for their dapp.  Details at => https://gitcoin.co/issue/gitcoinco/skunkworks/117/2948\u00a0\u2026\n\n/4",
+            "username": "owocki",
+            "num_likes": 30,
+            "num_retweets": 2,
+            "num_replies": 6
+        },
+        "1124980745720569856": {
+            "id": "1124980745720569856",
+            "text": "In the first day of the new @ensdomains registrar:\n\n - 1810 names were migrated\n - 282 new names were registered\n - 1643 names were released back into circulation\n - Approximately 480 name-years of registration were purchased",
+            "username": "nicksdjohnson",
+            "num_likes": 85,
+            "num_retweets": 13,
+            "num_replies": 4
+        },
+        "1124095917009903618": {
+            "id": "1124095917009903618",
+            "text": "Delighted to announce that the @ensdomains root keyholders have signed off on the deployment of the new .eth registrar. We are go for launch at midnight UTC, May 4, 2019 - exactly 2 years since ENS first launched!",
+            "username": "nicksdjohnson",
+            "num_likes": 125,
+            "num_retweets": 22,
+            "num_replies": 7
+        },
+        "1123934134601179138": {
+            "id": "1123934134601179138",
+            "text": "We\u2019ve decided that Stripe\u2019s fifth engineering hub will be Remote:https://stripe.com/blog/remote-hub\u00a0",
+            "username": "patrickc",
+            "num_likes": 4482,
+            "num_retweets": 808,
+            "num_replies": 121
+        },
+        "1123578856403869696": {
+            "id": "1123578856403869696",
+            "text": "The term alts is a relic of pre-2016 era\n\nIn that world we had bitcoin & bitcoin forks, alts made sense then\n\nIt doesn't today\n\nNot every cryptoasset is an alternative to bitcoin. Many are are capital assets, not even currencies\n\nI think we'll see the term fade over time",
+            "username": "RyanSAdams",
+            "num_likes": 98,
+            "num_retweets": 18,
+            "num_replies": 14
+        },
+        "1123267693069647872": {
+            "id": "1123267693069647872",
+            "text": " 74% of tethers backed by cash and cash equivalents, says Tether attorney\n\nhttps://messari.io/article/74-of-tethers-backed-by-cash-and-cash-equivalents-says-tether-attorney\u00a0\u2026",
+            "username": "MessariNews",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1123136930177118209": {
+            "id": "1123136930177118209",
+            "text": "My top picks (1):\n\n* A globally accessible financial system, including payments, store of value, also more advanced stuff like insurance http://hurricaneguard.io/\u00a0\n* Identity: \"sign in with Facebook\" -> \"sign in with an ethereum account, no intermediaries\". Also web of trust...",
+            "username": "VitalikButerin",
+            "num_likes": 2684,
+            "num_retweets": 416,
+            "num_replies": 130
+        },
+        "1118420506993156096": {
+            "id": "1118420506993156096",
+            "text": "Another teaser for our upcoming release ;)\n\nGeth v1.8.26 fresh fast sync = 177GB\nGeth v1.9.0 fresh fast sync = 131GB \n\nYes, still a full node with all the data! \nProps to @Gary_Rong, @realLedgerwatch and Matt Halpern!\n\n(note, not all code merged yet) #golang #Ethereum",
+            "username": "peter_szilagyi",
+            "num_likes": 286,
+            "num_retweets": 74,
+            "num_replies": 18
+        },
+        "1117253033342029824": {
+            "id": "1117253033342029824",
+            "text": "One of the most frequent questions I see around Ethereum is the roadmap. We have a very detailed section for this on EthHub. It contains 22 unique pages covering:\n\n-Eth 1.x\n-Eth 2.0\n-Layer 2\n-Privacy\n\nCheck it out!\n\nhttps://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/\u00a0\u2026",
+            "username": "econoar",
+            "num_likes": 151,
+            "num_retweets": 49,
+            "num_replies": 8
+        },
+        "1116757424671789058": {
+            "id": "1116757424671789058",
+            "text": "The quantity of BTC being exchanged on the Ethereum network (Wrapped BTC= wBTC) is already reaching 14% of the quantity of BTC on the Lightning network. #DeFiPulse\n\nHow long until it reaches parity?pic.twitter.com/2FdhhayIri",
+            "username": "JimmyRagosa",
+            "num_likes": 87,
+            "num_retweets": 26,
+            "num_replies": 10
+        },
+        "1115057048511758337": {
+            "id": "1115057048511758337",
+            "text": "48 of our ETH2.0 validators showing their latest block votes in real time in our @prylabs Prysm testnet! Props to @terenc3t for the graph and excited to have more visuals that showcase the power of the ETH2 fork-choice rule #Ethereumpic.twitter.com/ltd7lRmcQF",
+            "username": "raulitojordan",
+            "num_likes": 140,
+            "num_retweets": 45,
+            "num_replies": 1
+        },
+        "1113956566082789377": {
+            "id": "1113956566082789377",
+            "text": "Ether first hit $150 on May 22nd 2017 - how has the Ethereum network grown since then?pic.twitter.com/woggzoXLkk",
+            "username": "sassal0x",
+            "num_likes": 622,
+            "num_retweets": 239,
+            "num_replies": 21
+        },
+        "1113878904404680706": {
+            "id": "1113878904404680706",
+            "text": "Our AMA is tomorrow! Add your question to this thread so you don't forget it. We look forward to seeing everyone tomorrow! ---> https://www.reddit.com/r/ethereum/comments/b8ahym/the_ethereum_name_service_ens_team_will_host_an/\u00a0\u2026 #ethereum #ama",
+            "username": "ensdomains",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1113471788204331008": {
+            "id": "1113471788204331008",
+            "text": "At the end of 2019, anyone in the world with a smart phone and an internet connection will be able to:\n\nHold a stable currency\nSend it anywhere instantly\nEarn interest on your savings\nGet a loan against your assets\nInvest in the global stock market\n\nAll thanks to @MakerDAO ",
+            "username": "ricburton",
+            "num_likes": 263,
+            "num_retweets": 39,
+            "num_replies": 10
+        },
+        "1113166587710730240": {
+            "id": "1113166587710730240",
+            "text": "Friends! \n\nNow that the bear market is fading and the first green shoots are starting to spring up, we are also seeing the return of an old enemy--the Twitter scam account. \n\nPlease report this false idol! They are soliciting donations from the unwitting.\n\nhttps://mobile.twitter.com/MoIochDAO\u00a0",
+            "username": "ameensol",
+            "num_likes": 68,
+            "num_retweets": 20,
+            "num_replies": 5
+        },
+        "1113072585749786627": {
+            "id": "1113072585749786627",
+            "text": "Best summary I've ever seen of the current governance process-via-EIPs, including why and how it's stuck.https://twitter.com/cyber_hokie/status/1112305608047427584\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 27,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1111737266492329984": {
+            "id": "1111737266492329984",
+            "text": "This weighs heavily on me as a software developer building human systems. I fear this will not be the last tragic software glitch and that this may be just the beginning. Let's never forget that real people are at the other end of our code.",
+            "username": "lrettig",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1111372774830833664": {
+            "id": "1111372774830833664",
+            "text": "Ethereum 2.0 Phase 0 Public Testnet right around the corner!https://medium.com/prysmatic-labs/ethereum-2-0-serenity-testnet-update-closer-than-ever-259cace9a1b1\u00a0\u2026",
+            "username": "econoar",
+            "num_likes": 90,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1107949125545320455": {
+            "id": "1107949125545320455",
+            "text": "0/ Looking at $DAI price on exchange is a fascinating study of borrowing rates on @MakerDAO. A thread pic.twitter.com/ql9gRz2xhT",
+            "username": "mrjasonchoi",
+            "num_likes": 30,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1106714385521627137": {
+            "id": "1106714385521627137",
+            "text": "I've been seeing people say that \"DeFi will move to Cosmos\" over the past couple of days. I'm a fan of & respect the Cosmos project but this statement is utterly bizarre.\n\nDeFi will move to Cosmos just like it moved to EOS, Tron, NEO & all the other Ethereum killers, right?",
+            "username": "sassal0x",
+            "num_likes": 112,
+            "num_retweets": 12,
+            "num_replies": 14
+        },
+        "1106283672498368513": {
+            "id": "1106283672498368513",
+            "text": "Part of what makes #DeFi so cool is the unadulterated transparency inherent to blockchain-based systems.\n\nIn that spirit, we've made it easy for anyone to get granular data on the growing borrowing & lending volume going through the @DharmaProtocol pipes.\n\nhttp://statistics.dharma.io\u00a0pic.twitter.com/rlsmVlKruU",
+            "username": "NadavAHollander",
+            "num_likes": 62,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1105616695148855296": {
+            "id": "1105616695148855296",
+            "text": "NFT growth chart! 2.9 million crypto collectibles on mainnet Ethereum, up 200,000 in the past month\n\nExponential growth in minted assets pic.twitter.com/oZBVLHBAFb",
+            "username": "opensea",
+            "num_likes": 138,
+            "num_retweets": 47,
+            "num_replies": 9
+        },
+        "1105219933791838213": {
+            "id": "1105219933791838213",
+            "text": "Samsung will sell 40m Galaxy S10 phones in 2019\n\nS10s are now shipping w/ an Ethereum Wallet \n\nFor scale: S10 sales in 2019 alone are almost 20x the total number of Ledger & Trezor wallets ever sold\n\nThis is how mainstream happens\n\nScreenshots rolling in:https://imgur.com/a/7KgZZJh\u00a0",
+            "username": "RyanSAdams",
+            "num_likes": 808,
+            "num_retweets": 276,
+            "num_replies": 56
+        },
+        "1105287998529142784": {
+            "id": "1105287998529142784",
+            "text": "\"The Samsung Galaxy S10\u2019s Crypto Wallet Doesn\u2019t Support Bitcoin\"\n\nFirst @opera, now @Samsung - I expect this trend of Ethereum-first support to continue.https://twitter.com/BreakerMag/status/1105245265089495040\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1104882362977013760": {
+            "id": "1104882362977013760",
+            "text": "HTTP allows anyone in the world create an online service.\n\nETH allows anyone in the world to create a financial service.",
+            "username": "ricburton",
+            "num_likes": 259,
+            "num_retweets": 49,
+            "num_replies": 10
+        },
+        "1103916977163104259": {
+            "id": "1103916977163104259",
+            "text": "If you want to improve the crypto world: Pick one of these steps, any one, and find a way to eliminate it.https://twitter.com/MyCrypto/status/1103626737974501376\u00a0\u2026",
+            "username": "nicksdjohnson",
+            "num_likes": 60,
+            "num_retweets": 16,
+            "num_replies": 5
+        },
+        "1103453887686569984": {
+            "id": "1103453887686569984",
+            "text": "0/ I'm not an anonymous reddit troll and a pretty vocal member of the Ethereum community. I'd like to give some of my thoughts here but I want to preface this by saying that I am a huge fan of Parity/W3F, Polkadot and Ethereum. I also hold both ETH and DOTs.\n\n(thread)https://twitter.com/AsherT/status/1103338473673637888\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 50,
+            "num_retweets": 13,
+            "num_replies": 2
+        },
+        "1103072735721222144": {
+            "id": "1103072735721222144",
+            "text": "0/ Today, I want to shine a light on a team that is developing many products and tools within the crypto ecosystem and, in my opinion, does not get nearly enough attention.\n\nThat team is @ConcourseOpen - founded by @scott_lew_is and @RoniDavelman.\n\n(thread)",
+            "username": "sassal0x",
+            "num_likes": 48,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1102761616679026688": {
+            "id": "1102761616679026688",
+            "text": "Say what you want about Coinbase, but the people spoke and the company listened.",
+            "username": "APompliano",
+            "num_likes": 1611,
+            "num_retweets": 121,
+            "num_replies": 158
+        },
+        "1101869890393251841": {
+            "id": "1101869890393251841",
+            "text": "The action that happens every week in the Ethereum ecosystem is impossible to keep up with.\n\nThis is what every competing blockchain is up against, and they have to win before Ethereum achieves frictionless scalability, because then it's game over. https://twitter.com/evan_van_ness/status/1101852142346911745\u00a0\u2026",
+            "username": "gakonst",
+            "num_likes": 91,
+            "num_retweets": 17,
+            "num_replies": 5
+        },
+        "1101563354903207936": {
+            "id": "1101563354903207936",
+            "text": "Tfw you pull out the burner wallet at lunch and inception a friend by sending them xDai just like that with zero onboarding. It's a Trojan horse.https://twitter.com/austingriffith/status/1101536547256512512\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 34,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1100929542980419585": {
+            "id": "1100929542980419585",
+            "text": "xDai using POA Network sidechains for Dai payments, Loom Network sidechains for gaming, and Connext Network state channels for Dapp payments are making Ethereum 1.0 look very bullish. Waiting a few years for Ethereum 2.0 might not be so bad if we are already scaling.",
+            "username": "JamesSpediacci",
+            "num_likes": 73,
+            "num_retweets": 18,
+            "num_replies": 3
+        },
+        "1101128375186456578": {
+            "id": "1101128375186456578",
+            "text": "Smaller line count does not implicitly reduce the complexity nor improve the performance of a method/algorithm. Encouraging smaller line count is most likely to reduce readability more than anything else.",
+            "username": "preston_vanloon",
+            "num_likes": 27,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1100677754117226496": {
+            "id": "1100677754117226496",
+            "text": "Almost as much as the lightning network after just 1 week https://twitter.com/loomnetwork/status/1100659166857748480\u00a0\u2026",
+            "username": "sassal0x",
+            "num_likes": 102,
+            "num_retweets": 25,
+            "num_replies": 4
+        },
+        "1087015435105697792": {
+            "id": "1087015435105697792",
+            "text": "9/ Combine lack of market completeness (no sellers) + avid hodlers (stable-ish capital base) + \"anchoring\" off bubble prices + a troubled primary metric (when used in isolation), and we will remain in an irrational state for a long time.",
+            "username": "cburniske",
+            "num_likes": 31,
+            "num_retweets": 10,
+            "num_replies": 4
+        },
+        "1086353374633697280": {
+            "id": "1086353374633697280",
+            "text": "As usual, I think the overall message is we desperately need to get past the silliness that passes for economic debate in our country at the moment and start actually thinking about real solutions that can increase growth, provide public goods, rebuild community, etc.",
+            "username": "glenweyl",
+            "num_likes": 13,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1082877770969927680": {
+            "id": "1082877770969927680",
+            "text": "The Truly Viral Movie is Herehttps://500ish.com/the-truly-viral-movie-is-here-3335c30e2062\u00a0\u2026",
+            "username": "500ish",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1082323890167316480": {
+            "id": "1082323890167316480",
+            "text": "Tesla\u2019s little-noticed edge: battery cost. Pack prices are roughly 3 years ahead of the industry\u2019s cost curve, according to data compiled by BNEF. Every time global production doubles, prices fall another 18% 8/ https://www.bloomberg.com/news/features/2019-01-07/tesla-s-life-after-hell-7-charts-show-musk-on-firmer-footing\u00a0\u2026pic.twitter.com/BOb66fsqZ4",
+            "username": "tsrandall",
+            "num_likes": 551,
+            "num_retweets": 113,
+            "num_replies": 13
+        },
+        "1080930660691394561": {
+            "id": "1080930660691394561",
+            "text": "Over past 3 mos, demand for $ETH for collateral on DeFi platforms $MKR, @compoundfinance, etc was ~10,000 ETH each day. The new supply of ETH each day is ~19,000 ETH. The supply rate will soon be reduced to ~12,000. Natural demand for ETH will soon outstrip natural supply.pic.twitter.com/GlEXHyzAfc",
+            "username": "JohnTodaro1",
+            "num_likes": 425,
+            "num_retweets": 131,
+            "num_replies": 34
+        },
+        "1080515442073059328": {
+            "id": "1080515442073059328",
+            "text": "Launching @MakerScan Telegram Bot to track @MakerDAO CDPs. Would love to hear your feedback.\n\nhttps://t.me/MakerScanBot\u00a0pic.twitter.com/aq6FcOlMZY",
+            "username": "smykjain",
+            "num_likes": 95,
+            "num_retweets": 24,
+            "num_replies": 8
+        },
+        "1080064713302646786": {
+            "id": "1080064713302646786",
+            "text": "Absolutely beautiful video created using still images taken by the Cassini spacecraft during its flyby of Jupiter and while at Saturn. Shown is Io and Europa over Jupiter's Great Red Spot and then Titan as it passes over Saturn and it's edge-on rings. NASA/JPL/Kevin M. Gillpic.twitter.com/BWaVP5h6Ob",
+            "username": "CaliaDomenico",
+            "num_likes": 148464,
+            "num_retweets": 45098,
+            "num_replies": 1163
+        },
+        "1075131840258818048": {
+            "id": "1075131840258818048",
+            "text": "This is my take on the state of the blockchain space during 2018, and the trends that will affect 2019 activityhttps://medium.com/@demibrener/state-of-crypto-2018-market-trends-7066f5484217\u00a0\u2026",
+            "username": "demibrener",
+            "num_likes": 70,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "1077338663535689728": {
+            "id": "1077338663535689728",
+            "text": "\u201cThe contrast with Donald Trump\u2019s vulgar tweets and Theresa May\u2019s robotic phrases is dispiriting.\u201d https://www.economist.com/books-and-arts/2018/10/04/andrew-roberts-paints-the-fullest-ever-picture-of-churchill\u00a0\u2026pic.twitter.com/12cAhRix20",
+            "username": "mgsiegler",
+            "num_likes": 11,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1076161530557796352": {
+            "id": "1076161530557796352",
+            "text": "4/ You can fake innovation in a white paper, but good luck faking it on-chain.",
+            "username": "cburniske",
+            "num_likes": 89,
+            "num_retweets": 14,
+            "num_replies": 3
+        },
+        "1072162427045736449": {
+            "id": "1072162427045736449",
+            "text": "10. Blockchains are NOT about cutting computational costs (at least relative to centralized servers). Blockchains are about incurring a sacrifice in the form of INCREASED computational costs to achieve a *decrease* in *social costs*.",
+            "username": "VitalikButerin",
+            "num_likes": 1029,
+            "num_retweets": 316,
+            "num_replies": 20
+        },
+        "1071876698818392066": {
+            "id": "1071876698818392066",
+            "text": "\"Since their respective peak prices, Bitcoin\u2019s and Ethereum\u2019s network values are down 81% and 93%, respectively, whereas demand for their respective native functionalities is down 74% and 7%, respectively.\"\n\nWow",
+            "username": "unbTxabl",
+            "num_likes": 44,
+            "num_retweets": 11,
+            "num_replies": 4
+        },
+        "1068933987605913600": {
+            "id": "1068933987605913600",
+            "text": "Market cap doesn't reflect activity. Decentralized networks are growing. \n\n-10B+ daily API requests served by @infura_io\n-1M+ @trufflesuite downloads\n-1M+ @metamask_io downloads\n-12K+ live @Ethereum nodes\n-48M+ unique #Ethereum addresses\n-3x @LinkedIn #blockchain job openings",
+            "username": "ethereumJoseph",
+            "num_likes": 454,
+            "num_retweets": 154,
+            "num_replies": 16
+        },
+        "1068362711593930752": {
+            "id": "1068362711593930752",
+            "text": "Zero-knowledge proofs for ERC-20 token transfers on Ethereum mainnet? \nhttps://github.com/AztecProtocol/AZTEC\u00a0\u2026 @aztecprotocol",
+            "username": "keep_project",
+            "num_likes": 32,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1067244283688669184": {
+            "id": "1067244283688669184",
+            "text": "There\u2019s a quiet beauty here. Looking forward to exploring my new home. #MarsLandingpic.twitter.com/mfClzsfJJr",
+            "username": "NASAInSight",
+            "num_likes": 165439,
+            "num_retweets": 53840,
+            "num_replies": 3336
+        },
+        "1065250459194015744": {
+            "id": "1065250459194015744",
+            "text": "If you ask \"why has crypto gone down so fast\" answer is the same as \"why did crypto go up so fast last year\". \n\nNew tech, price mostly driven by speculators - means that the price reflects the price, instead of tech fundamentals (which exist & are strong but are hard to measure).",
+            "username": "aantonop",
+            "num_likes": 2516,
+            "num_retweets": 777,
+            "num_replies": 71
+        },
+        "1064885754457862144": {
+            "id": "1064885754457862144",
+            "text": "Smoke from the wildfires in California has reached New York City.https://www.nbcnewyork.com/news/local/california-wildfire-smoke-reaches-nyc-500880601.html\u00a0\u2026",
+            "username": "theferocity",
+            "num_likes": 274,
+            "num_retweets": 193,
+            "num_replies": 9
+        },
+        "1061989144400928768": {
+            "id": "1061989144400928768",
+            "text": "I created a small thing over the weekend: http://daolist.io\u00a0 \n\nIt lists all @AragonProject DAOs on mainnet. Could be expanded in the future into a fully fledged DAO explorer ",
+            "username": "ONordbjerg",
+            "num_likes": 38,
+            "num_retweets": 10,
+            "num_replies": 2
+        },
+        "1061587801202933760": {
+            "id": "1061587801202933760",
+            "text": "Happy Remembrance Day and 100th anniversary of the end of WW1.\n\nLet us all be thankful today that, despite the problems we still have, the truly senseless and tragic destruction of human life, freedom and prosperity that war is has been so greatly reduced in the past century.pic.twitter.com/ZA0TsLACIq",
+            "username": "VitalikButerin",
+            "num_likes": 3254,
+            "num_retweets": 772,
+            "num_replies": 151
+        },
+        "1060264966450745344": {
+            "id": "1060264966450745344",
+            "text": "Want to learn how you can use Aragon 0.6 to create your own decentralized organization on Ethereum? Check out the new Aragon User Guide published in our wiki:\n\nhttps://wiki.aragon.org/tutorials/Aragon_User_Guide/\u00a0\u2026pic.twitter.com/dvc4WCuJk9",
+            "username": "AragonProject",
+            "num_likes": 80,
+            "num_retweets": 34,
+            "num_replies": 5
+        },
+        "1057294315645517825": {
+            "id": "1057294315645517825",
+            "text": "Today, decentralized organizations got real. Aragon 0.6 Alba is on Mainnet. Welcome to a new era for human collaboration https://blog.aragon.org/aragon-06-is-live-on-mainnet\u00a0\u2026",
+            "username": "licuende",
+            "num_likes": 172,
+            "num_retweets": 39,
+            "num_replies": 11
+        },
+        "1047156614917251072": {
+            "id": "1047156614917251072",
+            "text": "Introducing #AraCon https://aracon.one\u00a0https://www.youtube.com/watch?v=49hXxj31e7c\u00a0\u2026",
+            "username": "licuende",
+            "num_likes": 43,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "1041928238044303360": {
+            "id": "1041928238044303360",
+            "text": "Aragon's impact on brightID has been huge: http://brightid.org/aragons-impact\u00a0\u2026\n\nThank you, @AragonProject !",
+            "username": "BrightIDProject",
+            "num_likes": 32,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1041867634222936064": {
+            "id": "1041867634222936064",
+            "text": "Lighthouse: an open-source Ethereum 2.0 client, written in Rusthttps://lighthouse.sigmaprime.io/update-00.html\u00a0",
+            "username": "VitalikButerin",
+            "num_likes": 1209,
+            "num_retweets": 311,
+            "num_replies": 88
+        },
+        "1037037907754856449": {
+            "id": "1037037907754856449",
+            "text": "Our first team update is out! Come see what we've been up to for the last couple of weeks:https://medium.com/espresso-org/espresso-team-update-halfway-through-our-first-milestone-7ff752f9adb0\u00a0\u2026",
+            "username": "EspressoOrg",
+            "num_likes": 18,
+            "num_retweets": 4,
+            "num_replies": 2
+        }
+    },
+    "tweeted": {
+        "1120924463959298049": {
+            "id": "1120924463959298049",
+            "text": "pic.twitter.com/0K9WfK8JLZ",
+            "username": "mathew_corm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1120924459559469056": {
+            "id": "1120924459559469056",
+            "text": "This is probably the best tutorial UX I've seen in a whilehttps://twitter.com/BeingDanNolan/status/1120857842125242368\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1118740226028068864": {
+            "id": "1118740226028068864",
+            "text": "Just tried out the new Aragon Bella and it well deserves its name. Congrats to @AragonOneTeam for this impressive release!https://twitter.com/AragonProject/status/1118583197040820224\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1118375664921477125": {
+            "id": "1118375664921477125",
+            "text": "Another great tech summary by @sassal0xhttps://twitter.com/sassal0x/status/1118288171769319424\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1115299889443934213": {
+            "id": "1115299889443934213",
+            "text": "Congrats to the @Dharma_HQ team for their public release! Huge step forward for #OpenFinancehttps://twitter.com/Dharma_HQ/status/1115288649594052608\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1113268137368195073": {
+            "id": "1113268137368195073",
+            "text": "Is it me or #cryptotwitter discussions are more civilized and positive than usual? Probably my favorite aspect of bull runs ",
+            "username": "mathew_corm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1100490858753859584": {
+            "id": "1100490858753859584",
+            "text": "The Uniswap stats are mind-blowing: \n+51% Liquidity Reserves (~5000 ETH)\n+16% Trading Volume (~4700 ETH)\nAnd these are week-over-week stats\u2026 WoW indeed.https://twitter.com/calebsheridan/status/1100353553665851394\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1083649688950243328": {
+            "id": "1083649688950243328",
+            "text": "Wow, love the design!https://twitter.com/JaneidyEve/status/1083417737161048068\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1081909148269334528": {
+            "id": "1081909148269334528",
+            "text": "Incredible to think that we could see economically viable fusion power in our lifetime.https://twitter.com/mgsiegler/status/1081746648705818624\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1080906066492153856": {
+            "id": "1080906066492153856",
+            "text": "Very exciting! These guys are doing an incredible job! \u201cOur plan at Prysmatic is to release an Ethereum Serenity phase 0 testnet this quarter.\u201d\u200a\u2014\u200a@raulitojordanhttps://link.medium.com/oA0iS5tsbT\u00a0",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1080332595060240385": {
+            "id": "1080332595060240385",
+            "text": "Watching XRP and ETH on coinmarketcap likepic.twitter.com/LcPPCTv9fC",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1078317167328878592": {
+            "id": "1078317167328878592",
+            "text": "Fascinating articlehttps://twitter.com/nytimes/status/1078015107882512384\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1063415151783813120": {
+            "id": "1063415151783813120",
+            "text": "Pretty accurate description of remote workhttps://twitter.com/rargulati/status/1061011948693729280\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1061748498117341184": {
+            "id": "1061748498117341184",
+            "text": "Interesting article on MakerDAO: \u201cThe Lindy Effect is a concept that the future life expectancy of a system is proportional to it\u2019s current age, so that every additional period of survival implies a longer remaining life expectancy. MakerDAO has this.\u201d\u200a\u200ahttps://link.medium.com/LkD2ZQtILR\u00a0",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1060538073363202048": {
+            "id": "1060538073363202048",
+            "text": "Interesting interview with Sundar Pichaihttps://www.nytimes.com/2018/11/08/business/sundar-pichai-google-corner-office.html\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1059506182929432576": {
+            "id": "1059506182929432576",
+            "text": "If you're interested to have a look at our progress, our second team update is out!https://twitter.com/EspressoOrg/status/1059505772814626819\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1042102314176311297": {
+            "id": "1042102314176311297",
+            "text": "Interesting article about the Aragon Package Managerhttps://twitter.com/AragonOneTeam/status/1042093299664871425\u00a0\u2026",
+            "username": "mathew_corm",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "aantonop": 2,
+        "ricburton": 3,
+        "preston_vanloon": 2,
+        "sassal0x": 7,
+        "ethhub_io": 1,
+        "owocki": 1,
+        "nicksdjohnson": 3,
+        "patrickc": 1,
+        "RyanSAdams": 2,
+        "MessariNews": 1,
+        "VitalikButerin": 4,
+        "peter_szilagyi": 1,
+        "econoar": 2,
+        "JimmyRagosa": 1,
+        "raulitojordan": 1,
+        "ensdomains": 1,
+        "ameensol": 1,
+        "lrettig": 3,
+        "mrjasonchoi": 1,
+        "NadavAHollander": 1,
+        "opensea": 1,
+        "APompliano": 1,
+        "gakonst": 1,
+        "JamesSpediacci": 1,
+        "cburniske": 2,
+        "glenweyl": 1,
+        "500ish": 1,
+        "tsrandall": 1,
+        "JohnTodaro1": 1,
+        "smykjain": 1,
+        "CaliaDomenico": 1,
+        "demibrener": 1,
+        "mgsiegler": 1,
+        "unbTxabl": 1,
+        "ethereumJoseph": 1,
+        "keep_project": 1,
+        "NASAInSight": 1,
+        "theferocity": 1,
+        "ONordbjerg": 1,
+        "AragonProject": 1,
+        "licuende": 2,
+        "BrightIDProject": 1,
+        "EspressoOrg": 1
+    },
+    "users_retweeted": [
+        "sassal0x",
+        "VitalikButerin",
+        "ricburton",
+        "nicksdjohnson",
+        "lrettig",
+        "aantonop",
+        "preston_vanloon",
+        "RyanSAdams",
+        "econoar",
+        "cburniske",
+        "licuende",
+        "ethhub_io",
+        "owocki",
+        "patrickc",
+        "MessariNews",
+        "peter_szilagyi",
+        "JimmyRagosa",
+        "raulitojordan",
+        "ensdomains",
+        "ameensol",
+        "mrjasonchoi",
+        "NadavAHollander",
+        "opensea",
+        "APompliano",
+        "gakonst",
+        "JamesSpediacci",
+        "glenweyl",
+        "500ish",
+        "tsrandall",
+        "JohnTodaro1",
+        "smykjain",
+        "CaliaDomenico",
+        "demibrener",
+        "mgsiegler",
+        "unbTxabl",
+        "ethereumJoseph",
+        "keep_project",
+        "NASAInSight",
+        "theferocity",
+        "ONordbjerg",
+        "AragonProject",
+        "BrightIDProject",
+        "EspressoOrg"
+    ]
+}

@@ -1,0 +1,700 @@
+{
+    "is_complete": true,
+    "username": "ornellacordoba",
+    "retweeted": {
+        "1111717382144385024": {
+            "id": "1111717382144385024",
+            "text": "Time for another retreat! A great opportunity for a distributed team to discuss goals, share insights and explore ideas together :)pic.twitter.com/SyPFUyaR9j",
+            "username": "ZeppelinOrg",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1095396464606564354": {
+            "id": "1095396464606564354",
+            "text": "Introducing ZepKit! The easiest way to start your decentralized application https://blog.zeppelinos.org/introducing-zepkit/?utm_campaign=zos-announcement-evmpackages-on-mainnet&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 58,
+            "num_retweets": 29,
+            "num_replies": 1
+        },
+        "1092765191450882048": {
+            "id": "1092765191450882048",
+            "text": "Got your Solidity data structure working? Jump into part two of my tutorial for Building EVM packages on Ethereum with ZeppelinOS!https://blog.zeppelinos.org/evm-package-deployment-with-zeppelinos-part-ii-deploying-and-testing-a-linkedlist-contract/\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 18,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1092413822269304837": {
+            "id": "1092413822269304837",
+            "text": "We've published an article on how to test real-world smart contract upgrades using @zeppelin_os and @trufflesuite's ganache. You can test your upgrades on a safe environment that mimics mainnet before running them on production!https://blog.zeppelinos.org/testing-real-world-contract-upgrades/?utm_campaign=zos-technical-testing-contract-upgrades&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "smpalladino",
+            "num_likes": 40,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "1091367064282034176": {
+            "id": "1091367064282034176",
+            "text": "In this great tutorial, @frangio_ explains two idiomatic ways to use OpenZeppelin for implementing custom supply mechanisms.https://forum.zeppelin.solutions/t/how-to-implement-erc20-supply-mechanisms/226\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1091046007742312448": {
+            "id": "1091046007742312448",
+            "text": "Today we're launching the Zeppelin Community forum (beta)! \n\nA place for developers to learn, discuss and explore design patterns and best practices of smart contract development.\nAlso for OpenZeppelin and ZeppelinOS developer discussions.\n\nJoin us!http://zpl.in/forum\u00a0",
+            "username": "ZeppelinOrg",
+            "num_likes": 50,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "1090973772008644610": {
+            "id": "1090973772008644610",
+            "text": "@ZeppelinOrg headed to #ETHDenver!!!https://blog.zeppelin.solutions/zeppelin-at-ethdenver-35e3c5879e?utm_campaign=zep-ethdenver&utm_medium=social&utm_source=twitter\u00a0\u2026",
+            "username": "DennisonBertram",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1090350929512144896": {
+            "id": "1090350929512144896",
+            "text": "Interested in smart-contract security?  Join the Buenos Aires #Ethereum community this Thursday at @areatres for this amazing meetup! With @ZeppelinOrg @decentraland @wearexivis @MakerDAO and @NomicLabs  Sign up here http://bit.ly/2sQL38k\u00a0",
+            "username": "RCN_token",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1089947813180555264": {
+            "id": "1089947813180555264",
+            "text": "This Thursday  Join us at an amazing Ethereum meetup in Buenos Aires with our friends from @decentraland @wearexivis @MakerDAO @RCN_token @NomicLabs in @areatres Sign up here http://meetu.ps/e/GkRks/FSG0S/f\u00a0",
+            "username": "ZeppelinOrg",
+            "num_likes": 22,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1063463145254150147": {
+            "id": "1063463145254150147",
+            "text": "Last call for the $ZEP Token private beta registration, today is the last opportunity!\n\nhttp://bit.ly/2RVk1Hm\u00a0pic.twitter.com/6KeIjqVMBw",
+            "username": "zeppelin_os",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1061226909902749697": {
+            "id": "1061226909902749697",
+            "text": "Thanks for all the support! Many new submissions to participate in the $ZEP Token Private Beta every day :)\n\nRegistration will close on November 16th, hurry up!https://blog.zeppelinos.org/announcing-the-zep-token-private-beta/?utm_source=zeppelinos&utm_medium=social&utm_campaign=zep-token-private-beta\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 33,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1058333666164834310": {
+            "id": "1058333666164834310",
+            "text": "Come meet and greet the #ZeppelinOS and #OpenZeppelin team today at the Mirror Bar, 1st floor, #Devcon4pic.twitter.com/LgVStdncxc",
+            "username": "ZeppelinOrg",
+            "num_likes": 19,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1058000400392032256": {
+            "id": "1058000400392032256",
+            "text": "Announcing ZeppelinOS 2.0! https://blog.zeppelinos.org/zeppelinos-2-0/?utm_source=zeppelin&utm_medium=social&utm_campaign=zeppelinos-2-0\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 61,
+            "num_retweets": 20,
+            "num_replies": 1
+        },
+        "1057950176214765574": {
+            "id": "1057950176214765574",
+            "text": "Today I\u2019m talking about upgradeability and EVM Packages! We also have amazing news to announce about @zeppelin_os! Come and join the talk at Prism in #Devcon4 - 14.00 ",
+            "username": "facuspagnuolo",
+            "num_likes": 26,
+            "num_retweets": 9,
+            "num_replies": 2
+        },
+        "1057920013200429056": {
+            "id": "1057920013200429056",
+            "text": "Join me at Radiant Orchid in #Devcon4 today at 13.24 (sharp!) for a lightning talk on EVM packages, followed by an in-depth @zeppelin_os talk by @facuspagnuolo in Prism at 14:00! \n\nAnd in-between, don't miss @maraoz recap of the Solidity compiler audit at 13.40 in Ultra Violet!",
+            "username": "smpalladino",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1057216627136217088": {
+            "id": "1057216627136217088",
+            "text": "Play our Devcon4 treasure hunt and earn $1200!https://twitter.com/EthHuntDevcon/status/1057215538898878470\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 25,
+            "num_retweets": 7,
+            "num_replies": 0
+        },
+        "1055504255803682816": {
+            "id": "1055504255803682816",
+            "text": "I just wrote \"Getting started with OpenZeppelin-eth: a new stable and upgradeable EVM package\", a step-by-step guide to the newest on-chain version of OpenZeppelinhttps://blog.zeppelin.solutions/getting-started-with-openzeppelin-eth-a-new-stable-and-upgradeable-evm-package-576fb37297d0?utm_source=marto&utm_medium=social&utm_campaign=oz-eth-announcement\u00a0\u2026",
+            "username": "martriay",
+            "num_likes": 63,
+            "num_retweets": 28,
+            "num_replies": 3
+        },
+        "1054368849162915844": {
+            "id": "1054368849162915844",
+            "text": "After 2 years, over 300k downloads and 150+ code contributors, we're super proud and happy to release #OpenZeppelin 2.0.https://blog.zeppelin.solutions/announcing-openzeppelin-2-0-afb70aaa298d?utm_source=zeppelin&utm_medium=social&utm_campaign=openzeppelin-2-0\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 154,
+            "num_retweets": 65,
+            "num_replies": 3
+        },
+        "1041699916257665025": {
+            "id": "1041699916257665025",
+            "text": "Thanks to everyone for coming yesterday to the @zeppelin_os workshop at King's College! It was great to #buidl upgradeable smart contracts with the community \n\nAlso thanks to @aliazam2251 and @extropy_io for helping and @thebc_connector from @work_blockchain for organizing :)pic.twitter.com/XThZrET5Si",
+            "username": "martriay",
+            "num_likes": 37,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1039871715881504773": {
+            "id": "1039871715881504773",
+            "text": "@zeppelin_os meetup is today! See you in a bit at @blueyard offices in Berlinhttps://www.eventbrite.com.ar/e/zeppelinos-meetup-blueyard-tickets-49896181823\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1039463756949008384": {
+            "id": "1039463756949008384",
+            "text": "Come join us tomorrow at @blueyard's offices for the first @zeppelin_os meetup in Berlin!\n\nhttps://www.eventbrite.com.ar/e/zeppelinos-meetup-blueyard-tickets-49896181823?ref=estw\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 33,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1030489956303679491": {
+            "id": "1030489956303679491",
+            "text": "Come hack with us at the ZeppelinOS workshop in Kings College, September 16th! We will learn how to build and manage upgradeable smart contract applications https://twitter.com/work_blockchain/status/1030479354575441922\u00a0\u2026",
+            "username": "martriay",
+            "num_likes": 25,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1029026458562379776": {
+            "id": "1029026458562379776",
+            "text": "Pop open the hood on solidity and read the latest + greatest collaboration by @_ajsantander \u2014  \"Deconstructing a Solidity Contract Part 1: Introduction\" https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 37,
+            "num_retweets": 18,
+            "num_replies": 1
+        },
+        "1018872733449539589": {
+            "id": "1018872733449539589",
+            "text": "\"The Unstructured Storage pattern that is in the final stages of being released as part of #ZeppelinOS appears to be the most mature and tested pattern, and will likely be widely adopted.\"https://blog.indorse.io/ethereum-upgradeable-smart-contract-strategies-456350d0557c\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 36,
+            "num_retweets": 15,
+            "num_replies": 1
+        },
+        "1017828796047810560": {
+            "id": "1017828796047810560",
+            "text": "A journey from \"upgradeable smart contracts to upgradeable applications\" all with ZeppelinOS in this #zepcon0 talk by @frangio_  https://youtu.be/iNuDG-v55qU\u00a0 ",
+            "username": "zeppelin_os",
+            "num_likes": 24,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1016711754204753926": {
+            "id": "1016711754204753926",
+            "text": "\"Upgradeability\" - watch @leanthebean's talk at #zepcon0 https://youtu.be/FzmzUHLiutg\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1014631989159264257": {
+            "id": "1014631989159264257",
+            "text": "We've put out a release candidate for the next version of OpenZeppelin. Join us during the review period!https://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v1.11.0-rc.1\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 38,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "1014131647204098048": {
+            "id": "1014131647204098048",
+            "text": "Getting started with ZeppelinOS - watch @facuspagnuolo's introductory talk at #ETHBuenosAires https://youtu.be/GdBxRogP-G0\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 20,
+            "num_retweets": 9,
+            "num_replies": 0
+        },
+        "1010088938684473344": {
+            "id": "1010088938684473344",
+            "text": "Want to learn more about Smart Contract Security? Join our hands-on workshop @dappcon_berlin led by Facundo @ZeppelinOrg! Get your ticket now https://www.eventbrite.de/e/dappcon-developer-conference-for-ethereum-dapps-infrastructure-tickets-46942479219\u00a0\u2026\n#dappcon #berlinbuidls #Security",
+            "username": "dappcon_berlin",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1011630283869827072": {
+            "id": "1011630283869827072",
+            "text": "I'm listening to the @zeroknowledgefm, with @demibrener and @facuspagnuolo talking about @zeppelin_oshttp://www.zeroknowledge.fm/27\u00a0",
+            "username": "yoelopio",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1009141354159591426": {
+            "id": "1009141354159591426",
+            "text": "You can now read our summary of the first @ethglobal event in Latin America, thanks again to @ethbuenosaires for a great event! #BUIDL #ethereumhttps://medium.com/ethglobal/buidl-ing-in-buenos-aires-6628415c2fe3\u00a0\u2026",
+            "username": "ETHGlobal",
+            "num_likes": 32,
+            "num_retweets": 9,
+            "num_replies": 3
+        },
+        "1009794236542341121": {
+            "id": "1009794236542341121",
+            "text": "Mi entrevista a @ZeppelinOrg en espa\u00f1ol desde Buenos Aires en esta edici\u00f3n de @AgoraChain Donde @demibrener nos cuenta de sus inicios, de @zeppelin_os , TPL, y mas. @maraozhttps://twitter.com/agorachain/status/1009749175297298433\u00a0\u2026",
+            "username": "mariatvidal",
+            "num_likes": 22,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1008905199736508417": {
+            "id": "1008905199736508417",
+            "text": "2 years ago, the DAO was hacked and we learned the importance of security in smart contract development the hard way. We created #OpenZeppelin to fill this gap",
+            "username": "ZeppelinOrg",
+            "num_likes": 60,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1007639551119187969": {
+            "id": "1007639551119187969",
+            "text": "We're looking for someone to lead our amazing global Zeppelin community full-time. If you love what we do and have great communication skills apply here!https://zeppelin.solutions/jobs/community-manager/\u00a0\u2026",
+            "username": "maraoz",
+            "num_likes": 58,
+            "num_retweets": 28,
+            "num_replies": 1
+        },
+        "1006495180277604352": {
+            "id": "1006495180277604352",
+            "text": "I kinda sorta fell in love with Buenos Aires and Argentina during @ethbuenosaires. I felt compelled to write about the experience:https://medium.com/crypto-nyc/the-other-down-under-fc23365befe1\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 80,
+            "num_retweets": 13,
+            "num_replies": 6
+        },
+        "1006518199045775362": {
+            "id": "1006518199045775362",
+            "text": "Finally just published my little summary of @ethbuenosaires in case anyone wants more FOMO than they already have! Enjoy! #hackathon #hackthesouthhttps://medium.com/@helena.flack/from-ethbuenosaires-with-love-b16eaf7eacca\u00a0\u2026",
+            "username": "helsfoftroy",
+            "num_likes": 30,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1005181368463077376": {
+            "id": "1005181368463077376",
+            "text": " WE ARE LIVE! \n\nApplications are now open for India's first ever and Asia's largest @ethereum hackathon. Head to https://ethindia.co\u00a0 to apply & know more about the hackathon. See you in August! \n#ETHIndia #ETHGlobal #Ethereum #BUIDL",
+            "username": "ethindiaco",
+            "num_likes": 98,
+            "num_retweets": 30,
+            "num_replies": 7
+        },
+        "1004797549063081986": {
+            "id": "1004797549063081986",
+            "text": "How to test your upgradeable app with #ZeppelinOShttps://docs.zeppelinos.org/docs/testing.html\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 23,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1004826827326672896": {
+            "id": "1004826827326672896",
+            "text": "I just published the story behind @ethbuenosaires design, take a look!https://medium.com/ethbuenosaires/hack-the-design-89326dcda279\u00a0\u2026",
+            "username": "itsladywhite",
+            "num_likes": 45,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1004351231345725440": {
+            "id": "1004351231345725440",
+            "text": "We've released v1.10.0 of #OpenZeppelin\n\nFeaturing:\n- the `constructor` syntax update\n- adding `renounceOwnership()` to `Ownable`\n- added `Superuser`\n\nThanks a lot to the +120 #OpenZeppelin contributors!https://github.com/OpenZeppelin/openzeppelin-solidity/releases/tag/v1.10.0\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 44,
+            "num_retweets": 13,
+            "num_replies": 0
+        },
+        "1004379439923376128": {
+            "id": "1004379439923376128",
+            "text": "A retrospective of @ethbuenosaires design process is coming up soonpic.twitter.com/CviWxpcqcC",
+            "username": "itsladywhite",
+            "num_likes": 42,
+            "num_retweets": 5,
+            "num_replies": 5
+        },
+        "1004294038856654848": {
+            "id": "1004294038856654848",
+            "text": "This week, @AnnaRRose chats w the awesome ppl & projects @ethbuenosaires  - @cryptowanderer @ethstatus @licuende @AragonProject @MakerDAO @komodoman @liamihorne @nanexcool @gomox_ar @crypt0glitter @pfletcherhill @eordano http://Chainsafe.io\u00a0 http://www.zeroknowledge.fm/28\u00a0pic.twitter.com/vVOnTn8eZb",
+            "username": "zeroknowledgefm",
+            "num_likes": 32,
+            "num_retweets": 15,
+            "num_replies": 4
+        },
+        "1003708629101531136": {
+            "id": "1003708629101531136",
+            "text": "Do you work in #Operations for a #Crypto / #Blockchain Project?\n\nJust created a group for #Ops people in crypto to share tips, applications, and service providers that make life easier! \n\nDM me for an invite :)",
+            "username": "alexa_rwr",
+            "num_likes": 21,
+            "num_retweets": 1,
+            "num_replies": 10
+        },
+        "1003694549875810304": {
+            "id": "1003694549875810304",
+            "text": "Again the @ZeppelinOrg superdev & security researcher @facuspagnuolo :https://youtu.be/b7f75vmCvRA\u00a0",
+            "username": "ethbuenosaires",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1003695054219808768": {
+            "id": "1003695054219808768",
+            "text": "BA Blockchain OG & @ZeppelinOrg CEO @demibrener:https://youtu.be/2A4gR4CR9kM\u00a0",
+            "username": "ethbuenosaires",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1002875293554573313": {
+            "id": "1002875293554573313",
+            "text": "Want to understand more about the thoughts behind @ethstatus after our latest release? Check out my talk from @ethbuenosaires along with awesome others like @simondlr @lrettig @leanthebeanhttps://youtu.be/f6n_z2cQvKI\u00a0",
+            "username": "cryptowanderer",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1002642253914001409": {
+            "id": "1002642253914001409",
+            "text": "Check out my EthBuenosAires workshop talk on how to quickly build crypto-collectibles on Ethereum (using Magic the Gathering cards as an example) from scratch in under half an hour using @openzeppelin https://twitter.com/ethbuenosaires/status/1002612039473336321\u00a0\u2026",
+            "username": "leanthebean",
+            "num_likes": 78,
+            "num_retweets": 18,
+            "num_replies": 4
+        },
+        "1002192152468828160": {
+            "id": "1002192152468828160",
+            "text": "Contract ZepToken is Eatable {\n}\n@zeppelin_ospic.twitter.com/sYnZkSrFmz",
+            "username": "andre_brener",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1002580336763637761": {
+            "id": "1002580336763637761",
+            "text": "Love it @cryptowanderer https://blog.status.im/ethbuenosaires-community-matters-3b05a32a48da\u00a0\u2026",
+            "username": "mariatvidal",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1002646922035949568": {
+            "id": "1002646922035949568",
+            "text": "Introducing the Transaction Permission Layer (TPL) Protocolhttps://blog.zeppelin.solutions/introducing-the-transaction-permission-layer-tpl-protocol-358f28cfff40\u00a0\u2026",
+            "username": "ZeppelinOrg",
+            "num_likes": 71,
+            "num_retweets": 26,
+            "num_replies": 1
+        },
+        "1002615542170169344": {
+            "id": "1002615542170169344",
+            "text": "ATTENTION: LEGAL STUFF- REALLY IMPORTANT - Self Regulation Pane with @demibrener @mariatvidal, Mar\u00eda Gomez and moderated by the one and only @evan_van_ness :https://youtu.be/BavCz4kd3NU\u00a0",
+            "username": "ethbuenosaires",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1002615854582915078": {
+            "id": "1002615854582915078",
+            "text": "Token Design and Distribution Panel feat @RaffiSapire, @zfran, @wen_xs, @mZargham and @teempai :https://youtu.be/SooDvvrXYNw\u00a0",
+            "username": "ethbuenosaires",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1002616040394756096": {
+            "id": "1002616040394756096",
+            "text": "And last but certainly not least: ALL GIVE IT UP FOR THE WINNERS!https://youtu.be/mxFrq_kGUFU\u00a0",
+            "username": "ethbuenosaires",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1002595702457978882": {
+            "id": "1002595702457978882",
+            "text": "If you want to understand blockchain scaling in 2018 check out my talk from @ethbuenosaires including sharding, Plasma, @Truebitprotocol, @raiden_network, @lightning, @statechannels, @cosmos, @polkadotnetwork in a whirlwind 30m talk. Tell me what I missed!https://www.youtube.com/watch?v=rnkqMSLuPHA&feature=youtu.be\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 82,
+            "num_retweets": 15,
+            "num_replies": 7
+        },
+        "1002600618727559168": {
+            "id": "1002600618727559168",
+            "text": "My Curation Markets talk at @ethbuenosaires. https://www.youtube.com/watch?v=Xid6lse83BE\u00a0\u2026! Was fun.",
+            "username": "simondlr",
+            "num_likes": 29,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1002604415134642176": {
+            "id": "1002604415134642176",
+            "text": "If you missed @facuspagnuolo's talk at @ethbuenosaires explaining how to get started with #ZeppelinOS, you can now watch the recording!https://www.youtube.com/watch?v=GdBxRogP-G0\u00a0\u2026",
+            "username": "zeppelin_os",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1002617892318384130": {
+            "id": "1002617892318384130",
+            "text": "My intro to dApp dev workshop from @ethbuenosaires I walk through a simple commit-reveal voting app (only meant to illustrate the commit-reveal mechanism, but does not seek to address problems like full voter secrecy - will need some fancier crypto for that!)https://twitter.com/ethbuenosaires/status/1002612217441865728\u00a0\u2026",
+            "username": "YondonFu",
+            "num_likes": 17,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1002108867050921984": {
+            "id": "1002108867050921984",
+            "text": "Thanks @trustnodes for the great & detailed article! #hackthesouth #ethbuenosaireshttps://www.trustnodes.com/2018/05/28/ethereum-debuts-argentina-300-devs-participating-ethbuenosaires-hackathon\u00a0\u2026",
+            "username": "ethbuenosaires",
+            "num_likes": 42,
+            "num_retweets": 13,
+            "num_replies": 1
+        },
+        "1002218143425613824": {
+            "id": "1002218143425613824",
+            "text": "If you have any questions on how to use #ZeppelinOS join us on Slack.\n\nhttps://openzeppelin.slack.com/\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1001992774412132352": {
+            "id": "1001992774412132352",
+            "text": "As @trembleice announced, we (+ @GrahamKaemmer @danielque), built \u00a0Kimono at @ethbuenosaires. It's a new protocol for trustless, time-locked secret sharing on @ethereum. After catching up on sleep, we've published a full run-down of the project:https://medium.com/@pfh/kimono-trustless-secret-sharing-using-time-locks-on-ethereum-8e7e696494d\u00a0\u2026",
+            "username": "pfletcherhill",
+            "num_likes": 47,
+            "num_retweets": 14,
+            "num_replies": 6
+        },
+        "1000883312074911744": {
+            "id": "1000883312074911744",
+            "text": "With the @ethbuenosaires after party, Strange Brewing is officially part of the crypto family pic.twitter.com/lGfQRXSvkY",
+            "username": "cburniske",
+            "num_likes": 79,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1001121734517559297": {
+            "id": "1001121734517559297",
+            "text": "The hacking tables may now be empty, but our hacker hearts are full. Muchas Gracias @ETHBuenosAires por todo! Such a GREAT hackathon! So many incredible projects and so many amazing people - see you all at the next one! #BUIDLpic.twitter.com/Gm25mu5O3C",
+            "username": "ETHGlobal",
+            "num_likes": 66,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1001881740179394560": {
+            "id": "1001881740179394560",
+            "text": "Coming to you all the way from #buenosaires- we sit down w @facuspagnuolo & @demibrener from the @ZeppelinOrg team to chat about developer experience, upgradability, @zeppelin_os + openZeppelin - the products they developed to make smart contracts saferhttp://www.zeroknowledge.fm/27\u00a0",
+            "username": "zeroknowledgefm",
+            "num_likes": 35,
+            "num_retweets": 14,
+            "num_replies": 0
+        },
+        "1001926482753654786": {
+            "id": "1001926482753654786",
+            "text": "With #ZeppelinOS you can use OpenZeppelin standard library on-chain. Get Started!https://docs.zeppelinos.org/docs/using.html\u00a0",
+            "username": "zeppelin_os",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1001512182465683457": {
+            "id": "1001512182465683457",
+            "text": "We had a great time at #zepcon0, there's been an amazing vibe in the community since @ethbuenosaires. Thank you all for coming!pic.twitter.com/Xz5NIa54HN",
+            "username": "ZeppelinOrg",
+            "num_likes": 38,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1001633627208388609": {
+            "id": "1001633627208388609",
+            "text": "Soy de Venezuela y vine a Argentina queriendo seguir haciendo lo que m\u00e1s me gusta: fotograf\u00eda y video para marcas, emprendimientos, eventos, personas. No lo he logrado, entre otras cosas, por falta de contactos. Me ayudas con un RT? Quiz\u00e1s puedo llegar a alguien m\u00e1s! Gracias!pic.twitter.com/jelcRcRkil",
+            "username": "VaneNucete",
+            "num_likes": 728,
+            "num_retweets": 2443,
+            "num_replies": 67
+        },
+        "1000796079540097024": {
+            "id": "1000796079540097024",
+            "text": "Disclaimer: the #ETHBuenosAires twitter is not handled by Zeppelin so we get to shill the s*** outta this team: YOU GUYS ARE AWESOME. Thanks for allowing us to be a part of this and most importantly, playing such a great part as organizing the first @ETHGlobal event in LATAM pic.twitter.com/FykyDUL8GG",
+            "username": "ethbuenosaires",
+            "num_likes": 77,
+            "num_retweets": 15,
+            "num_replies": 0
+        },
+        "1000537645477490688": {
+            "id": "1000537645477490688",
+            "text": "A quite important aspect we've noticed in this particular hackathon, is how many women are buidling, organising, volunteering, sponsoring and basically re-enforcing the message that diversity in this ecosystem is happening and we're making progress :)pic.twitter.com/UHQsmUyHLz",
+            "username": "ethbuenosaires",
+            "num_likes": 86,
+            "num_retweets": 31,
+            "num_replies": 0
+        },
+        "1000867853938118657": {
+            "id": "1000867853938118657",
+            "text": "HOLY S**** IT\u2019S OVER! Let\u2019s do this - can we just pretend #ETHBuenosAires didn\u2019t happen and do it again in a never-ending loop????pic.twitter.com/JXA56uTF77",
+            "username": "ethbuenosaires",
+            "num_likes": 30,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "943331500988293120": {
+            "id": "943331500988293120",
+            "text": "Tengo que sumir la panza siempre que te veo y \u00bfa\u00fan as\u00ed preguntas si me gustas?.",
+            "username": "_tiofrank",
+            "num_likes": 37,
+            "num_retweets": 12,
+            "num_replies": 0
+        },
+        "950781979712278528": {
+            "id": "950781979712278528",
+            "text": "Drop al MD\n\n1 FA CON CAPITA OF\n\nSigue: @ZuperAlts @ZuperAccounts @Johan_Alts @AltsJesus @GamerSebas64 \nEnd: 9m\n\nDAR FAV\n\nSuertepic.twitter.com/uWXGmw3ZtK",
+            "username": "AdelLanzaOfc",
+            "num_likes": 130,
+            "num_retweets": 75,
+            "num_replies": 26
+        },
+        "950751980376461312": {
+            "id": "950751980376461312",
+            "text": "Intentaba cruzar por una paso no habilitado con varias c\u00e1psulas de coca\u00edna escondidas en el desorden de su mochila. Las incautamos y lo detuvimos. Ninguna incautaci\u00f3n es menor: cada gramo que sacamos de la calle es un paso adelante hacia una #ArgentinaSinNarcotr\u00e1ficopic.twitter.com/6Hl055FR3M",
+            "username": "PatoBullrich",
+            "num_likes": 1824,
+            "num_retweets": 727,
+            "num_replies": 57
+        },
+        "950741773940346880": {
+            "id": "950741773940346880",
+            "text": "Me dorm\u00ed en la cama de mam\u00e1 y me levant\u00e9 en la m\u00eda, alto zombie",
+            "username": "TrucidoBrian",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "949014677102743552": {
+            "id": "949014677102743552",
+            "text": "https://goo.gl/images/LVQ64J\u00a0",
+            "username": "ReyesRe67387405",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "tweeted": {
+        "1073354902611611653": {
+            "id": "1073354902611611653",
+            "text": "Introducing ETH BA community with @zfran (@NomicLabs), @nanexcool (@MakerDAO), @agustin90f (@wearexivis), @mrnventuro (@ZeppelinOrg), @nachomazzara (@decentraland) and @Agusx1211 (@RCN_token) pic.twitter.com/wlpT4bvlyk",
+            "username": "ornellacordoba",
+            "num_likes": 16,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1057983773302755328": {
+            "id": "1057983773302755328",
+            "text": "Now at #Devcon4! @facuspagnuolo talking about upgradeability and EVM Packages! We have amazing news to announce about @zeppelin_os!pic.twitter.com/Rd83KSctb4",
+            "username": "ornellacordoba",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057976756827762689": {
+            "id": "1057976756827762689",
+            "text": "Now at #DevCon4, @maraoz from @ZeppelinOrg talking about Solidity compiler Audit pic.twitter.com/N440UWTWmo",
+            "username": "ornellacordoba",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057727080769699841": {
+            "id": "1057727080769699841",
+            "text": "Now at @fabric_vc\u2019s meetup, with @facuspagnuolo from @zeppelin_os, @mathsguy from @joincolony and @lftherios from @oscoinpic.twitter.com/7Gaqh4B2ef",
+            "username": "ornellacordoba",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "ZeppelinOrg": 17,
+        "DennisonBertram": 2,
+        "smpalladino": 2,
+        "RCN_token": 1,
+        "zeppelin_os": 10,
+        "facuspagnuolo": 1,
+        "martriay": 3,
+        "dappcon_berlin": 1,
+        "yoelopio": 1,
+        "ETHGlobal": 2,
+        "mariatvidal": 2,
+        "maraoz": 1,
+        "lrettig": 2,
+        "helsfoftroy": 1,
+        "ethindiaco": 1,
+        "itsladywhite": 2,
+        "zeroknowledgefm": 2,
+        "alexa_rwr": 1,
+        "ethbuenosaires": 9,
+        "cryptowanderer": 1,
+        "leanthebean": 1,
+        "andre_brener": 1,
+        "simondlr": 1,
+        "YondonFu": 1,
+        "pfletcherhill": 1,
+        "cburniske": 1,
+        "VaneNucete": 1,
+        "_tiofrank": 1,
+        "AdelLanzaOfc": 1,
+        "PatoBullrich": 1,
+        "TrucidoBrian": 1,
+        "ReyesRe67387405": 1
+    },
+    "users_retweeted": [
+        "ZeppelinOrg",
+        "zeppelin_os",
+        "ethbuenosaires",
+        "martriay",
+        "DennisonBertram",
+        "smpalladino",
+        "ETHGlobal",
+        "mariatvidal",
+        "lrettig",
+        "itsladywhite",
+        "zeroknowledgefm",
+        "RCN_token",
+        "facuspagnuolo",
+        "dappcon_berlin",
+        "yoelopio",
+        "maraoz",
+        "helsfoftroy",
+        "ethindiaco",
+        "alexa_rwr",
+        "cryptowanderer",
+        "leanthebean",
+        "andre_brener",
+        "simondlr",
+        "YondonFu",
+        "pfletcherhill",
+        "cburniske",
+        "VaneNucete",
+        "_tiofrank",
+        "AdelLanzaOfc",
+        "PatoBullrich",
+        "TrucidoBrian",
+        "ReyesRe67387405"
+    ]
+}

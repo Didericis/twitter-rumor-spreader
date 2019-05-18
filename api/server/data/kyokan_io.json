@@ -1,0 +1,240 @@
+{
+    "is_complete": true,
+    "username": "kyokan_io",
+    "retweeted": {
+        "1123038379380215811": {
+            "id": "1123038379380215811",
+            "text": " Two weeks into his work on Uniswap, @NoahZinsmeister has already reworked most of the frontend codebase. \n\n Expect lots of improvements and bug fixes in the near future!https://twitter.com/NoahZinsmeister/status/1123036511170170880\u00a0\u2026",
+            "username": "UniswapExchange",
+            "num_likes": 35,
+            "num_retweets": 3,
+            "num_replies": 4
+        },
+        "1102661411392479232": {
+            "id": "1102661411392479232",
+            "text": "Hot on the heels of our audit, I'm very excited to announce the alpha release of our Plasma MVP network on mainnet:https://medium.com/kyokan-llc/announcing-our-plasma-mvp-alpha-23a8bc9673fc\u00a0\u2026",
+            "username": "mslipper",
+            "num_likes": 157,
+            "num_retweets": 49,
+            "num_replies": 9
+        },
+        "1063123978489880576": {
+            "id": "1063123978489880576",
+            "text": " Uniswap makes it incredibly easy to trade between any ERC20 pair on mobile or desktop. \n\nWatch a @MakerDAO #MKR to #DAI swap using a mobile wallet!  \n\n Learn more at http://uniswap.io\u00a0pic.twitter.com/6iKWs6A5jK",
+            "username": "UniswapExchange",
+            "num_likes": 108,
+            "num_retweets": 24,
+            "num_replies": 3
+        },
+        "1060297134124130304": {
+            "id": "1060297134124130304",
+            "text": "Yes, we announced a mobile app at Devcon 4! No, it\u2019s not available yet!\n\nWe\u2019ve seen an increase in mobile phishers, so watch out! We\u2019ll be releasing the app early next year, you will be able to find it here or on our official sitehttp://metamask.io\u00a0",
+            "username": "metamask_io",
+            "num_likes": 317,
+            "num_retweets": 105,
+            "num_replies": 15
+        },
+        "1060404398210383873": {
+            "id": "1060404398210383873",
+            "text": "Thiago Belem, one of KYOKAN's engineers working on @DecentralizedML's backend + smart contracts, on Elixir + signing messages in ethereumhttps://medium.com/@thiagobelem/signing-ethereum-messages-on-elixir-a494632f59b9\u00a0\u2026",
+            "username": "sdtsui",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1059906373905985536": {
+            "id": "1059906373905985536",
+            "text": "Well done, @peter_szilagyi -- impressed at the turnaround on this after discussions in Prague.\n\n/cc @rv_inc @mslipper",
+            "username": "sdtsui",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1058406282133151744": {
+            "id": "1058406282133151744",
+            "text": "If you're looking for the best UX for on-chain exchange, this is it.https://twitter.com/haydenzadams/status/1058376395108376577\u00a0\u2026",
+            "username": "Arjun_Bhuptani",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1058416256452345856": {
+            "id": "1058416256452345856",
+            "text": " Oh right, huge shoutout to Vyper. its the best \n Also a huge shoutout to @rv_inc for formalizing the uniswap constant product market maker model:\n\nhttps://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf\u00a0\u2026\n\u00a0And a huge shoutout to @_callil for UX and @kyokan_io for frontend workhttps://twitter.com/fubuloubu/status/1058409587441889280\u00a0\u2026",
+            "username": "haydenzadams",
+            "num_likes": 29,
+            "num_retweets": 5,
+            "num_replies": 2
+        },
+        "1058376395108376577": {
+            "id": "1058376395108376577",
+            "text": "1/ Excited to announce the launch of @UniswapExchange ! It's a protocol for automated exchange of ERC20 tokens on Ethereum. https://uniswap.io/\u00a0",
+            "username": "haydenzadams",
+            "num_likes": 291,
+            "num_retweets": 74,
+            "num_replies": 20
+        },
+        "981313025444491264": {
+            "id": "981313025444491264",
+            "text": "We had a blast yesterday launching the world's first #Ethereum production payment channel deployment and our camsite closed beta! Even though we're neck deep in work, we're excited and gearing up for the upcoming shows!pic.twitter.com/yEw9I9iIUZ",
+            "username": "SpankChain",
+            "num_likes": 86,
+            "num_retweets": 24,
+            "num_replies": 4
+        },
+        "980919787286036493": {
+            "id": "980919787286036493",
+            "text": "The world's first #ETHEREUM production payment channel deployment by @SpankChain - and a great performance by @PennyTrait. The future looks bright. @JasnaTod @WillDyess @williamb3ntley @woleverpic.twitter.com/yLdzWqw6kp",
+            "username": "ameensol",
+            "num_likes": 99,
+            "num_retweets": 29,
+            "num_replies": 4
+        },
+        "978761408748732417": {
+            "id": "978761408748732417",
+            "text": "We are happy to announce that our Camsite Beta will go live next week! To learn more, please click the following link --> https://medium.com/spankchain/announcing-spankchains-camsite-beta-acbd97fef0a5\u00a0\u2026pic.twitter.com/VGvs6tOtJm",
+            "username": "SpankChain",
+            "num_likes": 222,
+            "num_retweets": 64,
+            "num_replies": 13
+        },
+        "980598003701395456": {
+            "id": "980598003701395456",
+            "text": "Proud to announce that @SpankChain has officially open sourced the SpankCard: an in-browser #ETHEREUM wallet with support for payment channels. Big thanks to @machinomy @ukstv @kyokan_io @mslipper and the rest of the team for making this happen.https://github.com/SpankChain/SpankCard\u00a0\u2026",
+            "username": "ameensol",
+            "num_likes": 179,
+            "num_retweets": 42,
+            "num_replies": 5
+        },
+        "974710551912812545": {
+            "id": "974710551912812545",
+            "text": ".@AlethioEthstats is lighting up the blockchain. Find out more about their #ethereum analytics platform at http://aleth.io\u00a0.pic.twitter.com/eplLi6by3G",
+            "username": "ConsenSys",
+            "num_likes": 38,
+            "num_retweets": 20,
+            "num_replies": 0
+        },
+        "969316682283003905": {
+            "id": "969316682283003905",
+            "text": "Check out our latest development update! https://medium.com/@gladiusio/gladius-development-update-5-03-01-89a154ff4c\u00a0\u2026",
+            "username": "gladiusIO",
+            "num_likes": 312,
+            "num_retweets": 281,
+            "num_replies": 32
+        },
+        "968578466097512448": {
+            "id": "968578466097512448",
+            "text": "[NEW!] We just released our new, portable Solidity debugger! Check it out: http://truffleframework.com/blog/announcing-full-portable-solidity-debugger\u00a0\u2026 (We're giddy!)pic.twitter.com/YRU5ZqJNLM",
+            "username": "trufflesuite",
+            "num_likes": 147,
+            "num_retweets": 81,
+            "num_replies": 3
+        },
+        "968873971138482177": {
+            "id": "968873971138482177",
+            "text": "MetaMask\u2019s New UI Has Begun to Roll Out! Watch for a \u201cTry Beta!\u201d item in the top right menu of your MetaMask, and give any feedback!https://medium.com/metamask/metamasks-new-ui-has-begun-to-roll-out-74dba32cc7f7?source=twitterShare-9cdd320de5c9-1519831924\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 164,
+            "num_retweets": 61,
+            "num_replies": 21
+        },
+        "964549933649965056": {
+            "id": "964549933649965056",
+            "text": "Nice intro article! And what a stylish blue @verified!https://twitter.com/bitfalls/status/964516821738037249\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 40,
+            "num_retweets": 9,
+            "num_replies": 5
+        },
+        "963166942260445184": {
+            "id": "963166942260445184",
+            "text": "#plasma Implementer's Call #2https://www.youtube.com/watch?v=c_Z8F6FUJxU\u00a0\u2026",
+            "username": "sdtsui",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "957005367640125443": {
+            "id": "957005367640125443",
+            "text": "Hey @firefox, this is VERY cool of you. We\u2019ll try to make you proud!https://twitter.com/jrdprr/status/957002131067850752\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 268,
+            "num_retweets": 74,
+            "num_replies": 5
+        },
+        "941440723739598848": {
+            "id": "941440723739598848",
+            "text": "I dunno, lots of debates of what a good gas guide looks like, but one glance at this and I got a near-instant tx processed at near-bottom prices\u2026\n\nhttps://danfinlay.github.io/eth-gas-price-visuals/\u00a0\u2026",
+            "username": "danfinlay",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "935308684057395200": {
+            "id": "935308684057395200",
+            "text": "Finally got around to downloading @trufflesuite Ganache. Better than testrpc in every way. Recommended without nuance or exception.https://github.com/trufflesuite/ganache\u00a0\u2026",
+            "username": "crypto_dev_alex",
+            "num_likes": 32,
+            "num_retweets": 14,
+            "num_replies": 1
+        },
+        "939619070177095683": {
+            "id": "939619070177095683",
+            "text": "Check out that spike! Just like the Ethereum network, the @infura_io team has been tackling our own scaling challenges this week. We appreciate your patience and want to give a shoutout to the @metamask_io and @CryptoKitties teams for bringing all the new users into the ecosystempic.twitter.com/b4XW5nuDss",
+            "username": "infura_io",
+            "num_likes": 116,
+            "num_retweets": 33,
+            "num_replies": 4
+        },
+        "940050090265210880": {
+            "id": "940050090265210880",
+            "text": "Yes\u2026 \u201caccidentally\u201d\u2026  https://twitter.com/masonic_tweets/status/939552918893617152\u00a0\u2026",
+            "username": "metamask_io",
+            "num_likes": 199,
+            "num_retweets": 39,
+            "num_replies": 3
+        }
+    },
+    "tweeted": {
+        "1003800891877539840": {
+            "id": "1003800891877539840",
+            "text": "We are hiring backend engineer! Please apply or share if you know anyone that might be interested! https://angel.co/kyokan/jobs/364677-backend-software-engineer\u00a0\u2026",
+            "username": "kyokan_io",
+            "num_likes": 1,
+            "num_retweets": 2,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "UniswapExchange": 2,
+        "mslipper": 1,
+        "metamask_io": 5,
+        "sdtsui": 3,
+        "Arjun_Bhuptani": 1,
+        "haydenzadams": 2,
+        "SpankChain": 2,
+        "ameensol": 2,
+        "ConsenSys": 1,
+        "gladiusIO": 1,
+        "trufflesuite": 1,
+        "danfinlay": 1,
+        "crypto_dev_alex": 1,
+        "infura_io": 1
+    },
+    "users_retweeted": [
+        "metamask_io",
+        "sdtsui",
+        "UniswapExchange",
+        "haydenzadams",
+        "SpankChain",
+        "ameensol",
+        "mslipper",
+        "Arjun_Bhuptani",
+        "ConsenSys",
+        "gladiusIO",
+        "trufflesuite",
+        "danfinlay",
+        "crypto_dev_alex",
+        "infura_io"
+    ]
+}

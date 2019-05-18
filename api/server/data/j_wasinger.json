@@ -1,0 +1,708 @@
+{
+    "is_complete": true,
+    "username": "j_wasinger",
+    "retweeted": {
+        "1123614703513554944": {
+            "id": "1123614703513554944",
+            "text": "This week on The Ethereum Classic show, we sit down with @jake_theripper to talk about eWasm & SputnikVM JIT. Tune in to catch the full interview!\n\n#Blockchain #ethereumclassic #softwaredevelopment #interview #Developer #Crypto #tech #technewshttps://www.youtube.com/watch?v=_DscBiKMwNk&t=1064s\u00a0\u2026",
+            "username": "etclabs",
+            "num_likes": 32,
+            "num_retweets": 12,
+            "num_replies": 3
+        },
+        "1120906784544296961": {
+            "id": "1120906784544296961",
+            "text": "AWS is not about paying for what you use, it\u2019s about paying for what you forgot to turn off.",
+            "username": "deadprogrammer",
+            "num_likes": 12659,
+            "num_retweets": 3245,
+            "num_replies": 175
+        },
+        "1112420175926738944": {
+            "id": "1112420175926738944",
+            "text": "I think you mistake \"coming to consensus\" with \"everyone in agreement\". There will be some people that did not get their preferred outcome. If you want a system where, after a decision, everyone is happy and nobody has anything more to say, you will be disappointed",
+            "username": "mhswende",
+            "num_likes": 31,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1111737265426976768": {
+            "id": "1111737265426976768",
+            "text": "The Boeing 737 MAX 8 tragedy is likely to become the most significant software glitch in history. $125M is a lot of money but it doesn't hold a candle to the tragic loss of 346 lives. Yes, it looks like politics played a role too, but it's very likely it was mostly software.",
+            "username": "lrettig",
+            "num_likes": 17,
+            "num_retweets": 1,
+            "num_replies": 3
+        },
+        "1109650855618326529": {
+            "id": "1109650855618326529",
+            "text": "Dead serious. Enjoyability is one of the key retention metrics for high level talent. Mind-labor is especially sensitive to the presence of interesting problems, smart and open-minded collaborators, and eventual objective validation. Many such people are even volunteers.",
+            "username": "technocrypto",
+            "num_likes": 12,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1108755319851614208": {
+            "id": "1108755319851614208",
+            "text": "Picard management tip: A visit to a less pleasant organization can remind you how much you value your current job.pic.twitter.com/Fwg3aLqNaN",
+            "username": "PicardTips",
+            "num_likes": 2631,
+            "num_retweets": 763,
+            "num_replies": 10
+        },
+        "1108461353755467786": {
+            "id": "1108461353755467786",
+            "text": "write once, run anywhere is a dead meme.\nthis was solved like maybe 20-30 years ago with standard C and conditional compilation for OS-specific API calls.",
+            "username": "jake_theripper",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1108337697184190464": {
+            "id": "1108337697184190464",
+            "text": "This economy stopped working for most people years ago. Unfortunately the winner-take-all dynamics are about to accelerate as technology and capital converge. The question is what to do about it.",
+            "username": "AndrewYang",
+            "num_likes": 2842,
+            "num_retweets": 521,
+            "num_replies": 160
+        },
+        "1107615703098626048": {
+            "id": "1107615703098626048",
+            "text": "I just published The broken EIP security incentivehttps://medium.com/p/the-broken-eip-security-incentive-71fbdf25ab02\u00a0\u2026",
+            "username": "DeanEigenmann",
+            "num_likes": 52,
+            "num_retweets": 12,
+            "num_replies": 10
+        },
+        "1106693502614671361": {
+            "id": "1106693502614671361",
+            "text": "Beto being a script kiddie in the 90s doesn't have much to do with him being a right-leaning democrat in 2019. It's a funny story but ultimately it's a distraction from the issues. Pay attention to his voting record.",
+            "username": "ungoldman",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1106609385596313600": {
+            "id": "1106609385596313600",
+            "text": "I'm going to pistol whip the next person who says governance.",
+            "username": "0xzak",
+            "num_likes": 36,
+            "num_retweets": 2,
+            "num_replies": 8
+        },
+        "1105845659020787718": {
+            "id": "1105845659020787718",
+            "text": "Wow, finally we have basic support for EVMC in Rust: https://github.com/ethereum/evmc/pull/201\u00a0\u2026\n\nStarting to do cool code with @jake_theripper, @chfast and @j_wasinger on this.",
+            "username": "alexberegszaszi",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1105131411411886081": {
+            "id": "1105131411411886081",
+            "text": "SF typical career path:\n\n18: Go to Harvard or Stanford for CS.\n\n22: Work at FAANG companies.\n\n25: Quit and raise millions for your startup.\n\n26: Sell your company to a FAANG company.\n\n28: Join a VC firm, invest in people like you, and make predictions on Twitter all day.",
+            "username": "TheLexTimes",
+            "num_likes": 8829,
+            "num_retweets": 1371,
+            "num_replies": 114
+        },
+        "1104780377237999618": {
+            "id": "1104780377237999618",
+            "text": "hot dogs are zero knowledge meat\ncc @zooko",
+            "username": "jake_theripper",
+            "num_likes": 87,
+            "num_retweets": 12,
+            "num_replies": 7
+        },
+        "1104690108933046272": {
+            "id": "1104690108933046272",
+            "text": "Doing some real good evaluation of #ewasm options with the team.\n\nWe have more columns, regarding complexity and usability. Will share these later.pic.twitter.com/074L1Uybhz",
+            "username": "alexberegszaszi",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1103986073800065024": {
+            "id": "1103986073800065024",
+            "text": "Made it. Barely.pic.twitter.com/oKEvwYj12m",
+            "username": "lrettig",
+            "num_likes": 14,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1103616623062278144": {
+            "id": "1103616623062278144",
+            "text": "The #Ewasm workshop kicks off at #EthCC. @j_wasinger shows the first results of benchmarking work: SHA1 in interpreted and compiled Wasm vs EVM.  to @cdetrio and other @EthereumWASM team members for massive work on this.pic.twitter.com/bIhXJRHRr2",
+            "username": "lrettig",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 1
+        },
+        "1102582420900114432": {
+            "id": "1102582420900114432",
+            "text": "me at 19: why would someone with a cool stem degree want to sell kombucha at the farmers market or run a yarn store?\n\nme at 30: ohhhhhhhh",
+            "username": "zuph",
+            "num_likes": 23712,
+            "num_retweets": 3804,
+            "num_replies": 91
+        },
+        "1100214696823664640": {
+            "id": "1100214696823664640",
+            "text": "fuckhttps://twitter.com/CNN/status/586492807239569408\u00a0\u2026",
+            "username": "HenryKrinkIe",
+            "num_likes": 1819,
+            "num_retweets": 246,
+            "num_replies": 289
+        },
+        "1098663195730997249": {
+            "id": "1098663195730997249",
+            "text": "All the weird shit that has been happening in the #Ethereum subreddit and #AfriGate feels very much like an astroturf campaign. Just one man's opinion.",
+            "username": "josephdelong",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1098627172233732096": {
+            "id": "1098627172233732096",
+            "text": "Thank you @ethereum grants team for supporting G\u00f6rli!https://blog.ethereum.org/2019/02/21/ethereum-foundation-grants-program-wave-5/\u00a0\u2026",
+            "username": "ChainSafeth",
+            "num_likes": 45,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1097476449097998339": {
+            "id": "1097476449097998339",
+            "text": "https://medium.com/@gballet/ewasm-1-x-precompiles-part-1-66ee7e7345d1\u00a0\u2026",
+            "username": "gballet",
+            "num_likes": 17,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1097269060776136706": {
+            "id": "1097269060776136706",
+            "text": "I'm so angry and disappointed in the Ethereum community. You ran out one of our best contributors for the dumbest reasons. More people should have spoken up in support and there needs to be less vitriol. https://twitter.com/5chdn/status/1097228987871436800\u00a0\u2026",
+            "username": "hudsonjameson",
+            "num_likes": 353,
+            "num_retweets": 61,
+            "num_replies": 32
+        },
+        "1084125112918392832": {
+            "id": "1084125112918392832",
+            "text": "Just finished a 2 hour long Chinese community AMA on the upcoming Constantinople upgrade with @lrettig\nis the LMAO  moment when Lane tried to say \u201cthird party\u201d in Chinese but instead said \u201cmistress/third wheel\u201d \n\nLane is great  in confidently using Chinese whenever he canpic.twitter.com/V2BErn7mEw",
+            "username": "DoveyWan",
+            "num_likes": 74,
+            "num_retweets": 7,
+            "num_replies": 7
+        },
+        "1080180301794607104": {
+            "id": "1080180301794607104",
+            "text": "Social contracts that cannot be upheld for very long time due to technological limitations should not carry too much weight, I would say. No amount of campaigning can change laws of mathematics and physics",
+            "username": "realLedgerwatch",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1076171364166443008": {
+            "id": "1076171364166443008",
+            "text": "This is the Ulam Spiral. All the dots are prime numbers, placed on a square lattice of integers. Nobody knows why these patterns emerge.pic.twitter.com/qIPloo1tpV",
+            "username": "jinglanW",
+            "num_likes": 4868,
+            "num_retweets": 1516,
+            "num_replies": 131
+        },
+        "1072946720609353729": {
+            "id": "1072946720609353729",
+            "text": "They said to \"only invest what you can afford to lose\" so I only invested my retirement funds, my career, and my reputation.pic.twitter.com/niK9o2KpCk",
+            "username": "lopp",
+            "num_likes": 2424,
+            "num_retweets": 434,
+            "num_replies": 75
+        },
+        "1070830209325121536": {
+            "id": "1070830209325121536",
+            "text": "Saw the commotion on Twitter & dug into this. Coinbase filed the trademark for BUIDL some time back. I learned about it today & chatted with team. TLDR is that @brian_armstrong & I don\u2019t believe in trademarks for stuff like this so we\u2019ll be giving this one back to the community.",
+            "username": "balajis",
+            "num_likes": 584,
+            "num_retweets": 89,
+            "num_replies": 42
+        },
+        "1068085054260293632": {
+            "id": "1068085054260293632",
+            "text": "pic.twitter.com/KsbAWgVXJv",
+            "username": "HumansOfLate",
+            "num_likes": 2139,
+            "num_retweets": 654,
+            "num_replies": 19
+        },
+        "1068079708171051008": {
+            "id": "1068079708171051008",
+            "text": "Time for a new politics! Sign me up! @RadxChange #ethereanhttps://twitter.com/avsa/status/1067919535037181957\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1067341220307980289": {
+            "id": "1067341220307980289",
+            "text": "I think we may have found the perfect time and place for an #Ewasm team sprint: Ireland in November. The stark landscape of the wet, chilly autumn morning wind and fog is the perfect contrast to the warmth of the coffee and code inside. We'll be productive here indeed pic.twitter.com/eXVeZRDKd6",
+            "username": "lrettig",
+            "num_likes": 51,
+            "num_retweets": 4,
+            "num_replies": 7
+        },
+        "1066784086889504768": {
+            "id": "1066784086889504768",
+            "text": "pic.twitter.com/9nmpiQWg7l",
+            "username": "MikeKMorrison",
+            "num_likes": 4231,
+            "num_retweets": 954,
+            "num_replies": 21
+        },
+        "1066768151894007809": {
+            "id": "1066768151894007809",
+            "text": "#humansoflatecapitalismpic.twitter.com/QKp0ICBHOE",
+            "username": "HumansOfLate",
+            "num_likes": 407,
+            "num_retweets": 73,
+            "num_replies": 1
+        },
+        "1066670926274674688": {
+            "id": "1066670926274674688",
+            "text": "The meeting was about layer 0. You are not building layer 0 and have absolutely no clue about the struggle. Vitalik and Joe have no clue about the struggle either. At the moment there are less than 10 people in the world who get it. Build a working client first, then preach.",
+            "username": "peter_szilagyi",
+            "num_likes": 77,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1054061078748020736": {
+            "id": "1054061078748020736",
+            "text": "using wagon, geth just had its first successful sync of the #ewasm testnet https://github.com/ethereum/go-ethereum/pull/16957\u00a0\u2026 ! A lot of cleanup work ahead, happy to see the light at the end of the tunnel though.",
+            "username": "gballet",
+            "num_likes": 6,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1066151076695396353": {
+            "id": "1066151076695396353",
+            "text": "My long-form take on Ethereum 1.x:https://ethereum-magicians.org/t/ethereum-1-dot-x-a-half-baked-roadmap-for-mainnet-improvements/1995\u00a0\u2026",
+            "username": "cdetrio",
+            "num_likes": 137,
+            "num_retweets": 49,
+            "num_replies": 3
+        },
+        "1064034649679118336": {
+            "id": "1064034649679118336",
+            "text": "More than being just another testnet, Goerli is proving to be a great environment for collaborative development and cross-team communication and coordination. I've transitioned from optimistic to bullish. The term collabnet actually feels more appropriate. http://stats.goerli.net\u00a0",
+            "username": "egalano",
+            "num_likes": 37,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "1060067235316809729": {
+            "id": "1060067235316809729",
+            "text": "Remember, a few hours of trial and error can save you several minutes of looking at the README.",
+            "username": "iamdevloper",
+            "num_likes": 21584,
+            "num_retweets": 7701,
+            "num_replies": 136
+        },
+        "1063947760565661698": {
+            "id": "1063947760565661698",
+            "text": "oh I see you\u2019ve stumbled into the intellectual dark webpic.twitter.com/m3N9BlCLFU",
+            "username": "swear_trek",
+            "num_likes": 797,
+            "num_retweets": 136,
+            "num_replies": 6
+        },
+        "1062670602333573121": {
+            "id": "1062670602333573121",
+            "text": "The #ewasm testnet's roadmap is up here: https://github.com/orgs/ewasm/projects\u00a0\u2026\n\nWe plan to make updates to the testnet once a month. 15th Nov, 10th Dec, 14th Jan.\n\nThe plan is to not drag dates, but rather change the scope as we are near to the deadlines.\n\nLet me know what you think?",
+            "username": "alexberegszaszi",
+            "num_likes": 79,
+            "num_retweets": 22,
+            "num_replies": 3
+        },
+        "1062947731293892615": {
+            "id": "1062947731293892615",
+            "text": "If you were wondering what the future holds for @ethereum - have a look at the excellent work done on the G\u00f6rli Testnet using the #Cliche engine!\n\nA reliable testnet that all clients can connect too... Fork testing made simple!\n\nhttps://github.com/goerli\u00a0\n#BUIDL @5chdn @j_wasinger",
+            "username": "DBrettRobertson",
+            "num_likes": 29,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1058278260784726016": {
+            "id": "1058278260784726016",
+            "text": "The word 'pornography' implies the existence of a pornograph, which I imagine to be a brass, Victorian,  steam-powered contraption pumping hot filth into the universe",
+            "username": "horsehousing",
+            "num_likes": 3742,
+            "num_retweets": 1014,
+            "num_replies": 54
+        },
+        "1060225126313156613": {
+            "id": "1060225126313156613",
+            "text": "Computer generated faces using generative adversarial network / progressive growing technique from Nvidia. Trained on 50,000 images from a photobooth at ZKM Center for Art and Media by @highqualitysh1tpic.twitter.com/RO1EG6ha8S",
+            "username": "darren_cullen",
+            "num_likes": 19264,
+            "num_retweets": 6880,
+            "num_replies": 558
+        },
+        "1058007464413708288": {
+            "id": "1058007464413708288",
+            "text": "That was an intense kick off with so many people showing up and us officially launching the testnet! Check out http://ewasm.ethereum.org\u00a0!  #ethereumhttps://twitter.com/lrettig/status/1057981992699072513\u00a0\u2026",
+            "username": "alexberegszaszi",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1057981992699072513": {
+            "id": "1057981992699072513",
+            "text": "The #Ewasm breakout session kicks off at @EFDevcon with @alexberegszaszi introducing Wasm, Ewasm, and the ambitious agenda. I can't describe in words the feeling of getting in front of a packed room and sharing what we've been up to for the past year. Thanks for coming! pic.twitter.com/6IQsWujtFl",
+            "username": "lrettig",
+            "num_likes": 18,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1056146484465463296": {
+            "id": "1056146484465463296",
+            "text": "Those who self select and join, shall greet eachother with the hands of @VitalikButerin.pic.twitter.com/8OfGomkSMq",
+            "username": "ChurchOfConsens",
+            "num_likes": 75,
+            "num_retweets": 5,
+            "num_replies": 12
+        },
+        "1055554275529682945": {
+            "id": "1055554275529682945",
+            "text": "The ideal PhD for a startup is one that acedemics thinks of as a hack but the hackers thinks of as an academic.",
+            "username": "sebastroy",
+            "num_likes": 41,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1055765603192049664": {
+            "id": "1055765603192049664",
+            "text": "I saw a dead unicorn on my way to cryptolife \nPlease stay safe everyone! But also do not be hold back by fear: life begins at the end of your comfort zone.\nHappy hacking, learning, collaborating and having fun everyone. #cryptolife #ethmagicians #devcon\nhttp://peepeth.com/p/eqz\u00a0pic.twitter.com/Ne4U8jWuyp",
+            "username": "mr_ligi",
+            "num_likes": 37,
+            "num_retweets": 8,
+            "num_replies": 1
+        },
+        "1051886425753436166": {
+            "id": "1051886425753436166",
+            "text": "[Blog] Ethereum Foundation Grants Update - Wave IV #ethereum #grants https://goo.gl/4bzKyD\u00a0pic.twitter.com/gu0csjFlNk",
+            "username": "ethereum",
+            "num_likes": 281,
+            "num_retweets": 102,
+            "num_replies": 34
+        },
+        "1049880402213687296": {
+            "id": "1049880402213687296",
+            "text": "I laughed way to hard at this for way too longhttps://twitter.com/swear_trek/status/1049736340861009920\u00a0\u2026",
+            "username": "dougdragon",
+            "num_likes": 377,
+            "num_retweets": 38,
+            "num_replies": 7
+        },
+        "1043999082417704960": {
+            "id": "1043999082417704960",
+            "text": "pic.twitter.com/Wgplkt4WrB",
+            "username": "swear_trek",
+            "num_likes": 1161,
+            "num_retweets": 339,
+            "num_replies": 10
+        },
+        "1044041711910039554": {
+            "id": "1044041711910039554",
+            "text": "Join us for an #Ewasm community meetup next week in San Francisco! We'll be in town for blockchain week @SFBWofficial and @ETHSanFranciscohttps://www.eventbrite.com/e/ewasm-community-meetup-tickets-50560821779\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 35,
+            "num_retweets": 15,
+            "num_replies": 2
+        },
+        "1027738904592404480": {
+            "id": "1027738904592404480",
+            "text": "My argument is somewhat different: if only well-connected investors and \"professionals\" are allowed on the ground floor, then naive investors *still* get on, but on the second or third floor, so they get screwed *more*.\n\nPic for reference:pic.twitter.com/Vmzj9Q8Q5A",
+            "username": "VitalikButerin",
+            "num_likes": 165,
+            "num_retweets": 40,
+            "num_replies": 18
+        },
+        "1018539242098655232": {
+            "id": "1018539242098655232",
+            "text": "Tesla's PR teampic.twitter.com/B9p10m7laV",
+            "username": "swear_trek",
+            "num_likes": 1136,
+            "num_retweets": 247,
+            "num_replies": 11
+        }
+    },
+    "tweeted": {
+        "1112571153346895872": {
+            "id": "1112571153346895872",
+            "text": "Ahahaha!  I'm ashamed to admit that I had a slight panic until I read the second tweet...https://twitter.com/hudsonjameson/status/1112562018547044353\u00a0\u2026",
+            "username": "j_wasinger",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1111751121310310401": {
+            "id": "1111751121310310401",
+            "text": "Hey @github , you know what would be great?  A bidding system for account names.  I see a lot of cool usernames taken by accounts which appear to be inactive for years.  I would love to be able to submit a bid to be able to purchase an account name from the owner.",
+            "username": "j_wasinger",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1105624593635643392": {
+            "id": "1105624593635643392",
+            "text": "\"After the bombs fell, he retreated and kept hacking\" - @alexberegszaszipic.twitter.com/2YAa5WAd6F",
+            "username": "j_wasinger",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1105448384985513984": {
+            "id": "1105448384985513984",
+            "text": "The end result is they're about to knock my mother on the head with a lead pipe, shoot my sister, beat up my wife, take on my sons.\u201d \n\n- the quote that will kill Joe Biden's presidential ambitions",
+            "username": "j_wasinger",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1105448383848898560": {
+            "id": "1105448383848898560",
+            "text": "\u201cIt doesn\u2019t matter whether or not they were deprived as a youth,\u201d Biden proclaimed. \u201cIt doesn\u2019t matter whether or not they had no background that enabled them to become socialized into the fabric of society. It doesn\u2019t matter whether or not they\u2019re the victims of society.",
+            "username": "j_wasinger",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1105052013069520896": {
+            "id": "1105052013069520896",
+            "text": "\"Crypto is Hotel California\" - @jake_theripper",
+            "username": "j_wasinger",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1104494185397342209": {
+            "id": "1104494185397342209",
+            "text": "Someone should create the \"Doner Kebab\" index for Europe",
+            "username": "j_wasinger",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1103337750298877952": {
+            "id": "1103337750298877952",
+            "text": "Me tomorrow on the way up to the stage to give my talk on Ewasm benchmarks.https://twitter.com/twigwam/status/1103335982286422019\u00a0\u2026",
+            "username": "j_wasinger",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1103073945706733568": {
+            "id": "1103073945706733568",
+            "text": "I wonder how many people work on the \"like\" button team at Facebook.",
+            "username": "j_wasinger",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 3
+        },
+        "1103001961954201602": {
+            "id": "1103001961954201602",
+            "text": "https://gist.github.com/jboner/2841832\u00a0",
+            "username": "j_wasinger",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102802256058028033": {
+            "id": "1102802256058028033",
+            "text": "Proof of work chains with capped token supply will tend towards centralization because increased # of txns (to compensate for loss of mining reward) = larger block size = longer propagation time = more stale blocks.",
+            "username": "j_wasinger",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102293866466734081": {
+            "id": "1102293866466734081",
+            "text": "> Working on an optimization PR for a monster DB library written in C++\n> Hundreds of unit tests failing\n> Make a change which fixes the tests and reduces LOC by half\n\nThat's one hell of a rush...",
+            "username": "j_wasinger",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1101986428270116864": {
+            "id": "1101986428270116864",
+            "text": "My roommate gets high and does things like thispic.twitter.com/fzvIK4LZHL",
+            "username": "j_wasinger",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1090377778401136640": {
+            "id": "1090377778401136640",
+            "text": "Parity now supports Clique as a POA consensus engine for compatibility with Goerli and Rinkeby testnets.  There is still work to be done before an upstream merge into the main Parity client repository.  we are 90% of the way there.https://twitter.com/_thefallentree/status/1090359773898272768\u00a0\u2026",
+            "username": "j_wasinger",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1088199711033516032": {
+            "id": "1088199711033516032",
+            "text": "Good work @sina_mahmoodi !  Also cheers to the developers of this synchronous merkle trie implementation for the web: https://github.com/RainBlock/merkle-patricia-tree\u00a0\u2026\n\nLack of synchronous trie implementations were a huge impediment to Ewasm support in ethereumjs-vm",
+            "username": "j_wasinger",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1088186895287218176": {
+            "id": "1088186895287218176",
+            "text": "EWASM support is coming to EthereumJS!!https://github.com/ethereumjs/ethereumjs-vm/pull/424\u00a0\u2026",
+            "username": "j_wasinger",
+            "num_likes": 59,
+            "num_retweets": 10,
+            "num_replies": 3
+        },
+        "1082378508905500672": {
+            "id": "1082378508905500672",
+            "text": "Communication, early and often is great when it leads to productivity for both parties.  However, contributors need to spend time \"in the trenches\" without requiring tedious hand-holding.",
+            "username": "j_wasinger",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1082377865126014976": {
+            "id": "1082377865126014976",
+            "text": "The biggest mistake I see when newbs try and contribute to open source is that they suck at communication:\n\nForcing me to spend my time playing tech support for a wide-range of Ethereum ecosystem software is a great way to make me not want to interact with you.",
+            "username": "j_wasinger",
+            "num_likes": 14,
+            "num_retweets": 2,
+            "num_replies": 4
+        },
+        "1070000164964683776": {
+            "id": "1070000164964683776",
+            "text": "I get it, code is often shitty and needs to be rewritten.  The most important thing about open source is approaching this with empathy and a collaborative spirit.  Otherwise contributors will feel shut-out.",
+            "username": "j_wasinger",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1058671673011003393": {
+            "id": "1058671673011003393",
+            "text": "PLShttps://twitter.com/jake_theripper/status/1058664828850655232\u00a0\u2026",
+            "username": "j_wasinger",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1057982862149017600": {
+            "id": "1057982862149017600",
+            "text": "I'm afraid I will not hit my weight loss target X'Dhttps://twitter.com/HolgerD77/status/1057963027922862081\u00a0\u2026",
+            "username": "j_wasinger",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1028865650649915392": {
+            "id": "1028865650649915392",
+            "text": "Why do the most captivating ideas come to me as I should be going to sleep.... XD",
+            "username": "j_wasinger",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1016491887467741184": {
+            "id": "1016491887467741184",
+            "text": "Dang.  I should have gone!!  That looks incredible.https://twitter.com/lrettig/status/1016250013545091073\u00a0\u2026",
+            "username": "j_wasinger",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "etclabs": 1,
+        "deadprogrammer": 1,
+        "mhswende": 1,
+        "lrettig": 7,
+        "technocrypto": 1,
+        "PicardTips": 1,
+        "jake_theripper": 2,
+        "AndrewYang": 1,
+        "DeanEigenmann": 1,
+        "ungoldman": 1,
+        "0xzak": 1,
+        "alexberegszaszi": 4,
+        "TheLexTimes": 1,
+        "zuph": 1,
+        "HenryKrinkIe": 1,
+        "josephdelong": 1,
+        "ChainSafeth": 1,
+        "gballet": 2,
+        "hudsonjameson": 1,
+        "DoveyWan": 1,
+        "realLedgerwatch": 1,
+        "jinglanW": 1,
+        "lopp": 1,
+        "balajis": 1,
+        "HumansOfLate": 2,
+        "MikeKMorrison": 1,
+        "peter_szilagyi": 1,
+        "cdetrio": 1,
+        "egalano": 1,
+        "iamdevloper": 1,
+        "swear_trek": 3,
+        "DBrettRobertson": 1,
+        "horsehousing": 1,
+        "darren_cullen": 1,
+        "ChurchOfConsens": 1,
+        "sebastroy": 1,
+        "mr_ligi": 1,
+        "ethereum": 1,
+        "dougdragon": 1,
+        "VitalikButerin": 1
+    },
+    "users_retweeted": [
+        "lrettig",
+        "alexberegszaszi",
+        "swear_trek",
+        "jake_theripper",
+        "gballet",
+        "HumansOfLate",
+        "etclabs",
+        "deadprogrammer",
+        "mhswende",
+        "technocrypto",
+        "PicardTips",
+        "AndrewYang",
+        "DeanEigenmann",
+        "ungoldman",
+        "0xzak",
+        "TheLexTimes",
+        "zuph",
+        "HenryKrinkIe",
+        "josephdelong",
+        "ChainSafeth",
+        "hudsonjameson",
+        "DoveyWan",
+        "realLedgerwatch",
+        "jinglanW",
+        "lopp",
+        "balajis",
+        "MikeKMorrison",
+        "peter_szilagyi",
+        "cdetrio",
+        "egalano",
+        "iamdevloper",
+        "DBrettRobertson",
+        "horsehousing",
+        "darren_cullen",
+        "ChurchOfConsens",
+        "sebastroy",
+        "mr_ligi",
+        "ethereum",
+        "dougdragon",
+        "VitalikButerin"
+    ]
+}

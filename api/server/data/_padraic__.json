@@ -1,0 +1,50 @@
+{
+    "is_complete": true,
+    "username": "_padraic__",
+    "retweeted": {
+        "1094944237727215616": {
+            "id": "1094944237727215616",
+            "text": "New #TCRParty listing! chaingenius has nominated realdonaldtrump to be on the list for 500 TCRP. Challenge this application by DMing 'challenge realdonaldtrump'.",
+            "username": "TCRPartyVIP",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1092827841509707778": {
+            "id": "1092827841509707778",
+            "text": "I was playing around with some text animations and thought I could use them to show a file's history on @github:pic.twitter.com/rkEMCWsSCZ",
+            "username": "pomber",
+            "num_likes": 8575,
+            "num_retweets": 2430,
+            "num_replies": 164
+        },
+        "1034736562595131393": {
+            "id": "1034736562595131393",
+            "text": "Augesco is a new ethereum dapp development framework that is intended to provide more out-of-the-box functionality for truffle-based projects. https://github.com/sirromdev/augesco\u00a0\u2026 #ethereum #truffle",
+            "username": "StateOfTheDApps",
+            "num_likes": 5,
+            "num_retweets": 3,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1027230772724490241": {
+            "id": "1027230772724490241",
+            "text": "0x652677f979e1b2dfdd162c217173826e843bfb20",
+            "username": "_padraic__",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "TCRPartyVIP": 1,
+        "pomber": 1,
+        "StateOfTheDApps": 1
+    },
+    "users_retweeted": [
+        "TCRPartyVIP",
+        "pomber",
+        "StateOfTheDApps"
+    ]
+}

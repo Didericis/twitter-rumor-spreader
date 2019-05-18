@@ -1,0 +1,866 @@
+{
+    "is_complete": true,
+    "username": "EthMagicians",
+    "retweeted": {
+        "1109674869241708544": {
+            "id": "1109674869241708544",
+            "text": "At what point in the Core EIP process does contentious review happen? https://ethereum-magicians.org/t/at-what-point-in-the-core-eip-process-does-contentious-review-happen/2974\u00a0\u2026\n\nI would appreciate long form answers in the #EthMagicians forum.",
+            "username": "bmann",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1102745266090926080": {
+            "id": "1102745266090926080",
+            "text": "I wrote up a rough transcript of the Eth 2.0 Q+A from Paris today, facilitated by the @EthMagicians / @MPtherealMVP / @lrettig .\n\nThe Ethereum ecosystem moves fast; learn a bit on the beacon chain, spec evolution, VDFs, implemententers vs researchers, etchttps://medium.com/ethereum-magicians/q-a-on-eth-2-0-ab1d5d3ac133\u00a0\u2026",
+            "username": "trent_vanepps",
+            "num_likes": 35,
+            "num_retweets": 13,
+            "num_replies": 3
+        },
+        "1102701521559539713": {
+            "id": "1102701521559539713",
+            "text": "Especially relevant after today's discussions at @EthMagicians\n\nhttps://a16z.com/2019/03/02/cooperatives-cryptonetworks/\u00a0\u2026\n\n\ncc @MPtherealMVP @bmann @lrettig @hudsonjameson @jemengerpic.twitter.com/hxTt7Hrmga",
+            "username": "MyCrypto",
+            "num_likes": 17,
+            "num_retweets": 11,
+            "num_replies": 2
+        },
+        "1102497016763039746": {
+            "id": "1102497016763039746",
+            "text": "Very excited to join today's @EthMagicians #CouncilOfParis pic.twitter.com/4P7FasKJX1",
+            "username": "KazuakiIshiguro",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1102501199331377154": {
+            "id": "1102501199331377154",
+            "text": "The @EthMagicians #CouncilOfParis kicks off at the beautiful Conservatoire national des arts et m\u00e9tiers in Paris. Can't believe it's been a full year for the magicians! Looking forward to a full day of discussing how the Ethereum sausage is madepic.twitter.com/xsGyn4Ld8x \u2013 at Mus\u00e9e des Arts et M\u00e9tiers",
+            "username": "lrettig",
+            "num_likes": 43,
+            "num_retweets": 6,
+            "num_replies": 1
+        },
+        "1102461953232924673": {
+            "id": "1102461953232924673",
+            "text": "I mediated the first @EthMagicians meetup, and I like to think I was a fairly large participant in the second one.\n\nI wasn't able to make it to subsequent ones, and I haven't heard any indication that my presence was missed.\n\nThis is how it should work. Nobody should be crucial.",
+            "username": "nicksdjohnson",
+            "num_likes": 49,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "1102343015199313921": {
+            "id": "1102343015199313921",
+            "text": "The @EthMagicians #CouncilOfParis 2.0 kicks off tomorrow, and we're doing a session on #ETH2. If you're working on ETH2 and you're in Paris, please join! If not, please add questions here (whether you're attending or not)! \u00c0 demain! https://hackmd.io/DxBspcZxQ3eakuUcy_41yw\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 18,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1102255001953550343": {
+            "id": "1102255001953550343",
+            "text": "Hey everyone heading to @EthMagicians I made a small scheduling mistake - trust & reputation starts at 11:00. Also please check the new ring by @wmougayar and the open mic after the opening!https://docs.google.com/spreadsheets/d/1BYudpf2TfjO-qbAoSuzFBH0Ab_BRiQJ31VUhGoc6n_Y/edit#gid=0\u00a0\u2026",
+            "username": "MPtherealMVP",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1102157819116171265": {
+            "id": "1102157819116171265",
+            "text": "Marketing, communications, branding, and messaging are important topics that haven't been discussed much in our ecosystem. Excited to dig into them tomorrow with @wmougayar and the @EthMagicians! Let me know if you want to join the conversation. See you in Paris https://twitter.com/wmougayar/status/1102148291175895040\u00a0\u2026",
+            "username": "lrettig",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 3
+        },
+        "1102164067538616320": {
+            "id": "1102164067538616320",
+            "text": "Just wrote up a thank you to volunteers & sponsors for #ethmagicians Council of Paris https://ethereum-magicians.org/t/council-of-paris-thank-you-to-volunteers-sponsors/2805\u00a0\u2026\n\nAmazing to be celebrating the 1 year anniversary. Feels like much longer! #ethcc",
+            "username": "bmann",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1056958414629289985": {
+            "id": "1056958414629289985",
+            "text": "Megaring super proud of this, go @EthMagicians!pic.twitter.com/M0JIHLBYeN",
+            "username": "MPtherealMVP",
+            "num_likes": 27,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1056882497253003264": {
+            "id": "1056882497253003264",
+            "text": "My new @EthMagicians rule of thumb: \n\n\u201cWe should\u201d is cheap and common, but \u201cI am doing\u201d is valuable / rare. ",
+            "username": "owocki",
+            "num_likes": 91,
+            "num_retweets": 20,
+            "num_replies": 2
+        },
+        "1056520931181559808": {
+            "id": "1056520931181559808",
+            "text": "@bmann kickin off @EthMagicians #CouncilOfPrague with @5chdn @lrettig and @dannyryan #Ethereum #BUIDLpic.twitter.com/UwJRUJ5Y1p",
+            "username": "DBrettRobertson",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056202323347861504": {
+            "id": "1056202323347861504",
+            "text": "Again: @EthMagicians. How-to for ring leaders, join us tomorrow at 4pm after Ethereum 2.0 Q&Ahttps://hackmd.io/s/SksgelMn7\u00a0",
+            "username": "MPtherealMVP",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1047866801307021312": {
+            "id": "1047866801307021312",
+            "text": "There are different kinds of sponsorships. Those who truly help the ecosystem should be put a bit more in the spotlight. I wrote something about this for @EthMagicianshttps://medium.com/ethereum-magicians/what-to-expect-when-supporting-the-fellowship-of-ethereum-magicians-3efac028ff2a?source=linkShare-214c76b0e6c6-1538665815\u00a0\u2026",
+            "username": "MPtherealMVP",
+            "num_likes": 12,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1047132156034715648": {
+            "id": "1047132156034715648",
+            "text": "As I said before: @EthMagicians are not only some dudes coding in a room and talking Ethereum fundamentals. We\u2019re a community trying to find solutions. Here\u2019s how we teamed up with @ethstatus and about our \u201cEIPs and Interoperability Track\u201dhttps://medium.com/ethereum-magicians/its-a-kind-of-magic-status-hackathon-the-fellowship-a42a6e382d7a?source=linkShare-214c76b0e6c6-1538490639\u00a0\u2026",
+            "username": "MPtherealMVP",
+            "num_likes": 37,
+            "num_retweets": 12,
+            "num_replies": 1
+        },
+        "1045689601602580481": {
+            "id": "1045689601602580481",
+            "text": "So who are we anyways? Did you think that magicians were only some men talking tech? Wrong. There\u2019s so many of us out there! JOIN US WE\u2019D LOVE TO GROW MORE @EthMagicians https://twitter.com/EthMagicians/status/1045688895684431878\u00a0\u2026",
+            "username": "MPtherealMVP",
+            "num_likes": 25,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1041354873973944320": {
+            "id": "1041354873973944320",
+            "text": "Oh hai I am back - volunteering to fire up @EthMagicians  council of prague ftw, EIP activism to the moon. You too should collaborate, its really fun. (Also its full of ethberliners - the best people out there)",
+            "username": "MPtherealMVP",
+            "num_likes": 40,
+            "num_retweets": 3,
+            "num_replies": 3
+        },
+        "1031308196093337601": {
+            "id": "1031308196093337601",
+            "text": "The Berlin @EthMagicians council was extremely positive - we hope we can go into more actions for this one. A very valuable community initiative, please join - community feedback is critical for @ethereumhttps://twitter.com/greg_colvin/status/1031262284239319040\u00a0\u2026",
+            "username": "golemproject",
+            "num_likes": 30,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "1018404664394600448": {
+            "id": "1018404664394600448",
+            "text": "Here's a digital version of the Sunday Schedule for #ethmagicians https://docs.google.com/spreadsheets/d/1mjuoKQrCv5qD4EfXq9-C24pT20OJQBgO9p8JxYTlFqI/edit?usp=sharing\u00a0\u2026\n\nOne learning: probably need at least 3 formal spaces plus overflow.",
+            "username": "bmann",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1013313856708358144": {
+            "id": "1013313856708358144",
+            "text": "What happens before we BUIDL? Find out about the upcoming #EthMagicians gathering in Berlin. https://ethereum-magicians.github.io/berlin-council/\u00a0pic.twitter.com/X2FoayO6hQ",
+            "username": "jemenger",
+            "num_likes": 28,
+            "num_retweets": 12,
+            "num_replies": 1
+        }
+    },
+    "tweeted": {
+        "1112110313132875776": {
+            "id": "1112110313132875776",
+            "text": "For convenience, there is a new Core EIPs topic that you can watch / subscribe to directly.\n\nhttps://ethereum-magicians.org/c/eips/core-eips\u00a0\u2026\n\nThe screenshot shows the different levels that you can watch a particular category at.pic.twitter.com/wOO6yscNpT",
+            "username": "EthMagicians",
+            "num_likes": 12,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1110238927607070721": {
+            "id": "1110238927607070721",
+            "text": "Thank you to @fullnode_berlin and the @gnosisPM team for hosting the Core Devs meeting in Berlin. \n\nDetails here: https://ethereum-magicians.org/t/istanbul-eth1x-roadmap-planning-meeting-april-17th-18th-in-berlin/2899\u00a0\u2026\n\nSign uphttps://goo.gl/forms/AZv018Cgd2B3YzuZ2\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 14,
+            "num_retweets": 6,
+            "num_replies": 2
+        },
+        "1106148480177836032": {
+            "id": "1106148480177836032",
+            "text": "Once again thank you all for coming to Council of Paris. Special thanks goes to our sponsor @AssethFR @ethereumecf @Fluence_One @OrchidProtocol @santimentfeed, speakers and volunteers! If you haven't been there, you can still watch the video here:http://youtu.be/r8235mBjHSs\u00a0",
+            "username": "EthMagicians",
+            "num_likes": 15,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1102872151659548674": {
+            "id": "1102872151659548674",
+            "text": "We\u2019re diving straight into #ETHCC, but take some time and share your experiences, feedback, and content from the Council of Paris. \n\nComments and links here https://ethereum-magicians.org/t/council-of-paris-content-experiences-and-feedback/2810\u00a0\u2026\n\nPlus we\u2019ll create a feedback form for private comments.",
+            "username": "EthMagicians",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1102501378822471685": {
+            "id": "1102501378822471685",
+            "text": "Livestream powered by @Fluence_One up and running here https://youtu.be/r8235mBjHSs\u00a0 \n\nThis will be the \u201cleft\u201d theatre content only \n\n#ethmagicians",
+            "username": "EthMagicians",
+            "num_likes": 13,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1102470136857051136": {
+            "id": "1102470136857051136",
+            "text": "The entrance is on the Rue St Martin side. Here\u2019s a map picture and a waving @markoprljic who will be running checkin. \n\n#ethmagicianspic.twitter.com/E4SyQRxrAG",
+            "username": "EthMagicians",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1102467585700962304": {
+            "id": "1102467585700962304",
+            "text": "Find out more about all our volunteers and sponsors on the forum. \n\nhttps://ethereum-magicians.org/t/council-of-paris-thank-you-to-volunteers-sponsors/2805\u00a0\u2026\n\nAnd that includes all the participants! Thanks for coming and bringing your ideas and discussions. \n\n#ethmagicians",
+            "username": "EthMagicians",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102465207018930176": {
+            "id": "1102465207018930176",
+            "text": "The @Fluence_One team has brought their livestream video crew - thank you for capturing this for us!\n\nThey are building decentralized data technology https://fluence.one/\u00a0\n#ethmagicianspic.twitter.com/VXVwoWiCF9",
+            "username": "EthMagicians",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1102463753537445888": {
+            "id": "1102463753537445888",
+            "text": "Oh look! @orchidprotocol has a brand new website https://orchid.com\u00a0\n\nThey\u2019re community sponsors of #ethmagicians and are looking forward to telling you more about their new stuff: an open marketplace for bandwidth built on Ethereum and a VPN clientpic.twitter.com/33V8nkPxdp",
+            "username": "EthMagicians",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102462232393330694": {
+            "id": "1102462232393330694",
+            "text": "Thanks to @santimentfeed for being a supporting sponsor, following up on their support for the Berlin livestream. \n\nCheck out their crypto tools, built on custom metrics and real-time signals https://app.santiment.net/\u00a0\n#ethmagicianspic.twitter.com/aPoGGW0Avd",
+            "username": "EthMagicians",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102459928915120128": {
+            "id": "1102459928915120128",
+            "text": "The @ethereumecf stepped up to support us across three events as a sustaining sponsor. This has been amazing for planning future events. \n\nFind out more about the evolution of the ECF https://ECF.network\u00a0\n#ethmagicians",
+            "username": "EthMagicians",
+            "num_likes": 5,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1102459537469124608": {
+            "id": "1102459537469124608",
+            "text": "Thank you to the @AssethFR #ETHCC team for supporting us with venue & catering arrangements. \n\nLooking forward to your community gathering over the next few days https://EthCC.io\u00a0\n#ethmagicians",
+            "username": "EthMagicians",
+            "num_likes": 24,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1102459148531314688": {
+            "id": "1102459148531314688",
+            "text": "Good morning! Please join us sharp at 9:30am for check in at CNAM.",
+            "username": "EthMagicians",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1102264648110346240": {
+            "id": "1102264648110346240",
+            "text": "I bet you'd like an agenda link too, right??? See it in all its majestic glory right here https://docs.google.com/spreadsheets/d/1BYudpf2TfjO-qbAoSuzFBH0Ab_BRiQJ31VUhGoc6n_Y/htmlview\u00a0\u2026\n\nNote: there is space and time to make your own sessions!",
+            "username": "EthMagicians",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1102263326887809024": {
+            "id": "1102263326887809024",
+            "text": "Maybe you want to introduce yourself, make sure your #EthMagicians forum avatar is all shiny and such?\n\nHead to the intros & feedback thread:https://ethereum-magicians.org/t/council-of-paris-introductions-and-feedback/2810\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 2,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1102262627198222340": {
+            "id": "1102262627198222340",
+            "text": "We just sent out the final email update for timing & agenda links for Council of Paris tomorrow, March 4th, 9:30am at CNAM.\n\nAlso in handy web page format https://hackmd.io/ccB8RDbaQLGsci7AngbMuA?view\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1102165995576324096": {
+            "id": "1102165995576324096",
+            "text": "Thanks to MP for agenda wrangling. Here\u2019s the link to the grid for tomorrow (Monday!). \n\nRemember: you can come & gather your own group around any topic. We are all participants!https://twitter.com/MPtherealMVP/status/1101557473545195520\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 19,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1092520111506771968": {
+            "id": "1092520111506771968",
+            "text": "And for those who are so inclined, edit the HackMD https://hackmd.io/s/ByIVnZVdX\u00a0 or fill out a Google Form https://docs.google.com/forms/d/e/1FAIpQLScOMcJPOhfJ2Iako1V25eSFWru0AIsUqQ7Vd0jlrQqcP_5Fuw/viewform\u00a0\u2026 to let us know you want to talk about new things",
+            "username": "EthMagicians",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1092519831692181504": {
+            "id": "1092519831692181504",
+            "text": "Want to talk about a particular topic or lead a ring at #ETHCC in Paris? Check the Call for Rings & Participants for detailshttps://ethereum-magicians.org/t/council-of-paris-call-for-rings-and-participants/2588\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 25,
+            "num_retweets": 9,
+            "num_replies": 5
+        },
+        "1085615316502237184": {
+            "id": "1085615316502237184",
+            "text": "Announcing the Council of Paris 2019, happening March 4th, convening with ETHCC https://ethereum-magicians.org/t/council-of-paris-2019-announcement/2438\u00a0\u2026 - thanks to lead organizer @tomislavmamic & @jdetychey with @AssethFR & all volunteers",
+            "username": "EthMagicians",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1069762935994499072": {
+            "id": "1069762935994499072",
+            "text": "Hey Magicians! Who is going to ETHDenver and what do you want to discuss? Thread from @mattdlockyer on the forum for further discussion.https://twitter.com/mattdlockyer/status/1069759114891292672\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 24,
+            "num_retweets": 2,
+            "num_replies": 2
+        },
+        "1062134677035659266": {
+            "id": "1062134677035659266",
+            "text": "AHOY THERE! If you enjoyed the Council of Prague, please do share some feedback on the event - whether good or bad ~ help us hold better ethereum magicians councils :)\n\nhttps://ethereum-magicians.org/t/open-feedback-thread-for-council-of-prague/1884\u00a0\u2026pic.twitter.com/PxvqY7wHJ1",
+            "username": "EthMagicians",
+            "num_likes": 29,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1056848274521579520": {
+            "id": "1056848274521579520",
+            "text": "Finished up Principles and discussion in the round. \n\nNow #ETHSecurity overview & demo and how their ring has evolved.pic.twitter.com/KA7slNacVP",
+            "username": "EthMagicians",
+            "num_likes": 10,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1056836755243057152": {
+            "id": "1056836755243057152",
+            "text": "A link to the Principles being covered by @jemenger & @greg_colvinhttps://github.com/ethereum-magicians/scrolls/wiki/Principles-of-the-Fellowship\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1056836406667083777": {
+            "id": "1056836406667083777",
+            "text": "Here\u2019s a quick picture of the schedule on top of the map of the space. \n\nYou can add pop up sessions in the Lounge.pic.twitter.com/t8WvuogqI3",
+            "username": "EthMagicians",
+            "num_likes": 11,
+            "num_retweets": 3,
+            "num_replies": 2
+        },
+        "1056826292694323201": {
+            "id": "1056826292694323201",
+            "text": "We\u2019re pushing everything back about 30min!  Here\u2019s the schedule grid to keep track ofhttps://docs.google.com/spreadsheets/d/1xD27SWjoCl7zaxSG6TMRS3MyCR4xuM-_xkeYI_Vvjjg\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 9,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1056825908110258176": {
+            "id": "1056825908110258176",
+            "text": "The livestream powered by @fluence_one is here on YouTube https://youtu.be/2NvGTvTfkzU\u00a0",
+            "username": "EthMagicians",
+            "num_likes": 9,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1056583872987586560": {
+            "id": "1056583872987586560",
+            "text": "OK! We're wrapped for today. We'll see you at 9am sharp tomorrow please! Things get started promptly, here's a link to the live session & topic schedulehttps://docs.google.com/spreadsheets/d/1xD27SWjoCl7zaxSG6TMRS3MyCR4xuM-_xkeYI_Vvjjg/edit#gid=1802144021\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 21,
+            "num_retweets": 6,
+            "num_replies": 0
+        },
+        "1056557451376349187": {
+            "id": "1056557451376349187",
+            "text": "If you liked it, you shoulda put a ring on it.\n\nYes, Ring Makers & participants new to unconference formats can join us at 4pm (in 15min!) for a prep session on getting the most out of the Council of Prague tomorrow.\n\nRead about the Ring Prep Session here:https://hackmd.io/s/SksgelMn7\u00a0",
+            "username": "EthMagicians",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056553674317672448": {
+            "id": "1056553674317672448",
+            "text": "Check out all the awesome @ethstatus hackathon winners. Thank you to Status for being such great hosts & venue sponsors!\n\nWant to hang out here for the rest of the week? Fill out this form to book your spot with these community vibeshttps://docs.google.com/forms/d/e/1FAIpQLSeDy53yVlzt0cGhqEQS9YUp07jEkx5W2lZGf-eBalVkHEC48g/viewform\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 12,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056546130899673088": {
+            "id": "1056546130899673088",
+            "text": "We've wrapped our ETH2 discussion! https://hackmd.io/Lagu29aMSaKRVT6BeodMKg\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 2
+        },
+        "1056531342232563713": {
+            "id": "1056531342232563713",
+            "text": "Livestream is available! See https://hackathon.status.im/livestream/\u00a0 -- thanks @ethstatus",
+            "username": "EthMagicians",
+            "num_likes": 9,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1056516341312692224": {
+            "id": "1056516341312692224",
+            "text": "Check in at the front desk is closed for today! Please come 9am sharp tomorrow OR find a volunteer organizer who can check in.\n\nGetting started with ETH2 Roadmap shortly.",
+            "username": "EthMagicians",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1056512150141726721": {
+            "id": "1056512150141726721",
+            "text": "At 1pm (in 15min!) we'll start a 2 hour session discussing & asking questions about the ETH2 progress & process, with @lrettig, @dannyryan, and all of you!\n\nYou can add your questions here, and watch as notes get added https://hackmd.io/Lagu29aMSaKRVT6BeodMKg\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 4,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1056500827077181440": {
+            "id": "1056500827077181440",
+            "text": "The schedule for today and tomorrow is online here https://docs.google.com/spreadsheets/d/1xD27SWjoCl7zaxSG6TMRS3MyCR4xuM-_xkeYI_Vvjjg/edit#gid=0\u00a0\u2026 - ETH2 Discussion starts at 1pm",
+            "username": "EthMagicians",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1056478177160134658": {
+            "id": "1056478177160134658",
+            "text": "Good morning! We'll see everyone for early check in at National House Smichov starting at 11:30am -- 1 hour from now! Here's the location https://goo.gl/maps/v3MJJuNprNU2\u00a0\u2026pic.twitter.com/FAy3whGj80",
+            "username": "EthMagicians",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1056087334771478528": {
+            "id": "1056087334771478528",
+            "text": "Help us plan the spaces we'll need for the different rings & topics by telling us what sessions you're interested inhttps://goo.gl/forms/JMqMxGZ8YfJQV3tf2\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1054848607076012032": {
+            "id": "1054848607076012032",
+            "text": "How to get further involved and progress through your Fellowship of Ethereum Magicians - written by @MPtherealMVPhttps://medium.com/ethereum-magicians/from-the-tragedy-of-the-commons-towards-harmonic-community-work-aa1d5e4ac773?_branch_match_id=545853256067926484\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 16,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1054458499604787200": {
+            "id": "1054458499604787200",
+            "text": "Just pressed the buttons to invite everyone on the waiting list to register for Council of Prague -- one week from today https://ethereumevents.global/events/2018-council-of-prague/\u00a0\u2026\n\nOur ~13 topic/ring areas are set, plus room for unconference additions.",
+            "username": "EthMagicians",
+            "num_likes": 27,
+            "num_retweets": 7,
+            "num_replies": 3
+        },
+        "1047869523376754688": {
+            "id": "1047869523376754688",
+            "text": "\"...the Fellowship will give you more than that\u200a\u2014\u200ait will give you a chance to participate in the improvement of the platform we all work so hard to build on top of.\"https://medium.com/ethereum-magicians/what-to-expect-when-supporting-the-fellowship-of-ethereum-magicians-3efac028ff2a\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 25,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1047203867966943232": {
+            "id": "1047203867966943232",
+            "text": "The Fellowship has taken on the initiative of running @ethstatus 's EIPs & Interoperability Track on #Cryptolife hackathon in Prague. Read more about it in our post written by @MPtherealMVPhttps://medium.com/ethereum-magicians/its-a-kind-of-magic-status-hackathon-the-fellowship-a42a6e382d7a\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 16,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1041372179286319104": {
+            "id": "1041372179286319104",
+            "text": "We are 3 people away from our initial soft cap of 150 participants for the Council of Prague Oct 29th.\n\nJust got an update on space availability, so we can probably fit more, but please do register / waitlist yourself now https://www.picatic.com/ethmagicians-prague-2018\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 23,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1040658785084203008": {
+            "id": "1040658785084203008",
+            "text": "If you want to get involved as a volunteer organizer for the Council of Prague, the first step is joining the Council Volunteers group https://ethereum-magicians.org/groups/council-volunteers\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 6,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1039567547895435264": {
+            "id": "1039567547895435264",
+            "text": "The Council of Prague tag shows all the activity on the forum for further discussion https://ethereum-magicians.org/tags/council-of-prague\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1039566773593374720": {
+            "id": "1039566773593374720",
+            "text": "We're getting planning going for Ring makers to gather in Prague. @ChainSafeth & friends are asking participants to fill out here https://hackmd.io/DaJhrasLQteUk3IwX5bQAg#\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 10,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1036974613488590848": {
+            "id": "1036974613488590848",
+            "text": "Get involved as a sponsor, volunteer, or just come gives a thumbs up in the forum thread https://ethereum-magicians.org/t/registration-open-timing-confirmation-venue-sponsorship-by-status/1240\u00a0\u2026\n\nSee you in Prague!",
+            "username": "EthMagicians",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1036974366104346624": {
+            "id": "1036974366104346624",
+            "text": "We'll be meeting all day on October 29th, please go register if you'd like to attend https://www.picatic.com/ethmagicians-prague-2018\u00a0\u2026\n\nThe 28th will be an overlap with @ethstatus as a kick off day.",
+            "username": "EthMagicians",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1036973865723781120": {
+            "id": "1036973865723781120",
+            "text": "We have now finalized venue & timing for Prague! Announcing @ethstatus as Venue Sponsors, and they will also have an EIPs & Interoperability track  at their hackathon https://ethereumevents.global/events/2018-council-of-prague/#september-4th-2018-joint-venue-with-status-hackathon-registration-open\u00a0\u2026pic.twitter.com/iI1Oa9MKU1",
+            "username": "EthMagicians",
+            "num_likes": 45,
+            "num_retweets": 11,
+            "num_replies": 1
+        },
+        "1035638598614171648": {
+            "id": "1035638598614171648",
+            "text": "Thanks to @santimentfeed for sponsoring video coverage at the last event.\n\nThey did a great edit of some of the video footage here.https://twitter.com/santimentfeed/status/1035127635314200587\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1035636183043198976": {
+            "id": "1035636183043198976",
+            "text": "The announcement is up on the Council of Prague landing page here https://ethereumevents.global/events/2018-council-of-prague/#august-31st-2018-chronologic-provides-in-kind-sponsorship-for-video-coverage--editing\u00a0\u2026\n\nWe don't yet have livestreaming figured out, as mentioned, so let us know if you can help with that.",
+            "username": "EthMagicians",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1035635652308553728": {
+            "id": "1035635652308553728",
+            "text": "Yay for awesome video coverage! The @ChronoLogicETH team have stepped up with an in-kind sponsorship & will be taking care of video capture and editing!pic.twitter.com/fbX0eAyEKF",
+            "username": "EthMagicians",
+            "num_likes": 4,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1034937003618459650": {
+            "id": "1034937003618459650",
+            "text": "There is also a thread on the forum about a call for volunteers that @bmann will be hosting next week https://ethereum-magicians.org/t/ecf-sustaining-sponsorship-call-for-volunteers/1185\u00a0\u2026 -- get involved! This is your dis-organization!",
+            "username": "EthMagicians",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1034936517712470017": {
+            "id": "1034936517712470017",
+            "text": "Very pleased to share that the @ethereumecf is supporting our mission as a Sustaining Sponsor -- committing to sponsor the next three Magicians events, starting with Prague https://ethereumevents.global/events/2018-council-of-prague/#august-29th-2018-ethereum-community-fund-signs-up-as-sustaining-sponsor\u00a0\u2026pic.twitter.com/QhYowb6L0h",
+            "username": "EthMagicians",
+            "num_likes": 31,
+            "num_retweets": 4,
+            "num_replies": 1
+        },
+        "1027940897936179200": {
+            "id": "1027940897936179200",
+            "text": "Thank you to @JosefJelacic and his company Polynom for stepping up to act as host organization on the ground in Prague.pic.twitter.com/BeOCbX61mC",
+            "username": "EthMagicians",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1027940441415512065": {
+            "id": "1027940441415512065",
+            "text": "Join the discussion in the forum https://ethereum-magicians.org/t/council-of-prague-announcement/1006\u00a0\u2026\n\nLooking for volunteers, sponsors, and participants of all kinds.",
+            "username": "EthMagicians",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "1027939695596957696": {
+            "id": "1027939695596957696",
+            "text": "We just announced the Council of Prague https://ethereumevents.global/events/2018-council-of-prague/\u00a0\u2026\n\nWill be held right before DevCon4, Oct 28 - Oct 30th.pic.twitter.com/TJ4u1gbtpn",
+            "username": "EthMagicians",
+            "num_likes": 41,
+            "num_retweets": 17,
+            "num_replies": 3
+        },
+        "1022514733910347776": {
+            "id": "1022514733910347776",
+            "text": "Rings are what we call Working Groups in the #ethmagicians community.\n\nWe've got a Wallet Ring, a Token Ring, and we hear @AnnaRRose is going to put an #ethsignaling Ring together.\n\nHere's the HOWTO for Ring Formationhttps://github.com/ethereum-magicians/scrolls/wiki/HOWTO-Form-A-Ring\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 15,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1021327461873790976": {
+            "id": "1021327461873790976",
+            "text": "Lots of links to read through, so here's the simple action for participants: fill out the feedback formhttps://goo.gl/forms/hvC9pZq0aHDndIo22\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1021327001473384448": {
+            "id": "1021327001473384448",
+            "text": "Once again, thanks to host organization @web3foundation, video crew & livestreaming sponsor @santimentfeed, & community sponsors @Givethio, @LivepeerOrg, @OSTdotcom & @golemproject.\n\nAnd all the participants who made this event their own.",
+            "username": "EthMagicians",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "1021326131650334721": {
+            "id": "1021326131650334721",
+            "text": "It's been a week since the Council of Berlin and the forum is filled with notes, the wikis are surging, & we've got pretty pictures & videos.\n\nHere's the wrap up & request for feedback post:https://ethereum-magicians.org/t/council-of-berlin-wrap-up-request-for-feedback/847\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1020353418420944896": {
+            "id": "1020353418420944896",
+            "text": "Do you have a blog post, tweet, tweetstorm, post it note, or other bit of coverage or feedback around the #ethmagicians Council of Berlin?\n\nPlease add it to the wikihttps://github.com/ethereum-magicians/scrolls/wiki/Council-of-Berlin-Agenda\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 10,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "1020013971594719233": {
+            "id": "1020013971594719233",
+            "text": "Achievement unlocked: we have a Token Ring! https://ethereum-magicians.org/t/about-the-token-ring-category/811\u00a0\u2026\n\nFor reals, it\u2019s a place to collaborate on developing token standards.",
+            "username": "EthMagicians",
+            "num_likes": 26,
+            "num_retweets": 7,
+            "num_replies": 1
+        },
+        "1019617210380308480": {
+            "id": "1019617210380308480",
+            "text": "Thanks @MPtherealMVP - really appreciate this write up as well as your participation and fantastic notes. \n\nWe are all energized to keep up the momentum.https://twitter.com/MPtherealMVP/status/1019615096631382018\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 13,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1019320956727255042": {
+            "id": "1019320956727255042",
+            "text": "Another video! If we had a marketing department, they'd probably tell us to trickle them out or something.\n\n@expede's lightning talk on #erc1066 Ethereum Status Codeshttps://ethereum-magicians.org/t/lightning-talk-ethereum-status-codes-erc-1066/770\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1019303424842780672": {
+            "id": "1019303424842780672",
+            "text": "Here's the video link & discussion thread for the final closing circle https://ethereum-magicians.org/t/council-of-berlin-closing-circle-video/767\u00a0\u2026\n\nWe'll be posting wrap up links & a feedback form later this week.",
+            "username": "EthMagicians",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1018052648120078336": {
+            "id": "1018052648120078336",
+            "text": "The Council of Berlin kicks off now. Follow the livestream here https://media.livepeer.org/channels/0x0dDB225031cCB58fF42866f82D907F7766899014\u00a0\u2026\n\nAnd join the chat here: https://riot.im/app/#/room/%23ethmagicians:matrix.org\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 27,
+            "num_retweets": 11,
+            "num_replies": 0
+        },
+        "1017025066314412032": {
+            "id": "1017025066314412032",
+            "text": "Final update sent by email to people who registered, and also posted to the forums here https://ethereum-magicians.org/t/berlin-summer-council-final-update/699\u00a0\u2026\n\nJoin @bmann Friday at Prater Beer Garden.\n\nSee everyone 10am Saturday at c-base!",
+            "username": "EthMagicians",
+            "num_likes": 15,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1016411195849441285": {
+            "id": "1016411195849441285",
+            "text": "Thank you so much to the @santimentfeed team for sponsoring the video production team for both days of the #berlincouncil\n\nWe're so looking forward to having great video coverage to share with everyone!\n\nhttps://ethereum-magicians.github.io/berlin-council/livestream/\u00a0\u2026pic.twitter.com/tpBpudgwph",
+            "username": "EthMagicians",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1015397118423568384": {
+            "id": "1015397118423568384",
+            "text": "New Lightning Talks by @tim_bansemer @ChrJentzsch and @thegrifft announced for #EthMagicians Summer Gathering in Berlin next week!https://ethereum-magicians.org/t/wiki-proposed-agenda-for-the-council-of-berlin-set-for-july-14-15-updated/377/39\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 7,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1015203339963916288": {
+            "id": "1015203339963916288",
+            "text": "OK! Have our livestream placeholder page up https://ethereum-magicians.github.io/berlin-council/livestream/\u00a0\u2026, will be powered by @LivepeerOrg",
+            "username": "EthMagicians",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1014965378051698688": {
+            "id": "1014965378051698688",
+            "text": "Wondering where to find the #EthMagicians gathering in Berlin?  NASA knows..   thank you for hosting us @cbase  !!\n\nAnd wondering further.. anyone with recommendations for where to meet, stay, eat?https://twitter.com/woodworker/status/1004653056653430784\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1014237208969121793": {
+            "id": "1014237208969121793",
+            "text": "Thank you to the @Givethio team for not only creating the open source code that powers our donations page https://donations.ethereum-magicians.org/\u00a0 -- but also contributing as a community sponsor!pic.twitter.com/2NeWk0Q7ZW",
+            "username": "EthMagicians",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1013236594059481088": {
+            "id": "1013236594059481088",
+            "text": "\u201cTake a break from BUIDLing and ask: Where are we now? Where are we going?\u201d by @jemengerhttps://medium.com/@jpitts/take-a-break-from-buidling-and-ask-where-are-we-now-where-are-we-going-5f89c2463d93\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "1013227819080601605": {
+            "id": "1013227819080601605",
+            "text": "Yes to more productive discussions of #Ethereum #Governance that are mission-driven and inclusively focused on community #decisionmaking. Who else is in? #EthMagicians Summer Meeting in Berlin?  @golemproject @web3foundation @coindesk @WalletConnect @gnosisPM @MakerDAO @0xProjecthttps://twitter.com/ParityTech/status/1012646844864843781\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 25,
+            "num_retweets": 8,
+            "num_replies": 2
+        },
+        "1013221926305779712": {
+            "id": "1013221926305779712",
+            "text": "Thanks @LivepeerOrg for your community support and technology support for #EthMagicians Summer Gathering!  We'd love to hire some hands to operate that equipment and provide participatory streaming to those joining us virtually..  Thanks @bmann for getting the page up!https://twitter.com/bmann/status/1010071068621656065\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 8,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1013203348844138497": {
+            "id": "1013203348844138497",
+            "text": "Shoulder up with #EthMagicians in Berlin July 14-15 at @cbase to stand together as we speak diverse perspectives on #communitymatters in #blockchain #governance Join @lrettig @MPtherealMVP @DeanEigenmann @JosefJelacic\n@greg_colvin @cryptowanderer and more\nhttps://ethereum-magicians.github.io/berlin-council/\u00a0https://twitter.com/ETHBerlin/status/1012970500639875073\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 15,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "1012425662987194368": {
+            "id": "1012425662987194368",
+            "text": "#EthMagicians in the #governance #signaling and #stuckether news today. \n\n\"The first step is to build some kind of signaling method so we can figure out what the consensus around a solution is\u2019\u2019 says @thegrifft of @Givethiohttps://www.bloomberg.com/news/articles/2018-06-27/security-or-not-ethereum-s-soul-searching-isn-t-over\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 24,
+            "num_retweets": 5,
+            "num_replies": 3
+        },
+        "1012401121791500294": {
+            "id": "1012401121791500294",
+            "text": "This forum's for all you #EthMagicians out there. One of the topics planned for working group discussion in Berlin July 14-15 is EIPs relating to new opcodes / changes to opcodes.  And here's the list of EIP conversations happening now..https://ethereum-magicians.org/c/eips\u00a0",
+            "username": "EthMagicians",
+            "num_likes": 11,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "1012371106680975360": {
+            "id": "1012371106680975360",
+            "text": "It's a great day to add yourself to the list for #EthMagicians Meeting in Berlin!  What's EIP in your world?https://ethereum-magicians.org/t/wiki-proposed-agenda-for-the-council-of-berlin-set-for-july-14-15-updated/377\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1012139775845953536": {
+            "id": "1012139775845953536",
+            "text": "Participate in the Summer Meeting for #EthMagicians by registering to attend or join the conversation online - what topics are alive for you right now? https://ethereum-magicians.github.io/berlin-council/\u00a0https://twitter.com/bmann/status/1011749748141907969\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 14,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "1010074977989808128": {
+            "id": "1010074977989808128",
+            "text": "Fellowship founding magician @jemenger wrote about how it all began & how he thinks the work will continue in Berlin & beyondhttps://medium.com/@jpitts/take-a-break-from-buidling-and-ask-where-are-we-now-where-are-we-going-5f89c2463d93\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1001216543471030272": {
+            "id": "1001216543471030272",
+            "text": "Are you interested in helping to support the Summer Magicians meeting in Berlin? Check out the sponsorship doc https://docs.google.com/document/d/1oIErPvt0ElTJFypA5S06eYpAxHaF4Cef7DErWHVOT18/edit?usp=sharing\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "1001165728672722946": {
+            "id": "1001165728672722946",
+            "text": "Latest update on the Summer Meeting in Berlin - call for EIP lightning talks, sponsors, & agenda wiki https://ethereum-magicians.github.io/berlin-council/agenda-lightning-eips-sponsors/\u00a0\u2026",
+            "username": "EthMagicians",
+            "num_likes": 13,
+            "num_retweets": 3,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "bmann": 6,
+        "trent_vanepps": 2,
+        "MyCrypto": 2,
+        "KazuakiIshiguro": 2,
+        "lrettig": 6,
+        "nicksdjohnson": 2,
+        "MPtherealMVP": 14,
+        "owocki": 2,
+        "DBrettRobertson": 2,
+        "golemproject": 2,
+        "jemenger": 2
+    },
+    "users_retweeted": [
+        "MPtherealMVP",
+        "bmann",
+        "lrettig",
+        "trent_vanepps",
+        "MyCrypto",
+        "KazuakiIshiguro",
+        "nicksdjohnson",
+        "owocki",
+        "DBrettRobertson",
+        "golemproject",
+        "jemenger"
+    ]
+}

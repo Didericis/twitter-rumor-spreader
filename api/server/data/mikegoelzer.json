@@ -1,0 +1,630 @@
+{
+    "is_complete": true,
+    "username": "mikegoelzer",
+    "retweeted": {
+        "1113194792450527232": {
+            "id": "1113194792450527232",
+            "text": "Congrats on @OpenPolicyAgent making it to the incubator stage. Fine-grained cluster policy control is a recurring issue and excited to see this and makers @styrainc grow!https://twitter.com/OpenPolicyAgent/status/1113108416359092224\u00a0\u2026",
+            "username": "theVSaraswat",
+            "num_likes": 12,
+            "num_retweets": 5,
+            "num_replies": 1
+        },
+        "1112623979313795072": {
+            "id": "1112623979313795072",
+            "text": "LIghthouse #Ethereum 2.0 beacon node!\nTop: #Lighthouse beacon node: #libp2p ready, simplified spec (8 validators - demonstrative)\nMiddle: Validator Client - Gets duties signs/publishes blocks/attestations\nBottom: Second node - Syncs and gossips via #libp2p to first node.pic.twitter.com/gdok9fym1h",
+            "username": "AgeManning",
+            "num_likes": 84,
+            "num_retweets": 18,
+            "num_replies": 2
+        },
+        "1053608324720193536": {
+            "id": "1053608324720193536",
+            "text": "Do you want to hold an open conversation on decentralized messaging? We left some openings for this sort of thing... 11am on Monday, 9am on Tuesday and 9am and 7pm on wednesday :-)pic.twitter.com/6J8s1niSPQ",
+            "username": "thegrifft",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 4
+        },
+        "1054019989076770816": {
+            "id": "1054019989076770816",
+            "text": "Thanks for Xiao Xu's inspiring sharing on #libp2p!\nThis picture is from his keynotes about core modules of libp2p. @IPFSbot @juanbenet @daviddias @flytofuturepic.twitter.com/PykxFx8Gwr",
+            "username": "daijiale6239",
+            "num_likes": 7,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1034509105900052480": {
+            "id": "1034509105900052480",
+            "text": " go-filecoin Demos  Filecoin Roadmap  Research Update and more!  Read the Filecoin Q1 & Q2 Update here https://filecoin.io/blog/update-2018-q1-q2/\u00a0\u2026pic.twitter.com/Khqc2dCuIr",
+            "username": "MineFilecoin",
+            "num_likes": 267,
+            "num_retweets": 104,
+            "num_replies": 10
+        },
+        "1032015092697653248": {
+            "id": "1032015092697653248",
+            "text": "Anyone have good recommendations for Rust focused dev shops and/or consultancies?",
+            "username": "mikeal",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 2
+        },
+        "1031159426907086848": {
+            "id": "1031159426907086848",
+            "text": "What is the TCP/IP and HTTP equivalent for the decentralized web? \n\n@mikegoelzer presents libp2p, a modular networking stack for decentralized peer-to-peer applications. #polkadotsf @libp2p @protocollabshttps://www.youtube.com/watch?v=82_1m__1HI8&feature=youtu.be\u00a0\u2026",
+            "username": "web3foundation",
+            "num_likes": 45,
+            "num_retweets": 12,
+            "num_replies": 2
+        },
+        "998964366077816832": {
+            "id": "998964366077816832",
+            "text": "Announcing IPFS Conf! All welcome in Lisbon, November 2018. Pre-registration is open. https://ipfs.io/blog/37-ipfs-conf-dev-meetings-and-user-registry.md\u00a0\u2026\nMore info coming soon.",
+            "username": "IPFSbot",
+            "num_likes": 87,
+            "num_retweets": 45,
+            "num_replies": 5
+        },
+        "920202529463504896": {
+            "id": "920202529463504896",
+            "text": "It's official!! @Docker will support native kubernetes in it's next release. Sorry @openshift that's checkmate. #Dockerconpic.twitter.com/GJqRzqQYgI",
+            "username": "NicksHarvey",
+            "num_likes": 19,
+            "num_retweets": 17,
+            "num_replies": 12
+        },
+        "844369861501370368": {
+            "id": "844369861501370368",
+            "text": "Come to LL 20D at 7:30pm in \"Meet the #Dockers\" BoF with @chanezon and @mikegoelzer ... ask anything about #Docker at #DevoxxUS",
+            "username": "arungupta",
+            "num_likes": 2,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "831208235000492034": {
+            "id": "831208235000492034",
+            "text": "@mikegoelzer going over @docker scaling and fault tolerance using docker swarm mode. #swarmmode @DeveloperWeekpic.twitter.com/6pbmEjBxae",
+            "username": "Attichris",
+            "num_likes": 10,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "784410554068791296": {
+            "id": "784410554068791296",
+            "text": "#dockersummit is one of the best conferences I have ever attendedpic.twitter.com/6shpq3GEig",
+            "username": "lixtetrax",
+            "num_likes": 14,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "782983630842769408": {
+            "id": "782983630842769408",
+            "text": "Excited for my talk: SwarmKit: @docker\u2019s Simple Model for Complex Orchestration! http://sched.co/7oI8\u00a0 #LinuxCon #ContainerCon @EventsLF",
+            "username": "stevvooe",
+            "num_likes": 44,
+            "num_retweets": 21,
+            "num_replies": 0
+        },
+        "781749211729629184": {
+            "id": "781749211729629184",
+            "text": "Docker's @mikegoelzer will be at #LinuxCon! Make sure to catch his session - Getting Started with #Docker Services on 10/4 @ 2:30PMpic.twitter.com/5h3Vr3SPJx",
+            "username": "Docker",
+            "num_likes": 13,
+            "num_retweets": 10,
+            "num_replies": 0
+        },
+        "768467068366626816": {
+            "id": "768467068366626816",
+            "text": "shout out to @chanwit at #LinuxCon #Dockerpic.twitter.com/AXaXiYhNbB",
+            "username": "vieux",
+            "num_likes": 12,
+            "num_retweets": 9,
+            "num_replies": 1
+        },
+        "767737224204955649": {
+            "id": "767737224204955649",
+            "text": "Check out this example of blue-green deployment using @docker services in swarm-modehttps://github.com/stevvooe/sillyproxy\u00a0\u2026",
+            "username": "stevvooe",
+            "num_likes": 14,
+            "num_retweets": 17,
+            "num_replies": 1
+        },
+        "758883527689576448": {
+            "id": "758883527689576448",
+            "text": "Extremely proud of the entire team behind this. Too many to mention in a single tweet, glad it's finally out there!https://twitter.com/docker/status/758838423088091149\u00a0\u2026",
+            "username": "aluzzardi",
+            "num_likes": 27,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "759190678681202689": {
+            "id": "759190678681202689",
+            "text": ".@docker #swarm team forming like Voltron to inspect the #DockerSwarm2K results @stevvooe @aluzzardi @mikegoelzerpic.twitter.com/lj0O9SH7mC",
+            "username": "dotpem",
+            "num_likes": 45,
+            "num_retweets": 8,
+            "num_replies": 3
+        },
+        "758244625584906240": {
+            "id": "758244625584906240",
+            "text": "impressive line up at #linuxcon #FeelingSoWhale @solomonstre @jpettazo @abronan @chanezon @pvn @mikegoelzer @stevvooe @amirmc, see ya there",
+            "username": "enlamp",
+            "num_likes": 6,
+            "num_retweets": 1,
+            "num_replies": 1
+        },
+        "756679200036093952": {
+            "id": "756679200036093952",
+            "text": "Wow, talk about stress testing an RC! Thank you @chanwit & the entire Docker community for the amazing #DockerSwarm2000 project. Great idea!",
+            "username": "solomonstre",
+            "num_likes": 38,
+            "num_retweets": 21,
+            "num_replies": 1
+        },
+        "753258580212449281": {
+            "id": "753258580212449281",
+            "text": "Commencing @docker hack day @GopherCon!pic.twitter.com/Qx5z74Swu3",
+            "username": "stevvooe",
+            "num_likes": 7,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "744944837820973056": {
+            "id": "744944837820973056",
+            "text": "OH at DockerCon: \u201cI guess I don\u2019t need to pretend I understand Kubernetes any more.\u201d",
+            "username": "charlesfitz",
+            "num_likes": 49,
+            "num_retweets": 25,
+            "num_replies": 0
+        },
+        "743919141858353152": {
+            "id": "743919141858353152",
+            "text": "Power meeting @aluzzardi @chanezon and @mikegoelzer ...prepping for an #awesome @DockerConpic.twitter.com/dCrc90javX",
+            "username": "BettyJunod",
+            "num_likes": 15,
+            "num_retweets": 5,
+            "num_replies": 0
+        },
+        "741636397069684736": {
+            "id": "741636397069684736",
+            "text": "Generating certs for some test on a new #swarm cluster. 10 certs later you think about #SwarmKit and you miss the auto generation so bad",
+            "username": "fteychene",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "702619154059292672": {
+            "id": "702619154059292672",
+            "text": "Tonight @aerospikedb: @jonnyeight & @mikegoelzer @Docker Mountain View #Meetup on @DockerSwarm & #DockerComponents:http://www.meetup.com/Docker-Mountain-View/events/228284089/\u00a0\u2026",
+            "username": "Docker",
+            "num_likes": 3,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "695391204922388480": {
+            "id": "695391204922388480",
+            "text": "Just released @Docker 1.10: New Compose file, improved security, networking and much more! http://blog.docker.com/2016/02/docker-1-10/\u00a0\u2026pic.twitter.com/e21ItKUcSV",
+            "username": "Docker",
+            "num_likes": 331,
+            "num_retweets": 426,
+            "num_replies": 5
+        },
+        "681993289440956418": {
+            "id": "681993289440956418",
+            "text": "Comparison of airgap bypass techniquespic.twitter.com/u1Tbj6Z1wl",
+            "username": "daniel_bilar",
+            "num_likes": 188,
+            "num_retweets": 147,
+            "num_replies": 7
+        },
+        "681829614906437634": {
+            "id": "681829614906437634",
+            "text": "FPGAs are Computronium level 0.1 and are about to hit! https://en.wikipedia.org/wiki/Computronium\u00a0\u2026\nhttp://www.eweek.com/servers/intel-completes-16.7-billion-altera-deal.html\u00a0\u2026pic.twitter.com/xlniez3TlR",
+            "username": "997unix",
+            "num_likes": 0,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "672593960628563970": {
+            "id": "672593960628563970",
+            "text": "Firmament is a new scheduler for Kubernetes that tries to optimize across competing priorities http://buff.ly/1lwOVW5\u00a0",
+            "username": "samcharrington",
+            "num_likes": 6,
+            "num_retweets": 8,
+            "num_replies": 0
+        },
+        "656610460851003392": {
+            "id": "656610460851003392",
+            "text": "Corner Howard & 6st in SF /cc @dockerpic.twitter.com/prcagYpy0V",
+            "username": "vieux",
+            "num_likes": 71,
+            "num_retweets": 67,
+            "num_replies": 5
+        }
+    },
+    "tweeted": {
+        "1102482328620879872": {
+            "id": "1102482328620879872",
+            "text": "Hello Paris.  #EthCC, here I come.pic.twitter.com/hj792xT3mN",
+            "username": "mikegoelzer",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "1072155631065346048": {
+            "id": "1072155631065346048",
+            "text": "Come join the @libp2p team, from anywhere on the globe.  We're looking for folks who could help fill these roles.  DM for application process.https://twitter.com/raulvk/status/1072153431408816130\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 8,
+            "num_retweets": 2,
+            "num_replies": 0
+        },
+        "1058725306515709957": {
+            "id": "1058725306515709957",
+            "text": "Flying back from an awesome DevCon4.  So many #libp2p friends, fans and users.  Look forward to working with you all in the coming months.https://twitter.com/raulvk/status/1058712044277510144\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "958827822407012353": {
+            "id": "958827822407012353",
+            "text": "Verifying myself: I am mgoelzer on http://Keybase.io\u00a0. Fv8ZGBMnlPVPjHuaG6L-ikVuueYlwEry9zGR / https://keybase.io/mgoelzer/sigs/Fv8ZGBMnlPVPjHuaG6L-ikVuueYlwEry9zGR\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "952009693919985664": {
+            "id": "952009693919985664",
+            "text": "I requested a USD wire transfer out of #Kraken recently and it came through to my bank successfully today.  Not affiliated with them, not shilling, just an observation. #krakendown #cryptocurrency #krakenfx",
+            "username": "mikegoelzer",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "943311797334847488": {
+            "id": "943311797334847488",
+            "text": "Coinbase is undergoing a major mis-pricing debacle right now, and folks are going to make or lose real money on this.https://medium.com/@mikegoelzer/coinbase-bch-pricing-debacle-947bbcd62560\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "936040463651540993": {
+            "id": "936040463651540993",
+            "text": "Resisting organic evolution of language is usually a losing battle, but I respect the purism here.https://twitter.com/lorenzoFB/status/935596617549434886\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "926532508904079361": {
+            "id": "926532508904079361",
+            "text": "I just published \u201cBitcoin Hard Forks: An Explain It Like I\u2019m Five\u201d https://medium.com/@mgoelzer/bitcoin-hard-forks-an-explain-it-like-im-five-b10bbe5b99ac\u00a0\u2026 https://cdn-images-1.medium.com/max/800/1*iliEFwbGiUj_FjjU1_kE-w.png\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "907793150969757696": {
+            "id": "907793150969757696",
+            "text": "Moon setting over the Seine, early morning, July 2017pic.twitter.com/Cy8LFx8lCn",
+            "username": "mikegoelzer",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "858822138857312256": {
+            "id": "858822138857312256",
+            "text": "Highway 89, between Jackson and Alpine, Wyomingpic.twitter.com/hTaUYyUf9t",
+            "username": "mikegoelzer",
+            "num_likes": 6,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "831243116405403648": {
+            "id": "831243116405403648",
+            "text": "Had a great time at my DeveloperWeek talk.  The audience was so engaged, great questions, great energy!https://twitter.com/Attichris/status/831208235000492034\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 8,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "795722186019381248": {
+            "id": "795722186019381248",
+            "text": "Excited to be at #KubeCon this week and learn more about this community.",
+            "username": "mikegoelzer",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "784318468673851392": {
+            "id": "784318468673851392",
+            "text": "Aaron Lehmann explaining immutable radix trees and how they enable fast snapshots #dockersummit #swarmkit #dockerpic.twitter.com/5hl3B2tbaU",
+            "username": "mikegoelzer",
+            "num_likes": 5,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "784291640173223936": {
+            "id": "784291640173223936",
+            "text": "Audience filing in at @docker Distributed Systems Summit in Berlin #DockerSummitpic.twitter.com/GRy6ldSVuS",
+            "username": "mikegoelzer",
+            "num_likes": 7,
+            "num_retweets": 4,
+            "num_replies": 0
+        },
+        "783198058507038721": {
+            "id": "783198058507038721",
+            "text": "Doing a @docker Orchestration talk this afternoon at ContainerCon Berlin. http://sched.co/7oHD\u00a0 #LinuxCon #ContainerCon @EventsLF",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "780779428267827200": {
+            "id": "780779428267827200",
+            "text": "Good luck!  Looks like a great talk.",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "778314294211469312": {
+            "id": "778314294211469312",
+            "text": "If you're in San Jose on Thursday evening, I'm doing a talk on Docker Orchestration at Brocade.  Free pizza!https://twitter.com/docker/status/778292679247589376\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "771374838808088576": {
+            "id": "771374838808088576",
+            "text": "Joshua Tree National Parkpic.twitter.com/lSDZzHmuQC",
+            "username": "mikegoelzer",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "768468559529910272": {
+            "id": "768468559529910272",
+            "text": "My colleague and friend @vieux talking about Docker orchestration #LinuxConpic.twitter.com/WkCWLuRqUD",
+            "username": "mikegoelzer",
+            "num_likes": 4,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "767764290560327680": {
+            "id": "767764290560327680",
+            "text": "Docker's LinuxCon booth abuzz with interested userspic.twitter.com/v0PngAFT0p",
+            "username": "mikegoelzer",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "744940424675004418": {
+            "id": "744940424675004418",
+            "text": "Backstage keynote green room.  #dockerconpic.twitter.com/biZu9bad5P",
+            "username": "mikegoelzer",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "744697742803361792": {
+            "id": "744697742803361792",
+            "text": "Tomorrow @aluzzardi & I will present Docker 1.12 in front of 4,000 people.  Should be interesting. #DockerConhttps://twitter.com/AanandPrasad/status/744665839543058436\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 9,
+            "num_retweets": 2,
+            "num_replies": 3
+        },
+        "707641606627700737": {
+            "id": "707641606627700737",
+            "text": "Detailed blog post comparing Swarm and K8s performance at scale:  https://medium.com/on-docker/evaluating-container-platforms-at-scale-5e7b44d93f2c\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "707282316352040960": {
+            "id": "707282316352040960",
+            "text": "#SwarmWeek: Get to know (my friends!) the Swarm maintainers https://blog.docker.com/2016/03/swarmweek-swarm-maintainers/\u00a0\u2026 via @docker",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "702910976081813504": {
+            "id": "702910976081813504",
+            "text": "Awesome overview of our new Docker Datacenter last night by @banjot at #Aerospikepic.twitter.com/0AdM6SYySu",
+            "username": "mikegoelzer",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "702683024974983168": {
+            "id": "702683024974983168",
+            "text": "Excited to be speaking at the #aerospike meetup tonight about Docker Swarm!",
+            "username": "mikegoelzer",
+            "num_likes": 8,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "700169650361872384": {
+            "id": "700169650361872384",
+            "text": "Currently averaging two meetups a week!https://twitter.com/davenielsen/status/700161891503439872\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 4,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "697584157543694336": {
+            "id": "697584157543694336",
+            "text": "Vote for my panel at the OpenStack Summit!  https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7826\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 2,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "695427894462402562": {
+            "id": "695427894462402562",
+            "text": "http://www.meetup.com/SVDevOps/events/228257407/\u00a0\u2026 Come see my talk on load balancing with Docker Swarm! #ContainerNight #cw16",
+            "username": "mikegoelzer",
+            "num_likes": 3,
+            "num_retweets": 1,
+            "num_replies": 0
+        },
+        "684194320778317824": {
+            "id": "684194320778317824",
+            "text": "@joshblackfr I'm a Swarm expert!  DM me or email mike.goelzer@docker.com and I'll help you out.",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "681824945224192001": {
+            "id": "681824945224192001",
+            "text": "Blog post on manually setting up a simple Swarm 1.0 cluster with multi-host networking.  http://goelzer.com/blog/2015/12/29/docker-swarmoverlay-networks-manual-method/\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 8,
+            "num_retweets": 3,
+            "num_replies": 0
+        },
+        "679393640767086592": {
+            "id": "679393640767086592",
+            "text": "And we've tested it at very high acceleration, so it should work great in space.",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 1
+        },
+        "676812667282046978": {
+            "id": "676812667282046978",
+            "text": "the @mattlemay post is thought provoking and well reasoned.  how to hire PMs, what makes them good or bad, etc.https://twitter.com/jambay/status/676120020297105408\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672620935594115072": {
+            "id": "672620935594115072",
+            "text": "I just learned that systemd code #defines a \"do\" \"cker.io\" const just so that grepping the code for \"docker\" returns nothing.  Jeez.",
+            "username": "mikegoelzer",
+            "num_likes": 3,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672619781820801025": {
+            "id": "672619781820801025",
+            "text": "Watching @jpetazzo explaining history of containers with my friend @mreiderpic.twitter.com/WZOS1F6efC",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "672091765130715136": {
+            "id": "672091765130715136",
+            "text": "Unikernals are continuing to proliferate!  Haven't checked this one out yet.  https://news.ycombinator.com/item?id=10661746\u00a0\u2026",
+            "username": "mikegoelzer",
+            "num_likes": 3,
+            "num_retweets": 2,
+            "num_replies": 1
+        },
+        "664281012180942848": {
+            "id": "664281012180942848",
+            "text": "At Flynn Stable meetup. \"Next gen\" paas, buildpack based, 0-downtime updater, integrates into git push workflow.  #AWSloft",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "664280606189027329": {
+            "id": "664280606189027329",
+            "text": "Overlay network, scheduler, HA postgres.  Controller with http api.  Backed by flannel and discoverd. #flynn",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659558893643657216": {
+            "id": "659558893643657216",
+            "text": "stateful containers through volume plugins in 1.9 #dockermeetup",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "659558529783607296": {
+            "id": "659558529783607296",
+            "text": "libnetwork (cross host overlay network) is going to stable in 1.9 #dockermeetup",
+            "username": "mikegoelzer",
+            "num_likes": 1,
+            "num_retweets": 0,
+            "num_replies": 0
+        },
+        "653364632262868992": {
+            "id": "653364632262868992",
+            "text": "Yeah, good article.  Look forward to discussing it with you, @jambay",
+            "username": "mikegoelzer",
+            "num_likes": 0,
+            "num_retweets": 0,
+            "num_replies": 0
+        }
+    },
+    "num_retweets_by_originator": {
+        "theVSaraswat": 1,
+        "AgeManning": 1,
+        "thegrifft": 1,
+        "daijiale6239": 1,
+        "MineFilecoin": 1,
+        "mikeal": 1,
+        "web3foundation": 1,
+        "IPFSbot": 1,
+        "NicksHarvey": 1,
+        "arungupta": 1,
+        "Attichris": 1,
+        "lixtetrax": 1,
+        "stevvooe": 3,
+        "Docker": 3,
+        "vieux": 2,
+        "aluzzardi": 1,
+        "dotpem": 1,
+        "enlamp": 1,
+        "solomonstre": 1,
+        "charlesfitz": 1,
+        "BettyJunod": 1,
+        "fteychene": 1,
+        "daniel_bilar": 1,
+        "997unix": 1,
+        "samcharrington": 1
+    },
+    "users_retweeted": [
+        "stevvooe",
+        "Docker",
+        "vieux",
+        "theVSaraswat",
+        "AgeManning",
+        "thegrifft",
+        "daijiale6239",
+        "MineFilecoin",
+        "mikeal",
+        "web3foundation",
+        "IPFSbot",
+        "NicksHarvey",
+        "arungupta",
+        "Attichris",
+        "lixtetrax",
+        "aluzzardi",
+        "dotpem",
+        "enlamp",
+        "solomonstre",
+        "charlesfitz",
+        "BettyJunod",
+        "fteychene",
+        "daniel_bilar",
+        "997unix",
+        "samcharrington"
+    ]
+}
